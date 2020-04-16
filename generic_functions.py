@@ -56,6 +56,15 @@ def read_utf8(fic):
   f.close()
   return str_text
 
+def get_json(path):
+  """
+  from a json path, returns a Pyton data structure
+  """
+  f = open(path)
+  d = json.load(f)
+  f.close()
+  return d
+
 def write_utf8(path, content):
   """
   Write the file

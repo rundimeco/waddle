@@ -10,3 +10,11 @@ NB: If you are a windows user, take a look at this page : https://projects.raspb
 
 now you can run this command:
 python test_all_tools.py
+
+
+Directories :
+  Corpus/html 	 	raw html files
+
+  Corpus/cleaned	cleaned file, one directory by tool
+
+  Corpus/reference	reference cleaning version (needed for evaluation)

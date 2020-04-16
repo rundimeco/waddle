@@ -6,6 +6,9 @@ import time
 from tools import *
 from generic_functions import *
 
+import warnings
+warnings.simplefilter("ignore")
+
 options = get_args()
 source = "html" #
 corpus_base = options.corpus_base
@@ -26,10 +29,11 @@ modes ={
 	"READABILITY":[""]
 	}
 
+## TODO: send warnings to a log
 diagnostic = {"empty_files":{}}
 for tool in modes.keys():
   for mode in modes[tool]:
-    destination = "%s/%s%s"%(corpus_base,tool, mode)
+    destination = "%s/cleaned/%s%s"%(corpus_base,tool, mode)
     print("tool (Mode) :: %s(%s)"%(tool, mode))
     is_done = check_done(destination, corpus_base, options)
     if is_done==True and options.force==False:
@@ -44,5 +48,6 @@ for tool in modes.keys():
         diagnostic.setdefault(namefic,  [])
         diagnostic[namefic].append([tool, mode])
       write_utf8(path_out, "\n".join(list_paragraphs))
+
 import json
 write_utf8("diagnostics.json", json.dumps(diagnostic, indent= 2))
