@@ -1,0 +1,580 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type">
+  <title>NEWS.BCM.RU :: Учёные выяснили, что по цвету продуктов можно определить их полезность</title>
+  <base href="http://news.bcm.ru/">
+  <link rel="shortcut icon" href="http://news.bcm.ru/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" type="text/css" href="css/style_v19.css">
+  <link rel="stylesheet" type="text/css" href="css/style_bcm_hot_v4.css">
+  <meta http-equiv="imagetoolbar" content="no">
+  <meta name="author" content="Interline Pro Co.">
+  <meta name="keywords" content="">
+  <meta name="Description" content="">
+  <script type="text/javascript" src="http://news.bcm.ru/js/jquery.js"></script>
+  <script type="text/javascript" src="http://news.bcm.ru/js/thickbox.js"></script>
+  <script type="text/javascript">
+   function get_addon() {$("#addon"+get_addon.arguments[1]).load("addon_tab/"+get_addon.arguments[0]+"/"+get_addon.arguments[1]);}
+   function set_cal() {$("#calendar").load("calendar/"+set_cal.arguments[0]);}
+   function setImg(i)
+     {
+      $('.img_on').removeClass('img_on').addClass('img_off');
+      $('.hdr_on').removeClass('hdr_on').addClass('hdr_off');
+      $('#i'+i).removeClass('img_off').addClass('img_on');
+      $('#t'+i).removeClass('hdr_off').addClass('hdr_on');
+     }
+  </script>
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-4801501315495404");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-4801501315495404", "flash240x400");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+</head>
+<body>
+<div id="wrapper">
+<center>
+<!-- AdEngine Code START -->
+<!-- 728x90 -->
+<script language="JavaScript"><!--
+function k_ph(p){document.write('<div id="kph'+p+'" style="display:none"><\/div>');}
+function k_c(p){document.write('<div style="visibility:hidden;position:absolute"><iframe id="k_c'+p+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');}
+function k_getCode(n,p,s){
+var d;
+if(n<10){try{if(document.all && !window.opera){d = window.frames['k_c'+p].document;}
+else if(document.getElementById){d=document.getElementById('k_c'+p).contentDocument;}}catch(e){}
+if(d){d.write('<scr'+'ipt type="text/javascript">var kphid="kph'+p+'";<\/scr'+'ipt>');
+d.write('<scr'+'ipt type="text/javascript" src="'+s+'"><\/scr'+'ipt>');}
+else {setTimeout('k_getCode('+(++n)+','+p+',"'+s+'")', 100);}
+}}
+if (typeof(document.referrer) != 'undefined') {afReferrer = escape(document.referrer);}
+else {afReferrer = '';}
+var addate = new Date();
+if ('undefined' == typeof(kav_cn)){ var kav_cn = 0; } else {++kav_cn;}
+k_ph(kav_cn); k_c(kav_cn);
+k_getCode(1,kav_cn,'http://b.kavanga.ru/exp?sid=3514&bt=7&bn=1&bc=3&ct=2&pr=' + Math.round(Math.random()*100000) + '&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer);
+//-->
+</script>
+<!-- AdEngine Code FINISH -->
+</center>
+  <!-- Header start -->
+  <div id="header">
+    <div id="logo"><a href=""><img src="img/logo.jpg" width="370" height="60" alt="NEWS.BCM.RU" border="0"></a></div>
+    <div class="topline">18:58 28.11.2011 г.</div>
+  </div>
+  <div id="bcm_links">
+    <div class="item"><a href="http://realty.bcm.ru/" target="_blank">Недвижимость</a></div>
+    <div class="icon"><a href="http://realty.bcm.ru/" target="_blank"><img src="img/realty.gif"></a></div>
+    <div class="item"><a href="http://www.bcm.ru/cross" target="_blank">Кроссворды</a></div>
+    <div class="icon"><a href="http://www.bcm.ru/cross" target="_blank"><img src="img/cross1.gif"></a></div>
+    <div class="item"><a href="http://kids.bcm.ru/" target="_blank">Детский портал</a></div>
+    <div class="icon"><a href="http://kids.bcm.ru/" target="_blank"><img src="img/kids1.gif"></a></div>
+    <div class="item"><a href="http://www.bcm.ru/" target="_blank">Каталог</a></div>
+    <div class="icon"><a href="http://www.bcm.ru/" target="_blank"><img src="img/cat1.gif"></a></div>
+  </div>
+  <div id="mainmenu">
+    <ul>
+      <li><a href="">НОВОСТИ</a></li>
+      <li class="sep"></li>
+      <li><a href="articles/1">СТАТЬИ</a></li>
+      <li class="sep"></li>
+      <li><a href="video/1">ВИДЕО</a></li>
+      <li class="sep"></li>
+      <li><a href="topics/1">СЮЖЕТЫ</a></li>
+      <li class="sep"></li>
+      <li><a href="galleries/1">ФОТОГАЛЕРЕИ</a></li>
+      <li class="sep"></li>
+      <li><a href="comments/by_date/1">КОММЕНТЫ</a></li>
+      <li class="sep"></li>
+      <li><a href="regions">РЕГИОНЫ</a></li>
+      <li class="sep"></li>
+      <li><a href="rss.xml">RSS</a></li>
+      <li class="sep"></li>
+      <li><a href="archive">АРХИВ</a></li>
+      <li class="sep"></li>
+      <li><a href="autors">АВТОРЫ</a></li>
+    </ul>
+      <div class="lang"><a href="http://www.newsbcm.com/">English version</a></div>
+      <div style="float: right;"><a href="http://www.newsbcm.com/"><img src="img/gb.png" width="22" height="22" border="0"></a></div>
+  </div>
+  <!-- End of header -->
+  <!-- Middle area start -->
+  <div id="middle">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="240" valign="top">
+          <!-- Left column start -->
+          <div id="left">
+                        <h1>Новости</h1>
+            <ul>
+                              <li><a href="russia">В России</a></li>
+                              <li><a href="world">В мире</a></li>
+                              <li><a href="economics">Экономика и бизнес</a></li>
+                              <li><a href="culture_and_art">Культура и искусство</a></li>
+                              <li><a href="sport">Спорт</a></li>
+                              <li><a href="auto">Авто</a></li>
+                              <li><a href="science_and_education">Наука и образование</a></li>
+                              <li><a href="obscure_and_ufo">Непознанное, НЛО</a></li>
+                              <li><a href="internet_and_hi-tech">Интернет и Hi-Tech</a></li>
+                              <li><a href="games">Игры</a></li>
+                              <li><a href="medicine_and_health">Медицина и здоровье</a></li>
+                              <li><a href="realty">Недвижимость</a></li>
+                              <li><a href="ecology">Экология</a></li>
+                              <li><a href="society">Общество</a></li>
+                              <li><a href="elections_in_russia">Выборы в России</a></li>
+                              <li><a href="religion">Религия</a></li>
+                              <li><a href="criminal">Преступность</a></li>
+                              <li><a href="incidents">Происшествия</a></li>
+                              <li><a href="humour">Юмор</a></li>
+                              <li><a href="narodnyiy_reportaj">Народный репортаж</a></li>
+                           </ul>
+                      </div>
+
+<!-- flash240x400 -->
+<script type='text/javascript'>
+GA_googleFillSlot("flash240x400");
+</script>
+<br>
+
+<!-- AdEngine Code START -->
+<!-- Новостной портал -->
+<!-- 240x400 -->
+<script language="JavaScript"><!--
+function k_ph(p){document.write('<div id="kph'+p+'" style="display:none"><\/div>');}
+function k_c(p){document.write('<div style="visibility:hidden;position:absolute"><iframe id="k_c'+p+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');}
+function k_getCode(n,p,s){
+var d;
+if(n<10){try{if(document.all && !window.opera){d = window.frames['k_c'+p].document;}
+else if(document.getElementById){d=document.getElementById('k_c'+p).contentDocument;}}catch(e){}
+if(d){d.write('<scr'+'ipt type="text/javascript">var kphid="kph'+p+'";<\/scr'+'ipt>');
+d.write('<scr'+'ipt type="text/javascript" src="'+s+'"><\/scr'+'ipt>');}
+else {setTimeout('k_getCode('+(++n)+','+p+',"'+s+'")', 100);}
+}}
+if (typeof(document.referrer) != 'undefined') {afReferrer = escape(document.referrer);}
+else {afReferrer = '';}
+var addate = new Date();
+if ('undefined' == typeof(kav_cn)){ var kav_cn = 0; } else {++kav_cn;}
+k_ph(kav_cn); k_c(kav_cn);
+k_getCode(1,kav_cn,'http://b.kavanga.ru/exp?sid=3514&bt=5&bn=1&bc=3&ct=2&pr=' + Math.round(Math.random()*100000) + '&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer);
+//-->
+</script>
+<!-- AdEngine Code FINISH -->
+
+<br><br>
+          <div class="comments_block">
+ <div class="bar">Последние комментарии</div>
+  <div class="date">27.11.2011 14:08</div>
+ <div class="head"><a href="russia/2011/11/27/330176/1">Господа чиновники ЕдРосы проводят съезд партии &quot;Единая Россия&quot; на бюджетные, народные деньги</a></div>
+  <div class="date">24.10.2011 20:38</div>
+ <div class="head"><a href="russia/2011/10/24/309945/1">Женщины могут забыть о пенсии в 55, а мужчины в 60 лет ЕдРосы и ОНФигисты придумали как поднять пенсионный возраст россиян в обход закона</a></div>
+  <div class="date">15.11.2011 13:27</div>
+ <div class="head"><a href="world/2011/11/15/324538/1">США собираются развернуть ракеты ПРО в морях вокруг России, Россия готовит ответ…</a></div>
+  <div class="date">24.09.2010 12:20</div>
+ <div class="head"><a href="society/2010/9/24/12135/1">1 января 2011 года вступит в силу новый закон &quot;О полиции&quot;</a></div>
+  <div class="date">27.11.2011 16:53</div>
+ <div class="head"><a href="culture_and_art/2011/11/27/329912/1">Беременность подарила Кристине Орбакайте пухлые губки</a></div>
+  <div class="all"><a href="comments/by_date/1">Все &raquo;</a></div>
+ <div style="clear: both;"></div>
+</div>
+<br>          <div class="comments_block">
+ <div class="bar">Самое комментируемое</div>
+  <div class="date">09.06.2011 17:27</div>
+ <div class="head"><a href="russia/2011/6/09/130993/1">&quot;Власть Семей-2011. Правительство. Часть 1.&quot; Сердюков Анатолий Эдуардович</a> (31)</div>
+  <div class="date">04.10.2011 14:24</div>
+ <div class="head"><a href="medicine_and_health/2011/10/04/284324/1">Любовь внесли в реестр психических заболеваний ВОЗ</a> (29)</div>
+  <div class="date">08.09.2010 18:00</div>
+ <div class="head"><a href="culture_and_art/2010/9/08/11292/1">Ирина Понаровская покинет Россию из-за нападения скинхедов на ее темнокожего сына</a> (25)</div>
+  <div class="date">18.07.2011 14:41</div>
+ <div class="head"><a href="russia/2011/7/18/179084/1">Полицайские зассанцы из культурной столицы России</a> (23)</div>
+  <div class="date">09.04.2011 19:18</div>
+ <div class="head"><a href="culture_and_art/2011/4/09/59162/1">Никита Михалков не намерен отдавать мигалку Ебардею Гордеевичу</a> (22)</div>
+  <div class="all"><a href="comments/by_rate/1">Все &raquo;</a></div>
+ <div style="clear: both;"></div>
+</div>
+<br><!-- Яндекс.Директ -->
+<script type="text/javascript">
+yandex_partner_id = 50293;
+yandex_site_bg_color = 'FFFFFF';
+yandex_site_charset = 'utf-8';
+yandex_ad_format = 'direct';
+yandex_font_size = 0.9;
+yandex_direct_type = 'vertical';
+yandex_direct_limit = 9;
+yandex_direct_title_color = 'D40202';
+yandex_direct_url_color = '006600';
+yandex_direct_all_color = '0000CC';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = 'D40202';
+yandex_direct_favicon = false;
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+</script>
+<br>
+<!-- MarketNews Start -->
+<div id="MarketGid6023"><center><a href="http://marketgid.com/" target="_blank">Загрузка...</a></center></div>
+<!-- MarketNews End -->
+          <!-- End of left column -->
+        </td>
+        <td valign="top">
+          <!-- Content start -->
+          <div id="content">
+<center>
+<!-- AdEngine Code START -->
+<!-- Новостной портал -->
+<!-- 500x300 -->
+<script language="JavaScript"><!--
+function k_ph(p){document.write('<div id="kph'+p+'" style="display:none"><\/div>');}
+function k_c(p){document.write('<div style="visibility:hidden;position:absolute"><iframe id="k_c'+p+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');}
+function k_getCode(n,p,s){
+var d;
+if(n<10){try{if(document.all && !window.opera){d = window.frames['k_c'+p].document;}
+else if(document.getElementById){d=document.getElementById('k_c'+p).contentDocument;}}catch(e){}
+if(d){d.write('<scr'+'ipt type="text/javascript">var kphid="kph'+p+'";<\/scr'+'ipt>');
+d.write('<scr'+'ipt type="text/javascript" src="'+s+'"><\/scr'+'ipt>');}
+else {setTimeout('k_getCode('+(++n)+','+p+',"'+s+'")', 100);}
+}}
+if (typeof(document.referrer) != 'undefined') {afReferrer = escape(document.referrer);}
+else {afReferrer = '';}
+var addate = new Date();
+if ('undefined' == typeof(kav_cn)){ var kav_cn = 0; } else {++kav_cn;}
+k_ph(kav_cn); k_c(kav_cn);
+k_getCode(1,kav_cn,'http://b.kavanga.ru/exp?sid=3514&bt=15&bn=1&bc=1&ct=2&pr=' + Math.round(Math.random()*100000) + '&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer);
+//-->
+</script>
+<!-- AdEngine Code FINISH -->
+</center>
+           <script type='text/javascript'>
+function toggleItem(elid)
+ {
+  var el = document.getElementById(elid);
+  if (el == null) return;
+  if (el.style.display == '') el.style.display = 'none';
+  else el.style.display = '';
+ }
+function preview()
+ {
+  var uname = document.getElementById("uname").value;
+  var ucomment = document.getElementById("ucomment").value;
+  $.post("post/preview", {un: uname, uc: ucomment}, function(data){$('#preview').html(data); });
+  document.getElementById('preview').style.display='block';
+ }
+function send()
+ {
+  var did = document.getElementById("docid").value;
+  var uname = document.getElementById("uname").value;
+  var uemail = document.getElementById("uemail").value;
+  var ucomment = document.getElementById("ucomment").value;
+  var ucaptcha = document.getElementById("captcha").value;
+  var uagree = (document.getElementById("agree").checked)?1:0;
+  $.post("post/save", {um: uemail, un: uname, uc: ucomment, captcha: ucaptcha, agree: uagree, docid: did}, function(data){$('#comment_form').html(data); });
+ }
+function set_page()
+ {
+  var page = parseInt(document.getElementById("page").value, 10);
+  var base;
+  if (document.baseURI === undefined)
+     {
+      var baseTags = document.getElementsByTagName ("base");
+      if (baseTags.length > 0) base = baseTags[0].href;
+      else base = window.location.href;
+     }
+  else base = document.baseURI;
+  if(isNaN(page) || page<1) return false;
+  else window.location=base+'medicine_and_health/2011/11/27/330021/'+page+'#comments';
+ }
+</script>
+
+  <div id="doc_head">
+    <h1><a href="medicine_and_health">Медицина и здоровье</a></h1>    <div class="date0">27.11.2011 23:17</div>
+          <div class="img0"><img src="http://m001.bcm.ru/2114/7ca0e145-414c-4c3f-95e6-92e70239f559_L.jpg" width="240" height="180" alt="Учёные выяснили, что по цвету продуктов можно определить их полезность. Фото с сайта yandex.ru"></div>
+      <p class="alt">Учёные выяснили, что по цвету продуктов можно определить их полезность. Фото с сайта yandex.ru</p>
+      </div>
+
+  <div id="doc_body">
+        <h2>Учёные выяснили, что по цвету продуктов можно определить их полезность</h2>
+    <div>
+        В результате проведённых исследований группа учёных из Японии выяснили, что те или иные полезные свойства продуктов можно определить по их цвету. Соотношение полезности продуктов и их цвета исследователи выясняли на примере фруктовых и овощных соков.
+<br />&nbsp;<br />
+Исследователи утверждают, что фруктовые и овощные соки красных цветов имеют свойство ускорять кровоток и поддерживать энергетический баланс в организме. Такие соки особенно полезно пить тем, у кого имеется склонность к развитию недугов сердечно-сосудистой системы.
+<br />&nbsp;<br />
+Чтобы избавиться от унылого или вовсе депрессивного настроения следует отдавать предпочтение соку оранжевого цвета.
+<br />&nbsp;<br />
+А вот очистить кровь и привести в нормальное состояние нервную систему или просто расслабиться помогут соки зелёного цвета.
+<br />&nbsp;<br />
+Для того чтобы поднять тонус, а также для тех, кто склонен к мигреням, прекрасно подойдут соки синего цвета.
+<br />&nbsp;<br />
+Выведенная учёными классификация уже заинтересовала диетологов, которые составили рекомендации, которые помогут людям всегда оставаться жизнерадостными и здоровыми. Так, специалисты советуют разделить все продукты по цветам и не употреблять в пищу блюда разных цветов в один день, а раз в неделю и вовсе устраивать себе бесцветный день, в который можно пить одну воду.
+        
+<br><br>
+          <h3>Смотрите также</h3>
+            <p class="also">03.11.2011 17:40 <a href="ecology/2011/11/03/319492/1">Происхождение слова &quot;вегетарианство&quot;</a></p>
+            <p class="also">30.09.2011 10:10 <a href="medicine_and_health/2011/9/30/280812/1">Самая чудовищная ложь, которой нас потчует пищевая промышленность</a></p>
+            <p class="also">16.09.2011 13:44 <a href="medicine_and_health/2011/9/16/261926/1">Найдено новое свойство шоколада</a></p>
+            <p class="also">12.09.2011 12:09 <a href="medicine_and_health/2011/9/12/254488/1">Как определить качество меда?</a></p>
+            <p class="also">10.09.2011 08:15 <a href="medicine_and_health/2011/9/10/252761/1">Опровержение мифов о прививках</a></p>
+                  </div>
+  </div>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">
+var addthis_config = {
+     ui_language: "ru"
+}
+</script>
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style " style="float: right;">
+<a class="addthis_button_compact"></a>
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_preferred_5"></a>
+<a class="addthis_button_preferred_6"></a>
+<a class="addthis_button_preferred_7"></a>
+</div>
+<div style="float: right; font-weight: bold;">Добавить в закладки и поделиться:&nbsp;</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d187150575ef192"></script>
+<!-- AddThis Button END -->
+<div style="clear: both;">&nbsp;</div>
+<!-- AddThis Button END -->
+
+      <a name="comments"></a>
+        <div class="uc_bar">Комментариев: 0</div>
+    <div id="u_comments">
+          
+
+  
+
+              <div id="comment_form"><br>
+<div id="preview" class="preview"></div>
+<fieldset class="msg">
+  <legend class="msg">Ваше сообщение</legend>
+    <form>
+    <input type="hidden" name="docid" id="docid" value="330021">
+    <div class="tlabel">Ваше имя:</div>
+    <div><input type="text" name="uname" id="uname" class="inpt2" value=""></div>
+    <div class="uc_description">
+      Мы не требуем обязательного указания имени, Вы можете оставить это поле пустым, при этом Ваш комментарий будет
+      опубликован со стандартным именем &laquo;Гость&raquo;.
+    </div>
+
+    <div class="tlabel">Ваш e-mail адрес:</div>
+    <div><input type="text" name="uemail" id="uemail" class="inpt2" value=""></div>
+    <div class="uc_description">
+      Если Ваш комментарий подразумевает какую-то реакцию на него или Вы считаете что он, возможно, может послужить
+      основой для самостоятельной публикации (см. <a href="rules">Правила размещения комментариев</a>), укажите
+      свой действующий e-mail адрес для того, чтобы мы могли связаться с Вами. В противном случае оставьте это поле пустым.
+    </div>
+
+    <div class="tlabel">Комментарий:</div>
+    <div><textarea name="ucomment" id="ucomment" class="ucomment"></textarea></div>
+    <div class="uc_description">
+      Текст комментария должен быть указан. В нем не могут быть использованы html-коды и ссылки. Также действуют
+      некоторые другие ограничения. Подробно об этом Вы можете узнать из <a href="rules">Правил размещения комментариев</a>.
+    </div>
+
+    <div class="container">
+      <input type="checkbox" name="agree" id="agree" value="1"> Подтверждаю что я прочитал <a href="rules">Правила размещения комментариев</a> и согласен соблюдать их.
+    </div>
+
+    <div class="tlabel">Защитный код:</div>
+    <div><img src="captcha.jpg?sid=1322492330.695" width="120" height="72" id="captchaimg" title="Обновить изображение" onclick="this.src='captcha.jpg?sid='+Math.random();"></div>
+    <div><input type="text" name="captcha" id="captcha" class="inpt2"></div>
+    <div class="uc_description">
+      Введите код, изображенный на картинке выше. Если Вы не можете прочесть его,обновите изображение кликнув на него.
+    </div>
+
+    <div class="container">
+      <input type="button" value="Предпросмотр" class="btn4" onclick="preview();">
+      <input type="button" value="Отправить" class="btn4" onclick="send();">
+    </div>
+  </form>
+</fieldset>
+</div>
+          </div>
+  <br>
+<div class="part">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" valign="top" class="greycell">
+        <h2><a href="">Медицина и здоровье</a></h2>
+                  <div class="block">
+                          <div class="img2"><a href="medicine_and_health/2011/11/28/330034/1"><img src="http://m001.bcm.ru/2115/b84c6f2e-4f9d-4365-8e10-c03dbf2524f7_M.jpg" width="60" height="45" alt="В Великобритании заражённые ВИЧ медики смогут заниматься врачебной практикой. Фото с сайта ukranews.com"></a></div>
+                        <h3><a href="medicine_and_health/2011/11/28/330034/1"><span style="font-size: 11px; font-weight: normal;">28.11 01:17</span> В Великобритании заражённые ВИЧ медики смогут заниматься врачебной практикой</a></h3>
+          </div>
+                  <div class="block">
+                          <div class="img2"><a href="medicine_and_health/2011/11/28/330032/1"><img src="http://m001.bcm.ru/2114/b9bd747b-6941-4b06-bdf3-1fd4979287d4_M.jpg" width="60" height="45" alt="Здоровый сон поможет преодолеть стресс. Фото с сайта peroni.ru"></a></div>
+                        <h3><a href="medicine_and_health/2011/11/28/330032/1"><span style="font-size: 11px; font-weight: normal;">28.11 00:03</span> Здоровый сон поможет преодолеть стресс</a></h3>
+          </div>
+                  <div class="block">
+                          <div class="img2"><a href="medicine_and_health/2011/11/27/330003/1"><img src="http://m001.bcm.ru/2114/843184ca-1fbd-4ff4-b116-d3894666b733_M.jpg" width="60" height="45" alt="Кейт Миддлтон. Фото с сайта assets.nydailynews.com"></a></div>
+                        <h3><a href="medicine_and_health/2011/11/27/330003/1"><span style="font-size: 11px; font-weight: normal;">27.11 22:30</span> Кейт Миддлтон нашла себе достойного косметолога</a></h3>
+          </div>
+              </td>
+      <td width="50%" valign="top" class="whitecell">
+        <div id="addon22">
+          <div class="tabs_small">
+    <ul>
+      <li class="current"><a href="#" onClick="javascript:get_addon(0, 22); return false;">Сюжеты</a></li>
+      <li><a href="#" onClick="javascript:get_addon(1, 22); return false;">Статьи</a></li>      <li><a href="#" onClick="javascript:get_addon(2, 22); return false;">Видео</a></li>          </ul>
+  </div>
+    <div class="block">
+        <div class="img3">
+              <a href="medicine_and_health/topic/16"><img src="http://m001.bcm.ru/0/5a82c687-1684-4ee5-a3f5-aba560522533_S.jpg" width="60" height="45" alt="Фото с сайта minds.by"></a>
+          </div>
+            <h4><a href="medicine_and_health/topic/16">Борьба с пьянством и табакокурением в России</a></h4>
+        <div style="clear: both;"></div>
+  </div>
+    <div class="block">
+        <div class="img3">
+              <a href="medicine_and_health/topic/130"><img src="http://m001.bcm.ru/60/bf216138-3303-45c4-beaf-e7d9f2f92879_S.jpg" width="60" height="45" alt="Борьба с наркоманией. Фото с сайта news.rambler.ru"></a>
+          </div>
+            <h4><a href="medicine_and_health/topic/130">Борьба с наркоманией в России</a></h4>
+        <div style="clear: both;"></div>
+  </div>
+    <div class="block">
+        <div class="img3">
+              <a href="medicine_and_health/topic/320"><img src="http://m001.bcm.ru/1531/2bb8b39e-7a13-4407-9fac-7f098092e75e_S.jpg" width="60" height="45" alt="Смертельные овощи: эпидемия кишечной палочки в Европе. Фото с сайта maxon.net"></a>
+          </div>
+            <h4><a href="medicine_and_health/topic/320">Смертельные овощи: эпидемия кишечной палочки в Европе</a></h4>
+        <div style="clear: both;"></div>
+  </div>
+    <div class="block">
+        <div class="img3">
+              <a href="medicine_and_health/topic/6"><img src="http://m001.bcm.ru/0/3d6229e4-1c55-43a4-902a-d5ea7844acec_S.jpg" width="60" height="45" alt=""></a>
+          </div>
+            <h4><a href="medicine_and_health/topic/6">Он больше не свиной, а инфлюэнца A(H1N1). Грипп A/H1N1 в Мире</a></h4>
+        <div style="clear: both;"></div>
+  </div>
+      <div class="all1"><a href="medicine_and_health/topics/1">Все &raquo;</a></div>
+          </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<div class="hrline"></div>           <br><br>
+
+<div id="smi_teaser_692"><center><a href="http://24smi.org">Новости России</a></center></div>
+<script type="text/JavaScript" encoding="WINDOWS-1251" src="http://inf.24smi.org/informer.php?inf=692"></script>
+
+          </div>
+          <!-- End of content -->
+        </td>
+        <td width="160" valign="top">
+          <!-- Right column start -->
+          <div id="right">
+            <h1>Поиск</h1>
+            <form name="srchform" action="search" method="GET">
+              <input class="inpt" name="q" id="q" type="text" value="">
+              <div class="btn2" onClick="document.srchform.submit();">Найти!</div>
+            </form>
+            <br><br><br><br>
+            <center>
+            <script type="text/javascript">
+            var __bcm_rt= Math.round(Math.random()*1000000);
+            document.write('<sc'+'ript type="text/javascript" src="http://news.bcm.ru/bcmadnews_7.js?rt='+__bcm_rt+'"></sc'+'ript>');
+            </script>
+            <br>
+            </center>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4801501315495404";
+/* 160x600, news */
+google_ad_slot = "0228072487";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+          </div>
+          <!-- End of right column -->
+        </td>
+      </tr>
+    </table>
+  </div>
+  <!-- End of middle area -->
+  <!-- Footer -->
+  <div id="footer">
+    <div class="menu">
+      <ul>
+        <li><a href="">Новости</a></li>
+        <li>|</li>
+        <li><a href="articles/1">Статьи</a></li>
+        <li>|</li>
+        <li><a href="video/1">Видео</a></li>
+        <li>|</li>
+        <li><a href="topics/1">Сюжеты</a></li>
+        <li>|</li>
+        <li><a href="galleries/1">Фотогалереи</a></li>
+        <li>|</li>
+        <li><a href="rss.xml">RSS</a></li>
+      </ul>
+    <br>
+      <ul>
+        <li><a href="archive">Архив</a></li>
+        <li>|</li>
+        <li><a href="about">О проекте</a></li>
+        <li>|</li>
+        <li><a href="advertising">Реклама</a></li>
+        <li>|</li>
+        <li><a href="action">Специальный корреспондент</a></li>
+      </ul>
+    </div>
+    <div class="counter">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click;bcm_ru' "+
+"target=_blank><img src='http://counter.yadro.ru/hit;bcm_ru?t11.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="https://scounter.rambler.ru/top100.jcn?2240058"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2240058/">
+<img src="https://scounter.rambler.ru/top100.cnt?2240058" alt="Rambler's Top100" border="0" />
+</a>
+</noscript>
+<!-- end of Top100 code -->
+
+<div style="margin: -36px 0 0 183px;">
+<!-- Histats.com  START  -->
+<a href="http://www.histats.com" target="_blank" title="free website hit counter">
+<script  type="text/javascript" language="javascript">
+var s_sid = 886531;var st_dominio = 4;
+var cimg = 603;var cwi =110;var che =40;
+</script>
+</a>
+<script  type="text/javascript" language="javascript" src="http://s10.histats.com/js9.js"></script>
+<noscript><a href="http://www.histats.com" target="_blank">
+<img  src="http://s4.histats.com/stats/0.gif?886531&1" alt="free website hit counter" border="0"></a>
+</noscript>
+<!-- Histats.com  END  -->
+</div>
+    </div>
+    <div class="copy">
+     &copy; <a href="http://www.bcm.ru/">ОАО &laquo;БСМ&raquo;</a>. Свидетельство о регистрации СМИ<br>
+     Эл No ФС77-37489. Разработка и дизайн &laquo;<a href="http://www.i-pro.ru/">Интерлайн Про</a>&raquo;
+    </div>
+  </div>
+  <!-- End of Footer -->
+</div>
+<script type="text/javascript">
+ var MarketGidDate = new Date();
+ document.write('<scr'+'ipt type="text/javascript" '+'src="http://jsn.dt00.net/b/c/bcm.ru.6023.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth() + '" charset="utf-8" ></scr'+'ipt>');
+</script>
+
+</body>
+</html>

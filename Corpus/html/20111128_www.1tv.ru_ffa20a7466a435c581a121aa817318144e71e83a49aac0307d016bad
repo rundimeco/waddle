@@ -1,0 +1,1743 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="ru-RU">
+<head>
+<title>В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр - Первый канал</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta property="og:image" content="http://img1.1tv.ru/imgsize100x75/PR20111128181902.JPG" />
+<meta name="keywords" content="дети, медицина, ростовская область"/>
+<meta property="og:video" content="http://img2.1tv.ru/images/one/video_player.swf?file=http://www.1tv.ru/swfxml/news/192171">
+<meta property="og:video:duration" content="226">
+<meta property="og:video:type" content="application/x-shockwave-flash">
+<meta name="description" content="В Ростовской области врачи неонатального центра осваивают высокотехнологичное оборудование. Там в рамках федеральной целевой программы была..." /><meta name="robots" content="index, follow" />
+<meta name="RATING" content="General" />
+<link rel="alternate" type="application/rss+xml" title="Первый канал. RSS" href="http://rss.1tv.ru/" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<!-- Стили расположены в 3х файлах. Первый для всех браузеров, кроме IE. Второй только для IE 8. Третий переопределяет стили для IE 6-7 -->
+<link href="http://static2.1tv.ru/css/one/all_v09.css" rel="stylesheet" type="text/css" />
+<!--[if IE]>
+<link href="http://static2.1tv.ru/css/one/ie8_v09.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lt IE 8]>
+<link href="http://static2.1tv.ru/css/one/ie_v09.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!-- Конец объявления стилей -->
+<meta name="yandex-verification" content="5a19a8b684384477" />
+<meta name="google-site-verification" content="bdqON8tEEVtdbYOQrtK7JrO1tMkPyIn_nHDL8MQRi8s"/>
+<!-- Подсчет юзеров (начало)-->
+<script src="/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_userv=0;
+urchinTracker();
+</script>
+<!-- Подсчет юзеров (конец)-->
+<!-- Общая библиотека (начало) -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery-1.4.min.js"></script>
+<!-- Общая библиотека (конец) -->
+<!-- плавное открытие "подробно" -->
+                   <script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.smoothanchors.js"></script>
+                   <!-- плавное открытие "подробно" -->
+<!-- Скрипт для форм поиска -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.clearfield.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+        $('.clearField').clearField();
+        $.smoothAnchors('fast', 'linear', false);
+});
+</script>
+<!-- Конец скрипта --> 
+<!-- Скрипт adriver -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/adriver/adriver.core.2.js"></script>
+<!-- Конец скрипта -->
+<!-- Скрипт различных эффектов -->
+<script language="javascript" type="text/javascript" src="http://static1.1tv.ru/resources/jquery.switchtarget.js"></script>
+<!-- Конец скрипта -->
+<!-- Скрипт для копии в блог -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.zeroclipboard.js"></script>
+<script type="text/javascript"> 
+        $(document).ready(function() {
+        	
+        	$('#link_copy-blog').bind('click', function(e){
+        		$("div.insert_blogs_full").show().toggleClass("none");
+        		e.preventDefault();
+        		var clip = new ZeroClipboard.Client();
+        		var copy = $('#copytextarea').text();
+        		clip.setText(copy);
+        		clip.glue('inp_copy');
+        		clip.addEventListener( 'complete', function(client, text) {
+        		  alert("Текст скопирован в ваш буфер обмена!");
+        		});
+        	});
+        	$('#close_copy-blog').bind('click', function(e){
+        		$("div.insert_blogs_full").hide().toggleClass("none");
+        		e.preventDefault();
+        	});
+         
+	document.onkeydown = catchKey;
+	function catchKey (event) {
+		if (window.event) event = window.event;
+		if (event.ctrlKey) {
+			switch (event.keyCode ? event.keyCode : event.which ? event.which : null) {
+				case 45:
+				   if ($("insert_blogs_aded02")) {
+					var txt = "";
+					if (document.getSelection) {
+						txt = document.getSelection();
+					} else if (document.selection && document.selection.createRange) {
+						txt = document.selection.createRange().text;
+					}
+							if (txt) {
+							   var txt1 = $("#copytextarea").val();
+							   if (!document.getElementById("insert_blogs_add")) {
+								$(".insert_blogs_full-head").after('<div id="insert_blogs_add" style="display: none; visibility: hidden;"></div>');
+							   }
+							   $("#insert_blogs_add").html(txt1);
+							   $("#insert_blogs_aded01").text(txt);
+							   $("#copytextarea").val($("#insert_blogs_add").html());
+							   $("#insert_blogs_aded02").text(txt);
+						}
+				   }
+				   break;
+			}
+		}
+	}
+	
+});
+</script>
+<!-- Конец скрипта -->
+<!-- Скрипт вкладок (начало) -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.idtabs.min.js"></script>
+<!-- Скрипт вкладок (конец) -->
+<script src="http://static1.1tv.ru/resources/jquery.cookie.js" type="text/javascript"></script>
+<script src="http://static1.1tv.ru/resources/jquery.form.js" type="text/javascript"></script>
+<script src="http://static1.1tv.ru/resources/one_common.js" type="text/javascript"></script>
+<!-- Скрипт скрытия блоков (начало) -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.fluid.js"></script>
+<script type="text/javascript">
+$(function(){
+	$('#link_sb_mail').bind('click', function(e){
+		$("#sb_mail").show().toggleClass("none");
+		e.preventDefault();
+	});
+	$('#close_sb_mail').bind('click', function(e){
+		$("#sb_mail").hide().toggleClass("none");
+		e.preventDefault();
+	});
+	$('#link_form-send').bind('click', function(e){
+		$("div.all_form-send").show().toggleClass("none");
+		e.preventDefault();
+	});
+	$('#close_form-send').bind('click', function(e){
+		$("div.all_form-send").hide().toggleClass("none");
+		e.preventDefault();
+	});
+	$('#link_sb_01').bind('click', function(e){
+		$("#sb_01").show().toggleClass("none");
+		e.preventDefault();
+	});
+	$('#close_sb_01').bind('click', function(e){
+		$("#sb_01").hide().toggleClass("none");
+		e.preventDefault();
+	});
+	$('#link_sb_top').bind('click', function(e){
+		$("#sb_top").show().toggleClass("none");
+		e.preventDefault();
+	});
+	$('#close_sb_top').bind('click', function(e){
+		$("#sb_top").hide().toggleClass("none");
+		e.preventDefault();
+	});
+	$('#o_form-video-frm1').bind('click', function(e){
+		$("#frm1").show().removeClass("none");
+		$("#frm2").hide().addClass("none");
+		$('#o_form-video-frm1').addClass("select");
+		$('#o_form-video-frm2').removeClass("select");
+		e.preventDefault();
+	});
+	$('#o_form-video-frm2').bind('click', function(e){
+		$("#frm2").show().removeClass("none");
+		$("#frm1").hide().addClass("none");
+		$('#o_form-video-frm2').addClass("select");
+		$('#o_form-video-frm1').removeClass("select");
+		e.preventDefault();
+	});
+});
+</script>
+<!-- Скрипт скрытия блоков (конец) -->
+<!-- Скрипты для фото галереи (начало) -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.galleriffic.js"></script>
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.opacityrollover.js"></script>
+<!-- Скрипты для фото галереи (конец) -->
+<!-- Скрипт для вызова Flash-объекта (начало) -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/swfobject.js"></script>
+<!-- Скрипт для вызова Flash-объекта (конец) -->
+<!-- Скрипт меню LavaLamp -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.easing.js"></script>
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.lavalamp.min.js"></script>
+<script type="text/javascript">
+  $(function() {
+    $("#lava").lavaLamp({
+      fx: "easeOutExpo",
+      speed: 700,
+      click: function(event, menuItem) {
+        return true;
+      }
+    });
+    $("#topnav").lavaLamp({
+      fx: "easeOutExpo",
+      speed: 0,
+      click: function(event, menuItem) {
+        return true;
+      }
+    });
+  });
+</script>
+<!-- Конец скрипта -->
+<!-- Скрипт для главного меню -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+                function megaHoverOver(){
+                        $(this).find(".sub-frame").slideDown(250);
+                }
+
+                function megaHoverOut(){
+                        $(this).find(".sub-frame").slideUp(0);
+                }
+
+                var config = {
+                         sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)
+                         interval: 0, // number = milliseconds for onMouseOver polling interval
+                         over: megaHoverOver, // function = onMouseOver callback (REQUIRED)
+                         timeout: 0, // number = milliseconds delay before onMouseOut
+                         out: megaHoverOut // function = onMouseOut callback (REQUIRED)
+                };
+
+                $("ul#topnav li.mm_link").hoverIntent(config);
+        });
+        </script>
+<!-- Конец скрипта -->
+<!-- Скрипт вкладок (начало) -->
+<script language="javascript" type="text/javascript">
+$(document).ready(function() {
+         	$('#tabed1').bind('click', function(e){
+         		$(".tab1").show().removeClass("none");
+         		$(".tab2").hide().addClass("none");
+         		$(".tab3").hide().addClass("none");
+         		$(".tab4").hide().addClass("none");
+         		$('#tabed1').addClass("selected");
+         		$('#tabed2').removeClass("selected");
+         		$('#tabed3').removeClass("selected");
+         		$('#tabed4').removeClass("selected");
+         		e.preventDefault();
+         	});
+         	$('#tabed2').bind('click', function(e){
+         		$(".tab1").hide().addClass("none");
+         		$(".tab2").show().removeClass("none");
+         		$(".tab3").hide().addClass("none");
+         		$(".tab4").hide().addClass("none");
+         		$('#tabed2').addClass("selected");
+         		$('#tabed1').removeClass("selected");
+         		$('#tabed3').removeClass("selected");
+         		$('#tabed4').removeClass("selected");
+         		e.preventDefault();
+         	});
+         	$('#tabed3').bind('click', function(e){
+         		$(".tab1").hide().addClass("none");
+         		$(".tab2").hide().addClass("none");
+         		$(".tab3").show().removeClass("none");
+         		$(".tab4").hide().addClass("none");
+         		$('#tabed3').addClass("selected");
+         		$('#tabed1').removeClass("selected");
+         		$('#tabed2').removeClass("selected");
+         		$('#tabed4').removeClass("selected");
+         		e.preventDefault();
+         	});
+         	$('#tabed4').bind('click', function(e){
+         		$(".tab1").hide().addClass("none");
+         		$(".tab2").hide().addClass("none");
+         		$(".tab3").hide().addClass("none");
+         		$(".tab4").show().removeClass("none");
+         		$('#tabed4').addClass("selected");
+         		$('#tabed3').removeClass("selected");
+         		$('#tabed1').removeClass("selected");
+         		$('#tabed2').removeClass("selected");
+         		e.preventDefault();
+         	});
+         });
+</script>
+<!-- Скрипт вкладок (конец) -->
+<!-- Разместите этот тег в теге head или непосредственно перед закрывающим тегом body -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+{lang: 'ru'}
+</script>
+<!-- Скрипт плеера JW Player -->
+<script src="http://static1.1tv.ru/resources/jwplayer.js" type="text/javascript"></script>
+<!-- Конец скрипта -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.form.js"></script>
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.comments.prj.js"></script>
+<script type="text/javascript">
+
+             	$(function(){
+             	 setPageUrls();	
+                 function setPageUrls() {
+                   $("#list_abc_search div.all_pagination a").click(function() {
+                     $.get($(this).attr("href"), function(data){
+                       $("#list_abc_search").empty().prepend(data);
+             //          window.scroll(0,190);
+                       setPageUrls();
+                     });
+                     return false;
+                   });
+                 }
+                  }
+                  );
+             </script>
+<script type="text/javascript">
+$(document).ready(function() {
+                $("#vote_shed").ajaxForm( {beforeSubmit:vote_shedValidate, target:  "#vote_rez", success: hide_vote} );});
+                function getRadioGroupValue(radioGroupObj)
+                {
+                  for (var i=0; i < radioGroupObj.length; i++)
+                    if (radioGroupObj[i].checked) return radioGroupObj[i].value;
+                
+                  return null;
+                }
+                function vote_shedValidate(formData, jqForm, options) {
+                  var form = jqForm[0];
+                  if (!getRadioGroupValue(form.radio01)) {
+                    alert("Выберите ответ.");
+                    return false;
+                  }
+                  return true;
+                }
+                function hide_vote(){
+                  $("#vote_div").hide();
+                  $("#vote_rez").show();
+                }
+                </script>
+<script type="text/javascript">
+$(document).ready(function() {
+             	$('.clearField').clearField();
+             });
+             </script>
+<!-- Конец скрипта -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.photogallery.newss.js"></script>
+<script type="text/javascript" src="http://userapi.com/js/api/openapi.js?24"></script>
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.datepick.js"></script>
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.datepick-ru.js"></script>
+<script type="text/javascript">
+  
+  $(document).ready(function(){
+    $('#news_archive_search').datepick({onSelect: pickedDate_news_archive_search, changeMonth: false, changeYear: false, navigationAsDateFormat: false, prevText: '<', nextText: '>', hideIfNoPrevNext: false, dateFormat: 'dd.mm.yy', maxDate: '28.11.2011', yearRange: '1998:2011', currentText: " "
+      });
+  });
+
+function pickedDate_news_archive_search(value, date, inst) { 
+  document.location='http://www.1tv.ru/newsarchive/'+value;
+}
+</script>
+<!-- Скрипт анонсов -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.announce.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	    $("#mnews").announce({open : 1});
+        });
+</script>
+<!-- Конец скрипта -->
+</head>
+<body  onload="showTime()">
+<!-- tns-counter.ru -->
+<script language="JavaScript">
+var img = new Image();
+img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*1tv_ru/ru/CP1251/tmsec=1tv_news/';
+</script>
+<noscript>
+<img src="http://www.tns-counter.ru/V13a****1tv_ru/ru/CP1251/tmsec=1tv_news/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<!-- Div центровки страницы (начало) -->
+<div class="all_page"  style="background-color: white; padding: 0px 10px; position: relative; z-index: 1;">
+<!-- Скрипт css-хака для iPad/iPhone/iPod -->
+<script type="text/javascript">
+$(document).ready(function() {
+         if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+             $('#m_banner13').css('display','none');
+             $('#m_banner13_ipad').css('display','block');
+         }
+         else
+		 {
+             $('#m_banner13_ipad').css('display','none');
+             $('#m_banner13').css('display','block');
+		 
+		 }		 
+		 
+     }); 
+</script>
+<div id="m_banner13" class="m_banner-top">
+<div class="banner">
+	<!--  AdRiver code START. Type:AjaxJS Site: 1tv PZ: 0 BN: 4 -->
+           <div id="rashlop"></div>
+           <script type="text/javascript">
+          new adriver("rashlop", {sid:171392, bt:52, sz:"0002", bn:4});
+          </script>
+          <!--  AdRiver code END  -->
+</div>
+</div>
+<div  id="m_banner13_ipad" class="m_banner-top" style="display: none;">
+<div class="banner">
+<script type="text/javascript">
+ // <!--
+ document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6447/w728/h90/ipt1" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');
+ // -->
+ </script>
+ <noscript>
+ <iframe src="http://www.1tv.ru/rotobanner/g6447/w728/h90/ipt1" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+ </noscript>
+</div>
+</div>
+<!-- ВЕРХНЯЯ ЧАСТЬ САЙТА (начало) -->
+<div id="small_head" class="ins_header">
+<div class="ins_header-ins">
+<!-- Логотип (начало) -->
+<div class="ins_logo">
+<div class="ins_logo-txt">
+<a href="http://www.1tv.ru" title="Первый канал представляет на своем сайте новости, передачи, видео, on-line вещание, интерактивное общение"><img src="http://img2.1tv.ru/images/one/logo_ins.jpg" alt="1tv.ru" width="58" height="63"/></a>
+</div>
+</div>
+<!-- Логотип (конец) -->
+<!-- Верхняя линия (начало) -->
+<div class="all_topline">
+<div class="all_topline-ins">
+        <!-- Дата и выбор региона -->
+        <div class="all_region-select">
+            <div class="all_line-logo"><a href="http://www.1tv.ru" title="Первый канал"><img src="http://img2.1tv.ru/images/one/line_logo.gif" alt="Первый канал" width="232" height="29"/></a></div>
+<div class="all_date">
+
+               <!-- begin clock scripts -->
+               <script type="text/javascript" src="/gsts.js"></script>
+               <script type="text/javascript" src="http://static1.1tv.ru/resources/clock2.js"></script>
+               <!-- end clock scripts -->
+<span id="htmlClocks" style="color: white; font-weight: bold;">&nbsp;&nbsp;</span>
+Понедельник, 28 ноября 2011<br/>
+<span><span id="eRegionResult" style="display: block; float:left;">Москва                                                                                                                                                                                                                                                    </span> &nbsp;&nbsp; <a href="#" id="link_sb_top">Выбрать регион</a></span><script type="text/javascript">
+function FormRegionClick () {
+            var str = $("#eRegion").serialize();
+            $.post("/main/change_region", str, function(data) {
+                        $("#eRegionResult").html(data);
+                        $("#eRegionResult").show();
+					    $("#sb_top").hide();
+                      });
+                    }
+                    </script>
+<!-- Меню выбора региона -->
+<!-- Общее всплывающее окошко (начало) -->
+<div class="all_sb none" id="sb_top" style="z-index: 100;">
+<div class="all_sb-ins" id="region">
+<form id="eRegion" action="/main/change_region" method="post">
+<table class="all_sb-bg-min sb_shadow">
+<tr>
+<td class="sb_left-top"></td>
+<td class="sb_top"></td>
+<td class="sb_right-top"></td>
+</tr>
+<tr>
+<td class="sb_left"></td>
+<td class="sb_center">
+<div class="all_sb-close">
+<input type="image" id="close_sb_top" value="Закрыть диалоговое окно" src="http://img2.1tv.ru/images/one/form_mail_close.gif" />
+</div>
+<div class="all_sb-head">
+<h4>Выберите регион</h4>
+</div>
+<div class="all_manyselect">
+<select size="2" name="p_okato_id">
+<option value="2">Алтайский край                                                                                                                                                                                                                                            </option>
+<option value="11513">Амурская область                                                                                                                                                                                                                                          </option>
+<option value="12752">Архангельская область                                                                                                                                                                                                                                     </option>
+<option value="17374">Астраханская область                                                                                                                                                                                                                                      </option>
+<option value="18165">Белгородская область                                                                                                                                                                                                                                      </option>
+<option value="20371">Брянская область                                                                                                                                                                                                                                          </option>
+<option value="23829">Владимирская область                                                                                                                                                                                                                                      </option>
+<option value="26418">Волгоградская область                                                                                                                                                                                                                                     </option>
+<option value="28936">Вологодская область                                                                                                                                                                                                                                       </option>
+<option value="37777">Воронежская область                                                                                                                                                                                                                                       </option>
+<option value="202194">Еврейская АО                                                                                                                                                                                                                                              </option>
+<option value="164802">Забайкальский край                                                                                                                                                                                                                                        </option>
+<option value="46437">Ивановская область                                                                                                                                                                                                                                        </option>
+<option value="49857">Иркутская область                                                                                                                                                                                                                                         </option>
+<option value="183443">Кабардино-Балкарская Республика                                                                                                                                                                                                                           </option>
+<option value="52318">Калининградская область                                                                                                                                                                                                                                   </option>
+<option value="64014">Калужская область                                                                                                                                                                                                                                         </option>
+<option value="67959">Камчатский край                                                                                                                                                                                                                                           </option>
+<option value="191229">Карачаево-Черкесская Республика                                                                                                                                                                                                                           </option>
+<option value="68077">Кемеровская область                                                                                                                                                                                                                                       </option>
+<option value="69764">Кировская область                                                                                                                                                                                                                                         </option>
+<option value="74972">Костромская область                                                                                                                                                                                                                                       </option>
+<option value="3204">Краснодарский край                                                                                                                                                                                                                                        </option>
+<option value="5911">Красноярский край                                                                                                                                                                                                                                         </option>
+<option value="81080">Курганская область                                                                                                                                                                                                                                        </option>
+<option value="83222">Курская область                                                                                                                                                                                                                                           </option>
+<option value="87231">Ленинградская область                                                                                                                                                                                                                                     </option>
+<option value="90673">Липецкая область                                                                                                                                                                                                                                          </option>
+<option value="92931">Магаданская область                                                                                                                                                                                                                                       </option>
+<option value="93120">Москва                                                                                                                                                                                                                                                    </option>
+<option value="93267">Московская область                                                                                                                                                                                                                                        </option>
+<option value="100530">Мурманская область                                                                                                                                                                                                                                        </option>
+<option value="164803">Ненецкий АО                                                                                                                                                                                                                                               </option>
+<option value="40646">Нижегородская область                                                                                                                                                                                                                                     </option>
+<option value="100705">Новгородская область                                                                                                                                                                                                                                      </option>
+<option value="104886">Новосибирская область                                                                                                                                                                                                                                     </option>
+<option value="107438">Омская область                                                                                                                                                                                                                                            </option>
+<option value="109777">Оренбургская область                                                                                                                                                                                                                                      </option>
+<option value="112744">Орловская область                                                                                                                                                                                                                                         </option>
+<option value="116204">Пензенская область                                                                                                                                                                                                                                        </option>
+<option value="118497">Пермский край                                                                                                                                                                                                                                             </option>
+<option value="8850">Приморский край                                                                                                                                                                                                                                           </option>
+<option value="123388">Псковская область                                                                                                                                                                                                                                         </option>
+<option value="173062">Республика Адыгея                                                                                                                                                                                                                                         </option>
+<option value="183655">Республика Алтай                                                                                                                                                                                                                                          </option>
+<option value="173413">Республика Башкортостан                                                                                                                                                                                                                                   </option>
+<option value="179758">Республика Бурятия                                                                                                                                                                                                                                        </option>
+<option value="180954">Республика Дагестан                                                                                                                                                                                                                                       </option>
+<option value="52309">Республика Ингушетия                                                                                                                                                                                                                                      </option>
+<option value="184108">Республика Калмыкия                                                                                                                                                                                                                                       </option>
+<option value="184629">Республика Карелия                                                                                                                                                                                                                                        </option>
+<option value="185481">Республика Коми                                                                                                                                                                                                                                           </option>
+<option value="186688">Республика Марий Эл                                                                                                                                                                                                                                       </option>
+<option value="188722">Республика Мордовия                                                                                                                                                                                                                                       </option>
+<option value="200703">Республика Саха (Якутия)                                                                                                                                                                                                                                  </option>
+<option value="190785">Республика Северная Осетия-Алания                                                                                                                                                                                                                         </option>
+<option value="191408">Республика Татарстан                                                                                                                                                                                                                                      </option>
+<option value="194657">Республика Тыва                                                                                                                                                                                                                                           </option>
+<option value="197751">Республика Хакасия                                                                                                                                                                                                                                        </option>
+<option value="132238">Ростовская область                                                                                                                                                                                                                                        </option>
+<option value="135437">Рязанская область                                                                                                                                                                                                                                         </option>
+<option value="79068">Самарская область                                                                                                                                                                                                                                         </option>
+<option value="87075">Санкт-Петербург                                                                                                                                                                                                                                           </option>
+<option value="139244">Саратовская область                                                                                                                                                                                                                                       </option>
+<option value="142473">Сахалинская область                                                                                                                                                                                                                                       </option>
+<option value="142906">Свердловская область                                                                                                                                                                                                                                      </option>
+<option value="145883">Смоленская область                                                                                                                                                                                                                                        </option>
+<option value="9587">Ставропольский край                                                                                                                                                                                                                                       </option>
+<option value="151489">Тамбовская область                                                                                                                                                                                                                                        </option>
+<option value="53680">Тверская область                                                                                                                                                                                                                                          </option>
+<option value="153798">Томская область                                                                                                                                                                                                                                           </option>
+<option value="154740">Тульская область                                                                                                                                                                                                                                          </option>
+<option value="159004">Тюменская область                                                                                                                                                                                                                                         </option>
+<option value="195080">Удмуртская Республика                                                                                                                                                                                                                                     </option>
+<option value="161590">Ульяновская область                                                                                                                                                                                                                                       </option>
+<option value="11002">Хабаровский край                                                                                                                                                                                                                                          </option>
+<option value="159005">Ханты-Мансийский АО                                                                                                                                                                                                                                       </option>
+<option value="162912">Челябинская область                                                                                                                                                                                                                                       </option>
+<option value="198207">Чеченская Республика                                                                                                                                                                                                                                      </option>
+<option value="198208">Чувашская Республика                                                                                                                                                                                                                                      </option>
+<option value="166416">Чукотский АО                                                                                                                                                                                                                                              </option>
+<option value="159387">Ямало-Ненецкий АО                                                                                                                                                                                                                                         </option>
+<option value="166506">Ярославская область                                                                                                                                                                                                                                       </option>
+</select>
+</div>
+<div class="all_sb-button">
+<input type="submit" class="inp_subm" value="Выбрать" onclick="javascript: FormRegionClick(); return false;"/>
+</div>
+</td>
+<td class="sb_right"></td>
+</tr>
+<tr>
+<td class="sb_left-bot"></td>
+<td class="sb_bot"></td>
+<td class="sb_right-bot"></td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+<!-- Общее всплывающее окошко (конец) -->
+</div>
+</div>
+<!-- Вещание за рубежом -->
+<!-- Вещание за рубежом -->
+        <div class="all_foreign">
+            <div class="all_foreign-txt"><a href="http://www.1tvrus.com" target="_blank">Вещание за рубежом</a></div>
+			<div class="none">&nbsp;&nbsp;&nbsp;<br />&nbsp;</div>
+        </div>
+    </div>
+    </div>
+    <!-- Верхняя линия (конец) -->
+<!-- Сейчас в эфире (начало) -->
+    <div class="ins_live-broadcast">
+</div>
+    <!-- Сейчас в эфире (конец) -->
+<div class="clear"></div>
+</div>
+</div>
+
+<!-- ВЕРХНЯЯ ЧАСТЬ САЙТА (конец) -->
+<!-- ГЛАВНОЕ МЕНЮ (начало) -->
+<div class="all_mmenu">
+  <!-- Главное меню сайта (начало) -->
+  <ul id="topnav">
+    <li class="mm_link lifirst">
+      <a class="mm_link-a selectedLava" href="http://www.1tv.ru/news/">Новости</a>
+      <div class="sub">
+        <div class="sub-frame">
+          <div class="sub-ins">
+            <div class="topline"></div>
+            <div class="sub-cont">
+              <ol>
+                <li><a class="noLava" href="/newsvideoarchive/">Видеоновости</a></li>
+                <li><a class="noLava" href="/news/polit/">Политика</a></li>
+                <li><a class="noLava" href="/news/election/">Выборы</a></li>
+                <li><a class="noLava" href="/news/economic/">Экономика</a></li>
+                <li><a class="noLava" href="/news/social/">Общество</a></li>
+                <li><a class="noLava" href="/news/world/">В мире</a></li>
+                <li><a class="noLava" href="/news/crime/">Криминал</a></li>
+                <li><a class="noLava" href="/news/techno/">Технологии</a></li>
+                <li><a class="noLava" href="/news/health/">Здоровье</a></li>
+                <li><a class="noLava" href="/news/culture/">Культура</a></li>
+                <li><a class="noLava" href="/news/sport/">Спорт</a></li>
+                <li><a class="noLava" href="/news/other/">Другие новости</a></li>
+                <li><a class="noLava" href="/news/about/">Про 1tv</a></li>
+                <li><a class="noLava" href="/news/leontiev/">Однако</a></li>
+                <li><a class="noLava" href="/news/zaprotiv/">За и против</a></li>
+              </ol>
+              <div class="clear"></div>
+            </div>
+            <div class="botline"></div>
+          </div>
+          <iframe class="framefix" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0" hspace="0"></iframe>
+        </div>
+      </div>
+    </li>
+    <li class="ws">|</li>
+    <li class="mm_link">
+      <a class="mm_link-a" href="http://www.1tv.ru/anons/">Премьеры</a>
+      <div class="sub" id="anons">
+        <div class="sub-frame">
+          <div class="sub-ins">
+            <div class="topline"></div>
+            <div class="sub-cont">
+              <ol>
+                <li><a class="noLava" href="/anons/">Все премьеры</a></li>
+                <li><a class="noLava" href="/anons/pf=28">Развлекательные</a></li>
+                <li><a class="noLava" href="/anons/pf=25">Ток-шоу</a></li>
+                <li><a class="noLava" href="/anons/pf=27">Познавательные</a></li>
+                <li><a class="noLava" href="/anons/pf=5290">Интервью</a></li>
+                <li><a class="noLava" href="/anons/pf=48">Игровые</a></li>
+                <li><a class="noLava" href="/anons/pf=5288">Трансляции</a></li>
+                <li><a class="noLava" href="/anons/films">Фильмы</a></li>
+                <li><a class="noLava" href="/anons/serial">Сериалы</a></li>
+                <li><a class="noLava" href="/documentary/">Документальное кино</a></li>
+              </ol>
+              <div class="clear"></div>
+            </div>
+            <div class="botline"></div>
+          </div>
+          <iframe class="framefix" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0" hspace="0"></iframe>
+        </div>
+      </div>
+    </li>
+    <li class="ws">|</li>
+    <li class="mm_link">
+      <a class="mm_link-a" href="http://www.1tv.ru/projects/">Телепроекты</a>
+      <div class="sub" id="teleprogect">
+        <div class="sub-frame">
+          <div class="sub-ins">
+            <div class="topline"></div>
+            <div class="sub-cont">
+              <ol>
+                <li><a class="noLava" href="http://www.1tv.ru/projects/">Сайты телепроектов</a></li>
+                <li><a class="noLava" href="http://www.1tv.ru/projects/">Передачи</a></li>
+                <li><a class="noLava" href="http://www.1tv.ru/cinema/">Кино</a></li>
+                <li><a class="noLava" href="http://www.1tv.ru/documentary/">Документальное кино</a></li>
+              </ol>
+              <div class="clear"></div>
+            </div>
+            <div class="botline"></div>
+          </div>
+          <iframe class="framefix" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0" hspace="0"></iframe>
+        </div>
+      </div>
+    </li>
+    <li class="ws">|</li>
+    <li class="mm_link">
+      <a class="mm_link-a" href="http://www.1tv.ru/person/">Лица</a>
+      <div class="sub" id="person">
+        <div class="sub-frame">
+          <div class="sub-ins">
+            <div class="topline"></div>
+            <div class="sub-cont">
+              <ol>
+                <li><a class="noLava" href="/person/pa=1">Ведущие</a></li>
+                <li><a class="noLava" href="/person/pa=2">Корреспонденты</a></li>
+                <li><a class="noLava" href="/person/pa=5">Режиссеры</a></li>
+                <li><a class="noLava" href="/person/pa=5125">Подготовка эфира</a></li>
+                <li><a class="noLava" href="/person/pa=6">Руководство</a></li>
+                <li><a class="noLava" href="/person/pa=5102">Мемориал</a></li>
+              </ol>
+              <div class="clear"></div>
+            </div>
+            <div class="botline"></div>
+          </div>
+          <iframe class="framefix" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0" hspace="0"></iframe>
+        </div>
+      </div>
+    </li>
+    <li class="ws">|</li>
+<!-- Скрипт css-хака для iPad/iPhone/iPod -->
+<script type="text/javascript">
+$(document).ready(function() {
+         if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+             $('#link1').css('display','none');
+             $('#link1_ipad').css('display','block');
+             $('#link2').css('display','none');
+             $('#link2_ipad').css('display','block');
+         }
+         else
+		 {
+             $('#link1_ipad').css('display','none');
+             $('#link1').css('display','block');
+		 
+             $('#link2_ipad').css('display','none');
+             $('#link2').css('display','block');
+		 }		 
+		 
+     }); 
+</script>
+    <li class="mm_link">
+      <div id="link1"><a target="_blank" class="mm_link-a" href="http://stream.1tv.ru/">Онлайн</a></div>
+      <div id="link1_ipad" style="display: none;"><a class="mm_link-a" href="http://www.1tv.ru/efir-ipad/">Онлайн</a></div>
+      <div class="sub" id="itv">
+        <div class="sub-frame">
+          <div class="sub-ins">
+            <div class="topline"></div>
+            <div class="sub-cont">
+              <ol>
+                <div id="link2"><li><a target="_blank" class="noLava" href="http://stream.1tv.ru/">Потоковое вещание</a></li></div>
+                <div id="link2_ipad"><li><a class="noLava" href="http://www.1tv.ru/efir-ipad/">Потоковое вещание</a></li></div>
+                <li><a class="noLava" href="http://www.1tv.ru/itv/">Тематические интернет-каналы</a></li> 
+                <li><a class="noLava" href="http://www.1tv.ru/videoarchiver/">Видеоархив</a></li>
+              </ol>
+              <div class="clear"></div>
+            </div>
+            <div class="botline"></div>
+          </div>
+          <iframe class="framefix" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0" hspace="0"></iframe>
+        </div>
+      </div>
+    </li>
+    <li class="ws">|</li>
+      <li class="mm_link">
+        <a class="mm_link-a" href="http://www.1tv.ru/faq/">Интерактив</a>
+        <div class="sub" id="interactive">
+          <div class="sub-frame">
+          <div class="sub-ins">
+            <div class="topline"></div>
+            <div class="sub-cont">
+              <ol>
+                <li><a class="noLava" href="http://www.1tv.ru/conf/">Онлайн-конференции</a></li>
+                <li><a class="noLava" href="http://www.1tv.ru/forum/">Форум</a></li>
+                <li><a class="noLava" href="http://www.1tv.ru/faq/">Обратная связь</a></li>
+                <li><a class="noLava" href="http://www.1tv.ru/member/">Участвуй!</a></li>
+                <li><a class="noLava" href="http://www.1tv.ru/load/">Ваше видео</a></li>
+              </ol>
+              <div class="clear"></div>
+            </div>
+            <div class="botline"></div>
+          </div>
+          <iframe class="framefix" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0" hspace="0"></iframe>
+        </div>
+      </div>
+    </li>
+    <li class="ws">|</li>
+    <li class="mm_link">
+      <a class="mm_link-a" href="http://www.1tv.ru/shed/">Телепрограмма</a>
+      <div class="sub" id="shed">
+        <div class="sub-frame">
+          <div class="sub-ins">
+            <div class="topline"></div>
+            <div class="sub-cont">
+              <ol>
+                <li><a class="noLava" href="http://www.1tv.ru/shed/">1 канал</a></li>
+                <li><a target="_blank" class="noLava" href="http://www.1tvrus.com/schedule/pkvs_eur/">За рубежом</a></li>
+                <li><a class="noLava" href="http://www.1tv.ru/shed#broadcasting">Потоковое вещание</a></li>
+              </ol>
+              <div class="clear"></div>
+            </div>
+            <div class="botline"></div>
+          </div>
+          <iframe class="framefix" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0" hspace="0"></iframe>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <!-- Главное меню сайта (конец) -->
+  <!-- Поиск по сайту (начало) -->
+  <form action="/allsearch/">
+    <div class="all_search">
+      <input name="s" type="text" class="inp_search clearField" value="Поиск по сайту" />
+      <input type="submit" class="button_search" value="" title="Начать поиск" />
+    </div>
+  </form>
+  <!-- Поиск по сайту (начало) -->
+  <div class="clear"></div>
+<div class="all_mmenu-line"></div>
+</div>
+<!-- ГЛАВНОЕ МЕНЮ (конец) -->
+<!-- ГЛАВНАЯ ЧАСТЬ РАЗДЕЛА НОВОСТЕЙ (НАЧАЛО) -->
+<div class="n_root">
+<!-- Разделы новостей (начало) -->
+<div class="all_titles">
+<h2><a href="http://www.1tv.ru/news">Новости</a>
+<div id="eNewsRegionResult" class="link" style="display: block;"><a href="http://www.1tv.ru/newsarchive/region/93120">Москва                                                                                                                                                                                                                                                    </a></div>
+</h2>
+<ul>
+<li><a href="/newsvideoarchive/">Видеоновости</a></li>
+<li><a href="/news/polit/">Политика</a></li>
+<li><a href="/news/election/">Выборы</a></li>
+<li><a href="/news/economic/">Экономика</a></li>
+<li><a href="/news/social/">Общество</a></li>
+<li><a href="/news/world/">В мире</a></li>
+<li><a href="/news/crime/">Криминал</a></li>
+<li><a href="/news/techno/">Технологии</a></li>
+<li><a href="/news/health/">Здоровье</a></li>
+<li><a href="/news/culture/">Культура</a></li>
+<li><a href="/news/sport/">Спорт</a></li>
+<li><a href="/news/other/">Другие новости</a></li>
+<li><a href="/news/about/">Про 1tv</a></li>
+<li><a href="/news/leontiev/">Однако</a></li>
+<li><a href="/news/zaprotiv/">За и против</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<!-- Разделы новостей (конец) -->
+<!-- ЛЕВАЯ КОЛОНКА (начало) -->
+<div class="n_leftcol">
+<!-- Статья (начало) --><div class="title_ins"><h4><span> 28  ноября 2011, Понедельник,  <strong>18:04</strong></span></h4>
+<div class="title_right">
+<a href="/news/health/">Здоровье</a></div>
+<div class="clear"></div>
+</div>
+<div class="n_article-txt">
+<div class="tags">
+<a href="/newsarchive/tags/2421/">дети[2295]</a>, <a href="/newsarchive/tags/2543/">медицина[530]</a>, <a href="/newsarchive/tags/7605/">ростовская область[99]</a></div>
+<h1>В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр</h1>
+
+            <div class="print"><a href="http://www.1tv.ru/news/print/192171" target="_blank">Версия для печати</a>
+ <a id="link_copy-blog" href="#">Код для вставки в блог</a></div><div class="insert_blogs_full none">
+<div class="insert_blogs_full-ins">
+<table class="insert_blogs_full-bg sb_shadow" id="usual2">
+<tr>
+<td class="sb_left-top"></td>
+<td class="sb_top"></td>
+<td class="sb_right-top"></td>
+</tr>
+<tr>
+<td class="sb_left"></td>
+<td class="sb_center">
+<div class="insert_blogs_full-close">
+ <input type="image" id="close_copy-blog" value="Закрыть диалоговое окно" src="http://img2.1tv.ru/images/one/form_mail_close.gif" /></div>
+<div class="insert_blogs_full-head">
+<ul>
+<li><a id="bc_copy" class="selected" href="#">Код для вставки в блог</a></li>
+<li>|</li>
+<li><a id="bc_result" href="#">Посмотреть результат</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="insert_blogs_full-copy cb_tab1" id="copy">
+<p>Выделите любой фрагмент прямо в тексте статьи и нажмите Ctrl+Insert<br /> или скопируйте готовый код:</p>
+<textarea id="copytextarea" onfocus="this.select();" readonly="readonly">
+<div style="border: 1px solid #DDD2B7; padding: 10px; background-color: #FCFBF8;"><table width="100%"><tr><td style="vertical-align: top; padding-bottom: 10px; border-bottom: 1px solid #D7D7D7; font-size: 20px; color: black;">
+<a href="http://www.1tv.ru"><img src="http://img2.1tv.ru/images/one/print_logo.jpg" style="vertical-align: middle; margin-right: 5px;" alt="" /></a> Раздел: Новости</td></tr><tr><td style="vertical-align: top; padding-top: 5px;"><div style="float: left; width: 100px; height: 75px; margin: 5px 10px 0px 0px; border: 1px solid #E3E6EA; padding: 3px;"><a href="http://www.1tv.ru/news/health/192171"><img src="http://img1.1tv.ru/imgsize100x75/PR20111128181902.JPG" style="display: block;" alt="" /></a></div><div style="margin-left: 118px;"><h3 style="font-size: 16px; color: #4e4e4e; font-weight: normal; padding-bottom: 3px; font-family: Tahoma, Arial, Helvetica, sans-serif;"><a href="http://www.1tv.ru/news/health/192171">В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр</a></h3><div style="font-size: 11px; color: #666666; padding-bottom: 3px;">28.11.2011</div><p id="insert_blogs_aded02" style="padding: 0px;">В Ростовской области врачи неонатального центра осваивают высокотехнологичное оборудование. Там в рамках федеральной целевой программы была... <a style="color: #065FD1;" href="http://www.1tv.ru/news/health/192171">Подробнее &raquo;</a></p></div></td></tr></table></div></textarea> <input type="submit" id="inp_copy" class="inp_subm" value="Скопировать" />
+<div class="insert_blogs_full-copy-txt">
+Мы весьма признательны всем, кто использует наши тексты в блогах и форумах.<br />Пожалуйста, уважайте труд журналистов: не перепечатывайте в блогах статьи целиком (они всегда доступны по этому адресу), не забывайте ставить ссылки на полный текст на нашем сайте.</div></div>
+<div class="insert_blogs_full-result cb_tab2 none" id="result">
+<div style="border: 1px solid #DDD2B7; padding: 10px; background-color: #FCFBF8;">
+<table width="100%">
+<tr>
+<td style="vertical-align: top; padding-bottom: 10px; border-bottom: 1px solid #D7D7D7; font-size: 20px; color: black;">
+<a href="http://www.1tv.ru"><img src="http://img2.1tv.ru/images/one/print_logo.jpg" style="vertical-align: middle; margin-right: 5px;" alt="" /></a> Раздел: Новости</td></tr>
+<tr>
+<td style="vertical-align: top; padding-top: 5px;">
+<div style="float: left; width: 100px; height: 75px; margin: 5px 10px 0px 0px; border: 1px solid #E3E6EA; padding: 3px;">
+<a href="http://www.1tv.ru/news/health/192171"><img src="http://img1.1tv.ru/imgsize100x75/PR20111128181902.JPG" style="display: block;" alt="" /></a></div><div style="margin-left: 118px;">
+<h3 style="font-size: 16px; color: #4e4e4e; font-weight: normal; padding-bottom: 3px; font-family: Tahoma, Arial, Helvetica, sans-serif;">
+<a href="http://www.1tv.ru/news/health/192171">В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр</a></h3><div style="font-size: 11px; color: #666666; padding-bottom: 3px;">
+28.11.2011</div>
+<p id="insert_blogs_aded02" style="padding: 0px;">
+В Ростовской области врачи неонатального центра осваивают высокотехнологичное оборудование. Там в рамках федеральной целевой программы была... <a style="color: #065FD1;" href="http://www.1tv.ru/news/health/192171">Подробнее &raquo;</a></p></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+<td class="sb_right"></td>
+</tr>
+<tr>
+<td class="sb_left-bot"></td>
+<td class="sb_bot"></td>
+<td class="sb_right-bot"></td>
+</tr>
+</table>
+</div>
+</div>
+<script language="javascript" type="text/javascript"> 
+			$(document).ready(function() {
+            	$('#bc_copy').bind('click', function(e){
+            		$(".cb_tab1").show().removeClass("none");
+            		$(".cb_tab2").hide().addClass("none");
+					$('#bc_result').removeClass("selected");
+					$('#bc_copy').addClass("selected");
+            		e.preventDefault();
+            	});
+				$('#bc_result').bind('click', function(e){
+            		$(".cb_tab2").show().removeClass("none");
+            		$(".cb_tab1").hide().addClass("none");
+					$('#bc_copy').removeClass("selected");
+					$('#bc_result').addClass("selected");
+            		e.preventDefault();
+            	});
+			});
+			</script>
+<div class="player">
+<div id="flashvideoportal_1"></div>
+<script type="text/javascript">
+jwplayer('flashvideoportal_1').setup({
+                        'id': 'playerID',
+                        'width': '460',
+                        'height': '353',
+                        'logo.hide': 'true', 
+                        'playlist': 
+[
+{
+'image': 'http://img1.1tv.ru/imgsize480x360/PR20111128181902.JPG', 
+'file': 'http://www-download.1tv.ru/Video/2011_11/export_2011-11-28T18-13-41.mp4', 
+'title': 'В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр'
+}
+]
+
+						,
+                        'players': [
+                            {type: 'flash', src: 'http://img2.1tv.ru/images/one/video_player.swf?file=http://www.1tv.ru/swfxml/news/192171'}, 
+                            {type: 'html5'}, 
+                            {type: 'download'} 
+                        ]
+                    });
+</script>
+</div>
+<p>В Ростовской области врачи неонатального центра осваивают высокотехнологичное оборудование. Там в рамках федеральной целевой программы была проведена масштабная реконструкция. Теперь у специалистов есть всё необходимое, чтобы даже при серьёзных осложнениях оказывать помощь детям, рождённым значительно раньше срока. </P>
+<p>Новорожденного Даниила медики осматривают каждый час. У него гипоксия или кислородное голодание организма. Мама малыша Екатерина за неделю пребывания в медицинском центре уже привыкла к строгому больничному графику. </P>
+<p>"Я очень рада, что нас вместе положили. Если бы раздельно было, это было бы очень большое переживание за ребенка, все-таки первый", - говорит Екатерина Титаренко.</P>
+<p>Прежде мамы могли только навещать своих малышей. Палат совместного пребывания в неонатальном центре не было. А в здании, построенном еще в 70-е годы, протекала крыша, и отваливалась штукатурка. В 2011 году благодаря целевой программе модернизации здравоохранения здесь провели капитальный ремонт. На средства из федерального и областного бюджетов сделали перепланировку и поменяли мебель. Закупили высокотехнологичное оборудование, которое позволяет теперь оперировать новорожденных прямо в центре. Раньше в экстренных случаях маленьких пациентов приходилось отправлять на "скорой" в&nbsp; ростовскую клиническую детскую больницу. До неё - 250 километров пути.</P>
+<p>"По программе модернизации мы получили аппараты: электроотсос хирургический, дефибриллятор, аппарат искусственной вентиляции легких. Все это оборудование позволяет нам проводить операции детям от одного дня и более", - рассказал врач анестезиолог-реаниматолог Андрей Агуреев.</P>
+<p>.Девочка родилась раньше срока, на 32-й неделе. Она весит чуть больше 1 килограмма. Чтобы выходить ребенка, врачи поместили ее в кувез или, иначе говоря, инкубатор. Этот уникальный аппарат поддерживает оптимальную температуру и влажность. А за дыханием и пульсом малышки следит специальная компьютерная система.</P>
+<p>Трудно поверить, но два года назад маленький Эдик тоже весил около килограмма. Четыре месяца за его жизнь боролись врачи неонатального центра. Сейчас малыш&nbsp;абсолютно здоров, который ничем не отличается от своих сверстников.</P>
+<p>Доктора не только ведут прием в больнице, но и ездят к маленьким пациентам на дом. Они наблюдают детей в 12 ближайших районах. С появлением неонатального центра, более 60 тысяч малышей, живущих в области, теперь своевременно могут получить квалифицированную медицинскую помощь.</P>
+<p>"По сравнению с прошлым годом младенческая смертность снизилась в 2 раза. Я могу сказать, что у нас в 5 раз уменьшилось количество детей маловесных, рожденных до 1 килограмма. Раньше такие дети не выхаживались", - говорит главный врач Ольга Бурыкина.</P>
+<p>В скором времени врачи Волгодонска смогут проводить выхаживать малышей весом от 500 граммов. В рамках программы модернизации, которая рассчитана на 2 года, специалисты центра готовятся повышать свою квалификацию&nbsp; и осваивать самые современные&nbsp;методики. </P><div class="autor last">
+<div class="img"><a href="/person/7919"><img src="http://img1.1tv.ru/imgsize60x60/PR20110919175751.JPG" alt="" /></a></div>
+<div class="txt">
+<a href="/person/7919">Мария Васильева </a><br /><p>
+Дирекция информационных программ<br />
+Корреспондент<br />
+Всего сюжетов: <a href="http://www.1tv.ru/newsarchive/person/7919">89</a>
+</p>
+</div>
+</div>
+<div class="nav-news">
+<div class="prev"><a href="http://www.1tv.ru/news/health/192170">&lt; Предыдущая новость</a></div>
+<div class="next"><a href="http://www.1tv.ru/news/health/192172">Следующая новость &gt;</a></div>
+<div class="clear"></div>
+</div>
+<!-- Скрипт для социальных закладок -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.bookmark.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+        $('.bookmarks').bookmark({icons: 'http://img2.1tv.ru/images/one/bookmarks.gif', sites: ['facebook', 'twitter', 'vkontakte', 'livejournal', 'mailru', 'odnoklassniki']});
+});
+</script>
+<!-- Конец скрипта -->
+<!-- Скрипт для копии в блог -->
+<script type="text/javascript" src="http://static1.1tv.ru/resources/jquery.zeroclipboard.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+
+        $('#link_copy-blog').bind('click', function(e){
+                $("div.insert_blogs_full").show().toggleClass("none");
+                e.preventDefault();
+                var clip = new ZeroClipboard.Client();
+                var copy = $('#copytextarea').text();
+                clip.setText(copy);
+                clip.glue('inp_copy');
+                clip.addEventListener( 'complete', function(client, text) {
+                  alert("Текст скопирован в ваш буфер обмена!");
+                });
+        });
+        $('#close_copy-blog').bind('click', function(e){
+                $("div.insert_blogs_full").hide().toggleClass("none");
+                e.preventDefault();
+        });
+
+        document.onkeydown = catchKey;
+        function catchKey (event) {
+                if (window.event) event = window.event;
+                if (event.ctrlKey) {
+                        switch (event.keyCode ? event.keyCode : event.which ? event.which : null) {
+                                case 45:
+                                   if ($("insert_blogs_aded02")) {
+                                        var txt = "";
+                                        if (document.getSelection) {
+                                                txt = document.getSelection();
+                                        } else if (document.selection && document.selection.createRange) {
+                                                txt = document.selection.createRange().text;
+                                        }
+                                                        if (txt) {
+                                                           var txt1 = $("#copytextarea").val();
+                                                           if (!document.getElementById("insert_blogs_add")) {
+                                                                $(".insert_blogs_full-head").after('<div id="insert_blogs_add" style="display: none; visibility: hidden;"></div>');
+                                                           }
+                                                           $("#insert_blogs_add").html(txt1);
+                                                           $("#insert_blogs_aded01").text(txt);
+                                                           $("#copytextarea").val($("#insert_blogs_add").html());
+                                                           $("#insert_blogs_aded02").text(txt);
+                                                }
+                                   }
+                                   break;
+                        }
+                }
+        }
+
+});
+</script>
+<!-- Конец скрипта -->
+
+<div class="s-adds">
+<h4>Поделиться:</h4>
+<div class="bookmarks"></div>
+<div class="like_google">
+<!-- Разместите этот тег в том месте, где должна отображаться кнопка +1 -->
+<g:plusone size="medium"></g:plusone>
+</div>
+<div class="like_vkontakte">
+<script type="text/javascript">
+VK.init({apiId: 2289971, onlyWidgets: true});
+</script>
+<div id="vk_like"></div>
+<script type="text/javascript">
+VK.Widgets.Like("vk_like", {type: "mini"});
+</script>
+</div>
+<div class="like_facebook">
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.1tv.ru/news/health/192171&amp;layout=button_count&amp;show_faces=true&amp;width=135&amp;action=like&amp;font=tahoma&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:135px; height:21px;" allowTransparency="true"></iframe></div>
+<div class="clear"></div>
+</div>
+<div class="n_photogallery">
+<!-- Фото галерея (начало) -->
+<div class="photogallery">
+<div class="head">Фото</div>
+<!-- Большая фотка и навигация по ней -->
+<div class="bigphoto" id="gallery">
+<div class="slideshow-container">
+<div class="loader" id="loading"></div>
+<div class="slideshow" id="slideshow"></div>
+<div class="caption-container" id="caption"></div>
+</div>
+</div>
+<!-- Список превью -->
+<div class="photogallery-nav" id="thumbs"  style="display: none;">
+<ul class="thumbs noscript">
+<li><a class="thumb horisontal" name="img_424584" href="http://img1.1tv.ru/imgsize460x345/PR20111128181902.JPG" title="В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр"><img src="http://img1.1tv.ru/imgsize100x75/PR20111128181902.JPG" alt="В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр" /></a><div class="caption">В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр</div></li>
+</ul>
+</div>
+<!-- End Advanced Gallery Html Containers -->
+<div class="clear"></div>
+</div>
+<!-- Фото галерея (конец) -->
+<div class="clear"></div>
+</div>
+</div>
+<!-- Статья (конец) -->
+<!-- Баннер (начало) -->
+<!-- Скрипт css-хака для iPad/iPhone/iPod -->
+<script type="text/javascript">
+$(document).ready(function() {
+         if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+             $('#m_banner9').css('display','none');
+             $('#m_banner9_ipad').css('display','block');
+         }
+         else
+                 {
+             $('#m_banner9_ipad').css('display','none');
+             $('#m_banner9').css('display','block');
+
+                 }
+
+     }); 
+</script>
+<!-- Баннер (конец) -->
+<!-- Ссылки по теме и главные новости (начало) -->
+<div class="n_links">
+<div class="n_links-lcol">
+<div class="title"><h4>Ссылки по теме</h4></div>
+<ul>
+<li>
+<h5><a href="/newsarchive/tags/2421/">дети [2295]</a></h5>
+<div class="date">28  ноября 2011</div>
+<p><a href="/news/health/192160">Врачи неонатального центра в Волгодонске теперь могут выхаживать недоношенных детей</a></p>
+<div class="date">26  ноября 2011</div>
+<p><a href="/news/culture/192016">Престижная международная премия в области телевидения досталась общероссийскому каналу "Карусель"</a></p>
+</li>
+<li>
+<h5><a href="/newsarchive/tags/2543/">медицина [530]</a></h5>
+<div class="date">28  ноября 2011</div>
+<p><a href="/news/health/192160">Врачи неонатального центра в Волгодонске теперь могут выхаживать недоношенных детей</a></p>
+<div class="date">18  ноября 2011</div>
+<p><a href="/news/health/191364">Перед наступлением эпидемии гриппа эксперты дискутируют о возможности самолечения</a></p>
+</li>
+<li>
+<h5><a href="/newsarchive/tags/7605/">ростовская область [99]</a></h5>
+<div class="date">28  ноября 2011</div>
+<p><a href="/news/social/192129">В Ростовской области врачи неонатального центра осваивают новое оборудование</a></p>
+<div class="date">09  ноября 2011</div>
+<p><a href="/news/social/190484">Жители Ростова-на-Дону уже несколько лет без коммунальных услуг, хотя платили исправно</a></p>
+</li>
+</ul>
+</div>
+<div class="n_links-rcol">
+<div class="title"><h4>Главные новости</h4></div>
+<div class="n_links-mnews" id="mnews">
+<div class="item close">
+<div class="player">
+<div class="play">
+<a href="/news/social/192168"></a>
+</div>
+<a href="/news/social/192168">
+<img src="http://img1.1tv.ru/imgsize333x250/PR20111128180619.JPG">
+</a>
+</div>
+<div class="text">
+<table><tr><td><div class="time fudge">18:00</div>Дмитрий Медведев побывал с рабочей  поездкой в Екатеринбурге</td></tr></table>
+</div>
+</div>
+<div class="item close">
+<div class="player">
+<div class="play">
+<a href="/news/world/192169"></a>
+</div>
+<a href="/news/world/192169">
+<img src="http://img1.1tv.ru/imgsize333x250/PR20111128181335.JPG">
+</a>
+</div>
+<div class="text">
+<table><tr><td><div class="time">18:01</div>В спасательной операции сухогруза "Свонлэнд" задействованы 11 бригад британских спасателей</td></tr></table>
+</div>
+</div>
+<div class="item close">
+<div class="player">
+<div class="play">
+<a href="/news/world/192158"></a>
+</div>
+<a href="/news/world/192158">
+<img src="http://img1.1tv.ru/imgsize333x250/PR20111128150940.JPG">
+</a>
+</div>
+<div class="text">
+<table><tr><td><div class="time">15:01</div>У берегов Британии ищут российских моряков с затонувшего сухогруза "Свонлэнд"</td></tr></table>
+</div>
+</div>
+<div class="item close">
+<div class="player">
+<div class="play">
+<a href="/news/world/192170"></a>
+</div>
+<a href="/news/world/192170">
+<img src="http://img1.1tv.ru/imgsize333x250/PR20111128181201.JPG">
+</a>
+</div>
+<div class="text">
+<table><tr><td><div class="time">18:02</div>В Донецке проходят новые столкновения митингующих с силами правопорядка</td></tr></table>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<!-- Ссылки по теме и главные новости (конец) -->
+<!-- Баннер (начало) -->
+<!-- Скрипт css-хака для iPad/iPhone/iPod -->
+<script type="text/javascript">
+$(document).ready(function() {
+         if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+             $('#m_banner10').css('display','none');
+             $('#m_banner10_ipad').css('display','block');
+         }
+         else
+                 {
+             $('#m_banner10_ipad').css('display','none');
+             $('#m_banner10').css('display','block');
+
+                 }
+
+     }); 
+</script>
+<!-- Баннер (конец) -->
+<!-- Ссылки по разделу (начало) -->
+<div class="n_links-part">
+<div class="title"><h4>Ссылки по разделу Криминал</h4></div>
+<div class="n_links-part-ins">
+<ul>
+<li>
+<div class="img"><a href="/news/crime/192157"><img src="http://img1.1tv.ru/imgsize100x75/PR20111128174606.JPG" alt=""  /></a><div class="play"><a href="/news/crime/192157">&nbsp;</a></div></div><div class="txt">
+<div class="date">28.11.2011 15:00</div>
+<p><a href="/news/crime/192157">В Москве раскрыта группировка, которая за год вывела за рубеж 100 миллиардов рублей</a></p>
+<div class="tags">
+<a href="/newsarchive/tags/2134/">москва</a>, <a href="/newsarchive/tags/3211/">деньги</a>, <a href="/newsarchive/tags/3304/">мошенничество</a></div>
+</div>
+</li>
+<li class="last">
+<div class="img"><a href="/news/crime/192154"><img src="http://img1.1tv.ru/imgsize100x75/PR20100524164521.JPG" alt=""  /></a><div class="play"><a href="/news/crime/192154">&nbsp;</a></div></div><div class="txt">
+<div class="date">28.11.2011 14:25</div>
+<p><a href="/news/crime/192154">100 миллиардов рублей только за один год умудрилась вывести за рубеж преступная группировка</a></p>
+<div class="tags">
+<a href="/newsarchive/tags/2137/">фсб</a>, <a href="/newsarchive/tags/2153/">финансы</a>, <a href="/newsarchive/tags/8899/">преступники</a></div>
+</div>
+</li>
+</ul>
+<div class="clear"></div>
+<ul>
+<li>
+<div class="img"><a href="/news/crime/192048"><img src="http://img1.1tv.ru/imgsize100x75/PR20111126211729.JPG" alt=""  /></a><div class="play"><a href="/news/crime/192048">&nbsp;</a></div></div><div class="txt">
+<div class="date">26.11.2011 21:10</div>
+<p><a href="/news/crime/192048">В Москве 15 автовладельцев стали невольными участниками спецоперации</a></p>
+<div class="tags">
+<a href="/newsarchive/tags/2134/">москва</a>, <a href="/newsarchive/tags/2278/">автомобили</a>, <a href="/newsarchive/tags/3581/">полиция</a></div>
+</div>
+</li>
+<li class="last">
+<div class="img"><a href="/news/crime/192031"><img src="http://img1.1tv.ru/imgsize100x75/PR20110928175742.JPG" alt=""  /></a></div><div class="txt">
+<div class="date">26.11.2011 14:19</div>
+<p><a href="/news/crime/192031">В Каспийске взорван автомобиль, пострадал один человек</a></p>
+<div class="tags">
+<a href="/newsarchive/tags/2044/">дагестан</a>, <a href="/newsarchive/tags/2209/">жертвы</a>, <a href="/newsarchive/tags/3254/">взрывы</a></div>
+</div>
+</li>
+</ul>
+<div class="clear"></div>
+<ul>
+<li>
+<div class="img"><a href="/news/crime/192021"><img src="http://img1.1tv.ru/imgsize100x75/PR20111126121003.JPG" alt=""  /></a><div class="play"><a href="/news/crime/192021">&nbsp;</a></div></div><div class="txt">
+<div class="date">26.11.2011 12:05</div>
+<p><a href="/news/crime/192021">На подъезде к Новосибирску задержана вооруженная группировка из 12 человек</a></p>
+<div class="tags">
+<a href="/newsarchive/tags/3243/">спецназ</a>, <a href="/newsarchive/tags/18599/">новосибирская область</a>, <a href="/newsarchive/tags/25864/">банда</a></div>
+</div>
+</li>
+<li class="last">
+<div class="img"><a href="/news/crime/192018"><img src="http://img1.1tv.ru/imgsize100x75/PR20111126120409.JPG" alt=""  /></a><div class="play"><a href="/news/crime/192018">&nbsp;</a></div></div><div class="txt">
+<div class="date">26.11.2011 12:00</div>
+<p><a href="/news/crime/192018">Уходя от погони, в Москве преступники протаранили 15 автомобилей</a></p>
+<div class="tags">
+<a href="/newsarchive/tags/2134/">москва</a>, <a href="/newsarchive/tags/2278/">автомобили</a>, <a href="/newsarchive/tags/3581/">полиция</a></div>
+</div>
+</li>
+</ul>
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+</div>
+<!-- Ссылки по разделу (конец) -->
+</div>
+<!-- ЛЕВАЯ КОЛОНКА (конец) -->
+<!-- ПРАВАЯ КОЛОНКА (начало) -->
+<div class="n_rightcol">
+<!-- Поиск в разделе (начало) -->
+<form action="/nsearch/" method="post">
+<div class="n_search-form">
+<input name="s" type="text" class="inp_search clearField" value="Поиск в новостях" /><input type="submit" class="button_search" value="" title="Начать поиск" />
+</div>
+</form>
+<!-- Поиск в разделе (конец) -->
+<!-- Архив новостей (начало) -->
+<div id="news_archive_search" class="calendar calendar_with"></div>
+<!-- Архив новостей (конец) -->
+<!-- Баннер в разделе (начало) -->
+<!-- Скрипт css-хака для iPad/iPhone/iPod -->
+<script type="text/javascript">
+$(document).ready(function() {
+         if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+             $('#m_banner4').css('display','none');
+             $('#m_banner4_ipad').css('display','block');
+         }
+         else
+                 {
+             $('#m_banner4_ipad').css('display','none');
+             $('#m_banner4').css('display','block');
+
+                 }
+
+     }); 
+</script>
+<div id="m_banner4" class="ins_banner-part">
+<div class="banner">
+<div style="text-align: center; margin: 0px auto; width: 240px;">
+ <!--  AdRiver code START. Type:AjaxJS Site: 1tv PZ: 0 BN: 3 -->
+           <div id="240x400"></div>
+          <script type="text/javascript">
+          new adriver("240x400", {sid:171392, bt:52, sz:"0002",  bn:3});
+          </script>
+<!--  AdRiver code END  -->
+</div>
+</div>
+</div>
+<div  id="m_banner4_ipad" class="ins_banner-part" style="display: none;">
+<div class="banner">
+<script type="text/javascript">
+ // <!--
+ document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6447/w240/h400/ipt1" width="240" height="400" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');
+ // -->
+ </script>
+ <noscript>
+ <iframe src="http://www.1tv.ru/rotobanner/g6447/w240/h400/ipt1" width="240" height="400" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+ </noscript>
+</div>
+</div>
+<!-- Скрипт css-хака для iPad/iPhone/iPod -->
+<script type="text/javascript">
+$(document).ready(function() {
+         if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+             $('#m_banner8').css('display','none');
+             $('#m_banner8_ipad').css('display','block');
+         }
+         else
+                 {
+             $('#m_banner8_ipad').css('display','none');
+             $('#m_banner8').css('display','block');
+
+                 }
+
+     }); 
+</script>
+<div id="m_banner8" class="ins_banner-part">
+<div class="banner">
+<script type="text/javascript">
+ // <!--
+ document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g9125/w240/h136" width="240" height="136" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');
+ // -->
+ </script>
+ <noscript>
+ <iframe src="http://www.1tv.ru/rotobanner/g9125/w240/h136" width="240" height="136" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+ </noscript>
+</div>
+</div>
+<div  id="m_banner8_ipad" class="ins_banner-part" style="display: none;">
+<div class="banner">
+<script type="text/javascript">
+ // <!--
+ document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6831/w240/h136/ipt1" width="240" height="136" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');
+ // -->
+ </script>
+ <noscript>
+ <iframe src="http://www.1tv.ru/rotobanner/g6831/w240/h136/ipt1" width="240" height="136" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+ </noscript>
+</div>
+</div>
+<div class="clear"></div>
+<!-- Баннер в разделе (конец) -->
+<!-- Сообщество 1TV.RU (начало) -->
+<div class="all_social">
+<div class="all_social-ins" id="tabs_social">
+<div class="all_social-top lit">
+<ul>
+<li class="icon_facebook"><a class="selected" id="tabed1" href="#" title="facebook"><span></span></a></li>
+<li class="icon_twitter"><a id="tabed2" href="#" title="twitter"><span></span></a></li>
+<li class="icon_vkontakte"><a id="tabed3" href="#" title="vkontakte"><span></span></a></li>
+<li class="icon_youtube"><a href="http://www.youtube.com/1tv" target="_blank" title="youtube"><span></span></a></li>
+<li class="icon_livejournal"><a href="http://1tvru.livejournal.com/" target="_blank" title="livejournal"><span></span></a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="all_social-cont tab1">
+<!-- Листинг FaceBook (начало) -->
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F1tvru&amp;width=280&amp;colorscheme=light&amp;connections=16&amp;stream=false&amp;header=false&amp;height=288" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:288px;" allowTransparency="true"></iframe>
+<!-- Листинг FaceBook (конец) -->
+</div>
+<div class="all_social-cont tab2 none">
+<!-- Листинг Twitter (начало) -->
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+                  version: 2,
+                  type: 'list',
+                  rpp: 30,
+                  interval: 10000,
+                  title: '',
+                  subject: 'Первый канал &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Тwitter',
+                  width: 'auto',
+                  height: 300,
+                  theme: {
+                    shell: {
+                      background: '#3B5998',
+                      color: '#ffffff'
+                    },
+                    tweets: {
+                      background: '#ffffff',
+                      color: '#424242',
+                      links: '#0660c6'
+                    }
+                  },
+                  features: {
+                    scrollbar: true,
+                    loop: true,
+                    live: true,
+                    hashtags: true,
+                    timestamp: true,
+                    avatars: true,
+                    behavior: 'default'
+                  }
+                }).render().setList('channelone_rus', 'tv1-rus').start();
+</script>
+<!-- Листинг Twitter (конец) -->
+</div>
+<div class="all_social-cont tab3 none">
+<!-- Листинг ВКонтакте (начало) -->
+<script type="text/javascript" src="http://userapi.com/js/api/openapi.js?24"></script><script type="text/javascript">VK.init({apiId: 2289971, onlyWidgets: true});</script>
+<div id="vk_recommend"></div>
+<script type="text/javascript">
+// rewrite function of creating group with returning widget id
+                VK.Widgets.NewRecommended = function(objId, options) {
+                    VK.Widgets.Recommended(objId, options);
+                    return this.count;
+                }
+ 
+                // call creating widget
+                var widget_id = VK.Widgets.NewRecommended("vk_recommend", {
+                    period: 'week',
+                    limit: 6,
+                    max: 6,
+                    verb: 1,
+                    width: "280",
+                    height: "300"
+                });
+ 
+                $(document).ready(function(){
+                    var vk_recomend_iframe = $("#vk_recommend").find("iframe");
+ 
+                    // call resize becouse vk do resize 3 iteration
+                    // ( first width settings height, and double resize with height value = offsetHeight )
+                    $("#vk_page_link").click(function(){
+                        VK.Widgets.RPC[ widget_id ].methods.resize(400)
+                    });
+                    // fix src and content of iframe bug
+                    vk_recomend_iframe.attr("src", vk_recomend_iframe.attr("src"));
+                });
+</script>
+<!-- Листинг ВКонтакте (конец) -->
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<!-- Сообщество 1TV.RU (конец) -->
+<!-- Новости телепроектов (начало) -->
+<div class="n_teleprogects">
+
+           <div class="title"><h4><a href="/projects/">Новости телепроектов</a></h4></div>
+
+                   <ul>
+
+
+<li>
+<div class="img">
+<a href="/sprojects_edition/si=5719&amp;fi=12252" title="Хочу знать!">
+<img src="http://img1.1tv.ru/imgsize100x75/PR20111128112739.JPG" alt="Хочу знать!" border="0" />
+</a>
+<div class="play"><a href="/sprojects_edition/si=5719&amp;fi=12252">&nbsp;</a></div>
+</div>
+<div class="txt">
+<div class="date">28 ноября, Понедельник</div>
+<h5><a href="http://www.1tv.ru/vseznat">Хочу знать</a></h5>
+<p><a href="/sprojects_edition/si=5719&amp;fi=12252">Друг за друга; музей пейзажа; воздушные марионетки; джем; конь–мах</a></p>
+</div>
+</li>
+<li>
+<div class="img">
+<a href="/sprojects_edition/si=5806&amp;fi=12288" title="Дело об опасном санатории">
+<img src="http://img1.1tv.ru/imgsize100x75/PR20111128115349.JPG" alt="Дело об опасном санатории" border="0" />
+</a>
+<div class="play"><a href="/sprojects_edition/si=5806&amp;fi=12288">&nbsp;</a></div>
+</div>
+<div class="txt">
+<div class="date">28 ноября, Понедельник</div>
+<h5><a href="http://www.1tv.ru/help">ЖКХ</a></h5>
+<p><a href="/sprojects_edition/si=5806&amp;fi=12288">В программу «ЖКХ» обратилась мама пятилетней Маши. Женщина уверена, что ее ребенок отравился в калужском санатории, и требует выплаты компенсации</a></p>
+</div>
+</li>
+<li>
+<div class="img low">
+<a href="http://www.1tv.ru/vp/si=33&amp;im=23&amp;vr_id=102&amp;pid=1" title="Диета по интернету">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20111128124539.JPG" alt="Диета по интернету" border="0" />
+</a>
+<div class="play"><a href="http://www.1tv.ru/vp/si=33&amp;im=23&amp;vr_id=102&amp;pid=1">&nbsp;</a></div>
+</div>
+<div class="txt">
+<div class="date">28 ноября, Понедельник</div>
+<h5><a href="http://utro.1tv.ru">Доброе утро</a></h5>
+<p><a href="http://www.1tv.ru/vp/si=33&amp;im=23&amp;vr_id=102&amp;pid=1">Виртуальные диеты или новый способ обмана доверчивых граждан.</a></p>
+</div>
+</li>
+<li>
+<div class="img">
+<a href="/sprojects_edition/si=5726&amp;fi=12313" title="Марина Шишкова. До и после">
+<img src="http://img1.1tv.ru/imgsize100x75/PR20111128163135.JPG" alt="Марина Шишкова. До и после" border="0" />
+</a>
+<div class="play"><a href="/sprojects_edition/si=5726&amp;fi=12313">&nbsp;</a></div>
+</div>
+<div class="txt">
+<div class="date">28 ноября, Понедельник</div>
+<h5><a href="http://www.1tv.ru/moda">Модный приговор</a></h5>
+<p><a href="/sprojects_edition/si=5726&amp;fi=12313">Обвиняется в непонимании: хватит страдать – пора воплощать мечты в реальность</a></p>
+</div>
+</li>
+<li>
+<div class="img">
+<a href="/sprojects_edition/si=5804&amp;fi=12250" title="Жить здорово! 28 ноября 2011 года">
+<img src="http://img1.1tv.ru/imgsize100x75/PR20111128122644.JPG" alt="Жить здорово! 28 ноября 2011 года" border="0" />
+</a>
+<div class="play"><a href="/sprojects_edition/si=5804&amp;fi=12250">&nbsp;</a></div>
+</div>
+<div class="txt">
+<div class="date">28 ноября, Понедельник</div>
+<h5><a href="http://www.1tv.ru/zdorovo">Жить здорово!</a></h5>
+<p><a href="/sprojects_edition/si=5804&amp;fi=12250">Три ошибки в еде; салат с сыром тофу; как лечить брюшной тиф; необычное применение трубки от туалетной бумаги</a></p>
+</div>
+</li>
+<li>
+<div class="img low">
+<a href="/sprojects_edition/si=5716&amp;fi=12300" title="Мука пшеничная высшего сорта">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20111128145935.JPG" alt="Мука пшеничная высшего сорта" border="0" />
+</a>
+<div class="play"><a href="/sprojects_edition/si=5716&amp;fi=12300">&nbsp;</a></div>
+</div>
+<div class="txt">
+<div class="date">28 ноября, Понедельник</div>
+<h5><a href="http://www.1tv.ru/contrzak">Контрольная закупка</a></h5>
+<p><a href="/sprojects_edition/si=5716&amp;fi=12300">Лучше всего человеческий организм усваивает муку из цельносмолотого зерна</a></p>
+</div>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+<!-- Новости телепроектов (конец) -->
+<div class="none">&nbsp;&nbsp;&nbsp;<br />&nbsp;</div>
+</div>
+<!-- ПРАВАЯ КОЛОНКА (конец) -->
+<div class="clear"></div>
+</div>
+<!-- ГЛАВНАЯ ЧАСТЬ РАЗДЕЛА НОВОСТЕЙ (КОНЕЦ) -->
+<!-- НИЖНЯЯ ЧАСТЬ (НАЧАЛО) -->
+<div class="all_footer">
+<!-- Баннер (начало) -->
+<!-- Скрипт css-хака для iPad/iPhone/iPod -->
+<script type="text/javascript">
+$(document).ready(function() {
+         if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+             $('#m_banner3').css('display','none');
+             $('#m_banner3_ipad').css('display','block');
+         }
+         else
+                 {
+             $('#m_banner3_ipad').css('display','none');
+             $('#m_banner3').css('display','block');
+
+                 }
+
+     }); 
+</script>
+<div id="m_banner3" class="all_banner-hor">
+<div class="banner">
+<script type="text/javascript">
+ // <!--
+ document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6446/w728/h90" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');
+ // -->
+ </script>
+ <noscript>
+ <iframe src="http://www.1tv.ru/rotobanner/g6446/w728/h90" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+ </noscript>
+</div>
+</div>
+<div  id="m_banner3_ipad" class="all_banner-hor" style="display: none;">
+<div class="banner">
+<script type="text/javascript">
+ // <!--
+ document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6446/w728/h90/ipt1" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');
+ // -->
+ </script>
+ <noscript>
+ <iframe src="http://www.1tv.ru/rotobanner/g6446/w728/h90/ipt1" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+ </noscript>
+</div>
+</div>
+<!-- Баннер (конец) -->
+<!-- Поиск в видеоархиве (начало) -->
+    <div class="all_fsearch">
+      <div class="all_logo-mail"><img src="http://img2.1tv.ru/images/one/1tv_mail.gif" alt="" width="30" height="31"/></div>
+        <div class="all_fsearch-links">
+          <a href="/itv/">Потоковое вещание</a> <a href="/videoarchiver/">Видеоархив</a>
+        </div>
+        <form name="f_search" action="/videoarchiver/">
+        <div class="all_fsearch-form">
+          <input onkeydown="if(event.keyCode==13){window.location.href='/videoarchiver/id=-5&amp;txt=' + urlEncode(document.forms.f_search.txt.value); return false;}" type="text" name="txt" class="inp_fsearch clearField" value="Поиск в видеоархиве" />
+          <input onclick="javascript: window.location.href='/videoarchiver/id=-5&amp;txt=' + urlEncode(document.forms.f_search.txt.value); return false;" type="submit" class="button_fsearch" value="" title="Начать поиск" />
+        </div>
+        </form>
+    <div class="clear"></div>
+    </div>
+<!-- Поиск в видеоархиве (конец) -->
+        <!-- Нижнее меню (начало) -->
+<div class="all_fmenu">
+<div class="all_logo-mini">
+<div class="all_logo-mini-ins"></div>
+</div>
+<ul>
+<li><a href="/news/">Новости</a></li>
+            <li><a href="/anons/">Премьеры</a></li>
+            <li><a href="/projects/">Телепроекты</a></li>
+            <li><a href="/person/">Лица</a></li>
+            <li><a href="/itv/">Онлайн</a></li>
+            <li><a href="/faq/">Переписка</a></li>
+            <li><a href="/shed/">Телепрограмма</a></li>
+            <li><a href="/news/rating/">Рейтинги</a></li>
+            <li><a href="/anons/">Анонсы</a></li>
+            <li><a href="/projects/">Передачи</a></li>
+            <li><a href="/conf/">Конференции</a></li>
+            <li><a href="/videoarchiver/">Видео</a></li>
+            <li><a href="/forum/">Форум</a></li>
+            <li><a href="/pubarchive/">Публикации</a></li>
+                        <li><a href="/mobile/">SMS-портал</a></li>
+                        
+</ul>
+<ul class="all_fmenu-ins">
+<li><a href="/total/">О компании</a> <a href="/action/">Акции</a> <a href="/rabota/">Работа</a> <a href="/idei/">Идеи</a> <a href="/member/">Участвуй!</a></li>
+<li><a href="/services/">Сервисы</a> <a href="/contacts/">Координаты</a> <a id="link_form-mail" href="#">Письмо в редакцию</a></li>
+</ul>
+<div class="clear"></div></div>
+<!-- Форма письма в редакцию (начало) -->
+    <div class="all_form-mail none">
+        <form id="eMailer" method="post" action="http://www.1tv.ru/one/send2editors">
+        <div class="all_form-mail-bg">
+            <div class="all_form-mail-close"><input type="image" id="close_form-mail" value="Закрыть диалоговое окно" src="http://img2.1tv.ru/images/one/form_mail_close.gif" /></div>
+            <div class="all_form-mail-head">
+                <h4>Письмо в редакцию Первого канала</h4>
+                <span>Заполните поля формы</span>
+            </div>
+            <input type="hidden" name="p_link" value="2" />
+            <input type="hidden" name="p_link_name" value="37" />
+            <table>
+            <tr>
+                <th>Ваше имя:</th>
+                <td><input type="text" name="p_sender_name" value="" class="nonClearFields"/></td>
+            </tr>
+            <tr>
+                <th>Электронная почта:</th>
+                <td><input type="text" name="p_sender_email" value="" class="nonClearFields"/></td>
+            </tr>
+            <tr>
+                <th>Текст письма:</th>
+                <td><textarea name="p_msg" rows="1" cols="1"></textarea></td>
+            </tr>
+            </table>
+            <table class="all_form-mail-code">
+            <tr>
+                <th>Введите текст с картинки:</th>
+                <td class="img"><img id="captcha_img" src="http://img2.1tv.ru/images/one/1tv_mini.gif" alt="Введите в поле код" /><br /><a href="#" onclick="refreshCaptcha(); return(false);">обновить картинку</a></td>
+                <td><input type="text" name="captcha_text" value="" /></td>
+            </tr>
+            </table>
+            <table class="all_form-mail-subm">
+            <tr>
+                <th><strong>Интернет-отдел</strong><br />127427, Россия, Москва, Академика Королева ул., д.19</th>
+                <td><input type="submit" class="subm" value="  Отправить  " /></td>
+            </tr>
+            </table>
+            <div id="eMailerResult" class="none"></div>
+        </div>
+        </form>
+    </div>
+    <!-- Форма письма в редакцию (конец) -->
+
+<!-- Нижнее меню (конец) -->
+<!-- Копирайт и счетчики (начало) -->
+<div class="all_copy">
+      <p>© 1996-2011, Первый канал. Все права защищены. Полное или частичное копирование материалов запрещено.<br />При согласованном использовании материалов сайта необходима ссылка на ресурс.<br>Код для вставки в блоги и другие ресурсы, размещенный на нашем сайте, можно использовать без согласования.<br />Реклама на сайте:  <A href="http://www.1tv.ru/advert">рекламное агентство "Мандарин"</A>, e-mail <A href="mailto:mandarin@mandarin-tv.ru">mandarin@mandarin-tv.ru</A>, тел. +7 (495) 646-34-52</p>
+<div class="all_counters">
+<script type="text/javascript"><!--
+document.write("<img src='http://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' width='1' height='1' alt=''/>")//--></script>
+<img src="http://top.list.ru/counter?id=268366;t=56" height="0" width="0" border="0" alt=""/>
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?287212"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?287212" alt="" width="1" height="1"/></noscript>
+<script type="text/javascript">
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-9747492-1']);
+                _gaq.push(['_trackPageview']);
+              
+                (function() {
+                  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+              </script>
+<!-- Yandex.Metrika counter -->
+               <div style="display:none;"><script type="text/javascript">
+               (function(w, c) {
+                   (w[c] = w[c] || []).push(function() {
+                       try {
+                           w.yaCounter3913696 = new Ya.Metrika(3913696);
+                            yaCounter3913696.clickmap(true);
+                            yaCounter3913696.trackLinks(true);
+                       
+                       } catch(e) { }
+                   });
+               })(window, 'yandex_metrika_callbacks');
+               </script></div>
+               <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+               <noscript><div style="position:absolute"><img src="//mc.yandex.ru/watch/3913696" alt="" /></div></noscript>
+               <!-- /Yandex.Metrika counter -->
+<a href="http://top100.rambler.ru/navi/287212/" target="_blank"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-darkblue2.gif" alt="Ramblers Top100" width="88" height="31" border="0" /></a><!--Rating@Mail.ru counter-->
+<script language="javascript" type="text/javascript">//<![CDATA[
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//]]></script>
+<script language="javascript1.1" type="text/javascript">//<![CDATA[
+a+=';j='+navigator.javaEnabled();js=11;//]]></script>
+<script language="javascript1.2" type="text/javascript">//<![CDATA[
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//]]></script>
+<script language="javascript1.3" type="text/javascript">//<![CDATA[
+js=13;//]]></script><script language="javascript" type="text/javascript">//<![CDATA[
+d.write('<a href="http://top.mail.ru/jump?from=268366" target="_top">'+
+'<img src="http://d8.c1.b4.a0.top.mail.ru/counter?id=268366;t=76;js='+js+
+a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+
+'height="31" width="38" \/><\/a>');if(11<js)d.write('<'+'!-- ');//]]></script>
+<noscript><a target="_top" href="http://top.mail.ru/jump?from=268366">
+<img src="http://d8.c1.b4.a0.top.mail.ru/counter?js=na;id=268366;t=76" 
+height="31" width="38" border="0" alt="Рейтинг@Mail.ru" /></a></noscript>
+<script language="javascript" type="text/javascript">//<![CDATA[
+if(11<js)d.write('--'+'&#062');//]]></script>
+<!--// Rating@Mail.ru counter-->
+<a href="http://www.liveinternet.ru/rating/ru/tv/" target="_blank"><img src="/images/news_site/liveinternet_38.gif" width="31" height="31" border="0" alt=""/></a></div>
+<div class="clear"></div>
+</div>
+<!-- Копирайт и счетчики (конец) -->
+<div class="clear"></div>
+</div>
+<!-- НИЖНЯЯ ЧАСТЬ (КОНЕЦ) -->
+</div>
+<!-- Div центровки страницы (конец) -->
+</body>
+</html>
+

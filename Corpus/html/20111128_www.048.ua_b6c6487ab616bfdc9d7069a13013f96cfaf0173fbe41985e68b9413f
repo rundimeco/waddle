@@ -1,0 +1,1699 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>В Одессе официально болеют ОРВИ почти 5 тысяч человек - Новости Одессы - 048.ua - сайт города Одессы</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="По данным СЭС,заболеваемость на сезонном уровне." />
+<meta name="keywords" content="Новости Одесса, города, br, Одессе, человек, респираторными, инфекциями, официально, почти, острыми, тысяч" /><meta name="robots" content="index, follow" />
+<link href="/design/css/comments.css" media="screen" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="Новости Одессы" href="/rss" />
+<link rel="alternate" type="application/rss+xml" title="Афиша Одессы" href="/rss/afisha" />
+<link href="/design/css/style.css?ver=new" media="screen" rel="stylesheet" type="text/css" />
+
+<link href="/js/jquery/jquery.lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/js/jquery/thickbox.css" media="screen" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" href="/js/jquery/css/smoothness/jquery-ui-1.8.4.custom.css" type="text/css" media="screen" />
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+<script type="text/javascript">
+    //<![CDATA[
+var client;
+$(document).ready(function(){
+	client = jQuery.Zend.jsonrpc({url: '/api/v1/jsonrpc'});
+	$('#subscribe').click(function(){
+		subscribenews('subscribe', $('#email').val());
+	});
+
+	$('#unsubscribe').click(function(){
+		subscribenews('unsubscribe', $('#email').val());
+	});
+});
+function subscribenews(action, email){
+	var data = client.subscribenews(action, email);
+	$.each(data, function(index, value) {
+		$("#error_block").html(value);
+	});
+}
+    //]]>
+</script>
+<script type="text/javascript" src="//yandex.st/share/share.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+$(document).ready(function() {
+	new Ya.share({
+		element: 'sharelink',
+		l10n: 'ru',
+		elementStyle: {
+			'type': 'none',
+			'border': false,
+			'quickServices': ['vkontakte', 'facebook', 'twitter', 'odnoklassniki', 'gbuzz', 'moimir', 'yaru']
+		},
+		title: 'В Одессе официально болеют ОРВИ почти 5 тысяч человек',
+			image: 'http://citysites.com.ua/upload/img/news/top/small/orvi1322413805.jpeg',
+			serviceSpecific: {
+			twitter: {
+				title: 'В Одессе официально болеют ОРВИ почти 5 тысяч человек #odessa'
+			}
+		}
+	});
+});    //]]>
+</script>
+<script type="text/javascript" src="/js/comments.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+var page_id;
+var page_type;
+$(document).ready(function() {
+	page_id = 95913;
+	page_type = "news";
+});    //]]>
+</script>
+<script type="text/javascript" src="/js/jquery/jquery.lightbox.min.js"></script>
+<script type="text/javascript" src="/js/jquery/thickbox-compressed.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.zend.jsonrpc.js"></script></head>
+<body>
+<div id="vk_api_transport"></div><script type="text/javascript">
+window.vkAsyncInit = function() {
+	VK.init({apiId: 2025692});
+VK.Widgets.Like("vk_like", {type: "button", verb: 1});};
+setTimeout(function() {
+	var el = document.createElement('script');
+	el.type = 'text/javascript';
+	el.src = 'http://vkontakte.ru/js/api/openapi.js';
+	el.async = true;
+	document.getElementById('vk_api_transport').appendChild(el);
+}, 0);
+</script><div id="fb-root"></div><script type="text/javascript">
+window.fbAsyncInit = function() {
+	FB.init({appId:143932985658653, status:true, cookie:true, xfbml:true});
+};
+
+(function() {
+	var e = document.createElement('script');
+	e.type = 'text/javascript';
+	e.src = document.location.protocol + '//connect.facebook.net/ru_RU/all.js';//#xfbml=1
+	e.async = true;
+	document.getElementById('fb-root').appendChild(e);
+}());
+</script><div id="all_body">
+<style type="text/css">
+#pogoda_small
+{
+	position:absolute;
+	display:none;
+}
+</style>
+<div id="pogoda_small" style="display:none">
+	<table id="pogoda" width="140px" border="0" cellspacing="0" cellpadding="0">
+	  <tr>
+	    <td>
+				<div class="big">Сегодня</div>
+				<div class="small">Вечером <div class="rovno"><img src="/upload/img/pogoda/icons/40x40/icon_008_1.gif" alt="Небольшая облачность, без осадков" width="16" align="left" />&nbsp;+7 °С</div></div>
+				<div class="big">Завтра</div>
+				<div class="small">Днём <div class="rovno"><img src="/upload/img/pogoda/icons/40x40/icon_008_2.gif" alt="Переменная облачность, без осадков" width="16" align="left" />&nbsp;+8 °С</div></div>
+				<div class="small">Вечером <div class="rovno"><img src="/upload/img/pogoda/icons/40x40/icon_008_1.gif" alt="Небольшая облачность, без осадков" width="16" align="left" />&nbsp;+6 °С</div></div>
+				<div class="txt"><a href="/pogoda">Погода на неделю</a></div>
+
+				<div id="rounded">
+					<div class="r1"></div>
+					<div class="r1"></div>
+					<div class="r2"></div>
+					<div class="r3"></div>
+					<div class="r5"></div>
+				</div><!-- /rounded -->
+			</td>
+	  </tr>
+	</table>
+</div>
+
+<!-- Header начало  -->
+<div id="header">
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="260"><img src="/design/img/cis_header_01.jpg" width="260" height="14" /></td>
+    <td width="99%" background="/design/img/cis_header_02.jpg"><img src="/design/img/cis_header_02.jpg" width="744" height="14" /></td>
+  </tr>
+  <tr>
+    <td width="260" background="/design/img/cis_header_03.jpg">
+
+     <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="45%" valign="top"><h2 class="header_cityname" style="margin: 0px;"><img src="/design/img/10x10.gif" width="10" height="60" align="left" />Одесса</h2>
+          <span class="header_date"></span>
+     	</td>
+        <td width="55%" valign="top">
+<script type="text/javascript">
+$(document).ready(function(){
+
+	$("#pogoda_blok").click(
+		function(){
+			var p = $("#pogoda_blok");
+			var offset = p.offset();
+	        offsetleft = offset.left;
+			offsettop = offset.top + 30;
+            $("#pogoda_small").css({'top' : offsettop, 'left' : offsetleft});
+			$("#pogoda_small").slideToggle("fast");
+			return false;
+		},
+		function(){
+			$("#pogoda_small").slideUp("fast");
+		}
+	);
+});
+</script>
+<div id="pogoda_blok" style="cursor:pointer;">
+	<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+		<tr>
+			<td width="20%">&nbsp;
+			</td>
+			<td width="40%" valign="top">
+				<img src="/upload/img/pogoda/icons/40x40/icon_001.gif" alt="Ясно, без осадков" hspace="4" align="left" />
+			</td>
+			<td width="50%" valign="top" noWrap>
+				<div align="center" class="dashbord"><span class="header_weather">+9 °С</span></div>
+			</td>
+		</tr>
+	</table>
+</div>
+        </td>
+      </tr>
+    </table>
+<script type="text/javascript">
+var mounts=new Array('января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря');
+$(document).ready(function(){
+	var dateObj = new Date();
+	dateObj.setHours(dateObj.getHours()+2);
+	var new_date_str = dateObj.getUTCDate() + ' ' + mounts[dateObj.getUTCMonth()] +
+	' | ' + dateObj.getUTCHours() + ':' + addnul(dateObj.getUTCMinutes());
+	$('.header_date').html(new_date_str);
+});
+function addnul(n)
+{
+	if (n < 10) {
+		return '0' + n;
+	}
+	return n;
+}
+</script>
+    </td>
+    <td rowspan="2">
+<style type="text/css">
+#headsearch td
+{
+color:black;
+font-family:verdana,tahoma,arial,verdana;
+font-size:11px;
+text-align:left;
+}
+</style>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="112" background="/design/img/header_main.jpg" valign="top">				<div style="position:absolute;z-index:1001;">
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="javascript:void(0);" onClick="$('#headsearch').slideToggle();"><img src="/design/img/but_search.png" width="59" height="20" alt="Поиск" border="0"></a>
+					</div>
+					<div id="headsearch" style="display:none;height:97px;">
+					<form action="/search" method="get" id="searchform">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tr><td height="41" colspan="5"><div style="height:41px;" class="opac40">&nbsp;</div></td></tr>
+						<tr>
+									<td width="15%" class="opac40"></td>
+									<td width="60%">
+										<input type="text" name="q" id="searchinput" value="" class="searchform" placeholder="Поиск по сайту" />									</td>
+									<td width="1%" class="opac40"></td>
+									<td width="9%">
+					          <input type="submit" value="Найти" class="searchform">
+									</td>
+									<td width="15%" class="opac40"></td>
+						</tr>
+						<tr><td height="41" colspan="5"><div style="height:41px;" class="opac40">&nbsp;</div></td></tr>
+					</table>
+					</form>
+					</div>
+&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="55" background="/design/img/cis_header_06.jpg">
+		<div id="mainmenu">
+<a href="/" style="font-weight:bold;" target="_self">Главная</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" align="absmiddle" /> 
+<a href="/news" style="font-weight:bold;" target="_self" class="selected">Новости</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" align="absmiddle" /> 
+<a href="/catalog" style="font-weight:bold;" target="_self">Справочник предприятий</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" align="absmiddle" /> 
+<a href="/shops" style="font-weight:bold;" target="_self">Шоппинг</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" align="absmiddle" /> 
+<a href="/job" style="font-weight:bold;" target="_self">Работа</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" align="absmiddle" /> 
+<a href="http://www.048.ua/auto" style="font-weight:bold; color:#ff2626;" target="_self">Авто</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" align="absmiddle" /> 
+<a href="/dosug" style="font-weight:bold;" target="_self">Досуг</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" align="absmiddle" /> 
+<a href="/afisha" style="font-weight:bold;" target="_self">Афиша</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" align="absmiddle" /> 
+<a href="http://love.048.ua" style="font-weight:bold;" target="_blank">Знакомства</a><br />
+</div>
+<div id="mainmenu2">
+<a href="/photovistavka/37" style="font-weight:bold; color:red;" target="_self">Битва ФАКУЛЬТЕТОВ</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" vspace="7" align="absmiddle" /> 
+<a href="/photovistavka/40" style="font-weight:bold; color:yellow;" target="_self">Королева Одессы 2011</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" vspace="7" align="absmiddle" /> 
+<a href="/photovistavka/39" style="font-weight:bold; color:#399fff;" target="_self">Кубок Одесской области по черлидингу</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" vspace="7" align="absmiddle" /> 
+<a href="/pogoda" style="font-weight:bold;" target="_self">Погода</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" vspace="7" align="absmiddle" /> 
+<a href="/doska" style="font-weight:bold;" target="_self">Объявления</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" vspace="7" align="absmiddle" /> 
+<a href="/transport" style="font-weight:bold;" target="_self">Транспорт</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" vspace="7" align="absmiddle" /> 
+<a href="/horo" style="font-weight:bold;" target="_self">Гороскоп</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" vspace="7" align="absmiddle" /> 
+<a href="/golos" style="font-weight:bold;" target="_self">Голос города</a> <img src="/design/img/delitel_mainmenu.gif" width="1" height="10" hspace="5" vspace="7" align="absmiddle" /> 
+<a href="/map" style="font-weight:bold;" target="_self">Карта города</a>
+</div>
+		</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td width="260"><a href="/"><img src="/design/img/cis_header_05.jpg" alt="048.ua - сайт города Одессы" width="260" height="107" border="0" usemap="#Map" /></a></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="30" background="/design/img/header_search_fon.gif" bgcolor="eeeeee">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+                <td style="padding-left:10px;" width="180">
+                      <span style="position: relative; top: -7px; font-size:12px;">Мы в сети:</span>
+             <a href="/redirect/url?url=http://vkontakte.ru/club11634969" target="_blank"><img src="/design/img/icon_vkontakte_22x22.jpg" width="22" border="0" alt="Мы вконтакте"/></a>                 <a href="/redirect/url?url=http://www.facebook.com/siteOdessa" target="_blank"><img src="/design/img/icon_facebook_22x22.jpg"  width="22" border="0" alt="Мы на фейсбуке"/></a>                <a href="/redirect/url?url=http://twitter.com/Newsodessa" target="_blank"><img src="/design/img/icon_twitter_22x22.jpg"   width="22" border="0" alt="Мы в твиттере"/></a>                    </td>
+				        <td colspan="2">
+        <div style="margin-left:10px;">
+<img src="/upload/img/menu/img_reyting13132374121313503401.jpg" border="0" style="position: relative; top: 1px;" /> <a href="http://www.048.ua/news/top" style="color: #000000;" target="_self">ТОП-20 новостей сайта</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/upload/img/menu/konkyrs13177131281319025608.jpg" border="0" style="position: relative; top: 1px;" /> <a href="/photovistavka/38" style="color: #000000;" target="_self">Художник Папашон</a></div>
+	
+        </td>
+        <td width="13%">
+		<nobr>
+		<div align="right">
+            <a href="/catalog/add" class="small_3">Регистрация предприятия</a> &nbsp;&nbsp;
+            <a href="/kabinet" class="small_3">Вход для предприятий</a> &nbsp;&nbsp;
+            <a href="/rss"><img src="/design/img/icon_rss.gif" width="15" height="15" border="0" style="position: relative; top: 3px; left: 0px;" /></a>
+		    <a href="/rss" class="small_3">RSS</a>&nbsp;&nbsp;		</div>
+		</nobr>		</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</div>
+<!-- Header конец-->
+
+
+<div style="clear:both"></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+	<tr>
+		<td width="220" valign="top"><div class="jacket"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="220" height="100">
+	<param name="movie" value="/upload/jackets/banner_global_220x1001320134859.swf">
+	<param name="menu" value="false">
+	<param name="quality" value="high">
+	<param name="swliveconnect" value="true">
+	<param name="wmode" value="opaque"><param name="AllowScriptAccess" value="always">
+	<embed src="/upload/jackets/banner_global_220x1001320134859.swf" width="220" height="100" menu="false" quality="high"	swliveconnect="true" wmode="opaque" AllowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" ></embed><noembed></noembed>
+</object></div><div class="page_razdel">Рубрики</div>
+<br/>
+<div id="rubrika">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/top"><strong>Топ-20</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/1"><strong>Криминал</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/2"><strong>Культура</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/3"><strong>Общество</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/4"><strong>Политика</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/5"><strong>Происшествия</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/11"><strong>Бизнес</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center">&nbsp;</td>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="80%"><a href="/news/newscompanies"><strong>Новости компаний</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center">&nbsp;</td>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="80%"><a href="/news/akciicompanies"><strong>Акции компаний</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/7"><strong>Спорт</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/8"><strong>Страна и мир</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/18"><strong>Потребителю</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/9"><strong>Технологии</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/20"><strong>Экология</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/16"><strong>Здоровье</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/17"><strong>Образование</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/10"><strong>Экономика</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="10%" height="24" align="center"><img src="/design/img/strelka_green.gif" width="7" height="7" /></td>
+		<td width="90%" colspan="2"><a href="/news/cat/13"><strong>Реклама</strong></a> </td>
+	</tr>
+	<tr>
+		<td background="/design/img/footer_line_2.gif" colspan="3"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+	</tr>
+</table>
+</div>
+<br/>
+<div class="jacket"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="220" height="432">
+	<param name="movie" value="/upload/jackets/banner_fitlady_220x4321321972736.swf">
+	<param name="menu" value="false">
+	<param name="quality" value="high">
+	<param name="swliveconnect" value="true">
+	<param name="wmode" value="opaque"><param name="AllowScriptAccess" value="always">
+	<embed src="/upload/jackets/banner_fitlady_220x4321321972736.swf" width="220" height="432" menu="false" quality="high"	swliveconnect="true" wmode="opaque" AllowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" ></embed><noembed></noembed>
+</object></div><div class="page_razdel">Подписка на новости и афишу</div><br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+ 		<td height="128" valign="top" bgcolor="#3D5474">
+ 			<p><font color="#FFFFFF"><br />&nbsp;&nbsp;&nbsp; Ваш e-Mail адрес </font></p>
+			<p align="center">
+<input type="text" name="email" id="email" value="" maxlength="255" style="width:162px;" />			</p>
+			<p style="color: yellow; text-align: center;" class="errors" id="error_block"></p>
+			<p align="center"><input type="submit" value="Подписаться" style="width:90px; height:23px; border:0px none black; padding:0px; background-image:url(/design/img/btn_blue_170x23.jpg); color:#FFFFFF; font:Tahoma; font-size:11px;" name="subscribe" id="subscribe"> <input type="submit" value="Отписаться" style="width:90px; height:23px; border:0px none black; padding:0px; background-image:url(/design/img/btn_blue_170x23.jpg); color:#FFFFFF; font:Tahoma; font-size:11px;" name="unsubscribe" id="unsubscribe"></p>
+		</td>
+	</tr>
+</table>
+<br />
+<br/>
+<div class="jacket"><a href="/redirect/url?url=http%3A%2F%2Fwww.hh.ua" target="_blank"><img src="/upload/jackets/banner-220h1001315901723.gif" border="0"></a></div><div class="page_razdel">Архив новостей</div>
+<p><div style="background-color:#3E5475; padding:10px 0px; text-align:center; margin: 0px 2px;">
+
+<select name="month" id="month" style="width:100px;">
+    <option value="1" label="Январь">Январь</option>
+    <option value="2" label="Февраль">Февраль</option>
+    <option value="3" label="Март">Март</option>
+    <option value="4" label="Апрель">Апрель</option>
+    <option value="5" label="Май">Май</option>
+    <option value="6" label="Июнь">Июнь</option>
+    <option value="7" label="Июль">Июль</option>
+    <option value="8" label="Август">Август</option>
+    <option value="9" label="Сентябрь">Сентябрь</option>
+    <option value="10" label="Октябрь">Октябрь</option>
+    <option value="11" label="Ноябрь" selected="selected">Ноябрь</option>
+    <option value="12" label="Декабрь">Декабрь</option>
+</select>
+<select name="years" id="years" style="width:85px;">
+    <option value="2011" label="2011" selected="selected">2011</option>
+    <option value="2010" label="2010">2010</option>
+</select></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	$("#month").change(function()
+{
+    $.get("/ajax/calendar", {month_ajax: $("#month").val(),years_ajax: $("#years").val(), model: 'Table_News_News'}, function(data)
+    {
+       $("#calendar").html(data);
+    });
+		$('#calendar').slideUp("slow");
+		$('#calendar').slideDown("slow");
+	});
+	$("#years").change(function()
+{
+   $.get("/ajax/calendar", {month_ajax: $("#month").val(),years_ajax: $("#years").val(), model: 'Table_News_News'}, function(data)
+    {
+       $("#calendar").html(data);
+    });
+		$('#calendar').slideUp("slow");
+		$('#calendar').slideDown("slow");
+	});
+
+ $.get("/ajax/calendar", {month_ajax: $("#month").val(),years_ajax: $("#years").val(), model: 'Table_News_News'}, function(data)
+    {
+       $("#calendar").html(data);
+    });
+});
+</script>
+
+
+
+<div style="min-height:160px; width:220px;"> <div id="calendar" style="width:100%; " ></div></div></p>
+<p><img src="/design/img/10x10.gif" width="220" height="5" alt="" /></p></td>
+		<td width="90%" valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><div align="center"><div class="jacket"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="468" height="110">
+	<param name="movie" value="/upload/jackets/50optika1321343659.swf">
+	<param name="menu" value="false">
+	<param name="quality" value="high">
+	<param name="swliveconnect" value="true">
+	<param name="wmode" value="opaque"><param name="AllowScriptAccess" value="always">
+	<embed src="/upload/jackets/50optika1321343659.swf" width="468" height="110" menu="false" quality="high"	swliveconnect="true" wmode="opaque" AllowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" ></embed><noembed></noembed>
+</object></div></div></td>
+				</tr>
+			</table><br />
+			<h1><span class="page_razdel_big">В Одессе официально болеют ОРВИ почти 5 тысяч человек</span></h1>
+			<img src="/design/img/homesm.gif" width="10" height="10" align="absmiddle"/>
+			<span class="kroshki">
+				<a href="/" class="kroshki">Сайт города Одессы</a> /
+				<a href="/news" class="kroshki">Новости</a> /
+				<a href="/news/cat/16" class="kroshki">Здоровье</a> /
+				<strong>В Одессе официально болеют ОРВИ почти 5 тысяч человек</strong>
+			</span><br />
+		<a href="http://www.yandex.ru/?add=46892&from=promocode" target="_blank" rel="nofollow"><img src="/design/img/yand-add-b-ru.png" border="0" style="margin-top: 4px;"></a><br />
+			<br />
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td width="63%"><span class="small_4"><font color="#8E96A9">28.11.2011 | 09:15 </font></span><br/>
+					<span>Разместить в своём: <span id="sharelink"></span></span></td>
+					<td width="37%"><div align="right"> <img src="/design/img/icon_print.gif" alt="Версия для печати" align="absmiddle" border="0">&nbsp; <a href="/news/print/newsId/95913" target="_blank" class="small">Версия для печати</a> </div></td>
+				</tr>
+			</table>
+			<br />
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td width="100%">
+			<span class="news_text_full">
+<img src="http://citysites.com.ua/upload/img/news/top/orvi1322413805.jpeg" alt="В Одессе официально болеют ОРВИ почти 5 тысяч человек" class="news_img_right_2" align="left" border="0"><p>Заболеваемость острыми респираторными инфекциями среди населения города находится на сезонном уровне, сообщили в санитарно-эпидемиологической службе города Одессы.<br />За последнюю неделю за медицинской помощью с симптомами острой респираторной вирусной инфекции в лечебно-профилактические учреждения города обратилось 4 867 человек, что соответствует средним многолетним контрольным показателям. <br />В настоящее время на территории города регистрируется заболеваемость острыми респираторными инфекциями негриппозной природы. <br />Наиболее важным моментом в борьбе с острыми респираторными инфекциями и гриппом является их профилактика, отмечают специалисты. <br />Как показывает опыт предыдущих лет, наибольшую эффективность в профилактике заболевания гриппом имеет применение противогриппозных вакцин. Введение в организм вакцины не может вызвать заболевание, но путем выработки защитных антител стимулирует иммунную систему для борьбы с инфекцией. <br />На сегодня в аптечной сети города реализуются вакцины ФЛЮАРИКС, ИНФЛУВАК, ВАКСИГРИПП, ГРИППОЛ ПЛЮС, ИНФЛЕКСАЛ В. В Одессе в этом году пожелало получить прививку против гриппа 1395 человек.</p>			<div align="center"><br />
+			</div>
+			</span>
+			    </td>
+			  </tr>
+			  <tr>
+					<td align="right"><strong>048.ua</strong><br />					</td>
+				</tr>
+			</table>
+			<div style="padding-bottom: 15px;">
+				<div id="vk_like" style="display: inline;"></div>
+								<div style="display: inline; padding-right: 15px; position: relative; bottom: 3px;"><fb:like send="false" layout="button_count" show_faces="true" action="recommend"></fb:like></div>
+				<div style="display:inline;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="ru">Твитнуть</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+				<div style="display:inline;"><g:plusone size="medium"></g:plusone></div>
+				<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{lang: 'ru'}</script>
+			</div>
+			<div class="jacket"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="468" height="100">
+	<param name="movie" value="/upload/jackets/market-a_468x1001320417251.swf">
+	<param name="menu" value="false">
+	<param name="quality" value="high">
+	<param name="swliveconnect" value="true">
+	<param name="wmode" value="opaque"><param name="AllowScriptAccess" value="always">
+	<embed src="/upload/jackets/market-a_468x1001320417251.swf" width="468" height="100" menu="false" quality="high"	swliveconnect="true" wmode="opaque" AllowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" ></embed><noembed></noembed>
+</object></div><div class="title_comments">
+	Оставить комментарий			<span style="cursor:pointer;"><img title="Анонимно" src="/design/img/comments/btn_anonim.jpg" onClick="setTimeout(function() {
+	$.post('/comment/savejsauth', {
+		authtype:'anonim'
+	}, function(ret) {
+		if (typeof(authEvent) != 'undefined') {
+			authEvent();
+		}
+	},
+	'json');
+}, 0);" border="0" /></span>		<span style="cursor:pointer;"><img title="ВКонтакте" src="/design/img/comments/btn_vkontakte.jpg" onClick="javascript:if (typeof(VK) != 'undefined') {
+	session = VK.Auth.getSession();
+	if (session) {
+		authInfo(session);
+	} else {
+		VK.Auth.login(function(response) {
+			if (response.session) {
+				authInfo(response.session);
+			}
+		});//, 1025);
+	}
+}
+
+function authInfo(session) {
+	$.post('/comment/savejsauth', {
+		authtype: 'vkontakte'
+	}, function(ret) {
+		if (ret.status && typeof(authEvent) != 'undefined') {
+			authEvent();
+		}
+	},
+	'json');
+}" border="0" /></span>		<span style="cursor:pointer;"><img title="Facebook" src="/design/img/comments/btn_facebook.jpg" onClick="javascript:if (typeof(FB) != 'undefined') {
+	session = FB.getSession();
+	if (session) {
+		authInfo(session);
+	} else {
+		FB.login(function (responce) {
+			if (responce.session) {
+				authInfo(responce.session);
+			}
+		});//, {perms:'publish_stream'});
+	}
+}
+
+function authInfo(session) {
+	$.post('/comment/savejsauth', {
+		authtype: 'facebook'
+	}, function(ret) {
+		if (ret.status && typeof(authEvent) != 'undefined') {
+			authEvent();
+		}
+	},
+	'json');
+}" border="0" /></span>		<span style="cursor:pointer;"><span onClick="javascript:var sH=2*screen.height/3;
+var sW=2*screen.width/3;
+var p='height='+sH+', width='+sW+' toolbar=no, location=no, directories=no, menubar=no, scrollbars=no, resizable=no, status=no';
+open('/comment/openid', '', p);"><img title="Яndex" src="/design/img/comments/btn_yandex.jpg"  border="0" />&nbsp;<img title="MailRu" src="/design/img/comments/btn_mailru.jpg"  border="0" />&nbsp;<img title="Google" src="/design/img/comments/btn_google.jpg"  border="0" />&nbsp;<img title="OpenID" src="/design/img/comments/btn_openid.jpg"  border="0" />&nbsp;</span></span></div>
+<div style="margin-left: 3px;">Пожалуйста, не оставляйте оскорбительные, клеветнические комментарии, призывы к национальной розни, а также сообщения не относящиеся к теме публикации. Эти комментарии будут удалены.</div>
+<div id="comment-error" class="errors"></div>
+<noscript>
+	<div class="errors">Для отправки комментариев нужно включить javascript</div>
+</noscript>
+<div id="comment-form">
+<form enctype="multipart/form-data" method="post" class="default_form" onSubmit="javascript:publishMessage(); return false;" action=""><table class="comment">
+<tr><td class="comment_txt" colspan="3">
+<textarea name="txt" id="txt" cols="60" rows="10"></textarea></td></tr>
+<tr>
+<td class="comment_subs"><div class="comment_subs"><label for="subs" class="required">Имя</label>
+
+<input type="text" name="subs" id="subs" value="" maxlength="255" size="20" /></div></td>
+<td class="comment_captcha"><div class="comment_captcha"><input type="hidden" name="captcha[id]" value="a68d221be9319170c4a006a89354d650" class="required" id="captcha-id" />
+<input type="text" name="captcha[input]" id="captcha-input" value="" class="required" /><img align="absmiddle" width="70" height="30" alt="" src="/tmp/captcha/a68d221be9319170c4a006a89354d650.png" /></div></td>
+<td class="comment_submit">
+<input type="submit" name="submit" id="submit" value="Написать" class="button_gray" style="width: 140px;" /></td></tr></table></form>
+<script type="text/javascript">
+setTimeout(function() {
+	$("div.comment_subs input#subs").bind("focusin", function() {
+		$("#subs").unbind("focusin");
+		$("div.comment_subs label").html("");
+	});
+}, 0);
+</script></div><!--<div id="comment-form">-->
+<a id="comments"></a>
+<div id="comment-block">
+	<div id="comment-counts"><div style="float:left;">Всего сообщений: 0&nbsp;</div>
+</div>
+	<div id="comment-messages"></div><!--<div id="comment-messages">-->
+</div> <!--<div id="comment-block">-->
+<div class="page_razdel">Новости на подобную тему</div>
+<br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/95899">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/medsestra1322392376.jpg" alt="Сколько стоит плохое лечение?" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">27.11 | 15:00</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/95899">Сколько стоит плохое лечение?</a>
+			</span>
+			<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/95899#comments">
+				<img src="/design/img/comment.jpg" border="0">&nbsp;(1)
+			</a>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/95742">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/deti1322225368.jpg" alt="Одесситам предложат прививать детей от менингококка" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">25.11 | 14:50</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/95742">Одесситам предложат прививать детей от менингококка</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/95724">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/privivka1322223302.jpg" alt="Бельгийскую прививку АКДС готовы вернуть в украинские поликлиники" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">25.11 | 14:15</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/95724">Бельгийскую прививку АКДС готовы вернуть в украинские поликлиники</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/95507">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/privivka1322202248.jpeg" alt="Медики не нашли связи между прививкой и смертью ребенка" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">25.11 | 09:30</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/95507">Медики не нашли связи между прививкой и смертью ребенка</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/95391">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/100matolog1322140232.jpeg" alt="В Одессе помогут льготникам за счет высокопоставленных стоматологов" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">24.11 | 16:15</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/95391">В Одессе помогут льготникам за счет высокопоставленных стоматологов</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/95375">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/1322138515.jpeg" alt="Медики предупредили одесситов о смертельно опасной бацилле" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">24.11 | 15:30</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/95375">Медики предупредили одесситов о смертельно опасной бацилле</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/95020">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/rebenok1322050393.jpg" alt="Родители умершего двухлетнего малыша считают, что перед прививкой медики не провели обследования" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">23.11 | 14:15</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/95020">Родители умершего двухлетнего малыша считают, что перед прививкой медики не провели обследования</a>
+			</span>
+			<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/95020#comments">
+				<img src="/design/img/comment.jpg" border="0">&nbsp;(2)
+			</a>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/94598">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/shpric1321956279.jpeg" alt="В Минздраве отрицают, что смерть двухлетнего ребенка в Одессе связана с введением вакцины" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">22.11 | 12:00</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/94598">В Минздраве отрицают, что смерть двухлетнего ребенка в Одессе связана с введением вакцины</a>
+			</span>
+			<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/94598#comments">
+				<img src="/design/img/comment.jpg" border="0">&nbsp;(1)
+			</a>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/94467">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/bolnicy1321941812.jpg" alt="В Одессе медики устанавливают, была ли прививка причиной смерти двухлетнего ребенка" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">22.11 | 09:00</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/94467">В Одессе медики устанавливают, была ли прививка причиной смерти двухлетнего ребенка</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/93810">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/kadenuk1321613053.jpeg" alt="В Одесской области построят целый центр для реабилитации двух украинских космонавтов" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">18.11 | 13:00</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/93810">В Одесской области построят целый центр для реабилитации двух украинских космонавтов</a>
+			</span>
+			<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/93810#comments">
+				<img src="/design/img/comment.jpg" border="0">&nbsp;(4)
+			</a>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+</table>
+<div align="center"><div class="jacket"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="468" height="110">
+	<param name="movie" value="/upload/jackets/banner_rudova_468x1001321276847.swf">
+	<param name="menu" value="false">
+	<param name="quality" value="high">
+	<param name="swliveconnect" value="true">
+	<param name="wmode" value="opaque"><param name="AllowScriptAccess" value="always">
+	<embed src="/upload/jackets/banner_rudova_468x1001321276847.swf" width="468" height="110" menu="false" quality="high"	swliveconnect="true" wmode="opaque" AllowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" ></embed><noembed></noembed>
+</object></div></div>
+<div class="page_razdel">Последние новости</div><br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96222">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/pojar1322488510.jpeg" alt="На Одесщине в собственном доме сгорела 86-летняя женщина" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 17:00</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96222">На Одесщине в собственном доме сгорела 86-летняя женщина</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96249">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/91322491388.jpg" alt="Небо над Одессой заволокло дымом (фото)" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 16:45</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96249">Небо над Одессой заволокло дымом (фото)</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96210">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/dtp_velik1322487149.jpeg" alt="В Одессе Ниссан сбил велосипедиста" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 16:30</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96210">В Одессе Ниссан сбил велосипедиста</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96204">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/vziatka1322486669.jpeg" alt="В Одесской области на крупной взятке «погорела» чиновница одного из беднейших районов" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 16:15</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96204">В Одесской области на крупной взятке «погорела» чиновница одного из беднейших районов</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96197">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/1322485525.jpg" alt="В Одессе пожарные спасли кошку" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 16:00</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96197">В Одессе пожарные спасли кошку</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96195">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/gaz1322485450.jpeg" alt="Под Одессой в жилой пятиэтажке взорвался газ" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 15:45</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96195">Под Одессой в жилой пятиэтажке взорвался газ</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96185">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/pianyi_voditel1322484650.jpeg" alt="Пьяный водитель «Лады» устроил «догонялки» в центре Одессы" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 15:30</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96185">Пьяный водитель «Лады» устроил «догонялки» в центре Одессы</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96175">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/chechetovy1322484040.jpeg" alt="Депутатам за народные деньги закупили 500 невероятно дорогих ноутбуков" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 15:15</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96175">Депутатам за народные деньги закупили 500 невероятно дорогих ноутбуков</a>
+			</span>
+			<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/96175#comments">
+				<img src="/design/img/comment.jpg" border="0">&nbsp;(3)
+			</a>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96178">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/1322484152.jpg" alt="Одесские власти ответят за гриф «Для служебного пользования» Генплана в прокуратуре" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 15:00</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96178">Одесские власти ответят за гриф «Для служебного пользования» Генплана в прокуратуре</a>
+			</span>
+			<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/96178#comments">
+				<img src="/design/img/comment.jpg" border="0">&nbsp;(1)
+			</a>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96191">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/n_god1322485221.jpg" alt="Правительство отменило новогодние и рождественские каникулы для украинцев" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 14:59</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96191">Правительство отменило новогодние и рождественские каникулы для украинцев</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96168">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/_peshehod1322483177.jpeg" alt="Под Одессой Ниссан сбил 34-летнего мужчину" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 14:45</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96168">Под Одессой Ниссан сбил 34-летнего мужчину</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96152">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/shtyrm_1322482041.jpg" alt="Пенсионеры с вилами и лопатами в Донецке взяли штурмом обладминистрацию" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 14:30</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96152">Пенсионеры с вилами и лопатами в Донецке взяли штурмом обладминистрацию</a>
+			</span>
+			<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/96152#comments">
+				<img src="/design/img/comment.jpg" border="0">&nbsp;(2)
+			</a>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96148">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/1322481554.jpg" alt="ДемАльянс нашел повод, как оштрафовать одесскую мэрию" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 14:15</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96148">ДемАльянс нашел повод, как оштрафовать одесскую мэрию</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96163">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/pojar1322482772.jpeg" alt="Неподалеку одесского ж/д вокзала сгорели два двухэтажных жилых дома (фото)" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 14:10</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96163">Неподалеку одесского ж/д вокзала сгорели два двухэтажных жилых дома (фото)</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96133">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/ykrain7a_vengriia1322480112.jpeg" alt="В Одессе объявят о сотрудничестве министры Украины и Венгрии" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 14:00</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96133">В Одессе объявят о сотрудничестве министры Украины и Венгрии</a>
+			</span>
+			<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/96133#comments">
+				<img src="/design/img/comment.jpg" border="0">&nbsp;(1)
+			</a>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96131">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/meriia1322479977.jpg" alt="Из Приморского района Одессы собираются отселить 26 тысяч человек?" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 13:45</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96131">Из Приморского района Одессы собираются отселить 26 тысяч человек?</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96127">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/traktor1322479790.jpeg" alt="В Одесской области под колесами трактора погиб «пассажир» из прицепа" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 13:30</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96127">В Одесской области под колесами трактора погиб «пассажир» из прицепа</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96120">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/kotovskie_pograncy1322479147.jpeg" alt="В Одесской области пограничники с голливудскими спецэфектами задерживали «контрабас» с молдавским куревом" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 13:15</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96120">В Одесской области пограничники с голливудскими спецэфектами задерживали «контрабас» с молдавским куревом</a>
+			</span>
+			<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/96120#comments">
+				<img src="/design/img/comment.jpg" border="0">&nbsp;(1)
+			</a>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96103">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/sypr1322477457.jpeg" alt="Одесские «януковичи» и «тигипковцы» заявляют, что проблем между ними нет" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 13:00</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96103">Одесские «януковичи» и «тигипковцы» заявляют, что проблем между ними нет</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+		<td valign="top">&nbsp;</td>
+		<td width="50%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="60">
+			<a href="/article/96087">
+				<img class="news_img"  src="http://citysites.com.ua/upload/img/news/top/small/syd1322476531.jpg" alt="Под Одессой за квартирные махинации осудили военного офицера" width="58" border="0" />
+			</a>
+		</td>
+		<td width="1"><img src="/design/img/10x10.gif" width="10" height="10" /></td>
+		<td width="95%" valign="top">
+			<span class="small_4">				
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" align="absmiddle" />
+			<font color="#8E96A9">28.11 | 12:45</font>
+			</span><br />
+			<span class="news_name_3">
+				<a href="/article/96087">Под Одессой за квартирные махинации осудили военного офицера</a>
+			</span>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+</table>
+<div align="center"></div>
+</td>
+<td width="220" valign="top"><div class="jacket"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="220" height="100">
+	<param name="movie" value="/upload/jackets/glashatay_220x1001317023913.swf">
+	<param name="menu" value="false">
+	<param name="quality" value="high">
+	<param name="swliveconnect" value="true">
+	<param name="wmode" value="opaque"><param name="AllowScriptAccess" value="always">
+	<embed src="/upload/jackets/glashatay_220x1001317023913.swf" width="220" height="100" menu="false" quality="high"	swliveconnect="true" wmode="opaque" AllowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" ></embed><noembed></noembed>
+</object></div><div class="page_razdel">ТОП новости</div>
+<br/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="14%" valign="top" valign="top">
+		<a href="/article/94304"><img class="news_img" src="http://citysites.com.ua/upload/img/news/top/small/1321874871.jpg" vspace="2" width="58" border="0" /></a>
+		</td>
+		<td width="1%"><img src="/design/img/10x10.gif" width="5" height="10" /></td>
+		<td width="85%" valign="top"><p style="margin-top: 0px;">
+		<span class="small_4"><font color="#999999">
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" valign="absmiddle" />
+		</font></span>
+		<span class="news_name_3"><a href="/article/94304">В Одессе прошла акция «Украина против Януковича»</a></span>
+						<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/94304#comments"><img src="/design/img/comment.jpg" border="0">&nbsp;(44)</a>
+		<br />
+		</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="14%" valign="top" valign="top">
+		<a href="/article/93845"><img class="news_img" src="http://citysites.com.ua/upload/img/news/top/small/ianykovich1321615394.jpg" vspace="2" width="58" border="0" /></a>
+		</td>
+		<td width="1%"><img src="/design/img/10x10.gif" width="5" height="10" /></td>
+		<td width="85%" valign="top"><p style="margin-top: 0px;">
+		<span class="small_4"><font color="#999999">
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" valign="absmiddle" />
+		</font></span>
+		<span class="news_name_3"><a href="/article/93845">Одесса, Янукович, «Потемкинские деревни»</a></span>
+						<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/93845#comments"><img src="/design/img/comment.jpg" border="0">&nbsp;(51)</a>
+		<br />
+		</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="14%" valign="top" valign="top">
+		<a href="/article/93690"><img class="news_img" src="http://citysites.com.ua/upload/img/news/top/small/1321600278.jpeg" vspace="2" width="58" border="0" /></a>
+		</td>
+		<td width="1%"><img src="/design/img/10x10.gif" width="5" height="10" /></td>
+		<td width="85%" valign="top"><p style="margin-top: 0px;">
+		<span class="small_4"><font color="#999999">
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" valign="absmiddle" />
+		</font></span>
+		<span class="news_name_3"><a href="/article/93690">Янукович в Одессе сотворил чудо</a></span>
+						<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/93690#comments"><img src="/design/img/comment.jpg" border="0">&nbsp;(29)</a>
+		<br />
+		</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="14%" valign="top" valign="top">
+		<a href="/article/93516"><img class="news_img" src="http://citysites.com.ua/upload/img/news/top/small/ianyk1321530635.jpeg" vspace="2" width="58" border="0" /></a>
+		</td>
+		<td width="1%"><img src="/design/img/10x10.gif" width="5" height="10" /></td>
+		<td width="85%" valign="top"><p style="margin-top: 0px;">
+		<span class="small_4"><font color="#999999">
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" valign="absmiddle" />
+		</font></span>
+		<span class="news_name_3"><a href="/article/93516">Янукович взял под личный контроль вопрос с выделением земли в Отраде</a></span>
+						<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/93516#comments"><img src="/design/img/comment.jpg" border="0">&nbsp;(13)</a>
+		<br />
+		</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="14%" valign="top" valign="top">
+		<a href="/article/92051"><img class="news_img" src="http://citysites.com.ua/upload/img/news/top/small/o21321017690.jpg" vspace="2" width="58" border="0" /></a>
+		</td>
+		<td width="1%"><img src="/design/img/10x10.gif" width="5" height="10" /></td>
+		<td width="85%" valign="top"><p style="margin-top: 0px;">
+		<span class="small_4"><font color="#999999">
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" valign="absmiddle" />
+		</font></span>
+		<span class="news_name_3"><a href="/article/92051">Ликвидация в  Одессе. День сегодняшний</a></span>
+						<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/92051#comments"><img src="/design/img/comment.jpg" border="0">&nbsp;(20)</a>
+		<br />
+		</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="14%" valign="top" valign="top">
+		<a href="/article/71903"><img class="news_img" src="http://citysites.com.ua/upload/img/news/top/small/matuh1313957858.jpg" vspace="2" width="58" border="0" /></a>
+		</td>
+		<td width="1%"><img src="/design/img/10x10.gif" width="5" height="10" /></td>
+		<td width="85%" valign="top"><p style="margin-top: 0px;">
+		<span class="small_4"><font color="#999999">
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" valign="absmiddle" />
+		</font></span>
+		<span class="news_name_3"><a href="/article/71903">Скандал в Одесской областной телерадиокомпании «докатился» до Президента</a></span>
+						<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/71903#comments"><img src="/design/img/comment.jpg" border="0">&nbsp;(602)</a>
+		<br />
+		</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="14%" valign="top" valign="top">
+		<a href="/article/90149"><img class="news_img" src="http://citysites.com.ua/upload/img/news/top/small/pic_03271320413515.jpg" vspace="2" width="58" border="0" /></a>
+		</td>
+		<td width="1%"><img src="/design/img/10x10.gif" width="5" height="10" /></td>
+		<td width="85%" valign="top"><p style="margin-top: 0px;">
+		<span class="small_4"><font color="#999999">
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" valign="absmiddle" />
+		</font></span>
+		<span class="news_name_3"><a href="/article/90149">Простыни пропаганды</a></span>
+						<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/90149#comments"><img src="/design/img/comment.jpg" border="0">&nbsp;(10)</a>
+		<br />
+		</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="14%" valign="top" valign="top">
+		<a href="/article/90134"><img class="news_img" src="http://citysites.com.ua/upload/img/news/top/small/1320412478.jpeg" vspace="2" width="58" border="0" /></a>
+		</td>
+		<td width="1%"><img src="/design/img/10x10.gif" width="5" height="10" /></td>
+		<td width="85%" valign="top"><p style="margin-top: 0px;">
+		<span class="small_4"><font color="#999999">
+			<img src="/design/img/news_city_icon.gif" alt="Одесса" width="13" height="9" valign="absmiddle" />
+		</font></span>
+		<span class="news_name_3"><a href="/article/90134">Юрий Кармазин: расследование одесских журналистов по делу Дикаева — это повод Президенту созвать СНБО</a></span>
+						<a style="color:#AAA; font-size:10px; text-decoration: none;" href="/article/90134#comments"><img src="/design/img/comment.jpg" border="0">&nbsp;(15)</a>
+		<br />
+		</p>
+		</td>
+	</tr>
+</table>
+<br/>
+<div class="jacket"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="220" height="432">
+	<param name="movie" value="/upload/jackets/mesyac_za_god220h400_ru1322315621.swf">
+	<param name="menu" value="false">
+	<param name="quality" value="high">
+	<param name="swliveconnect" value="true">
+	<param name="wmode" value="opaque"><param name="AllowScriptAccess" value="always">
+	<embed src="/upload/jackets/mesyac_za_god220h400_ru1322315621.swf" width="220" height="432" menu="false" quality="high"	swliveconnect="true" wmode="opaque" AllowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" ></embed><noembed></noembed>
+</object></div><div class="page_razdel">Я - корреспондент</div>
+<br />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="13%"><img src="/design/img/ya_korrespondent.jpg" width="72" height="63" hspace="4" alt="Новости Одессы" /></td>
+		<td width="87%">Есть интересная новость?<br/>Расскажите о ней всему городу. Мы опубликуем.<br />
+<script>
+	<!--
+	 var mail_user;
+	 var mail_host;
+	 mail_user = 'news';
+	 mail_host = '@'+ '048.ua';
+	 document.write('<a href="mailto:'+mail_user+mail_host+'" >'+mail_user+mail_host+'</a>');
+	//-->
+</script>
+</td>
+	</tr>
+</table><div class="jacket"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="220" height="100">
+	<param name="movie" value="/upload/jackets/banner_medved_220x1001321274224.swf">
+	<param name="menu" value="false">
+	<param name="quality" value="high">
+	<param name="swliveconnect" value="true">
+	<param name="wmode" value="opaque"><param name="AllowScriptAccess" value="always">
+	<embed src="/upload/jackets/banner_medved_220x1001321274224.swf" width="220" height="100" menu="false" quality="high"	swliveconnect="true" wmode="opaque" AllowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" ></embed><noembed></noembed>
+</object></div><img src="/design/img/10x10.gif" width="220" height="5" />
+
+</td>
+</tr>
+</table>
+<br />
+
+
+<!-- footer начало  -->
+<div id="footer">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td background="/design/img/footer_point.gif"><img src="/design/img/10x10.gif" alt="" width="10" height="1" /></td>
+      </tr>
+    </table>
+	<table width="100%" border="0" cellpadding="8" cellspacing="0" bgcolor="#EFEFEF" align="center">
+  	<tr>
+    	<td width="1%"></td>
+      <td width="50%" valign="top">
+	      	<table width="100%" border="0" cellspacing="0" cellpadding="2">
+	        	<tr>
+	            <td valign="bottom">Тел: </td>
+	            <!--<td valign="bottom">
+								(048)			  	  		<strong> <span class="page_razdel">705-1-333</span></strong>
+				        (многоканальный)	              	                , <strong><span class="page_razdel">794-96-09</span></strong>
+	              	            </td>-->
+                <td valign="bottom">
+                    (048)<strong> <span class="page_razdel">705-1-333</span></strong>(многоканальный)<strong>, </strong>
+                     <strong> <span class="page_razdel">794-96-09</span></strong>	            </td>
+	          </tr>
+						<tr>
+	            <td valign="top">Почта:</td>
+	            
+                <td valign="top">
+<script>
+	<!--
+	 var mail_user;
+	 var mail_host;
+	 mail_user = 'info';
+	 mail_host = '@'+ '048.ua';
+	 document.write('<a href="mailto:'+mail_user+mail_host+'" >'+mail_user+mail_host+'</a>');
+	//-->
+</script>
+</td>
+	            </tr>
+	        </table>
+	          <p><a href="/authority">Авторские права</a>
+	           | <a href="/reklama">Реклама на сайте</a>
+	           | <a href="/citysites">Сеть городских сайтов</a>
+               			   | <a href="/reporters">Наши журналисты</a></p>
+			         </td>
+      <td width="25%" valign="top">
+		  		<table width="200" border="0" cellspacing="4" cellpadding="0">
+				  	<tr>
+            	<td><!--LiveInternet counter-->
+                <script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click;048inua' "+
+"target=_blank rel='nofollow'><img src='//counter.yadro.ru/hit;048inua?t52.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров и"+
+" посетителей за 24 часа' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+              <!--/LiveInternet-->
+            	</td>
+		    			<td><!--bigmir)net TOP 100-->
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:16822505,s:16822505,t:2,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[vstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<a href="http://top.bigmir.net/" target="_blank" rel="nofollow" onClick="img=new Image();img.src=&quot;http://www.bigmir.net/?cl=16822505&quot;;"><img src="http://c.bigmir.net/?'+bs.join('&')+'"  width="88" height="31" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100"></a>');
+//-->
+</script>
+<noscript>
+<a href="http://www.bigmir.net/" target="_blank" rel="nofollow"><img src="http://c.bigmir.net/?v16822505&s16822505&t2" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+<!--bigmir)net TOP 100--></td>
+							<td>&nbsp;</td>
+		  			</tr>
+          	<tr>
+            	<td><a href="http://yandex.ru/cy?base=0&amp;host=www.048.ua" rel="nofollow"><img src="http://yandex.ru/cycounter?www.048.ua" width="88" height="31" alt="Яндекс цитирования" border="0" /></a></td>
+            	<td>&nbsp;</td>
+							<td>&nbsp;</td>
+          	</tr>
+        	</table>
+      </td>
+      <td width="20%" valign="top">
+      	<div align="right">
+      		<p><strong>Copyright @ 2009 - 2011</strong><br/>
+            048.ua - сайт города Одессы<br /></p>
+      	</div>
+      </td>
+      <td width="2%"></td>
+    </tr>
+	</table>
+</div>
+<!-- footer конец  -->
+
+
+<!-- Google Analytics -->
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8955215-3']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><!-- Google Analytics End -->
+
+</div><!-- all_body конец-->
+</body>
+</html>
+

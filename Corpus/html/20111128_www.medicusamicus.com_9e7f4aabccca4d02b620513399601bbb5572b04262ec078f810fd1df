@@ -1,0 +1,330 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+        <title>Medicus Amicus - Профилактика передачи ВИЧ от матери ребенку</title>
+        <link rel="stylesheet" type="text/css" href="http://www.medicusamicus.com/CSS/x_ma.css">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link href="http://www.medicusamicus.com/favicon.ico" rel="shortcut icon">
+        <script type="text/javascript" language="javascript" src="http://www.medicusamicus.com/JS/sechk.js"></script>
+        <script type="text/javascript" language="javascript" src="http://www.medicusamicus.com/JS/motionpack.js"></script>
+        <script type="text/javascript" language="JavaScript" src="http://www.medicusamicus.com/JS/pr_wind.js"></script>
+        <script language="javascript" type="text/javascript" src="http://www.medicusamicus.com/JS/checkbox.js"></script>
+</head>
+
+<body bgcolor="#EEEEEE" topmargin="5" leftmargin="0" rightmargin="0" bottommargin="5">
+
+<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+
+
+<tr>
+<!--left grey col-->
+<td width="2%"  style="background-repeat:repeat-y;background-position:right;"></td>
+
+<!--central col-->
+<td width="94%" class="tb" valign="top">
+
+<table width="100%" id="lcolbg" style="background-image:url(http://www.medicusamicus.com/images/bg_line.gif);background-repeat:repeat-y;background-position:228px" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td colspan="3" style="padding-left:15px;padding-right:15px;" height="5" background="http://www.medicusamicus.com/images/top_adver_bg3.gif" style="background-repeat:repeat-x"></td></tr>
+<tr><td colspan="3" height="2" bgcolor="#2c6eb8"></td></tr>
+<tr><td colspan="3" height="1" bgcolor="#ffffff"></td></tr>
+<tr><td colspan="3" height="1" bgcolor="#2c6eb8"></td></tr><!-- logo -->
+<tr><td valign="top">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td valign="top">
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td background="http://www.medicusamicus.com/images/date_bg.gif" style="background-repeat:repeat-x" height="25" valign="center" class="topdate" width="60%"><script language="JavaScript" src="JS/nd.js"></script></td><td background="http://www.medicusamicus.com/images/date_bg.gif" style="background-repeat:repeat-x" height="23" nowrap><a href="index.php?action=map"><img src="http://www.medicusamicus.com/images/ic_map.gif" border="0" alt="Карта сайта"></a> <a onclick="javascript:this.style.behavior='url(#default#homepage)';this.setHomePage('www.medicusamicus.com')" href="javascript:"><img src="http://www.medicusamicus.com/images/ic_homepage.gif" alt="Сделать стартовой" border="0"></a> <a onClick="bookmark()" href="javascript:"><img src="http://www.medicusamicus.com/images/ic_favorite.gif" border="0" alt="Добавить в избранное"></a></td>
+<td background="http://www.medicusamicus.com/images/date_bg.gif" style="background-repeat:repeat-x;padding-bottom:1px;" height="25" width="3" align="right"><img src="http://www.medicusamicus.com/images/separator.gif" align="left"></td>
+<td background="http://www.medicusamicus.com/images/date_bg.gif" style="background-repeat:repeat-x;padding-top:2px" height="25" class="topdate" valign="middle" width="40%" align="right" nowrap>
+<div id="cse-search-form" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'ru'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('000834222542715201531:kzpqpyg_7qw');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://www.google.com/cse?cx=000834222542715201531:kzpqpyg_7qw", null, true);    
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.medicusamicus.com/CSS/x_gsc.css" type="text/css" />      
+</td>
+</tr></table>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+
+
+<tr><td background="http://www.medicusamicus.com/images/lock1.jpg" colspan="2" height="44" valign="top" style="font-family:Verdana;font-size:9px;color:#959595;background-position:right;background-repeat:no-repeat;"><a href="http://www.medicusamicus.com/" title="Медицинский информационный портал"><img src="http://www.medicusamicus.com/images/logo.jpg" border="0" alt="Медицинский информационный портал" align="left" onload="showchk()"></a>
+
+<div  id="ipts" align="right" onmouseover="rgshow()" onmouseout="rghide()" style="padding-top:9px;padding-right:5px;">
+<div id="lg" align="right" style="display:block;padding-bottom:2px;padding-right:12px">Логин<img src="http://www.medicusamicus.com/images/dot.gif" height="1" width="47">Пароль<img src="http://www.medicusamicus.com/images/dot.gif" height="1" width="40">Запомнить</div><div class="login" id="rg" align="right" style="display:none;padding-bottom:2px;color:#464646;"><b><a href="index.php?action=membreg">Регистрация</a></b> | <a href="javascript:fpshow()">Забыли пароль?</a></div>
+<form action="index.php?action=login" method="post" style="padding:0;margin:0;"><input type="text" class="edit" size="10" name="lg"> <input type="password" class="edit" size="10" name="pw"> <input type="checkbox" id="chbox" name="remember" value="on"> <img src="http://www.medicusamicus.com/images/off.gif" style="display: none" id="imgchbox" width="11" height="11" alt="" onclick="myCheckBox.flip()" align="texttop" alt="Запомнить меня на этом компьютере"> <input type="submit" value="Войти" class="submit"></form></div>
+<div id="fpf" class="login" align="right" style="padding-top:9px;padding-right:5px;display:none;">
+<div align="right" style="display:block;padding-bottom:2px;padding-right:3px">Выслать пароль на e-mail: &nbsp;| <a href="javascript:fphide()" title="Погодите, я вспомнил">назад</a></div>
+<form action="index.php?action=forgot" style="padding:0;margin:0;" method="post"><input type="text" class="edit" name="fpemail"> <input type="submit" class="submit" value="Выслать"></form>
+</div>
+</td></tr>
+<tr>
+<td colspan="2" valign="middle">
+<div class="menu" id="m1" style="display:block"><a href="index.php?action=main">ГЛАВНАЯ</a> &nbsp; <a href="index.php?action=1xs1fullx1">БОЛЕЗНИ</a> &nbsp; <a href="index.php?action=2xs2fullx1">СИНДРОМЫ</a> &nbsp; <a href="index.php?action=3xs3fullx1">ДИАГНОСТИКА</a> &nbsp; <a href="index.php?action=4xs4fullx1">ЛЕЧЕНИЕ</a> &nbsp; <a href="index.php?action=education">ОБРАЗОВАНИЕ</a> &nbsp; <a href="index.php?action=colab">СОТРУДНИЧЕСТВО</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=pr">PR</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=justice">ПРАВО</a>  &nbsp; <a href="http://www.medicusamicus.com/index.php?action=7xs7fullx1">ЗАРУБЕЖЬЕ</a></div>
+</td>
+</tr>
+<!-- main part -->
+
+<script lanugage="javascript" type="text/javascript">
+function fpshow() {ipts.style.display = "none";
+fpf.style.display = "block";
+}
+function fphide() {
+ipts.style.display = "block";
+fpf.style.display = "none";
+}
+function rgshow() {	rg.style.display = "block";
+	lg.style.display = "none";
+	}
+function rghide() {	rg.style.display = "none";
+	lg.style.display = "block";
+	}
+function sw(n) {if (n=="t1") {	tabs.style.backgroundImage = "url(images/tb1.jpg)";
+	tabs.style.backgroundRepeat = "no-repeat";
+	tabs.style.backgroundPosition = "right";
+	m1.style.display = "block";
+	m2.style.display = "none";
+	m3.style.display = "none";
+	}
+if (n=="t2") {	tabs.style.backgroundImage = "url(images/tb2.jpg)";
+	tabs.style.backgroundRepeat = "no-repeat";
+	tabs.style.backgroundPosition = "right";
+	m1.style.display = "none";
+	m2.style.display = "block";
+	m3.style.display = "none";
+	}
+if (n=="t3") {
+	tabs.style.backgroundImage = "url(images/tb3.jpg)";
+	tabs.style.backgroundRepeat = "no-repeat";
+	tabs.style.backgroundPosition = "right";
+	m1.style.display = "none";
+	m2.style.display = "none";
+	m3.style.display = "block";
+	}
+}
+</script>
+
+
+
+<tr>
+<td width="228" valign="top"><table width="228"><tr><td class="main"><b><a href="http://www.medicusamicus.com/index.php?action=4x2462x1">Профилактика передачи ВИЧ от матери ребенку
+</a></b><br><br><img src="imagesart/2462.jpg" align="left" border="1">Проблема ВИЧ-инфекции у беременных женщин и детей в настоящее время стоит весьма остро, поэтому задача инфекционистов, акушеров и педиатров состоит в совместном решении вопросов, с..<br><br><hr width="90%" align="right" color="#DBC8E8" size="1" noshade></td></tr><tr><td class="main"><b><a href="http://www.medicusamicus.com/index.php?action=4x2461x1">Кларитромицин в лечении атипичных инфекций дыхательных путей
+</a></b><br><br><img src="imagesart/2461.jpg" align="left" border="1">C. pneumoniae является причиной 4-16% случаев обострений хронического бронхита у стационарных и амбулаторных пациентов, а также у курильщиков (34% случаев) и лиц, принимающих корти..<br><br><hr width="90%" align="right" color="#DBC8E8" size="1" noshade></td></tr><tr><td class="main"><b><a href="http://www.medicusamicus.com/index.php?action=4x2456x1">Роботические системы в реабилитации пациентов с перенесенным острым инсультом
+</a></b><br><br><img src="imagesart/2456.jpg" align="left" border="1">На Западе все более широкое распространение получают роботические системы реабилитации пациентов после перенесенного инсульта. Использование этих систем в соответствии с результата..<br><br><hr width="90%" align="right" color="#DBC8E8" size="1" noshade></td></tr><tr><td class="main"><b><a href="http://www.medicusamicus.com/index.php?action=4x2445x1">Знакомимся с танатотерапией
+</a></b><br><br><img src="imagesart/2445.jpg" align="left" border="1">В свое время незабвенный Ролан Быков, говоря о современном социуме, назвал его «шизофренизированным». И, к сожалению, с этой точкой зрения трудно не согласиться...<br><br><hr width="90%" align="right" color="#DBC8E8" size="1" noshade></td></tr><tr><td class="main"><b><a href="http://www.medicusamicus.com/index.php?action=4x2455x1">Пищевая парадигма XXI века
+</a></b><br><br><img src="imagesart/2455.jpg" align="left" border="1">Неотъемлемым и значимым фактором физического и социального долголетия является здоровый образ жизни, который нельзя представить без сбалансированного и рационального питания...<br><br><hr width="90%" align="right" color="#DBC8E8" size="1" noshade></td></tr><tr><td class="main"><b><a href="http://www.medicusamicus.com/index.php?action=4x2452x1">Блоки интенсивной терапии для пациентов с острым инсультом должны быть в каждом многопрофильном стационаре
+</a></b><br><br><img src="imagesart/2452.jpg" align="left" border="1">Эти выводы базируются на результатах оценки судьбы 11572 пациентов 260 клиник страны, в 30 из которых имелись соответствующие подразделения. В блоки интенсивной терапии для больных..<br><br><hr width="90%" align="right" color="#DBC8E8" size="1" noshade></td></tr><tr><td class="main"><b><a href="http://www.medicusamicus.com/index.php?action=4x2449x1">Стандарты диагностики и лечения колоректальных карцином. Профилактика и группы риска
+</a></b><br><br><img src="imagesart/2449.jpg" align="left" border="1">Гастроэнтерологическая онкология переживает в последние десятилетия свое второе рождение...<br><br><hr width="90%" align="right" color="#DBC8E8" size="1" noshade></td></tr>
+</table>
+
+</td><td width="100%" class="mainart" background="images/act4.jpg" style="background-repeat:no-repeat; background-position:top-left;padding-left:23px;" valign="top"><span style=display:none>Профилактика передачи ВИЧ от матери ребенку</span>
+<title>Профилактика передачи ВИЧ от матери ребенку</title>
+<meta name="keywords" content="Профилактика передачи ВИЧ от матери ребенку">
+<meta name="revisit-after" content="2 days">
+<meta name="robots" content="INDEX, FOLLOW">
+<meta name="rating" content="Medicine">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="type" content="www.medicusamicus.com">
+<meta name="description" content="Проблема ВИЧ-инфекции у беременных женщин и детей в настоящее время стоит весьма остро, поэтому задача инфекционистов, акушеров и педиатров состоит в совместном решении вопросов, связанных со здоровьем как женщины, так и её ребенка.">
+
+<!--Begin HERE-->
+<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tr><td class="mainartb">
+<h1 align="center">Профилактика передачи ВИЧ от матери ребенку</h1>
+
+<p>Проблема ВИЧ-инфекции у беременных женщин и детей в настоящее время стоит весьма остро, поэтому задача инфекционистов, акушеров и педиатров состоит в совместном решении вопросов, связанных со здоровьем как женщины, так и её ребенка. </p>
+<p>Профилактика ВИЧ-инфекции начинается еще до момента зачатия. С увеличением распространенности ВИЧ-инфекции возрастает и количество дискордантных пар, в которых один партнёр ВИЧ-отрицателен, а другой ВИЧ-положителен. Однако несмотря на данное хроническое инфекционное заболевание практически все пары желают завести собственного ребенка, и вот на этом этапе возникают проблемы. Если в дискордантной паре ВИЧ-положителен мужчина, то встаёт вопрос о защите ВИЧ-отрицательной мамы и её ребенка. Если же наоборот – то трудность состоит в снижении риска инфицирования мужчины и будущего малыша. На помощь в этом вопросе приходит искусственное оплодотворение. В настоящее время в европейских институтах стала доступна процедура «очистки спермы». Конечно, подобная процедура дорогостояща и пока доступна далеко не всем парам, но с течением времени данная методика будет освоена и в клиниках других стран. «Очистка спермы» исключает риск заражения ВИЧ-отрицательной матери. Если же положительный ВИЧ-статус у женщины, производят экстракорпоральное оплодотворение спермой партнёра яйцеклетки ВИЧ-положительной женщины.</p>
+В последнее время ученые получают всё больше доказательств того, что при неопределяемой вирусной нагрузке в результате приёма эффективной антиретровирусной терапии секс в дискордантной паре безопасен. Однако не будем забывать о том, что вирусная нагрузка определяется в крови, а не сперме.
+<p>Беременная женщина с положительным ВИЧ-статусом должна обязательно принимать профилактику вертикальной трансмиссии (регламентированные антиретровирусные препараты). Эффективная АРТ позволит снизить концентрацию вируса в крови женщины и таким образом снизит риск передачи вируса через плаценту. Однако не только вирусная нагрузка определяет риск рождения ВИЧ-инфицированного ребенка – иммунный статус матери также играет не последнюю роль. Поэтому АРТ обязательно назначают при количестве СД4+Т-лимфоцитов менее 350 кл/мкл. </p>
+Помимо медицинской помощи должна быть и психологическая поддержка со стороны мужа. Забота партнёра может не только спасти беременную женщину от депрессии, но и повысить приверженность лечению.
+<p>После рождения ребенка не время расслабляться, ведь грудное молоко содержит в себе большие концентрации вируса и заражение ВИЧ-инфекцией детей очень вероятно. Поэтому необходимо исключить данный фактор передачи и подобрать смесь для искусственного вскармливания. Благо, их сейчас предостаточно.  Конечно, по пользе грудное молоко и искусственная смесь даже не могут сравниться, но всё же от грудного вскармливания стоит исключить. Некоторые врачи рекомендуют искать кормилицу, как это ни странно звучит в 21 веке. Кормилица должна сцедить молоко в бутылочку, так как до 6 месяцев неизвестен ВИЧ-статус ребенка и при определенных условиях возможно заражение самой кормилицы. В случае, если ВИЧ-положительная женщина боится ненужных вопросов со стороны родственников («почему не кормишь сама» и т.д.) можно сослаться на отсутствие молока, кесарево сечение и т.д. </p>
+И последнее, что нужно знать, - профилактика всегда должна быть комплексной. Только так можно снизить риск заражения ВИЧ-инфекцией малыша и стать родителями здорового ребенка.
+
+
+
+
+
+<br><br />
+<a href="http://hiv-info.net" target="_blank">hiv-info.net</a><br />
+</td></tr></table>
+<br><div style="text-align:right">
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4cc3ef88725894a0"></script>
+<!-- AddThis Button END -->
+
+</div><br><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td colspan="2" height="1" bgcolor="#ffffff"></td></tr><tr>
+<td height="45" width="31%" align="center" bgcolor="#f9f9f9" class="rate">Оценка статьи: <font size="+1">5</font></td><form method="post" action="index.php?action=4x2462x1&artrate=on"><td width="69%" align="left">
+<table width="100%" align="center" class="rate" border="0" cellspacing="0" bgcolor="#f9f9f9" cellpadding="0">
+<tr><td><table class="rate" align="center" background="images/rate_bg.jpg" style="background-repeat:repeat-y;background-position:left">
+<tr><td align="right">&nbsp;&nbsp;<small>плохо</small> 1&nbsp;</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td>&nbsp;&nbsp;5 <small>хорошо</small></td>
+<td rowspan="2" width="40%" align="left" style="padding-left:15px"><input type="submit" class="submit" value="Оценить"></td>
+</tr>
+<tr><td align="right"><input name="ar" value="1" type="radio"></td><td align="center"><input value="2" name="ar" type="radio"><td align="center"><input value="3" name="ar" type="radio"><td align="center"><input value="4" name="ar" type="radio"><td><input value="5" name="ar" type="radio">
+</tr></table></td></tr>
+</table></td></form></tr></table></td></tr></table>
+</td></tr></table>
+
+
+<!--left and center col-->
+</td>
+<!--left and center col-->
+
+
+
+<td width="200" valign="top" rowspan="40" class="tbright">
+<table width="200" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td class="rcol" style="padding-top:0px;">
+<!--<a href="index.php?action=reg" title="Бесплатная подписка на печатную версию"><img src="images/subscribe_free.gif" border="0"></a>-->
+<!--<a href="http://elsevier.ru/gastro/" target="_blank"><img src="images/bnimg/gastro-200x100.gif" border="0"></a>-->
+
+<a href="http://bookstore.medicusamicus.com/" title="Книжный магазин Mediucs Amicus"><img src="http://www.medicusamicus.com/images/varikoz_200.jpg" title="Электронные издания Medicus Amicus" border="0"></a><br><br></td></tr><tr><td align="left" background="images/rcol_head_bg.gif" style="background-repeat:repeat-x;background-position:top" class="rcolp" valign="top"><img src="images/red_box.gif" align="texttop" vspace="2">&nbsp;<font color="#ff0000"><i><b>Cito!</b></i></font> <small>inform</small> <br><br>
+
+<script src="http://citoinform.com/informer.php?infid=101242"
+type="text/javascript" language="javascript" charset="utf-8">
+</script>
+
+<script language="javascript"><!--
+showCitoInformer101242();
+// --></script>
+
+</td></tr><tr><td>
+<a href="http://psy.medicusamicus.com" target="_blank" title="Психологические тесты"><img src="images/psy_ban.jpg" border="0"></a>
+<br><br></td></tr><tr><td align="left" background="images/rcol_head_bg.gif" style="background-repeat:repeat-x;background-position:top" class="rcolp" valign="top"><img src="images/violet_box.gif" align="texttop" vspace="2">&nbsp;Новости <br><br>
+
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td>
+<table width="100%" align="center" border="0" cellspacing="1" cellpadding="3" class="rc" title="Щелкните на дату, чтобы просмотреть новости за этот день">
+<tr><td class="calendartop" colspan="7"><a href="index.php?umonth=10&action=4x2462x1" title="Предыдущий месяц"><b>&laquo;</b></a> Ноябрь &acute;11 <a href="index.php?umonth=12&action=4x2462x1" title="Cледующий месяц"><b>&raquo;</b></a></td></tr>
+<tr><td class="calendartop">П</td><td class="calendartop">В</td><td class="calendartop">С</td><td class="calendartop">Ч</td><td class="calendartop">П</td><td class="calendartop">С</td><td class="calendartop">В</td></tr><tr><td class="calendar">&nbsp;</td><td class="calendar"><a href="javascript:toggleSlide('mydiv1')" title="Просмотреть новости за 1 ноября"><b>1</b></a></td><td class="calendar">2</td><td class="calendar">3</td><td class="calendar">4</td><td class="calendar">5</td><td class="calendar">6</td></tr><tr><td class="calendar">7</td><td class="calendar">8</td><td class="calendar">9</td><td class="calendar"><a href="javascript:toggleSlide('mydiv10')" title="Просмотреть новости за 10 ноября"><b>10</b></a></td><td class="calendar">11</td><td class="calendar">12</td><td class="calendar">13</td></tr><tr><td class="calendar">14</td><td class="calendar"><a href="javascript:toggleSlide('mydiv15')" title="Просмотреть новости за 15 ноября"><b>15</b></a></td><td class="calendar">16</td><td class="calendar">17</td><td class="calendar">18</td><td class="calendar">19</td><td class="calendar">20</td></tr><tr><td class="calendar">21</td><td class="calendar"><a href="javascript:toggleSlide('mydiv22')" title="Просмотреть новости за 22 ноября"><b>22</b></a></td><td class="calendar">23</td><td class="calendar">24</td><td class="calendar">25</td><td class="calendar">26</td><td class="calendar">27</td></tr><tr><td class="calendarnow">28</td><td class="calendargr">29</td><td class="calendargr">30</td></tr></table></td></tr></table>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+
+<tr><form name="hid"><td background="images/for_date.jpg" class="calendarnd" style="background-repeat:no-repeat" align="center" width="37">28</td>
+<input type="hidden" name="ehid" value="mydiv22"><td><a href="index.php?action=addlink"><img src="images/for_pic2.jpg" border="0"></a></td></form></tr></table>
+<br><br><div class="divz" id="mydiv1" style="display:none;overflow: hidden;height:130px;"><b>01/11/11</b> - Разделы сайта пополнены новыми статьями</div><div class="divz" id="mydiv10" style="display:none;overflow: hidden;height:130px;"><b>10/11/11</b> - Разделы сайта пополнены новыми статьями</div><div class="divz" id="mydiv15" style="display:none;overflow: hidden;height:130px;"><b>15/11/11</b> - Разделы сайта пополнены новыми статьями</div><div class="divz" id="mydiv22" style="display:none;overflow: hidden;height:130px;"><b>22/11/11</b> - Открыта новая рубрика <a href='http://www.medicusamicus.com/index.php?action=7xs7fullx1'>Зарубежье</a>. В ней Вы можете не только почитать интересные статьи, но и задать вопросы их автору. Надеемся новая рубрика Вам понравится!</div></td></tr>
+
+
+</td></tr></table>
+</td></tr>
+</table>
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td colspan="3" height="1" bgcolor="#dddddd"></td></tr>
+<tr><td colspan="3" height="10" background="http://www.medicusamicus.com/images/top_adver_bg.gif" style="background-repeat:repeat-x;padding-left:3px;padding-right:3px"></td></tr>
+</table>
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td colspan="4" height="2" bgcolor="#DDDDDD"></td></tr>
+<tr><td colspan="4" height="1" bgcolor="#ffffff"></td></tr>
+<tr><td colspan="4" height="1" bgcolor="#dddddd"></td></tr><tr><td width="20%" valign="top" background="images/act5.gif" style="background-repeat:no-repeat;background-position:top-left;padding-left:5px;padding-top:1px;" class="grhead">Партнеры<br><br>
+<br><br><div align="center"><a href="index.php?action=addlink" title="Обмен ссылками"><img src="images/100_handshake.jpg" border="0"></a></div><br>
+</td><td class="grhead" bgcolor="#FAFAFA" width="25%" background="images/act6.gif" style="background-repeat:no-repeat;background-position:top-left;padding-left:5px;padding-top:1px;" valign="top">Vox populi - vox dei<br><form action="index.php?action=4x2462x1" method="post"><br>Какой поисковой системой Вы пользуетесь?
+<br><br><input type="radio" name="answ" value="1"> Google
+<br><input type="radio" name="answ" value="2"> Яндекс
+<br><input type="radio" name="answ" value="3"> Рамблер<br><br><div align="center"><input type="submit" class="submit" value="Голосовать"></div><br></form></td>
+</td>
+
+<td background="images/grey_dot.gif"></td><td class="grhead" width="75%" bgcolor="#FAFAFA" background="images/act7.gif" style="background-repeat:no-repeat;background-position:top-left;padding-left:5px;padding-top:1px;" valign="top">Результаты предыдущих голосований<br><br>Вы служили в армии?
+<br><br>&nbsp;не служил и не собираюсь
+ - 175 [53%]<br><img src="images/1-b.gif" vspace="2"><img src="images/1-m.gif" width="53%" height="21" vspace="2"><img src="images/1-e.gif" vspace="2"><br>&nbsp;еще не служил, но хочу
+ - 30 [9%]<br><img src="images/2-b.gif" vspace="2"><img src="images/2-m.gif" width="9%" height="21" vspace="2"><img src="images/2-e.gif" vspace="2"><br>&nbsp;служил и сейчас служу
+ - 11 [3%]<br><img src="images/3-b.gif" vspace="2"><img src="images/3-m.gif" width="3%" height="21" vspace="2"><img src="images/3-e.gif" vspace="2"><br>&nbsp;служил еще в ВС СССР
+ - 79 [24%]<br><img src="images/4-b.gif" vspace="2"><img src="images/4-m.gif" width="24%" height="21" vspace="2"><img src="images/4-e.gif" vspace="2"><br>&nbsp;служил в армии одной из стран СНГ
+ - 18 [5%]<br><img src="images/5-b.gif" vspace="2"><img src="images/5-m.gif" width="5%" height="21" vspace="2"><img src="images/5-e.gif" vspace="2"><br>&nbsp;служил в НАТОвской армии
+ - 14 [4%]<br><img src="images/6-b.gif" vspace="2"><img src="images/6-m.gif" width="4%" height="21" vspace="2"><img src="images/6-e.gif" vspace="2"><br><hr width="90%" color="#9DAED7" size="1" align="left" noshade>Всего голосов: 328<br><br></td></tr></td></tr><tr><td colspan="4" height="1" bgcolor="#2c6eb8"></td></tr>
+<tr><td colspan="4" height="1" bgcolor="#ffffff"></td></tr>
+<tr><td colspan="4" height="2" bgcolor="#2c6eb8"></td></tr>
+
+<tr><td colspan="4" class="menu"><a href="http://www.medicusamicus.com/index.php?action=main">Главная</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=1xs1fullx1">Болезни</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=2xs2fullx1">Синдромы</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=3xs3fullx1">Диагностика</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=4xs4fullx1">Лечение</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=education">Образование</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=colab">Сотрудничество</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=subscribe">Подписка</a>  &nbsp; <a href="http://www.medicusamicus.com/index.php?action=pr">PR</a> &nbsp; <a href="http://www.medicusamicus.com/index.php?action=justice">Право</a> <a href="http://www.medicusamicus.com/index.php?action=7xs7fullx1">Зарубежье</a></td></tr><tr><td colspan="4" style="padding-left:5px;padding-right:5px;"><br>
+<span class="add"><!-- --><ml_code></ml_code><!--cc11d--><!--9c7ec26b--></span></td></tr>
+
+<tr><td colspan="4" class="disclaimer" style="padding-left:200px;padding-right:200px;padding-top:20px;">
+<br><br>
+Medicus Amicus - это <strong>медицинский сайт</strong>, фотосайт, психологический сайт, <br>сайт постоянного медицинского образования,
+<strong>медицинская газета</strong> и даже <strong>медицинский журнал</strong>. <br>
+Все замечания и пожелания присылайте используя <a href="http://www.medicusamicus.com/index.php?action=contacts">форму обратной связи</a> <br>
+Все права защищены и охраняются законом.<br>
+&copy; 2002 - 2011 Rights Management<br>
+Автоматизированное извлечение информации сайта запрещено.<br>
+Подробности об использовании информации, представленной на сайте<br> в разделе <a href="http://www.medicusamicus.com/index.php?action=dsclmr">"Правила использования информации"</a>
+
+</td></tr><tr><td colspan="4" align="center" valign="middle" style="padding-left:200px;padding-right:200px;padding-top:20px;">
+
+
+
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<a href="http://www.liveinternet.ru/click" '+
+'target=liveinternet><img src="http://counter.yadro.ru/hit?t21.10;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';'+Math.random()+
+'" alt="liveinternet.ru: ???????? ????? ?????????? ?? 24 ????, ??????????? ?? 24 ???? ? ?? ??????\?" '+
+'border=0 width=88 height=31></a>')//-->
+</script><!--/LiveInternet-->
+
+<!-- YaMetrics begin -->
+
+<script type="text/javascript"><!--
+
+var ya_cid=108438;
+
+//--></script>
+
+<script src="http://bs.yandex.ru/resource/watch.js" type="text/javascript"></script>
+
+<noscript><div style="display: inline;"><img src="http://bs.yandex.ru/watch/108438" width="1" height="1" alt=""></div></noscript>
+
+<!-- YaMetrics end -->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4312339-2";
+urchinTracker();
+</script>
+
+<!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" -->
+<script type="text/javascript" language="JavaScript">var site="sm9medicus"</script>
+<script type="text/javascript" language="JavaScript1.2" src="http://sm9.sitemeter.com/js/counter.js?site=sm9medicus">
+</script>
+<noscript>
+<a href="http://sm9.sitemeter.com/stats.asp?site=sm9medicus" target="_top">
+<img src="http://sm9.sitemeter.com/meter.asp?site=sm9medicus" alt="Site Meter" border=0></a>
+</noscript>
+<!-- Copyright (c)2002 Site Meter -->
+<!--WEBBOT bot="HTMLMarkup" Endspan -->
+<br>
+</td></tr>
+
+
+</table>
+
+
+</td>
+
+<!--right grey col-->
+<td width="2%" background="images/shad_right.gif" style="background-repeat:repeat-y;background-position:left;"></td>
+</tr>
+
+</table>
+
+
+
+
+<script type="text/javascript" src="http://mg.dt00.net/js/m/e/medicusamicus.com.i1.js" charset="utf-8"></script>
+</body>
+</html><!--Страница сгенерирована за 0.146786 секунд-->
