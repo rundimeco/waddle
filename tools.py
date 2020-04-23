@@ -11,6 +11,7 @@ import justext
 from newspaper import fulltext
 from newsplease import NewsPlease
 from readability import Document
+from trafilatura import extract
 from lxml import etree, html
 
 def apply_tool(tool, fic, mode):
@@ -45,6 +46,8 @@ def apply_tool(tool, fic, mode):
       text_det = ""
     list_paragraphs = re.split("\n", text_det)#TODO: clean this output ?
   ##TODO: raise error
+  elif tool == "TRAF":
+    list_paragraphs = get_paragraphs_traf(str_text, mode)
   return list_paragraphs
 
 def get_paragraphs_BP3(str_text, mode):
@@ -117,3 +120,17 @@ def get_paragraphs_newsplease(str_text, mode):
     list_paragraphs = [""]
   return list_paragraphs
 
+def get_paragraphs_traf(str_text, mode):
+  TxtFallback, comm = False, False
+  if "Txt_fallback" in mode:
+    TxtFallback = True 
+  elif "Fallback":
+    no_fb = False
+  if "Comments" in mode:
+    comm = True
+  s = extract(str_text, no_fallback=no_fb, include_comments=comm)
+  if s is None:
+    list_paragraphs = [""]
+  else:
+    list_paragraphs = re.split("\n", s)
+  return list_paragraphs

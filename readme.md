@@ -18,3 +18,7 @@ Directories :
   Corpus/cleaned	cleaned file, one directory by tool
 
   Corpus/reference	reference cleaning version (needed for evaluation)
+
+
+##TODO: Add instructions and a make for processing everything
+

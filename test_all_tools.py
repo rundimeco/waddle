@@ -18,15 +18,16 @@ liste_fic = glob.glob("%s/%s/*"%(corpus_base, source))
 
 modes ={
         ##Comment lines to use just some tools
-	"BP3":["", "Article", "Largest", "KeepEverything"],
-        "DRAG":[""],
-	"GOO":[""],
-	"HTML2TEXT":[""],
-	"INSCRIPTIS":[""],
-	"JT":["", "_english", "_langid", "_trueLg"], 
-        "NEWSPAPER":[""],
-        "NEWSPLEASE":[""],
-	"READABILITY":[""]
+	#"BP3":["", "Article", "Largest", "KeepEverything"],
+        #"DRAG":[""],
+	#"GOO":[""],
+	#"HTML2TEXT":[""],
+	#"INSCRIPTIS":[""],
+	#"JT":["", "_english", "_langid", "_trueLg"], 
+        #"NEWSPAPER":[""],
+        #"NEWSPLEASE":[""],
+	#"READABILITY":[""],
+	"TRAF":[""]
 	}
 
 ## TODO: send warnings to a log
@@ -38,6 +39,7 @@ for tool in modes.keys():
     is_done = check_done(destination, corpus_base, options)
     if is_done==True and options.force==False:
       continue
+    start = time.time()
     for cpt, fic in enumerate(liste_fic):
       namefic = re.split("/", fic)[-1]
       path_out = "%s/%s"%(destination, namefic)
@@ -47,7 +49,8 @@ for tool in modes.keys():
       if list_paragraphs ==[""]:
         diagnostic.setdefault(namefic,  [])
         diagnostic[namefic].append([tool, mode])
-      write_utf8(path_out, "\n".join(list_paragraphs))
+      write_utf8(path_out, "<p>%s</p>"%"</p>\n<p>".join(list_paragraphs))
+    print("  duration:%f"%(time.time()-start))
 
 import json
 write_utf8("diagnostics.json", json.dumps(diagnostic, indent= 2))
