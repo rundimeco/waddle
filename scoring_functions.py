@@ -81,3 +81,38 @@ def get_new_scores(DET_file, GT_file):
   dic2 = occ_eval(GT_abs,DET_abs)
   scores["occ_eval_res"] = {x: get_measures(dic2)[x] for x in toto}
   return scores
+
+def update_scores(dic_global, dic_car, new_scores, char, TOOL):
+    for score_typ in new_scores.keys():
+      dic_global[score_typ].setdefault(TOOL, {})
+      dic_car[score_typ].setdefault(TOOL, {})
+      for mes, val in new_scores[score_typ].items():
+        dic_global[score_typ][TOOL].setdefault(mes, [])
+        dic_global[score_typ][TOOL][mes].append(val)
+        for name, char_val  in char.items():
+          dic_car[score_typ][TOOL].setdefault(name , {})
+          dic_car[score_typ][TOOL][name].setdefault(char_val, {})
+          dic_car[score_typ][TOOL][name][char_val].setdefault(mes, [])
+          dic_car[score_typ][TOOL][name][char_val][mes].append(val)
+    return dic_global, dic_car
+
+def display_results(dic_global, dic_car, TOOL, results_light):
+  L_P = dic_global["clean_eval"][TOOL]["precision"]
+  P = round(st.mean(L_P),4)
+  L_R = dic_global["clean_eval"][TOOL]["recall"]
+  R = round(st.mean(L_R),4)
+  F = (1+1)*P*R/(1*P+R)
+  results_light[TOOL] = {"global":F}
+  print("  F-score (micro): %f (%i files)"%(F, len(L_P)))
+  for caract, d in dic_car["clean_eval"][TOOL].items():
+    print("  By %s:"%caract)
+    results_light[TOOL]["caract"] = {}
+    l_f = []
+    for name, res in d.items():
+        L = res["f-score"]
+        F = round(st.mean(L),4)
+        l_f.append(F)
+        print("    %s:%f (%i files)"%(name, F, len(L)))
+        results_light[TOOL]["caract"][name]=F
+    print("    F-score (macro): %f"%(st.mean(l_f)))
+  return results_light

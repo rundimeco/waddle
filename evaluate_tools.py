@@ -3,7 +3,7 @@ import glob
 import re, json, sys
 import statistics as st
 from generic_functions import *
-from scoring_functions import get_new_scores
+from scoring_functions import get_new_scores, display_results, update_scores
 
 main_path = "Corpus"
 
@@ -31,14 +31,7 @@ liste_measures = ["precision", "recall", "f-score"]
 all_results = {"cleaning_tools": []}
 dic_global= {"clean_eval":{}, "voc_eval_res":{}, "KL_res":{}, 
 	     "occ_eval_res":{}}
-
 dic_car = {x:{} for x in dic_global.keys()}
-
-if use_lg:
-  caracteristics = ["lg"]
-else:
-  caracteristics = []
-
 results_light = {}
 
 for path_cleaned in glob.glob(path_cleaned_all+"/*"):
@@ -46,50 +39,23 @@ for path_cleaned in glob.glob(path_cleaned_all+"/*"):
   print("Evaluating %s..."%TOOL)
   all_results["cleaning_tools"].append(TOOL)
   for cleaned_file in glob.glob(path_cleaned+"/*"):
-
     filename = re.split("/", cleaned_file)[-1]
     reference_file = path_reference+"/"+filename
 
     if use_lg:
-      list_car = [dic_lg[filename]]
+        char = {"lg":dic_lg[filename]}
 
     clean_eval_scores = evaluate_file(cleaned_file, reference_file)
-    new_scores = get_new_scores(cleaned_file, reference_file)
+    new_scores = get_new_scores(cleaned_file, reference_file)#TODO:merge
     new_scores["clean_eval"] = {x:clean_eval_scores[x] for x in liste_measures}
-    for score_typ in new_scores.keys():
-      dic_global[score_typ].setdefault(TOOL, {})
-      dic_car[score_typ].setdefault(TOOL, {})
-      for mes, val in new_scores[score_typ].items():
-        dic_global[score_typ][TOOL].setdefault(mes, [])
-        dic_global[score_typ][TOOL][mes].append(val)
-        for cc, caract in enumerate(caracteristics):
-          dic_car[score_typ][TOOL].setdefault(caract , {})
-          dic_car[score_typ][TOOL][caract].setdefault(list_car[cc], {})
-          dic_car[score_typ][TOOL][caract][list_car[cc]].setdefault(mes, [])
-          dic_car[score_typ][TOOL][caract][list_car[cc]][mes].append(val)
-  L_P = dic_global["clean_eval"][TOOL]["precision"]
-  P = round(st.mean(L_P),4)
-  L_R = dic_global["clean_eval"][TOOL]["recall"]
-  R = round(st.mean(L_R),4)
-  F = (1+1)*P*R/(1*P+R)
-  results_light[TOOL] = {"global":F}
-  print("  F-score : %f (%i files)"%(F, len(L_P)))
-  for caract, d in dic_car["clean_eval"][TOOL].items():
-    print("  By %s:"%caract)
-    results_light[TOOL]["caract"] = {}
-    for name, res in d.items():
-        L = res["f-score"]
-        F = round(st.mean(L),4)
-        print("    %s:%f (%i files)"%(name, F, len(L)))
-        results_light[TOOL]["caract"][name]=F
+    dic_global, dic_car = update_scores(dic_global, dic_car, new_scores, char, TOOL)
+  results_light = display_results(dic_global, dic_car, TOOL, results_light)
 
-json_out_path = "results_light_%s.json"%dataset_name
-write_utf8(json_out_path, json.dumps(results_light, indent=2))
-print("Results in JSON format : %s"%json_out_path)
+json_out_light = "results_light_%s.json"%dataset_name
+write_utf8(json_out_light, json.dumps(results_light, indent=2), verbose=True)
 
 all_results["global"] = dic_global
 all_results["characteristics"] = dic_car
 
 json_out_path = "results_%s.json"%dataset_name
-write_utf8(json_out_path, json.dumps(all_results, indent=2))
-print("Results in JSON format : %s"%json_out_path)
+write_utf8(json_out_path, json.dumps(all_results, indent=2), verbose=True)

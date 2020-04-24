@@ -51,6 +51,9 @@ def apply_tool(tool, fic, mode):
   return list_paragraphs
 
 def get_paragraphs_BP3(str_text, mode):
+  """
+  using Boilerpy3
+  """
   if mode =="":
     BP_extractor = extractors.DefaultExtractor()    
   elif mode =="Article":
@@ -121,14 +124,18 @@ def get_paragraphs_newsplease(str_text, mode):
   return list_paragraphs
 
 def get_paragraphs_traf(str_text, mode):
-  TxtFallback, comm = False, False
-  if "Txt_fallback" in mode:
-    TxtFallback = True 
-  elif "Fallback":
+  """
+  using Trafilatura
+  """
+  no_fb, comm = True, False
+  if "Fallback" in mode:
     no_fb = False
   if "Comments" in mode:
     comm = True
+#  try:
   s = extract(str_text, no_fallback=no_fb, include_comments=comm)
+  #except:
+   # s = None
   if s is None:
     list_paragraphs = [""]
   else:

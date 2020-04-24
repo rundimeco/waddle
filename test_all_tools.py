@@ -27,7 +27,7 @@ modes ={
         #"NEWSPAPER":[""],
         #"NEWSPLEASE":[""],
 	#"READABILITY":[""],
-	"TRAF":[""]
+	"TRAF":["", "Fallback", "Comments", "FallbackComments"]
 	}
 
 ## TODO: send warnings to a log

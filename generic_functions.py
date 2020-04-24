@@ -65,17 +65,19 @@ def get_json(path):
   f.close()
   return d
 
-def write_utf8(path, content):
+def write_utf8(path, content, verbose=False):
   """
   Write the file
   """
   w = open(path, "w", encoding = "utf-8")
   w.write(content)
   w.close()
+  if verbose:
+    print("Output written in %s"%path)
 
 def get_measures(dic, beta=1):
   """
-  Computing measures form True Positives ....
+  Computing measures from True Positives ....
   """
   TP, FP, FN = dic["TP"], dic["FP"], dic["FN"]
   if TP == 0:
