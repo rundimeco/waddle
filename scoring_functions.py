@@ -97,22 +97,25 @@ def update_scores(dic_global, dic_car, new_scores, char, TOOL):
     return dic_global, dic_car
 
 def display_results(dic_global, dic_car, TOOL, results_light):
-  L_P = dic_global["clean_eval"][TOOL]["precision"]
-  P = round(st.mean(L_P),4)
-  L_R = dic_global["clean_eval"][TOOL]["recall"]
-  R = round(st.mean(L_R),4)
-  F = (1+1)*P*R/(1*P+R)
-  results_light[TOOL] = {"global":F}
-  print("  F-score (micro): %f (%i files)"%(F, len(L_P)))
-  for caract, d in dic_car["clean_eval"][TOOL].items():
-    print("  By %s:"%caract)
-    results_light[TOOL]["caract"] = {}
-    l_f = []
-    for name, res in d.items():
+  results_light[TOOL]={}
+  for eval_type in ["clean_eval", "occ_eval_res"]:
+    print("--",eval_type)
+    L_P = dic_global[eval_type][TOOL]["precision"]
+    P = round(st.mean(L_P),4)
+    L_R = dic_global[eval_type][TOOL]["recall"]
+    R = round(st.mean(L_R),4)
+    F = (1+1)*P*R/(1*P+R)
+    results_light[TOOL][eval_type] = {"global":F}
+    print("  F-score (micro): %f (%i files)"%(F, len(L_P)))
+    for caract, d in dic_car[eval_type][TOOL].items():
+      print("  By %s:"%caract)
+      results_light[TOOL][eval_type]["caract"] = {}
+      l_f = []
+      for name, res in d.items():
         L = res["f-score"]
         F = round(st.mean(L),4)
         l_f.append(F)
         print("    %s:%f (%i files)"%(name, F, len(L)))
-        results_light[TOOL]["caract"][name]=F
+        results_light[TOOL][eval_type]["caract"][name]=F
     print("    F-score (macro): %f"%(st.mean(l_f)))
   return results_light

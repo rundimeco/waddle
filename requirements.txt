@@ -8,3 +8,4 @@ justext==2.2.0
 newspaper3k==0.2.8
 news-please==1.4.25
 readability-lxml==0.7.1
+trafilatura==0.4.1
