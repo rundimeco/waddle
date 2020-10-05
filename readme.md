@@ -28,6 +28,12 @@ Directories:
 * `Corpus/cleaned`	cleaned file, one directory by tool
 * `Corpus/reference`	reference cleaning version (needed for evaluation)
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 ### Tools
 
 |Cat. |Outil |Version|Github|Reference|
