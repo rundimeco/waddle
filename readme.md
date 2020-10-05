@@ -32,7 +32,9 @@ Directories:
 
 ### Tools
 
-| Cat. | Outil                                      | Version   | Adresse Github               | Référence |
+We defined three categories: (I) tools designed to extract all the textual content (recall-oriented tools), usually not focused on press articles; (II) tools focusing on the readability of web pages and (III) tools dedicated to text content extraction.
+
+| Cat. | Tool                                      | Version   | Github               | Reference |
 |:-----|:-------------------------------------------|:----------|:-----------------------------|:----------|
 | I    | <span class="smallcaps">Html2text</span>   | 2020.1.16 | [Alir3z4/html2text/][]       |[https://core.ac.uk/download/pdf/127601559.pdf]           |
 | I    | <span class="smallcaps">Inscriptis</span>  | 1.0       | [weblyzard/inscriptis][]     |           |

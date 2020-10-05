@@ -3,7 +3,7 @@ from generic_functions import *
 
 #### tools import ####
 from boilerpy3 import extractors
-from dragnet import extract_content
+#from dragnet import extract_content
 from goose3 import Goose
 import html2text
 import inscriptis 
