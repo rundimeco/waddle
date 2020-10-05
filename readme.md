@@ -28,13 +28,21 @@ Directories:
 * `Corpus/cleaned`	cleaned file, one directory by tool
 * `Corpus/reference`	reference cleaning version (needed for evaluation)
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
 
 ### Tools
+
+|Cat.   |Outil          | Version|Adresse Github& Référence|
+|I |\textsc{Html2text} | 2020.1.16 |\href{https://github.com/Alir3z4/html2text/}{Alir3z4/html2text/}    ||
+|I      &\textsc{Inscriptis} | 1.0      |\href{https://github.com/weblyzard/inscriptis}{weblyzard/inscriptis}           ||
+|II |\textsc{Newspaper3k} |0.2.8        |\href{https://github.com/codelucas/newspaper}{codelucas/newspaper}             ||
+|II|\textsc{News-please} |1.4.25 |\href{https://github.com/fhamborg/news-please}{fhamborg/news-please}  | \cite{HamborgEtAl:2017}|
+|II|\textsc{Readability} |0.7.1         |\href{https://github.com/buriy/python-readability}{buriy/python-readability}||
+|III|\textsc{Boilerpy3} |1.0.2  |\href{https://github.com/jmriebold/BoilerPy3}{jmriebold/BoilerPy3}             |\cite{KohlschutterEtAl:2010}|
+|III|\textsc{Dragnet} |2.0.4    |\href{https://github.com/dragnet-org/dragnet}{dragnet-org/dragnet}     | \cite{PetersEtAl:2013}|
+|III|\textsc{Goose3} |3.1.6     |\href{https://github.com/goose3/goose3}{goose3/goose3}                 ||
+|III|\textsc{JusText} |2.2.0    |\href{https://github.com/miso-belica/jusText}{miso-belica/jusText}             | \cite{Pomikalek:2011}|
+|III |\textsc{Trafilatura} |0.4.1       |\href{https://github.com/adbar/trafilatura}{adbar/trafilatura}         | \cite{Barbaresi:2019b}|
 
 |Cat. |Outil |Version|Github|Reference|
 
