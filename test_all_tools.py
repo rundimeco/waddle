@@ -18,15 +18,15 @@ liste_fic = glob.glob("%s/%s/*"%(corpus_base, source))
 
 modes ={
         ##Comment lines to use just some tools
-	#"BP3":["", "Article", "Largest", "KeepEverything"],
-        #"DRAG":[""],
-	#"GOO":[""],
-	#"HTML2TEXT":[""],
-	#"INSCRIPTIS":[""],
-	#"JT":["", "_english", "_langid", "_trueLg"], 
-        #"NEWSPAPER":[""],
-        #"NEWSPLEASE":[""],
-	#"READABILITY":[""],
+	"BP3":["", "Article", "Largest", "KeepEverything"],
+        #"DRAG":[""], ##TODO: Find a solution to deprecated joblib (sklearn) error
+	"GOO":[""],
+	"HTML2TEXT":[""],
+	"INSCRIPTIS":[""],
+	"JT":["", "_english", "_langid", "_trueLg"], 
+        "NEWSPAPER":[""],
+        "NEWSPLEASE":[""],
+	"READABILITY":[""],
 	"TRAF":["", "Fallback", "Comments", "FallbackComments"]
 	}
 
