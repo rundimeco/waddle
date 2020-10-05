@@ -29,9 +29,9 @@ Directories:
 * `Corpus/reference`	reference cleaning version (needed for evaluation)
 
 ### Tools
-  |Cat.   |Outil                       Version     Adresse Github                                                            Référence|
+|Cat.   |Outil                       Version     Adresse Github                                                            Référence|
   ------ --------------------------- ----------- ------------------------------------------------------------------------- --------------------------
-  |I      |[Html2text]{.smallcaps}     2020.1.16   [Alir3z4/html2text/](https://github.com/Alir3z4/html2text/)               
+|I      |[Html2text]{.smallcaps}     2020.1.16   [Alir3z4/html2text/](https://github.com/Alir3z4/html2text/)               
   |I      |[Inscriptis]{.smallcaps}    1.0         [weblyzard/inscriptis](https://github.com/weblyzard/inscriptis)           
   |II     |[Newspaper3k]{.smallcaps}   0.2.8       [codelucas/newspaper](https://github.com/codelucas/newspaper)             
   |II     |[News-please]{.smallcaps}   1.4.25      [fhamborg/news-please](https://github.com/fhamborg/news-please)           [@HamborgEtAl:2017]
