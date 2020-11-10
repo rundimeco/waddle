@@ -1,0 +1,1570 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!-- Start LegacyAppFragment name="Head" -->
+
+	
+		
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<script type="text/javascript" src="/Scripts/mobile_detection.js">
+</script>
+
+<script type="text/javascript">
+directToMobileSite();
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/atexStyle.css" />
+<link rel="stylesheet" type="text/css" href="/css/iol_style.css" />
+<link rel="stylesheet" type="text/css" href="/css/iol_layout_style.css" />
+<link rel="stylesheet" type="text/css" href="/css/gallery_style.css" />
+<link rel="stylesheet" type="text/css" href="/css/tn3.css" />
+
+<!-- include jQuery library -->
+<script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+<!-- include tn3 plugin -->
+<script type="text/javascript" src="/Scripts/jquery.tn3lite.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/Scripts/jquery.fancybox-1.3.1.css" media="screen" />
+
+
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="css/iol_style_ie6.css" />
+<![endif]-->
+
+<link rel="shortcut icon" href="/images/iol_favicon.jpg" />	
+	
+  <link rel="stylesheet" type="text/css" href="http://www.iol.co.za/cmlink/temp-style-fix-7.6432">
+  <link rel="stylesheet" type="text/css" href="http://www.iol.co.za/cmlink/news-style-7.3920">
+
+  
+        <link rel="alternate" type="application/rss+xml" title="News RSS Multimedia Videos Feed" href="http://www.iol.co.za/cmlink/news-rss-multimedia-videos-feed-1.1152520" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News RSS Multimedia Galleries Feed" href="http://www.iol.co.za/cmlink/news-rss-multimedia-galleries-feed-1.1149195" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Editors Pick Extended RSS" href="http://www.iol.co.za/cmlink/editors-pick-extended-rss-1.1137157" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Africa Extended" href="http://www.iol.co.za/cmlink/news-africa-extended-1.679216" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Soccer Soccer Extended RSS" href="http://www.iol.co.za/cmlink/soccer-soccer-extended-rss-1.679215" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Most Commmented Stories" href="http://www.iol.co.za/cmlink/most-commmented-stories-1.1625" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Most Viewed Stories" href="http://www.iol.co.za/cmlink/most-viewed-stories-1.1624" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Home Page Extended" href="http://www.iol.co.za/cmlink/home-page-extended-1.628986" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Sport Extended" href="http://www.iol.co.za/cmlink/sport-extended-1.628987" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Sport Rugby Extended" href="http://www.iol.co.za/cmlink/sport-rugby-extended-1.628988" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Sport Cricket Extended" href="http://www.iol.co.za/cmlink/sport-cricket-extended-1.628989" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Back Page Extended" href="http://www.iol.co.za/cmlink/news-back-page-extended-1.628990" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News South Africa Extended" href="http://www.iol.co.za/cmlink/news-south-africa-extended-1.679178" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News World Extended" href="http://www.iol.co.za/cmlink/news-world-extended-1.679217" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Sport Golf Extended" href="http://www.iol.co.za/cmlink/sport-golf-extended-1.679220" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Western Cape Extended" href="http://www.iol.co.za/cmlink/western-cape-extended-1.679223" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Gauteng Extended" href="http://www.iol.co.za/cmlink/news-gauteng-extended-1.679235" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News KwaZulu-Natal Extended" href="http://www.iol.co.za/cmlink/news-kwazulu-natal-extended-1.679236" >
+        
+        <link rel="alternate" type="application/rss+xml" title="Special Feature Aids RSS" href="http://www.iol.co.za/cmlink/special-feature-aids-rss-1.1187936" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Special Features Secrecy Bill RSS" href="http://www.iol.co.za/cmlink/news-special-features-secrecy-bill-rss-1.1184772" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News extended RSS" href="http://www.iol.co.za/cmlink/news-extended-rss-1.1134492" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Video Extended RSS" href="http://www.iol.co.za/cmlink/news-mandela-video-extended-rss-1.1023762" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Western Cape Category RSS" href="http://www.iol.co.za/cmlink/news-western-cape-category-rss-1.667" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Gauteng Category RSS" href="http://www.iol.co.za/cmlink/news-gauteng-category-rss-1.666" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News South Africa Category RSS" href="http://www.iol.co.za/cmlink/news-south-africa-category-rss-1.665" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Politics Category RSS" href="http://www.iol.co.za/cmlink/news-politics-category-rss-1.664" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Crime and Courts Category RSS" href="http://www.iol.co.za/cmlink/news-crime-and-courts-category-rss-1.663" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Category RSS" href="http://www.iol.co.za/cmlink/news-category-rss-1.662" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mpumalanga Category RSS" href="http://www.iol.co.za/cmlink/news-mpumalanga-category-rss-1.661" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Limpopo Category RSS" href="http://www.iol.co.za/cmlink/news-limpopo-category-rss-1.660" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Eastern Cape Category RSS" href="http://www.iol.co.za/cmlink/news-eastern-cape-category-rss-1.659" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News North West Category RSS" href="http://www.iol.co.za/cmlink/news-north-west-category-rss-1.658" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Northern Cape Category RSS" href="http://www.iol.co.za/cmlink/news-northern-cape-category-rss-1.657" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News KwaZulu-Natal Category RSS" href="http://www.iol.co.za/cmlink/news-kwazulu-natal-category-rss-1.656" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Free State Category RSS" href="http://www.iol.co.za/cmlink/news-free-state-category-rss-1.655" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Africa Category RSS" href="http://www.iol.co.za/cmlink/news-africa-category-rss-1.654" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News World Category RSS" href="http://www.iol.co.za/cmlink/news-world-category-rss-1.653" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Back Page Category RSS" href="http://www.iol.co.za/cmlink/news-back-page-category-rss-1.652" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Category RSS" href="http://www.iol.co.za/cmlink/news-mandela-category-rss-1.651" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Mandela and People Category RSS" href="http://www.iol.co.za/cmlink/news-mandela-mandela-and-people-category-rss-1.650" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Charities Category RSS" href="http://www.iol.co.za/cmlink/news-mandela-charities-category-rss-1.649" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Words and Deeds Category RSS" href="http://www.iol.co.za/cmlink/news-mandela-words-and-deeds-category-rss-1.648" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Accolades Category RSS" href="http://www.iol.co.za/cmlink/news-mandela-accolades-category-rss-1.647" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Birthdays Category RSS" href="http://www.iol.co.za/cmlink/news-mandela-birthdays-category-rss-1.646" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Timeline Category RSS" href="http://www.iol.co.za/cmlink/news-mandela-timeline-category-rss-1.645" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Tributes Category RSS" href="http://www.iol.co.za/cmlink/news-mandela-tributes-category-rss-1.644" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Zuma Category RSS" href="http://www.iol.co.za/cmlink/news-zuma-category-rss-1.643" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Selebi Category RSS" href="http://www.iol.co.za/cmlink/news-selebi-category-rss-1.642" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Zimbabwe Category RSS" href="http://www.iol.co.za/cmlink/news-zimbabwe-category-rss-1.641" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Science Extended Category RSS" href="http://www.iol.co.za/cmlink/news-science-extended-category-rss-1.682902" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Priority RSS" href="http://www.iol.co.za/cmlink/news-priority-rss-1.640" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Crime & Courts Priority RSS" href="http://www.iol.co.za/cmlink/news-crime-courts-priority-rss-1.639" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Politics Priority RSS" href="http://www.iol.co.za/cmlink/news-politics-priority-rss-1.638" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News South Africa Priority RSS" href="http://www.iol.co.za/cmlink/news-south-africa-priority-rss-1.623" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Africa Priority RSS" href="http://www.iol.co.za/cmlink/news-africa-priority-rss-1.621" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News World Priority RSS" href="http://www.iol.co.za/cmlink/news-world-priority-rss-1.620" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Back Page Priority RSS" href="http://www.iol.co.za/cmlink/news-back-page-priority-rss-1.619" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Mandela Priority RSS" href="http://www.iol.co.za/cmlink/news-mandela-priority-rss-1.618" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Zuma Priority RSS" href="http://www.iol.co.za/cmlink/news-zuma-priority-rss-1.617" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Selebi Priority RSS" href="http://www.iol.co.za/cmlink/news-selebi-priority-rss-1.595" >
+        
+        <link rel="alternate" type="application/rss+xml" title="News Zimbabwe Priority RSS" href="http://www.iol.co.za/cmlink/news-zimbabwe-priority-rss-1.463" >
+      
+
+    <title>Skin grafts on girl bitten by cobra a success - Gauteng | IOL News | IOL.co.za</title>
+
+
+
+
+<meta name="keywords" content="IOL, Newspaper, News Online, South Africa News, SA News, Daily News, Breaking News, World News, Sport, Business, Financial, Entertainment, Technology, Motoring, Travel, Property, The Star, Independent Online, Cape Times, Mercury, Cape Argus, PTA News, DFA, Independent Newspapers">
+<meta name="description" content="South Africa's Premier Online News Source. Discover the world of IOL, News South Africa, Sport, Business, Financial, World News, Entertainment, Technology, Motoring, Travel, Property, Calssifieds & more.">
+<meta name="author" content="Independent Newspapers Online">
+<meta name="google-site-verification" content="YmiNpvzQrHdqXOi__ytAIEQM_vjpAQvum7AZW5rs1xE" /> 		
+	
+	
+
+<script type="text/javascript" src="/Scripts/menu.js"></script>
+
+
+  <script type="text/javascript">
+    <!--
+    function MM_showHideLayers() { //v9.0
+      var i,p,v,obj,args=MM_showHideLayers.arguments;
+      for (i=0; i<(args.length-2); i+=3) 
+      with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+        if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+        obj.visibility=v; } 
+    }
+    function MM_swapImgRestore() { //v3.0
+      var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+    }
+    function MM_preloadImages() { //v3.0
+      var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+        var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+        if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+    }
+    
+    function MM_findObj(n, d) { //v4.01
+      var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+        d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+      if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+      for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+      if(!x && d.getElementById) x=d.getElementById(n); return x;
+    }
+    
+    function MM_swapImage() { //v3.0
+      var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+       if ((x=MM_findObj(a[i]))!=null)
+	   	{
+		document.MM_sr[j++]=x;
+		if(!x.oSrc) x.oSrc=x.src;
+		x.src=a[i+2];
+		}
+    }
+    //-->
+  </script>
+<!-- End LegacyAppFragment name="Head" -->	
+
+        
+
+      </head>
+<body onload="MM_preloadImages('/images/multimedia_gal_prev2.jpg','/images/multimedia_gal_next2.jpg','/images/multimedia_gal_forward2.gif','/images/multimedia_gal_back2.gif','/images/a_tool_email_2.jpg','/images/a_tool_print_2.jpg','/images/pagination_prev_hov.jpg','/images/pagination_next_hov.jpg');   ">
+  <div class="top-ad-wrapper">
+	
+		      
+                  
+    
+      
+        
+        
+                        <!-- BEGIN EFFECTIVE MEASURE CODE -->
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
+<script type="text/javascript">
+  (function() {
+    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+    em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+<noscript>
+<img src="//za.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!--END EFFECTIVE MEASURE CODE -->
+      
+      
+          
+                
+<div id="top_container" align="center">
+
+    	  
+        
+        	        	        	            
+          <!--JavaScript Tag // Tag for network 585: Independent Online South Africa // Website: IOL Portal // Page: Sport // Placement: Sport MPU Bot  AV (2418273) // created at: May 5, 2010 9:13:22 AM-->
+          <script language="javascript"><!--
+          document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2736961|0|770|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');
+          //-->
+          </script><noscript><a href="http://adserver.adtech.de/adlink|3.0|585|2736961|0|770|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|585|2736961|0|770|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" border="0" width="300" height="600"></a></noscript>
+       
+          
+		
+      	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="sponsored_links">
+    <div class="sponsored_links_head"><p class="sponsored_link_head_text">Sponsored Links:</p></div>
+    <div class="sponsored_links_cont">  
+      <ul class="sponsored_link_cont">
+        		  <li>
+			    <a href="http://www.iol.co.za:80/travel"  style="margin: 0px 0px 0px 5px;">IOL Travel</a>
+		  </li>
+				  <li>
+			    <a href="http://www.iol.co.za:80/business/personal-finance"  style="margin: 0px 0px 0px 5px;">Personal Finance</a>
+		  </li>
+				  <li>
+			    <a href="http://www.iol.co.za:80/lifestyle"  style="margin: 0px 0px 0px 5px;">IOL Lifestyle</a>
+		  </li>
+				  <li>
+			    <a href="http://www.iol.co.za:80/motoring"  style="margin: 0px 0px 0px 5px;">Motoring</a>
+		  </li>
+				  <li>
+			    <a href="http://www.iol.co.za:80/scitech"  style="margin: 0px 0px 0px 5px;">SciTech</a>
+		  </li>
+				  <li>
+			    <a href="http://www.iol.co.za:80/tonight"  style="margin: 0px 0px 0px 5px;">Tonight</a>
+		  </li>
+		      </ul>
+    </div>
+  </div>
+
+      
+  
+      		
+  </div>
+		  <div id="wrapper">
+		  <div id="top_stories_container">
+		          	  	    <div class="top_stories">
+				              <div class="top_stories_pics">
+                <a href="http://www.iol.co.za:80/news/world/myanmar-ends-62-year-ethnic-conflict-1.1211924">
+				    
+
+
+
+
+
+
+                   <img title='' height='60' style='' alt='iol new spic ceasefire' width='60' class='pics' src='/polopoly_fs/iol-new-spic-ceasefire-1.1211923!/image/4085905785.jpg_gen/derivatives/box_60/4085905785.jpg' />                    </a>
+              </div>
+    		  
+              <div class="top_stories_text_container">
+				<p class="top_stories_text">
+				  <a href="http://www.iol.co.za:80/news/world/myanmar-ends-62-year-ethnic-conflict-1.1211924" class="top_stories_text">Myanmar ends 62-year ethnic conflict</a>
+				</p>
+			  </div>
+            </div>
+		  		          	  	    <div class="top_stories">
+				              <div class="top_stories_pics">
+                <a href="http://www.iol.co.za:80/news/world/doubt-hangs-over-arab-mission-in-syria-1.1211922">
+				    
+
+
+
+
+
+
+                   <img title='' height='60' style='' alt='iol new spic ceasefire' width='60' class='pics' src='/polopoly_fs/iol-pic-wld-protests-againt-syria-prez-1.1211921!/image/673075736.jpg_gen/derivatives/box_60/673075736.jpg' />                    </a>
+              </div>
+    		  
+              <div class="top_stories_text_container">
+				<p class="top_stories_text">
+				  <a href="http://www.iol.co.za:80/news/world/doubt-hangs-over-arab-mission-in-syria-1.1211922" class="top_stories_text">Doubt hangs over Arab mission in Syria</a>
+				</p>
+			  </div>
+            </div>
+		  		          	  	    <div class="top_stories">
+				              <div class="top_stories_pics">
+                <a href="http://www.iol.co.za:80/news/world/karzai-condemns-desecration-of-bodies-1.1211920">
+				    
+
+
+
+
+
+
+                   <img title='' height='60' style='' alt='iol new spic ceasefire' width='60' class='pics' src='/polopoly_fs/iol-pic-wld-hamid-karzai23-1.1193752!/image/4185603925.jpg_gen/derivatives/box_60/4185603925.jpg' />                    </a>
+              </div>
+    		  
+              <div class="top_stories_text_container">
+				<p class="top_stories_text">
+				  <a href="http://www.iol.co.za:80/news/world/karzai-condemns-desecration-of-bodies-1.1211920" class="top_stories_text">Karzai condemns ‘desecration’ of bodies</a>
+				</p>
+			  </div>
+            </div>
+		  		          	  	    <div class="top_stories">
+				              <div class="top_stories_pics">
+                <a href="http://www.iol.co.za:80/news/world/pakistan-fires-defence-secretary-1.1211919">
+				    
+
+
+
+
+
+
+                   <img title='' height='60' style='' alt='iol new spic ceasefire' width='60' class='pics' src='/polopoly_fs/iol-pic-wld-yusuf-gilani-1.1145847!/image/2630553966.jpg_gen/derivatives/box_60/2630553966.jpg' />                    </a>
+              </div>
+    		  
+              <div class="top_stories_text_container">
+				<p class="top_stories_text">
+				  <a href="http://www.iol.co.za:80/news/world/pakistan-fires-defence-secretary-1.1211919" class="top_stories_text">Pakistan fires defence secretary</a>
+				</p>
+			  </div>
+            </div>
+		  		          	  	    <div class="top_stories">
+				              <div class="top_stories_pics">
+                <a href="http://www.iol.co.za:80/news/world/court-halts-quick-release-of-some-pardoned-1.1211918">
+				    
+
+
+
+
+
+
+                   <img title='' height='60' style='' alt='iol new spic ceasefire' width='60' class='pics' src='/polopoly_fs/iol-pic-wkld-haley-1.1209745!/image/4104996739.jpg_gen/derivatives/box_60/4104996739.jpg' />                    </a>
+              </div>
+    		  
+              <div class="top_stories_text_container">
+				<p class="top_stories_text">
+				  <a href="http://www.iol.co.za:80/news/world/court-halts-quick-release-of-some-pardoned-1.1211918" class="top_stories_text">Court halts quick release of some pardoned</a>
+				</p>
+			  </div>
+            </div>
+		  		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		          		      </div>
+			<div id="masthead">
+	          
+                  
+    
+      
+          <div class="logo">
+	<a href="http://www.iol.co.za:80/news" >
+              
+
+
+
+
+
+
+                   <img title='' height='69' style='' alt='iol_news5' width='318' class='pics' src='/polopoly_fs/iol-news5-1.989381!/image/464471284.png_gen/derivatives/absolute/464471284.png' />    	  	</a>
+  </div>
+
+  
+
+          
+                <div class="highlights">
+  <div class="highlights_text_cont">
+	<p class="highlights_head">
+	  <a href="http://www.iol.co.za/news/special-features/nelson-mandela" class="highlights_head"  target='_blank'>Nelson Mandela</a>
+	</p>
+	<p class="highlights_text">IOL's special feature</p>
+  </div>
+  <div class="highlights_pics">
+	<a href="http://www.iol.co.za/news/special-features/nelson-mandela"  target='_blank'>
+	          
+
+
+
+
+
+
+                   <img title='' height='56' style='' alt='Nelson Mandela' width='60' class='pics' src='/polopoly_fs/nelson-mandela-1.1017746!/image/2009159835.JPG_gen/derivatives/absolute/2009159835.JPG' />          	</a>
+  </div>
+</div>
+
+
+
+          
+          <div class="search_box">
+    <div class="search_form">
+      <form action="http://www.iol.co.za:80/search-results-page" method="get">
+		<input type="hidden" value="search" name="action"/>
+        <input type="hidden" value="true" name="submitted"/>
+		<table>
+		  <tr>
+			<td class="form_text">
+			  <input name="freeTextQuery" id="keyword" type="text" class="search-form-input" size="12" value=""/>
+			</td>
+			<td class="form_text">
+			  <select name="channel" id="channel" class="options_text" title="channel"><option value="category.news">News</option><option value="category.business">Business</option><option value="category.lifestyle">Lifestyle</option><option value="category.travel">Travel</option><option value="category.sport">Sport</option><option value="category.motoring">Motoring</option><option value="category.personalfinance">Personal Finance</option><option value="category.scitech">Scitech</option><option value="category.tonight">Tonight</option><option value="category.thesundayindependent">SundayInd</option><option value="category.capetimes">CapeTimes</option><option value="category.saturdaystar">SaturdayStar</option><option value="category.thestar">TheStar</option><option value="category.pretorianews">PretoriaNews</option><option value="category.dailynews">DailyNews</option><option value="category.mercury">Mercury</option><option value="category.post">Post</option><option value="category.isolezwe">Isolezwe</option><option value="category.rugby">Rugby</option><option value="" selected="selected">All Channels</option></select>
+			</td>
+			<td>
+			  <a href="#">
+				<input name="Submit" type="submit" value="Search" class="submit_button" />
+			  </a>
+			</td>
+		  </tr>
+		</table>
+	  </form>
+    </div>
+      <div class="search_text"><p class="advanced_search"><a href="http://www.iol.co.za:80/search-results-page" class="advanced_search">Advanced Search</a></p></div>
+    </div>
+
+      
+  
+                </div>
+
+	
+		<div id="navigation">
+	          
+                  
+    
+      
+        
+
+  	<div class="nav_home_sections">
+      <div id="home_navigation">
+        <p class="nav_home_text_sections">
+		  <img src="/images/nav_logo.jpg" alt="IOL - logo" title="" class="nav_logo" />
+		  <a href="/"  rel="nav_home_submenus">Home</a>
+		</p>
+      </div>
+	  <div id="nav_home_submenus" class="tabcontent">
+        <div class="nav_home_submenus">
+	      	      <ul>
+                	                             <li><a href="http://www.iol.co.za:80/news"  class=""  rel="navigation2226" >News</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/business"  class=""  rel="navigation2545" >Business</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/sport"  class=""  rel="navigation2228" >Sport</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/motoring"  class=""  rel="navigation2572" >Motoring</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/tonight"  class=""  rel="navigation2901" >Tonight</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/lifestyle"  class=""  rel="navigation2227" >Lifestyle</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/travel"  class=""  rel="navigation2835" >Travel</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/scitech"  class=""  rel="navigation2750" >SciTech</a></li>     
+                      	                                    	                             <li><a href="http://www.iol.co.za:80/blogs"  class=""  rel="navigation2230" >Blogs</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/newspapers"  class=""  rel="navigation2231" >Newspapers</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/iol-shopper"  class=""  rel="navigation21224" >IOL Shopper</a></li>     
+                                  	                				        	                 <li><a href="http://www.wegotads.co.za"  class=""  rel="navigation1620826"  target='_blank'>Classifieds</a></li>     
+                                  	                				        	                 <li><a href="http://www.iolproperty.co.za"  class=""  rel="navigation1620809"  target='_blank'>Property</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/jobs"  class=""  rel="navigation21471" >Jobs</a></li>     
+                      	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                                    	                            </ul>
+    	    </div>
+      </div>
+	</div>
+		            	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      	      				<div class="nav_links_sections">
+      <div id="ddtabs3" class="solidblockmenu">
+        	      <ul>
+                	                             <li><a href="http://www.iol.co.za:80/news/crime-courts"  class=""  rel="navigation2232" >Crime & Courts</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/politics"  class=""  rel="navigation2233" >Politics</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/south-africa"  class=""  rel="navigation2234" >South Africa</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/africa"  class=""  rel="navigation2244" >Africa</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/world"  class=""  rel="navigation2245" >World</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/back-page"  class=""  rel="navigation2246" >Back Page</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/special-features"  class=""  rel="navigation2247" >Special Features</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/matric-results"  class=""  rel="navigation21099" >Matric Results</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/class-of-2011"  class=""  rel="navigation21707" >Class of 2011</a></li>     
+                      	                                    	                            </ul>
+          </div>
+	  	  	
+                <div id="navigation2232" class="tabcontent">
+        <div class="second_level_menu">
+		              	    		          </div>
+      </div>
+          <div id="navigation2233" class="tabcontent">
+        <div class="second_level_menu">
+		              	    		          </div>
+      </div>
+          <div id="navigation2234" class="tabcontent">
+        <div class="second_level_menu">
+		              	      <ul>
+                	                             <li><a href="http://www.iol.co.za:80/news/south-africa/western-cape"  class=""  rel="navigation2235" >Western Cape</a></li>     
+                            	                             <li><a href="http://www.iol.co.za:80/news/south-africa/gauteng"  class="current"  rel="navigation2236" >Gauteng</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/south-africa/mpumalanga"  class=""  rel="navigation2237" >Mpumalanga</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/south-africa/limpopo"  class=""  rel="navigation2238" >Limpopo</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/south-africa/eastern-cape"  class=""  rel="navigation2239" >Eastern Cape</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/south-africa/north-west"  class=""  rel="navigation2240" >North West</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/south-africa/northern-cape"  class=""  rel="navigation2241" >Northern Cape</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/south-africa/kwazulu-natal"  class=""  rel="navigation2242" >KwaZulu-Natal</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/south-africa/free-state"  class=""  rel="navigation2243" >Free State</a></li>     
+              </ul>
+    		          </div>
+      </div>
+          <div id="navigation2244" class="tabcontent">
+        <div class="second_level_menu">
+		              	    		          </div>
+      </div>
+          <div id="navigation2245" class="tabcontent">
+        <div class="second_level_menu">
+		              	    		          </div>
+      </div>
+          <div id="navigation2246" class="tabcontent">
+        <div class="second_level_menu">
+		              	    		          </div>
+      </div>
+          <div id="navigation2247" class="tabcontent">
+        <div class="second_level_menu">
+		              	      <ul>
+                	                             <li><a href="http://www.iol.co.za:80/news/special-features/aids"  class=""  rel="navigation21700" >Aids</a></li>     
+                      	                             <li><a href="http://www.iol.co.za:80/news/special-features/julius-malema"  class=""  rel="navigation21496" >Julius Malema</a></li>     
+                      	                                    	                                    	                                    	                                    	                                    	                             <li><a href="http://www.iol.co.za:80/news/special-features/nelson-mandela"  class=""  rel="navigation2248" >Nelson Mandela</a></li>     
+                      	                                    	                                    	                             <li><a href="http://www.iol.co.za:80/news/special-features/zimbabwe"  class=""  rel="navigation2251" >Zimbabwe</a></li>     
+                      	                                    	                                    	                             <li><a href="http://www.iol.co.za:80/news/special-features/secrecy-bill"  class=""  rel="navigation21699" >Secrecy Bill</a></li>     
+              </ul>
+    		          </div>
+      </div>
+          <div id="navigation21099" class="tabcontent">
+        <div class="second_level_menu">
+		              	    		          </div>
+      </div>
+          <div id="navigation21707" class="tabcontent">
+        <div class="second_level_menu">
+		              	    		          </div>
+      </div>
+          <div id="navigation2541" class="tabcontent">
+        <div class="second_level_menu">
+		              	    		          </div>
+      </div>
+          <div id="navigation21713" class="tabcontent">
+        <div class="second_level_menu">
+		              	    		          </div>
+      </div>
+            </div> 
+			  		  		  				  		                		  		  		  		  		  		  		  		  		<script type="text/javascript">
+	  	    ddtabmenu.definemenu("ddtabs3", 2)
+	      </script>
+	<script type="text/javascript">
+      ddtabmenu.definemenu("home_navigation")
+    </script>
+  
+
+
+          
+        
+        
+                        <script type="text/javascript" language="JavaScript">
+
+function calcTime(city, offset) {
+
+
+
+    d = new Date();
+
+
+
+    utc = d.getTime() + (d.getTimezoneOffset() * 60000);
+
+    
+
+    nd = new Date(utc + (3600000*offset));
+
+       document.write ("SA Time: " + nd.toLocaleString());
+
+}
+
+
+
+</script>
+
+
+<p class="time_stamp">
+<script type="text/javascript">
+<!--
+  calcTime("South Africa", "+2");
+// -->
+</script>
+</p>
+
+
+      
+      
+      
+  
+      	  	</div>
+	
+								<div id="nav_devider"></div>
+		        	
+		  <div id="col_1_2_3_container_sections">
+		
+	  	    	    <div id="col_1_2">
+		              
+	<img src='http://www.iol.co.za/logger/p.gif?a=1.1211613&amp;d=/2.225/2.226/2.234/2.236' alt='' />
+
+
+          <div class="article-white">
+      <h1 class="article_headers">Skin grafts on girl bitten by cobra a success</h1>
+      <p class="byline">
+        		  		            January 12 2012 at 10:37am <br/>
+                          By YOLANDE DU PREEZ
+	          </p>
+              <p class="comment_call_to_action"><a class="lrc_btm_text" href="#comments_start">Comment on this story</a></p>
+            <hr />
+	 
+	  <div class="ctx_content">
+<!-- C-ON-TEXT_CONTENT_START --> 
+
+      <div id="article_container">
+        <div class="aticle_column">
+                      <div class="aticle_video">
+        	                                <!-- Main Editorial Image -->
+                    			      			                                      <img src="/polopoly_fs/jan-12-hospital-bed-1.1211612!/image/4194914256.jpg_gen/derivatives/box_300/4194914256.jpg" alt="jan 12 hospital bed" title=""  class="pics"/>
+				  <p class="captions_credit_article">sxc.hu</p>
+                  <p class="captions">The five-year-old girl who was bitten by a Mozambican spitting cobra shortly before Christmas is well on her way to recovery.</p>
+                  <p class="captions"></p>
+                                          </div>
+                              
+		  
+		  
+		  
+		  
+		  		  					  		  		    <!--PSTYLE=WT Web Text--><p class="arcticle_text">Skin grafts performed on the arm of a girl, 5, who was bitten by a Mozambican spitting cobra shortly before Christmas have been a success and she is well on her way to recovery. </p> 
+					  		    <p class="arcticle_text">This is the word from Dr Kobie Marais, head of nursing at the Steve Biko Academic Hospital. </p> 
+					  		    <p class="arcticle_text">Mikayla Robbertse, underwent surgery on her left arm on Tuesday last week. A team of plastic surgeons performed a split skin graft on her upper arm and then attached her hand to her groin in a procedure known as a &#8220;groin flap&#8221;.  </p> 
+					  		    <p class="arcticle_text">The healthy skin in her groin area assisted with skin growth and blood flow in her hand damaged by the snake&#8217;s poison which had spread through the tissue. </p> 
+					  		    <p class="arcticle_text">&#8220;The skin on her upper arm is healing beautifully. In two weeks&#8217; time we will know if the skin on her hand has taken successfully.  </p> 
+					  		    <p class="arcticle_text">&#8220;We are very confident that the procedure was a success,&#8221; Marais said. </p> 
+						  				  		        		    		  		    <p class="arcticle_text">Mikayla&#8217;s grandmother, Charmaine Robbertse, said on Wednesday that Mikayla was back to her old self. </p> 
+					  		    <p class="arcticle_text">&#8220;She is walking around, playing princess and colouring in. She is a real busy bee,&#8221; Robbertse said. </p> 
+					  		    <p class="arcticle_text">Robbertse said Mikayla understood that she had to keep her arm as still as possible. &#8220;I&#8217;m trying to entertain her (with) DVDs on my laptop. Kung Fu Panda and Barbie are her favourites.&#8221; </p> 
+					  		    <p class="arcticle_text">Mikayla&#8217;s grandfather Bertus will this weekend see her for the first time after her surgery. He had to return to their Lephalale farm last week. </p> 
+					  		    <p class="arcticle_text">&#8220;He is so excited. He will not believe his eyes when he sees how well she is doing,&#8221; Robbertse said. </p> 
+					  		    <p class="arcticle_text">Mikayla was bitten by a cobra on her hand and elbow on the family farm 8km outside Lephalale soon after going to bed on December 19.  </p> 
+						  				  		        		    		  		    <p class="arcticle_text">She was taken to the state hospital in Lephalale and treated with antivenom before being transferred to Steve Biko hospital. - Pretoria News </p> 
+					  		  		  
+		  		  
+		  
+		  		    		  
+
+        </div>
+	  <!-- .aticle_column -->
+        
+        
+	  </div>  
+	  
+	  
+	  
+	  
+<!-- C-ON-TEXT_CONTENT_END -->
+</div> 
+
+
+	  
+	  
+	  
+	  
+	  
+	  
+	  <div class="images">
+		<a href="http://www.iol.co.za/newsletters" target="_blank"><img src="/images/sign-up.jpg" alt="sign up" class="images"/></a>
+      </div>	
+	  
+	  <br />
+      <a name="sharinganchor"></a>
+	  		<table>
+            	<tr>
+            		<td>
+                       <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like show_faces="true" width="450" action="recommend"></fb:like>
+                    </td>
+                </tr>
+		</table>
+
+        <div class="article_tool">
+		            
+
+<table>
+	<tr>
+		<td><p class="article_tool_text">Share | &nbsp;</p></td>
+									
+				<td><p class="article_tool_images"><a href="http://www.facebook.com/sharer.php?u=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank">
+							<img src="http://www.iol.co.za:80/polopoly_fs/article-facebook-1.2132!/image/1096917571.jpg_gen/derivatives/box_16/1096917571.jpg" alt="Facebook icon" title=""  class="pics"/></a></p></td>
+				<td><p class="article_tool_text"><a href="http://www.facebook.com/sharer.php?u=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank" class="article_tool_text">Facebook</a></p></td>
+							
+				<td><p class="article_tool_images"><a href="http://iol.io/index.php?api=1&postToTwitter=1&postToTwitterText=Skin grafts on girl bitten by cobra a success&return_url_text=1&longUrl=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank">
+							<img src="http://www.iol.co.za:80/polopoly_fs/twitter-1.2143!/image/1189433290.jpg_gen/derivatives/box_16/1189433290.jpg" alt="Twitter icon" title=""  class="pics"/></a></p></td>
+				<td><p class="article_tool_text"><a href="http://iol.io/index.php?api=1&postToTwitter=1&postToTwitterText=Skin grafts on girl bitten by cobra a success&return_url_text=1&longUrl=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank" class="article_tool_text">Twitter</a></p></td>
+							
+				<td><p class="article_tool_images"><a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank">
+							<img src="http://www.iol.co.za:80/polopoly_fs/iol-google-1.2144!/image/3799055444.jpg_gen/derivatives/box_16/3799055444.jpg" alt="Google icon" title=""  class="pics"/></a></p></td>
+				<td><p class="article_tool_text"><a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank" class="article_tool_text">Google</a></p></td>
+							
+				<td><p class="article_tool_images"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank">
+							<img src="http://www.iol.co.za:80/polopoly_fs/yahoo-1.2138!/image/3494443094.jpg_gen/derivatives/box_16/3494443094.jpg" alt="Yahoo icon" title=""  class="pics"/></a></p></td>
+				<td><p class="article_tool_text"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank" class="article_tool_text">Yahoo</a></p></td>
+							
+				<td><p class="article_tool_images"><a href="http://reddit.com/submit?url=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank">
+							<img src="http://www.iol.co.za:80/polopoly_fs/iol-reddit-1.2140!/image/3608548652.jpg_gen/derivatives/box_16/3608548652.jpg" alt="Reddit icon" title=""  class="pics"/></a></p></td>
+				<td><p class="article_tool_text"><a href="http://reddit.com/submit?url=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank" class="article_tool_text">Reddit</a></p></td>
+							
+				<td><p class="article_tool_images"><a href="http://del.icio.us/post?url=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank">
+							<img src="http://www.iol.co.za:80/polopoly_fs/del-icio-us-icon-1.2146!/image/751954061.jpg_gen/derivatives/box_16/751954061.jpg" alt="del.icio.us icon" title=""  class="pics"/></a></p></td>
+				<td><p class="article_tool_text"><a href="http://del.icio.us/post?url=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" target="_blank" class="article_tool_text">del.icio.us</a></p></td>
+							<td><p class="article_tool_text"><a id="email_friend" href="#EmailFriend" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('email','','/images/a_tool_email_2.jpg',1)"><img src="/images/a_tool_email_1.jpg" alt="Email" name="email" width="44" height="16" border="0" id="email" /></a></p></td>
+				  <td><p class="article_tool_text"><a href="http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613?ot=inmsa.ArticlePrintPageLayout.ot" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Print','','/images/a_tool_print_2.jpg',1)"><img src="/images/a_tool_print_1.jpg" alt="Print" name="Print" width="44" height="16" border="0" id="Print" /></a></p></td>
+			</tr>
+</table>
+
+
+
+
+<div style="display: none;" >
+    <div id="EmailFriend" style="width:500px;height:440px;overflow:auto;">
+        <div class="email_friend_wrapper">
+            <div class="email_top">
+                <div class="email_logo">
+                    <img src="/images/logo.gif" width="90" height="64" />
+                </div>
+                <div class="email_header">
+                    <h1 class="email_header_text">email a friend</h1>
+                </div>
+            </div>
+            <div class="email_devider_line"></div>
+            <div class="email_body_text_container">
+                <p>If you want to email this page to more than one person, just put a semicolon ";" between the email addresses.</p>
+            </div>
+            <div class="email_body_text_container">
+                <form id="EmailFriend-Form" action="" method="post">
+                    <input type="hidden" name="submitted" value="true" />
+                    <input type="hidden" name="action" value="emailafriend" />
+                    <input type="hidden" name="articleId" value="1.1211613" />
+                    <input type="hidden" name="articleLink" value="http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613" />
+                                        <table>
+                        <tr>
+                            <td>
+                                <p class="email_spacing">Your name<br />
+                                    <input name="yourName" id="yourName" type="text" class="" title="" size="18" value=""/>
+                                </p>
+                            </td>
+                            <td>
+                                <p class="email_spacing">Your e-mail<br />
+                                    <input name="yourEmail" id="yourEmail" type="text" class="" title="" size="20" value=""/>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p class="email_spacing">Recipient&rsquo;s name<br />
+									<input name="name" id="name" type="text" class="" title="" size="18" value=""/>
+                                </p>
+                            </td>
+                            <td>
+                                <p class="email_spacing">Recipient&rsquo;s e-mail<br />
+                                    <input name="recepient" id="recepient" type="text" class="" title="" size="20" value=""/>
+                                </p>
+                            </td>
+                            <td>
+                                <p class="send_copy ">
+									<input type="checkbox" name="sendToSelf" id="sendToSelf" value="true"/>
+                                    &nbsp;Send me a copy as well</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">
+                                <p class="spacing">Message<br />
+                                    <textarea name="note" id="note" class="" cols="30" rows="4" title=""></textarea>
+                                </p>
+                                <p>
+                                    <input name="EmailAFriend" type="submit" value="send" />
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+	</div>
+</div>
+<blockquote>
+<script type="text/javascript" src="/Scripts/jquery.mousewheel-3.0.2.pack.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.fancybox-1.3.1.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+								   
+				$("#email_friend").fancybox({
+				'titlePosition'		: 'inside',
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none'
+			});
+
+	});
+</script>
+
+</blockquote>        </div> <!--  .article_tool" -->
+      
+	            <a name="rated"></a>
+        
+<div class="wrapper_twothirds">
+
+  <ul class="ratings" id="ratings">
+          <li>Rate this article
+        <ul class="rating">
+        <!--[if IE 6]>
+	        <li class="r1"><a href="javascript:void(0);" onclick="OnRate('ratings', '1.1211613', '1', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="1 Star">1</a></li>
+	        <li class="r2"><a href="javascript:void(0);" onclick="OnRate('ratings', '1.1211613', '2', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="2 Stars">2</a></li>
+	        <li class="r3"><a href="javascript:void(0);" onclick="OnRate('ratings', '1.1211613', '3', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="3 Stars">3</a></li>
+	        <li class="r4"><a href="javascript:void(0);" onclick="OnRate('ratings', '1.1211613', '4', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="4 Stars">4</a></li>
+	        <li class="r5"><a href="javascript:void(0);" onclick="OnRate('ratings', '1.1211613', '5', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="5 Stars">5</a></li>
+        <![endif]-->
+        
+        <!--[if !IE 6]>
+	        <li class="r1"><a onclick="OnRate('ratings', '1.1211613', '1', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="1 Star">1</a></li>
+	        <li class="r2"><a onclick="OnRate('ratings', '1.1211613', '2', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="2 Stars">2</a></li>
+	        <li class="r3"><a onclick="OnRate('ratings', '1.1211613', '3', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="3 Stars">3</a></li>
+	        <li class="r4"><a onclick="OnRate('ratings', '1.1211613', '4', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="4 Stars">4</a></li>
+	        <li class="r5"><a onclick="OnRate('ratings', '1.1211613', '5', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="5 Stars">5</a></li>
+        <![endif]-->
+        
+        <!--[if !IE]>-->
+	        <li class="r1"><a onclick="OnRate('ratings', '1.1211613', '1', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="1 Star">1</a></li>
+	        <li class="r2"><a onclick="OnRate('ratings', '1.1211613', '2', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="2 Stars">2</a></li>
+	        <li class="r3"><a onclick="OnRate('ratings', '1.1211613', '3', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="3 Stars">3</a></li>
+	        <li class="r4"><a onclick="OnRate('ratings', '1.1211613', '4', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="4 Stars">4</a></li>
+	        <li class="r5"><a onclick="OnRate('ratings', '1.1211613', '5', 'http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613')" title="5 Stars">5</a></li>
+        <!--<![endif]-->        
+      </ul> <!-- .rating -->
+    </li>
+        <li class="avRating"><ins>Average reader rating</ins> <em>(0 votes)</em> <span class="stars0">0 Stars</span></li>
+  </ul>
+</div>
+
+<script type="text/javascript">
+    
+	function OnRate(ratingsid, id, level, redirect) {	
+		
+		jQuery.getJSON('/ajax?action=rate&cookieSet=true&id='+id+'&level='+level, testVote);
+	}
+	
+	function testVote(json) {
+	
+	    var level = parseInt(json);
+        var totalvotes = parseInt(0 + 1)
+        var ratingaverage = Math.round((0 + level)/totalvotes)
+        
+        var HTML = "<li class=avRating>"
+        HTML += "<ins>Average reader rating</ins>"
+        HTML += "<em>(" + totalvotes + " votes)</em>"
+        HTML += "<span class=stars" + ratingaverage + ">" + ratingaverage + " Stars</span>"
+        HTML += "</li>"
+        
+        document.getElementById("ratings").innerHTML = HTML;
+	   
+	}
+
+</script>         
+  	    <!-- Render the Comments -->
+                  
+
+<div id="col_1_2_3_container_sections"> 
+ 
+<div id="col_1_2"> 
+ 
+<div> 
+	
+<br /><br /> 
+</div>
+ 
+<div class="reader_comments">
+	<h3 class="comm_writter_name">
+		<a href="#comments_start" name="comments_start">
+							Reader Comments (0)
+					</a>
+	</h3>
+</div>
+
+   
+
+ 	
+<div id="comments-top-cont" class="">
+
+<div  class="comm_form_container"  >
+
+<h3 class="comm_submit_here">Submit your comments here</h3>
+
+<div class="comm_form_img">
+    <img src="/images/comment_img.gif" width="154" height="159" alt="Submit" title="" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div id="comments_container-1211613" class="comm_form_text_cont">
+    <form id="commentForm-1211613" class="postComment" action="http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613?pageNumber=1#comments_start" method="post" enctype="multipart/form-data"  >
+        <input type="hidden" name="submitted" value="true" />
+        <input type="hidden" name="formSubmitted" value="top" />
+        <input type="hidden" name="action" value="postcomment" />
+        <input type="hidden" name="articleId" value="1.1211613" />
+        
+        <table id="the-comments-form" class="comm_form_tables">
+            <tr>
+                <td>
+					 <p class="comm_form_text_first"> Name <span  class="comm_form_anonymous">I want to be anonymous&nbsp; <input type="checkbox" name="anonymousPost" id="anonymous1" class="anonymous_tick" value="true"/></span><br />
+								<input name="title" id="title1" type="text" class="comm_Input" title="Your name" value=""/>
+                    </p>
+                </td>
+				<td width="15px">&nbsp;</td>
+                <td valign="bottom">
+					 <p class="comm_form_text"> Email Address<br />
+						<input name="email" id="email1" type="text" class="comm_Input" title="Email Address" value=""/>
+                    </p>
+                </td>
+                <td>
+                </td>
+            </tr>
+        </table>
+		
+
+
+	
+		
+        <table class="comm_form_tables">
+            <tr>
+                <td class="comm_form_tables">
+					 <p class="comm_form_text_first"> Type your comment below<br />
+                        <textarea name="body" id="comment1" class="input_col" cols="55" rows="2" title="Enter your comments"></textarea>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <img src="/kaptcha.jpg" width=100 height=30 alt="capcha" title="" class="comm_capcha_image" />
+                </td>
+                <td>&nbsp;</td>
+                <td class="comm_type_td">
+                     <p class="comm_form_text"> Type the word below<br />
+                        <input class="input_col" name="verification" type="text" id="captcha_response-1211613"/>
+                    </p>
+                </td>
+                <td>
+					<input name="postComment" type="submit" value="Submit"   />
+                </td>
+            </tr>
+        </table>
+    </form>
+    <p class="comm_terms_and_conditions"><a href="http://www.iol.co.za:80/moderation-terms-conditions-1.686498" target="_blank">Terms and Conditions</a></p>
+    <!-- .postComment -->
+</div>
+</div>
+</div>
+	
+<script type="text/javascript">
+ window.onload=formHide();
+</script> 
+
+
+
+
+
+</div>
+</div>
+	    	  	  
+	</div>
+  
+                    <div style="clear:both"></div>
+	    </div>
+	  
+	    	    <div id="col_3">
+		              
+                  
+    
+      
+        
+
+    <div id="related_stories">
+    <div id="ContentId(7.3897)" class="related_head" >
+    <div id="related_head" class="menu_tab">
+      <ul class="menu_tab">
+	    	      <li><a href="http://www.iol.co.za:80/news" rel="related_tab_1738971294307742">Most Viewed</a></li>
+	    	      <li><a href="http://www.iol.co.za:80/news" rel="related_tab_2738971294307742">Most Commented</a></li>
+	          </ul>
+    </div>
+    </div>
+          <div id="related_tab_1738971294307742" class="related_tab_1">
+        <ul class="menu_tab_lists">
+		  		    		      <li><a href="http://www.iol.co.za:80/news/crime-courts/how-i-found-modimolle-monster-1.1211390" class="menu_tab_lists">‘How I found Modimolle monster’</a>
+                        			  </li>
+  		    		  		    		      <li><a href="http://www.iol.co.za:80/news/south-africa/eastern-cape/black-boy-not-welcome-at-resort-1.1211490" class="menu_tab_lists">‘Black boy not welcome at resort’</a>
+                        			  </li>
+  		    		  		    		      <li><a href="http://www.iol.co.za:80/news/crime-courts/you-do-not-deserve-to-live-pig-1.1211388" class="menu_tab_lists">‘You do not deserve to live, pig’</a>
+                        			  </li>
+  		    		  		    		      <li><a href="http://www.iol.co.za:80/news/crime-courts/dog-mauls-girl-2-at-clifton-1.1211765" class="menu_tab_lists">Dog mauls girl, 2, at Clifton</a>
+                        			  </li>
+  		    		  		    		      <li><a href="http://www.iol.co.za:80/news/world/video-of-soldiers-urinating-on-bodies-probed-1.1211380" class="menu_tab_lists">Video of soldiers urinating on bodies probed</a>
+                        			  </li>
+  		    		  		    		  		    		  		    		  		    		  		    		          </ul>
+      </div>
+          <div id="related_tab_2738971294307742" class="related_tab_2">
+        <ul class="menu_tab_lists">
+		  		    		      <li><a href="http://www.iol.co.za:80/news/south-africa/eastern-cape/black-boy-not-welcome-at-resort-1.1211490" class="menu_tab_lists">‘Black boy not welcome at resort’</a>
+                        			  </li>
+  		    		  		    		      <li><a href="http://www.iol.co.za:80/news/crime-courts/dog-mauls-girl-2-at-clifton-1.1211765" class="menu_tab_lists">Dog mauls girl, 2, at Clifton</a>
+                        			  </li>
+  		    		  		    		      <li><a href="http://www.iol.co.za:80/news/crime-courts/mob-burns-elderly-couple-1.1211445" class="menu_tab_lists">Mob burns elderly couple</a>
+                        			  </li>
+  		    		  		    		      <li><a href="http://www.iol.co.za:80/news/world/video-of-soldiers-urinating-on-bodies-probed-1.1211380" class="menu_tab_lists">Video of soldiers urinating on bodies probed</a>
+                        			  </li>
+  		    		  		    		      <li><a href="http://www.iol.co.za:80/news/south-africa/gauteng/terror-of-woman-caught-in-uj-stampede-1.1211395" class="menu_tab_lists">Terror of woman caught in UJ stampede</a>
+                        			  </li>
+  		    		  		    		  		    		  		    		  		    		  		    		          </ul>
+      </div>
+      </div>
+<script type="text/javascript">
+  ddtabmenu.definemenu("ContentId(7.3897)",0)
+</script>
+ 
+
+          
+        
+  <div id="top_social_networks_container">
+    <div class="top_social_networks">
+	  <table>
+		<tr>
+		  <td><p class="top_social_networks_text">Join us <span class="tsnt_on">on</span></p></td>
+		  <td><a href="http://www.facebook.com/IOLnews" target="_blank"><img src="/images/facebook_top.gif" alt="IOL-Social networks" title="" class="pics" /></a></td>
+		  <td><a href="http://twitter.com/iol" target="_blank"><img src="/images/tweeter_top.gif" alt="IOL-Social networks" title="" class="pics" /></a></td>
+		</tr>
+	  </table>
+	</div>
+    <div class="top_social_networks">
+	  <table>
+		<tr>
+          <td><a href="http://m.iol.co.za" target="_blank"><img src="/images/mobile_top.gif" class="pics" alt="IOL-Social networks" title="" /></a></td>
+		  <td><p class="top_social_networks_text">Mobile<br /><span class="tsnt_on">on <a href="http://m.iol.co.za" target="_blank" class="tsnt_on">m.iol.co.za</a></span></p></td>
+		</tr>
+	  </table>
+	</div>
+    <div class="top_social_networks">
+	  <table>
+		<tr>
+          <td><img src="/images/newsletter_top.gif" class="pics" alt="IOL-Social networks" title="" /></td>
+		  <td><p class="top_social_networks_text">Newsletters<br /><span class="tsnt_on"><a href="http://www.iol.co.za/newsletters" class="tsnt_on"  target='_blank'>Subscribe</a></span></p></td>
+		</tr>
+	  </table>
+	</div>
+    <div class="top_social_networks">
+	  <table>
+		<tr>
+          <td><a href="http://www.iol.co.za:80/rss" target="_blank"><img src="/images/rss_top.gif" class="pics" alt="IOL-Social networks" title="" /></a></td>
+		  <td><p class="top_social_networks_text">RSS feeds<br /><span class="tsnt_on"><a href="http://www.iol.co.za:80/rss" target="_blank" class="tsnt_on">Subscribe</a></span></p></td>
+		</tr>
+	  </table>
+	</div>
+  </div>
+ 
+          
+        
+        
+        	        	        	            
+          <!--JavaScript Tag // Tag for network 585: Independent Online South Africa // Website: IOL Portal // Page: Sport // Placement: Sport MPU Bot  AV (2418273) // created at: May 5, 2010 9:13:22 AM-->
+          <script language="javascript"><!--
+          document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2736958|0|170|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');
+          //-->
+          </script><noscript><a href="http://adserver.adtech.de/adlink|3.0|585|2736958|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|585|2736958|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" border="0" width="300" height="600"></a></noscript>
+       
+          
+		
+      
+          
+        		 
+ 
+
+
+
+<div id="sp_links">
+  <div id="sp_links_head"><p class="sp_links_headers">Services </p></div>
+  <div id="sp_links_body">
+    <div id="sp_links_text_left">
+      <ul class="menu_tab_lists">
+                                                      <li><a href="http://adserver.adtech.de/?adlink|3.0|585|1102745|1|16|AdId=7064041;BnId=1;link=http://bit.ly/uWW2L3" rel="nofollow" class="menu_tab_lists" >Wise Car Insurance</a></li>
+                                                                                  <li><a href="http://bit.ly/sdS4x4" rel="nofollow" class="menu_tab_lists" >Family funeral cover from R36 p.m</a></li>
+                                                                                  <li><a href="http://www.autofirst.co.za/" rel="nofollow" class="menu_tab_lists" >Used Cars</a></li>
+                                                                                  <li><a href="http://adserver.adtech.de/?adlink|3.0|585|1102745|1|16|AdId=6987043;BnId=1;link=https://www.africanbank.co.za/StaticAbilWeb/products.html" rel="nofollow" class="menu_tab_lists" >Personal Loan In Seconds</a></li>
+                                                                                  <li><a href="http://www.1lifedirect.co.za/default.asp?vdn=21474" rel="nofollow" class="menu_tab_lists" >Life Insurance</a></li>
+                                                                                  <li><a href="http://www.iolproperty.co.za " rel="nofollow" class="menu_tab_lists" >Property </a></li>
+                        </ul>
+    </div>
+    <div id="sp_links_text_right">
+      <ul class="menu_tab_lists">
+                                                						                        <li><a href="http://adserver.adtech.de/?adlink|3.0|585|1102745|1|16|AdId=7094517;BnId=1;link=http://www.corporatetraveller.co.za/" rel="nofollow" class="menu_tab_lists"  target='_blank'>Business Travel Experts</a></li>
+                                                          						                        <li><a href="http://www.drivesouthafrica.co.za/affiliate/2068/" rel="nofollow" class="menu_tab_lists"  target='_blank'>Car Rental</a></li>
+                                                          						                        <li><a href="http://adserver.adtech.de/?adlink|3.0|585|1102745|1|16|AdId=6521740;BnId=1;link=http://www.flightcentre.co.za/" rel="nofollow" class="menu_tab_lists"  target='_blank'>Travel Specials</a></li>
+                                                          						                        <li><a href="http://www.dialdirect.co.za/?vdn=15962" rel="nofollow" class="menu_tab_lists"  target='_blank'>Car Insurance</a></li>
+                                                          						                        <li><a href="http://www.privateproperty.co.za" rel="nofollow" class="menu_tab_lists"  target='_blank'>Property for Sale</a></li>
+                                          </ul>
+    </div>
+  </div>
+</div>
+
+          
+        
+        
+                                  <div id="jobs_prop_class_motor"> 
+              <div id="71741309848357" class="third_col_head">
+                <ul class="menu_tab">
+                                      <li>
+                                              <a href="http://www.iolproperty.co.za" target="_blank" rel="menu_tab_171741309848357">
+                                            Property</a>
+                    </li>
+                                     <li>
+                                              <a href="http://www.wegotads.co.za" target="_blank" rel="menu_tab_271741309848357">
+                                            Classifieds</a>
+                    </li>
+                                     <li>
+                                              <a href="http://www.iolmotoring.co.za" target="_blank" rel="menu_tab_371741309848357">
+                                            Motors</a>
+                    </li>
+                                </ul> 
+             </div>
+                            <div id="menu_tab_171741309848357" class="menu_tab_1">
+							   <div style="width: 300px; height:140px; overflow:hidden; border: 0px; border:none;"> <iframe src="http://www.iolproperty.co.za/featured_property.jsp?type=new_home" style="width: 310px; height:150px; overflow:hidden;  border:none;"  frameborder="0"> </iframe>  </div>
+               </div>
+                            <div id="menu_tab_271741309848357" class="menu_tab_2">
+							   <div style="width: 300px; height: 140px; background-image: url('/polopoly_fs/tabbed-element-for-jobs-property-and-motors-7.174!/wegotads_bg.jpg'); position: absolute; top: 0px; float: left; z-index: 19px;">
+<div style=" width:130px; height:111px; float:left; margin:0px 0px 0px 0px; padding:0px;">
+ <a href="http://www.wegotads.co.za/"><img src="/polopoly_fs/tabbed-element-for-jobs-property-and-motors-7.174!/wegotads_pic.jpg" alt="" border="0"/>
+</a>
+ </div>
+ 
+ <div style=" width: 162px; float:left; margin:11px 0px 0px 0px; padding:0px; height: 101px;">
+<p style="margin-top: 0px; margin-left:0px; padding: 0 7px ; clear: inherit;">
+Whether you are a buyer or seller, wegotads is your online marketplace.  <br /> 
+<a href="http://www.wegotads.co.za/" class="teasers_right_read_more">Wegotads &raquo;</a><br /></p>
+</div>
+
+<div>
+<div style="width:142px; float:left; margin: 0px 15px 0px 5px;"><a href="http://www.wegotads.co.za/"><img src="/polopoly_fs/tabbed-element-for-jobs-property-and-motors-7.174!/your_local_market_place.jpg" alt="" border="0"/>
+
+</a></div>
+<div style="float:left; margin: 0px 5px 0px 10px;" ><a href="http://www.wegotads.co.za/">
+<img src="/polopoly_fs/tabbed-element-for-jobs-property-and-motors-7.174!/wegotads_logo.jpg" alt="" border="0"/>
+</a></div>
+</div>
+</div>
+               </div>
+                            <div id="menu_tab_371741309848357" class="menu_tab_3">
+							   <div style="width: 300px; height: 140px; background-image: url('/polopoly_fs/tabbed-element-for-jobs-property-and-motors-7.174!/jobs_bg.png'); position: absolute; top: 0px; float: left; z-index: 19px;">
+<div style=" width:130px; height:111px; float:left; margin:1px 0px 0px 0px; padding:0px;">
+ <a href="http://www.motoring.co.za/"><img src="/polopoly_fs/tabbed-element-for-jobs-property-and-motors-7.174!/motors_car.jpg" alt="" border="0"/>
+</a>
+ </div>
+ 
+ <div style=" width: 162px; float:left; margin:11px 0px 0px 0px; padding:0px; height: 101px;">
+<p style="margin-top: 0px; margin-left:0px; padding: 0 7px ; clear: inherit;">
+Buying a car has never been easy. Motoring.co.za contains a large database of car listings with a user friendly search. <br /> 
+<a href="http://www.motoring.co.za/" class="teasers_right_read_more">Start searching today &raquo;</a><br /></p>
+</div>
+
+<div>
+<div style=" width: 111px; float:left; margin: 0px 15px 0px 5px;"><a href="http://www.wegotads.co.za/bluefin.cmp?cPath=16001&cstr=Motors&sfid=1"><img src="/polopoly_fs/tabbed-element-for-jobs-property-and-motors-7.174!/cars_for_sale.jpg" alt="" border="0"/>
+
+</a></div>
+<div style="width: 148px; float:left;" ><a href="http://www.motoring.co.za/">
+<img src="/polopoly_fs/tabbed-element-for-jobs-property-and-motors-7.174!/motoring_logo.jpg" alt="" border="0"/>
+</a></div>
+</div>
+</div>
+               </div>
+                        </div>
+           <script type="text/javascript">
+             ddtabmenu.definemenu("71741309848357",0)
+            </script>
+      
+      
+          
+        
+        
+        	        	        	            
+          <!--JavaScript Tag // Tag for network 585: Independent Online South Africa // Website: IOL Portal // Page: Sport // Placement: Sport MPU Bot  AV (2418273) // created at: May 5, 2010 9:13:22 AM-->
+          <script language="javascript"><!--
+          document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2736962|0|170|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');
+          //-->
+          </script><noscript><a href="http://adserver.adtech.de/adlink|3.0|585|2736962|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|585|2736962|0|170|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" border="0" width="300" height="600"></a></noscript>
+       
+          
+		
+      
+      
+  
+                                      
+                  
+    
+      
+        
+
+
+ 	
+			    <script type="text/javascript">
+        $(document).ready(function() {
+           var voteuid = new Date().getTime();
+           $.get('http://www.iol.co.za:80/news/south-africa/gauteng/7.7730?ot=inmsa.AjaxPageLayout.ot&r=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613&view=right&voteuid='+voteuid, loadPoll7_7730HTML);
+        });
+        function loadPoll7_7730HTML(pollHTML) {            $('div#poll7_7730').html(pollHTML);
+        }
+    </script>
+
+    <div id="poll7_7730">
+
+    </div>
+
+      
+  
+                                      
+                  
+    
+      
+        
+        
+                        <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FIOLnews&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=262" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:262px;" allowTransparency="true"></iframe>
+
+      
+      
+          
+        
+        
+        	        	        	            
+          <!--JavaScript Tag // Tag for network 585: Independent Online South Africa // Website: IOL Portal // Page: Sport // Placement: Sport MPU Bot  AV (2418273) // created at: May 5, 2010 9:13:22 AM-->
+          <script language="javascript"><!--
+          document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2866215|0|632|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');
+          //-->
+          </script><noscript><a href="http://adserver.adtech.de/adlink|3.0|585|2866215|0|632|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|585|2866215|0|632|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" border="0" width="300" height="600"></a></noscript>
+       
+          
+		
+      
+          
+        
+        
+                        <div id="bd">
+  <div id="bd_head"><p class="bd_headers">Business Directory</p></div>
+  <div id="bd_body"> 
+                
+<div class="bd_images">
+<iframe id='a7374dde' name='a7374dde' src='http://adsfeed2.brabys.co.za/www/delivery/afr.php?zoneid=9&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;ct0=INSERT_CLICKURL_HERE' frameborder='0' scrolling='no' width='120' height='120'><a href='http://adsfeed2.brabys.co.za/www/delivery/ck.php?n=a0fa4c9b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adsfeed2.brabys.co.za/www/delivery/avw.php?zoneid=9&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0fa4c9b&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></iframe>
+
+</div>
+<div class="bd_images">
+<iframe id='a03cfd49' name='a03cfd49' src='http://adsfeed2.brabys.co.za/www/delivery/afr.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;ct0=INSERT_CLICKURL_HERE' frameborder='0' scrolling='no' width='120' height='120'><a href='http://adsfeed2.brabys.co.za/www/delivery/ck.php?n=a59f832e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adsfeed2.brabys.co.za/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a59f832e&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></iframe>
+
+</div>
+<div class="bd_images">
+<iframe id='aadea0e8' name='aadea0e8' src='http://adsfeed2.brabys.co.za/www/delivery/afr.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;ct0=INSERT_CLICKURL_HERE' frameborder='0' scrolling='no' width='120' height='120'><a href='http://adsfeed2.brabys.co.za/www/delivery/ck.php?n=a9c7fc8d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adsfeed2.brabys.co.za/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9c7fc8d&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></iframe>
+
+</div>
+<div class="bd_images">
+<iframe id='a91ab3e0' name='a91ab3e0' src='http://adsfeed2.brabys.co.za/www/delivery/afr.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;ct0=INSERT_CLICKURL_HERE' frameborder='0' scrolling='no' width='120' height='120'><a href='http://adsfeed2.brabys.co.za/www/delivery/ck.php?n=a2b61fcc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adsfeed2.brabys.co.za/www/delivery/avw.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2b61fcc&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></iframe>
+
+</div>
+<div class="bd_images">
+
+<iframe id='a0704989' name='a0704989' src='http://adsfeed2.brabys.co.za/www/delivery/afr.php?zoneid=7&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;ct0=INSERT_CLICKURL_HERE' frameborder='0' scrolling='no' width='120' height='120'><a href='http://adsfeed2.brabys.co.za/www/delivery/ck.php?n=a857db3a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adsfeed2.brabys.co.za/www/delivery/avw.php?zoneid=7&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a857db3a&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></iframe>
+
+</div>
+<div class="bd_images">
+<iframe id='a3dba7b5' name='a3dba7b5' src='http://adsfeed2.brabys.co.za/www/delivery/afr.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;ct0=INSERT_CLICKURL_HERE' frameborder='0' scrolling='no' width='120' height='120'><a href='http://adsfeed2.brabys.co.za/www/delivery/ck.php?n=a206f84d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adsfeed2.brabys.co.za/www/delivery/avw.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a206f84d&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></iframe>
+
+</div>
+</div>
+
+</div>
+
+      
+      
+          
+                <div class="dating-shopping-mobile">
+  <div class="dating-shopping-mobile_text_container">
+      
+
+
+
+
+
+
+                   <img title='' height='25' style='' alt='IOL Travel' width='150' class='pics' src='/polopoly_fs/iol-travel-1.2128!/image/1137364646.png_gen/derivatives/absolute/1137364646.png' />        <p class="dating-shopping-mobile_text"><a href="http://www.iol.co.za/travel" class="dating-shopping-mobile_text"  target='_blank'>Make sure you find the best available airfares with our easy-to-use search engine.</a></p>
+  </div>
+  <div class="dating-shopping-mobile_pic">
+	<a href="http://www.iol.co.za/travel"  target='_blank'>
+	          
+
+
+
+
+
+
+                   <img title='' height='91' style='' alt='Travel_pic_enw' width='100' class='pics' src='/polopoly_fs/travel-pic-enw-1.2179!/image/2351897088.jpg_gen/derivatives/absolute/2351897088.jpg' />          	</a>
+  </div>
+</div>
+
+
+      
+  
+                	    </div>
+	  	  <div style="clear:both"></div>
+	</div>
+	
+        <div id="footer" align="center">
+	          
+                  
+    
+      
+        
+        
+        	        	        	            
+          <!--JavaScript Tag // Tag for network 585: Independent Online South Africa // Website: IOL Portal // Page: Sport // Placement: Sport MPU Bot  AV (2418273) // created at: May 5, 2010 9:13:22 AM-->
+          <script language="javascript"><!--
+          document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2736960|0|770|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');
+          //-->
+          </script><noscript><a href="http://adserver.adtech.de/adlink|3.0|585|2736960|0|770|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|585|2736960|0|770|ADTECH;loc=300;key=key1+key2+key3+key4;grp=12345" border="0" width="300" height="600"></a></noscript>
+       
+          
+		
+      
+          
+        <div class="breadcrum_cont">
+  <p class="breadcrum"><strong>You are here:</strong>
+        	      <a href="http://www.iol.co.za:80/" class="breadcrum">IOL</a><span class="separator"> / </span> 
+	  	      <a href="http://www.iol.co.za:80/news" class="breadcrum">News</a><span class="separator"> / </span> 
+	  	      <a href="http://www.iol.co.za:80/news/south-africa" class="breadcrum">South Africa</a><span class="separator"> / </span> 
+	  	      <a href="http://www.iol.co.za:80/news/south-africa/gauteng" class="breadcrum">Gauteng</a><span class="separator"> / </span> 
+	        Skin grafts on girl bitten by cobra a success 
+    </p>
+</div>
+
+          
+        
+  <div id="iol_services">
+    <div id="iol_services_head">
+      <p><img src="/images/iol-services-logo.gif" alt="IOL-Services" title=""/><br />
+      <b>We like to make your life easier</b></p>
+    </div>
+    <div id="iol_services_cont">
+      <div class="iol_services_cont_pic">
+		<a href="http://www.iol.co.za:80/rss" target="_blank"><img src="/images/footer_rss_feeds.gif" alt="IOL - RSS Feeds" title="" class="pics" /></a>
+	  </div>
+      <div class="iol_services_cont_text">
+		<p><strong><a href="http://www.iol.co.za:80/rss" class="highlights_head" target="_blank">RSS feeds</a></strong>
+		<br />
+		<a href="http://www.iol.co.za:80/rss" class="footer-links">Subscribe</a> to one of our feeds and receive instant news.</p>
+	  </div>
+      <div class="iol_services_cont_pic">
+		<a href="http://m.iol.co.za/"><img src="/images/footer_mobile.gif" alt="IOL - Mobile" title="" class="pics" /></a>
+	  </div>
+      <div class="iol_services_cont_text2">
+		<p><strong><a href="http://m.iol.co.za/" target="_blank" class="highlights_head">Mobile</a></strong>
+		<br /> Browse IOL on your phone at <a href="http://m.iol.co.za/" target="_blank" class="footer-links">m.iol.co.za.</a></p>
+	  </div>
+      <div class="iol_services_cont_pic">
+		<a href="http://www.iol.co.za/newsletters"  target='_blank'><img src="/images/footer_newsletters.gif" alt="IOL - Headlights" title="" class="pics" /></a>
+	  </div>
+      <div class="iol_services_cont_text">
+		<p><strong><a href="http://www.iol.co.za/newsletters"  class="highlights_head"  target='_blank'>Newsletters</a></strong>
+		<br />Subscribe to our <a href="http://www.iol.co.za/newsletters" class="footer-links"  target='_blank'> newsletters.</a> News delivered to your inbox!</p>
+	  </div>
+	  <div class="iol_services_cont_pic3"><a href="http://twitter.com/iol" target="_blank"><img src="/images/tweeter_top.gif" alt="IOL - Headlights" title="" class="pics" /></a></div>
+      <div class="iol_services_cont_text3"><p><strong><a href="http://twitter.com/iol" target="_blank" class="highlights_head">Twitter</a></strong><br /><a href="http://twitter.com/iol" class="footer-links">Join us now</a></p></div>
+	  <div class="iol_services_cont_pic3"><a href="http://www.facebook.com/IOLnews"><img src="/images/facebook_top.gif" target="_blank" alt="IOL - Headlights" title="" class="pics" /></a></div>
+      <div class="iol_services_cont_text3"><p><strong><a href="http://www.facebook.com/IOLnews" target="_blank" class="highlights_head">Facebook</a></strong><br /><a href="http://www.facebook.com/IOLnews" class="footer-links">Join us now</a></p></div>
+
+    </div>  
+  </div>
+
+          
+        
+<div>
+ 
+                  
+    
+  
+  
+      </div>
+ 
+ 
+ 
+<div id="foot_note">
+  <div class="foot_note_text">
+	      	  	        <p class="foot_note"><a href="http://www.iol.co.za/about-iol-1.458" class="foot_note" >About IOL</a></p>
+	            	  	        <p class="foot_note"><a href="http://www.iol.co.za/independent-group-1.123723" class="foot_note" >Independent Group</a></p>
+	          </div>
+        <div class="foot_note_text">
+                	  	        <p class="foot_note"><a href="http://www.iol.co.za/feedback" class="foot_note" >Feedback</a></p>
+	            	  	        <p class="foot_note"><a href="http://www.iol.co.za/contact-us-1.460" class="foot_note" >Contact Us</a></p>
+	          </div>
+        <div class="foot_note_text">
+                	  	        <p class="foot_note"><a href="http://www.iol.co.za/advertising-1.459" class="foot_note" >Advertising</a></p>
+	            	  	        <p class="foot_note"><a href="http://www.iol.co.za/site-map" class="foot_note" >Sitemap</a></p>
+	          </div>
+        <div class="foot_note_text">
+                	  	        <p class="foot_note"><a href="http://www.iol.co.za/terms-conditions-1.462" class="foot_note" >Terms & Conditions</a></p>
+	            	  	        <p class="foot_note"><a href="http://www.iol.co.za/our-privacy-policy-1.599" class="foot_note" >Privacy Policy</a></p>
+	        </div>
+
+  <div id="online_publishers_etc">
+	  	  	      <a href="http://www.inmplc.com/"  target='_blank'>
+	      
+
+
+
+
+
+
+                   <img title='' height='43' style='' alt='INM' width='121' class='online_publishers_etc' src='/polopoly_fs/inm-1.1081210!/image/2160885181.png_gen/derivatives/absolute/2160885181.png' />          </a>
+	  	      <a href="http://www.opa.org.za/" >
+	      
+
+
+
+
+
+
+                   <img title='' height='43' style='' alt='DMMA' width='112' class='online_publishers_etc' src='/polopoly_fs/dmma-1.679181!/image/686797677.jpg_gen/derivatives/absolute/686797677.jpg' />          </a>
+	  	      <a href="http://the-acap.org/acap-enabled.php"  target='_blank'>
+	      
+
+
+
+
+
+
+                   <img title='' height='43' style='' alt='Footer_ACAP' width='48' class='online_publishers_etc' src='/polopoly_fs/footer-acap-1.438!/image/2019830826.jpg_gen/derivatives/absolute/2019830826.jpg' />          </a>
+	  	      <a href="http://www.presscouncil.org.za/"  target='_blank'>
+	      
+
+
+
+
+
+
+                   <img title='' height='43' style='' alt='Press_council' width='77' class='online_publishers_etc' src='/polopoly_fs/press-council-1.444!/image/43941698.jpg_gen/derivatives/absolute/43941698.jpg' />          </a>
+	  	  </div>
+
+  <div id="footer_copywrite">
+    <p class="foot_note">© Copyright 1999 - 2011 Independent Online, a division of Independent Newspapers (Pty) Limited. The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites, as well as in the published editions of group newspapers, their supplements and any other content or material, belongs exclusively to Independent Newspapers (Pty) Limited unless otherwise stated.<br />
+
+The reproduction of any content or material contained in this online news publication and its other related websites as well as the published editions of group newspapers and their supplements is expressly reserved to the publisher, Independent Newspapers (Pty) Limited, under Section 12(7) of the Copyright Act of 1978. Reliance on the information contained in the online news publications and other related content published on this website is done at your own risk and subject to our “terms and conditions”. Independent Newspapers (Pty) Limited has committed itself to The Press Code of Professional Practice which prescribes that news must be reported in a truthful, accurate, fair and balanced manner. If we don't live up to the Press Code please contact The Press Ombudsman 2nd Floor, 7 St David’s Park, St David’s Place, Parktown, 2193 or PO Box 47221, Parklands 2121 or email pressombudsman@ombudsman.org.za (www.ombudsman.org.za) or telephone  011 484 3612/8.</p>
+</p>
+  </div>
+
+
+</div>
+
+
+
+
+
+
+          
+        
+        
+                        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(
+['_setAccount', 'UA-425302-12'],
+['_trackPageview'],
+['newSite._setAccount', 'UA-17710838-1'],
+['newSite._trackPageview']
+);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+      
+      
+      
+  
+                </div>	
+  </div>
+ </div>
+ 
+ 
+ 
+<!-- C|ON|TEXT ad tag -->
+<script type='text/javascript'>
+ctx_SiteID = '87bd3a26-d426-416d-a940-7148936078ff';
+</script>
+<script type='text/javascript' src='http://lb.c-on-text.com/script.aspx'>
+</script>
+<!-- C|ON|TEXT ad tag -->
+
+<!-- Front:iolfront02.mhs.onsite.hosting.co.za -->
+<!-- Timestamp:1326375346370 -->
+
+</body>
+</html>
+

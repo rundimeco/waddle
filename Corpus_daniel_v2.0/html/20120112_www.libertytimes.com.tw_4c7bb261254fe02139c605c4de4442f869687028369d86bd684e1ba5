@@ -1,0 +1,270 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>自由電子報 - 流感再奪2命 累計20死</title>
+<meta http-equiv="Content-Language" content="zh-tw" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta name="keywords" content="自由時報,自由電子報,The Liberty Times" />
+<meta name="robots" content="index,follow" />
+<link href="/css/index/style7.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2887146-7']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+function AD_openWindow(ano,target) { //v2.0
+   window.open('http://iservice.libertytimes.com.tw/IService2/ad.php?ano='+ano+'&target='+target+'&source='+document.URL);
+}
+
+function printScreen()
+{        
+    var title = document.getElementById('newtitle').innerHTML;
+		var content = document.getElementById('newcontent').innerHTML;
+		var date = document.getElementById('date').innerHTML;
+		var top = '<div id="header_print"><div class="logo"><a href="http://www.libertytimes.com.tw" target="_blank"><img src="http://www.libertytimes.com.tw/2008/images/img_auto/005/logo_s.gif" alt="" border="0" /></a></div><div class="ad"></div><div id="clear"></div></div><table width="700" border="0" align="center" cellspacing="0" class="text" style="border: 1px solid #E0E0E0; margin-top: 6px; text-align:left;"><tr><td width="747" valign="top" style="border-right: 1px solid #E0E0E0; padding:20px;" class="print">';
+		var bot = '</td></tr></table><table width="700" border="0" align="center" class="t13" style="margin-top:8px;"><tr><td height="44" background="http://www.libertytimes.com.tw/2008/images/img_auto/005/service_bgfooter.gif"><div align="center">自由電子報 版權所有 不得轉載 &copy; 2012 The Liberty Times.       All Rights Reserved.</div></td></tr></table>';
+    var printdetail = window.open("","新聞列印","");
+    printdetail.document.open();
+    printdetail.document.write('<HTML><head><link href="http://www.libertytimes.com.tw/css/index/style7.css" rel="stylesheet" type="text/css" /><link href="http://www.libertytimes.com.tw/css/service/style_order.css" rel="stylesheet" type="text/css" /></head><BODY onload="window.print();window.opener=null;window.close();">'); 
+    printdetail.document.write(top); 
+    printdetail.document.write('<span class="insubject1">'+title+'</span><span class="date">('+date+')</span>'); 
+		printdetail.document.write(content); 
+    printdetail.document.write(bot);
+    printdetail.document.close("</BODY></HTML>");
+}
+//-->
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onResize="leftMargin=getLeftMargin()" class="bgBody">
+<!--Head start-->
+<div id="header">  <div id="topnav"><ul><li>&nbsp;</li>
+      <li><a href="http://www.yes123.com.tw/admin/index.asp" target="_blank">yes123求職網</a></li>
+      <li><a href="#" onClick="open('http://iservice.libertytimes.com.tw/IService2/TalkList.php','','scrollbars=yes,width=620,resizable=yes,toolbar=yes')">新聞發言台</a></li>
+      <li><a  href="http://iservice.libertytimes.com.tw/inform/complain.php" target="_blank">爆料投訴</a></li>
+      <li><a href="http://www.libertytimes.com.tw/Service/ad.htm" target="_blank">廣告刊登</a></li>
+      <li><a href="http://www.libertytimes.com.tw/Service/Order.htm" target="_blank">訂報</a></li>
+      <li><a href="http://www.libertytimes.com.tw/Service/rss.htm" target="_blank">RSS</a></li>
+      <li><a  href="http://iservice.libertytimes.com.tw/inform/complain_1.php?type=3" target="_blank">聯絡我們</a></li></ul>
+  </div>
+  <div id="clear"></div>
+  <div class="logo"><a href="http://www.libertytimes.com.tw/"><img src="/2008/images/img_auto/005/logo_new.gif" alt="" width="220" height="70" border="0"></a></div>
+  <div class="title"><img src="../../../images/img_auto/005/top_title16.gif" alt=""></div>
+  <div class="ad"><script src="../../../../js/ajs/BindexA03.js"></script></div>
+  <div id="clear"></div>
+  <!--channel start-->
+  <div id="navcontainer_frame">    <div id="navcontainer">      <ul id="navlist" class='float-left'>
+        <li><a href="/" id="current">自由新聞</a></li>
+        <li><a href="http://video.libertytimes.com.tw/" target="_blank">影音娛樂</a></li><li><a href="http://iservice.libertytimes.com.tw/3c/" target="_blank">3C 科技</a></li>
+        <li><a href="http://iservice.libertytimes.com.tw/inform/news.php" target="_blank">讀者園地</a></li>
+        <li><a href="http://travel.libertytimes.com.tw/" target="_blank">旅遊玩樂</a></li>
+        <li><a href="http://cheap.libertytimes.com.tw/" target="_blank">好康報報</a></li>
+        <li><a href="http://www.taipeitimes.com/News" target="_blank"> TAIPEI TIMES </a></li>
+        <li><a href="http://blog.libertytimes.com.tw/" target="_blank"> Blog </a></li>
+      </ul>
+    </div>
+    <div id="navcontainer_right">
+      <form name="form1" method="post" action="http://iservice.libertytimes.com.tw/IService2/search.php" target="_blank" style="margin:0">
+        <input type="hidden" name="flag" value="2">
+        新聞查詢：
+        <input type="text" name="InputKey2" size="20">
+        <a href="javascript:form1.submit()"><img src="../../../images/img_auto/005/go-search1.gif" width="29" height="16" align="absmiddle" border="0"></a>
+      </form>
+    </div>
+  </div>
+  <div id="clear"></div>
+  
+</div>
+<a name="top" id="top"></a>
+
+<table width="960" align="center" cellpadding="0" cellspacing="0" style="padding-top:4px;" class="bgTable">
+  <tr>
+  <!--Left Menu start-->
+    <td width="130" valign="top"> 
+      <table width="130" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+        <tr> 
+          <td align="center" class="menutop"></td>
+        </tr>
+      </table>      <script src="menu2.js"></script>
+<script src="../../../../gamebase.js"></script>
+<div style="margin-left:2px"><a href="http://video.libertytimes.com.tw/channel.php?ch=4" target="_blank" onFocus="this.blur()"><img src="../../../images/trailer2.gif" border="0"></a></div>
+
+      <table width="130" cellpadding="0" cellspacing="0" bgcolor="#FCF0CB">
+        <tr> 
+          <td background="../../../images/img_auto/005/tb3.gif"><div align="left">
+		  <img src="../../../images/img_auto/005/dot2.gif" align="absmiddle" />
+		  <span class="bmtitle">服務專區</span></div>
+		  </td>
+        </tr>
+        <tr> 
+          <td> <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#E3C9AE">
+              <tr> 
+                <td bgcolor="#FCF0CB"><table width="100%" align="center" cellpadding="2" cellspacing="0" class="style3">
+                    <tr> 
+                      <td align="center" bgcolor="#FCF0CB"><a class="style2" href="http://iservice.libertytimes.com.tw/inform/complain.php" target="_blank">我要爆料</a> 
+                      ．<a class="style2" href="http://www.libertytimes.com.tw/Service/recruit.htm" target="_blank">自由徵才</a></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#FCF0CB"><a class="style3" href="http://www.libertytimes.com.tw/Service/ad.htm" target="_blank">廣告刊登</a> 
+                      ．<a class="style3" href="http://www.libertytimes.com.tw/Service/Order.htm" target="_blank">訂報服務</a></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#FCF0CB"><a class="style3" href="http://cheap.libertytimes.com.tw/free_list.php?type=%E6%B4%BB%E5%8B%95" target="_blank">活動刊登</a> 
+                      ．<a class="style3" href="http://www.libertytimes.com.tw/Service/climbing.htm" target="_blank">登山活動</a></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#FCF0CB"><a class="style3" href="http://www.taiwanlottery.com.tw/" target="_blank">樂透彩券</a> 
+                      ．<a class="style3" href="http://invoice.etax.nat.gov.tw/" target="_blank">統一發票</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      <script src="/js/ajs/BindexM01.js"></script>
+    </td>
+	<!--Left Menu end-->
+	<!--Main content start-->
+    <td valign="top">
+      <div class="newstopbar"><a href="http://www.libertytimes.com.tw/">首頁</a> > 生活新聞</div>
+      <table class="newsuse"  border="0" cellspacing="2" cellpadding="2" align="center" >
+       <tr>
+          <td width="70" align="left" valign="bottom" id="date" class="style7">2012-1-11</td>
+          <td align="right" valign="bottom"><font size="2">字型：</font><img src="../../../images/img_auto/005/font+.gif" align="absmiddle" id="adjustBig" class="adjustFontShow" onClick="adjustFont('big')"> <img src="../../../images/img_auto/005/font-.gif" align="absmiddle" id="adjustSmall" class="adjustFontHide" onClick="adjustFont('small')"> ∣<a href="#" class="WeaFont" onClick="btnClick='result'; sendRate(document.recommend); document.recommend.submit();">看推薦</a>∣<a href="http://iservice.libertytimes.com.tw/IService2/Talk.php?newsNo=553247" target="_blank" class="WeaFont">發言</a>∣<a href="#" OnClick="printScreen()" class="WeaFont">列印</a>∣<a href="#" onClick="open('http://iservice.libertytimes.com.tw/IService3/forward.php?newsNo=553247','','width=600,height=470,resizable=yes')" class="WeaFont">轉寄</a></td>
+        </tr>
+      </table>
+      <script type="text/javascript" src="/js/community2.js"></script>
+      <div id="K3"><script src="/js/ajs/BindexK03.js"></script></div>
+<hr class="newsGad">
+      <table width="95%" border="0" cellspacing="1" cellpadding="1" align="center">
+        <tr valign="top"> 
+          <td class="content" id="newsContent"> 
+            <!-- replace -->
+            <span class="insubject1" id="newtitle">流感再奪2命 累計20死</span> 
+						<span id="newcontent"><table class=picture><tr><td><a href="http://iservice.libertytimes.com.tw/IService3/newspic.php?pic=http://www.libertytimes.com.tw/2012/new/jan/11/images/bigPic/4.jpg" target="_blank"><img src=images/4.jpg border=0></a></td></tr><tr><td style="padding:5 0 5 0">流感疫情持續升溫，累計死亡人數已達二十人。圖為高市醫療院所陸續成立類流感及流感特別門診。（資料照，記者楊菁菁攝）</td></tr></table><p>〔記者魏怡嘉／台北報導〕流感疫情持續升溫，流感死亡病例昨日再添兩例，分別為居住新北市五十八歲及七十一歲女性，兩人均未接種流感疫苗，都有糖尿病等慢性病史，發病後，分別因肺炎引起敗血性休克及多重器官衰竭死亡，感染病毒型別均為Ｂ型，截至目前為止，流感總死亡人數已累計至二十人。</p><p><span class=boldtitle>2人沒打疫苗 都有糖尿病</span></p><p>疾管局副局長周志浩表示，根據疾管局流感疫情監測資料顯示，本年流感季累計共有四百四十二例流感併發症確定病例，去年同期為七百四十八例，其中二十例死亡，去年同期則為七十六例死亡，流感併發症發生率為每百萬人口十九．○六，死亡率為每百萬人口○．八六，雖發生率與死亡率均為去年同期的一半，但流感症狀多樣化，除了併發肺炎之外，也可能併發心肌炎、腦炎、橫紋肌溶解症及腎衰竭等，或是伴隨其他細菌感染，造成嚴重病情，民眾及醫師均不可掉以輕心。</p><p><span class=boldtitle>疾管局澄清克流感沒過期</span></p><p>周志浩指出，目前公費流感抗病毒藥物合約醫療機構配置點，已由先前的一千二百家，增加到現在的二千二百零三家。</p><p>至於近來有民眾質疑疾管局配發的公費克流感已經過期，周志浩表示，經過嚴格確效後，這些配發出去的公費克流感的有效期限，均由原先的五年延長為七年，疾管局也都在包裝外面再貼上新效期的標籤，部分民眾將外面的標籤撕開後，看到舊的有效期限，以為疾管局發的是過期克流感，純屬誤會，民眾不用擔心。</p></span>
+            <!-- replace -->          </td>
+        </tr>
+        <tr>
+          <td><br>
+              <table align="center" cellpadding="10" class="rate">
+                <tr>
+                  <td><form action="http://iservice.libertytimes.com.tw/IService3/rate.php" name="recommend" target="rateWindow" method="post" onSubmit="return sendRate(this)" style="margin:0 0 0 0">
+                    <img src="../../../images/img_auto/005/bg_box3.gif" alt="" width="88" height="28">
+                    <input type="hidden" name="rate" value="3">
+                    <input type="hidden" name="newsNo" value="553247">
+                    <input type="hidden" name="btn">
+                    <input type="image" value="我要推薦" onClick="btnClick='vote'" src="../../../images/img_auto/005/bg_box4.gif"><input type="image" value="看結果" onClick="btnClick='result'" src="../../../images/img_auto/005/bg_box5.gif">
+                  </form></td>
+                </tr>
+              </table>
+             
+            <script src="/js/ajs/BindexK02.js"></script>
+            <script src="/js/ajs/BindexK01.js"></script>
+            <p class="gotop"><a href="#top" class="gotop">▲TOP</a></p>
+          </td>
+        </tr>
+      </table>
+	  </td>
+	<!--Main content end-->
+	<!--Right Menu start-->
+    <td width="240" valign="top" bgcolor="#FCF0CB"> 
+      <table width="240" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH06.js"></script></div>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH01.js"></script></div>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH02.js"></script></div>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH03.js"></script></div>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH05.js"></script></div>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH04.js"></script></div>
+<div style="text-align:center; margin-bottom:3px"><script src="/js/ajs/BindexH07.js"></script></div>
+		  
+		  	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr> 
+                    <td width="26" height="25"><img src="../../../images/img_auto/005/mt-1.gif" width="26" height="25" /></td>
+                	<td height="25" background="../../../images/img_auto/005/mt-0.gif" class="style4">生活新聞</td>
+                    <td width="18" height="25"><img src="../../../images/img_auto/005/mt-2.gif" width="18" height="25" /></td>
+                  </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+			<table width=100% cellpadding=3 cellspacing=0 class=inpct>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life1.htm>行動上網試用設「陷」／通訊不良 竟規定不得求償</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life2.htm>春節物價─大包糖沙拉油小跌 麵粉小麥穩定</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><span class=focusNews>流感再奪2命 累計20死</span></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life4.htm>我五大類食品進口中國解禁</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life5.htm>身障團體抗議捷運共構宅圖利財團</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life6.htm>今改推園遊會/街友尾牙辦桌 不復見</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life7.htm>多助弱勢 郭董喊話政府少買武器</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life8.htm>升等未過 成大老師蔣為文批黑箱作業</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life9.htm>國際消費電子展 筆電超輕薄</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life10.htm>暌違五年/台北電信展 下月捲土重來</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-life11.htm>互動設計 大學生讓iPad更靈活</a></td>
+						</tr></table>    </td>
+    <!--Right Menu end-->
+  </tr>
+</table>
+<!--footer start-->
+<table width="960" align="center" cellpadding="3" cellspacing="1" bgcolor="#999999">
+  <tr> 
+    <td align="center" bgcolor="#ECDFB7" class="style3"><a href="http://www.libertytimes.com.tw/">回首頁</a>｜
+      <a class="style3" href="http://www.libertytimes.com.tw/Service/publish.htm" target="_blank">我要投稿</a>｜
+      <a class="style3" href="http://www.libertytimes.com.tw/Service/about.htm" target="_blank">關於我們</a>｜
+      <a class="style3" href="http://www.libertytimes.com.tw/Service/declaration.htm" target="_blank">隱私權政策聲明</a> <br />
+      <font color="#999999" size="2">自由電子報 版權所有 不得轉載 &copy; 2012 The Liberty Times. All Rights Reserved.</font>
+    </td>
+  </tr>
+</table>
+
+<!--footer end-->
+</body>
+</html>

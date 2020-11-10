@@ -1,0 +1,2385 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+ 
+ 
+ 
+ 
+ 
+
+<head>
+
+ 
+
+
+
+
+
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- 
+var gomez={ 
+	gs: new Date().getTime(), 
+	acctId:'D3FD89', 
+	pgId:'story-detail', 
+	grpId:'Miami Herald' 
+};
+
+
+/*Gomez tag version: 7.0*/var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}return d;};gomez.h3(gomez,{b3:function(r){if(r<=0)return false;return Math.random()<=r&&r;},b0:function(n){var c=document.cookie;var v=c.match(new RegExp(';[ ]*'+n+'=([^;]*)'));if(!v)v=c.match(new RegExp('^'+n+'=([^;]*)'));if(v)return unescape(v[1]);return '';},c2:function(n,v,e,p,d,s){try{var t=this,a=t.domain?t.domain:location.hostname;var c=n+'='+escape(v)+(e?';expires='+e.toGMTString():'')+(p?';path='+p:';path=/')+(d?';domain='+d:';domain='+a)+(s?';secure':'');document.cookie=c;}catch(e){}},z0:function(n){var t=this;if(n){var s =t.b0("__g_c");if(!s)return '';var v=s.match(new RegExp(n+':([^\|]*)'));if(v)return unescape(v[1]);return '';}else return '';},z1:function(n,m){var t=this;if(n){var s=t.b0("__g_c");if(s){if(s.indexOf(n+':')!=-1)s=s.replace(new RegExp('('+n+':[^\|]*)'),n+':'+m);else s=s==' '?n+':'+m:s+'|'+n+':'+m;t.c2("__g_c",s);}else t.c2("__g_c",n+':'+m);};},b2:function(v,s){var t=this,f=new Date(t.gt()+946080000000),g=''+v+'_'+s;t.c2('__g_u',g,f);t.gc.c=v;t.gc.d=s;t.z1('c',v);t.z1('d',s);},gt:function(){return new Date().getTime()},b5:function(){return new Date().getTime()-gomez.gs},j1:function(h){if(h){if(h.indexOf('<')!=-1||h.indexOf('%3C')!=-1||h.indexOf('%3c')!=-1)return null;if(window.decodeURIComponent)return decodeURIComponent(h);else return unescape(h);}return null;},f1:function(u,t){try{if(u){if(!/(^http|^https)/.test(u)){if(t==1)return gomez.j1(location.hostname);else return u;}var p=new RegExp('(^http|^https|):\/{2}([^\?#;]*)');if(t==1)p=new RegExp('(^http|^https|):\/{2}([^\/\?]*)');var r=u.match(p);if(r&&t==1)return gomez.j1(r[2]);else if(r)return r[0];}return null;}catch(e){return null;}},j3:function(n){try{var t =this,key=escape((window.location+n).replace(new RegExp("([:\/\.])","gm"),""));if(key&&key.length>100){key=key.substring(0,100);}if(window.localStorage){window.localStorage.setItem(key, t.gt());}else{t.z1('r',key+'___'+t.gt());}}catch(e){return ;}}, j2:function(){try{var m,t =this,key=escape((document.referrer+window.location).replace(new RegExp("([:\/\.])","gm"),""));if(key&&key.length>100){key=key.substring(0,100);}if(window.localStorage){m=window.localStorage.getItem(key);}if(!m){var c=t.z0("r");if(c){var r=c.split('___');if(r &&r[0]==key){m=r[1];}};};t.j4();return m;}catch(e){return ;}}, j4:function(){try{var t =this;if(window.localStorage){var key=escape((document.referrer+window.location).replace(new RegExp("([:\/\.])","gm"),""));if(key&&key.length>100){key=key.substring(0,100);}window.localStorage.removeItem(key);}else{t.z1('r', '');}}catch(e){return ;}}, j5:function(){var ret='';for(var i=0;i<3;i++){ret =ret +(((1+Math.random())*0x10000)|0).toString(16).substring(1);}ret =parseInt(ret, 16);return ret;},j6:function(){var t =this;var g=t.b0("__g_u");if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r =g.split("_");if(r.length>5){if(parseInt(r[5])<new Date().getTime()){return undefined;}else{return parseFloat(r[2]);}}}return undefined;},nameEvent:function(){},startInterval:function(){},endInterval:function(){},customValue:function(){}});gomez.P=function(){};gomez.P.prototype={hash:function(o){if(!o)return '';var t=this,s='{n:'+t.f9(o['n'])+'|';for(var i in o){if(i=='n')continue;if(typeof(o[i])=='string'||typeof(o[i])=='number')s +=i+':'+t.f9(o[i])+'|';};s=s.substring(0,s.length-1);return s+'}';},f9:function(s){s=''+s;s=s.replace('|','#$#').replace(':','$*$').replace('{','@#@').replace('}','*@*').replace('&','!*!');return s;},g0:function(){var t=this,z=gomez;if(z.grpIds)z.h3(z.gc,z.grpIds);if(z.wrate)z.gc.r=z.wrate;z.gc.e=z.grpId;for(var i=1;i<5;i++){if(z["grpId"+i]!=undefined){z.gc["e"+i]=z["grpId"+i];}}z.gc.b=z.pgId;z.gc.l=z.f1(z.m,2);if(self.screen){z.gc.m=screen.width;z.gc.o=screen.height;}else if(self.java){var j=java.awt.Toolkit.getDefaultToolkit();var s=j.getScreenSize();z.gc.m=s.width;z.gc.o=s.height;};z.gc.p=navigator.platform;if(navigator.cpuClass)z.gc.q=navigator.cpuClass;if(!z.gc.f&&!z.gc.g){try{var a=new Array("MSIE","Firefox","Opera","Safari","Chrome"),b=document.createElement('div');if(b.addBehavior&&document.body){b.addBehavior('#default#clientCaps');z.gc.k=b.connectionType;}}catch(e){};for(var i=0;i<a.length;i++){if(navigator.userAgent.indexOf(a[i])!=-1){z.gc.g=a[i];z.gc.f=(new String(navigator.userAgent.substring(navigator.userAgent.indexOf(a[i])).match(/[\d.]+/))).substring(0);}}if(!z.gc.f&&!z.gc.g){z.gc.g=navigator.vendor||navigator.appName;z.gc.f=(new String(navigator.appVersion.match(/[\d.]+/))).substring(0);}}return t.hash(z.gc);}};try{gomez.gc={'n':'c'};var iU=gomez.b0('__g_u');if(iU==undefined||iU==''){gomez.b2(gomez.j5(), 0);}var sR=gomez.j6();if(sR==undefined){sR=1;gomez.isFirstVi=true;}else{gomez.isFirstVi=false;}var wR=gomez.wrate?parseFloat(gomez.wrate):(gomez.wrate==0?0:1);wR=wR<0?0:(wR>1?1:wR);gomez.inSample=gomez.z0('a');if(!gomez.inSample||gomez.inSample==''){if(gomez.b3(wR*sR)){gomez.inSample=1;}else{gomez.inSample=0;}gomez.z1('a', gomez.inSample);}else{gomez.inSample=parseInt(gomez.inSample);}gomez.runFlg=gomez.inSample>0;if(gomez.runFlg){gomez.clickT=gomez.j2();gomez.h1=function(v,d){return v?v:d};gomez.gs=gomez.h1(gomez.gs,new Date().getTime());gomez.acctId=gomez.h1(gomez.acctId,'');gomez.pgId=gomez.h1(gomez.pgId,'');gomez.grpId=gomez.h1(gomez.grpId, '');gomez.E=function(c){this.s=c;};gomez.E.prototype={g1:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();}};gomez.L=function(m){this.a=m;};gomez.L.prototype={g2:function(m){var t=gomez,n=t.b5();var s=document.getElementsByTagName(m);var e=t.k;if(m=='script')e=t.j;if(m=='iframe')e=t.l;if(s){var l=s.length;for(var i=0;i<l;i++){var u=s[i].src||s[i].href;if(u &&!e[u]){var r =new gomez.E(e);t.grm[u]=r;e[u]=new t.c7(u, n);if(t.gIE&&m=='script')t.e2(s[i],'readystatechange',t.d2,false);else t.e2(s[i],'load',r.g1,false);}}}}};gomez.L.m=new Object;gomez.S=function(){var t=this,h=gomez.acctId+".r.axf8.net";t.x=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/b.gif?';t.pvHttpUrl=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/e.gif?';t.abHttpUrl=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/f.gif?';};gomez.h2=function(){var t=this;t.gIE=false;t.f=new Object;t._h=0;t.j=new Object;t.k=new Object;t.l=new Object;t.m=location.href;t.p=-1;t.q=-1;t.u=new Array;t._w=false;t.gSfr=/KHTML|WebKit/i.test(navigator.userAgent);t.grm=new Object;t.b;t.d=false;t.x=false;t.s=new gomez.S;t._a=false;t.h6=false;t.n1=0;t.c=false;};gomez.h3(gomez,{h5:function(u){try{var s=document.createElement('script');s.async=true;if(navigator.userAgent.indexOf('Firefox/3.5')!=-1){s.defer=true;}s.src=u;s.type='text/javascript';if(document.body)document.body.appendChild(s);else if(document.documentElement.getElementsByTagName('head')[0])document.documentElement.getElementsByTagName('head')[0].appendChild(s);}catch(e){var t=gomez;if(t.gSfr)document.write("<scr"+"ipt src='"+u+"'"+"><\/scr"+"ipt>");}},a9:function(){var t=gomez,i=t.z0('a'),g=t.b0('__g_u'),h=t.z0('h'), b=t.z0('b');t.gc.h=b;if(h)t.n1=parseInt(h);if(!t.gc.h)t.gc.h=1;t.z1('b',parseInt(t.gc.h)+1);if(i){t.a=parseInt(i);if(t.a==1){t._w=true;}else if(t.a==3){t.x=true;t._w=true;};t.d=true;}if(!t.gc.a)return;if(b){t.gc.c=t.z0('c');t.gc.i=t.z0('e');t.gc.j=t.z0('f');t.iFS=false;}else {var s='v=1';t.c2('__g_u','1',new Date(t.gt()+1000));t.iFS=true;if(t.b0('__g_u')&&g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){s='v=0';var r=g.split('_');t.b2(parseInt(r[0]),parseInt(r[1])+1);if(r[4]&&r[4]!='0'&&t.gt()<parseInt(r[5])&&r[2]&&r[2]!='0'){t.b1(parseFloat(r[2]),parseFloat(r[3]),parseFloat(r[4]),parseInt(r[5]));if(r[6])t.n0(parseInt(r[6]));};};t.h6=true;};t.gc.d=t.z0('d');if(!t.gc.d||(t.gc.d&&t.gc.d==0)){t.z1('d',1);t.gc.d=1;}t.b=t.z0('g');t.j8();if(i &&!t.isFirstVi&&t._w&&!t._a){t.h7();t._a=true;};},h7:function(){var t=gomez,u=t.tloc?t.tloc:('https:'==location.protocol?'https:':'http:')+'//'+t.acctId+'.t.axf8.net/js/gtag7.0.js';t.h5(u);},n0:function(h){var t=gomez,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');t.n1=h;t.z1('h',h);if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_');g=''+r[0]+'_'+r[1]+'_'+r[2]+'_'+r[3]+'_'+r[4]+'_'+r[5]+'_'+h;t.c2('__g_u',g,f);};},b1:function(v,s,q,f){var t=this;if(s ==undefined)s =1;t.d=true;t.z1('e',v);t.z1('f',s);t.gc.i=v;t.gc.j=s;t.h4(v,s,q,f);},b3:function(i, v, s){var t =this;t.d=true;if(s ==undefined)s =1;if(i==0||i==1){t.a=i;if(i==1){t._w=true;if(!t._a){t.h7();t._a=true;};}else{t.d=false;}t.z1('a',t.a);if(v !=undefined){t.b1(v, s);}}else if(i==2){t.h4(v, s);}},h4:function(o,p,q,d){var t=this,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_'),s;if(d)s=d;else if(q&&q>=0)s=new Date(t.gt()+parseInt(q*86400000)).getTime();else{q=5;s=new Date(t.gt()+432000000).getTime();};g=''+r[0]+'_'+r[1]+'_'+o+'_'+p+'_'+q+'_'+s;t.c2('__g_u',g,f);};},b6:function(){var t=gomez;t.p=t.b5();},f8:function(){var t=this;if(t.pollId1)clearInterval(t.pollId1);},b7:function(){var t =gomez;t.f8();t.q=t.b5();},c7:function(u, s){var t=this;t.m=u;t.s=s;},c8:function(){var t=gomez,n=t.b5(),l=document.images.length;if(l>t._h){for(var i=t._h;i<l;++i){var u=document.images[i].src;if(u){var r =new gomez.E(t.f);t.grm[u]=r;t.f[u]=new t.c7(u, n);t.e2(document.images[i],'load',t.c4,false);t.e2(document.images[i],'error',t.c5,false);t.e2(document.images[i],'abort',t.c6,false);}}}t._h=l;},c4:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();},c5:function(e){var t=gomez,i=t.g6(e);if(i){i.e=t.b5();i.b=1;}},c6:function(e){var t=gomez,i=t.g6(e);if(i)i.a=t.b5();},g6:function(e){var t=gomez,e=window.event?window.event:e,a=t.d8(e),i;if(t.grm[a.src||a.href]&&t.grm[a.src||a.href].s)i=t.grm[a.src||a.href].s[a.src||a.href];return i;},d2:function(){var t=gomez;var e=window.event?window.event:e,s=t.d8(e);if(s.readyState=='loaded'||s.readyState=='complete'){var o=t.j[s.src];if(o)o.e=t.b5();}},nameEvent:function(n){var t=this;t.f6(n,1);},startInterval:function(n){var t=this;t.f6(n,2,1);},endInterval:function(n){var t=this;t.f6(n,2,2);},f6:function(n,p,b){if(n&&n.length>20)n=n.substring(0,20);var t=this,f=t.u;if(p==3){f[f.length]={'n':'a','a':n,'b':b,'e':p,'f':undefined};}else{f[f.length]={'n':'a','a':n,'b':t.b5(),'e':p,'f':b};}},customValue:function(n,v){var t=this;if(typeof(v)!='number'){return;}t.f6(n,3,v);},d8:function(e){if(gomez.gIE)return e.srcElement||{};else return e.currentTarget||e.target||{};},e2:function(e,p,f,c){var n='on'+p;if(e.addEventListener)e.addEventListener(p,f,c);else if(e.attachEvent)e.attachEvent(n, f);else{var x=e[n];if(typeof e[n]!='function')e[n]=f;else e[n]=function(a){x(a);f(a);};}},i1:function(){var d =window.document, done=false,i2=function (){if(!done){done=true;gomez.b6();gomez.a9();}};(function (){try{d.documentElement.doScroll('left');}catch(e){setTimeout(arguments.callee, 50);return;}i2();})();d.onreadystatechange=function(){if(d.readyState=='complete'){d.onreadystatechange=null;i2();}};},j7:function(s, toUrl){try{var t=this,z=gomez;if(!s)return;s+="{n:u|e:1}";var p ='';if(t.isFirstVi){p='&a='+z.acctId+'&r=1&s=1';}else if(t.iFS){p='&a='+z.acctId+'&r='+t.j6();}if(window.encodeURIComponent)s=encodeURIComponent(s);else s=escape(s);z.h5(z.e(toUrl)+'info='+s+p);}catch(err){}return;},e:function(u){if(!/\?|&/.test(u))if(!/\?/.test(u))u +='?';else u +='&';return u;},j8:function(){var t=gomez, p=new gomez.P();var s=p.g0();t.j7(s, t.s.pvHttpUrl);},g7:function(){try{var t=gomez;t.gc.a=t.acctId;t.gIE=!-[1,];if(t.gIE){t.i1();window.attachEvent('onload', t.b7);}else if(window.addEventListener){window.addEventListener('DOMContentLoaded', t.b6, false);window.addEventListener('load', t.b7, false);}else if(t.gSfr){var m=setInterval(function(){if(/loaded|complete/.test(document.readyState)){clearInterval(m);delete m;t.b6();t.b7();}}, 10);}else return;if(!t.jbo){t.c8();t.pollId1=setInterval(t.c8, 10);}if(!t.gIE)t.a9();}catch(e){return;}}});gomez.h2();gomez.g7();}}catch(e){};
+//--> 
+</SCRIPT>
+ 
+
+ 
+<script language="javascript">
+// used for video links
+var templateType = 'story-detail';
+// used for sortPanels
+var sectionID = '775';
+</script>
+
+<meta name="verify-v1" content="958qtZoUxzOXzOCikUSuh2ZOqaChljwx7vO/h+S1F1E=" />
+
+
+ 
+
+ 
+
+<title>Fla. DCF releases 1st foster care report card - Florida Wires - MiamiHerald.com</title>
+<meta name="title" content="Fla. DCF releases 1st foster care report card - Florida Wires - MiamiHerald.com" />
+<meta property="og:title" content="Fla. DCF releases 1st foster care report card - Florida Wires - MiamiHerald.com"/>
+
+<meta name="description" content="Private contractors that receive hundreds of millions of dollars a year to oversee foster care in Florida scored poorly in ensuring proper medical, immunization and dental services for children, but ranked about average in most other areas, according to a report card issued Wednesday for the first time by the state child welfare agency." />
+<meta name="keywords" content="FL DCF Contractor Report Card" />
+
+ 
+
+<!-- YAHOO SEARCH CSS FILES -->
+<link rel="stylesheet" type="text/css" href="http://media.miamiherald.com/static/mi/yahoo/css/search_bar.css"/>
+<link rel="stylesheet" type="text/css" href="http://media.miamiherald.com/static/mi/yahoo/css/results.css"/>
+<!-- END YAHOO SEARCH CSS FILES-->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<!-- case DEFAULT -->
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="rss" href="/775/index.rss">
+        
+        
+        
+    
+        <link rel='alternate' type='application/rss+xml' title='Florida Wires stories only' href='/news/florida/AP/index.rss'>
+    <link rel='alternate' type='application/rss+xml' title='all content on this page' href='/news/florida/AP/v-highlights/index.rss'>         
+
+
+
+
+ 
+
+<meta name="viewport" content="width = 1002" />
+
+<link rel="shortcut icon" href="http://media.miamiherald.com/static/images/favicon.ico" />
+<link rel="apple-touch-icon" href="http://media.miamiherald.com/static/images/apple-icon.gif" />
+
+<!-- <link href="http://media.miamiherald.com/static/styles/mi/browser_conformity.css" rel="stylesheet" type="text/css">
+<link href="http://media.miamiherald.com/static/styles/mi/base.css" rel="stylesheet" type="text/css"> -->
+
+<link href="http://media.miamiherald.com/static/styles/redesign/redesign.pack.css" rel="stylesheet" type="text/css">
+
+<link href="http://media.miamiherald.com/static/styles/mi/structure.css" rel="stylesheet" type="text/css">
+<!-- no css specified for this template -->
+
+<link href="http://media.miamiherald.com/static/styles/mi/thickbox.css" rel="stylesheet" type="text/css">
+
+
+<link rel="stylesheet" type="text/css" media="all" href="http://media.miamiherald.com/static/styles/redesign/jScrollPane.css" />
+
+<link media="only screen and (max-device-width: 1024px)"
+href="http://media.miamiherald.com/static/styles/redesign/iphone.pack.css" rel="stylesheet" type="text/css">
+
+<style type = "text/css">
+.section775 h2{ display:none }
+.section569 h2{ display:none }
+</style>
+<!-- <script src="http://media.miamiherald.com/static/scripts/mi/third_party/jquery/jquery_ssi.js"></script> -->
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/mi/third_party/jquery/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/mi/mi_script_scheduler.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/scripts/mi/mi-utilities.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/redesign/polls.pack.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/site2.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/redesign/redesign.pack.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/redesign/jquery.scrollTo-min.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/redesign/jquery.dimensions.min.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/redesign/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/redesign/jScrollPane.pack.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/swfobject.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/redesign/mhmc-ui-panels.pack.js"></script>
+
+<!-- Disqus -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	/**
+	 * miAppControler contains master settings that can be used to quickly disable
+	 * javascript applications. For each supported app there is an attribute containing
+	 * an integer value. The meaning of the value is application specific, except 
+	 * for 0 and 1.
+	 * 0 = disable the entire app
+	 * 1 = enable the entire app
+	 * Any additional values should be noted in this file.
+	 *
+	 * The controller is instantiated in the MI object and should be interfaced with
+	 * there. 
+	 */
+
+	var miAppControler = function() {};
+
+	/* Commenting
+	 2 = disable comment submission & display
+	 3 = enable comment submission & display only
+	 4 = disable popular threads widget
+	*/
+	miAppControler.prototype.commenting = 1;
+
+	/*
+	 2 = display static coupon ad
+	*/
+	miAppControler.prototype.findnsave = 0;
+  miAppControler.prototype.dealsaver = 1;
+
+var pageInfo = {'version':1.0};
+pageInfo.section = {};
+pageInfo.section.id = 775;
+pageInfo.asset = {};
+pageInfo.asset.id = 2584557;
+pageInfo.asset.title = "Fla. DCF releases 1st foster care report card";
+
+
+</script>
+
+ 
+
+ 
+
+
+
+
+
+
+
+    
+
+
+        
+            
+        
+
+
+<script>
+// set a javascript variable to be used in an external script for overrides
+var miCommentingEnabled = 1;
+</script>
+
+ 
+
+
+
+
+ 
+
+
+
+<script type="text/javascript">var insitecookie = 'miamiherald_user_auth'</script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/mi/insite/insite_cookie_manager.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/static/scripts/mi/insite/insite.js"></script>
+
+
+
+
+ 
+
+
+
+<script src="http://media.miamiherald.com/static/insite/insite_conf.js" type="text/javascript"> </script>
+<script src="/reg_js/verify_access.js" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+ord=Math.random()*10000000000000000;
+var query = window.location.toString().match(/pubsys_story[^a-zA-Z=]*=([^&]*)/);
+kw_str = "";
+if (query && query[1]) {
+    var t_array = decodeURIComponent(query[1].replace(/\+/g, " ")).split(' ');
+    for (var i in t_array)
+    {
+        t_array[i] = t_array[i].replace(/[^a-zA-Z0-9_+|-]/g, "");
+        t_array[i] = t_array[i].replace(/\+/g, "{plus}");
+        t_array[i] = escape(t_array[i]);
+        if (t_array[i].length < 1) continue;
+        kw_str += 'kw=' + t_array[i] + ';';
+    }
+}
+dart_segs="";var ca=document.cookie.split(';');var cb="";var cc;for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)==' ') c=c.substring(1,c.length);var c_name="segments=";if (c.indexOf(c_name) == 0) {cb=c.substring(c_name.length,c.length);break;}}cc=cb.split('\%20');for(var i=0;i < cc.length;i++){var c=cc[i];c=c.replace(/[^a-zA-Z0-9_+|-]/g, "");c=c.replace(/\+/g, "{plus}");if (c.length < 1) continue;while (c.charAt(0)==' ') c=c.substring(1,c.length);dart_segs+="is="+c+";";}cb="";
+dart_tk="";for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)==' ') c=c.substring(1,c.length);if (c.indexOf("TData=") == 0) {cb=c.substring(6,c.length);break;}}cb=cb.replace(/[^a-zA-Z0-9_+|-]/g, "");cb=cb.replace(/\+/g, "{plus}");cc=cb.split('|');for(var i=0;i < cc.length;i++){var c=cc[i];if (c.length < 1) continue;while (c.charAt(0)==' ') c=c.substring(1,c.length);dart_tk+="tk="+c+";";}
+dart_reg="reg=0;";for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)==' ') c=c.substring(1,c.length);var c_name="miamiherald_user_auth=";if (c.indexOf(c_name) == 0){cb=c.substring(c_name.length,c.length);if (!cb.indexOf(".threshold") == 0) dart_reg="reg=1;";break;}}
+//-->
+</script>
+
+ 
+ 
+<script type="text/javascript" language="Javascript">
+    var string1 = "";
+    var string2 ="";
+    var last = "";
+    var finalc = "";
+    var string1 = "miamiherald.news";
+
+    var mystring = "News/Florida/Florida Wires";
+
+    // this is now known as the "top level hack"
+    // if you have a top level directory, that is NOT a top level DART section list it below
+    // Miami uses only Opinion(513) as top level directory
+    var tlh = new Array("513");
+
+    var startpoint;
+    var addpoint;
+    for (var i=0;i<tlh.length;i++) {
+        if ("775" == tlh[i]) {
+            startpoint = 0;
+            addpoint = 2
+        } else {
+            startpoint = 1;
+            addpoint = 1
+        }
+    }
+    
+
+    var array = mystring.split("/");
+    string1 += "/" + array[array.length-1] + ";";
+    if (array.length != 1) {
+        for (var i = startpoint;i<array.length;i++) {
+	    string1 += "c" + (i + addpoint) + "=" + array[i] + ";";
+	}
+	finalc = array.length+1;
+    } else {
+        finalc = array.length+1;
+    }
+
+    last = array[array.length-1];
+    string1 += "c" + finalc + "=" + last + "_homepage;";
+    if ("story-detail" == "section-front") {
+	string1 += "template=channel;";
+    } else {
+	string1 += "template=article;";
+    } 
+    string1 = string1 + '!category=' + last;
+
+    // GENERIC:
+    // replace " & " with underscore as in Crime & Courts
+    string1 = string1.replace(/ & /g,"_");
+    // replace whitespace with underscore
+    string1 = string1.replace(/\s+/g,"_");
+    // replace & with dash
+    string1 = string1.replace(/&/g,"-");
+    // remove single quote
+    string1 = string1.replace(/'/g,"");
+    // remove double quote
+    string1 = string1.replace(/"/g,"");
+    
+    // SITE SPECIFIC REPLACEMENTS
+    // replace front_page with homepage
+    string1 = string1.replace(/front_page/g,"homepage");
+    string1 = string1.replace(/front/g,"homepage");
+
+    var src_string = string1.toLowerCase();
+    
+</script>
+
+ 
+ 
+
+<script type="text/javascript" language="javascript1.1">
+var krd_site = "miami";
+var krd_site_display_name = "MiamiHerald.com";
+var krd_publication = "miamiherald";
+var krd_topix_property = "5006";
+var _krdDartOrd = new Date().getTime();
+var _krdDartInc = 0;
+var section_name = "Florida Wires";
+var section=section_name.toLowerCase();
+var breadcrumb = "News/Florida/Florida Wires";
+var path = breadcrumb.toLowerCase();
+</script>
+
+<!--
+section ads:1story ads:1 -->
+
+ 
+
+
+<script type="text/javascript">
+<!--
+    mi_is_live = 1;
+
+    miyahoo = {};
+    miyahoo.tax = "News|State_Regional|";
+    miyahoo.tax_id = 20289001;
+    miyahoo.content_type = "fn_news";
+    miyahoo.cstm_sctn_list = "story";
+    miyahoo.cstm_content_cat = "Florida Wires";
+
+    miyahoo.slots = {};
+
+    miyahoo.slots.slot_1 = {};
+    miyahoo.slots.slot_1.ad_size_list = ["950x30"];
+    miyahoo.slots.slot_1.ad_delivery_mode = "ipatf";
+    miyahoo.slots.slot_1.ad_marker = "";
+    miyahoo.slots.slot_2 = {};
+    miyahoo.slots.slot_2.ad_size_list = ["160x90"];
+    miyahoo.slots.slot_2.ad_delivery_mode = "ipatf";
+    miyahoo.slots.slot_2.ad_marker = "";
+    miyahoo.slots.slot_3 = {};
+    miyahoo.slots.slot_3.ad_size_list = ["728x90"];
+    miyahoo.slots.slot_3.ad_delivery_mode = "ipatf";
+    miyahoo.slots.slot_3.ad_marker = "";
+    miyahoo.slots.slot_4 = {};
+    miyahoo.slots.slot_4.ad_size_list = ["100x25"];
+    miyahoo.slots.slot_4.ad_delivery_mode = "ipatf";
+    miyahoo.slots.slot_4.ad_marker = "";
+    miyahoo.slots.slot_5 = {};
+    miyahoo.slots.slot_5.ad_size_list = ["300x250"];
+    miyahoo.slots.slot_5.ad_delivery_mode = "ipstf";
+    miyahoo.slots.slot_5.ad_marker = "";
+    miyahoo.slots.slot_6 = {};
+    miyahoo.slots.slot_6.ad_size_list = ["300x250"];
+    miyahoo.slots.slot_6.ad_delivery_mode = "ipbtf";
+    miyahoo.slots.slot_6.ad_marker = "";
+    miyahoo.slots.slot_7 = {};
+    miyahoo.slots.slot_7.ad_size_list = ["285x70"];
+    miyahoo.slots.slot_7.ad_delivery_mode = "ipatf";
+    miyahoo.slots.slot_7.ad_marker = "";
+
+
+-->
+</script>
+<script type="text/javascript" src="http://media.miamiherald.com/misites/defaults.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/misites/mia/miamiherald.js"></script>
+<script type="text/javascript" src="http://media.miamiherald.com/miads/yahoo.js"></script>
+<script type="text/javascript">
+<!--
+ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){ // 'live' or 'preview' is set during page build
+        document.write('<'+'script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script'+'>');
+    }
+-->
+</script>
+
+<!-- templates/ads/dart_init.ett :start -->
+<!-- templates/ads/dart_init.ett :end -->
+
+
+ 
+
+ 
+ 
+
+ 
+<script  type="text/javascript" src="http://media.miamiherald.com/static/scripts/siteresources-min.js"></script>
+
+<script type="text/javascript">
+mi.search = new mi.Search();
+</script>
+ 
+
+<link href="http://media.miamiherald.com/static/styles/sitestyles-min.css" rel="stylesheet" type="text/css">
+
+
+<!-- /system/comment_html.comp, comment=>'START EXTRA SCRIPTS page element', id=>0 -->
+
+
+ 
+
+
+		 
+
+
+
+ 
+
+
+
+
+
+<!-- /system/comment_html.comp, comment=>'END EXTRA SCRIPTS page element', id=>0 -->
+ 
+<script language="javascript">
+  var storylevel = true;
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="http://media.miamiherald.com/static/styles/redesign/story_detail2.pack.css"/>
+  <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="http://media.miamiherald.com/static/styles/redesign/story_detailIE.pack.css"/>
+  <![endif]-->
+
+ 
+<script language="javascript" src="http://media.miamiherald.com/static/scripts/redesign/story_detail.pack.js"></script>
+
+<script language="javascript">
+/*********************
+ * BEGIN Share Tools Setup
+ */
+$('document').ready(function(){
+  storyShareToolSummaryText = $('#storyBodyContent > p:first').text();
+}); // END document.ready
+
+/* */
+
+  var storyShareToolSummaryText =" ";
+  var storyShareToolHeadline ="Fla. DCF releases 1st foster care report card";
+
+// %# #### See: http://digg.com/tools/integrate
+      digg_url = 'http://www.miamiherald.com/2012/01/11/2584557/fla-dcf-releases-contractor-report.html';
+      digg_title = storyShareToolHeadline;
+      digg_bodytext = storyShareToolSummaryText;
+//        digg_media = 'MEDIA'; // news or video
+//        digg_bgcolor = '#FFFFFF';
+      digg_skin = 'compact';
+      digg_window = 'new';
+//        http://digg.com/submit?url=example.com&title=TITLE&bodytext=DESCRIPTION&media=MEDIA&topic=TOPIC
+
+
+//%# #### See: http://www.myspace.com/posttomyspace
+          function mySpaceGetThis(T, C, U, L) {
+      T_title = encodeURIComponent(storyShareToolHeadline);
+      C_bodytext = encodeURIComponent(storyShareToolSummaryText);
+      U_url = encodeURIComponent('http://www.miamiherald.com/2012/01/11/2584557/fla-dcf-releases-contractor-report.html');
+
+            var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + T_title
+            + '&c=' + C_bodytext + '&u=' + U_url + '&l=' + L;
+            window.open(targetUrl);
+          }
+/*
+*/
+
+/*
+ * END Share Tools Setup
+ *********************/
+</script>
+
+
+<!-- Pluck Disabled -->
+
+
+<meta property="og:site_name" content="The Miami Herald"/>
+
+ 
+
+
+<script type="text/javascript">if(typeof gomez != "undefined" && gomez.nameEvent){gomez.nameEvent("Head Completed");}</script>
+
+ 
+ <!-- start: templates/hnews/apregistry_init.ett  --><!-- end: templates/hnews/apregistry_init.ett  -->
+ 
+
+
+</head>
+
+ 
+
+ 
+ 
+
+
+
+<body
+    class="story"
+    
+    >
+ <div id="pubSys" editUser="476" editSection="775"></div>
+
+ 
+  <!--
+-->
+ 
+
+<div id="fb-root" style="margin: 0pt; padding: 0pt; position:absolute; visibility:hidden;"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '133847067760', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+ 
+
+ 
+
+<link rel="image_src" href="http://media.miamiherald.com/static/images/redesign/icons/facebook_default_thumb.gif" />
+
+
+
+
+
+
+
+ 
+
+  <!-- /news/florida/AP --> 
+<div class="advertisement ts_shared_generic_devel dart3" id="dart_960x30_ats_1">
+<!-- templates/ads/dart_call.ett :start v.15690 -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=960x30;tile=1;!c=news;pub=MiamiHerald;ord=284335211858210' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=960x30;tile=1;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=960x30;tile=1;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
+
+
+</div><!-- /.advertisement ts_shared_generic_devel -->
+ 
+
+ 
+
+  <!-- /news/florida/AP -->                      
+                          <div class="advertisement ts_shared_generic_devel yahoo" id="yahoo_950x30_ipatf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1");}
+--></script>
+
+</div><!-- /.advertisement ts_shared_generic_devel -->
+ 
+
+
+
+<div id="partnerSites">
+   <ul>
+        <li class="first"><a href="http://www.miamiherald.com/services/#navlink=navbarql">Services</a></li>
+	<li><a href="https://extra.herald.com/heraldsubscription/Index.aspx?promocode=WTV">Subscriptions</a></li>        
+	<li><a href="http://www.heraldsubscriptions.com/mhdigital/#navlink=navbarql">Digital Newspaper</a></li>
+        <li><a href="http://www.miamiherald.com/place-an-ad/#navlink=navbarql">Place an Ad</a></li>
+	<li><a href="http://www.miami.com/#navlink=navbarql">Miami.com</a></li>
+	<li><a href="http://www.momsmiami.com/#navlink=navbarql">MomsMiami.com</a></li>
+    	<li><a href="http://www.elnuevoherald.com/#navlink=navbarql">ElNuevoHerald.com</a></li>
+    <li><a href="http://floridapublicnotices.com/" target="_blank">Public Notices</a></li>
+<li class="end icons"><a class="first" href="http://www.facebook.com/pages/The-Miami-Herald/38925837299"><img src="http://media.miamiherald.com/static/images/redesign/connect/facebook.gif" alt="Facebook" border="0"></a>
+
+<a href="http://www.miamiherald.com/twitter/#navlink=navbarql"><img src="http://media.miamiherald.com/static/images/redesign/connect/twitter.gif" border="0"></a> 
+
+<a href="http://www.miamiherald.com/about-us/services/mobile/#navlink=navbarql"><img src="http://media.miamiherald.com/static/images/redesign/connect/mobile16x16.gif" border="0"></a>
+
+<a href="http://www.miamiherald.com/reg-bin/tint.cgi?mode=edit&version=newsletter"><img src="http://media.miamiherald.com/static/images/redesign/connect/mail-icon16x16.gif" border="0"></a>
+
+<a href="http://www.miamiherald.com/rss/#navlink=navbarql"><img src="http://media.miamiherald.com/static/images/redesign/connect/feed-icon-16x16.gif" border="0"></a>
+</li>
+</ul>
+</div> 
+
+<div id="pagewrapper"><span class="round_top"><span></span></span>  
+<div id="pageContainer" class="cf">
+
+    <div id="masthead" class="cf">
+         
+
+
+
+
+       	
+ 
+
+ 
+<div id="leaderboard">
+<div class="header_ad">
+ 
+
+  <!-- /news/florida/AP --> 
+<div class="advertisement ts_shared_leaderboard_ad dart3" id="dart_160x90_ats_1">
+<!-- templates/ads/dart_call.ett :start v.15690 -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=160x90;tile=2;!c=news;pub=MiamiHerald;ord=284335211858210' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=160x90;tile=2;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=160x90;tile=2;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
+
+
+</div><!-- /.advertisement ts_shared_leaderboard_ad -->                     
+                          <div class="advertisement ts_shared_leaderboard_ad yahoo" id="yahoo_160x90_ipatf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2");}
+--></script>
+
+</div><!-- /.advertisement ts_shared_leaderboard_ad -->
+ 
+
+</div>
+<div class="leaderboard_ad">
+ 
+
+  <!-- /news/florida/AP --> 
+<div class="advertisement ts_shared_leaderboard_ad dart3" id="dart_728x90_ats_1">
+<!-- templates/ads/dart_call.ett :start v.15690 -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=728x90;tile=3;!c=news;pub=MiamiHerald;ord=284335211858210' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=728x90;tile=3;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=728x90;tile=3;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
+
+
+</div><!-- /.advertisement ts_shared_leaderboard_ad -->                     
+                          <div class="advertisement ts_shared_leaderboard_ad yahoo" id="yahoo_728x90_ipatf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3");}
+--></script>
+
+</div><!-- /.advertisement ts_shared_leaderboard_ad -->
+ 
+
+</div>
+</div>
+ 
+
+<div id="mastleft">
+
+
+
+<div class="backHome">
+	<a href="/"><strong>The Miami Herald</strong></a>&nbsp;>&nbsp;<a href='/news/index.html'>
+
+
+News</a>&nbsp;>&nbsp;<a href='/news/florida/index.html'>
+
+
+Florida</a>&nbsp;>&nbsp;<a href='/news/florida/AP/index.html'>
+
+
+Florida Wires</a></div>
+ 
+
+<div class="t_rss_ad" class="cf">
+    <h1>
+
+
+       <a href="/news/florida/AP/index.html">
+
+
+
+
+        Florida Wires
+</a>
+
+<a href="http://www.miamiherald.com"><img align="top" src="http://media.miamiherald.com/images/redesign/superh.gif" /></a>     
+    </h1>    
+</div>
+
+ 
+<ul>
+	<li><script type='text/javascript'>document.write(todaystring());</script></li>
+	 
+
+<script type="text/javascript">
+// GENERIC COOKIE FUNCTIONS
+function getCookieVal(offset) {
+ var endstr=document.cookie.indexOf(";",offset);
+ if (endstr==-1)
+ endstr=document.cookie.length;
+ return unescape(document.cookie.substring(offset,endstr));
+}
+function GetCookie(cname) {
+ var arg=cname+"="; var alen=arg.length;
+ var clen=document.cookie.length; var i=0;
+ while (i<clen) {
+        var j=i+alen;
+        if (document.cookie.substring(i,j)==arg) return getCookieVal (j); i=document.cookie.indexOf("",i)+ 1;
+        if (i==0) break;
+ } return null;
+}
+function SaveCookie(cname,cvalue,cdays,cpath) {
+        ex = new Date; ex.setTime(ex.getTime() + (cdays*86400000));
+        if (cpath == null) { cpath = "/" } else { cpath = "; path=" + cpath }
+        sitedom=location.hostname.replace(/www\./,"");
+        document.cookie=cname + '=' + cvalue + '; expires=' + ex.toGMTString() + cpath + "; domain="+sitedom;
+}
+
+//SHOW HIDE CSS
+var insitecookie=document.cookie.match('miamiherald_user_auth');
+var icname = GetCookie(insitecookie);
+if (icname && icname.indexOf('.threshold') == -1) { 
+    document.write("<style>#nonmember{display:none;}</style>");
+ } else {
+    document.write("<style>#member{display:none;}</style>");
+ }
+
+var user_run_mode = '';
+
+</script>
+  
+<script language="JavaScript">
+var rurl_qs = '';
+var loc = ''+document.location;
+if (loc.match('/reg-bin/') )
+{
+    rurl_qs = "goto=/";
+}
+else if(loc.match('/vendor_dp/'))
+{
+    rurl_qs = "goto=http://forums.miamiherald.com"
+}
+else 
+{ 
+    rurl_qs = "goto="+loc 
+}
+var insitecookie=document.cookie.match('miamiherald_user_auth');
+if (GetCookie(insitecookie)) {              
+    var name = (GetCookie(insitecookie).replace(/\|.*/,""));
+    name = name.replace(/\.threshold/ig,'Guest');
+} else 
+{
+     name = 'Guest'
+}
+document.write('<li class="greeting">Welcome ' + name + ' </li>');
+document.write('<span id="nonmember"><li><a href="http://www.miamiherald.com/static/insite/login.html?' + rurl_qs + '">Login</a></li><li><a href="/reg-bin/int.cgi?mode=register">Register</a></li></span>')
+</script>
+<span id="member">
+    <li><a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Logout</a></li><li><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></li>
+</span>
+
+ 
+  
+</ul>
+</div>
+
+<div id="mastright">
+ 
+<div class="ad"> <a href="https://extra.herald.com/heraldsubscription/Index.aspx?promocode=WTV"><img src="http://media.miamiherald.com/static/ads/circpromo1.jpg" width="146" height="84" border="0" /></a>
+</div> 
+
+
+<div id="weather">
+<!-- <img src="images/redesign/weather.gif" alt="weather" /> -->
+<!-- begin /pubsys/production/shared/weather_mini.comp -->
+<!-- begin /shared/weather_mini.comp -->
+<a href="http://weather.herald.com/US/FL/Miami.html"><img src="http://banners.wunderground.com/banner/krd_condV2/language/www/US/FL/Miami.gif" alt="Weather" hspace="0" vspace="0" border="0"/></a>
+<p align=center><a href="http://www.miamiherald.com/weather">Weather</a> | <a href="http://www.miamiherald.com/traffic">Traffic</a></p>
+<!-- end /shared/weather_mini.comp -->
+<!-- end /pubsys/production/shared/weather_mini.comp -->
+</div>
+</div>
+
+ 
+
+
+ 
+    </div> 
+
+    <div id="mainnav" class="cf">
+    <script type="text/javascript">if(typeof gomez != "undefined" && gomez.nameEvent){gomez.nameEvent("Masthead Completed");}</script>
+
+
+
+
+<style type="text/css">
+#navbar ul li.f a { padding:0 5px;}
+#navbar ul li a {padding: 0 5px 0 6px;}
+#navbar ul li.l a:hover {background-position: 0 0}
+
+#navbar .dart {
+   display: none;
+}
+
+.navAd {
+   background: url("http://media.miamiherald.com/static/images/redesign/nav_bg.gif") repeat-x scroll  0 0 transparent;
+    height:26px;
+    width:91px;
+    padding:2px 0 2px 4px;
+    overflow:hidden;
+}
+
+</style>
+
+<div id="navbar" class="cf">
+ 	<ul>
+ 	    <li class="f"><a href="http://www.miamiherald.com/#navlink=navbar"  >Home</a></li>
+		<li><a href="http://www.miamiherald.com/news/#navlink=navbar" class="x" >News</a></li>
+		<li><a href="http://www.miamiherald.com/sports/#navlink=navbar" >Sports</a></li>
+		<li><a href="http://www.miamiherald.com/entertainment/#navlink=navbar" >Entertainment</a></li>
+		<li><a href="http://www.miamiherald.com/business/#navlink=navbar" >Business</a></li>
+		<li><a href="http://www.miamiherald.com/living/#navlink=navbar" >Living</a></li>
+		<li><a href="http://www.miamiherald.com/opinion/#navlink=navbar" >Opinion</a></li>
+		<li><a href="http://www.miamiherald.com/jobs/#navlink=navbar" >Jobs</a></li>
+		<li><a href="http://www.miamiherald.com/cars/#navlink=navbar" >Cars</a></li>
+		<li><a href="http://www.miamiherald.com/real_estate/#navlink=navbar" >Real Estate</a></li>
+		<li><a href="http://findnsave.miamiherald.com/#navlink=navbar" >Shop</a></li>
+		<li><a href="http://www.miamiherald.com/classifieds/#navlink=navbar"  >Classifieds</a></li>
+                <li class="l"><div class="navAd">
+          <!-- start: nav ad -->
+                     
+
+  <!-- /news/florida/AP --> 
+<div class="advertisement nav_ad dart3" id="dart_100x25_ats_1">
+<!-- templates/ads/dart_call.ett :start v.15690 -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=100x25;tile=4;!c=news;pub=MiamiHerald;ord=284335211858210' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=100x25;tile=4;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=100x25;tile=4;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
+
+
+</div><!-- /.advertisement nav_ad -->                     
+                          <div class="advertisement nav_ad yahoo" id="yahoo_100x25_ipatf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4");}
+--></script>
+
+</div><!-- /.advertisement nav_ad -->
+ 
+
+          <!-- end: nav ad -->
+
+</div></li>
+	</ul>
+</div>
+
+
+<div id="rss_icons" style="width:70px;float:right;">
+ <a href="/news/florida/AP/index.xml"><img src="http://media.miamiherald.com/images/icons/rss14px.png" alt="RSS" /></a>&nbsp;<a href="http://add.my.yahoo.com/rss?url=http://www.miamiherald.com/news/florida/AP/index.xml"><img src="http://media.miamiherald.com/images/addtomyy.gif" alt="Add to My Yahoo" /></a></div>
+
+
+
+    
+   	<div class="subnav">
+		<ul class="cf">    
+		<li><a href="http://www.miamiherald.com/news/miami-dade/#navlink=navbar">Miami-Dade</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/broward/#navlink=navbar">Broward</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/florida-keys/#navlink=navbar">Keys</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/florida/#navlink=navbar">Florida</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/nation/#navlink=navbar">Nation</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/world/#navlink=navbar">World</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/americas/#navlink=navbar">Americas</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/americas/cuba/#navlink=navbar">Cuba</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/americas/haiti/#navlink=navbar">Haiti</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/politics/#navlink=navbar">Politics</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/schools/#navlink=navbar">Schools</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/news/obituaries/#navlink=navbar">Obituaries</a><span>|</span></li>
+<li><a href="http://www.miamiherald.com/wlrn/#navlink=navbar">WLRN</a></li>	
+	</ul>
+	</div>	
+    
+  </div> 
+
+    <div id="content" class="cf">
+           <div class="main cf">     
+     
+
+    
+
+<div id="storyBody" class="cf hnews hentry item">
+
+
+
+<div id="storyDate-Links" class="cf" style="padding-top: 2px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;margin:10px 0 10px 0; ">
+   
+    <h5 class="storyPublishDate published" title="2012-01-11T18:02:36Z">Posted on Wednesday, 01.11.12</h5><h5 class="storyUpdateDate updated" title="2012-01-11T19:42:37Z" style="display:none">Posted on Wednesday, 01.11.12</h5>
+
+<div class="storyTools">
+  <div class="storyShareTextBar">
+    <div class="shareLinksArea">
+      <ul class="shareLinks">
+  
+        <li class="addThisStoryLink">
+          <div class="addThisMiamiArea">          <script type="text/javascript">
+		 	var addthis_share = {
+				templates: {
+					twitter: '{{title}} {{url}} via @miamiherald'
+					},
+				   url_transforms : {
+				   	shorten: {
+						twitter: 'bitly'
+						}
+					},
+				shorteners : {
+					bitly : {
+						login: 'miamiherald',
+						apiKey: 'R_c391265db81e2908eaab21d177be8356'
+						}
+					}
+				}
+              var addthis_config = {
+                    services_compact: 'facebook, twitter, myspace, digg, delicious, reddit, linkedin, stumbleupon, favorites, more',
+                    services_exclude: 'print'
+               }
+
+          </script>
+          <a class="addthis_counter addthis_pill_style"
+            href="http://addthis.com/bookmark.php?v=250&amp;pub=mianalytics"
+            addthis:url="http://www.miamiherald.com/2012/01/11/2584557_fla-dcf-releases-contractor-report.html#storylink=addthis"></a>
+          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=mianalytics"></script>
+          </div>
+        </li>
+  
+        <li class="emailStoryLink"><a href="/2012/01/11/v-emailform/2584557/fla-dcf-releases-contractor-report.html" target="Email a Story" onClick="displayEmailForm(this.href); return false;" rel="nofollow">email</a></li>
+  
+        <li class="printStoryLink"><a href="/2012/01/11/v-print/2584557/fla-dcf-releases-contractor-report.html" target = '_blank' rel="nofollow">print</a></li>
+  
+        <li class="commentStoryLink"><a href="#comment" rel="nofollow">comment</a></li>
+  
+              
+      </ul>
+    </div>
+    <div id="txtResizeTool">
+      <a id="txtResizeMinusLink" title="Reduce font size"><img style="display: inline;" class="txtResize" id="txtResizeMinus" src="http://media.miamiherald.com/images/redesign/story_fontsize_smaller.gif"><img style="display: none;" class="txtResize" id="txtResizeMinusFade" src="http://media.miamiherald.com/images/redesign/story_fontsize_smaller_fade.gif"></a>
+      <a id="txtResizePlusLink" title="Increase font size"><img style="display: inline;" class="txtResize" id="txtResizePlus" src="http://media.miamiherald.com/images/redesign/story_fontsize_larger.gif"><img style="display: none;" class="txtResize" id="txtResizePlusFade" src="http://media.miamiherald.com/images/redesign/story_fontsize_larger_fade.gif"></a>
+    </div><!-- CLOSE: #txtResizeTool -->
+  </div>
+
+</div>
+
+ 
+
+ 
+  <div id="toolbox" class="mi_container">
+    <div id="toolbar">
+      <h3 id="toolname">tool name</h3>
+      <a class="mi_button" href="javascript:mi_story_tool.closeTool();">close [x]</a>
+    </div>
+    <div id="tool">
+      tool goes here
+    </div>
+  </div>
+
+
+
+ 
+
+ 
+</div>
+
+<h1 class="storyHeadline entry-title">Fla. DCF releases 1st foster care report card</h1><div id="hnews-vcard" style="display:none;">      <span class="byline author vcard"><span class="fn">By KELLI KENNEDY      </span></span> <span class="creditline source-org vcard"><span class="org fn">      </span></span></div>
+
+ 
+
+<div class="facebook_like_small">
+  <fb:like 
+    href="http://www.miamiherald.com/2012/01/11/2584557/fla-dcf-releases-contractor-report.html#storylink=fbuser" 
+    layout="button_count" 
+    show_faces="false" 
+    action="like" 
+    font="arial" 
+    colorscheme="light"></fb:like>
+</div>
+
+ 
+
+
+<div class="story_headline_separator cf">&nbsp;</div> 
+
+
+<div id="storyRail">
+
+  
+
+  
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+<script language="Javascript" type="text/javascript">
+/*
+* Tell JavaScript how much of each type of content there is
+*/
+  storyVideoCount = 0;
+  storyVideoBoxCount = 0;
+  storyVideoOldTypeCount = 0;
+  storyAudioCount = 0;
+  storyPhotoCount = 0;
+  storyPhotoGalleryCount = 0;
+  storyGoogleMapCount = 0;
+  storyMapBoxCount = 0;
+
+</script>
+ 
+ 
+
+
+
+
+  
+
+
+
+
+<div id="assetsWrapper">
+  <div id="storyAssets">
+  
+  
+            <!-- No main media area -->
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+      
+
+
+  
+    
+      
+    
+  
+  
+
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+    
+          
+      
+  
+  
+  
+  
+              <div id="storyNonImageContentArea">
+            <h2 class="related_content_title">Related Content</h2>
+            <ul class="link_list"><li class="storyAssetSingle">
+ 
+<a href="http://www.dcf.state.fl.us/programs/cbc/cbcaccountability.shtml" class='external_link' target="_blank">http://www.dcf.state.fl.us/programs/cbc/cbcaccountability.shtml</a>
+ 
+</li>          
+      
+          </ul></div><!-- END id="storyNonImageContentArea" -->
+              
+  
+    <!-- no polls to display -->    
+           
+
+
+
+ 
+          
+  </div><!-- id="assetsWrapper" -->
+</div><!-- id="storyAssets" -->
+
+ 
+ 
+
+
+
+    
+
+</div><!-- end story-rail -->
+
+
+
+     
+     
+
+      
+    
+  
+
+
+       
+       
+
+  
+    
+  
+
+
+
+
+<h3 class="byline">By KELLI KENNEDY</h3>
+
+
+<!--  begin /production/story/credit_line_format.comp -->
+<h3 class = "credit_line">Associated Press</h3>
+<!--  end /production/story/credit_line_format.comp -->
+
+
+
+
+
+  <div id="storyBodyContent" class="entry-content">
+
+   
+
+
+
+
+ 
+
+
+    
+
+
+
+
+
+
+      <p>
+    <span class="dateline">MIAMI -- </span>  
+      Private contractors that receive hundreds of millions of dollars a year to oversee foster care in Florida scored poorly in ensuring proper medical, immunization and dental services for children, but ranked about average in most other areas, according to a report card issued Wednesday for the first time by the state child welfare agency.</p><p>The review is part of an effort to beef up oversight of the 20 providers that care for foster kids.</p><p>Since taking office in 2010, Department of Children and Families Secretary David Wilkins has repeatedly said improving accountability among the providers was a top priority and that he intended to include penalties for poor performance in the contracts going forward.      </p>
+
+  
+      <p>
+      The report cards ranked providers based on a variety of safety factors, including how many foster homes a child has been placed in during the past year, whether children are being visited every 30 days by a caseworker, and abuse rates of children who receive services at home instead of being placed in foster care.</p><p>Health and education standards, such as whether foster children are regularly seeing doctors or getting their GED or high school diploma, are also included.</p><p>The contractors' overall performance was mostly above the state's benchmarks, according to the scorecard first obtained by The Associated Press. But the contractors ranked poorly in ensuring that children were receiving medical, immunization and dental services, scoring a total average of 74 percent, compared to the state standard of 90 percent. It's an area that many states struggle with, even though foster children have health insurance through Medicaid and the state often pays for the child's transportation to medical appointments.</p><p>The state, which pays providers about $750 million a year altogether to care for roughly 20,000 foster children, also mentioned administrative costs in the report. Critics object that some CEOs had salaries higher than Wilkins and give large staff bonuses. Administrative costs ranged from 3.3 percent at the Community Partnership for Florida to 12 percent at the Family Integrity Program.</p><p>Wilkins said the comparisons will provide new insight and raise the bar for all providers.</p><p>"What has happened in this state for far too long is they have been independently owned and operated and they don't get the benefit of that collaboration," he said.</p><p>After Florida lawmakers voted to privatize foster care about a decade ago, the state has seen a decrease in the number of children in care and an increase in adoptions.</p><p>The number of children in foster care dropped 28 percent, from 42,325 in 2000-01 to 30,541 during the 2010 fiscal year. Adoptions jumped from 2,008 in the 2000-01 fiscal year when the state was in charge to 3,368 in 2010.</p><p>But Wilkins has repeatedly said the contracts were written without any bite or actions the agency can take if officials feel a provider isn't meeting standards. Wilkins said he intends to include more stringent penalties for poor performance in the contracts going forward and the scorecards will be one benchmark to help measure that.</p><p>"I have the obligations to report to taxpayers the efficiency of these dollars ... if that upsets a few people that's OK," he said.</p><p>Child advocates largely agree the system is better since privatization, but the state agency and its contractors have struggled to agree on effective ways to measure that and show solid data to back it up.    </p>
+
+    
+      </p>
+  </div>
+
+
+  <div class="shirttail">Online: http://www.dcf.state.fl.us/programs/cbc/cbcaccountability.shtml</div>
+   
+    <div id="page_controls" class="spill_navigation pagination">
+        <span class="fullstory"><a href="/2012/01/11/v-fullstory/2584557/fla-dcf-releases-contractor-report.html" rel="nofollow">Full Story</a></span><span class="spillPageNum currentpage">1</span> | <span class="spillPageNum"><a href="/2012/01/11/2584557_p2/fla-dcf-releases-contractor-report.html">2</a></span> | <span class="next"><a href="/2012/01/11/2584557_p2/fla-dcf-releases-contractor-report.html" rel="nofollow">Next <span class="textarrow">&raquo;</span></a></span>
+		  <div class="clear"></div>
+	  </div>
+
+ 
+
+   
+<div class="cf"></div>
+<div id="storyBodyBottom" class="cf">
+     <div class="storyBodyBottomDiv left">
+          <a href="http://miami.dealsaver.com/engine/SplashDetails.aspx?contestid=30552&productid=3545583&LID=2117"><img src="http://media.miamiherald.com/static/deals/dealsaver/images/250x90_dealsaver_20110911.gif" border="0"></a>     </div>
+     <div class="storyBodyBottomDiv right">
+           
+
+<div class="circPromoArea" style="clear:left">
+<div style="padding:1px 1px 20px 1px; float: left;"><a href="https://extra.herald.com/heraldsubscription/Index.aspx?promocode=WTVM"><img src="http://media.miamiherald.com/static/images/redesign/logos/circ072811.jpg" alt="The Miami Herald: Subscribe now!" width="300" height="90" border="0"></a>
+</div>
+</div>
+
+ 
+     </div>
+</div>
+
+ 
+
+   
+<div class="storyTools_footer">
+  <div class="storyShareTextBar">
+
+  <div class="shareLinksBuzzIframeArea">
+    <script src="http://digg.com/tools/diggthis.js" type="text/javascript"></script> 
+  </div>
+    <div class="shareLinksArea">
+      <ul class="shareLinks">
+        <li class="emailStoryLink"><a href="/2012/01/11/v-emailform/2584557/fla-dcf-releases-contractor-report.html" target="Email a Story" onClick="displayEmailForm(this.href); location.href='#storyBody'; return false;" rel="nofollow">email</a></li>
+  
+        <li class="printStoryLink"><a href="/2012/01/11/v-print/2584557/fla-dcf-releases-contractor-report.html" target = '_blank' rel="nofollow">print</a></li>
+  
+        <li class="addThisStoryLink">
+          <div class="addThisMiamiArea">
+            <div class="addthis_toolbox addthis_default_style">              <a 
+                href="http://addthis.com/bookmark.php?v=250&amp;pub=mianalytics"
+                addthis:url="http://www.miamiherald.com/2012/01/11/2584557_fla-dcf-releases-contractor-report.html#storylink=addthis"
+                class="addthis_button_compact"><img src="http://media.miamiherald.com/static/images/redesign/icons/story_level_multimedia/addthis_icon_21x21_rounded.gif" alt="" /> Share</a>
+              <!-- 
+              <span class="addthis_separator"> </span>
+              <a class="addthis_button_facebook"
+                addthis:url="http://www.miamiherald.com/2012/01/11/2584557_fla-dcf-releases-contractor-report.html#storylink=fbuser">Facebook</a>
+              <a class="addthis_button_twitter"
+                addthis:url="http://www.miamiherald.com/2012/01/11/2584557_fla-dcf-releases-contractor-report.html#storylink=twtuser">Twitter</a>    
+              <a class="addthis_button_email"
+                addthis:url="http://www.miamiherald.com/2012/01/11/2584557_fla-dcf-releases-contractor-report.html#storylink=email_msg"></a>
+              -->
+              <!--
+              <a class="addthis_button_buzz"
+                addthis:url="http://www.miamiherald.com/2012/01/11/2584557_fla-dcf-releases-contractor-report.html">buzz up!</a>
+              -->
+							<!--
+              <span class="addthis_separator"> </span>
+              <a class="addthis_button_facebook_like"></a>
+							-->
+            </div>
+          </div>
+        </li>
+
+        <!-- 
+        <li class="shareStoryLink"><a href="#" onclick="javascript: return false;" rel="nofollow">share</a></li>
+        -->
+
+<li class="shareStoryLinkTwtAdd"><a class="addthis_button_twitter" addthis:url="http://www.miamiherald.com/2012/01/11/2584557_fla-dcf-releases-contractor-report.html#storylink=twtuser"><img height="21" width="21" border="0" alt="Share to Twitter" src="http://media.miamiherald.com/static/images/redesign/icons/story_level_multimedia/twitter_icon_21x21_rounded.jpg" style="vertical-align: middle;"> Twitter</a></li>
+  
+         <!--<li class="shareStoryLinkTwt"><a class="twitter" href="http://twitter.com/home" onclick="javascript: window.open('http://twitter.com/share?url=' + encodeURIComponent('http://www.miamiherald.com/2012/01/11/2584557/fla-dcf-releases-contractor-report.html#storylink=twtuser') + '&text=' + encodeURIComponent(storyShareToolHeadline) + '&via=miamiherald', 'twitter','toolbar=no,width=700,height=400,resizable=yes,scrollbars=yes'); return false;" rel="nofollow">Twitter</a></li> -->
+
+        <li class="shareStoryLinkFb">
+        	 
+
+<div class="facebook_like_small">
+  <fb:like 
+    href="http://www.miamiherald.com/2012/01/11/2584557/fla-dcf-releases-contractor-report.html#storylink=fbuser" 
+    layout="button_count" 
+    show_faces="false" 
+    action="like" 
+    font="arial" 
+    colorscheme="light"></fb:like>
+</div>
+
+ 
+
+					<!--
+					<a class="facebook" href="http://www.facebook.com/sharer.php?u=http://www.miamiherald.com/2012/01/11/2584557/fla-dcf-releases-contractor-report.html#storylink=fbuser" onclick="javascript: window.open('http://www.facebook.com/sharer.php?u=http://www.miamiherald.com/2012/01/11/2584557/fla-dcf-releases-contractor-report.html#storylink=fbuser&title=' + encodeURIComponent(storyShareToolHeadline), 'facebook','toolbar=no,width=800,height=600,resizable=yes,scrollbars=yes'); return false;" rel="nofollow">Facebook</a>
+					-->
+					</li>
+
+      </ul>
+    </div>
+  </div>
+</div>
+ 
+
+
+  <div style="clear: both;"></div>
+
+<div id="storyFooter" class="cf">
+  <a name="comment"></a>
+  
+ 
+
+
+
+
+							
+			
+					 
+					 
+
+			<div id="pluck">
+				<script>var comment_headline=$('#storyBody > h1:first').text ();</script>
+				<div id="guidelines-wrap">
+                <h1>Join the discussion</h1>
+                <p>The Miami Herald is pleased to provide this opportunity to share information, experiences and observations about what's 	in the news. Some of the comments may be reprinted elsewhere in the site or in the newspaper. We encourage lively, open debate on the issues of the day, and ask that you refrain from profanity, hate speech, personal comments and remarks that are off point.  Thank you for taking the time to offer your thoughts. </p>
+                <p>We have introduced a new commenting system called Disqus for our articles.  This allows readers the option of signing in using their Facebook, Twitter, Disqus or existing MiamiHerald.com username and password.</p>
+                <p><a href="http://www.miamiherald.com/2010/11/10/1919430/commenting-on-miamiheraldcom.html" target="_blank"><strong><font color="#666666">Having problems? Read more about the commenting system on MiamiHerald.com</font></strong></a>.</p>
+                </div>
+<div id="comment_toggle" class="hide" style="position: relative;">
+<span class="hide"><img src="http://media.miamiherald.com/static/images/comments/hide_comments_btn.gif" alt="Hide Comments" /></span>
+<span class="show" style="display: none;"><img src="http://media.miamiherald.com/static/images/comments/show_comments_btn.gif" alt="Show Comments" /></span>
+
+<div id="comment_bubble">
+<p>This affects comments on all stories.</p>
+<img class="cancel" src="http://media.miamiherald.com/static/images/comments/comment-cancel-btn.png" alt="Cancel" />
+<img class="ok" src="http://media.miamiherald.com/static/images/comments/comment-ok-btn.png" alt="OK" />
+</div>
+
+</div>
+
+
+  
+   
+
+<a id="commentCount" href="http://www.miamiherald.com/2012/01/11/2584557/fla-dcf-releases-contractor-report.html">0 comments</a>
+
+<script>mi.commenting.displayCommentCount();</script>
+
+ 
+  
+
+
+
+  
+   
+
+<div id="commentingStage"></div><script>mi.commenting.display();</script>
+
+ 
+  
+
+
+			</div>
+
+ 
+
+			
+		
+
+
+
+ 
+
+
+</div><!-- end story-footer -->
+  <div class="storyYahooContentMatch">
+     
+
+
+	
+ 
+
+<script type="text/javascript">
+
+
+//Required Parameters
+    ctxt_ad_config = '1001507650';     //unique numeric partner id
+    ctxt_ad_source = 'npc_mcclatchy_miamiherald_t2_ctxt';     //provided by Account Manager
+    ctxt_ad_interface = 'http://cm.npc-mcclatchy.overture.com/js_1_0/';     
+    ctxt_ad_width = 420;     //width of the displayed ad block
+    ctxt_ad_height = 150;     //height of the displayed ad block
+
+//Context Parameters
+    ctxt_ad_url = window.location.href.split('?')[0].split('#')[0];     //context URL
+    ctxt_ad_url_cat = 'news';     //fallback category name
+    ctxt_ad_id = 'news';     //context ID name
+    ctxt_ad_keywords = '';     //keywords (URL safe values only)
+    ctxt_ad_oe = 'latin1';     //output character encoding
+
+//Type Tag
+    ctxt_ad_type = 'news';     //tag for reports--can be ctxt_ad_section
+//Click Wrapper
+    ctxt_ad_cw = '';     //click wrapper URL
+//Display Parameters
+    //ctxt_ad_bc = '000000';     //cell border color
+    //ctxt_ad_cc = 'ffffff';     //cell background color
+    //ctxt_ad_lc = '000000';     //ad text-title color
+    //ctxt_ad_tc = 'a3a3a3';     //ad text-description color
+    //ctxt_ad_uc = 'a3a3a3';    //ad text-sitehost color
+    ctxt_ad_css = 'http://media.miamiherald.com/static/styles/redesign/yahoo.css';     //stylesheet URL--can be ctxt_url_css
+    ctxt_ad_newwin = '1';     //new window for results
+</script>
+
+ 
+
+
+<script type="text/javascript">
+<!--
+//Required Parameters
+    ctxt_ad_source = 'npc_mcclatchy_miamiherald_t2_ctxt';     //provided by Account Manager
+
+//Context Parameters
+    ctxt_ad_url_cat = 'news';     //fallback chategory name
+    ctxt_ad_id = 'news';     //contect ID name
+                  
+//Type Tag
+    ctxt_ad_type = 'news';     //tag for reports--can be ctxt_ad_section
+-->
+</script>
+<script language="javascript" src="http://cm.npc-mcclatchy.overture.com/partner/js/ypn.js"></script>
+
+
+ 
+
+  </div>
+
+<!-- hnews: license -->
+<!-- start: templates/hnews/itemlicense.ett  --><div id="item-license" style="display:none;" >
+    <a rel="item-license" href="http://www.miamiherald.com/terms-of-service">
+    Copyright 2012 . All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a>
+</div><!-- end: templates/hnews/itemlicense.ett  -->
+
+<!-- start: templates/hnews/usage_tag.ett  -->
+
+<!-- no hnews usage tag beacon: apregistry.story.owner ==  -->
+<!-- end: templates/hnews/usage_tag.ett -->
+
+</div>
+
+     
+
+          <div class="rightrail">
+               
+                
+
+<style type="text/css">
+#mi_yahoo_preamble {font-size:10px;}
+* html #mi_yahoo_preamble {font-size:9px;}
+</style>
+<form method="get" action="/search_results" name="miSearchForm">
+	<div class="search">
+		<span class="search_option" style="padding: 0px; margin: 0px 4px 0 0;"><input type="radio" name="aff" value="1100" checked="checked" class="radio" style="padding: -5px; margin: 0px;"/><label for="pd_search" style="letter-spacing: -1px; padding: 0px; margin: 0px;">Miami Herald</label></span>								
+		<span class="search_option" style="padding: 0px; margin: 0px;"><input id="search_web" class="radio" type="radio" value="web_search" name="aff" style="padding: 0px; margin: 0px;"/><span id="mi_yahoo_preamble" style="font-family:arial,helvetica,sans-serif;">Web Search powered by</span><span class="yahoo" style="letter-spacing: -2px">YAHOO!</span><span id="mi_yahoo_post" style="letter-spacing: -2px">SEARCH</span></span>	
+		<br />
+		<span class="search_option"><input type="text" name="q" id="keywords" /></span>	
+		<span class="search_option">
+<input id="submit-search" type="submit" value="&nbsp;" /></span>	
+<span id="searchInputContainer"></span>
+</div>
+</form>
+<script type="text/javascript">
+   mi.search.searchParamConfig();
+   mi.search.checkOption();
+   document.miSearchForm.onsubmit = function () {
+       return mi.search.submitForm();
+   }
+</script>
+
+<div class="topsearches"><span class="red">Search:</span> <a href="http://www.miamiherald.com/living/horoscopes/#navlink=navbarql">Horoscopes</a> | <a href="http://www.miamiherald.com/entertainment/comics/#navlink=navbarql">Comics &amp; Games</a> | <a href="http://www.miamifly.net/watchdog/datasleuth/#navlink=navbarql">Data Sleuth</a> </div>
+
+ 
+
+  <!-- /news/florida/AP --> 
+<div class="advertisement ts_pubsys_production_story_story_sidebar dart3" id="dart_300x250_bts_1">
+<!-- templates/ads/dart_call.ett :start v.15690 -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.mia00/News/State;atf=N;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=300x250;tile=5;!c=news;pub=MiamiHerald;ord=284335211858210' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.mia00/News/State;atf=N;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=300x250;tile=5;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mia00/News/State;atf=N;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=300x250;tile=5;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
+
+
+</div><!-- /.advertisement ts_pubsys_production_story_story_sidebar -->                     
+                          <div class="advertisement ts_pubsys_production_story_story_sidebar yahoo" id="yahoo_300x250_ipstf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_5");}
+--></script>
+
+</div><!-- /.advertisement ts_pubsys_production_story_story_sidebar -->
+ 
+
+
+ 
+
+  <!-- /news/florida/AP --> 
+<div class="advertisement ts_pubsys_production_story_story_sidebar dart3" id="dart_300x250_bts_2">
+<!-- templates/ads/dart_call.ett :start v.15690 -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.mia00/News/State;atf=N;dcove=d;pl=story;sect=FloridaWires;pos=2;sz=300x250;tile=6;!c=news;pub=MiamiHerald;ord=284335211858210' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.mia00/News/State;atf=N;dcove=d;pl=story;sect=FloridaWires;pos=2;sz=300x250;tile=6;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mia00/News/State;atf=N;dcove=d;pl=story;sect=FloridaWires;pos=2;sz=300x250;tile=6;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
+
+
+</div><!-- /.advertisement ts_pubsys_production_story_story_sidebar -->                     
+                          <div class="advertisement ts_pubsys_production_story_story_sidebar yahoo" id="yahoo_300x250_ipbtf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6");}
+--></script>
+
+</div><!-- /.advertisement ts_pubsys_production_story_story_sidebar -->
+ 
+
+
+    
+
+<div id="dealSaverWidget" style="display:none;">
+  <div class="revWidgetWrap" id="dealsaver_td">
+    <h2><a class="ds_dealtitle" href="#">Get the Deal!</a></h2>
+    <div class="revWidgetContent">
+      <div class="dsDetails">
+        <h3 class="ds_deal_title">
+          <a class="ds_title_link" href="#"></a>
+        </h3>
+        <div>
+          <div class="ds_deal_image">
+            <a href="#"><img></a>
+          </div>
+          <div class="ds_buycontainer">
+            <div class="ds_pricetag">
+                <div class="ds_pricetag_container"></div>
+              <a href="#"><img class="ds_buynow" src="http://media.miamiherald.com/static/dealsaver/widget/images/buynow_button.gif" border="0"></a>
+            </div>
+            <div id="ds_vdy_headers">
+              <div id="ds_value_header">Value:</div>
+              <div id="ds_discount_header">Discount:</div>
+              <div id="ds_save_header">You Save:</div>
+            </div>
+            <div id="ds_vdy_results">
+              <div id="ds_value"></div>
+              <div id="ds_discount"></div>
+              <div id="ds_save"></div>
+            </div>
+          </div>
+          <div id="ds_logo">
+            <a href="#" class="ds_logo_link"><img src="http://media.miamiherald.com/static/dealsaver/widget/images/dealsaver_td_logo.png" alt="dealsaver" border="0"></a>
+          </div>
+          <div class="ds_clearall"></div>
+        </div>
+      </div>
+    </div>
+    <div class="ds_clearall"></div>
+    <div class="revWidgetContent">
+        <div id="ds_signup">
+          <iframe scrolling="auto" frameborder="0" marginheight="0" marginwidth="0" hspace="0" vspace="0" style="width:275px;height:100px;" src="http://affiliates.eblastengine.com/Widgets/EmailSignup.aspx?wcguid=4F5A3BD8-53A8-4F49-ACA7-80493AFEC593&amp;height=100&amp;width=275"></iframe>
+        </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+
+  if (typeof(mi.DealSaver) !== 'undefined') {
+    mi.dealSaver = new mi.DealSaver();
+  }
+
+  jQuery(document).ready(function() {
+    mi.dealSaver.executeDs();
+  });
+
+</script>
+
+
+<script type="text/javascript">
+mi.dealSaver.setConf("LID",680);
+</script> <br/>
+ 
+
+<script  type="text/javascript">
+/* This function loads the more stories page via AJAX if SSI fails */
+function listLoad(elem,url) {
+   err = "[an error occurred while processing this directive]";
+   if($("#"+elem).html().indexOf(err) > 0) {
+       $("#"+elem).load(url);
+   }
+}
+</script>
+
+
+
+<div class="popular">
+<div class="panelnav blue">
+   <ul>
+    	<li><h2 class="noborder">More 
+
+
+Florida Wires</h2></li>
+   </ul>
+</div>
+<div id="virinc" style="padding:0; margin:0;">
+ 
+
+<h3>Florida Wires</h3>            <ul id='lr_morestories'> <li> 
+
+      <a href="/2012/01/12/2585923/florida-lotto-jackpot-rises-to.html">Florida Lotto jackpot rises to $4 million</a>
+
+ 
+</li>  <li> 
+
+      <a href="/2012/01/12/2585868/would-be-intruder-shot-killed.html">Would-be intruder shot, killed in central Fla.</a>
+
+ 
+</li>  <li> 
+
+      <a href="/2012/01/12/2585842/principal-faces-charges-stemming.html">Principal faces charges stemming from hypnosis</a>
+
+ 
+</li>  <li> 
+
+      <a href="/2012/01/12/2585826/boy-struck-killed-by-truck-driven.html">Boy struck, killed by truck driven by sister</a>
+
+ 
+</li>  <li> 
+
+      <a href="/2012/01/12/2585799/uf-student-injured-when-chemistry.html">UF student injured when chemistry lab explodes</a>
+
+ 
+</li>  <li> 
+
+      <a href="/2012/01/12/2585796/miami-dade-cop-shoots-kills-dog.html">Miami-Dade cop shoots, kills dog that bit him</a>
+
+ 
+</li> </ul>        
+<div>
+<a href = "http://www.miamiherald.com/news/florida/AP/index.html">More</a>
+</div>
+
+ 
+</div>
+</div>
+<script  type="text/javascript">
+listLoad('virinc','/775/v-morestories/index.html');
+</script>
+
+ 
+			
+ 
+
+<div id="storyRailVideo">
+	<div class="panelnav green">
+	   <ul>
+	    	<li><h2 class="noborder">Videos</h2></li>
+	   </ul>
+	</div>
+	<div id="storyRailVideoListArea">
+
+	<script type="text/javascript">
+/*********************
+ * Load the video Rail content
+ */
+
+		function loadVideoRailEmbed(){
+			var flashvars = {};
+			flashvars.genre = "4216";
+			var params = {};
+			params.quality = "best";
+			params.allowfullscreen = "true";
+			params.allowscriptaccess = "always";
+			params.wmode = "transparent";
+			var attributes = {};
+			swfobject.embedSWF(getFlashGalleryURL("StoryLevel-VideoPromo"), "videoPromoContent", "300", "275", "9.0.0", false, flashvars, params, attributes);
+
+			$(document).ready(function(){
+				if ($('#videoPromoContent #videoPromoContent_noFlash').html() != '') {
+					$('#videoPromoContent .storyAssetMediaLoadingImage').hide();
+					$('#videoPromoContent #videoPromoContent_noFlash').css('display','block');
+				}
+			});
+		}
+		
+		$(document).ready(function(){
+			loadVideoRailEmbed();
+		});
+	</script>
+
+		<div id="videoPromoContent">
+			<div class="storyAssetMediaLoadingImage"><img alt="Loading..." src="/static/images/redesign/ajax-loader_media-assets.gif"/></div>
+			
+			<div id="videoPromoContent_noFlash" class="getFlashPlayer" style='display:none;'>
+				<a href="http://www.adobe.com/go/getflashplayer" target="_blank">
+					<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+				</a>
+			</div>
+		</div>          
+	</div>
+</div>			
+
+ 
+
+ 
+
+<div class="popular"> 
+<div class="panelnav green"> 
+   <ul> 
+        <li><h2 class="noborder">VIDEO FROM OUR PARTNERS</h2></li> 
+   </ul> 
+</div> 
+<h3 style="kicker">NDN VIDEO</h3>
+<div class="textwidget" id="ndn_sliding_launcher">
+                <script
+                                type="text/javascript"
+                                src="http://embed.newsinc.com/TopPicks/embed.js?&wid=1675&cid=507&freewheel=90045&sitesection=miamiherald__us_non_sty&parent=ndn_sliding_launcher">
+                </script>
+</div>
+
+</div>
+ 
+<div class="popular"> 
+	<div class="panelnav blue"> 
+	   <ul> 
+	        <li><h2 class="noborder">On Facebook</h2></li> 
+	   </ul> 
+	</div> 
+  <fb:like-box 
+    href="href=http://www.miamiherald.com/2012/01/11/2584557/fla-dcf-releases-contractor-report.html#storylink=fblike" 
+		profile_id="38925837299"
+		connections="10"
+		header="true"
+		stream="false"></fb:like-box>
+	
+  <fb:recommendations 
+	  site="miamiherald.com" 
+		header="true" 
+		colorscheme="light" 
+		font="arial" 
+		border_color=""></fb:recommendations>
+	
+</div>
+<div style="display:none"> </div>
+
+  
+
+ 
+
+<div id="jobSearch">
+				<form action="http://www.careerbuilder.com/JobSeeker/Jobs/JobResults.aspx" method=get>
+				<input type="hidden" name="lr" value="cbcb_mh">
+
+				<input type="hidden" name="siteid" value="cb_mh003">
+				<input type=hidden name=use value=all>
+<div class="panelnav red">
+   <ul>
+    	<li><h2 class="noborder">Quick Job Search</h2></li>
+   </ul>
+</div>
+				<div style="padding-left:10px;">
+
+                                <span class="label">Enter Keyword(s)</span>
+				<input class="text" type="text" maxlength="256" name="mxjobsrchcriteria_rawwords" value="" tabindex="1" onFocus="doClear(this);">
+				
+                                <span class="label">Enter City</span>
+				<input class="text"  type="text" name=mxjobsrchcriteria_city value="" tabindex="2" onFocus="doClear(this);">
+				
+	<span class="label">Select a State</span>
+				<select name="mxjobsrchcriteria_state" size="1" tabindex="3">
+				<option value="ALL, US">&nbsp;&#150;&nbsp;All United States&nbsp;&#150;&nbsp;</option>
+				<option value="AL, US">Alabama</option>
+				<option value="AK, US">Alaska</option>
+				<option value="AZ, US">Arizona</option>
+				<option value="AR, US">Arkansas</option>
+
+				<option value="CA, US">California</option>
+				<option value="CO, US">Colorado</option>
+				<option value="CT, US">Connecticut</option>
+				<option value="DE, US">Delaware</option>
+				<option value="DC, US">District of Columbia</option>
+				<option value="FL, US">Florida</option>
+
+				<option value="GA, US">Georgia</option>
+				<option value="HI, US">Hawaii</option>
+				<option value="ID, US">Idaho</option>
+				<option value="IL, US">Illinois</option>
+				<option value="IN, US">Indiana</option>
+				<option value="IA, US">Iowa</option>
+
+				<option value="KS, US">Kansas</option>
+				<option value="KY, US">Kentucky</option>
+				<option value="LA, US">Louisiana</option>
+				<option value="ME, US">Maine</option>
+				<option value="MD, US">Maryland</option>
+				<option value="MA, US">Massachusetts</option>
+
+				<option value="MI, US">Michigan</option>
+				<option value="MN, US">Minnesota</option>
+				<option value="MS, US">Mississippi</option>
+				<option value="MO, US">Missouri</option>
+				<option value="MT, US">Montana</option>
+				<option value="NE, US">Nebraska</option>
+
+				<option value="NV, US">Nevada</option>
+				<option value="NH, US">New Hampshire</option>
+				<option value="NJ, US">New Jersey</option>
+				<option value="NM, US">New Mexico</option>
+				<option value="NY, US">New York</option>
+				<option value="NC, US">North Carolina</option>
+
+				<option value="ND, US">North Dakota</option>
+				<option value="OH, US">Ohio</option>
+				<option value="OK, US">Oklahoma</option>
+				<option value="OR, US">Oregon</option>
+				<option value="PA, US">Pennsylvania</option>
+				<option value="RI, US">Rhode Island</option>
+
+				<option value="SC, US">South Carolina</option>
+				<option value="SD, US">South Dakota</option>
+				<option value="TN, US">Tennessee</option>
+				<option value="TX, US">Texas</option>
+				<option value="UT, US">Utah</option>
+				<option value="VT, US">Vermont</option>
+
+				<option value="VA, US">Virginia</option>
+				<option value="WA, US">Washington</option>
+				<option value="WV, US">West Virginia</option>
+				<option value="WI, US">Wisconsin</option>
+				<option value="WY, US">Wyoming</option>
+				</select>
+				
+<span class="label">Select a Category</span>
+				<select name=MXJOBSRCHCRITERIA_JobTypes size=1 tabindex="4">
+				<option value=>&nbsp;&#150;&nbsp;All Job Categories&nbsp;&#150;&nbsp;</option>
+				<option value=JN001>Accounting</option>
+				<option value=JN002>Admin & Clerical</option>
+				<option value=JN054>Automotive</option>
+				<option value=JN038>Banking</option>
+
+				<option value=JN053>Biotech</option>
+				<option value=JN047>Broadcast - Journalism</option>
+				<option value=JN019>Business Development</option>
+				<option value=JN043>Construction</option>
+				<option value=JN020>Consultant</option>
+				<option value=JN003>Customer Service</option>
+
+				<option value=JN021>Design</option>
+				<option value=JN027>Distribution  - Shipping</option>
+				<option value=JN031>Education</option>
+				<option value=JN004>Engineering</option>
+				<option value=JN022>Entry Level</option>
+				<option value=JN018>Executive</option>
+
+				<option value=JN017>Facilities</option>
+				<option value=JN005>Finance</option>
+				<option value=JN006>General Business</option>
+				<option value=JN051>General Labor</option>
+				<option value=JN046>Government</option>
+				<option value=JN023>Health Care</option>
+
+				<option value=JN040>Hotel - Hospitality</option>
+				<option value=JN007>Human Resources</option>
+				<option value=JN008>Information Technology</option>
+				<option value=JN034>Insurance</option>
+				<option value=JN015>Inventory</option>
+				<option value=JN030>Legal</option>
+
+				<option value=JN041>Legal Admin</option>
+				<option value=JN037>Management</option>
+				<option value=JN029>Manufacturing</option>
+				<option value=JN009>Marketing</option>
+				<option value=JN050>Nurse</option>
+				<option value=JN010>Other</option>
+
+				<option value=JN049>Pharmaceutical</option>
+				<option value=JN024>Professional Services</option>
+				<option value=JN016>Purchasing -  Procurement</option>
+				<option value=JN025>QA - Quality Control</option>
+				<option value=JN026>Research</option>
+				<option value=JN035>Restaurant - Food Service</option>
+
+				<option value=JN033>Retail - Grocery</option>
+				<option value=JN011>Sales</option>
+				<option value=JN012>Science</option>
+				<option value=JN013>Skilled Labor - Trades</option>
+				<option value=JN028>Strategy - Planning</option>
+				<option value=JN014>Supply Chain</option>
+
+				<option value=JN048>Telecommunications</option>
+				<option value=JN032>Training</option>
+				<option value=JN044>Transportation</option>
+				<option value=JN045>Warehouse</option>
+				</select>
+				
+				<div align="center"><input type="image" src="http://media.miamiherald.com/images/redesign/search_button.gif" value="Search" id="submit" class="x" name="submit">
+<br/>
+<a class="bullet" href="http://www.careerbuilder.com/jobseeker/jobs/jobfindadv.aspx?lr=cbcb_mh&siteid=cbcb_mh003">
+<strong>Advanced Job Search</strong></a>
+<br/>
+<a href="http://www.careerbuilder.com/jobseeker/companies/companysearch.aspx?lr=cbcb_mh&siteid=cbcb_mh003">
+Search by Category</a>
+<br/>
+<a href="http://www.careerbuilder.com/?lr=cbcb_mh&sc_cmp2=JS_Nav_Home&ff=21"><img src="http://media.miamiherald.com/images/redesign/cb_logo.gif" alt="Careerbuilder.com" /></a>
+</div>
+				</div>
+				</form>            
+			</div>
+
+ 
+
+ 
+
+          </div> 
+    </div>
+
+      <div id="footer" class="cf">
+
+
+
+                 
+
+
+           
+
+<script type="text/javascript">if(typeof gomez != "undefined" && gomez.nameEvent){gomez.nameEvent("Starting Footer");}</script>
+
+<div id="footernav" class="cf">
+<ul class="top cf">
+<li class="f"><a href="/news/" onmouseover="$('#footernav ul li.f').css({ backgroundPosition:'0 100%'});" onmouseout="$('#footernav ul li.f').css({ backgroundPosition:'0 0'});">News</a></li>
+<li><a href="/sports/">Sports</a></li>
+<li><a href="/entertainment/">Entertainment</a></li>
+<li><a href="/business/">Business</a></li>
+<li><a href="/living/">Living</a></li>
+<li><a href="/opinion/">Opinion</a></li>
+<li><a href="/classifieds/">Classifieds</a></li>
+<li class="end"><a id="ser" href="/services/">Services</a></li>
+<li class="expander"><a class="expander" href="#fnav">Site Map</a></li>
+</ul>
+<div id="fnav" class="cf">
+<!-- footer.html loads here test-->
+</div>
+</div>
+
+<div id="footerlinks" class="cf">
+<p class="services">
+<a href="/rss/"><img src="http://media.miamiherald.com/images/icons/rss14px.png" border="0">
+ RSS</a><span>|</span>
+<a href="/rss/ "> <img src="http://media.miamiherald.com/images/addtomyy.gif" border="0"> My Yahoo</a><span>|</span>
+<a href="/reg-bin/tint.cgi?mode=edit&version=newsletter ">Newsletters</a><span>|</span>
+<a href="/about-us/services/mobile/">Mobile</a><span>|</span>
+<a href="http://www.localwireless.com/wireless/signup.cfm?sid=1007&pageid=textalert1_main ">Alerts</a><span>|</span>
+<a href="http://www.miamiherald.com/twitter/">Twitter</a>
+
+
+</p>
+<p>
+<a href="/terms_of_service">Terms of Service</a><span>|</span>
+<a href="/privacy_policy">Privacy Policy</a><span>|</span>
+<a href="/privacy_policy#behavioral_targeting">About our ads</a><span>|</span>
+<a href="/copyright">Copyright</a><span>|</span>
+<a href="/about_us/">About The Miami Herald</a><span>|</span>
+<a href="http://www.mcclatchy.com/">About the McClatchy Company</a><span>|</span>
+<a href="/corrections/">Corrections</a><span>|</span>
+<a href="/contact-us/ ">Contact Us</a><span>|</span>
+<a href="http://www.miamiheraldadvertising.com">Advertise</a><span>|</span>
+<a href="http://www.careerbuilder.com/Jobs/Company/CCBCONVXXXXX423122/Miami-Herald-Media-Company/">Work  for Us</a>
+</p>
+<p class="aboutmh">
+<strong>Partners: </strong>
+<a href="http://www.elnuevoherald.com/">El Nuevo Herald</a><span>|</span>
+<a href="http://www.miamiherald.com/nie">Newspaper in Education</a><span>|</span>
+<a href="http://www.miamiherald.com/wlrn/">WLRN | Miami Herald News</a><span>|</span>
+<a href="http://cbs4.com/">CBS4 WFOR-TV</a><span>|</span>
+<a href="http://www.miamiherald.com/partners">More</a> 
+</p>
+
+<span class="copy"><a href="http://www.miamiherald.com/copyright/index.html" title="Copyright">Copyright 2012 Miami Herald Media Co. All rights reserved</a></span>
+</div>
+
+
+ 
+
+
+
+		 
+		 
+
+
+
+		 
+
+	<div id="nyxAbuseRptForm" class="ReportAbuse_Container" style="display: none;">
+		<div class="ReportAbuse_SectionHead">
+			<span style="float: left;">Report comment as: (required)</span>
+			<a href="javascript: void(0)" onclick="document.getElementById('nyxAbuseRptForm').reporter.hideForm()">X</a>
+		</div>
+		<div class="ReportAbuse_Interior">
+			<select id="nyxAbuseRptForm_reason">
+				<option value="Obscenity/vulgarity">Obscenity/vulgarity</option>
+				<option value="Hate speech">Hate speech</option>
+				<option value="Personal attack">Personal attack</option>
+				<option value="Advertising/Spam" selected="selected">Advertising/Spam</option>
+				<option value="Copyright/Plagiarism">Copyright/Plagiarism</option>
+				<option value="Other">Other</option>
+			</select>
+		</div>
+		<div class="ReportAbuse_SectionHead">
+			Remarks: (optional)
+		</div>
+		<div class="ReportAbuse_Comment">
+			<textarea id="nyxAbuseRptForm_comment" onkeyup="return LimitLength(this, 500);"></textarea>
+			<input onclick="document.getElementById('nyxAbuseRptForm').reporter.report()" value="Report" type="button" />
+		</div>
+	</div>
+
+ 
+	
+
+ 
+
+
+ 
+
+
+
+
+	<!-- Pluck Disabled --> 
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+    
+    <a name="floorboard_anchor"></a><!-- /shared/ads/floorboard.comp -->
+
+    <!-- start: floor board ad -->
+     
+
+  <!-- /news/florida/AP --> 
+<div class="advertisement floorboard shared-footer_test dart3" id="dart_285x70_ats_1">
+<!-- templates/ads/dart_call.ett :start v.15690 -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=285x70;tile=7;!c=news;pub=MiamiHerald;ord=284335211858210' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=285x70;tile=7;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mia00/News/State;atf=Y;dcove=d;pl=story;sect=FloridaWires;pos=1;sz=285x70;tile=7;!c=news;pub=MiamiHerald;ord=284335211858210;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
+
+
+</div><!-- /.advertisement floorboard shared-footer_test -->                     
+                          <div class="advertisement floorboard shared-footer_test yahoo" id="yahoo_285x70_ipatf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_7");}
+--></script>
+
+</div><!-- /.advertisement floorboard shared-footer_test -->
+ 
+
+    <script language="JavaScript" type="text/javascript">
+
+        /* floor board ad script to control whitespace  */
+
+        // $('div[name^=adx_ldo0_]').ready(function() {
+            $(document).ready(function() {
+                // executes when HTML-Document is loaded and DOM is ready
+
+                // don't animate because focus of browser window changes
+                $('div[name^=adx_ldo0_]').ready(function() {
+                    $('body').css('margin-bottom', '110px');
+                });
+        });
+
+        // IMPORTANT: executes when complete page is fully loaded, including all frames, objects and images
+        // meaning, we can't bind click for the ad until after the window.load
+        $(window).load(function() {
+            $('div[name=adx_al]').bind('click', function() {
+                /* keep this scoped inside of he click */
+                var $curMarg = $('body').css('margin-bottom').replace("px", "");
+                $curMarg = ($curMarg == 30) ? 110 : 30;
+                $('body').css('margin-bottom', $curMarg + 'px');
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        var mi = (!mi) ? {'media_domain':''} : mi;
+
+        mi.floorAd = function( container ) {
+
+            //get needed objects
+            this.container = $(container).length ? $(container) : '';
+            this.wrapper = $(container + ' #floorboard-wrapper');  //wrapper div for centering
+
+            this.mainImg = $(container + ' img:eq(0)');  //main image
+            this.mainWidth = this.mainImg.width();  //main image width
+            this.mainHeight = this.mainImg.height();  //main image height
+
+            this.leaveImg = $(container + ' img:eq(1)');  //leave behind image
+            this.leaveHeight = this.leaveImg.height();  //leave behind height
+
+            this.closeLink = $(container + ' map[name="floorclosemap"]  area');  //get area link(s?) for close button
+            this.openLink = $(container + ' map[name="flooropenmap"] area');  //get area link(s?) for open button
+
+            if (this.container !== ''){
+
+              this.container.css({'position' : 'fixed',
+                                             'text-align' : 'left',
+                                             'bottom' : '0',
+                                             'right' : '0',
+                                             'left' : '0'});
+
+// stick the footer at the bottom of the page if we're on an iPad/iPhone due to viewport/page bugs in mobile webkit
+// alert( "navigator.platform = " + navigator.platform);
+// ** REMOVE **** iPhone references once iOS 5 releases with a fix for this issue (check Chrome mobile webkit)
+if(navigator.platform == 'iPad' || navigator.platform == 'iPhone' || navigator.platform == 'iPod' || navigator.platform == 'Linux armv7l') {
+    this.container.css("position", "static");
+};
+
+              this.wrapper.css({'width' : this.mainWidth + 'px',
+                                             'text-align' : 'left',
+                                            'margin' : '0 auto'})
+
+               if (this.mainImg !== ''){
+
+                this.mainImg.css({'position' : 'absolute',
+                                              'border' : '0',
+                                              'bottom' : (-1 * this.mainHeight),
+                                              'z-index' : '2147483647'});
+
+                   //set up close button if leave behind exists
+                   if(this.leaveImg !== '' && this.closeLink !== ''){
+
+                       this.leaveImg.css({'visibility' : 'hidden',
+                                                      'border' : '0',
+                                                      'position' : 'absolute',
+                                                      'bottom' : (-1 * this.leaveHeight),
+                                                      'z-index' : '2147483647'});
+
+                       this.closeLink.click(function() {
+                                                           //dostuff
+                                                          $(container + ' img:eq(1)').css({'visibility' : 'visible',
+                                                                                                             'bottom' : (-1 * $(container + ' img:eq(0)').height())});
+                                                          $(container + ' img:eq(0)').animate({'bottom' : (-1 * $(container + ' img:eq(0)').height())});
+                                                          $('body').animate({'margin-bottom' : $(container + ' img:eq(1)').height()});
+                                                          $(container + ' img:eq(1)').animate({'bottom' : '0'});
+                                                       });
+
+                       //set up open button if it exists
+                       if(this.openLink != ''){
+                           this.openLink.click(function() {
+                                                               //dostuff
+                                                              $(container + ' img:eq(1)').animate({'bottom' : (-1 * $(container + ' img:eq(1)').height())});
+                                                              $(container + ' img:eq(0)').animate({'bottom' : '0'});
+                                                              $('body').animate({'margin-bottom' : $(container + ' img:eq(0)').height()});
+                                                            });
+                       }
+                   }
+
+                   //animate main image into view
+                  $(document).ready(function() {
+                      $(container + ' img:eq(1)').css({'bottom' : (-1 * $(container + ' img:eq(1)').height())});;
+                      $(container + ' img:eq(0)').animate({'bottom' : '0'});
+                      $('body').css({'margin-bottom' : $(container + ' img:eq(0)').height()});
+                  });
+               }
+               else{
+                  console.warn("No floor ad images to display");
+               }               
+            }
+            else{
+               console.warn( "Slide ad cannot be instantiated. "+container+" does not exist." );
+            }
+        };
+</script>
+
+<script type="text/javascript"> var floorAd = new mi.floorAd('#floorboard-ad');</script>
+    <!-- end: floor board ad -->
+
+
+
+
+
+
+
+
+
+
+      </div> 
+    
+    </div> 
+    
+    </div> 
+<span class="round_bottom"><span></span></span></div> 
+
+ 
+<script src="http://media.miamiherald.com/static/scripts/mi/utility_lib.js" type="text/javascript"></script>
+
+ 
+
+    <!-- overridden analytics setup -->
+     
+
+<div id="mistatstag" style="display:none;">        
+<!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
+
+<!-- site specific file already loaded -->
+<script language="JavaScript" type="text/javascript" src="http://media.miamiherald.com/mistats/products/pubsys_s_code.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+measure_popularity=true;
+mistats.msr = 'MIA|MA';
+mistats.cmsid='GUID: 553263044769906200 | Story: 2584557';
+mistats.pagelevel='Story';
+mistats.pagename='Story: 2584557|Fla. DCF releases 1st foster care report card';
+mistats.version='1.0|';
+mistats.taxonomy='News|State|||';
+mistats.channel='Florida Wires';
+mistats.adposition='';
+
+mistats.popular='775|2584557|http://www.miamiherald.com/2012/01/11/2584557_fla-dcf-releases-contractor-report.html';
+mistats.popstoryurl='http://www.miamiherald.com/2012/01/11/2584557_fla-dcf-releases-contractor-report.html';
+mistats.popstoryheadline='2584557|Fla. DCF releases 1st foster care report card';
+mistats.contentsource='ap_state_fl|AP State|Associated Press|By KELLI KENNEDY';
+mistats.pubdate='2012/01/11';
+mistats.moddate='2012/01/11 H14';
+mistats.keywords='FL,DCF,Contractor,Report,Card';
+
+
+
+
+-->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://media.miamiherald.com/mistats/products/pubsys.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.miamiherald.com/mistats/finalizestats.js"></script>
+
+<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmmiami%2F1%2FH.10--NS%2F0%3FpageName%3DStory%3A%202584557%7CFla.%20DCF%20releases%201st%20foster%20care%20report%20card&server%3Dwww.miamiherald.com&channel%3DFlorida%20Wires&c1%3Dhttp%26%2358%3B%26%2347%3B%26%2347%3Bwww.miamiherald.com%26%2347%3B2012%26%2347%3B01%26%2347%3B11%26%2347%3B2584557_fla-dcf-releases-contractor-report.html&c3%3DStory&c4%3Dap_state_fl%7CAP%20State%7CAssociated%20Press%7CBy%20KELLI%20KENNEDY&c6%3DMIA%7CMA&c28%3D&h1%3DMIA%7CMIAMIHERALD%7CNews%7CState%7C%7C%7C%7CFlorida%20Wires" height="1" width="1" border="0" alt="" /></noscript>
+<!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
+</div>
+ 
+
+
+ 
+
+<div id="MI_post_load" style="display:none;">
+
+
+
+</div>
+
+ 
+
+
+<!-- cal_name: FALSE -->
+
+
+</body>
+</html>
+ 

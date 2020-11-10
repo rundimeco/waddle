@@ -1,0 +1,636 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>江蘇執行基本藥物新目錄 價格平均再降3成(圖)-兩岸新聞-新浪新聞中心</title>
+<meta name="title" content="江蘇執行基本藥物新目錄 價格平均再降3成(圖)-兩岸新聞-新浪新聞中心" />
+<meta name="description" content="江蘇執行基本藥物新目錄 價格平均再降3成(圖)" />
+<meta name="keywords" content="江蘇執行基本藥物新目錄 價格平均再降3成(圖),兩岸新聞,新浪新聞中心" />
+<meta name="copyright" content="Copyright 2008 SINA.com All Rights Reserved" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="revisit-after" content="1" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link href="/css/news.css?20111228" rel="stylesheet" type="text/css" />
+<link href="/_common/jquery/bxSlider/bx_styles/bx_styles.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/_common/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_common/print.js"></script>
+<script type="text/javascript" src="/_common/sinapush_tools.js?_20120103"></script>
+</head>
+
+<body id="but_g">
+<!-- Header start -->
+<div id="header">
+	<!-- Homepage start -->
+	<div class="homepage"><a href="http://pad.sina.com.tw/" target="_blank" title="平板新浪"><img src="/images/icon_pad_version.gif" alt="平板新浪" /></a>&nbsp;|&nbsp;<a href="http://tw.weibo.com/" target="_blank">登入微博</a>&nbsp;|&nbsp;<a href="http://nz.sina.com.tw/member/asker?id=2&ch=news">客戶服務</a>&nbsp;|&nbsp;<a href="http://www.sina.com.tw">新浪網</a></div>
+	<!-- Homepage end -->
+
+	<div class="head">
+		<!-- SINA Logo start -->
+		<div class="sinalogo"><a href="http://news.sina.com.tw"><img src="/images/spacer.gif" alt="新浪新聞中心" width="176" height="50" border="0" /></a></div>
+		<!-- SINA Logo end -->
+		
+		<!-- Ad banner 728*90 start -->
+		<div class="banner">
+		
+		<!--start:Ad clickforce-->
+			<iframe marginheight="0" marginwidth="0" frameborder="0" width="728" height="90" scrolling="no" src="/include/coopad.html"></iframe>
+		<!--end:Ad clickforce-->
+		
+		</div>
+		<div class="clear"></div>
+		<!-- Ad banner 728*90 end -->
+	</div>
+
+	<div class="infobar">
+	<!-- Adtxt*3 start -->
+	<div class="ifbar">
+	<iframe marginheight="0" marginwidth="0" frameborder="0" width="740" height="29" scrolling="no" src="/include/glodtext3.html"></iframe>
+	</div>
+	<!-- Adtxt*3 end -->
+	
+	<!-- start:searchbar -->
+	<div class="searchbar">
+	<form name="sendkw" id="form_kw" method="get" action="http://search.sina.com.tw/search/search_n.do" target="_blank">
+	<span>搜尋／</span><input  type="text" id="kw" name="kw" class="input" size="26" />
+	<input type="hidden" name="type" value="news" />
+	<input type="submit" name="Submit" value="Go" class="but" />
+	</form>
+	</div> 
+	<script type="text/javascript"> 
+	$(document).ready(function(){
+		$("#form_kw").submit(function(){
+			$.ajax({
+			  type: "POST",
+			  url: "/keyword.php",
+			  dataType: "json",
+			  data: "keyword=" + encodeURI($("#form_kw #kw").val()),
+			  success: function(data){
+			  	return true;
+			  }
+			});
+		});
+	});
+	</script> 
+	<!-- end:searchbar -->
+	</div>
+	
+	<!-- Navigation start -->
+	<div class="navigation">
+	<ul>
+	<li class="index"><a href="http://news.sina.com.tw">新聞中心</a></li>
+	<li class="but_p"><em><a href="/video/">影音</a></em></li>
+	<li class="but_a"><a href="/realtime/">即時</a></li>
+	<li class="but_b"><a href="/focusreport/">專題</a></li>
+	<li class="but_c"><a href="/photo/">圖片</a></li>
+	<li class="but_d"><a href="/politics/">政治</a></li>
+	<li class="but_e"><a href="/society/">社會</a></li>
+	<li class="but_f"><a href="/ents/">娛樂</a></li>
+	<li class="but_g"><a href="/china/">兩岸</a></li>
+	<li class="but_h"><a href="/global/">國際</a></li>
+	<li class="but_i"><a href="/life/">生活</a></li>
+	<li class="but_j"><a href="/travel/">旅遊</a></li>
+	<li class="but_k"><a href="/sports/">體育</a></li>
+	<li class="but_l"><a href="/finance/">財經</a></li>
+	<li class="but_m"><a href="/edu/">文教</a></li>
+	<li class="but_n"><a href="/tech/">科技</a></li>
+	<li class="but_o"><a href="/business/">產業</a></li>
+	<li class="but_q"><a href="/strange/">新奇</a></li>
+	</ul>	
+	</div>
+	<!-- Navigation end -->
+	
+	<div class="clear"></div>
+	
+	<!-- Navigation2 start -->
+	<div class="navigation2">
+		<div class="menu">
+			<ul>
+				<li class="but_sp_a"><a href="/magazine/">雜誌</a></li>
+				<li class="but_sp_b"><a href="/books/">閱讀</a></li>
+				<!--
+				<li class="but_sp_c"><a href="#">藝術</a></li>
+				-->
+				
+				
+			</ul>	
+		<div class="clear"></div>
+		</div>
+		<div class="newsroll"><a id="rtBar_a" href="" title="" target="_blank"></a><em id="rtBar_time"></em></div>
+		<script type="text/javascript">$.getJSON("/include/rtBar.php",function(a){$("#rtBar_a").text(a.text).attr( { title:a.title , href:a.link });$("#rtBar_time").text(a.time)});</script>
+    </div>
+	<!-- Navigation2 end -->
+	
+	<div class="clear"></div>
+
+</div>
+<!-- Header end -->
+
+<!-- Middle start -->
+<div id="main">
+
+<!-- Content start -->
+<div id="middle">
+<div id="Content">
+<div class="path">
+<a href="/china/">兩岸新聞</a> &gt; 
+	<a href="/cobrand/sinacn/">北京新浪網</a>
+</div>
+</div>
+
+<!-- Article start -->
+<div id="articles" class="articles">
+<strong><h1><!-- ArticleTitle Start -->江蘇執行基本藥物新目錄 價格平均再降3成(圖)<!-- ArticleTitle End --></h1></strong><span class="subtitle"></span><!-- |date:'Y-m-d H:i' -->
+<cite>北京新浪網 (2012-01-16 05:41)</cite>
+
+<div class="forward">分享|
+<!-- weibo --><a title="分享至新浪微博" href="javascript:addtoweibo();"><img src="/images/icon_weibo.gif" title="分享至新浪微博" alt="分享至新浪微博" border="0"></a>
+<!-- facebook --><a title="分享至facebook" href="javascript:addtofacebook();"><img src="/images/icon_facebook.gif" title="分享至facebook" alt="分享至facebook" border="0"></a>
+<!-- PLURK --><a title="分享至PLURK" href="javascript:addtoplurk();"><img src="/images/icon_plurk.gif" title="分享至PLURK" alt="分享至PLURK" border="0"></a>
+<!-- twitter --><a title="分享至twitter" href="javascript:addtotwitter();"><img src="/images/icon_twitter.gif" title="分享至twitter" alt="分享至twitter" border="0"></a>
+<a href="http://forward.sina.com.tw/Forward/sendmsg" target="_blank" title="轉寄好友"><img src="/images/icon_mail.gif" border="0" /></a> <img id="print" src="/images/icon_print.gif" border="0" title="友善列印" /></div>
+<div class="clear"></div>
+
+<!-- Ad Google start -->
+<div id="googleads_w468h60_n1_MBF"><script language="javascript" type="text/javascript" src="/js/googleads_newscont_w468h60_n1_MBF.js"></script></div>
+<!-- Ad Google end -->
+<div class="clear"></div>
+
+
+
+<!-- left pic start -->
+<div class="artpicl">
+<div class="lepic">
+<img id="rs" src="/article/images/news-1-250x0-13266642760174.jpg" border="0" />
+</div>
+</div>
+<!-- left pic end -->
+
+
+
+<span name="iclickAdBody_Start" id="iclickAdBody_Start"></span>
+<div class="pcont">
+<p>
+<p>　　從1月15日起，江蘇所有政府辦社區醫院執行新的基本藥物價格目錄，由於采用了新的招標原則，這一輪中標價格相比上一輪平均降了33.75%。不過，最引人關注的是，江蘇省的醫院、藥店可以對部分基本藥物進行拆分包裝，並允許收取1毛錢的“拆零服務費”。其實拆零藥就是我們以前熟悉的“小紙包”藥，近几年已經很少見了。昨天，快報記者走訪南京市多家醫院發現，社區醫院已經有了不少“小紙包”的拆零藥物。</p><p>　　另外，有專家建議大醫院的大手術也應采用“拼藥”方式，這樣省下來的醫藥費很可觀，也是解決看病貴的有效方法之一。</p><p>　　□快報記者 劉峻</p><p>　　記者調查</p><p>　　“小紙包”藥多了十余種</p><p>　　記者走訪第一站是白下中醫院。藥劑科科長陸瑩說：“我們統計了一下，大約有一百多種藥品的價格有不同程度的下降。特別是中外合資藥，有十多種下降了一元錢左右。上一輪基本藥物目錄里有藥品通用名559種，共2183個品規，而這一輪有588種，1600個多品規。我們醫院大約有700種品規的藥品，應該說可以滿足居民的需求。”</p><p>　　“與上一輪相比，這一輪小紙包的藥品確實多了不少。我仔細看了一下，有不少藥都是整瓶一千粒包裝的，不拆零根本沒辦法銷售。像維生素B6、B2等維生素類的藥物都是整百粒包裝，也必須拆零。”據統計，該醫院藥房拆零藥總數已有20多種，比原來多了十多種。</p><p>　　陸瑩說，雖然小紙包的藥品銷售並不是很多，但對患者來說確實很方便，“扑爾敏一瓶有一百粒，拆零賣的話每粒才3分錢。還有維生素A等，都是市民常用藥，花費不多，療效很好。”</p><p>　　社區拆零藥分為三大類</p><p>　　記者隨後又來到位於南京莫愁路的白下建中中醫院，這裡也是止馬營社區衛生服務中心，實行基本藥物零差率銷售，藥劑科里總共有800多種藥物。</p><p>　　在該院藥房裡，已經專設了几個藥柜擺放拆零藥，也就是我們常說的“小紙包”藥，總共有30種中西藥。據藥劑科負責人介紹，社區拆零藥分為三類：第一，現行政策下醫院必須拆零賣的藥。這部分藥品大概有十几種，“比如省公費的患者是記賬式，但是每年給社區醫院的限制總額是有限的，我們測算下來，如果省公費的患者來買藥，一張處方最多是25元，所以我們有時衹能將藥品拆零銷售。最常見的就是‘絡活喜’，這種治療高血壓的常用藥物一盒在30元左右，這時就要拆開賣﹔其次，就是大包裝的藥品。在藥房裡，最大包的諾氟沙星有50板，每板有12粒，拆零成一板一板進行銷售，一板才6.6元﹔第三種就是小瓶包裝的常用藥，這部分藥品用的人多，但每瓶有100粒左右，患者買回去也浪費，所以拆零賣，平均下來也就1-3分錢一粒。”</p><p>　　希望能多點“小紙包”藥</p><p>　　正在白下中醫院看病的李女士今年52歲，她經常來醫院開些小紙包藥，“醫生囑咐在吃降壓藥的同時，需加服半片氫氯　　片。這個藥一片才一分多錢，真的非常便宜。”</p><p>　　社區醫院的醫生告訴記者，李女士提到的這個藥還有種作用是利尿，特別适合拆零賣。“比方說有人過來做B超檢查，就需要服用兩顆，可是讓患者買多了人家也沒多大可能再用，所以比較适合拆零。”李女士告訴記者，希望醫院能多一點這樣的小紙包，其實她還希望氫氯　　片能夠做得更小一點，最好每片劑量是10毫克，這樣每次服用前就不用自己去切一半了，“這個藥比較軟，容易切成粉末狀，服用不太方便。”</p><p>　　有專家認為，對於拆零藥，生產企業更要積極行動，要在包裝上想方設法方便拆零。“比如冠心病急救藥硝酸甘油，雖然衹有2-3元每瓶，價格非常便宜，但該藥易吸潮，一旦打開容易進空氣，過几天余下的藥就失效了。如果生產企業將瓶子裝藥改成用鋁箔紙包裝，這個問題就能迎刃而解，當然成本要稍增加些。”</p><p>　　成本高，有點“抵触”拆零</p><p>　　在走訪調查中，江蘇一家大型三甲醫院的專家表示，目前醫院里小包裝的藥品非常少，除了醫保政策限制、有的患者購藥不能超過一定金額、醫院不得不拆零賣外，絕大多數藥品是不拆零賣的。最關鍵的一點就是，成本太大。目前，江蘇有關部門並沒有硬性規定哪些藥品可以拆零，藥監部門衹要求藥店設置拆零專柜，對哪些品種拆零並不做硬性要求，對醫院也同樣如此。“不過，無論是藥店還是醫院，都對拆零藥品有一點天然的‘抵触’心理。”</p><p>　　這一次執行新的基本藥物目錄中，江蘇省物價部門的通知中明確規定：為鼓勵廉價藥品的使用，對劑型為片劑、膠囊，包裝數量大(50片/粒及以上)、單片(粒)中標價格低於0.03元(含0.03元)且服用療程在3天內(含3天)的基本藥物，可在提供一次性包裝袋並注明藥品服用方法的前提下收取0.1元/次的拆零服務費。社區衛生服務中心一位專家說，目前社區醫院暫時還沒有在拆零的藥物中加收這筆費用。“總共就几分錢的藥，加上一年也賣不出多少拆零藥品，社區醫院可能考慮到附近患者的需求，會進行一部分藥品的拆零，大醫院不愁患者，少有積極性。”</p><p>　　而抵触的另一個原因是，藥品拆零後引發的醫療糾紛和投訴。由於消費者看不到藥品包裝盒，無從了解藥品副作用等注意事項或服用禁忌，容易發生誤服藥品的現象，“不發生事情還好，一旦發生事情後果非常嚴重。所以，我們拆零的藥物衹集中在一些常用藥上。”這家三甲醫院的專家說道。</p><p>　　相關鏈接</p><p>　　過期藥中數感冒藥最多</p><p>　　據一項對華東大城市的調查顯示，平均每個城市家庭有過期藥215粒，其中30%到40%超過有效期3年以上。而因過期造成的藥品浪費，一年達到1.5萬吨。</p><p>　　記者在醫院里采訪了李女士等五位患者，她們告訴記者，家裡的小藥箱里擺滿了各類感冒藥、咳嗽藥、助消化的藥，不過定期都會清理出一批，其中感冒藥是浪費最嚴重的。李女士說：“感冒藥現在都分白片和夜片，但几乎每種感冒藥都是白片多過夜片，我有時晚上吃過夜片後第二天就不用吃白片了，結果造成白片多找不到夜片。為了吃夜片，又去重新買一盒，周而復始惡性循環。”</p><p>　　存在嚴重浪費</p><p>　　手術耗材更需要“拆零”</p><p>　　藥品拆零銷售，老百姓能享受到實惠自然是件好事，但目前拆零藥品不僅品種少，而且多數集中在基本藥物品種之中。其實，在大醫院里，手術耗材存在嚴重的浪費，更需要“拆零”，甚至可以引入“拼藥”的模式。</p><p>　　南京市兒童醫院心臟外科主任莫緒明告訴記者，目前我國手術室高值耗材實行嚴格的條形碼制度，實現“一人一號”，一旦耗材拆封就不能再給其他患者使用。這樣做的目的在於使患者手術的安全性提高，也便于醫院進行目標考核和科學管理，但這不可避免地帶來了資源浪費和病人負擔增多的問題。以心臟的人工血管為例，一般一根就是1萬到2萬元，不同的病人用的長度不同。“生產厂家都是按照統一規格生產的，但每個病人的需求不同，即便衹需要十分之一也要全部購買。也就是說，這個病人哪怕衹用了几厘米，剩余的都要扔掉，這就造成了巨大的浪費。”他介紹說，同樣的情況還存在於心導管，一次心導管檢查需要上萬元，使用一次就不再用了，但是現在質量好的心導管可以反復用，“如果注意好消毒等安全問題，完全可以給病人省下這筆費用，但現行的規定卻不允許醫院這么做。”</p><p>　　科學分配可以省下大筆開支</p><p>　　手術“拼藥”惠民效果更好</p><p>　　莫緒明介紹說，在經濟發達的歐美國家，已經實行了多年的高值耗材分批記賬制度，並且取得很好的成績。</p><p>　　“這個制度的優點就是，高值耗材可以多人使用。”莫主任建議，如果我國也能對手術高值耗材進行科學分配，完全可以省去一筆不小的開支。當然，也要對高值耗材進行嚴格的安全流程管理，防止交叉感染。</p><p>　　“高值耗材不是特別多，衹要實行申報、備案制，再制定消毒使用規定，消毒規範、安全規範是沒有任何問題的。以南京兒童醫院為例，年手術量高達1.6萬餘人次，僅心臟外科手術每年就高達千次，如果手術耗材可以實現拆零、分批記賬，僅此一項就可以省下相當可觀的費用，相比購買基本藥物目錄藥品省的錢，惠民效果將更為顯著。”</p><p>　　一支藥三四名患兒分著用</p><p>　　大醫院“拼藥”國內有先例</p><p>　　其實，大醫院“拼藥”在國內已經不是什么新鮮事，在蘭州、南昌等多地都有這樣的先例。在蘭州一家醫院，一支藥三四名患兒一起分著用，這樣不僅節省了花費，也避免了藥劑的浪費。一名早產40天的女嬰，治療後結算費用時她的家人發現，共節省近2000元的藥費。由於該院新生兒科收治的患兒一般以早產兒居多，還有很多是體重不足1千克的超低體重早產兒，這種患兒每日每次的用藥量都非常少，很多貴重的抗菌素最多用到封裝劑量的三分之一，由於藥物打開後衹能在當天使用，這就造成剩下的藥品被丟棄，從而成為醫療垃圾。於是，當地醫生想出了拼藥的辦法。</p><p>　　一名專家告訴記者，其實國外很多都是按病種收費，而我國是按項目收費，“按病種收費後，同樣疾病就同樣的價格，這樣醫院會想著辦法節省成本，而現在是按項目收費。前不久，衛生部部長陳竺指責按項目收費為毒瘤，不過目前醫患還時有互不信任感，這樣的環境里醫生為了免責，拼藥的方式很難實現。”</p>
+</p>
+</div>
+<span name="iclickAdBody_End" id="iclickAdBody_End"></span>
+<div class="clear"></div>
+
+   <!-- SiteBro Ysm start -->
+            <div id="googleads_w468h60_n2_MB">
+            <script type="text/javascript" src="http://biz.sitebro.tw/initads_sina_news.js?channel=ysmsina_news"></script>
+            </div>
+            <div class="clear"></div> 
+
+            <div id="aiweb_w468h70_n2">
+            <script type="text/javascript" src="http://biz.sitebro.tw/initads_sina_news_aiwed.js"></script>
+            </div>
+  <!-- SiteBro Ysm end --> 
+
+<div class="clear"></div>
+
+<!-- Photos album show start -->
+	<script type="text/javascript" src="/_common/jquery/bxSlider/jquery.bxSlider.min.js"></script>
+	<script type="text/javascript">
+		jQuery( function(){
+			$('#slider1').bxSlider({
+				infiniteLoop : false ,
+				displaySlideQty: 4,
+				moveSlideQty: 2
+			});
+		} );
+	</script>	
+	
+    <div class="albumshow">
+        <div id="slidercontrol">
+            <ul id="slider1" class="multiple">
+            	 				<li><a href="/article_photo/20120116/5590251-13266642760174.html" title=""><img src="http://news.sina.com.tw/article/images/news-3-125x126-13266642760174.jpg" alt="" border="0" /></a></li>
+				            </ul> 
+        </div>         
+    <div class="clear"></div>
+    </div>
+<!-- Photos album show end -->
+
+<div class="clear"></div>
+</div>
+<!-- Article end -->
+
+<div class="pgbutn">
+<input type="button" class="gobtn" onclick="javascript:window.location.href='/china/';" value="回兩岸新聞首頁" />
+<input type="button" class="gobtn" onclick="javascript:window.location.href='/';" value="回新聞首頁" />
+</div>
+
+
+<!-- Ad Sponsor Sitebro start --> 
+<div class="adsponsor">
+	<script language="javascript">
+    document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="637" height="122" src="http://zh.adsbro.com/sina/iframe/?size=637_122&channel=ifra_news&ref='+encodeURIComponent(document.location)+'&loc='+encodeURIComponent(document.referrer)+'"></i'+'frame>');
+    </script>
+</div>
+<!-- Ad Sponsor Sitebro end -->
+<!-- Other News start -->
+<div class="other">
+<div class="tous"><h5>其他兩岸新聞</h5><span><img src="/images/icon03.gif" hspace="2" border="0" /><a href="/realtime/china/tw/list.html">更多兩岸新聞</a></span></div>
+<div class="ocont">
+	<ul class="list">
+	 		<li><a href="/article/20120117/5613641.html">溫家寶會見阿聯酋阿布扎比王儲</a><cite>【北京新浪網】2012-01-17 21:10</cite></li>
+			<li><a href="/article/20120117/5613615.html">長江重慶段春運客流下降 海事部門監管不放鬆</a><cite>【北京新浪網】2012-01-17 20:55</cite></li>
+			<li><a href="/article/20120117/5613614.html">烏魯木齊市民年前扎堆換新錢  排隊增多有喜有怨</a><cite>【北京新浪網】2012-01-17 20:55</cite></li>
+			<li><a href="/article/20120117/5613611.html">重慶在建房屋發生垮塌3名建築工人被埋</a><cite>【北京新浪網】2012-01-17 20:55</cite></li>
+			<li><a href="/article/20120117/5613609.html">北京順義南法信舉辦新春計生知識問答會</a><cite>【北京新浪網】2012-01-17 20:55</cite></li>
+		</ul>
+</div>
+
+</div>
+<!-- Other News end -->
+
+<!-- weibo list start -->
+<iframe width="100%" height="300"frameborder="0" scrolling="no" src="http://widget.weibo.com/list/list.php?width=638&height=300&listid=220573259&uname=%E6%96%B0%E6%B5%AA%E5%8F%B0%E6%B9%BE%E7%88%86%E5%A4%B4%E6%9D%A1&uid=1888725725&listname=%E6%96%B0%E8%81%9E%E5%BE%AE%E5%8D%9A%E5%A4%A7%E5%B0%8F%E4%BA%8B&color=CCCCCC,CAEBFD,444444,0082CB,FFFFFF,FFFFEA&showcreate=0&isborder=1&showtitle=1"></iframe>
+<!-- weibo list end -->
+<!-- magazine start -->
+<div class="magz">
+	<div class="tou">
+  		<h3>發燒雜誌</h3><span><img src="/images/icon05.gif" border="0" align="top" /><a href="/magazine/" target="_blank">更多</a></span>
+	</div>
+	<div class="cont">
+		<!--midCont start-->
+		<div class="boxbg">
+			<!--leftCont start-->
+			<div class="sl">
+				<h3>康健雜誌</h3>
+				<h5><a href="http://magazines.sina.com.tw/magazine/article/8680.html">春節樂活遊提案》最好「玩」的博物館在台南！</a></h5>
+				<p>農曆春節假期長達九天，想好要去哪裡玩了嗎？ 台南有兩間充滿互動趣味的博物館，你可以乘上...《<a href="http://magazines.sina.com.tw/magazine/article/8680.html" target="_blank">詳全文</a>》</p>
+			</div>
+			<!--leftCont end-->
+			<!--rightCont start-->
+			<div class="sr">
+				<div class="magbox">
+					<div class="pic"><a href="http://magazines.sina.com.tw/magazine/article/8680.html"><img src="/_data/magazine/bestMag/scope1_0.gif?_1326687717" width="90" height="102" border="0" /></a></div>
+				</div>
+			</div>
+			<!--rightCont end-->
+			<!--otherCont start-->
+			<ul class="otherlist">
+			   				<li><a href="http://magazines.sina.com.tw/magazine/article/8688.html">社會新鮮人，投資策略保守至上</a></li>
+			  				<li><a href="http://magazines.sina.com.tw/magazine/article/8700.html">地理系：空間資訊應用　有明星產業架勢</a></li>
+			  				<li><a href="http://magazines.sina.com.tw/magazine/article/8641.html">我非固著之我：《姊妹》</a></li>
+			  			</ul>
+			<!--otherCont end-->
+		<div class="clear"></div>
+		</div>
+		<!--midCont end-->
+	<div class="clear"></div>
+	</div>
+<div class="clear"></div>
+</div>
+<!-- magazine end -->
+<!-- goodbooks start -->
+<div class="gdbooks">
+  <div class="tou">
+  		<h3>強打好書</h3><span><img src="/images/icon05.gif" border="0" align="top" /><a href="/books/">更多</a></span>
+	</div>
+	<div class="cont">
+		<!--midCont start-->
+		<div class="bksinfo">
+			<div class="sl">
+				<h3><a href="/books/know/binfo/1599.html">《蘋果為時代上了一</a></h3>
+				<div class="author">作者：金大元</div>
+				<p>《蘋果為時代上了一課 一個「沒有第二名」的世界》這不是蘋果公司與韓國科技大廠的戰爭而已，更是台灣所有自有品牌必須追求的高度──成為第一！iphone在...《<a href="/books/know/binfo/1599.html">詳全文</a>》</p>
+			</div>
+			<div class="sr">
+			    <div class="bksbox_hd"><img src="/images/spacer.gif" border="0" height="7" /></div>
+				<div class="bksbox">
+					<div class="pic"><a href="/books/know/binfo/1599.html"><img src="/books/images/b-2-0x225-1320142701992.gif" width="90" border="0" /></a></div>
+				</div>
+				<div class="bksbox_btm"><img src="/images/spacer.gif" border="0" height="10" /></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+		<!--midCont end-->
+	</div>
+	<div class="clear"></div>
+</div>
+<!-- goodbooks end -->
+<div class="clear"></div>
+<!-- START:Editor Commend -->
+<div class="comed">
+	<div class="tou"><h3>編輯首推</h3></div>
+	<div class="cont">
+		<!-- area start-->
+		 		<div class="commlist">
+			<div class="areatou">魔女克洛蒂</div>
+			<div class="areacont">
+				<a href="http://blog.sina.com.tw/cloudy/" target="_blank"><img src="/_data/otherImg/1313639483522.gif" border="0" width="100" height="75" /></a>
+				<p><a href="http://blog.sina.com.tw/cloudy/" target="_blank">我一步步遠離了喧嘩世界，悄悄跌進</a></p>
+			</div>
+			<div class="areabtm"><img src="/images/spacer.gif" border="0" height="11" /></div>
+		</div>
+				<div class="commlist">
+			<div class="areatou">布三布四玩生活</div>
+			<div class="areacont">
+				<a href="http://blog.sina.com.tw/d0525/" target="_blank"><img src="/_data/otherImg/1313639483530.gif" border="0" width="100" height="75" /></a>
+				<p><a href="http://blog.sina.com.tw/d0525/" target="_blank">用你的小衣物，做你內心的小動物</a></p>
+			</div>
+			<div class="areabtm"><img src="/images/spacer.gif" border="0" height="11" /></div>
+		</div>
+				<div class="commlist">
+			<div class="areatou">決戰2012</div>
+			<div class="areacont">
+				<a href="http://news.sina.com.tw/event/2012Election/index.php" target="_blank"><img src="/_data/otherImg/1322816896033.gif" border="0" width="100" height="75" /></a>
+				<p><a href="http://news.sina.com.tw/event/2012Election/index.php" target="_blank">全民投家換你作 投票送好禮</a></p>
+			</div>
+			<div class="areabtm"><img src="/images/spacer.gif" border="0" height="11" /></div>
+		</div>
+				<div class="commlist">
+			<div class="areatou">瓦辛</div>
+			<div class="areacont">
+				<a href="http://blog.sina.com.tw/wasin/" target="_blank"><img src="/_data/otherImg/1322818181168.gif" border="0" width="100" height="75" /></a>
+				<p><a href="http://blog.sina.com.tw/wasin/" target="_blank">在礁溪，遇見京野菜的美好</a></p>
+			</div>
+			<div class="areabtm"><img src="/images/spacer.gif" border="0" height="11" /></div>
+		</div>
+				<!-- area end-->
+		<div class="clear"></div>
+	</div>
+</div>
+<!-- END:Editor Commend -->
+<div class="clear"></div>
+<!-- weibo bulkfollow start -->
+<script type="text/javascript">document.write('<iframe width="100%" height="489" frameborder="0" scrolling="no" src="http://widget.weibo.com/relationship/bulkfollow.php?uids=1803608792,1986544897,2150766094,1918327921,2028990475&wide=1&color=C2D9F2,FFFFFF,0082CB,666666&showtitle=1&showinfo=1&sense=0&verified=1&count=5&refer=&dpc=1"></iframe>')</script>
+<!-- weibo bulkfollow end -->
+
+</div>
+<!-- Content end -->
+
+<!-- SideRight start -->
+<div id="sideright">
+<!-- hots key start -->
+<div class="hkey">
+<div class="hots_tou"><img src="/images/spacer.gif" alt="熱門關鍵字" height="8" border="0" /></div>
+<div class="cont">
+	<!-- start:關鍵字 -->
+	<div class="keywords">
+	<!-- <img src="/images/hots03.gif" border="0" align="absmiddle" /> -->
+	<span id="keyword"></span>
+	<script type="text/javascript" src="/_common/search.js?20110630"></script>
+	</div>
+	<!-- start:SiteBro HotKW -->
+	<div class="keywords">
+	<span>
+		<script src="/_data/adsbro_hotspot.js"></script>
+	</span>
+	</div>
+	<!-- end:SiteBro HotKW -->	
+	<!-- end:關鍵字 -->
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="8" /></div>
+<div class="clear"></div>
+</div>
+<!-- hots key end --><div class="clear"></div>
+<!--Ad Banner 300x100 start-->
+<div class="ad300"> 
+	<!--AdForward Begin:-->
+	<iframe marginheight="0" marginwidth="0" frameborder="0" width="300" height="100" scrolling="no" src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|News_300x100&db=twsina&border=0&local=yes">
+	<noscript><a href="http://twsina.allyes.com/main/adfclick?user=twsina|2005_news|News_300x100&db=twsina"><img src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|News_300x100&db=twsina" width="300" height="100" border="0"></a></noscript></iframe>
+	<!--AdForward End-->
+</div>	
+<!--Ad Banner 300x100 end-->
+<div class="clear"></div><!-- Ad Google start -->
+<div id="googleads_w300h250_n4_MB"><script language="javascript" type="text/javascript" src="/js/googleads_newsall_w300h250_n4_MB.js"></script></div>
+<!-- Ad Google end --><div class="clear"></div>
+
+<!-- Ad Sponsor Group Buying start -->
+<iframe marginheight="0" marginwidth="0" frameborder="0" width="300" height="184" scrolling="no" src="/include/adsponsor_gbuy.html"></iframe>
+<!-- Ad Sponsor Group Buying end -->
+<div class="clear"></div>
+
+<!-- weibo weiboshow start -->
+<iframe width="100%" height="350" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?width=0&height=350&fansRow=2&ptype=1&speed=0&skin=9&isTitle=1&noborder=1&isWeibo=1&isFans=0&uid=1888725725&verifier=06903df6"></iframe>
+<!-- weibo weiboshow end -->
+
+	
+	<!-- ranking START -->
+<div class="catyrank">
+<div class="chi_tou"><img src="/images/spacer.gif" alt="兩岸瀏覽排行" height="30" border="0" /></div>
+<div class="cont">
+  	<div class="crarea">
+		<div class="crankl"><img src="/images/top01.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120111/5547633.html">台日合作電影「友友友友友」  3月沖繩趣味上映</a><cite>【中央廣播電台】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="crarea">
+		<div class="crankl"><img src="/images/top02.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120116/5590256.html">民進黨今日檢討敗選原因討論蔡英文去留</a><cite>【北京新浪網】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="crarea">
+		<div class="crankl"><img src="/images/top03.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120117/5603909.html">常懷敬畏之心</a><cite>【北京新浪網】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="crarea">
+		<div class="crankl"><img src="/images/top04.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120116/5600125.html">楊司任山西省人民檢察院黨組書記</a><cite>【北京新浪網】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="crarea">
+		<div class="crankl"><img src="/images/top05.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120116/5589501.html">劉淇：希望政協委員講諍言做諍友</a><cite>【北京新浪網】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="submore"><img src="/images/icon03.gif" hspace="2" border="0" /><a href="/ranking/china/">更多</a></div>
+
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="6" /></div>
+<div class="clear"></div>
+</div>
+<!-- ranking END -->
+<div class="sadbanner">
+<!--AdForward Begin:-->
+<iframe marginheight="0" marginwidth="0" frameborder="0" width="300" height="250" scrolling="no" src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|300x250&db=twsina&border=0&local=yes"><noscript><a href="http://twsina.allyes.com/main/adfclick?user=twsina|2005_news|300x250&db=twsina"><img src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|300x250&db=twsina" width="300" height="250" border="0"></a></noscript></iframe>
+<!--AdForward End-->
+</div>
+<div class="clear"></div>
+
+<!-- categ subject start -->
+<div class="caty">
+<div class="chi_tou"><img src="/images/spacer.gif" alt="兩岸專題" height="30" border="0" /></div>
+<div class="cont">
+<div class="catl"><div class="catpic"><a href="/focusreport/china/587.html"><img src="/focusreport/images/focusreport-13172792155543.jpg" width="90" height="90" border="0" /></a></div>
+</div>
+<div class="catr"><h2><a href="/focusreport/china/587.html">上海地鐵追撞 271傷</a></h2>
+<p>上海地鐵10號線新天地站，27號下午2點45發生《<a href="/focusreport/china/587.html">詳全文</a>》</p>
+<div class="submore"><img src="/images/icon03.gif" hspace="2" border="0" /><a href="/focusreport/china/list.html">更多</a></div>
+</div>
+<div class="clear"></div>
+<ul class="catlist">
+   	<li><a href="/focusreport/china/567.html">拜登訪中 私下較勁經濟軍事議題</a></li>
+  	<li><a href="/focusreport/china/556.html">溫州動車追撞死傷慘重  撞醒陸鐵優越夢</a></li>
+  </ul>
+
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="6" /></div>
+<div class="clear"></div>
+</div>
+<!-- categ subject end -->
+<!--Ad Banner 300x250_2 start-->
+<div class="sadbanner">
+	<!--AdForward Begin:-->
+	<iframe marginheight="0" marginwidth="0" frameborder="0" width="300" height="250" scrolling="no" src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|300x250_2&db=twsina&border=0&local=yes"><noscript><a href="http://twsina.allyes.com/main/adfclick?user=twsina|2005_news|300x250_2&db=twsina"><img src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|300x250_2&db=twsina" width="300" height="250" border="0"></a></noscript></iframe>
+	<!--AdForward End-->
+</div>
+<!--Ad Banner 300x250_2 end--><!-- cooperation start -->
+<div class="coop">
+<div class="tou"><img src="/images/spacer.gif" alt="合作媒體" height="35" border="0" /></div>
+<div class="cont">
+<div class="cooptw">
+	<ul class="clist"><h6>台灣：</h6>
+	   		<li><a href="/cobrand/cnanews/">‧中央社</a></li>
+	  		<li><a href="/cobrand/bccnews/">‧中廣新聞網</a></li>
+	  		<li><a href="/cobrand/rtinews/">‧中央廣播電台</a></li>
+	  		<li><a href="/cobrand/nownews/">‧NOWnews今日新聞</a></li>
+	  		<li><a href="/cobrand/nernews/">‧教育廣播電台</a></li>
+	  		<li><a href="/cobrand/ftvnews/">‧民視</a></li>
+	  		<li><a href="/cobrand/ptsnews/">‧公視</a></li>
+	  		<li><a href="/cobrand/forbes/">‧富比世</a></li>
+	  		<li><a href="/cobrand/xprnnews/">‧美通社(亞洲)</a></li>
+	  		<li><a href="/cobrand/uhonews/">‧優活健康資訊網</a></li>
+	  		<li><a href="/cobrand/ttnews/">‧大台灣旅遊網</a></li>
+	  		<li><a href="/cobrand/travelrich/">‧旅遊經</a></li>
+	  		<li><a href="/cobrand/vrhouse/">‧網路地產王</a></li>
+	  		<li><a href="/cobrand/awakeningtw/">‧台灣醒報</a></li>
+	  		<li><a href="/cobrand/investor/">‧財訊快報</a></li>
+	  		<li><a href="/cobrand/24drs/">‧24Drs.com</a></li>
+	  		<li><a href="/cobrand/acn/">‧ACN</a></li>
+	  		<li><a href="/cobrand/hitfm/">‧Hit Fm聯播網</a></li>
+	  		<li><a href="/cobrand/hakkatv/">‧客家電視台</a></li>
+	  		<li><a href="/cobrand/looklife/">‧LOOK生活網</a></li>
+	  		<li><a href="/cobrand/pollster/">‧波仕特線上市調網</a></li>
+	  		<li><a href="/cobrand/marketwatch/">‧Market Watch</a></li>
+	  		<li><a href="/cobrand/cnyes/">‧鉅亨網</a></li>
+	  		<li><a href="/cobrand/lihpao/">‧台灣立報</a></li>
+	  		<li><a href="/cobrand/tripass/">‧景點家 Tripass</a></li>
+	  		<li><a href="/cobrand/liontravel/">‧欣傳媒</a></li>
+	  		<li><a href="/cobrand/chinayes/">‧Yes娛樂</a></li>
+	  		<li><a href="/cobrand/crowninc/">‧CROWNinc潮流媒體</a></li>
+	  		<li><a href="/cobrand/tcfnews/">‧台灣競爭力論壇</a></li>
+	  		<li><a href="/cobrand/newstaiwan/">‧台灣新聞報</a></li>
+	  		<li><a href="/cobrand/alifetale/">‧生活童話</a></li>
+	  		<li><a href="/cobrand/cdnnews/">‧中央日報</a></li>
+	  		<li><a href="/cobrand/newtalk/">‧新頭殼</a></li>
+	  		<li><a href="/cobrand/suntravel/">‧太陽網</a></li>
+	  	</ul>
+</div>
+<div class="clear"></div>
+<div class="coopcn">
+	<ul class="clist"><h6>中國大陸：</h6>
+	   		<li><a href="/cobrand/sinacn/">‧北京新浪網</a></li>
+	  		<li><a href="/cobrand/expo/">‧上海世博</a></li>
+	  		<li><a href="/cobrand/fifa2010/">‧南非世足</a></li>
+	  	  <li><a href="http://archive.news.sina.com.tw/" target="_blank">‧新聞資料庫</a></li>
+	</ul></div>
+<div class="clear"></div>
+<div class="coopmag">
+	<ul class="clist"><h6><a href="/magazine/">雜誌類</a></h6></ul>
+</div>
+<div class="clear"></div>
+<div class="coopmag">
+	<ul class="clist"><h6><a href="/books/">閱讀類</a></h6></ul>
+</div>
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="10" /></div>
+<div class="clear"></div>
+</div>
+<!-- cooperation end -->
+<!-- news archive start -->
+<div class="oldnews">
+<div class="tou"><h3>歷史新聞</h3></div>
+<div class="cont">
+	<ul>
+		         <li><a href="http://archive.news.sina.com.tw/%E5%8F%B8%E6%A9%9F-%E6%B3%A5%E5%9C%9F-%E8%BA%AB%E4%BA%A1-64036/" target="_blank">翻斗車司機卸泥時遭泥土埋壓身亡</a><cite>2011-01-17</cite></li>
+		        <li><a href="http://archive.news.sina.com.tw/%E9%8C%A2%E5%8C%85-%E5%A5%BD%E8%99%95%E8%B2%BB-%E5%A4%B1%E4%B8%BB-64042/" target="_blank">2人撿錢包向失主索要千元好處費</a><cite>2011-01-17</cite></li>
+		        <li><a href="http://archive.news.sina.com.tw/%E4%B8%AD%E7%BE%8E-%E7%9F%A5%E8%AD%98-%E7%9F%9B%E7%9B%BE-64137/" target="_blank">分析稱中美經濟矛盾將集中在知識產權等領域</a><cite>2011-01-17</cite></li>
+		        <li><a href="http://archive.news.sina.com.tw/%E6%B1%82%E5%A9%9A-%E7%B6%B2%E7%B5%A1-%E6%88%92%E6%8C%87-64446/" target="_blank">光頭男子地鐵求婚走紅網絡 稱求婚戒指10塊錢</a><cite>2011-01-17</cite></li>
+		        <li><a href="http://archive.news.sina.com.tw/%E6%B4%9E%E5%BA%AD%E6%B9%96-%E5%83%85%E6%9C%89-%E5%A4%9A%E9%A0%AD-64454/" target="_blank">記者在洞庭湖拍到江豚 長江僅有1000多頭(圖)</a><cite>2011-01-17</cite></li>
+			</ul>
+    
+	<div class="clear"></div>
+    
+	<div class="submore"><img src="/images/icon03.gif" hspace="2" border="0" /><a href="http://archive.news.sina.com.tw/2011/jan/17/" target="_blank">更多</a></div>
+
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="6" /></div>
+<div class="clear"></div>
+</div>
+<!-- news archive end --></div> 
+<!-- SideRight end -->
+
+<div class="clear"></div>
+</div>
+<!-- Middle end -->
+
+<!-- Footer start -->
+<div id="footer">
+<a href="http://home.sina.com/" target="_blank">北美新浪網</a> | 
+<a href="http://www.sina.com.cn/" target="_blank">北京新浪網</a> | 
+<a href="http://www.sina.com.hk" target="_blank">香港新浪網</a> | 
+<a href="http://www.sina.com/" target="_blank">SINA.com</a> | 
+<a href="http://english.sina.com/" target="_blank">SINA English</a><br />
+<a href="http://nz.sina.com.tw/member/asker?id=2&ch=news" target="_blank">意見信箱</a> | 
+<a href="http://corp.sina.com.cn/chn/sina_index.html" target="_blank">關於新浪</a> | 
+<a href="http://www.sina.com.tw/info/sina_info.html" target="_blank">新浪新聞室</a> | 
+<a href="http://www.sina.com.tw/about/privacy.html" target="_blank">隱私權政策</a> | 
+<a href="http://www.sina.com.tw/about/declaration.html" target="_blank">聲明啟事</a> |
+<a href="http://bonus.sina.com.tw/saleskit/why.html" target="_blank">刊登廣告</a><br />
+<span class="copyrights">Copyright &copy; 1996-<script language="javascript" type="text/javascript">var now=new Date();document.write(now.getFullYear());</script> SINA.com All Rights Reserved </span> 
+</div>
+<!-- START:Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+// By news.sina.com.tw
+try {
+var pageTracker = _gat._getTracker("UA-4068118-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script type="text/javascript">
+// By magazines.sina.com.tw
+try {
+var pageTracker = _gat._getTracker("UA-8600085-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script type="text/javascript">
+// By books.sina.com.tw
+try {
+var pageTracker = _gat._getTracker("UA-8600127-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END:Google Analytics -->
+
+<!-- Start : SiteBro News -->
+<script type="text/javascript" src="http://track.zh.sitebro.com/sitebro_track_sinatw.js?userid=NA==&websiteid=NjM1NQ=="></script><a href="http://zh.sitebro.com/zh1826355"><img src="http://zh.sitebro.com/img/px.gif" width="1" height="1" style="display:none;" /></a>
+<!-- End : SiteBro News -->
+<!-- Footer end -->
+<script language="javascript" type="text/javascript">
+bust = Math.floor(1000000*Math.random());
+document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://dotmore.sina.com.tw/verify.aspx?w=75&charset=utf-8&ord='+bust+'?">');
+document.write('</'+'SCRIPT>');
+</script>
+</body>
+</html>
+

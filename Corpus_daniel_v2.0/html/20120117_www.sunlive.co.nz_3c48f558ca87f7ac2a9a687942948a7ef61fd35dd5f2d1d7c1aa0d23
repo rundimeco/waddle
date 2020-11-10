@@ -1,0 +1,421 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<title>SunLive - Coin swallow hospitalises boy - The Bay's News First</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Coin swallow hospitalises boy - Sunlive - The Bays News First">
+		<meta name="keywords" content="coin,swallow,hospitalises,boy">
+
+		<link rel="stylesheet" type="text/css" href="/assets/css/globalstyle.css" />
+		<!--[if IE 8]>
+		<link rel="stylesheet" type="text/css" href="/assets/css/ie8.css" />
+		<![endif]-->
+		<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/assets/css/ie7.css" />
+		<![endif]-->
+		<!--[if IE 6]>
+		<link rel="stylesheet" type="text/css" href="/assets/css/ie6.css" />
+		<![endif]-->
+		<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon" />
+		<link rel="icon" href="/assets/assets/favicon.ico" type="image/x-icon" />
+		<script type="text/javascript" src="/assets/js/menubar.js"></script>
+		<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+		</script>
+		<script type='text/javascript'>
+		GS_googleAddAdSenseService("ca-pub-9964001585627809");
+		GS_googleEnableAllServices();
+		</script>
+		<script type='text/javascript'>
+		GA_googleAddSlot("ca-pub-9964001585627809", "TheSun_160x160");
+		GA_googleAddSlot("ca-pub-9964001585627809", "TheSun_160x160_OpPoll");
+		GA_googleAddSlot("ca-pub-9964001585627809", "TheSun_160x160_Latest");
+		GA_googleAddSlot("ca-pub-9964001585627809", "TheSun_160x160_EdPicks");
+		GA_googleAddSlot("ca-pub-9964001585627809", "TheSun_160x600_Skyscraper");
+		GA_googleAddSlot("ca-pub-9964001585627809", "TheSun_468x60_Banner");
+		GA_googleAddSlot("ca-pub-9964001585627809", "TheSun_760x120_Banner");
+		</script>
+		<script type='text/javascript'>
+		GA_googleFetchAds();
+		</script>
+		
+		<script type="text/javascript">GA_googleUseIframeRendering(); </script>
+		<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
+		<script type="text/javascript" src="/assets/js/jcarousellite.js"></script>
+		<script type="text/javascript">
+        $(function() {
+            $(".newsscroller").jCarouselLite({
+                btnNext: ".next",
+    			btnPrev: ".prev",
+                hoverPause:true,
+                auto:10000,
+                visible: 1,
+                speed:1000
+            });
+        });
+        </script>
+        
+        <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+			
+			
+<script type="text/javascript">
+
+var popupWindow=null;
+function popup(mypage,myname,w,h,pos,infocus){
+
+if (pos == 'random')
+{LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
+else
+{LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;}
+settings='width='+ w + ',height='+ h + ',top=' + TopPosition + ',left=' + LeftPosition + ',scrollbars=yes,location=yes,directories=no,status=no,menubar=yes,toolbar=no,resizable=yes';popupWindow=window.open('',myname,settings);
+if(infocus=='front'){popupWindow.focus();popupWindow.location=mypage;}
+if(infocus=='back'){popupWindow.blur();popupWindow.location=mypage;popupWindow.blur();}
+
+}
+
+function openPage(page,title,wdt,hgt,rsz) {
+
+	tags = 'width=' + wdt + ', height=' + hgt + ', resizeable=yes, scrollbars=yes';
+
+	window.open(page,title,tags);
+
+}
+
+function refreshPage() {
+
+	location.reload(true);
+
+}
+
+</script>
+		
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "http://www.sunlive.co.nz/news/20820-coin-swallow-hospitalises-boy.html?post=20820-coin-swallow-hospitalises-boy.html";
+xajax.config.statusMessages = false;
+xajax.config.waitCursor = true;
+xajax.config.version = "xajax 0.5";
+xajax.config.legacy = false;
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+/* ]]> */
+</script>
+<script type="text/javascript" src="/xajax_js/xajax_core.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+   alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: /xajax_js/xajax_core.js");
+  }
+ }, 2000);
+/* ]]> */
+</script>
+
+<script type='text/javascript' charset='UTF-8'>
+/* <![CDATA[ */
+xajax_voteInPoll = function() { return xajax.request( { xjxfun: 'voteInPoll' }, { parameters: arguments } ); };
+/* ]]> */
+</script>
+
+		
+
+</head>
+
+<body onload="">
+<div class="mainWrapper">
+	<div class="headerBar">
+				<a href="/register.html" class="BtnRegister"></a>
+		<a href="/user-login.html" class="BtnLogin"></a>
+		<div class="date">Wednesday, January 18, 2012</div>
+		<div class="searchBox">
+			<form name="searchForm" method="POST" action="/searchresults.html">
+			<table border="0" cellspacing="0" cellpadding="0" class="SearchBox">
+				<tr>
+					<td>Search</td>
+					<td><input type="text" name="search" value="" /></td>
+					<td><input type="image" src="/assets/images/search-go-btn.gif"  class="GoBtn" alt="Search" title="Search" id="btnSubmit" />
+					</td>
+				</tr>
+			</table>
+			</form>
+		</div>	
+	</div>
+	<div class="header" id="bannerSpace">
+				<img align="left" vspace="9" hspace="4" src="/assets/images/sunlive-logo.v2.jpg" alt="SunLive - The Bay's news first" title="SunLive - The Bay's news first" class="headImg" />
+				<script type="text/javascript">GA_googleFillSlot("TheSun_760x120_Banner");</script>
+	</div>
+	<div class="mainMenu">
+		<ul id="sddm1"><li><a href="/index.html">HOME</a></li>
+		<li><a href="/news/1_local-news.html" onMouseOver="mopen('menuLocal News');" onmouseout="mclosetime();">LOCAL NEWS</a>
+		<div id="menuLocal News" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		<a href="/news/1_1_news.html">News</a>
+					<a href="/news/1_2_politics.html">Politics</a>
+					<a href="/news/1_3_council.html">Council</a>
+					<a href="/news/1_4_business-&amp;-markets.html">Business &amp; Markets</a>
+					<a href="/news/1_5_health.html">Health</a>
+					<a href="/news/1_6_environment.html">Environment</a>
+					<a href="/news/1_7_motoring.html">Motoring</a>
+					<a href="/news/1_8_marine.html">Marine</a>
+					<a href="/news/1_9_technology.html">Technology</a>
+					<a href="/news/1_10_property.html">Property</a>
+					<a href="/news/1_11_rural.html">Rural</a>
+					<a href="/news/1_12_city-life.html">City Life</a>
+					<a href="/news/1_15_education.html">Education</a>
+					<a href="/archive.html">News Archive</a>		</div></li><li><a href="/news/2_sport.html" onMouseOver="mopen('menuSport');" onmouseout="mclosetime();">SPORT</a>
+		<div id="menuSport" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		<a href="/sports-draws.html">Sports Draws</a>
+							</div></li><li><a href="/news/3_entertainment.html" onMouseOver="mopen('menuEntertainment');" onmouseout="mclosetime();">ENTERTAINMENT</a>
+		<div id="menuEntertainment" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		<a href="/news/3_18_bay-today.html">Bay Today</a>
+					<a href="/competitions.html">Competitions</a>
+					<a href="/news/3_20_dvd-reviews.html">DVD Reviews</a>
+					<a href="/gig-guide.html">Gig Guide</a>
+					<a href="/horoscopes.html">Horoscopes</a>
+					<a href="/news/3_23_music.html">Music</a>
+					<a href="/news/3_24_oh-baby!.html">Oh Baby!</a>
+					<a href="/whats-on.html">Whats On</a>
+							</div></li><li><a href="/weather-and-tides.html">WEATHER & TIDES</a></li>
+					<li><a href="/blogs/" onMouseOver="mopen('menuBlogs');" onmouseout="mclosetime();">BLOGS & OPINION</a>
+					<div id="menuBlogs" onmouseover="mcancelclosetime()" onmouseout="mclosetime()" style="width: 200px;">
+					<a href="/blogs/1_sport.html">Sport</a>
+			<a href="/blogs/2_entertainment.html">Entertainment</a>
+			<a href="/blogs/3_technology.html">Technology</a>
+			<a href="/blogs/4_lifestyle.html">Lifestyle</a>
+			<a href="/blogs/5_dawn-&-luis:--fitness-and-food.html">Dawn & Luis:  Fitness and Food</a>
+			<a href="/blogs/7_business.html">Business</a>
+			<a href="/blogs/16_regular-columnists.html">Regular Columnists</a>
+			<a href="/blogs/17_all-about-wine.html">All About Wine</a>
+			<a href="/blogs/18_politics.html">Politics</a>
+			<a href="/blogs/20_rural.html">Rural</a>
+			</div></li>
+					<li><a href="http://www.thesun.quikpix.co.nz/afa.asp?idWebPage=8303&idQuikPix_Customers=115" target="_blank">PHOTO GALLERIES</a></li>
+					<li><a href="/classifieds.html">CLASSIFIEDS</a></li>
+					<li><a href="http://www.recruitme.net.nz/" target="_blank">JOBS</a></li>
+					<li><a href="/traffic-cameras.html">TRAFFIC CAMS</a></li>
+					<li class="lastitem"><a href="/contact-us.html" onMouseOver="mopen('menuContact');" onmouseout="mclosetime();">CONTACT US</a>
+					<div id="menuContact" onmouseover="mcancelclosetime()" onmouseout="mclosetime()" style="width: 150px;">
+					<a href="/our-services.html">Our Services</a>
+					<a href="/about-us.html">About Us</a>
+					<a href="/terms-and-conditions.html">Terms &amp; Conditions</a>
+					<a href="/refund-policy.html">Refund Policy</a>
+					<a href="/advertising-media-pack.html">Advertising / Media Pack</a></div></li></ul>
+	</div>
+	<div style="clear:both"></div>
+	<div class="subMenu">
+		<ul id="sddm2">
+			<li><a href="/news/4_28_letters-to-the-editor.html">LETTERS TO ED</a></li>
+			<li><a href="/news/1_3_council.html">COUNCIL</a></li>
+			<li><a href="/news/1_8_marine.html">MARINE</a></li>
+			<li><a href="/news/1_12_city-life.html">CITY LIFE</a></li>
+			<li><a href="/whats-on.html">WHAT'S ON</a></li>
+			<li><a href="/competitions.html">COMPETITIONS</a></li>
+			<li><a href="/news/1_11_rural.html">RURAL</a></li>
+			<li><a href="/news/6_34_funeral-notices.html">FUNERAL NOTICES</a></li>
+			<li><a href="/news/1_10_property.html">PROPERTY</a></li>
+			<li><a href="/shopping.html">SHOPPING</a></li>
+			<li><a href="/news/4_26_the-weekend-sun.html" onMouseOver="mopen('menuTitles');" onmouseout="mclosetime();">PUBLICATIONS</a>
+			<div id="menuTitles" onmouseover="mcancelclosetime()" onmouseout="mclosetime()" style="width: 200px;">
+				<a href="/the-weekend-sun.html">The Weekend Sun</a><a href="/new-farm-dairies.html">New Farm Dairies</a><a href="/news/4_28_letters-to-the-editor.html">Letters to the Editor</a>
+				<a href="/coast-and-country.html">Coast &amp; Country</a><a href="/avoscene.html">Avoscene</a>
+				<a href="/waterline.html">Waterline Magazine</a><a href="/bay-driver.html">Bay Driver</a><a href="/sun-creative.html">Sun Creative</a>
+				<a href="/house-of-the-year.html">House of the Year</a>
+			</div></li>
+			<li class="lastitem"><a href="http://www.freeviewnz.tv/tv_channels_and_listings/" target="blank">TV LISTINGS</a></li>
+		</ul>
+	</div>
+
+	<div class="mainContent">
+	
+				<table cellpadding="0" cellspacing="0">
+			<tr>
+				<td class="leftColumn">
+					<script type='text/javascript'>
+						GA_googleFillSlot("TheSun_160x160");
+					</script>
+	
+					<div class="HeadingBlockGrey"><a href="/news/1_local-news.html">Latest News</a></div>
+	
+					<div class="menuItems"><a href="/news/20897-fire-destroys-shed.html">Fire destroys shed</a><br/><br/>
+	<a href="/news/20893-police-station-demolition-begins.html">Police station demolition begins</a><br/><br/>
+	<a href="/news/20891-assault-at-grumpy-mole.html">Assault at the Grumpy Mole</a><br/><br/>
+	<a href="/news/20889-pharmacy-robber-heavily-disguised.html">Pharmacy robber heavily disguised</a><br/><br/>
+	<a href="/news/20887-motiti-cleanup-slow-to-start.html">Motiti clean-up slow to start</a><br/><br/>
+	<a href="/news/20881-headon-crash-blocks-two-lanes.html">Head-on crash blocks two lanes</a><br/><br/>
+	<a href="/news/20879-baby-food-recalled.html">Baby food recalled</a><br/><br/>
+	<a href="/news/20877-money-throat-no-choke.html">Money in throat no choke</a><br/><br/>
+	<a href="/news/20875-first-car-first-spin-writeoff.html">First car, first spin – write-off</a><br/><br/>
+	<a href="/news/20873-bureta-pharmacy-robbed.html">Bureta Pharmacy robbed</a><br/><br/>
+	<a href="/news/20871-elderly-man-assaulted.html">Elderly man assaulted</a><br/><br/>
+	<a href="/news/20869-victims-parents-await-apology.html">Victim’s parents await apology</a><br/><br/>
+	<a href="/news/20867-balloon-accident-investigation-continues.html">Balloon accident investigation continues</a><br/><br/>
+	<a href="/news/20863-salvors-assess-helicopter-lift.html">Salvors assess helicopter lift</a><br/><br/>
+	<a href="/news/20861-sixth-strike-highly-irresponsible.html">Sixth strike ‘highly irresponsible’</a><br/><br/>
+	</div>
+	
+					<div class="HeadingBlockGrey"><a href="/opinionpoll.html">Opinion Poll</a></div>
+					
+					<div class="menuContent">
+<span id="pollArea">
+<i>Should people who find Rena cargo washed up on beaches be allowed to keep it?</i><br/><br/>
+<form name="pollForm" id="pollForm" onSubmit="xajax_voteInPoll(xajax.getFormValues('pollForm'),'1'); return false;">
+<input type="hidden" name="pid" value="153">
+<table>
+<tr><td><input type="radio" name="pollanswer" id="answer_1" value="1"></td><td>Yes</td></tr><tr><td><input type="radio" name="pollanswer" id="answer_2" value="2"></td><td>No</td></tr>
+</table>
+<input class="pollbutton" type="submit" value="Vote"><input class="pollbutton" type="button" value="View Results" onClick="location.href='/pollresults.html';">
+</form>
+</span></div>
+					
+					<script type='text/javascript'>
+						GA_googleFillSlot("TheSun_160x160_OpPoll");
+					</script>
+					
+					<div class="HeadingBlockGrey"><a href="/news/5_not-the-news.html">Not The News</a></div>
+					
+					<div class="menuContent"><b>Ship captains claim Earth moved</b> - <span style="letter-spacing: 0.1em; line-height: 16px;">Earth scientists studying the after-effects of last year&rsquo;s Japan earthquake, registering a 10 on the Richter scale, have discovered that the shifting continental plates have tilted the earth a little further on its axis. The result is</span>... <a class="morelink" style="color: #990000;" href="/news/20883-ship-captains-claim-earth-moved.html">Read More</a></div>
+					
+				</td>			
+
+				<td class="newsColumn">
+
+					<script type='text/javascript'>
+						GA_googleFillSlot("TheSun_468x60_Banner");
+					</script>
+					
+					<a class="link" href="/index.html">Home</a> >> <a class="link" href="/news/1_local-news.html">Local News</a> >> <a class="link" href="/news/1_1_news.html">News</a>
+					
+					<!--SOCIAL-->
+
+					<div class="postHeader">
+				<h1>Coin swallow hospitalises boy</h1>
+				<p class="byline">Posted at 8:56am Monday 16th Jan, 2012</p>
+				</div>
+								<span class="FBshare">
+						<a class="sn_link" name="fb_share" type="icon_link" href="http://www.facebook.com/sharer.php" target="_blank">Share on Facebook</a> &nbsp;
+						<img src="/assets/images/facebook.gif" border="0"> <a class="sn_link" href="http://www.facebook.com/SunliveBOP" target="_blank">Follow Us on Facebook</a> &nbsp;
+						<a class="sn_link" href="http://www.twitter.com/SunLive_NZ" target="_blank"><img src="/assets/images/twitter.gif" border="0"> Follow on Twitter</a>
+						<br/>
+						<a class="sn_link" href="#" onClick="openPage('/email_friend.php','Email','720','420','no');"><img src="/assets/images/email.gif" border="0"> Email A Friend</a> &nbsp;
+						<img src="/assets/images/printer.gif" border="0"> <a class="sn_link" href="printer-friendly/20820-coin-swallow-hospitalises-boy.html" target="_blank">Printer Friendly Page</a>
+					</span>
+				<div class="post">
+				<p><strong>A Tauranga boy is receiving medical treatment after he reportedly swallowed a $2 coin.</strong></p>
+<p><strong><img src="../assets/images/site/120116-air-ambulance.jpg" alt="" width="468" height="220" /><br /></strong></p>
+<p>At about 6.30pm the Westpac Waikato Air Ambulance airlifted a 10-year-old Tauranga boy from Tauranga Hospital to Waikato Hospital.</p>
+<p>Air ambulance pilot Dan Harcourt says the swallowed coin had lodged in the boy&rsquo;s throat causing a constant gagging reflex.</p>	
+				</div>
+					
+					
+	
+					
+	
+					<div>
+						<h3>Comments</h3>
+						<div class="post">There are no comments on this article.</div>
+					</div>
+<h3>Post a Comment</h3>You must be logged in to make a comment.
+            
+				</td>
+				<td class="extraColumn">
+
+					<div class="HeadingBlockGrey">Related Articles</div>
+					<div class="menuItems"><a href="/news/20897-fire-destroys-shed.html">Fire destroys shed</a><br/><br/><a href="/news/20893-police-station-demolition-begins.html">Police station demolition begins</a><br/><br/><a href="/news/20891-assault-at-grumpy-mole.html">Assault at the Grumpy Mole</a><br/><br/><a href="/news/20889-pharmacy-robber-heavily-disguised.html">Pharmacy robber heavily disguised</a><br/><br/><a href="/news/20887-motiti-cleanup-slow-to-start.html">Motiti clean-up slow to start</a><br/><br/><a href="/news/20881-headon-crash-blocks-two-lanes.html">Head-on crash blocks two lanes</a><br/><br/><a href="/news/20879-baby-food-recalled.html">Baby food recalled</a><br/><br/><a href="/news/20877-money-throat-no-choke.html">Money in throat no choke</a><br/><br/><a href="/news/20875-first-car-first-spin-writeoff.html">First car, first spin – write-off</a><br/><br/><a href="/news/20873-bureta-pharmacy-robbed.html">Bureta Pharmacy robbed</a><br/><br/><a href="/news/20871-elderly-man-assaulted.html">Elderly man assaulted</a><br/><br/><a href="/news/20869-victims-parents-await-apology.html">Victim’s parents await apology</a><br/><br/><a href="/news/20867-balloon-accident-investigation-continues.html">Balloon accident investigation continues</a><br/><br/><a href="/news/20863-salvors-assess-helicopter-lift.html">Salvors assess helicopter lift</a><br/><br/><a href="/news/20861-sixth-strike-highly-irresponsible.html">Sixth strike ‘highly irresponsible’</a><br/><br/></div>
+
+					<script type='text/javascript'>
+						GA_googleFillSlot("TheSun_160x160_Latest");
+					</script>
+					
+					<div class="HeadingBlockGrey">Editor's Picks</div>
+					<div class="menuItems"><a href="/news/20857-red-tape-delays-mauao-track-repairs.html">Red tape delays Mauao track repairs</a><br/><br/><a href="/news/20848-dogs-maim-exhausted-penguins.html">Dogs maim exhausted penguins</a><br/><br/><a href="/news/20719-chefs-thunder-to-roar-at-airshow.html">Chef's Thunder to roar at airshow</a><br/><br/><a href="/news/20715-top-pyrotechnics-citys-airshow.html">Top pyrotechnics for city’s airshow</a><br/><br/><a href="/news/20713-mosquito-to-miss-air-show.html">Mosquito to miss air show</a><br/><br/><a href="/news/20709-loved-ones-amidst-rena-debris.html">Loved ones amidst Rena debris</a><br/><br/><a href="/news/20697-flight-school-goes-into-liquidation.html">Flight school goes into liquidation</a><br/><br/><a href="/news/20699-renas-bow-secured-rising-swell.html">Rena’s bow secured for rising swell</a><br/><br/><a href="/news/20682-barnacle-delicacy-beaches-at-omanu.html">Barnacle delicacy beaches at Omanu</a><br/><br/><a href="/news/20619-renas-reef-slip-drops-two-containers.html">Rena's reef slip drops two containers</a><br/><br/></div>
+
+					<script type='text/javascript'>
+						GA_googleFillSlot("TheSun_160x160_EdPicks");
+					</script>
+							
+				</td>
+				
+				<td class="rightColumn">
+					<script type='text/javascript'>
+						GA_googleFillSlot("TheSun_160x600_Skyscraper");
+					</script>
+					<div class="HeadingBlockGrey"><a href="/news/3_18_bay-today.html">Bay Today</a></div>
+					
+					<div class="menuContent"><p><img src="../assets/images/site/Mount-Maunganui-from-Kulim-Park-by-Denis-Player.jpg" alt="" width="160" height="116" /></p>
+<p>Mount Maunganui from Kulim Park by Denis Player.</p>
+<p><em>Send us your photos and stories from around the Bay of Plenty.</em><br /><strong>Email:</strong> <a href="mailto:newsroom@thesun.co.nz">newsroom@thesun.co.nz</a></p></div>
+
+					<div class="HeadingBlockGrey"><a href="/news/3_24_oh-baby!.html">Oh Baby!</a></div>
+					
+					<div class="menuContent"><img src="../assets/images/site/Jennifer_ColeSL.jpg"><br/><a href="/news/3_24_oh-baby!.html"><i>Click here to see our newest residents.</i></a></div>
+
+					<div class="HeadingBlockGrey"><a href="/competitions.html">Competitions</a></div>
+					
+					<div class="menuContent"><a href="/competitions.html"><img src="/assets/newsletter/competitions.jpg" border="0"></a></div>
+				</td>
+			</tr>
+		</table>
+	
+	</div>
+
+
+	<div class="mainMenu" style="margin-bottom: 5px;">	
+		<ul id="sddm1">
+			<li><a href="/index.html">HOME</a></li>
+			<li><a href="/news/1_news.html">LOCAL NEWS</a></li>
+			<li><a href="/news/2_sport.html">SPORT</a></li>
+			<li><a href="/news/3_entertainment.html">ENTERTAINMENT</a></li>
+			<li><a href="/news/3_25_whats-on.html">WHATS ON</a></li>
+			<li><a href="/competitions.html">COMPETITIONS</a></li>
+			<li><a href="/news/1_11_rural.html">RURAL</a></li>
+			<li><a href="/news/6_34_funeral-notices.html">FUNERAL NOTICES</a></li>
+			<li class="lastitem"><a href="/contact-us.html">CONTACT US</a></li>
+		</ul>
+	</div>
+	
+	<div class="copyBar">&copy;2010 Sun Media Ltd - All Rights Reserved</div><div style="float:right;"><div style="display: inline; padding-right: 5px;"><img src="/assets/images/sun-media-footer.jpg" border="0" alt="Sun Media" /></div></div>
+	
+</div>
+
+	<!-- GOOGLE ANALYTICS -->
+	
+	<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-10384727-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	</script>
+
+	<!-- END GOOGLE ANALYTICS -->
+
+		
+	<!-- START Nielsen Online SiteCensus V6.0 -->
+	<!-- COPYRIGHT 2010 Nielsen Online -->
+	<script type="text/javascript" src="//secure-nz.imrworldwide.com/v60.js">
+	</script>
+	<script type="text/javascript">
+	 var pvar = { cid: "nz-sunmedia", content: "0", server: "secure-nz" };
+	 var trac = nol_t(pvar);
+	 trac.record().post();
+	</script>
+	<noscript>
+	 <div>
+	 <img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-sunmedia&amp;cg=0&amp;cc=1&amp;ts=noscript"
+	 width="1" height="1" alt="" />
+	 </div>
+	</noscript>
+	<!-- END Nielsen Online SiteCensus V6.0 -->
+
+
+</body>
+</html>

@@ -1,0 +1,922 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中国在复杂形势中持续铁腕治理年关欠薪</title>
+<base target="_blank" />
+<meta name="keywords" content="欠薪;中国出口;世界工厂" />
+<meta name="Description" content="中证网,中国证券报,金融,财经,证券,IPO,股票,基金,上市公司,公司,期货,理财,产权,网上路演,中国创业板网,最权威的证券财经资讯网站" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<!--统计meta-->
+<META name="catalogs" content="3246">
+<META name="filetype" content="1">
+<META name="publishedtype" content="1">
+<META name="pagetype" content="1">
+<META name="contentid" content="">
+<META name="publishdate" content="2011-12-09">
+<META name="author" content="田鸿伟">
+<META name="source" content="新华网">
+<!--统计-->
+
+<!-- 网站通用，含跳转，搜索等 -->
+<script type="text/javascript">
+if(location.href.indexOf("gqfz.cs.com.cn")!=-1)
+location.href="http://www.cs.com.cn/gqfz/"
+</script>
+<script language="javascript" type="text/javascript">
+
+function GB2312UTF8(){
+this.Dig2Dec=function(s){
+var retV = 0;
+if(s.length == 4){
+for(var i = 0; i < 4; i ++){
+retV += eval(s.charAt(i)) * Math.pow(2, 3 - i);
+}
+return retV;
+}
+return -1;
+}
+this.Hex2Utf8=function(s){
+var retS = "";
+var tempS = "";
+var ss = "";
+if(s.length == 16){
+tempS = "1110" + s.substring(0, 4);
+tempS += "10" +  s.substring(4, 10);
+tempS += "10" + s.substring(10,16);
+var sss = "0123456789ABCDEF";
+for(var i = 0; i < 3; i ++){
+retS += "%";
+ss = tempS.substring(i * 8, (eval(i)+1)*8);
+retS += sss.charAt(this.Dig2Dec(ss.substring(0,4)));
+retS += sss.charAt(this.Dig2Dec(ss.substring(4,8)));
+}
+return retS;
+}
+return "";
+}
+this.Dec2Dig=function(n1){
+var s = "";
+var n2 = 0;
+for(var i = 0; i < 4; i++){
+n2 = Math.pow(2,3 - i);
+if(n1 >= n2){
+s += '1';
+n1 = n1 - n2;
+}
+else
+s += '0';
+}
+return s;     
+}
+
+this.Str2Hex=function(s){
+var c = "";
+var n;
+var ss = "0123456789ABCDEF";
+var digS = "";
+for(var i = 0; i < s.length; i ++){
+c = s.charAt(i);
+n = ss.indexOf(c);
+digS += this.Dec2Dig(eval(n));
+}
+return digS;
+}
+this.Gb2312ToUtf8=function(s1){
+var s = escape(s1);
+var sa = s.split("%");
+var retV ="";
+if(sa[0] != ""){
+retV = sa[0];
+}
+for(var i = 1; i < sa.length; i ++){
+if(sa[i].substring(0,1) == "u"){
+retV += this.Hex2Utf8(this.Str2Hex(sa[i].substring(1,5)));
+if(sa[i].length){
+retV += sa[i].substring(5);
+}
+}
+else{
+retV += unescape("%" + sa[i]);
+if(sa[i].length){
+retV += sa[i].substring(5);
+}
+}
+}
+return retV;
+}
+this.Utf8ToGb2312=function(str1){
+var substr = "";
+var a = "";
+var b = "";
+var c = "";
+var i = -1;
+i = str1.indexOf("%");
+if(i==-1){
+return str1;
+}
+while(i!= -1){
+if(i<3){
+substr = substr + str1.substr(0,i-1);
+str1 = str1.substr(i+1,str1.length-i);
+a = str1.substr(0,2);
+str1 = str1.substr(2,str1.length - 2);
+if(parseInt("0x" + a) & 0x80 == 0){
+substr = substr + String.fromCharCode(parseInt("0x" + a));
+}
+else if(parseInt("0x" + a) & 0xE0 == 0xC0){ //two byte
+b = str1.substr(1,2);
+str1 = str1.substr(3,str1.length - 3);
+var widechar = (parseInt("0x" + a) & 0x1F) << 6;
+widechar = widechar | (parseInt("0x" + b) & 0x3F);
+substr = substr + String.fromCharCode(widechar);
+}
+else{
+b = str1.substr(1,2);
+str1 = str1.substr(3,str1.length - 3);
+c = str1.substr(1,2);
+str1 = str1.substr(3,str1.length - 3);
+var widechar = (parseInt("0x" + a) & 0x0F) << 12;
+widechar = widechar | ((parseInt("0x" + b) & 0x3F) << 6);
+widechar = widechar | (parseInt("0x" + c) & 0x3F);
+substr = substr + String.fromCharCode(widechar);
+}
+}
+else {
+substr = substr + str1.substring(0,i);
+str1= str1.substring(i);
+}
+i = str1.indexOf("%");
+}
+
+return substr+str1;
+}
+}
+</script>
+<script language="javascript" type="text/javascript">
+
+	function todo(ls){
+	window.open("http://www.cs.com.cn/cs/cs_new.asp?code="+ls,"jrjminhello","height=400,width=672,status=no,toolbar=no,menubar=no,location=no,resizable=no");return false;
+	}
+	function todo_com(ls){
+	window.open('http://www.listcom.com.cn/stock/Cobaseinfo.asp?strInput='+ls,'','toolbar=no,height=510,width=671,status=no,scrollbars=no');
+	return false;
+	}
+	action="http://www.cs.com.cn/trsweb/search.wct?Channelid=2771"
+	function todo_trsD(ls){
+	window.open('http://search.cs.com.cn/search/outline.jsp?Channelid=2771&Searchword=signdate='+ls,'','toolbar=yes,height=510,width=671,status=yes,scrollbars=yes');
+	return false;
+	}
+	function todo_trs(ls){
+	var Gb=new GB2312UTF8();
+        var Utf8=Gb.Gb2312ToUtf8(ls);
+	window.open('http://search.cs.com.cn/newsQuickSearch.do?searchword='+Utf8,'','');	return false;
+	}
+	function P7_JumpMenu(selObj,restore){ //v1.7 by Project Seven
+		var theFullString = selObj.options[selObj.selectedIndex].value;
+		if (restore) selObj.selectedIndex=0;
+		var theLength = theFullString.length;
+		var endPos = theFullString.lastIndexOf("~");
+		var theUrl, theTarget, theParent;
+		if (endPos > 0) {theUrl = theFullString.substring(0,endPos);}
+		else {theUrl = theFullString;}
+		endPos++
+		if (endPos < theLength) {theTarget = theFullString.substring(endPos,theLength)}
+		else {theTarget = "window:Main";}
+		if (theTarget == "window:New") {window.open(theUrl);}
+		else if (theTarget == "window:Main") {eval("parent.location='"+theUrl+"'");}
+		else {eval("parent.frames[\'"+theTarget+"\'].location='"+theUrl+"'");}
+	}
+	function SelText(){
+		var obj = document.getElementById("TrsSearch");
+		obj.searchWhere.value = "";
+	}
+</script>
+<script language='JavaScript' type='text/JavaScript'>
+function MM_openBrWindow(theURL,winName,features) 
+{ //v2.0
+  window.open(theURL,winName,features);
+}
+</script>
+<!-- 网站通用结束 -->
+
+<!-- 标签 -->
+<script type="text/javascript">
+<!--
+function setTab(m,n){
+var tli=document.getElementById("menu"+m).getElementsByTagName("li");
+var mli=document.getElementById("main"+m).getElementsByTagName("ul");
+for(i=0;i<tli.length;i++){
+tli[i].className=i==n?"hover":"";
+mli[i].style.display=i==n?"block":"none";
+}
+}
+//-->
+</script>
+<!-- 标签结束 -->
+
+<!-- 移动 -->
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sina={$:function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}},isIE:navigator.appVersion.indexOf("MSIE")!=-1?true:false,addEvent:function(l,i,I){if(l.attachEvent){l.attachEvent("on"+i,I)}else{l.addEventListener(i,I,false)}},delEvent:function(l,i,I){if(l.detachEvent){l.detachEvent("on"+i,I)}else{l.removeEventListener(i,I,false)}},readCookie:function(O){var o="",l=O+"=";if(document.cookie.length>0){var i=document.cookie.indexOf(l);if(i!=-1){i+=l.length;var I=document.cookie.indexOf(";",i);if(I==-1)I=document.cookie.length;o=unescape(document.cookie.substring(i,I))}};return o},writeCookie:function(i,l,o,c){var O="",I="";if(o!=null){O=new Date((new Date).getTime()+o*3600000);O="; expires="+O.toGMTString()};if(c!=null){I=";domain="+c};document.cookie=i+"="+escape(l)+O+I},readStyle:function(I,l){if(I.style[l]){return I.style[l]}else if(I.currentStyle){return I.currentStyle[l]}else if(document.defaultView&&document.defaultView.getComputedStyle){var i=document.defaultView.getComputedStyle(I,null);return i.getPropertyValue(l)}else{return null}}};
+
+//滚动图片构造函数
+//UI&UE Dept. mengjia
+//090625
+function ScrollPic(i,o,I,l,O){var c=this;c.scrollContId=i;c.arrLeftId=o;c.arrRightId=I;c.dotListId=l;c.listType=O;c.dotClassName="dotItem";c.dotOnClassName="dotItemOn";c.dotObjArr=[];c.listEvent="onclick";c.circularly=true;c.pageWidth=0;c.frameWidth=0;c.speed=10;c.space=10;c.upright=false;c.pageIndex=0;c.autoPlay=true;c.autoPlayTime=5;c._autoTimeObj;c._scrollTimeObj;c._state="ready";c.stripDiv=document.createElement("DIV");c.listDiv01=document.createElement("DIV");c.listDiv02=document.createElement("DIV")};ScrollPic.prototype.version="1.20";ScrollPic.prototype.author="mengjia";ScrollPic.prototype.initialize=function(){var O=this,l=O;if(!O.scrollContId){throw new Error("必须指定scrollContId.");return};O.scrollContDiv=sina.$(O.scrollContId);if(!O.scrollContDiv){throw new Error("scrollContId不是正确的对象.(scrollContId = \""+O.scrollContId+"\")");return};O.scrollContDiv.style[O.upright?'height':'width']=O.frameWidth+"px";O.scrollContDiv.style.overflow="hidden";O.listDiv01.innerHTML=O.scrollContDiv.innerHTML;O.scrollContDiv.innerHTML="";O.scrollContDiv.appendChild(O.stripDiv);O.stripDiv.appendChild(O.listDiv01);if(O.circularly){O.stripDiv.appendChild(O.listDiv02);O.listDiv02.innerHTML=O.listDiv01.innerHTML};O.stripDiv.style.overflow="hidden";O.stripDiv.style.zoom="1";O.stripDiv.style[O.upright?'height':'width']="32766px";if(!O.upright){O.listDiv01.style.cssFloat="left";O.listDiv01.style.styleFloat="left";O.listDiv01.style.overflow="hidden"};O.listDiv01.style.zoom="1";if(O.circularly&&!O.upright){O.listDiv02.style.cssFloat="left";O.listDiv02.style.styleFloat="left";O.listDiv02.style.overflow="hidden"};O.listDiv02.style.zoom="1";sina.addEvent(O.scrollContDiv,"mouseover",function(){l.stop()});sina.addEvent(O.scrollContDiv,"mouseout",function(){l.play()});if(O.arrLeftId){O.arrLeftObj=sina.$(O.arrLeftId);if(O.arrLeftObj){sina.addEvent(O.arrLeftObj,"mousedown",function(){l.rightMouseDown()});sina.addEvent(O.arrLeftObj,"mouseup",function(){l.rightEnd()});sina.addEvent(O.arrLeftObj,"mouseout",function(){l.rightEnd()})}};if(O.arrRightId){O.arrRightObj=sina.$(O.arrRightId);if(O.arrRightObj){sina.addEvent(O.arrRightObj,"mousedown",function(){l.leftMouseDown()});sina.addEvent(O.arrRightObj,"mouseup",function(){l.leftEnd()});sina.addEvent(O.arrRightObj,"mouseout",function(){l.leftEnd()})}};if(O.dotListId){O.dotListObj=sina.$(O.dotListId);O.dotListObj.innerHTML="";if(O.dotListObj){var I=Math.round(O.listDiv01[O.upright?'offsetHeight':'offsetWidth']/O.frameWidth+0.4),o,i;for(o=0;o<I;o++){i=document.createElement("span");O.dotListObj.appendChild(i);O.dotObjArr.push(i);if(o==O.pageIndex){i.className=O.dotOnClassName}else{i.className=O.dotClassName};if(O.listType=='number'){i.innerHTML=o+1};i.title="第"+(o+1)+"页";i.num=o;i[O.listEvent]=function(){l.pageTo(this.num)}}}};O.scrollContDiv[O.upright?'scrollTop':'scrollLeft']=0;if(O.autoPlay){O.play()}};ScrollPic.prototype.leftMouseDown=function(){if(this._state!="ready"){return};var thisTemp=this;this._state="floating";this._scrollTimeObj=setInterval(function(){thisTemp.moveLeft()},this.speed)};ScrollPic.prototype.rightMouseDown=function(){if(this._state!="ready"){return};var thisTemp=this;this._state="floating";this._scrollTimeObj=setInterval(function(){thisTemp.moveRight()},this.speed)};ScrollPic.prototype.moveLeft=function(){var i=this;if(i.circularly){if(i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]+i.space>=i.listDiv01[(i.upright?'scrollHeight':'scrollWidth')]){i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]=i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]+i.space-i.listDiv01[(i.upright?'scrollHeight':'scrollWidth')]}else{i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]+=i.space}}else{if(i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]+i.space>=i.listDiv01[(i.upright?'scrollHeight':'scrollWidth')]-i.frameWidth){i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]=i.listDiv01[(i.upright?'scrollHeight':'scrollWidth')]-i.frameWidth;i.leftEnd()}else{i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]+=i.space}};i.accountPageIndex()};ScrollPic.prototype.moveRight=function(){var i=this;if(i.circularly){if(i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]-i.space<=0){i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]=i.listDiv01[(i.upright?'scrollHeight':'scrollWidth')]+i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]-i.space}else{i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]-=i.space}}else{if(i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]-i.space<=0){i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]=0;i.rightEnd()}else{i.scrollContDiv[(i.upright?'scrollTop':'scrollLeft')]-=i.space}};i.accountPageIndex()};ScrollPic.prototype.leftEnd=function(){var I=this;if(I._state!="floating"){return};I._state="stoping";clearInterval(I._scrollTimeObj);var i=I.pageWidth-I.scrollContDiv[(I.upright?'scrollTop':'scrollLeft')]%I.pageWidth;I.move(i)};ScrollPic.prototype.rightEnd=function(){var I=this;if(I._state!="floating"){return};I._state="stoping";clearInterval(I._scrollTimeObj);var i=-I.scrollContDiv[(I.upright?'scrollTop':'scrollLeft')]%I.pageWidth;I.move(i)};ScrollPic.prototype.move=function(num,quick){var thisTemp=this,thisMove=num/5;if(!quick){if(thisMove>this.space){thisMove=this.space};if(thisMove<-this.space){thisMove=-this.space}};if(Math.abs(thisMove)<1&&thisMove!=0){thisMove=thisMove>=0?1:-1}else{thisMove=Math.round(thisMove)};var temp=this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+thisMove;if(thisMove>0){if(this.circularly){if(this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+thisMove>=this.listDiv01[(this.upright?'scrollHeight':'scrollWidth')]){this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]=this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+thisMove-this.listDiv01[(this.upright?'scrollHeight':'scrollWidth')]}else{this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+=thisMove}}else{if(this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+thisMove>=this.listDiv01[(this.upright?'scrollHeight':'scrollWidth')]-this.frameWidth){this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]=this.listDiv01[(this.upright?'scrollHeight':'scrollWidth')]-this.frameWidth;this._state="ready";return}else{this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+=thisMove}}}else{if(this.circularly){if(this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+thisMove<0){this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]=this.listDiv01[(this.upright?'scrollHeight':'scrollWidth')]+this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+thisMove}else{this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+=thisMove}}else{if(this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]-thisMove<0){this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]=0;this._state="ready";return}else{this.scrollContDiv[(this.upright?'scrollTop':'scrollLeft')]+=thisMove}}};num-=thisMove;if(Math.abs(num)==0){this._state="ready";if(this.autoPlay){this.play()};this.accountPageIndex();return}else{this.accountPageIndex();this._scrollTimeObj=setTimeout(function(){thisTemp.move(num,quick)},this.speed)}};ScrollPic.prototype.pre=function(){var i=this;if(i._state!="ready"){return};i._state="stoping";i.move(-i.pageWidth,true)};ScrollPic.prototype.next=function(i){var I=this;if(I._state!="ready"){return};I._state="stoping";if(I.circularly){I.move(I.pageWidth,true)}else{if(I.scrollContDiv[(I.upright?'scrollTop':'scrollLeft')]>=I.listDiv01[(I.upright?'scrollHeight':'scrollWidth')]-I.frameWidth){I._state="ready";if(i){I.pageTo(0)}}else{I.move(I.pageWidth,true)}}};ScrollPic.prototype.play=function(){var thisTemp=this;if(!this.autoPlay){return};clearInterval(this._autoTimeObj);this._autoTimeObj=setInterval(function(){thisTemp.next(true)},this.autoPlayTime*1000)};ScrollPic.prototype.stop=function(){clearInterval(this._autoTimeObj)};ScrollPic.prototype.pageTo=function(i){var l=this;if(l.pageIndex==i){return};clearTimeout(l._scrollTimeObj);l._state="stoping";var I=i*l.frameWidth-l.scrollContDiv[(l.upright?'scrollTop':'scrollLeft')];l.move(I,true)};ScrollPic.prototype.accountPageIndex=function(){var I=this,i=Math.round(I.scrollContDiv[(I.upright?'scrollTop':'scrollLeft')]/I.frameWidth);if(i==I.pageIndex){return};I.pageIndex=i;if(I.pageIndex>Math.round(I.listDiv01[I.upright?'offsetHeight':'offsetWidth']/I.frameWidth+0.4)-1){I.pageIndex=0};var l;for(l=0;l<I.dotObjArr.length;l++){if(l==I.pageIndex){I.dotObjArr[l].className=I.dotOnClassName}else{I.dotObjArr[l].className=I.dotClassName}}};
+//--><!]]>
+</script>
+<!-- 移动结束 -->
+<link href="/css/styleun_2010_1.css" rel="stylesheet" type="text/css"/>
+<script language=JavaScript type=text/javascript>
+function zoomIn() {
+ newZoom= parseInt(ozoom1.style.zoom)+10+'%'
+ ozoom1.style.zoom =newZoom;
+ } 
+function zoomOut() {
+ newZoom= parseInt(ozoom1.style.zoom)-10+'%'
+ ozoom1.style.zoom =newZoom;
+ } 
+function readTxt()
+{
+	var txt = document.all("ozoom1").innerText;
+	playerPlay(txt);
+}
+</script>
+<style type="text/css">
+.blank3_h{clear:both; height:3px; font-size:1px; line-height:1px;}
+/* gray line */
+.z_line{height:1px;font-size:1px;display:block; clear:both; background:url(/images_2010/bg_line.gif) repeat-x}
+/*document------*/
+.z_titlebig{font-size:20px; font-family:"宋体"; color:#030000;font-weight:bold; padding:0 30px 5px 30px;}
+.z_titlelit{font-size:14px; font-family:"宋体"; color:#333;font-weight:normal;letter-spacing:1px;padding:0 30px 0 30px;}
+
+.z_name{color:#71716a;height:21px;padding:5px 10px 0 30px; font-size:12px;}
+.z_origin{float:left;padding:0 10px 0 30px;color:#71716a;height:21px;width:400px; font-size:12px;}
+.z_other{float:right;color:#71716a;height:21px;padding:0 10px 0 0px; font-size:12px;}
+.z_other a:link ,.z_other a:visited {color:#08587f; text-decoration:none; font-size:12px;}
+.z_other a:hover {color: #972e4d; text-decoration:none;}
+
+.z_dd{padding:0 30px 0 30px;line-height:22px;font-weight:bold;color:#972e4d; }
+.z_dd li{height:24px;}
+.z_dd li a{font-weight:normal;}
+.z_dd_l{float:left; width:265px;}
+.z_dd_r{float:right; width:295px; height:158px; padding:0;margin:0;}
+.z_dd_r img{width:325px; height:158px; padding:0;margin:0;}
+
+.z_content{font:normal 14px "宋体";line-height:26px;word-spacing:0px;color:#333;padding:10px 20px 10px 20px;}
+	.z_content a:link, .z_content a:visited { color:#095883; text-decoration:none;}
+	.z_content a:hover { color:#095883; text-decoration:underline;}
+
+
+.z_atta{padding:0 20px 0 20px;}
+.z_atta li{height:24px;background:url("/images_2010/detail_link.gif") no-repeat;padding:0 0 0 20px;}
+
+.z_page{text-align:right;padding:0 20px 0 20px;height:20px; color:#08587f;}
+.z_page a:link ,.z_page a:visited {color:#08587f; text-decoration:none;font-weight:normal;}
+.z_page a:hover {color: #972e4d; text-decoration:none;font-weight:normal;}
+.z_page_now{color: #972e4d;font-weight:normal;}
+.z_page_none{color:#08587f;font-weight:normal;}
+
+.z_ad{text-align:center;line-height:24px;padding:10px 20px 10px 20px;}
+.z_note{color:#a7a299;padding:6px 20px 6px 20px;line-height:24px; font-size:12px;}
+.z_link li{height:22px;color:#a7a299;}
+</style>
+</head>
+<body>
+<div class="content">
+	<!-- logo 总导航 广告-->
+	<!-- login_search -->
+<div class="box948 login">
+<p class="bc"><a href="http://www.cs.com.cn/">中国证券报・中证网</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.cs.com.cn/english/" target="_blank">CHINA SECURITIES JOURNAL</a></p>
+<script type="text/javascript"> 	
+var docTitle="docTitle=' ";
+var docContent="' or docContent=' ";
+var end=" '";
+</script>
+<div class="search">
+    <form name=TrsSearch method=post onsubmit="return todo_trs(TrsSearch.searchword.value)">
+   <span class="s3">
+        <input name="submit" type="submit" value="检索"/>
+      </span>
+
+      <span class="s2">
+        文章检索 <input id="searchword" name="searchword"/>
+      </span>
+          </form>
+</div>
+</div>
+<!-- login_search_end -->
+<div class="blank5_h"></div>
+
+<div class="box950">
+	<div class="logo"><img src="/images_2010/cs_logo01.gif" width="106" height="39"/></div>
+    <div class="date">
+<script language="JavaScript" type="text/JavaScript">     
+var day=""; 
+var month=""; 
+var ampm=""; 
+var ampmhour=""; 
+var myweekday=""; 
+var year=""; 
+mydate=new Date(); 
+myweekday=mydate.getDay(); 
+mymonth=mydate.getMonth()+1; 
+myday= mydate.getDate(); 
+myyear= mydate.getYear(); 
+year=(myyear > 200) ? myyear : 1900 + myyear; 
+if(myweekday == 0) 
+weekday=" 星期日 "; 
+else if(myweekday == 1) 
+weekday=" 星期一 "; 
+else if(myweekday == 2) 
+weekday=" 星期二 "; 
+else if(myweekday == 3) 
+weekday=" 星期三 "; 
+else if(myweekday == 4) 
+weekday=" 星期四 "; 
+else if(myweekday == 5) 
+weekday=" 星期五 "; 
+else if(myweekday == 6) 
+weekday=" 星期六 "; 
+document.write(mymonth+"月"+myday+"日 "+weekday); 
+             </script>
+    </div>
+    <div class="navbox">
+    	<div class="navbox_l">社<br />区</div>
+        <div class="navbox_r">
+          <p class="space_b11"><strong><a href="http://home.cs.com.cn/" target="_blank">股事会</a></strong>　<a href="http://stockbar.cs.com.cn/" target="_blank">股吧</a>　<a href="http://blog.cs.com.cn/" target="_blank">博客</a></p><p><a href="http://www.cs.com.cn/gmkt/" target="_blank">股民课堂</a> <a href="http://roadshow.cs.com.cn/rsweb/" target="_blank">路演</a> <a href="http://www.cs.com.cn/video/" target="_blank">视频</a></p></div>
+    </div>
+    <div class="navbox">
+    	<div class="navbox_l">理<br />财</div>
+        <div class="navbox_r">
+          <p class="space_b11"><a href="http://www.cs.com.cn/tzjj/" target="_blank">基金</a>　<a href="http://www.cs.com.cn/yh/" target="_blank">银行</a>　<a href="http://www.cs.com.cn/bxtd/" target="_blank">保险</a></p><p><a href="http://www.cs.com.cn/qsxt/" target="_blank">券商・信托</a>　<a href="http://www.cs.com.cn/sctz/" target="_blank">收藏</a></p></div>
+    </div>
+    <div class="navbox">
+    	<div class="navbox_l">产<br />业</div>
+        <div class="navbox_r">
+          <p class="space_b11"><a href="http://www.cs.com.cn/ssgs/" target="_blank">公司</a>　<a href="http://www.cs.com.cn/wyss/" target="_blank">我要上市</a></p><p><a href="http://www.cs.com.cn/cqzk/" target="_blank">产权</a>　<a href="http://www.cs.com.cn/fc/" target="_blank">地产</a>　<a href="http://www.cs.com.cn/qcpd/" target="_blank">汽车</a></p></div>
+       </div>
+    <div class="navbox">
+    	<div class="navbox_l">市<br />场</div>
+        <div class="navbox_r">
+          <p class="space_b11"><a href="http://www.cs.com.cn/gppd/" target="_blank">股票</a>　<a href="http://www.cs.com.cn/qhsc/" target="_blank">期货</a>　<a href="http://www.cs.com.cn/gg/" target="_blank">港股</a></p><p><a href="http://www.cs.com.cn/hb/" target="_blank">货币</a>　<a href="http://stock.cs.com.cn/stock/" target="_blank">行情中心</a></p></div>
+    </div>
+    <div class="navbox">
+    	<div class="navbox_l">资<br />讯</div>
+        <div class="navbox_r">
+          <p class="space_b11"><a href="http://www.cs.com.cn/xwzx/" target="_blank">新闻</a>　<a href="http://www.cs.com.cn/hw/" target="_blank">海外</a>　<a href="http://www.cs.com.cn/zcfg/" target="_blank">法规</a></p><p><strong><a href="http://epaper.cs.com.cn/dnis/" target="_blank">中国证券报</a></strong>　<a href="http://www.cs.com.cn/english/" target="_blank">English</a></p></div>
+    </div>
+</div>
+<div class="blank5_h"></div>
+
+<!--顶部广告变量设定-->
+
+
+	<!--<div class="blankc"></div>
+<a href="http://www.cs.com.cn/ssgs/11/20100702/"><img src="/images_banner/banner_zt2010bnb.jpg" width="950" height="60" border=0/></a>-->
+<!--两个广告：304*60 以及 640*60-->
+<div class="flleft"><a href="http://www.vcpe.org.cn/Forum/"><img src="/ggfiles/xzgg0622.jpg" width="304" height="60"/></a></div>
+<div class="flright"><EMBED src='/ggfiles/ycmg1207.swf' WIDTH=640 HEIGHT=60 TYPE='application/x-shockwave-flash' border=0></EMBED><!--<a href="http://www.icbc.com.cn/icbc/%E7%BD%91%E4%B8%8A%E9%BB%84%E9%87%91/"><img src="/ggfiles/ad_111014_2.gif" width="640" height="60"/></a><a href="http://itunes.apple.com/cn/app/id456854027?mt=8"><img src="/ggfiles/20111024/bottombanner.jpg" width="640" height="60"/></a>--></div>
+
+
+
+
+
+<!-- 显示通用顶通：[1] -->
+<!-- 显示特定广告顶通：[0] -->
+<!--顶部广告变量设定-->
+
+	<!-- logo 总导航 广告-->
+   <div class="line_red"></div>
+</div>
+
+<!--导航-->
+<div class="navbar">
+	<div class="currenttext linkwhite"><a href="../../../">首页</a>&nbsp;&gt;&nbsp;<a href="../../">新闻中心</a>&nbsp;&gt;&nbsp;<a href="../">时事要闻</a></div>
+</div>
+<!--导航-->
+
+<div class="blank10_h"></div>
+<div class="blank5_h"></div>
+
+<div class="content">
+	<!-- 左侧内容 -->
+	<div class="content_left">
+		<!-- 内容开始 -->
+		<!-- 主标题 -->
+		<div class="z_titlebig">中国在复杂形势中持续铁腕治理年关欠薪</div>
+		<!-- 主标题结束 -->
+		<!-- 副标题 -->
+		<div class="z_titlelit"></div>
+		<!-- 副标题结束 -->
+		<!-- 作者 -->
+		<div class="z_name">作者：王攀</div>
+		<!-- 作者结束 -->
+		<!-- 来源时间 -->
+		<div class="z_origin">来源：新华网　　2011-12-09 19:55:00</div>
+		<div class="z_other">【大小：<a onClick="zoomIn();" href="javascript:" target="_self">＋</A> <A  onClick="zoomOut();" href="javascript:" target="_self">－</A>】【<A href="javascript:;" onclick="window.print()" target="_self">打印</A>】【<A HREF="#pinglun" target="_self">评论</A>】</div>
+		<!-- 来源时间结束 -->
+                <div class="blank5_h"></div>
+
+		<!-- 虚线  -->
+		<div class="z_line"></div>
+		<!-- 虚线结束  -->
+		<div class="blank10_h"></div>
+		<!-- 导读 -->
+		<div class="z_dd">
+                    <div class="z_dd_l">
+			<h5 class="linkred">财经时评：</h5>
+			<ul>
+			
+				<li class="linkblue fontbold"><a href="../../01_1/201112/t20111209_3162003.html">2012中国经济将更加注重调结构</a></li>
+			
+				<li class="linkblue fontbold"><a href="../../01_1/201112/t20111208_3160241.html">“保增长”是当务之急</a></li>
+			
+				<li class="linkblue fontbold"><a href="../../01_1/201112/t20111208_3160328.html">让监管风暴来得更猛些</a></li>
+			
+			
+				<li class="linkblue fontbold"><a href="../../13/201112/t20111206_3156641.html">做多美元 做空人民币</a></li>
+			
+				<li class="linkblue fontbold"><a href="../../13/201111/t20111130_3148982.html">楼市悲情罩县城</a></li>
+						
+			</ul>
+		</div>
+
+                    <div class="z_dd_r">
+                    <!-- 广告-财经时评 -->
+		<div></div>
+		    <!-- 广告-财经时评结束 -->
+
+                    </div>
+
+		</div>
+		<!-- 导读结束 -->
+		<div class="blank5_h"></div>
+
+		<!-- 正文 -->
+		<div class="z_content" id=ozoom1 style="ZOOM: 100%">
+                   		    <P>　　在获知广东省一所基层法院以“拒不支付劳动报酬罪”判处一位欠薪逃匿的建筑业包工头有期徒刑十个月，并处罚金人民币两万元后，在珠三角打工多年的农民工黎永芬说，这让她看到了通过更有力的法律途径追讨欠薪的希望。</P>
+<P>　　“我被拖欠了两个月总计６０００元的工资。”这位年近４０岁的四川籍女农民工说，自己在年初把孩子送回老家后，本来指望通过打工赚点钱回老家，但是没有想到在接近年关的时候，老板却欠薪逃逸了，“我非常希望法律能够惩罚他”。</P>
+<P>　　黎永芬是总数超过２亿人的中国广大农民工群体中的普通一员。时近岁末，在全球经济复苏步伐放缓造成中国出口订单下滑、企业成本上升、利润空间收窄的大背景下，如何保障他们免遭欠薪伤害，已经引起中国政府相关部门及社会各界的高度关注。</P>
+<P>　　中国人力资源和社会保障部部长尹蔚民日前在有关会议上就表示，要把预防和解决农民工工资拖欠作为２０１２年元旦春节前一项重要工作摆在突出位置。</P>
+<P>　　他说，要切实维护广大农民工合法报酬权，维护社会稳定。</P>
+<P>　　市场迹象表明，曾经困扰中国社会的欠薪问题今年已经呈现出一定的缓和态势。以“世界工厂”广东为例，这个有着２６００多万外来务工人员的用工大省今年前１０个月受理工资支付案件总数比去年下降７．８％，因欠薪逃匿引发的群体性事件同比下降１５．８２％，而欠薪金额更是同比下降２５．５％，降幅显著。</P>
+<P>　　有关人士认为，“招工难”刺激企业主动改善劳动待遇，是缓解欠薪现象的一个外部因素。广东东莞一家精密五金制造企业的负责人说，今年以来，受招工困难影响，企业不仅需要大幅提高工资水准，还必须保障工资按时、足额发放，“否则工人会立即离开”。</P>
+<P>　　但更多企业和工人认为，中国各级政府部门持续预防和解决农民工工资拖欠的努力才是改善欠薪状况的主要原因。１９９５年就进入建筑行业、曾被多次欠薪的南京市建工集团广州分公司工地工会副主席尤良海说，近年来，在政府部门严厉规范下，企业已经做到通过现场监督将工资及时足额“发放到每位工人手上”，这和此前工人工资往往被延误半年甚至一年才发放形成鲜明对比；在出现短暂欠薪的情况下，企业会垫付，并通过公安机关向拖欠工人工资的包工头进行追索。</P>
+<P>　　工会组织也在预防和解决农民工欠薪中发挥更积极作用。２００７年成立、保持着１万多名会员规模的广州市荔湾区建筑工地工会联合会主席陈美儿说，当地已经形成了“有一个工地就组建一个工会”的工作模式。发放工资时，工会工作人员会抵达现场监督，并帮助每位工人拍照确认，防止冒领、漏领；工会还要求企业在分包商发完工资后才支付剩余工程款，防止欠薪逃逸。</P>
+<P>　　“以前建筑行业总是欠薪，现在这种情况已经大幅减少。工会接受到的投诉也在持续下降。”陈美儿说。</P>
+<P>　　中国劳动领域法律法规的完善则为治理欠薪提供了更加良好的法制环境。今年年初，《中华人民共和国刑法修正案（八）》出台，拒不支付劳动者报酬等严重危害群众利益的行为也被正式列入。广东省人社厅劳动监察局有关负责人表示，惠州首例判决案例出台，为广东运用“拒不支付劳动报酬罪”打击恶意欠薪提供了可操作的范本。</P>
+<P>　　随着环境的改善，一些“欠薪重灾行业”也开始迎来农民工“回流潮”。４８岁的湖南籍农民工刘光胜在自己１７年的外出打工生涯中，曾多次在建筑工地上遭遇欠薪，“被欠薪欠怕了”的他一度离开了这个行业。今年年中，他不仅再度回到了工程队里，还介绍了几个同乡一同加入。他说：“现在拿钱安稳多了，人也就敢安心进入工地了。”</P>
+<P>　　然而，中国治理欠薪工作仍需面对巨大挑战。尹蔚民说，目前拖欠农民工工资问题尚未得到根治。与此同时，受欧债危机等国际因素影响而出现的经营困难正在使得新一轮工资拖欠纠纷在一些企业特别是珠三角、长三角地区的出口企业内抬头，有可能造成新的社会隐忧。</P>
+<P>　　值得注意的是，也有少数企业是以危机为借口恶意欠薪。黎永芬说，自己所在的一家电子公司就是这样。“企业本来经营正常，此前为了争取工人入厂，还曾许下非常好的承诺。但老板在１２月５日突然逃离，拖欠了员工两个多月的工资近８０万元。”</P>
+<P>　　当前，面对已经出现和将来有可能出现的欠薪事件，中国政府有关部门已经向社会表达了“铁腕整治”的明确态度。近期，中国人力资源和社会保障部将会同有关部门组成联合督查组，赴部分省市进行督查。同时，国务院农民工工作联席会议办公室组织开展的第五次农民工工作督察，将保障农民工工资按时足额发放列为重要督察内容。</P>
+<P>　　黎永芬说，在当地政府协商处理下，她所在企业的１４０多名工人已经可以拿到政府部门垫付的部分工资，“法律还在不断完善，政府也告诉我们还有继续追诉的权利。我期待着‘拒不支付劳动报酬罪’让我拿齐所有劳动报酬的那一天。”</P>
+		</div>
+		<!-- 正文结束 -->
+		<div class="blank5_h"></div>
+		<!-- 附件列表 -->
+		<div class="z_atta">
+			<ul>
+                                
+                        </ul>
+		</div>		
+		<!-- 附件列表结束 -->
+		<div class="z_blank10"></div>
+		<!-- 翻页 -->
+		<div class="z_page"><SCRIPT LANGUAGE="JavaScript">
+var currentPage = 0;//所在页从0开始
+var prevPage = currentPage-1//上一页
+var nextPage = currentPage+1//下一页
+var countPage = 1//共多少页
+
+//设置上一页代码
+if(countPage>1&&currentPage!=0&&currentPage!=1)
+	document.write("<a href=\"t20111209_3163569.html\" target='_self'>首页</a>　<a href=\"t20111209_3163569"+"_" + prevPage + "."+"html\" target='_self'>上一页</a>");
+else if(countPage>1&&currentPage!=0&&currentPage==1)
+	document.write("<a href=\"t20111209_3163569.html\" target='_self'>首页</a>　<a href=\"t20111209_3163569.html\" target='_self'>上一页</a>");
+else
+	document.write("<span class=z_page_none>首页</span>　<span class=z_page_none>上一页</span>");
+//循环
+
+document.write("&nbsp;第");
+var num = 10;
+for(var i=0+(currentPage-1-(currentPage-1)%num) ; i<=(num+(currentPage-1-(currentPage-1)%num))&&(i<countPage) ; i++){
+	if(currentPage==i)
+		document.write(" <span class=z_page_now>["+(i+1)+"]</span>");
+	else{
+              if(i==0)
+                   document.write(" <a href=\"t20111209_3163569" + "."+"html\" target='_self'>["+(i+1)+"]</a>");
+                    else
+		       document.write(" <a href=\"t20111209_3163569"+"_" + i + "."+"html\" target='_self'>["+(i+1)+"]</a>");
+             }
+}
+
+document.write("&nbsp;页&nbsp;");
+
+//设置下一页代码 
+if(countPage>1&&currentPage!=(countPage-1))
+	document.write("<a href=\"t20111209_3163569"+"_" + nextPage + "."+"html\" target='_self'>下一页</a>　<a href=\"t20111209_3163569_" + (countPage-1) + ".html\" target='_self'>尾页</a>");
+else
+	document.write("<span class=z_page_none>下一页</span>　<span class=z_page_none>尾页</span>");
+
+</SCRIPT></div>
+		<!-- 翻页结束 -->
+		<div class="blank5_h"></div>
+ 		<!-- 虚线  -->
+		<div class="z_line"></div>
+		<!-- 虚线结束  -->
+		<div class="blank5_h"></div>
+		<!-- 广告列表 -->
+		<div class="z_ad linkblue">
+			
+				
+					<a href="http://am.asiafinance.cn/v2/c.do?PubID=OUC5jL28Wdw%3D" target="_blank">[2只反弹龙头曝光(附股)]</a>　&nbsp;
+				
+				<BR/>
+			
+		</div>
+		<!-- 广告列表结束 -->
+ 		<!-- 虚线  -->
+		<div class="z_line"></div>
+		<!-- 虚线结束  -->
+		<div class="blank5_h"></div>
+                <!-- 评论  -->
+                <a name="pinglun" id="pinglun"></a>
+                <iframe src="http://stockbar.cs.com.cn/newsComment.do?action=info&newsId=3163569&channelId=3246&boardId=5" width="100%" height=290 frameborder="No" border="0" marginwidth="0" marginheight="0" scrolling="no" visibility="hidden"></iframe>
+                <!-- 评论结束  -->
+                <div class="blank5_h"></div>
+		<!-- 中证网声明 -->
+		<div class="z_note"><strong>中证网声明</strong>：凡本网注明“来源：中国证券报・中证网”的所有作品，版权均属于中国证券报、中证网。中国证券报・中证网与作品作者联合声明，任何组织未经中国证券报、中证网以及作者书面授权不得转载、摘编或利用其它方式使用上述作品。凡本网注明来源非中国证券报・中证网的作品，均转载自其它媒体，转载目的在于更好服务读者、传递信息之需，并不代表本网赞同其观点，本网亦不对其真实性负责，持异议者应与原出处单位主张权利。</div>
+		<!-- 中证网声明结束 -->
+		<div class="blank5_h"></div>
+		<!-- 相关新闻 -->
+		<div>
+			<h1>相关新闻</h1>
+			<div class="blank3_h"></div>
+			<div class="z_link">
+			<ul>
+			
+			<li class="linkblue">・ <a href="../201012/t20101231_2729443.html" target="_blank">中国治理欠薪十年历程</a>　2010-12-31 10:08</li>
+			
+			<li class="linkblue">・ <a href="../../../pl/03/201008/t20100831_2575514.htm" target="_blank">CCTV2《今日观察》：醉驾、恶意欠薪入刑 体现民意</a>　2010-08-31 17:43</li>
+			
+			<li class="linkblue">・ <a href="../../../pl/04/201008/t20100829_2572152.htm" target="_blank">李克杰:欠薪不能等同于欠债</a>　2010-08-29 18:41</li>
+			
+			<li class="linkblue">・ <a href="../../../pl/04/201008/t20100828_2571630.htm" target="_blank">“恶意欠薪罪”还得细思量</a>　2010-08-28 10:51</li>
+			
+			<li class="linkblue">・ <a href="../../15/100224/17/201003/t20100312_2364834.htm" target="_blank">“欠薪入罪”是治本之策</a>　2010-03-12 13:39</li>
+			
+			</ul>
+			</div>
+		</div>
+		<!-- 相关新闻结束 -->
+		<div class="blank5_h"></div>
+		
+		<!--嵌套 周刊-->
+		<!--嵌套 周刊结束-->
+
+		<!-- 内容结束 -->
+	</div>
+	<!-- 左侧内容结束 -->
+	<!-- 右侧内容 -->
+	<div class="content_right">
+                
+                <div class="r_ad1"><a href="http://www.icbc.com.cn/icbc/%E7%BD%91%E4%B8%8A%E7%90%86%E8%B4%A2/" target="_blank" ><img src="/ggfiles/lcpd1018.gif" style="width:288px;height:60px;border:0;"/></a></div>
+<div class="blank5_h"></div>
+
+        	<!-- 聚焦路演 -->
+		<div>
+		      <div class="tab3">
+			       <ul id="menu12">
+				       <li class="hover" onmouseover="setTab(12,0)"><a href="http://www.cs.com.cn/sylm/sq/">社区精选</a></li>
+		 		       <li onmouseover="setTab(12,1)"><a href="http://www.cs.com.cn/sylm/ztbd/">新闻聚焦</a></li>
+				   </ul>
+			  </div>
+              <div class="bq2" id="main12">
+              <ul class="linkblue pad5 block">
+                <li>・<a href="http://am.asiafinance.cn/v2/c.do?PubID=RigUMvCSwo8%3D" style="color:#f00;">股商测试: 炒股赔与赚全靠炒股智商, 查看结果?</a></li>
+                
+                <li>・<a href="http://weibo.com/1686990012/xBdFJ9vdq">李稻葵：11月的CPI是真跌不是假摔</a></li>
+                
+                <li>・<a href="http://blog.sina.com.cn/s/blog_537534950100w6mz.html">程国强：实施更加积极主动的农业开放战略</a></li>
+                
+                <li>・<a href="http://weibo.com/1719159663/xAUJcEZYv">刘尚希：经济减速是调结构转方式的好时机</a></li>
+                
+                <li>・<a href="http://weibo.com/1227655400/xB5Jq9O1d">郭田勇：物价水平不是决定货币政策的唯一标准</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/xwzx/16/201112/t20111208_3161785.html">左小蕾：中国经济不会二次探底</a></li>
+                
+                <li>・<a href="http://blog.cs.com.cn/a/01010004E6A3008FA310E7C4.html">张晓昭：决战时刻即将到来</a></li>
+                
+                <li>・<a href="http://blog.cs.com.cn/a/01010001FD2A008FA316B332.html">易道：四星闪耀，下周会迎大反转</a></li>
+                
+                <li>・<a href="http://blog.cs.com.cn/a/01010003B16E008FA317F4FB.html">徐文明：如何在大盘弱势中获得利润</a></li>
+                
+                <li>・<a href="http://blog.cs.com.cn/a/01010001102C008FA31A32BA.html">苏海彦：从经济数据挖市场脉络</a></li>
+                
+                <li>・<a href="http://blog.cs.com.cn/a/01010001102C008FA31B32BB.html">黎辉红：市场等待政策路径明朗化</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/ssgs/11/20111114nmhd/" style="color:#f00;">内蒙华电非公开发行6亿股A股</a></li>
+              </ul>
+              <ul class="linkblue pad5">
+                
+                <li>・<a href="http://www.cs.com.cn/ssgs/11/111501/">聚焦上市公司分红</a></li>
+                
+                <li>・<a href="http://roadshow.cs.com.cn/rsweb/jnfxs2011/">2011中国证券业金牛分析师颁奖典礼暨高峰论坛</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/tzjj/14/20110611/">第二届建行・中证报“金牛”基金全国巡讲</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/wyss/">中证网“我要上市”频道上线</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/hb/04/111206/">连续触及跌停 人民币升值预期逆转？</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/hyzb/2011gjqh/">第七届中国（深圳）国际期货大会</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/gppd/14/111202/">机构2012年投资策略</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/tzjj/14/20111130/">第十届中国证券投资基金国际论坛专题</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/xwzx/15/20111129/">第九届中小企业融资论坛</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/xwzx/15/20111130/">央行下调存款准备金率0.5个百分点</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/ssgs/11/20111114nmhd/" style="color:#f00;">内蒙华电非公开发行6亿股A股</a></li>
+                <li>・<a href="http://www.cs.com.cn/ssgs/11/hisense/06/" style="color:#f00;">海信电器：新电视 新生活</a></li>
+              </ul>
+              </div>
+            </div>
+		<!-- 聚焦路演结束 -->
+		<div class="blank10_h"></div>
+		<!--<div><iframe frameborder="0" scrolling="no" src='http://www.asiafinance.cn/zt/zzw/ad.html' width="288" height="60"></iframe>
+<EMBED src='/ggfiles/gg_110408ny.swf' WIDTH=288 HEIGHT=60 TYPE='application/x-shockwave-flash' border=0></EMBED></div>
+<div class="blank10_h"></div>-->
+
+		<!-- 新股发行 -->
+		<div>
+		      <div class="tab4">
+			       <ul id="menu14">
+				       <li class="hover" onmouseover="setTab(14,0)"><a href="http://www.cs.com.cn/ssgs/05/201009/t20100928_2610038.html">新股发行</a></li>
+		 		       <li onmouseover="setTab(14,1)"><a href="../../../ssgs/09/">公告速递</a></li>
+                       <li onmouseover="setTab(14,2)"><a href="../../../ssgs/22/">交易提示</a></li>
+				   </ul>
+			  </div>
+              <div class="bq2" id="main14">
+              <ul class="linkblue pad5 block">
+                
+                <li>・<a href="../../../ssgs/02/201112/t20111208_3161798.html">新华保险发行价23.25元 中签率2.22%</a></li>
+                
+                <li>・<a href="../../../ssgs/02/201112/t20111206_3157993.html">百圆裤业、永高股份12月8日上市</a></li>
+                
+                <li>・<a href="../../../ssgs/12/201112/t20111202_3153593.html">雪人股份等两公司5日登陆中小板</a></li>
+                
+                <li>・<a href="../../../ssgs/05/201111/t20111130_3149267.html">烟台万润30日起招股</a></li>
+                
+                <li>・<a href="../../../ssgs/02/201111/t20111122_3138714.html">雪人股份公布网上发行中签号</a></li>
+                
+                <li>・<a href="http://www.cs.com.cn/ssgs/12/201111/t20111111_3124793.html">华西能源今日登陆中小板</a></li>
+                
+                <li>・<a href="../../../ssgs/02/201111/t20111109_3122522.html">道明光学中签率0.4% 冻资1204亿</a></li>
+                
+                <li>・<a href="../../../ssgs/05/201111/t20111108_3120178.html">勤上光电三公司今起招股</a></li>
+                
+                <li>・<a href="../../../ssgs/02/201111/t20111107_3119293.html">华西能源中签率0.48% 网下配售比例20%</a></li>
+                
+                <li>・<a href="../../../ssgs/02/201111/t20111107_3119219.html">三丰智能公布网上发行中签号</a></li>
+                
+                <li>・<a href="../../../ssgs/05/201111/t20111101_3111678.html">仁智油服将于3日登陆中小板</a></li>
+                
+                <li>・<a href="../../../sylm/jsbd/201110/t20111031_3108681.html">开能环保等3公司周三登陆创业板</a></li>
+                
+              </ul>
+              <ul class="linkblue pad5">
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111208_3161807.html">2011年12月9日基金公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111208_3161806.html">2011年12月9日上交所公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111208_3161800.html">2011年12月9日深交所公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111207_3160152.html">2011年12月8日基金公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111207_3160150.html">2011年12月8日上交所公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111207_3160140.html">2011年12月8日深交所公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111206_3158294.html">2011年12月7日上交所公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111206_3158288.html">2011年12月7日深交所公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111206_3158284.html">2011年12月7日基金公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111205_3156512.html">2011年12月6日上交所公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111205_3156511.html">2011年12月6日基金公告速递</a></li>
+                
+                <li>・<a href="../../../ssgs/09/201112/t20111205_3156489.html">2011年12月6日深交所公告速递</a></li>
+                
+              </ul>
+              <ul class="linkblue pad5">
+                
+                <li>・<a href="../../../ssgs/22/201112/t20111208_3161832.html">2011年12月9日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201112/t20111207_3160153.html">2011年12月8日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201112/t20111206_3158282.html">2011年12月7日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201112/t20111205_3156513.html">2011年12月6日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201112/t20111204_3154619.html">2011年12月5日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201112/t20111201_3152295.html">2011年12月2日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201111/t20111130_3150687.html">2011年12月1日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201111/t20111129_3148865.html">2011年11月30日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201111/t20111128_3147128.html">2011年11月29日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201111/t20111127_3145280.html">2011年11月28日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201111/t20111124_3142205.html">2011年11月25日交易提示</a></li>
+                
+                <li>・<a href="../../../ssgs/22/201111/t20111123_3140557.html">2011年11月24日交易提示</a></li>
+                
+              </ul>
+              </div>
+</div>
+		<!-- 新股发行结束 -->
+
+		<div class="blank10_h"></div>
+		<!-- 投资评级 -->
+		<!--投资评级-->
+<h2><span class="more linkwhite"><a href="../../../gppd/09/">&lt;&lt;更多</a></span>投资评级</h2>
+<ul class="linkblue pad5">
+  
+  <li>・<a href="../../../gppd/09/201112/t20111209_3163030.html">民族证券：维持玻璃行业“中性”评级</a></li>
+  
+  <li>・<a href="../../../gppd/09/201112/t20111209_3163029.html">民族证券：维持水泥行业“看好”评级</a></li>
+  
+  <li>・<a href="../../../gppd/09/201112/t20111209_3163026.html">东北证券：关注智能手机与LED照明产业</a></li>
+  
+  <li>・<a href="../../../gppd/09/201112/t20111209_3163023.html">上海证券：维持医药行业“有吸引力”评级</a></li>
+  
+  <li>・<a href="../../../gppd/09/201112/t20111209_3163013.html">中金公司：给予达意隆“推荐”评级</a></li>
+  
+  <li>・<a href="../../../gppd/09/201112/t20111209_3163012.html">申银万国：给予索菲亚“买入”评级</a></li>
+  
+  <li>・<a href="../../../gppd/09/201112/t20111209_3163010.html">海通证券：给予保险行业“增持”评级</a></li>
+  
+  <li>・<a href="../../../gppd/09/201112/t20111209_3163009.html">华泰联合：给予钢铁行业“增持”评级</a></li>
+  
+</ul>
+<!--投资评级-->
+		<!-- 投资评级结束 -->
+		<div class="blank10_h"></div>
+		<!-- 阅读点击排行 -->
+		<!-- 阅读点击排行 -->
+<h2>阅读点击排行</h2>
+<div class="blank5_h"></div>
+<div>
+	<iframe  src="http://www.cs.com.cn/tongji/cs_3.html" height="210" width="280" frameborder="No" border="0" marginwidth="0" marginheight="0" scrolling="no" visibility="hidden"></iframe>
+</div>
+<!-- 阅读点击排行结束 -->
+<div class="blank5_h"></div>
+		<!-- 阅读点击排行结束 -->
+		<!-- 中证博客 -->
+		<h2><span class="more linkwhite"><a href="http://blog.cs.com.cn/">&lt;&lt;更多</a></span>中证博客</h2>
+        
+        <div class="box_dotline">
+        <a href="http://blog.cs.com.cn/blogIndex.do?bid=46988&aid=9413106&page=detail" target="_blank"><img src="http://blog.cs.com.cn/rmrz/201112/W020111209268271675403.jpg" alt="皮海洲.jpg"/></a>
+        <h4 class="linkblue"><a href="http://blog.cs.com.cn/blogIndex.do?bid=46988&aid=9413106&page=detail">关联交易成发行人粉饰业...</a></h4>
+        [皮海洲]<br />将企业上市之前的业绩包装得漂漂亮亮，以满足企业发股上市的条件...
+        </div>
+        
+        <div class="box_dotline">
+        <a href="http://blog.cs.com.cn/blogIndex.do?bid=260547&aid=9413321&page=detail" target="_blank"><img src="http://blog.cs.com.cn/rmrz/201112/W020111209586362315448.jpg" alt="E4.jpg"/></a>
+        <h4 class="linkblue"><a href="http://blog.cs.com.cn/blogIndex.do?bid=260547&aid=9413321&page=detail">无视利好，下周收阳的概...</a></h4>
+        [孔明看市]<br />沪指临近五日线处时，压力明显增大，大盘快速回落，传媒、消费板...
+        </div>
+        
+        <div class="box_dotline">
+        <a href="http://blog.cs.com.cn/blogIndex.do?bid=200315&aid=9413322&page=detail" target="_blank"><img src="http://blog.cs.com.cn/rmrz/201112/W020111209585878997470.jpg" alt="林.jpg"/></a>
+        <h4 class="linkblue"><a href="http://blog.cs.com.cn/blogIndex.do?bid=200315&aid=9413322&page=detail">缩量四星 下周又有悲喜剧</a></h4>
+        [林之鹤]<br />大盘一度震荡攀升，但是无奈量能不济，市场谨慎情绪仍然较浓，最...
+        </div>
+        
+        <div class="box_dotline">
+        <a href="http://blog.cs.com.cn/blogIndex.do?bid=67465&aid=9413355&page=detail" target="_blank"><img src="http://blog.cs.com.cn/rmrz/201112/W020111209571592185672.jpg" alt="车轩.jpg"/></a>
+        <h4 class="linkblue"><a href="http://blog.cs.com.cn/blogIndex.do?bid=67465&aid=9413355&page=detail">下周大盘或将迎来重大变盘</a></h4>
+        [车轩]<br />成交量持续低迷，并接连创下地量，则大幅杀跌的空间也不会很大！...
+        </div>
+        
+        <div class="box_dotline">
+        <a href="http://blog.cs.com.cn/blogIndex.do?bid=50092&aid=9413250&page=detail" target="_blank"><img src="http://blog.cs.com.cn/rmrz/201112/W020111209409051265869.png" alt="强者.png"/></a>
+        <h4 class="linkblue"><a href="http://blog.cs.com.cn/blogIndex.do?bid=50092&aid=9413250&page=detail">热钱不甘寂寞  寻求短炒战机</a></h4>
+        [强者]<br />&nbsp;&nbsp;当前负面消息与负面因素充斥着市场，媒体们也尽爆负面消息，并...
+        </div>
+        
+		<!-- 中证博客结束 -->
+	</div>
+	<!-- 右侧内容结束 -->
+</div>
+
+<!--footer-->
+<div class="blank5_h"></div>
+<div class="box_footer linkblue">
+    <ul>
+    <li>特别链接：</li>
+    <li><a  href="http://www.xinhuanet.com/" target=_blank>新华网</a></li>
+    <li><span onClick="MM_openBrWindow('/link/links.htm#01','','scrollbars=yes,width=570,height=120')" class="footer_links">政府部门</span></li>
+    <li><span onClick="MM_openBrWindow('/link/links.htm#02','','scrollbars=yes,width=570,height=136')" class="footer_links" >交易机构</span></li>
+    <li><span onClick="MM_openBrWindow('/link/links.htm#03','','scrollbars=yes,width=570,height=300')" class="footer_links" >证券期货四所两司新闻发布平台</span></li>
+    <li><span onClick="MM_openBrWindow('/link/links.htm#04','','scrollbars=yes,width=570,height=280')" class="footer_links" >友情链接</span></li>
+    </ul>
+    <ul>
+    <li><a href='/aboutsite/newspaperbrief.htm' target=_blank>关于报社</a></li>
+    <li><a href='/aboutsite/aboutsite.htm' target=_blank>关于本站</a></li>
+    <li><a href='/aboutsite/navigate.htm' target=_blank>本站导航</a></li>
+    <li><a href='/aboutsite/ggbj.htm' target=_blank>广告发布</a></li>
+    <li><a href='mailto:feedback@cs.com.cn'>网站投稿</a></li>
+    <li><a href='/aboutsite/mztk.htm' target=_blank>免责条款</a></li>
+    <li><a href='http://www.cs.com.cn/cshtml/job/' target=_blank>诚聘英才</a></li>
+    </ul>
+    <div class="blank10_h"></div>
+    中国证券报社版权所有，未经书面授权不得复制或建立镜像  京ICP证010042号<br />
+
+Copyright 2001-2011 China Securities Journal. All Rights Reserved 
+</div>
+<!--footer-->
+
+<script type="text/javascript">  
+function dyjrightBottomAd(){
+ var abc = document.getElementById('dyjAdLayer1');
+ abc.style.top = document.documentElement.scrollTop+document.documentElement.clientHeight-175+"px";//120是这个层的高度； 
+ setTimeout(function(){dyjrightBottomAd();},20);
+}
+
+function dyjclosediv()
+{
+document.getElementById('dyjAdLayer1').style.display = "none";  
+}
+</script>
+
+<div id="dyjAdLayer1" style="Z-INDEX: 100;RIGHT: 5px; WIDTH: 250px; POSITION: absolute; HEIGHT: 170px">
+<div style="overflow: hidden; z-index: 105; position: absolute; left:203px; width: 45px; height: 26px; padding-top:0px; text-align:right; top: -4px;">
+<a style="CURSOR: hand" onclick="dyjclosediv();">
+<font style="font-size:12px;color:#000">关闭</font></a>
+</div>
+
+<div style="CLEAR: both;margin-top:0px;">
+
+<iframe style="WIDTH: 250px; HEIGHT: 170px" src="http://product.huagu.com/hz/tc/tc19.html" frameborder="0" scrolling="no"></iframe>
+
+</div>
+</div>
+<img src='../../../images/adsclick_11.html' style='display:none;'/>
+<script>dyjrightBottomAd();</script>
+
+
+
+
+
+
+<script type="text/javascript">  
+//function dyjrightBottomAd2(){
+// var abc2 = document.getElementById('dyjAdLayer2');
+// abc2.style.top = document.documentElement.scrollTop+document.documentElement.clientHeight-300+"px";//120是这个层的高度； 
+// setTimeout(function(){dyjrightBottomAd2();},20);
+//}
+
+//function dyjclosediv2()
+//{
+//document.getElementById('dyjAdLayer2').style.display = "none";  
+//}
+</script>
+
+<!--<div id="dyjAdLayer2" style="Z-INDEX: 100;right: 5px; WIDTH: 100px; POSITION: absolute; HEIGHT: 100px">
+<div style="overflow: hidden; z-index: 105; position: absolute; left:-15px; width: 45px; height: 26px; padding-top:0px; text-align:right; top: -20px;">
+<a style="CURSOR: hand" onclick="dyjclosediv2();">
+<font style="font-size:12px;color:#000">关闭</font></a>
+</div>
+
+<div style="CLEAR: both;margin-top:0px; ">
+<EMBED src='/ggfiles/ad_110120_3.swf' WIDTH=100 HEIGHT=100 TYPE='application/x-shockwave-flash' border=0></EMBED>
+</div>
+
+</div>
+<img src='../../../images/adsclick_11.html' style='display:none;'/>
+<script>dyjrightBottomAd2();</script>-->
+<!--新统计js-->
+<script src=../../../images/www.cs.com.cn.js></script>
+<script src=../../../images/www.cs.com.cn_item.js></script>
+<script src=../../../images/www.cs.com.cn_contents.js></script>
+<script src=../../../images/www.cs.com.cn_event.js></script>
+<script src=../../../images/www.cs.com.cn_dir.js></script>
+
+<div style="display:none">
+<script type="text/javascript">document.write(unescape("%3Cscript src='http://www.cs.com.cn/tongji/webdig.js?z=11' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")</script>
+</div>
+</body>
+</html>

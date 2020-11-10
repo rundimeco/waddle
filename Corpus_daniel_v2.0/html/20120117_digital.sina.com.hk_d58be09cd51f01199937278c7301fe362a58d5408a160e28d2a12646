@@ -1,0 +1,805 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh_TW" lang="zh_TW" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="zh_TW" />
+<TITLE> Apple 將在法國普羅旺斯建設  全透明零售店 - 數碼 - 新浪網</TITLE>
+<meta http-equiv="Pragma" content="no-cache" />
+<link rel="alternate" type="application/rss+xml" title="數碼 - 新浪網" href="http://digital.sina.com.hk/api/rss.xml">
+<meta name="description" content=" 規劃中的法國普羅旺斯 Apple 零售店 　　新浪科技訊 香港時間1月16日下午消息，據法國AixEnProvence.fr雜誌報導，未來最不尋常、最驚人的 Apple 商店建築設計將位..." />
+<meta name="keywords" content=" App,pple,le � 將�N在� Apple,pple � Apple �pple 將�新聞" />
+<link rel="image_src" href="http://digital.sina.com.hk/nw/media/0/0192/0291/1/ti.jpg" />
+<meta name="medium" content="news" />
+<script type="text/javascript" id="channelJS" src="/js/120104/main.min.js"></script>
+<link id="channelCSS" href="/css/120104/main.min.css" type="text/css" rel="StyleSheet" />
+<script language="javascript">
+// for pulldown
+function jumpContentPage(cat, period, mediaFilter, newsId)	{
+var _url = document.location.href;
+if (/mobile/.test(_url))	{
+Channel.util.open_url('/mobile/news/'+cat+'/'+period+'/'+mediaFilter+'/'+newsId+'/1.html', 'no');
+}	else	{
+Channel.util.open_url('/news/'+cat+'/'+period+'/'+mediaFilter+'/'+newsId+'/1.html', 'no');
+}
+return false;
+}
+//
+// resize font size
+var resizeFontBtn = 'normal';
+function resizeContentFont (size, buttonObj)	{
+switch (size)	{
+case 'large'	:	$('#news_text p').css('font-size', '18px');
+$('#news_text p').css('line-height', '27px');
+$('#news_text .contentTitle').css('font-size', '20px');
+break;
+case 'small'	:	$('#news_text p').css('font-size', '12px');
+$('#news_text p').css('line-height', '20px');
+$('#news_text .contentTitle').css('font-size', '12px');
+break;
+case 'normal'	:	$('#news_text p').css('font-size', '15px');
+$('#news_text p').css('letter-spacing', '1px');
+$('#news_text p').css('line-height', '22px');
+$('#news_text .contentTitle').css('font-size', '15px');
+break;
+default				: break;
+}
+$('#resizeFontBtn'+resizeFontBtn).removeClass('buttonOn');
+$(buttonObj).addClass('buttonOn');
+resizeFontBtn = size;
+}
+//
+</script>
+</head>
+<body>
+<a name="TOP" id="TOP"></a>
+<div id="page">
+<div id="sideBorder">
+<div id="headerMenu">
+<div class="left weatherText">1月17日 16&deg;C </div><div class="left weatherIcon"><a href="http://weather.sina.com.hk/" target="blank"><img src="/images/100924/weather/1/13.png?4546" width="19" height="19" alt="天氣"/></a></div>
+<div class="right rightPart">
+<div class="left channelLink"><a href="http://www.sina.com.hk/" target="_blank">香港新浪首頁</a></div>
+<div class="left weiboIcon"><a href="http://hk.weibo.com/" target="_blank"><img src="/images/100924/weibo_logo_201104.gif" alt="微博"/></a></div>
+<div class="left channelLink_red"><a href="http://hk.weibo.com/" target="_blank">微博</a></div>
+<div class="left channelLink"><a href="http://mysinablog.com/" target="_blank">Blog</a></div>
+<div class="left channelLink"><a href="http://mysinamail.sina.com.hk/" target="_blank">郵箱</a></div>
+<div class="left breakline"><img src="/images/100924/header_img5.gif" /></div>
+<div class="left channelLink"><a href="http://news.sina.com.hk/" target="_blank">新聞</a></div>
+<div class="left channelLink"><a href="http://finance.sina.com.hk/" target="_blank">財經</a></div>
+<div class="left channelLink"><a href="http://ent.sina.com.hk/" target="_blank">娛樂</a></div>
+<div class="left channelLink"><a href="http://eladies.hk/" target="_blank">eLadies</a></div>
+<div class="left channelLink"><a href="http://digital.sina.com.hk/" target="_blank">數碼</a></div>
+<div class="left channelLink"><a href="http://edu.sina.com.hk/" target="_blank">教育</a></div>
+<div class="left channelLink"><a href="http://game.sina.com.hk/" target="_blank">GAME</a></div>
+<div class="left channelLink"><a href="http://soccer.sina.com.hk/" target="_blank">足球</a></div>
+<div class="left channelLink"><a href="http://travel.sina.com.hk/" target="_blank">旅遊</a></div>
+<div style="display:none;" id="headerInfoLoginContainer">
+<div class="right rightSpace"><img src="/images/100924/header_img3.gif" /></div>
+<div class="right loginBoxBG" id="headerInfoLogin">
+<span class="loginText" ><a href="https://login.sina.com.hk/cgi-bin/profile.cgi" target="_blank">Hi, <span id="headerInfoUname"></span></a></span><a id="headerInfoLogoutUrl">登出</a>
+</div>
+<div class="right loginBoxBG2" id="headerInfoUnLogin" align="center">
+<span class="loginText"></span><a id="headerInfoLoginUrl">登入</a>
+</div>
+<div class="right"><img src="/images/100924/header_img2.gif" /></div>
+</div>
+<div class="clearboth"></div>
+</div>
+<div class="clearboth"></div>
+</div>
+<script type="text/javascript">
+Channel.sln.showHeaderInfo();
+</script>
+<div id="headerLogoRow">
+<h1>
+<div class="left logo"><a href="http://www.sina.com.hk/" target="_blank"><img src="/images/100924/sinalogo.gif" alt="新浪網" /></a></div>
+<div class="left logo"><a href="http://digital.sina.com.hk/"><img src="/images/100924/digital_logo2.gif" alt="數碼"/></a></div>
+<div class="right"><div id="banner"></div>
+<script language="JavaScript" type="text/javascript">
+var as_random = as_get_cookie('SINA_GRAN');
+if (as_random > 20){ // to remove the SINA_GRAN cookie assigned to channel. to be remove after on 2009/11/1
+	as_delete_global_cookie('SINA_GRAN');
+	as_delete_cookie('SINA_GRAN');
+	as_random = as_get_cookie('SINA_GRAN');
+}
+
+if (as_random == null) {
+  as_random = Math.floor(Math.random()*7);
+} else {
+	as_random++;
+}
+as_set_global_cookie('SINA_GRAN', as_random);
+
+function as_get_random_seq(count){
+  return as_random%count;
+}
+
+	
+var as_section='ros'; //all page are ros except match the following
+var as_curr_url = document.location.href;
+    as_curr_url= as_curr_url.replace(RegExp("^http://"+location.hostname), '');
+
+var as_exact_match = new Array(
+"/",
+"/index.html",
+"/nw/main/dc.html",
+"/nw/main/dv.html",
+"/nw/main/mplayer.html",
+"/nw/main/apple.html",
+"/nw/main/tv.html",
+"/nw/main/notebook.html"
+
+);
+
+
+
+var as_pattern = new Array(
+//"/test/regex.html$"
+);
+                   
+for ( var i = 0; i < as_exact_match.length; i++) {
+  if (as_exact_match[i] == as_curr_url) {
+  	as_section='index'; break;
+  }
+}
+
+if (as_section == "ros"){
+  for ( var i = 0; i < as_pattern.length; i++) {
+    if (as_curr_url.match(as_pattern[i])) {
+  	  as_section='index'; break;
+    }
+  }
+}
+
+// check if mobile section pages
+var mobile = 0;
+if (as_curr_url.match("/mobile/"))	{
+	mobile = 1;
+}
+
+</script>
+
+<script language="JavaScript" type="text/javascript">
+randomstr = new String (Math.random());
+randomstr = randomstr.substring(1,8);
+
+var temp_url = '';
+
+if(mobile) {
+//--Mobile Sub-Channel--//
+temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=421810721481';
+document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');
+}
+else
+{
+//--Digital Channel--//
+if (as_section == 'index'){
+temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=661143671484';
+document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');
+} else {
+
+    var str = document.location.href;
+    var reg1a = new RegExp("sony-alpha");
+	if(  (reg1a.test(str))  )
+    {
+	    //--Sony Alpha 55--//
+        randomstr = new String (Math.random());
+        randomstr = randomstr.substring(1,8);
+        document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=360558333659" + "'><" + "/script>");
+	}
+	else
+	{
+        temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=661143671484';
+		document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');
+    }
+}
+
+}       
+</script>
+</div>
+<div class="clearboth"></div>
+</h1>
+</div>
+<!-- navigation start -->
+
+
+<!-- navigation start -->
+<div id="navigation" style="height:60px;position:relative;">
+<form action="/cgi-bin/nw/search.cgi" method="post" name="search_form" id="search_form">
+<div class="mainMenu">
+<div class="left"><ul id="nav">
+<li><a id="nav_1" href="/" onMouseOver="switchSubNav(1);">主頁</a></li>
+<li><a id="nav_2" href="/mobile/t/mobile/" onMouseOver="switchSubNav(2);">手機</a></li>
+<li><a id="nav_3" href="/t/photography/" onMouseOver="switchSubNav(3);">攝影</a></li>
+<li><a id="nav_4" href="/t/AV/" onMouseOver="switchSubNav(4);">影音</a></li>
+<li><a id="nav_5" href="/t/Notebook_PC/" onMouseOver="switchSubNav(5);">電腦</a></li>
+<li><a id="nav_6" href="/t/Apple/" onMouseOver="switchSubNav(6);">Apple</a></li>
+<li><a id="nav_9" href="/t/業界和互聯網/" onMouseOver="switchSubNav(9);">互聯網</a></li>
+<li><a id="nav_7" href="/t/discovery/" onMouseOver="switchSubNav(7);">新知</a></li>
+<li><a id="nav_8" href="/weibo/celebrity.html" onMouseOver="switchSubNav(8);">微博</a></li>
+</ul>
+</div>
+<div class="right rss"><a href="/api/rss.xml" target="_blank"><img src="/images/100924/rss.gif" alt="RSS"/></a></div>
+<div class="right dot"><img src="/images/100924/dot.gif" /></div>
+<div class="right advBtn"><a href="javascript:;" onClick="Channel.util.showAdvanceSearch();">進階搜尋</a></div>
+<div class="right searchBtn"><input type="image" src="/images/100924/btn_navigation_search.gif" /></div>
+
+<div class="right">
+	
+<input name="keyword" type="text" class="searchBox" id="searchKeyword"/>
+</div>
+<div class="clearboth"></div>
+</div>
+</form>
+<div class="subMenu" id="subnavContainer">
+  <h1>
+                  
+                            <div class="clearboth"></div>
+                        </h1>
+</div>
+
+
+
+<div id="advanceSearchContainer"></div>
+
+
+
+</div>
+<script type="text/javascript">
+
+function switchSubNav	(subnav)	{
+Channel.ajax.loadContent('subnavContainer', '/api/subnav/'+subnav+'.html');
+}
+
+$("#nav_99").addClass("selected");
+if (typeof document.getElementById("subnav") != "undefined")	{
+$("#subnav").addClass("text1_HL");
+}
+</script>
+
+<!-- navigation end -->
+<!-- navigation end -->
+<div id="pageContent">
+<div class="wrapper">
+<div id="content">
+<!--INSERT:FULLWIDTH_TOP-->
+<div id="main">
+<!-- main START -->
+<!--START:REPEAT_LAYOUT15-->
+<div id="nwContentMain">
+<h1>
+<div class="treeRow">
+<div class="left text1">
+<div class="left"><a href="http://digital.sina.com.hk/" >數碼</a></div>
+<!--START:_NO_SUBSECTION-->
+<div class="left arrow"><img src="/images/100924/img5.gif" /></div>
+<div class="left"><a href="http://digital.sina.com.hk/t/Root/" >新聞</a></div>
+<!--END:_NO_SUBSECTION-->
+<!--START:_NO_CAT_CNAME--><!--END:_NO_CAT_CNAME-->
+<div class="clearboth"></div>
+</div>
+<div class="right">
+<select id="nwPulldown" class="pd" onChange="jumpContentPage(7,4,1,this.value);"><option value="1167553">SONY更多新機曝光 LT22i LT29i即將問世</option>
+<option value="1167539" selected > Apple 將在法國普羅旺斯建設  全透明零售店</option>
+<option value="1167356"> Sony 新機Xperia S價格曝光</option></select>
+</div>
+<div class="clearboth"></div>
+</div>
+<div class="titleRow">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="title"><div class="newsTitle" id="news_title"> Apple 將在法國普羅旺斯建設  全透明零售店</div>
+<div class="text3"><!--START:_NO_AUTHOR_CNAME--><!--END:_NO_AUTHOR_CNAME-->   2012-01-16  16:56</div></td>
+<td class="logo"><a href=http://www.sina.com.hk target=_blank><img src=http://simg.sina.com.hk/images/nwProvider.20110615/sinahk.gif border=0 ></a></td>
+</tr>
+</table>
+</div>
+<div id="nwContentShare">
+<div class="left btn"><img src="/images/100924/btn_weibo_201104.gif" alt="分享至微博" onclick="weibo_share()" class="cursorHand" /></div>
+<div class="left btn"><a href="http://www.facebook.com/share.php?u=%3Curl%3E" onclick="return Channel.util.facebookShare('');" target="_blank"><img src="/images/100924/btn_facebook.gif" alt="分享至 Facebook" /></a></div>
+<div class="left btn"><img src="/images/100924/btn_email.gif" alt="Send俾朋友" onClick="Channel.util.openWin('http://events.sina.com.hk/cgi-bin/m2f/main.cgi?url=http://digital.sina.com.hk/cgi-bin/nw/show.cgi//7/4/1/1167539/1.html;&news_title=%20%41%70%70%6C%65%20%B1%4E%A6%62%AA%6B%B0%EA%B4%B6%C3%B9%A9%F4%B4%B5%AB%D8%B3%5D%20%20%A5%FE%B3%7A%A9%FA%B9%73%B0%E2%A9%B1&action=request&c=77','890x570');" class="cursorHand"/></div>
+<div class="left btn"><a href="javascript:;" onClick="Channel.util.printpage(); return false;"><img src="/images/100924/btn_print.gif" alt="列印" /></a></div>
+<div class="left btn"><iframe id="facebookLikeIframe" src="http://www.facebook.com/plugins/like.php?href=http://digital.sina.com.hk/cgi-bin//nw/show.cgi/7/4/1/1167539/1.html&layout=standard&show_faces=false&width=55&action=like&colorscheme=light&height=25&locale=zh_HK" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:25px;" allowTransparency="true"></iframe></div>
+<div class="left btn"><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><g:plusone size="standard" count="true"></g:plusone></div>
+<div class="clearboth"></div>
+</div>
+<div id="news_content">
+<div class="newsBody">
+<div class="contentResizeFont">
+調整字體︰<span id="resizeFontBtnlarge" class="button" onClick="resizeContentFont('large', this);">大</span> <span id="resizeFontBtnnormal" class="button buttonOn" onClick="resizeContentFont('normal', this);">中</span> <span id="resizeFontBtnsmall" class="button" onClick="resizeContentFont('small', this);">小</span>
+</div>
+<div id="news_text">
+<div class="contentText"><p><!--1508502:/it/2012-01-16/15586643302.shtml-->
+<div align="center"><img alt="規劃中的法國普羅旺斯蘋果零售店" src="http://i3.sinaimg.cn/IT/2012/0116/U5388P2DT20120116155746.jpg" />	 </div>
+<div align="center">規劃中的法國普羅旺斯 Apple 零售店</div>
+<p>　　新浪科技訊 香港時間1月16日下午消息，據法國AixEnProvence.fr雜誌報導，未來最不尋常、最驚人的 Apple 商店建築設計將位於法國普羅旺斯地區艾克斯市，該商店幾乎將採用全部玻璃設計，在 Apple 玻璃供應商開發的新技術幫助下完成。</p>
+<p>　　報導稱，目前位於法國戴高樂將軍廣場南側的艾克斯旅遊局將會被拆除， Apple 將在該地址建立零售店。</p>
+<p>　　根據已披露的 Apple 普羅旺斯零售店效果圖來看，該零售店坐落在由石頭鋪成的寬闊廣場上，零售店的後牆為黃褐色，其餘牆面則是由玻璃組成。</p>
+<p>　　第二幅渲染圖顯示，該商店是 Apple 紐約上西城零售店設計風格的一個延續，但是效果圖上並沒有任何 Apple 特點顯現，也沒有明顯的 Apple Logo。</p>
+<p>　　報導稱，艾克斯市要求 Apple 零售店滿足最新防震標準，並且與大街周圍景色保持一致。艾克斯市位於法國南部，擁有良好的天氣環境，每年將有數千名遊客來此旅遊。 Apple 零售店西側地區近期已經被重新改造，眾多國際零售商在此開設高檔零售店。</p>
+<p>　　據悉 Apple 普羅旺斯零售店將在今年年底或明年初開業。(曉明)</p><p></p><p></p><p>除了新浪微博外，香港新浪科技正式登陸Facebook專頁，我們希望以此機會，天天為更多不同的朋友，帶來第一手中文數碼科技新聞，不論是科技業 界或是數碼產品資訊和傳聞，我們都會天天送上不斷更新，務求令大家知得更多。 還不快點到Facebook LIKE 我們的專頁~<a href="http://www.facebook.com/sinadigital" target="_blank">http://www.facebook.com/sinadigital</a></p><p>我們也開了Google plus page,如有Google plus account的你,也可follow 我們吧! <br />
+		<a href="https://plus.google.com/104792312952728477864" target="_blank">https://plus.google.com/104792312952728477864</a></p></p></div><BR/><BR/><p>(內容由新浪北京提供。未經授權，不得轉載。)</p>
+</div>
+</div>
+</div>
+<script language="javascript">
+//add_newsClicked('1167539');
+</script>
+<!--INSERT:CUSTOM-->
+<div class="right">
+<img src="/images/100924/weiboShareBtn_content.gif" alt="分享至微博" onclick="weibo_share();" class="cursorHand">
+</div><div class="clearboth"></div>
+<div id="nwContentShare">
+<div class="left btn"><img src="/images/100924/btn_weibo_201104.gif" alt="分享至微博" onclick="weibo_share()" class="cursorHand" /></div>
+<div class="left btn"><a href="http://www.facebook.com/share.php?u=%3Curl%3E" onclick="return Channel.util.facebookShare('');" target="_blank"><img src="/images/100924/btn_facebook.gif" alt="分享至 Facebook" /></a></div>
+<div class="left btn"><img src="/images/100924/btn_email.gif" alt="Send俾朋友" onClick="Channel.util.openWin('http://events.sina.com.hk/cgi-bin/m2f/main.cgi?url=http://digital.sina.com.hk/cgi-bin/nw/show.cgi//7/4/1/1167539/1.html;&news_title=%20%41%70%70%6C%65%20%B1%4E%A6%62%AA%6B%B0%EA%B4%B6%C3%B9%A9%F4%B4%B5%AB%D8%B3%5D%20%20%A5%FE%B3%7A%A9%FA%B9%73%B0%E2%A9%B1&action=request&c=77','890x570');" class="cursorHand"/></div>
+<div class="left btn"><a href="javascript:;" onClick="Channel.util.printpage(); return false;"><img src="/images/100924/btn_print.gif" alt="列印" /></a></div>
+<div class="left btn"><iframe id="facebookLikeIframe" src="http://www.facebook.com/plugins/like.php?href=http://digital.sina.com.hk/cgi-bin//nw/show.cgi/7/4/1/1167539/1.html&layout=standard&show_faces=false&width=55&action=like&colorscheme=light&height=25&locale=zh_HK" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:25px;" allowTransparency="true"></iframe></div>
+<div class="left btn"><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><g:plusone size="standard" count="true"></g:plusone></div>
+<div class="clearboth"></div>
+</div>
+<div id="nwContentRelated">
+<table border="0" cellspacing="0" cellpadding="0">
+<!--START:_NO_FOCUS--><!--END:_NO_FOCUS-->
+<tr valign="top">
+<td class="leftCol">TAGS</td>
+<td class="rightCol"><a href="http://digital.sina.com.hk/t/digital/" >數碼</a>, <a href="http://digital.sina.com.hk/t/Apple/" >Apple</a>, <a href="http://digital.sina.com.hk/t/RSS/" >RSS</a>, <a href="http://digital.sina.com.hk/t/Apple-新聞/" >Apple 新聞</a></td>
+</tr>
+</table>
+</div>
+<div id="nwContentPrevNext">
+<div class="left"><a href="/news/7/4/1/1167553/1.html"><img src="/images/100924/btn_prevContent.gif" alt="SONY更多新機曝光 LT22i LT29i即將問世"/></a></div><div class="left text1"><a href="/news/7/4/1/1167553/1.html" >SONY更多新機曝光 LT22i LT29i即將問世</a></div>
+<div class="right"><a href="/news/7/4/1/1167356/1.html"><img src="/images/100924/btn_nextContent.gif" alt=" Sony 新機Xperia S價格曝光"/></a></div><div class="right text1"><a href="/news/7/4/1/1167356/1.html" > Sony 新機Xperia S價格曝光</a></div>
+<div class="clearboth"></div>
+</div>
+<IFRAME name="mass_follow" id="mass_follow" border="0" frameBorder="0" frameSpacing="0" width="670" height="0" scrolling="no" marginHeight="0" marginWidth="0" src=""></IFRAME>
+<script>
+// Resize iframe to full height
+function resizeIframe(height)
+{
+// "+60" is a general rule of thumb to allow for differences in
+// IE & and FF height reporting, can be adjusted as required..
+document.getElementById('mass_follow').height = parseInt(height);
+}
+</script>
+<div style="text-align:center;"><div id="content_keyword"></div></div>
+<!--ad sense-->
+<div align="center" style="padding-top: 15px;">
+<div style="padding: 10px 10px 0pt; background-color: rgb(245, 245, 245); width: 640px;">
+<div align="right">
+<a href="http://searchmarketing.hk.yahoo.com/index.html?o=hk00153" style="color: rgb(0, 0, 0);" target="_blank">贊助網站</a>
+</div>
+<div id="contentMatch">
+<!-- YAHOO CONTENT MATCH //-->
+<script type="text/javascript" src="http://asjs.sinahk.net/10y/lib/o/ysm/1.0/contentmatch.js"></script>
+<script type="text/javascript">/*<![CDATA[*/
+$(document).ready(function(){
+var cm = new SINA.ads.contentmatch({
+hostName        : "cmh.hk.overture.com",
+dataFormat        : "js_flat_1_0",
+config            : "20499789115",
+source            : "sina_hk_ctxt",
+ctxtRotate			: 1,
+ctxtId            : ["mobile", "technology", "auto" ],
+ctxtUrl            : encodeURIComponent(window.location.href),
+ctxtCat            : "hk_t1_default_automotive",
+type            : "mobile",
+maxCount        : "2",
+keywordCharEnc    : "utf-8-hkscs",
+outputCharEnc    : "utf-8-hkscs"
+});
+cm.loadAds(function(ads) {
+var str = "";
+for (var i=0; i<ads.length; i++) {
+str += "<p onclick='window.open(\""+ads[i]["link"]+"\");return false;' align='left' style='cursor:hand;cursor:pointer;padding-bottom:10px;color:#464646;font-size:12px'><a style='font-size:15px;color:#6665CD;text-decoration:none' target='_blank' href="+ads[i]["link"]+"><b>"+ads[i]["title"]+"</b></a><br />"+ads[i]["description"]+"<br /><i>"+ads[i]["host"]+"</i></p>";
+}
+document.getElementById("contentMatch").innerHTML = str;
+});
+});
+/*]]>*/</script>
+<!-- YAHOO CONTENT MATCH //-->
+</div>
+</div>
+</div>
+<script type="text/javascript" src="/js/celebrityHilite/20111119.js"></script><!--CNT:39-->
+</h1>
+</div>
+<!--END:REPEAT_LAYOUT15-->
+<!-- main END -->
+</div>
+<div id="sidebar">
+<div class="wrapper">
+<!-- sidebar START -->
+<div id="sbAdTxt">
+<h1><div id="txt"></div> </h1>
+</div>
+<script language="JavaScript" type="text/javascript">
+var temp_url = '';
+
+if(mobile) {
+//--Mobile Sub-Channel--//
+temp_url = 'http://as.sinahk.net/f?s=227&w=100&h=1&t=_blank';
+dhtmlLoadScript(temp_url);
+}
+else
+{
+//--Digital Channel--//
+if (as_section == 'index'){
+temp_url = 'http://as.sinahk.net/f?s=407&w=100&h=1&t=_blank';
+} else {
+temp_url = 'http://as.sinahk.net/f?s=407&w=100&h=1&t=_blank';
+}
+dhtmlLoadScript(temp_url);
+}
+</script>
+<div class="sbAd"><div id="pinp"></div>
+<script language="JavaScript" type="text/javascript">
+randomstr = new String (Math.random());
+randomstr = randomstr.substring(1,8);
+
+var temp_url = '';
+
+if(mobile) 
+{
+//--Mobile Sub-Channel--//
+	var str = document.location.href;
+	var reg1a = new RegExp("966091");
+	var reg1b = new RegExp("966092");
+	var reg1c = new RegExp("966095");
+	var reg1d = new RegExp("966100");
+	var reg1e = new RegExp("966101");
+	if(  (reg1a.test(str)) || (reg1b.test(str)) || (reg1c.test(str)) || (reg1d.test(str)) || (reg1e.test(str))  )
+	{
+		//--HTC--//
+		randomstr = new String (Math.random());
+		randomstr = randomstr.substring(1,8);
+		document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&sid=783479693679" + "'><" + "/script>");
+	}
+    else
+    {
+        temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=662127101482';
+        document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');
+    }
+}
+else
+{
+//--Digital Channel--//
+if (as_section == 'index'){
+temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=576720771485';
+document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');
+} else {
+
+    var str = document.location.href;
+    var reg1a = new RegExp("sony-alpha");
+	if(  (reg1a.test(str))  )
+    {
+	    //--Sony Alpha 55--//
+		randomstr = new String (Math.random());
+        randomstr = randomstr.substring(1,8);
+        document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=597168513660" + "'><" + "/script>");
+    }
+	else
+	{
+        temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=576720771485';
+		document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');
+    }
+}
+
+}
+</script>
+<div id="pinp2"></div>
+<script language="JavaScript" type="text/javascript">
+randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);var temp_url = '';
+if (as_section == 'index'){ temp_url = 'http://as.sinahk.net/f?s=853&w=300&h=250&t=_blank';} else { temp_url = 'http://as.sinahk.net/f?s=853&w=300&h=250&t=_blank';}document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');
+</script>
+<div id="mktp"></div>
+<script language="JavaScript" type="text/javascript">
+var temp_url = '';
+
+if(mobile) 
+{
+//--Mobile Sub-Channel--//
+   temp_url = 'http://as.sinahk.net/f?s=224&w=300&h=60&t=_blank';
+   dhtmlLoadScript(temp_url);
+}
+else
+{
+//--Digital Channel--//
+if (as_section == 'index'){
+temp_url = 'http://as.sinahk.net/f?s=409&w=300&h=90&t=_blank';
+} else {
+temp_url = 'http://as.sinahk.net/f?s=409&w=300&h=90&t=_blank';
+}
+dhtmlLoadScript(temp_url);
+}
+
+</script>
+</div>
+<div id="sbWeibo">
+<h1>
+<div class="header">微博速報</div>
+<div class="content">
+<iframe id="sbWeiboIframe" width="296" height="300" class="share_self"  frameborder="0" scrolling="no" src="http://service.t.sina.com.cn/widget/WeiboShow.php?language=zh_tw&width=296&height=300&fansRow=2&ptype=1&speed=0&skin=-1&isTitle=0&noborder=0&isWeibo=1&isFans=0&uid=1750025340&verifier=ec27240f&colors=000000,ffffff,898989,466BC1"></iframe>
+</div>
+</h1>
+</div>
+<!--START:!SIDEBAR1--><!--END:!SIDEBAR1--><!--START:_SB_FOCUS--><div id="sbFocus">
+<h1>
+<div class="header">專題</div>
+<div class="content">
+<!--START:PHOTO-->
+
+<div class="listingRow">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td><a href="http://digital.sina.com.hk/cgi-bin/mobile/nw/focus.cgi?id=98"><img src="/nw/focus/photo/0/000/000/098/1/p.jpg" border="0" class="photo_border" width="80" height="80"></a></td>
+<td><div class="text1"><a href="http://digital.sina.com.hk/cgi-bin/mobile/nw/focus.cgi?id=98" >美國消費電子展 CES 2012</a></div>
+<div class="text2">作為年初最早的綜合性消費電子大展，CES帶給我們的不僅是新穎的產品和精彩的發佈活動，在數碼影像領域...</div></td>
+</tr>
+</table>
+</div>
+
+
+<div class="listingRow">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td><a href="http://digital.sina.com.hk/cgi-bin/nw/focus.cgi?id=97"><img src="/nw/focus/photo/0/000/000/097/1/p.jpg" border="0" class="photo_border" width="80" height="80"></a></td>
+<td><div class="text1"><a href="http://digital.sina.com.hk/cgi-bin/nw/focus.cgi?id=97" >iPad 3傳聞再起</a></div>
+<div class="text2">該消息稱iPad 2貼牌生產的訂量在2011年第四季度為1400-1500萬台，但在2012年第一季度下降到了400-500...</div></td>
+</tr>
+</table>
+</div>
+
+
+<div class="listingRow">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td><a href="http://digital.sina.com.hk/cgi-bin/mobile/nw/focus.cgi?id=96"><img src="/nw/focus/photo/0/000/000/096/1/p.jpg" border="0" class="photo_border" width="80" height="80"></a></td>
+<td><div class="text1"><a href="http://digital.sina.com.hk/cgi-bin/mobile/nw/focus.cgi?id=96" >Google ICS 香港發佈會</a></div>
+<div class="text2">Samsung和Google終於確認，是次發佈會真的會在10月19日香港時間上午10 時在港舉行。</div></td>
+</tr>
+</table>
+</div>
+
+
+<div class="listingRow">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td><a href="http://digital.sina.com.hk/cgi-bin/nw/focus.cgi?id=93"><img src="/nw/focus/photo/0/000/000/093/1/p.jpg" border="0" class="photo_border" width="80" height="80"></a></td>
+<td><div class="text1"><a href="http://digital.sina.com.hk/cgi-bin/nw/focus.cgi?id=93" >蘋果宣布喬布斯逝世</a></div>
+<div class="text2">Apple 公司對外宣佈聯和創始人斯蒂夫•喬布斯辭世，享年56歲。</div></td>
+</tr>
+</table>
+</div>
+
+
+<div class="listingRow">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td><a href="http://digital.sina.com.hk/cgi-bin/nw/focus.cgi?id=88"><img src="/nw/focus/photo/0/000/000/088/1/p.jpg" border="0" class="photo_border" width="80" height="80"></a></td>
+<td><div class="text1"><a href="http://digital.sina.com.hk/cgi-bin/nw/focus.cgi?id=88" >蘋果Let's talk iPhone發佈會專題</a></div>
+<div class="text2">蘋果將會在美國時間10月4日舉行發佈會，從以上圖片中可見，今次大會主題是“Let's talk iPhone"。</div></td>
+</tr>
+</table>
+</div>
+<!--END:PHOTO-->
+</div>
+</h1>
+</div><!--PAGE:Tue Jan 17 21:39:03 2012--><!--END:_SB_FOCUS--><!--START:_SB_HOTTEST_NEWS--><div id="sbNewsListing">
+<h1>
+<div class="header">最熱文章</div>
+<div class="content">
+<!--START:_SB_HOTTEST_NEWS-->
+<div class="hkscs_mapping"><div id="hottest_news"><!--START:1165882--><div class="listingRow1 text1"><a href="/news/0/4/1/1165882/1.html" >模特兒台下鮮為人知的生活寫真</a></div><!--END:1165882--><!--START:1166314--><div class="listingRow2 text1"><a href="/news/0/4/1/1166314/1.html" >俄年輕女孩潛入秘密火箭工廠：內部似死亡...</a></div><!--END:1166314--><!--START:1042079--><div class="listingRow1 text1"><a href="/news/589/4/1/1042079/1.html" >國外好笑街頭遊戲塗鴉(圖)!</a></div><!--END:1042079--><!--START:1168087--><div class="listingRow2 text1"><a href="/news/7/4/1/1168087/1.html" >秒殺GALAXY S3  4核/5.3寸LG新旗艦曝光</a></div><!--END:1168087--><!--START:1166893--><div class="listingRow1 text1"><a href="/news/0/4/1/1166893/1.html" >Jim Richardson：自然風光攝影作品欣賞</a></div><!--END:1166893--><!--START:1168022--><div class="listingRow2 text1"><a href="/news/7/4/1/1168022/1.html" >三星新機皇Galaxy S III再曝光：窄邊設計...</a></div><!--END:1168022--><!--START:1167341--><div class="listingRow1 text1"><a href="/news/7/4/1/1167341/1.html" >庫克：我們都被iPhone 4S在中國需求量嚇...</a></div><!--END:1167341--><!--START:1168016--><div class="listingRow2 text1"><a href="/news/7/4/1/1168016/1.html" > Apple 聯合創始人：Android部分功能優於...</a></div><!--END:1168016--><!--START:1163973--><div class="listingRow1 text1"><a href="/news/0/4/1/1163973/1.html" >十三種奇特北極動物</a></div><!--END:1163973--><!--START:1167369--><div class="listingRow2 text1"><a href="/news/7/4/1/1167369/1.html" >CES 2012贏家和輸家：蘋果未參展居輸家之...</a></div><!--END:1167369--></div></div>
+<!--<script type="text/javascript" language="javascript">
+$(document).ready(function(){
+show_hottest_news('1');
+});
+</script>-->
+<!--END:_SB_HOTTEST_NEWS-->
+</div>
+</h1>
+</div><!--END:_SB_HOTTEST_NEWS-->
+<div id="sbFacebook">
+<h1>
+<div class="header">新聞分享</div>
+<div class="content">
+<iframe id="sbFacebookIframe" src="http://www.facebook.com/plugins/activity.php?site=digital.sina.com.hk&amp;width=272&amp;height=200&amp;header=false&amp;colorscheme=light&amp;font&amp;border_color=%23ffffff&amp;recommendations=true&amp;locale=en_UK" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:272px; height:200px;" allowTransparency="true"></iframe>
+</div>
+</h1>
+</div><!--START:_SB_VOTE--><form method="post" name="vote_form_103" id="vote_form_103">
+<div id="sbVote11">
+<h1>
+<div class="header">投票</div>
+<div class="content">
+<div class="photo"><img src="/upload/vote/question/0/00/00/01/03/1/p.jpg" width="160" height="160"  border="0"  /></div>
+<div class="text1">2012你最期待的手機 (只可選一個答案)</div>
+<div>
+<table border="0" cellspacing="0" cellpadding="0">
+<!--START:OPTION-->
+<tr>
+<td class="row"><input name="o" type="radio" value="554" id="option_554"/></td>
+<td class="row text2"><label for="option_554"><a href="http://digital.sina.com.hk/news/7/4/1/1156404/1.html" >新一代iPhone</a></label></td>
+</tr>
+
+<tr>
+<td class="row"><input name="o" type="radio" value="555" id="option_555"/></td>
+<td class="row text2"><label for="option_555"><a href="http://digital.sina.com.hk/mobile/news/15/4/1/1155910/1.html" >Galaxy S3</a></label></td>
+</tr>
+
+<tr>
+<td class="row"><input name="o" type="radio" value="556" id="option_556"/></td>
+<td class="row text2"><label for="option_556"><a href="http://digital.sina.com.hk/mobile/news/22/4/1/1151647/1.html" >HTC 4核Edge</a></label></td>
+</tr>
+
+<tr>
+<td class="row"><input name="o" type="radio" value="557" id="option_557"/></td>
+<td class="row text2"><label for="option_557"><a href="http://digital.sina.com.hk/mobile/news/13/4/1/1149850/1.html" >Lumia 900</a></label></td>
+</tr>
+
+<tr>
+<td class="row"><input name="o" type="radio" value="558" id="option_558"/></td>
+<td class="row text2"><label for="option_558"><a href="http://digital.sina.com.hk/mobile/news/3897/4/1/1145902/1.html" >Panasonic 首部 Android</a></label></td>
+</tr>
+
+<tr>
+<td class="row"><input name="o" type="radio" value="559" id="option_559"/></td>
+<td class="row text2"><label for="option_559"><a href="http://digital.sina.com.hk/mobile/news/4814/3/1/1152717/1.html" >Intel Android 手機</a></label></td>
+</tr>
+
+<tr>
+<td class="row"><input name="o" type="radio" value="560" id="option_560"/></td>
+<td class="row text2"><label for="option_560"><a href="http://digital.sina.com.hk/mobile/news/27/4/1/1149826/1.html" >Blackberry 新系統手機</a></label></td>
+</tr>
+
+<tr>
+<td class="row"><input name="o" type="radio" value="561" id="option_561"/></td>
+<td class="row text2"><label for="option_561"><a href="http://digital.sina.com.hk/mobile/news/17/4/1/1147307/1.html" >Sony Ericsson ( Nozomi)</a></label></td>
+</tr>
+<!--END:OPTION-->
+</table>
+</div>
+<div class="right btn"><img src="/images/100924/btn_pollingResult.gif"  onClick="view_vote_result('103', 1); return false;" class="cursorHand" /></div>
+<div class="right btn"><img src="/images/100924/btn_vote.gif"  onClick="submit_vote_ans('103', 0, '1', '1', '1'); return false;" class="cursorHand"/></div>
+<div class="clearboth"></div>
+</div>
+</h1>
+</div>
+</form><!-- Layout 11 sb --><!--END:_SB_VOTE--><!--START:!SIDEBAR2--><!--END:!SIDEBAR2--><!-- sidebar END -->
+</div>
+</div>
+<div class="clearboth"></div>
+<!--INSERT:FULLWIDTH_BOTTOM-->
+</div>
+</div><!-- /wrapper-->
+</div><!-- /pageContent -->
+<div id="footerMenu">
+    <h1>
+        <table border="0" cellspacing="0" cellpadding="0">
+            <tr valign="top">
+                <td class="leftCol"><div class="title">數碼資訊</div>
+					<div class="left link"><a href="/tag/%E6%89%8B%E6%A9%9F">手機新品介紹</a></div>
+					<div class="left link"><a href="/accessment/mobile.html">手機評測</a></div>
+					<div class="left link"><a href="/focus/mobile.html">手機專題</a></div>
+					<div class="left link"><a href="/tag/%E6%94%9D%E5%BD%B1">攝影新品介紹</a></div>
+					<div class="left link"><a href="/accessment/dc.html">相機評測</a></div>
+					<div class="left link"><a href="/focus/dc.html">相機專題</a></div>
+					<div class="left link"><a href="/tag/%E5%BD%B1%E9%9F%B3">影音新品介紹</a></div>
+					<div class="left link"><a href="/accessment/av.html">影音產品評測</a></div>
+					<div class="left link"><a href="/focus/av.html">影音專題</a></div>
+					<div class="left link"><a href="/tag/Notebook-PC">電腦新品介紹</a></div>
+					<div class="left link"><a href="/accessment/notebook.html">電腦產品評測</a></div>
+					<div class="left link"><a href="/focus/notebook.html">電腦專題</a></div>
+					<div class="left link"><a href="/tag/Apple">蘋果新品介紹</a></div>
+					<div class="left link"><a href="/accessment/apple.html">蘋果產品評測</a></div>
+					<div class="left link"><a href="/focus/apple.html">蘋果專題</a></div>
+					<div class="left link"><a href="/tag/%E6%96%B0%E7%9F%A5">科技新知</a></div>
+					<div class="left link"><a href="/focus/knowledge.html">科技專題</a></div>
+                    <div class="clearboth"></div></td>
+                <td class="rightCol"><div class="title">相關頻道</div>
+					<div class="left link"><a href="http://travel.sina.com.hk/" target="_blank">旅遊攝影</a></div>
+					<div class="left link"><a href="http://game.sina.com.hk/" target="_blank">遊戲機科技</a></div>
+					<div class="left link"><a href="http://news.sina.com.hk/cgi-bin/nw/special.cgi" target="_blank">奇聞軼事</a></div>
+					<div class="left link"><a href="http://ent.sina.com.hk/" target="_blank">明星 / 美女</a></div>
+					<div class="left link"><a href="http://www.eladies.hk/" target="_blank">女性數碼產品</a></div>
+                    <div class="clearboth"></div></td>
+            </tr>
+        </table>
+    </h1>
+</div>
+<div id="footer">
+
+            <h1>
+                <div class="left">
+                    <div class="text">
+                    <a href="http://corp.sina.com.cn/chn/sina_index.html" target="_blank">新浪簡介</a>|
+                    <a href="http://www.sina.com.hk/service/job/job.html" target="_blank">新浪網尋人</a>|
+                    <a href="http://www.sina.com.hk/service/sitemap/sitemap.html" target="_blank">網站導航</a>|
+                    <a href="http://cs.sina.com.hk/" target="_blank">意見信箱</a>|
+                    <a href="http://cs.sina.com.hk/faq/sinahelp72.html" target="_blank">廣告查詢</a>|
+                    <a href="https://login.sina.com.hk/cgi-bin/register.cgi" target="_blank">加入會員</a>|
+                    <a href="http://cs.sina.com.hk/faq/sinahelp30.html" target="_blank">隱私權保護</a></div>
+
+                    <div class="copyright">Copyright &copy; 2012 SINA.com All Rights Reserved　 版權所有 不得轉載</div>
+                </div>
+                <div class="right"><a href="#TOP"><img src="/images/100924/topBtn.gif" /></a></div>
+                <div class="clearboth"></div>
+            </h1>
+        </div>
+
+</div><!-- /sideBorder -->
+</div><!-- /page -->
+<script language="JavaScript" type="text/javascript">
+if(mobile) 
+{
+//--Mobile Sub-Channel--//
+document.write('<scr'+'ipt type="text/javascript" src="http://asjs.sinahk.net/soccer/wc2010/result_feed/get_feed.js"></scr'+'ipt>');
+document.write('<scr'+'ipt src="http://as.sinahk.net/f?s=229&w=700&h=120&t=_blank" type="text/javascript"></scr'+'ipt>');
+}
+else
+{
+//--Digital Channel--//
+   if (as_section == 'index'){
+       randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://servedby.adsfactor.net/adj.php?ts=" + randomstr + "&amp;sid=79419961577" + "'><" + "/script>");
+   }
+}
+</script>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "8275064" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=8275064&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+<!-- START RedSheriff Measurement V5.1 -->
+<!-- COPYRIGHT 2003 RedSheriff Limited -->
+
+<script language="JavaScript" type="text/javascript">
+<!--
+var _rsCI="hk-Sina";
+var _rsCG="0";
+var _rsDT=0;
+var _rsDU=0;
+var _rsDO=1;
+var _rsX6=0;
+var _rsSI=escape(window.location);
+var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+var _rsRP=escape(document.referrer);
+var _rsND=_rsLP+'//secure-asia.imrworldwide.com/';
+if (parseInt(navigator.appVersion)>=4)
+{
+var _rsRD=(new Date()).getTime();
+var _rsSE=0;
+var _rsSV="";
+var _rsSM=0;
+_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
+}
+else
+{
+_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+}
+document.write(_rsCL);
+//-->
+</script>
+<noscript>
+<img src="https://secure-asia.imrworldwide.com/cgi-bin/m?ci=hk-Sina& cg=0" alt="" />
+</noscript>
+<!-- END RedMeasure V5.1 -->
+<!-- START Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7621498-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END Google Analytics -->
+
+
+<script language='JavaScript' type='text/javascript'>
+if (mobile)	{
+randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://servedby.wordsnap.asia/adjk.php?ts=" + randomstr + "&amp;sid=761625491481" + "'><" + "/script>");
+} else {
+randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://servedby.wordsnap.asia/adjk.php?ts=" + randomstr + "&amp;sid=706548911484" + "'><" + "/script>");
+}
+</script>
+</body>
+</html>
+<!--DIGEST-->
+<!--1291ff9f7c671e1012fd03de481a09d0--><!--Publish on:2012-01-04 17:36:12--><!--LAYOUT:17-->

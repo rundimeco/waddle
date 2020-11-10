@@ -1,0 +1,649 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>市场巨大 肝炎疫苗研发成热点_财讯.COM</title>
+<meta name="Keywords" content="股票,分析稿,中西药制造,上市公司点评,医药制造,行业研究,世华撰稿,一般消费品,保健医疗" />
+<meta name="Description" content="[世华财讯]近日，重庆啤酒治疗性乙肝疫苗研究宣告失败，在历时13年股价累计涨幅逾5倍后公司股价大幅下挫。" />
+<meta name="classification" content="World: Chinese Simplified: 商业: 投资: 理财" />
+<meta name="author" content="财讯网_提供股票、基金、期货与外汇市场的金融资讯，以及个人理财咨询等服务" />
+<meta name="copyright" content="财讯网_中国专业财经网站" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="http://images.caixun.com/styles/common.css" />
+<link rel="stylesheet" type="text/css" href="http://images.caixun.com/styles/news2.css" />
+<link rel="shortcut icon" href="http://images.caixun.com/images/icon/favicon.ico" />
+<script src="http://images.caixun.com/js/library/jquery.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/library/cookie.js" type="text/javascript"></script> 
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-1753776201213826");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-1753776201213826", "stocks_column");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+<script src="http://images.caixun.com/js/common/login.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/article/common.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/article/loopedcarousel.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/common/forumapi.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var commentArticleID = "NE034juu";
+	var commentArticleType = 1;
+	var commentAritcleTitle = "市场巨大 肝炎疫苗研发成热点";
+	var channelID = "0000000n";
+	var pageData = '';
+</script>
+</head>
+<body>
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_moveLayers(){
+        var ttop,tleft,h,w;
+        var i,p,v,obj,args=MM_moveLayers.arguments;
+        for (i=0; i<(args.length); i++){
+                if(i == 0){
+                        obj = args[0];
+                        evt=args[2];
+                        evt=evt?evt:window.event;
+                          tleft = evt.clientX+document.body.scrollLeft-5;
+                          ttop  = evt.clientY+document.documentElement.scrollTop-5;
+                }else{
+                        if ((obj=document.getElementById(args[i]))!=null){
+                                if (obj.style){
+                                        obj.style.left = tleft+'px';
+                                        obj.style.top  = ttop+2+'px';
+                                }
+                        }
+                }
+        }
+}
+function MM_showHideLayers() { //v6.0
+    var i,p,v,obj,args=MM_showHideLayers.arguments;
+    for (i=0; i<(args.length-2); i+=3)
+    	if ((obj=MM_findObj(args[i]))!=null){
+        	v=args[i+2];
+            if (obj.style){
+                obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v;
+            }
+            obj.visibility=v;
+    	}
+}
+var stocksCode = '重庆啤酒||600132**天坛生物||600161**海正药业||600267**恒瑞医药||600276**广州药业||600332**通化东宝||600867**吉林敖东||000623**华兰生物||002007**科华生物||002022**双鹭药业||002038**广州药业||600332**通化东宝||600867**';
+jQuery(document).ready(function(){
+	if ( stocksCode != '' ){
+        var urlMarket = '/app/common/article/getMarketGraph.ajax.php?code=' + stocksCode;
+    	jQuery.ajax({
+				type:'get',
+				contentType:'application/x-www-form-urlencoded; charset=GB2312',
+				url:urlMarket,
+				cache:false,
+				success:function(data){jQuery('#stockmarket').empty().append(data)}
+	    });
+     
+}
+});
+
+function showMarketGraph(name,code){
+	var html="<span id = marketText"+code+">"+name+"("+code+")</span>";
+	document.write(html);
+	var id="marketText"+code;
+	jQuery.ajax({
+				type:'get',
+				contentType:'application/x-www-form-urlencoded; charset=GB2312',
+				url:'/app/common/article/getMarketText.ajax.php?code='+code,
+				cache:false,
+				success:function(data){jQuery('#'+id).empty().append(data);}
+	    });
+}
+//-->
+</script>
+<!------头部 start------>
+<div class="header" style="background:none;">
+  <div class="content-nav2">
+    <div class="content-nav2-left"> <a href="http://www.caixun.com/" target="_self">财讯首页</a>- <a href="http://news.caixun.com/" target="_self">新闻</a>- <a href="http://economy.caixun.com/" target="_self">经济</a>- <a href="http://biz.caixun.com/" target="_self">商业</a>- <a href="http://money.caixun.com/" target="_self">理财</a>- <a href="http://funds.caixun.com/" target="_self">基金</a>- <a href="http://stocks.caixun.com/" target="_self">股票</a>- <a href="http://futures.caixun.com/" target="_self">期货</a>- <a href="http://fx.caixun.com/" target="_self">外汇</a>- <a href="http://life.caixun.com/" target="_self">生活</a>- <a href="http://special.caixun.com/" target="_self">专题</a>- <a href="http://comment.caixun.com/" target="_self">评论</a>- <a href="http://market.caixun.com/" target="_self">解盘</a>- <a href="http://forum.caixun.com/" target="_self">论坛</a>- <a href="http://blog.caixun.com/" target="_self">博客</a>- <a href="http://club.caixun.com/" target="_self">互动</a> </div>
+<p> <a href="http://club.caixun.com/" target="_self"><img src="http://images.caixun.com/images/header/ico_red_cm.gif" alt="财迷会所" />财迷会所</a> <a href="http://service.caixun.com/yzcm/" target="_self"><img src="http://images.caixun.com/images/header/ico_red_yz.gif" alt="益智财迷" />益智财迷</a> <a href="http://service.caixun.com/epress/" target="_self"><img src="http://images.caixun.com/images/header/ico_epa.gif" alt="电子报" />电子报</a> <a href="http://wap.caixun.com/" target="_self"><img src="http://images.caixun.com/images/header/ico_mob.gif" alt="手机版" />手机版</a>
+<div class="clear"></div>
+</p>
+  </div>
+  <div class="clear"></div>
+</div>
+<!------头部 end------>
+<!------主体 start------>
+<div class="content">
+  <div class="w648" style="width:638px; background-color:#fff; border-right:none">
+    <!--<div class="ad620" id="advertisementTop"></div>-->
+	<div class="ad620"><script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9409438"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_29161077_2449754_9409438";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9409438";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script></div>
+    <div class="content-logo marl10">
+      <h1 class="content-logo-img"> <a href="http://www.caixun.com" target="_top"> <img title="财讯" alt="财讯" src="http://images.caixun.com/images/header/logo.gif"></a></h1>
+      <div class="mypos fsimsun fl"><script type="text/javascript">if (channelID!="00000003"){document.write('<a href="http://www.caixun.com/">首页</a>&gt;');}</script><a href="/" id="rtchannelhome">股票</a>&gt;<script type="text/javascript">if (channelID=="00000003")($("#rtchannelhome").attr("href","http://www.caixun.com"));</script>&nbsp;正文</div>
+      <form action="" method="post" class="neiwen2">
+  <input name="" type="text" class="text cgray" value="请输入关键字" id="searchText">
+  <input name="" style="cursor:pointer;" type="button" class="btn" onclick="search_gotoLookupN()"/>
+</form>
+<script type="text/javascript">
+function search_gotoLookupN() {
+	var inputValue = document.getElementById('searchText').value;	
+
+	if(ActionChar(inputValue) == true){
+	}
+	else{
+	  return false;	  
+	}
+}
+var searchText = $("#searchText");
+searchText.focus(function(){
+	var inputValue = $(this).attr('value');
+	if(inputValue == '请输入关键字')
+	{
+		$(this).attr('value','');
+	}
+});
+
+searchText.blur(function(){
+	var inputValue = $(this).attr('value');
+	if(inputValue == '')
+	{
+		$(this).attr('value','请输入关键字');
+	}
+});
+//对字符串进行验证FrankMeng
+
+function ActionChar(s){
+
+   var s = $("#searchText").val();
+
+  if(s ==" " && s=="请输入关键字")
+
+  {
+
+      $("#searchText").focus();
+      return false;
+
+  }
+
+  var reg = /^([a-zA-Z])|([\u0391-\uFFE5]+)|([,])|([\s])|([0-9])$/;
+
+  //var reg1 = /^$/
+
+  var str = s;
+
+  if(str == "")
+
+  {
+
+      alert("对不起关键词不能为空");
+
+	  $("#searchText").focus();
+
+	  //document.all.search.select();
+
+	  return false;
+
+  }else
+
+  {
+
+        var _sivalue=false;
+
+		  for(var i =0; i<str.length;i++){
+
+			 var _iKeyCode =str.substring(i,i+1);
+
+			 if(!reg.test(_iKeyCode)){
+
+			  _sivalue=true;
+
+		      }
+
+		  }
+
+		  if(_sivalue){
+
+			alert("格式不正确!");
+
+			$("#searchText").focus();
+
+	        return false;
+
+		  } else
+          {
+		   if(trim($("#searchText").val())!="请输入关键字" && trim($("#searchText").val())!="")
+		   {
+           var gotoUrl = "http://search.caixun.com/?k="+trim($("#searchText").val());
+	       window.open(encodeURI(gotoUrl));
+		   }else
+		   {
+		   alert("对不起关键词不能为空");
+		      $("#searchText").focus();
+
+			  //document.all.search.select();
+
+			  return false;
+		   }
+		  }		  
+
+  }
+
+}
+function trim(inputString) {
+
+    
+
+    if (typeof inputString != "string") { return inputString; }
+
+       var retValue = inputString;
+
+       var ch = retValue.substring(0, 1);
+
+    while (ch == " ") { 
+
+    //检查字符串开始部分的空格
+
+       retValue = retValue.substring(1, retValue.length);
+
+       ch = retValue.substring(0, 1);
+
+       }
+
+       ch = retValue.substring(retValue.length-1, retValue.length);
+
+    while (ch == " ") {
+
+                 //检查字符串结束部分的空格
+
+                 retValue = retValue.substring(0, retValue.length-1);
+
+                 ch = retValue.substring(retValue.length-1, retValue.length);
+
+              }
+
+              while (retValue.indexOf("  ") != -1) { 
+
+              //将文字中间多个相连的空格变为一个空格
+
+                 retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length); 
+
+              }
+
+              return retValue;
+
+}
+
+</script>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+    <h1>市场巨大 肝炎疫苗研发成热点</h1>
+	
+    <div class="newstip cgray">2012年01月12日 16:15  已有<em class="cred" id="readnumber1">0</em>人阅读 字号：<s><a href="javascript:doZoom(12)" target="_self">T</a></s> | <s><a href="javascript:doZoom(14)" target="_self" class="cblue fb f14">T</a></s> <a href="javascript:copyToClipboard(document.URL)" target="_self" class="bga">复制链接</a> <a href="javascript:print()" target="_self" class="bgb">打印</a></div>
+    <div class="pagesel" id="guibance">      
+    </div>
+	<script src="http://images.caixun.com/js/article/contentPage.js" type="text/javascript"></script>
+    <div class="info">[世华财讯]近日，重庆啤酒治疗性乙肝疫苗研究宣告失败，在历时13年股价累计涨幅逾5倍后公司股价大幅下挫。</div>
+    <div class="newscot" id="Zoom">
+      [世华财讯]近日，重庆啤酒治疗性乙肝疫苗研究宣告失败，在历时13年股价累计涨幅逾5倍后公司股价大幅下挫。在重庆啤酒乙肝疫苗风波仍未平息之时，近日，报道称历经14年研制的“重组戊型肝炎疫苗”获得国家一类新药证书和生产文号,成为世界上第一个用于预防戊型肝炎的疫苗。肝炎疫苗市场再度引起关注。目前，全球的肝炎患者数量巨大，研发肝炎防治疫苗也成为当今的疫苗市场的热点。沪深股市涉及肝炎疫苗的上市公司包括：双鹭药业、通化东宝、华兰生物、天坛生物、广州药业等。<br><br>1月11日，由厦门大学、养生堂万泰公司联合,历经14年研制的“重组戊型肝炎疫苗”获得国家一类新药证书和生产文号,成为世界上第一个用于预防戊型肝炎的疫苗。<br><br>中国的肝炎疫苗市场巨大，研发肝炎防治疫苗是当今的热点，治疗肝炎的用药主要是拉米夫定这些抗病毒药。如<span id = stocksTxt600276>恒瑞医药 ( 600276 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=600276', function(data) {
+  $('#stocksTxt600276').html(data);
+});
+//-->
+</script>、<span id = stocksTxt600267>海正药业 ( 600267 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=600267', function(data) {
+  $('#stocksTxt600267').html(data);
+});
+//-->
+</script>都有相关药物。此外，<span id = stocksTxt002038>双鹭药业 ( 002038 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=002038', function(data) {
+  $('#stocksTxt002038').html(data);
+});
+//-->
+</script>和则生产干扰素产品可以用来治疗肝炎等相关疾病。从事乙型肝炎疫苗业务的主要有<span id = stocksTxt600332>广州药业 ( 600332 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=600332', function(data) {
+  $('#stocksTxt600332').html(data);
+});
+//-->
+</script>自2008年以来，也在研发治疗乙肝疫苗，目前已进入临床试验，<span id = stocksTxt600867>通化东宝 ( 600867 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=600867', function(data) {
+  $('#stocksTxt600867').html(data);
+});
+//-->
+</script>、<span id = stocksTxt002007>华兰生物 ( 002007 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=002007', function(data) {
+  $('#stocksTxt002007').html(data);
+});
+//-->
+</script>、<span id = stocksTxt600161>天坛生物 ( 600161 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=600161', function(data) {
+  $('#stocksTxt600161').html(data);
+});
+//-->
+</script>等。其中，市场认知度较高的、专门生产治疗性乙肝疫苗的两家公司是和：疗用(合成肽)乙型肝炎疫苗唯一的上市公司。而<span id = stocksTxt600867>通化东宝 ( 600867 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=600867', function(data) {
+  $('#stocksTxt600867').html(data);
+});
+//-->
+</script>子公司研发的乙肝新药则是传统治疗乙肝药物。之前，被炒得沸沸扬扬的<span id = stocksTxt000623>吉林敖东 ( 000623 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=000623', function(data) {
+  $('#stocksTxt000623').html(data);
+});
+//-->
+</script>则是“生物人工肝（ELAD）项目”首个国内研究者。除此之外，<span id = stocksTxt002022>科华生物 ( 002022 ) </span><script type="text/javascript">
+<!--
+$.get('/app/common/article/getMarketText.ajax.php?code=002022', function(data) {
+  $('#stocksTxt002022').html(data);
+});
+//-->
+</script>生产的乙型肝炎病毒、丙型肝炎病毒核酸检测试剂盒(PCR-荧光法)获得药监局新药证书和生产批准文号。<br><br>病毒性肝炎是危害最大的一类肝炎，传染性强。引起的病毒主要有甲、乙、丙、丁、戊五型。甲型和戊型肝炎病毒通过肠道传染，病毒污染水源或食物后可形成大流行，不过不会发展为慢性，也不会引起肝硬化，并且患病后有终身免疫力。乙、丙、丁型病毒性肝炎均通过血液传播，乙、丙型肝炎可转为慢性，并可能演变为肝硬化甚至肝癌。	                 
+    </div>
+    <!------分页 start------>
+    <div class="pagenum"><span>1</span>&nbsp;<a href='NE034juu-2.html' target='_self'>2</a>&nbsp;<a href='NE034juu-3.html' target='_self'>3</a><a href='NE034juu-2.html' target='_self'>下一页</a><a href='NE034juu-3.html' target='_self'>尾页</a><a href="NE034juu-all.html" target="_self">单页阅读</a></div>
+    <!------分页 end------>
+    <div class="newstip cgray newstip_bot">已有<em class="cred" id="readnumber2">0</em>人阅读 字号：<s><a href="javascript:doZoom(12)" target="_self">T</a></s> | <s><a href="javascript:doZoom(14)" target="_self" class="cblue fb f14">T</a></s> <a href="javascript:copyToClipboard(document.URL)" target="_self" class="bga">复制链接</a> <a href="javascript:print()" target="_self" class="bgb">打印</a> <a href="http://service.caixun.com/rss/" class="bgc" target="_blank">RSS</a> 
+	<div id="sharetitle" class="sharetitle"><a href="###" target="_self" class="bgd">分享</a></div>	
+	<script type="text/javascript">
+function sendurl(){
+	var title = window.document.title;
+	title = title.replace("_财讯.COM","");
+	var url = window.location.href;
+	document.getElementById("kaixin").href='http://www.kaixin001.com/repaste/share.php?rurl='+encodeURIComponent(url)+'&rcontent='+encodeURIComponent('世华财讯―'+title)+'&rtitle='+encodeURIComponent('世华财讯―'+title);    
+	document.getElementById("xianguo").href='http://xianguo.com/service/submitdigg/?link='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title);
+	document.getElementById("tengxun").href='http://v.t.qq.com/share/share.php?url='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title);
+	return false;
+}
+
+function gotoWB(){
+	var title = window.document.title;
+	title = title.replace("_财讯.COM","");
+	var url = window.location.href;
+
+    var content = '<a href="'+url+'" taget="_blank">'+title+'</a>';
+
+	$("#wbexcerpt").attr('value', content);
+	
+	document.wbForm.submit();
+}
+</script>
+
+<form method="POST" target="_blank" name="wbForm" action="http://club.caixun.com/index.php?r=microblog/default/share">
+<input type="hidden" name="excerpt" id="wbexcerpt" />
+</form>
+
+<div class="share" id="share" style="display:none">
+  <ul>
+    <li><a style="cursor:pointer" onclick="gotoWB()">财讯微博</a></li>
+    <li><a href="javascript:window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent('世华财讯―'+window.document.title.replace('_财讯.COM',''))+'&amp;url='+encodeURIComponent
+(window.location.href)+'&amp;source=bookmark','_blank');void(0)">新浪微博</a></li>
+    <li><a href="###" onClick="sendurl()" id="tengxun" target="_blank">腾讯微博</a></li>
+	<li><a title="分享到搜狐微博" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var f='http://t.sohu.com/third/post.jsp?',u=z||d.location,p=['&url=',e(u),'&title=',e(t||d.title),'&content=',c||'utf-8','&pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=660,height=600,left=',(s.width-660)/2,',top=',(s.height-600)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','',window.document.title,'','utf-8'));"/>搜狐微博</a></li>
+    <li><a href="###" onClick="sendurl()" id="kaixin" target="_blank">开心网</a></li>
+    <li><a href="###" onClick="sendurl()" id="xianguo" target="_blank">鲜果网</a></li>
+  </ul>
+</div>
+	</div>
+    <!------相关新闻 start------>
+    <div class="xgxw" style="width:418px;">
+      <h3 class="cred">相关新闻</h3>
+      <ul class="newsxg">        
+		<li>・<a target="_blank" href="http://stocks.caixun.com/content/20111209/NE032ra9.html">疫苗存疑重庆啤酒无量跌停</a><span>2011/12/09</span></li>
+<li>・<a target="_blank" href="http://biz.caixun.com/content/20111209/NE032r8e.html">数据不透明：重啤疫苗可能“翻盘”</a><span>2011/12/09</span></li>
+<li>・<a target="_blank" href="http://stocks.caixun.com/content/20111208/NE032pnv.html">重庆啤酒揭盲不理想 警惕生物医药过度炒作</a><span>2011/12/08</span></li>
+<li>・<a target="_blank" href="http://funds.caixun.com/content/20111208/NE032phn.html">重庆啤酒乙肝疫苗“泡”吹大了</a><span>2011/12/08</span></li>
+<li>・<a target="_blank" href="http://stocks.caixun.com/content/20111202/NE032g4o.html">疫苗概念股横空出世 五只个股有望成“先锋(股)</a><span>2011/12/02</span></li>
+<li>・<a target="_blank" href="http://stocks.caixun.com/content/20111129/NE0329fo.html">生物技术三大突破 领航生物医药产业</a><span>2011/11/29</span></li>
+<li>・<a target="_blank" href="http://stocks.caixun.com/content/20111128/NE0326rv.html">重庆啤酒：3.5亿人口的市场前景</a><span>2011/11/28</span></li>
+<li>・<a target="_blank" href="http://stocks.caixun.com/content/20111125/NE0324fe.html">疫苗产业获政策支持 治疗型疫苗将快速增长</a><span>2011/11/25</span></li>
+<li>・<a target="_blank" href="http://stocks.caixun.com/content/20111125/NE0323q7.html">一机构抛售3778万元 重庆啤酒乙肝疫苗二期数据将揭晓</a><span>2011/11/25</span></li>
+<li>・<a target="_blank" href="http://stocks.caixun.com/content/20110822/NE02s2hk.html">十二五医药转型重研发 新药类公司面临机遇</a><span>2011/08/22</span></li>
+
+      </ul>
+    </div>
+    <!------相关新闻 end------>
+    <!------相关推荐 start------>
+    <div class="xgtj">
+      <h3 class="cred">关键词</h3>
+      <div class="xgtj_word cblue">
+	  <a target="_blank" href="http://search.caixun.com/?k=保健医疗" class="fb">保健医疗</a>
+<a target="_blank" href="http://search.caixun.com/?k=一般消费品" class="fb">一般消费品</a>
+<a target="_blank" href="http://search.caixun.com/?k=世华撰稿" class="fb">世华撰稿</a>
+<a target="_blank" href="http://search.caixun.com/?k=行业研究" class="fb">行业研究</a>
+<a target="_blank" href="http://search.caixun.com/?k=医药制造" class="fb">医药制造</a>
+<a target="_blank" href="http://search.caixun.com/?k=上市公司点评" class="fb">上市公司点评</a>
+<a target="_blank" href="http://search.caixun.com/?k=中西药制造" class="fb">中西药制造</a>
+<a target="_blank" href="http://search.caixun.com/?k=分析稿" class="fb">分析稿</a>
+<a target="_blank" href="http://search.caixun.com/?k=股票" class="fb">股票</a>
+<a target="_blank" href="http://search.caixun.com/?k=" class="fb"></a>
+<a target="_blank" href="http://search.caixun.com/?k=" class="fb"></a>
+
+	  </div>
+    </div>
+    <!------相关推荐 end------>
+    <div class="clear"></div>
+    <!------发表评论 start------>
+    <div class="comt clearfix" id="initiatecomment">      
+    </div>
+	<script src="http://images.caixun.com/js/article/comment.js" type="text/javascript"></script>
+    <!------发表评论 end------>
+    <!------热门专题 start------>
+	<div class="specialimage">
+  <div id="subject" class="subject">
+    <div class="top">
+      <h3 class="cred">热门专题</h3>
+      <a href="###" class="previous"><img src="http://images.caixun.com/images/common/ico_12.gif" alt="向左" /></a> 
+	  <a href="###" class="next"><img src="http://images.caixun.com/images/common/ico_13.gif" alt="向右" /></a> 
+	</div>
+    <div class="container">
+      <ul class="slides">
+        <!--热门专题开始-->
+        <li><a target="_blank" href="http://economy.caixun.com/special/chunyun2012/"><img src="http://images.caixun.com/houtai/201112/2011123117111568463783.jpg" width="120" height="90" alt="中国春运之变！" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/chunyun2012/">中国春运之变！</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/nianzhongjiang/"><img src="http://images.caixun.com/houtai/201108/2011081613272906047862.jpg" width="120" height="90" alt="年终奖那点事儿" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/nianzhongjiang/">年终奖那点事儿</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/wlaq/"><img src="http://images.caixun.com/houtai/201104/2011042314385196214166.jpg" width="120" height="90" alt="银行用户信息疑遭泄露" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/wlaq/">银行用户信息疑遭泄露</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/1001100100000000821/"><img src="http://images.caixun.com/houtai/201112/2011122707281683224737.jpg" width="120" height="90" alt="蒙牛含毒不能道歉了事" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/1001100100000000821/">蒙牛含毒不能道歉了事</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/shangyerenwu/"><img src="http://images.caixun.com/houtai//201112/201112072042521001100100000000111.jpg" width="120" height="90" alt="商界2011：面孔与记忆" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/shangyerenwu/">商界2011：面孔与记忆</a></p>
+</li><li><a target="_blank" href="http://economy.caixun.com/special/sdcx/"><img src="http://images.caixun.com/houtai/201006/9451781704c23330350abd.jpg" width="120" height="90" alt="2012中国经济十大猜想" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/sdcx/">2012中国经济十大猜想</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/1001100100000000805/"><img src="http://images.caixun.com/houtai/201112/2011122015241047846836.jpg" width="120" height="90" alt="防辐射服是个传说？" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/1001100100000000805/">防辐射服是个传说？</a></p>
+</li><li><a target="_blank" href="http://economy.caixun.com/special/xysmzy/"><img src="http://images.caixun.com/houtai/200904/73879221649f6b1ba40013.jpg" width="120" height="90" alt="2012中国需要什么主义" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/xysmzy/">2012中国需要什么主义</a></p>
+</li><li><a target="_blank" href="http://economy.caixun.com/special/1001100100000000672/"><img src="http://images.caixun.com/houtai/201112/2011120915384241899574.jpg" width="120" height="90" alt="盘点2011中国财经生活" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/1001100100000000672/">盘点2011中国财经生活</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/gongsi/"><img src="http://images.caixun.com/houtai//201112/201112141011571001100100000000125.jpg" width="120" height="90" alt="盘点2011：公司的选择" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/gongsi/">盘点2011：公司的选择</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/loushi/"><img src="http://images.caixun.com/houtai/201006/17289879714c0e22dba2941.jpg" width="120" height="90" alt="聚焦楼市双限令" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/loushi/">聚焦楼市双限令</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/dianxinliantong/"><img src="http://images.caixun.com/houtai/201108/2011080912442873997054.jpg" width="120" height="90" alt="电信联通遭遇反垄断" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/dianxinliantong/">电信联通遭遇反垄断</a></p>
+</li><!---->
+		<!--热门专题结束-->
+      </ul>
+    </div>    
+  </div>
+  <div class="clear"></div>
+</div>
+<script type="text/javascript">
+	$(function(){
+		$('#subject').loopedCarousel({
+			spacing: 18
+		});
+	});
+</script>
+    <!------热门专题 end------>
+  </div>
+  <div class="w320">
+    <!------财讯推广 start------>
+    <div class="blank10"></div>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>财讯推广</h2>
+      </div>
+      <ul class="newsa newsf12 cblue fsimsun" id="advertisementWord">
+      </ul>
+    </div>
+    <!------财讯推广 end------>
+    <!------广告插入 start------>
+    <!--<div class="ad320_260" id="advertisement"></div>-->
+	<div class="ad300_250"><script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9432028"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_29161077_2449754_9432028";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9432028";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script> 
+</div>
+    <!------广告插入 end------>
+    <!------论坛相关 start------>
+    <div class="blank10"></div>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>论坛相关</h2>
+      </div>
+      <ul class="newsa cblue">
+        <li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116127514670300-1-1.html">ZT:如何看待高铁亏损</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116862346985114-1-1.html">ZT:高铁车票为何这么贵？</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116387470281798-1-1.html">ZT:高铁建设将成金融风险高发区</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116793951857357-1-1.html">高铁建设为了谁 </a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116868754989831-1-1.html">ZT:价值重估与价值回归</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116851853467357-1-1.html">沪指3000点纠结 续演估值修复</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116626498283273-1-1.html">22日金银价再创新高 银价首次突破万元大关</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116495913923838-1-1.html">业绩助推 全球股市再现逼人牛气</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-317291-1-1.html">涨幅榜背景大揭秘</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-317285-1-1.html">业余“股神”代客炒股成被告</a></li><!---->
+      </ul>
+    </div>
+    <!------论坛相关 end------>
+    <!------个股行情 start------>
+    <div class="borda bgwhite" id="stockmarket">      
+    </div>
+    <!------论坛相关 end------>
+    <!------新闻排行 start------>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>新闻排行</h2>
+      </div>
+      <ul class="newsa newsph cblue">
+        <li><a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034jii.html">新能源汽车技术路线或生变 比亚迪何去何从？</a></li><li><a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034jkg.html">淘宝商城改名天猫 阿里巴巴还剩什么</a></li><li><a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034juu.html">市场巨大 肝炎疫苗研发成热点</a></li><li><a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034jps.html">圣元奶粉被疑致死 行业发展再添变数</a></li><li><a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034juj.html">朗玛信息中止发行 新股改革制度迫在眉睫</a></li><li><a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034jrv.html">创业板指弱势调整 收盘跌逾1%</a></li><li><a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034jhh.html">茅台五粮液入胡润奢侈品榜 行业进步还是倒退</a></li><li><a target="_blank" href="http://stocks.caixun.com/content/20120112/CX01ut3v.html">1月12日十大实力私募共爆最新股市传闻内参</a></li><li><a target="_blank" href="http://stocks.caixun.com/content/20120111/NE034i02.html">珈伟光伏创业板首发获通过 供应商依赖存风险</a></li><li><a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034k2i.html">九兴2011年总收入14.928亿美元 增长15%</a></li><!---->
+      </ul>
+    </div>
+    <!------新闻排行 end------>
+    <!------财讯推荐 start------>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>财讯推荐</h2>
+      </div>
+      <ul class="newsa cblue">
+        <li>・<a target="_blank" href="http://economy.caixun.com/content/20120112/NE034jf0.html">12月CPI涨4.1% 创15月新低</a></li><li>・<a target="_blank" href="http://futures.caixun.com/content/20120112/NE034jk9.html">食品价上涨掣肘政策出台</a></li><li>・<a target="_blank" href="http://futures.caixun.com/content/20120112/NE034jhq.html">政策影响偏正面</a></li><li>・<a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034ji0.html">提振国企指数走高</a></li><li>・<a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034js1.html">收评:沪指收跌0.05% 或延续调整走势</a></li><li>・<a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034j39.html">新均衡在形成</a></li><li>・<a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034j2q.html">将挑战60日均线</a></li><li>・<a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034j17.html">反弹走向第二步</a></li><li>・<a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034j2b.html">市场有休整要求</a></li><li>・<a target="_blank" href="http://stocks.caixun.com/content/20120112/NE034j8q.html">车企高管密集调整</a></li><!---->		                		                		                
+      </ul>
+    </div>
+    <!------财讯推荐 end------>
+    <!------博客推荐 start------>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>博客推荐</h2>
+      </div>
+      <ul class="newsa cblue">
+        <li>・<a target="_blank" href="http://blog.caixun.com/1011101819900321464/viewspace-1012101116579845925.html">多方山穷水尽 大盘考验2580点</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101061207982218/viewspace-1012101083470037790.html">八省份公布地方债 海南债务率超93%</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101763566759726/viewspace-1012101359166510779.html">养生必晓：数数女人老得快的十大原委</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101028609519668/viewspace-1012101615324142923.html">美债降级 一个时代的终结？</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101658959107650/viewspace-1012101073052093781.html">中国股市的四大历史机遇（8月8日） </a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101028609519668/viewspace-1012101759791778755.html">解决出租司机罢工岂能一吊了之？</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101645279106293/viewspace-1012101261823151964.html">网上逃犯年底前自首有“优惠”</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101864467375675/viewspace-1012101250612667401.html">中国人为何生活得像驴子?</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101028609519668/viewspace-1012101820470469915.html">铁道部，请珍惜血染的动车残骸</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101864467375675/viewspace-1012101054794505417.html">业内人士称5年后北京或面临保姆荒</a></li><!---->
+      </ul>
+    </div>
+    <!------博客推荐 end------>
+	<!--合作广告 start-->
+	<!--google ad-->
+    <div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-1753776201213826";
+/* 300x250, 创建于 08-7-1 */
+google_ad_slot = "8472505445";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<!--baidu ad-->
+<div class="blank10"></div>
+    <div align="center">
+<script type="text/javascript">/*300*250，创建于2011-7-20*/ var cpro_id = 'u547227';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+
+<script>var foja_mm_flag=true;</script>
+<script>var foja_mm_pos=1;</script>
+<script>var foja_mm_style='sytle1-1';</script>
+<script>var foja_mm_info=1;</script>
+<script src='http://union.mingrunad.com/proxy/miner.jsp?wid=7&cid=5'></script>
+	<!--合作广告 end-->
+  </div>
+  <div class="clear"></div>
+</div>
+<!------主体 end------>
+<!------底部 start------>
+<div class="footer">
+<div class="footnav"> <a href="http://www.caixun.com/include/footer/navigation.html" target="_blank">网站地图</a>|
+  <div id="footerlink"> <a href="http://www.caixun.com/include/footer/cxjs.html" target="_blank">关于我们</a>| <a href="http://www.caixun.com/include/footer/gsdt.html" target="_blank">公司动态</a>| <a href="http://www.caixun.com/include/footer/hzhb.html" target="_blank">合作伙伴</a>| <a href="http://www.caixun.com/include/footer/cpyc.html" target="_blank">诚征英才</a>| <a href="http://www.caixun.com/include/footer/zzqsm.html" target="_blank">著作权申明</a>| <a href="http://www.caixun.com/include/footer/ysqsm.html" target="_blank">隐私权保护</a>| <a href="http://www.caixun.com/include/footer/mzsm.html" target="_blank">免责申明</a>| <a href="http://www.caixun.com/include/footer/adquote.html" target="_blank">广告服务</a>| <a href="http://www.caixun.com/include/footer/lxwm.html" target="_blank">联系我们</a>| <a href="http://www.caixun.com/yqlj/" target="_blank">友情链接</a> </div>
+</div>
+<p>Copyright &copy; 2011 caixun.com All rights reserved. 版权所有财讯.com <a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007022800619" target="_blank"><img alt="版权" src="http://images.caixun.com/images/footer/cp.gif"></a><a href="http://ulic.baidu.com/client/clientDetailCerInfo.do?id=1740" target="_blank"><img alt="百度大联盟认证绿色会员" src="http://images.caixun.com/images/footer/logo_lm.gif"></a></p>
+<p><a class="gray" href="http://www.miibeian.gov.cn/" target="_blank">京ICP备07028176号</a> 京公网安备110301000051号</p>
+</div>
+<!------底部 end------>
+<!--百度统计代码-->
+<script type="text/javascript"> 
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F85ed4b194c2b844325d6954ed724c818' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!--集团系统代码-->
+<script language="javascript" src="http://gather.shushang-z.cn/Gather/scripts/visittrack.js" type="text/javascript"></script> <script type="text/javascript"> visittrack_siteId = '25'; visittrack_url = 'http://gather.shushang-z.cn/Gather/trace.do'; VisitTrack.visittrack_log( visittrack_siteId, visittrack_url); </script>
+<!--GA代码-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22871819-1']);
+  _gaq.push(['_setDomainName', '.caixun.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script src="http://images.caixun.com/js/article/ad.js" type="text/javascript"></script>
+<script src="/app/common/article/counter.php?rklsrecid=NE034juu&tjwzbt=%CA%D0%B3%A1%BE%DE%B4%F3+%B8%CE%D1%D7%D2%DF%C3%E7%D1%D0%B7%A2%B3%C9%C8%C8%B5%E3&tjfbsj=2012-01-12+16%3A15%3A47&wzymrecid=0000000n&tjwzlj=http://stocks.caixun.com/content/20120112/NE034juu.html"></script>
+</body>
+</html>
+

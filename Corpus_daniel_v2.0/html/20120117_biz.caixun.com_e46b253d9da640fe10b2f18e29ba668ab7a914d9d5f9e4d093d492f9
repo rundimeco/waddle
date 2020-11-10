@@ -1,0 +1,598 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>售票网站瘫痪招致批评 铁路政企分开提上日程_财讯.COM</title>
+<meta name="Keywords" content="国内,行业,交通运输,铁路运输,商业" />
+<meta name="Description" content="[世华财讯]“无法登录”、“刷新缓慢”、“系统崩溃”让购票者对这个网站的美好期望彻底落空。" />
+<meta name="classification" content="World: Chinese Simplified: 商业: 投资: 理财" />
+<meta name="author" content="财讯网_提供股票、基金、期货与外汇市场的金融资讯，以及个人理财咨询等服务" />
+<meta name="copyright" content="财讯网_中国专业财经网站" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="http://images.caixun.com/styles/common.css" />
+<link rel="stylesheet" type="text/css" href="http://images.caixun.com/styles/news2.css" />
+<link rel="shortcut icon" href="http://images.caixun.com/images/icon/favicon.ico" />
+<script src="http://images.caixun.com/js/library/jquery.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/library/cookie.js" type="text/javascript"></script>
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-1753776201213826");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-1753776201213826", "industry_banner");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<script src="http://images.caixun.com/js/common/login.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/article/common.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/article/loopedcarousel.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/common/forumapi.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var commentArticleID = "NE034rhg";
+	var commentArticleType = 1;
+	var commentAritcleTitle = "售票网站瘫痪招致批评 铁路政企分开提上日程";
+	var channelID = "00000004";
+	var pageData = '';
+</script>
+</head>
+<body>
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_moveLayers(){
+        var ttop,tleft,h,w;
+        var i,p,v,obj,args=MM_moveLayers.arguments;
+        for (i=0; i<(args.length); i++){
+                if(i == 0){
+                        obj = args[0];
+                        evt=args[2];
+                        evt=evt?evt:window.event;
+                          tleft = evt.clientX+document.body.scrollLeft-5;
+                          ttop  = evt.clientY+document.documentElement.scrollTop-5;
+                }else{
+                        if ((obj=document.getElementById(args[i]))!=null){
+                                if (obj.style){
+                                        obj.style.left = tleft+'px';
+                                        obj.style.top  = ttop+2+'px';
+                                }
+                        }
+                }
+        }
+}
+function MM_showHideLayers() { //v6.0
+    var i,p,v,obj,args=MM_showHideLayers.arguments;
+    for (i=0; i<(args.length-2); i+=3)
+    	if ((obj=MM_findObj(args[i]))!=null){
+        	v=args[i+2];
+            if (obj.style){
+                obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v;
+            }
+            obj.visibility=v;
+    	}
+}
+var stocksCode = '';
+jQuery(document).ready(function(){
+	if ( stocksCode != '' ){
+        var urlMarket = '/app/common/article/getMarketGraph.ajax.php?code=' + stocksCode;
+    	jQuery.ajax({
+				type:'get',
+				contentType:'application/x-www-form-urlencoded; charset=GB2312',
+				url:urlMarket,
+				cache:false,
+				success:function(data){jQuery('#stockmarket').empty().append(data)}
+	    });
+     
+}
+});
+
+function showMarketGraph(name,code){
+	var html="<span id = marketText"+code+">"+name+"("+code+")</span>";
+	document.write(html);
+	var id="marketText"+code;
+	jQuery.ajax({
+				type:'get',
+				contentType:'application/x-www-form-urlencoded; charset=GB2312',
+				url:'/app/common/article/getMarketText.ajax.php?code='+code,
+				cache:false,
+				success:function(data){jQuery('#'+id).empty().append(data);}
+	    });
+}
+//-->
+</script>
+<!------头部 start------>
+<div class="header" style="background:none;">
+  <div class="content-nav2">
+    <div class="content-nav2-left"> <a href="http://www.caixun.com/" target="_self">财讯首页</a>- <a href="http://news.caixun.com/" target="_self">新闻</a>- <a href="http://economy.caixun.com/" target="_self">经济</a>- <a href="http://biz.caixun.com/" target="_self">商业</a>- <a href="http://money.caixun.com/" target="_self">理财</a>- <a href="http://funds.caixun.com/" target="_self">基金</a>- <a href="http://stocks.caixun.com/" target="_self">股票</a>- <a href="http://futures.caixun.com/" target="_self">期货</a>- <a href="http://fx.caixun.com/" target="_self">外汇</a>- <a href="http://life.caixun.com/" target="_self">生活</a>- <a href="http://special.caixun.com/" target="_self">专题</a>- <a href="http://comment.caixun.com/" target="_self">评论</a>- <a href="http://market.caixun.com/" target="_self">解盘</a>- <a href="http://forum.caixun.com/" target="_self">论坛</a>- <a href="http://blog.caixun.com/" target="_self">博客</a>- <a href="http://club.caixun.com/" target="_self">互动</a> </div>
+<p> <a href="http://club.caixun.com/" target="_self"><img src="http://images.caixun.com/images/header/ico_red_cm.gif" alt="财迷会所" />财迷会所</a> <a href="http://service.caixun.com/yzcm/" target="_self"><img src="http://images.caixun.com/images/header/ico_red_yz.gif" alt="益智财迷" />益智财迷</a> <a href="http://service.caixun.com/epress/" target="_self"><img src="http://images.caixun.com/images/header/ico_epa.gif" alt="电子报" />电子报</a> <a href="http://wap.caixun.com/" target="_self"><img src="http://images.caixun.com/images/header/ico_mob.gif" alt="手机版" />手机版</a>
+<div class="clear"></div>
+</p>
+  </div>
+  <div class="clear"></div>
+</div>
+<!------头部 end------>
+<!------主体 start------>
+<div class="content">
+  <div class="w648" style="width:638px; background-color:#fff; border-right:none">
+    <!--<div class="ad620" id="advertisementTop"></div>-->
+	<div class="ad620"><script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9409438"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_29161077_2449754_9409438";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9409438";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script></div>
+    <div class="content-logo marl10">
+      <h1 class="content-logo-img"> <a href="http://www.caixun.com" target="_top"> <img title="财讯" alt="财讯" src="http://images.caixun.com/images/header/logo.gif"></a></h1>
+      <div class="mypos fsimsun fl"><script type="text/javascript">if (channelID!="00000003"){document.write('<a href="http://www.caixun.com/">首页</a>&gt;');}</script><a href="/" id="rtchannelhome">商业</a>&gt;<script type="text/javascript">if (channelID=="00000003")($("#rtchannelhome").attr("href","http://www.caixun.com"));</script>&nbsp;正文</div>
+      <form action="" method="post" class="neiwen2">
+  <input name="" type="text" class="text cgray" value="请输入关键字" id="searchText">
+  <input name="" style="cursor:pointer;" type="button" class="btn" onclick="search_gotoLookupN()"/>
+</form>
+<script type="text/javascript">
+function search_gotoLookupN() {
+	var inputValue = document.getElementById('searchText').value;	
+
+	if(ActionChar(inputValue) == true){
+	}
+	else{
+	  return false;	  
+	}
+}
+var searchText = $("#searchText");
+searchText.focus(function(){
+	var inputValue = $(this).attr('value');
+	if(inputValue == '请输入关键字')
+	{
+		$(this).attr('value','');
+	}
+});
+
+searchText.blur(function(){
+	var inputValue = $(this).attr('value');
+	if(inputValue == '')
+	{
+		$(this).attr('value','请输入关键字');
+	}
+});
+//对字符串进行验证FrankMeng
+
+function ActionChar(s){
+
+   var s = $("#searchText").val();
+
+  if(s ==" " && s=="请输入关键字")
+
+  {
+
+      $("#searchText").focus();
+      return false;
+
+  }
+
+  var reg = /^([a-zA-Z])|([\u0391-\uFFE5]+)|([,])|([\s])|([0-9])$/;
+
+  //var reg1 = /^$/
+
+  var str = s;
+
+  if(str == "")
+
+  {
+
+      alert("对不起关键词不能为空");
+
+	  $("#searchText").focus();
+
+	  //document.all.search.select();
+
+	  return false;
+
+  }else
+
+  {
+
+        var _sivalue=false;
+
+		  for(var i =0; i<str.length;i++){
+
+			 var _iKeyCode =str.substring(i,i+1);
+
+			 if(!reg.test(_iKeyCode)){
+
+			  _sivalue=true;
+
+		      }
+
+		  }
+
+		  if(_sivalue){
+
+			alert("格式不正确!");
+
+			$("#searchText").focus();
+
+	        return false;
+
+		  } else
+          {
+		   if(trim($("#searchText").val())!="请输入关键字" && trim($("#searchText").val())!="")
+		   {
+           var gotoUrl = "http://search.caixun.com/?k="+trim($("#searchText").val());
+	       window.open(encodeURI(gotoUrl));
+		   }else
+		   {
+		   alert("对不起关键词不能为空");
+		      $("#searchText").focus();
+
+			  //document.all.search.select();
+
+			  return false;
+		   }
+		  }		  
+
+  }
+
+}
+function trim(inputString) {
+
+    
+
+    if (typeof inputString != "string") { return inputString; }
+
+       var retValue = inputString;
+
+       var ch = retValue.substring(0, 1);
+
+    while (ch == " ") { 
+
+    //检查字符串开始部分的空格
+
+       retValue = retValue.substring(1, retValue.length);
+
+       ch = retValue.substring(0, 1);
+
+       }
+
+       ch = retValue.substring(retValue.length-1, retValue.length);
+
+    while (ch == " ") {
+
+                 //检查字符串结束部分的空格
+
+                 retValue = retValue.substring(0, retValue.length-1);
+
+                 ch = retValue.substring(retValue.length-1, retValue.length);
+
+              }
+
+              while (retValue.indexOf("  ") != -1) { 
+
+              //将文字中间多个相连的空格变为一个空格
+
+                 retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length); 
+
+              }
+
+              return retValue;
+
+}
+
+</script>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+    <h1>售票网站瘫痪招致批评 铁路政企分开提上日程</h1>
+	
+    <div class="newstip cgray">2012年01月17日 19:37  已有<em class="cred" id="readnumber1">0</em>人阅读 字号：<s><a href="javascript:doZoom(12)" target="_self">T</a></s> | <s><a href="javascript:doZoom(14)" target="_self" class="cblue fb f14">T</a></s> <a href="javascript:copyToClipboard(document.URL)" target="_self" class="bga">复制链接</a> <a href="javascript:print()" target="_self" class="bgb">打印</a></div>
+    <div class="pagesel" id="guibance">      
+    </div>
+	<script src="http://images.caixun.com/js/article/contentPage.js" type="text/javascript"></script>
+    <div class="info">[世华财讯]“无法登录”、“刷新缓慢”、“系统崩溃”让购票者对这个网站的美好期望彻底落空。</div>
+    <div class="newscot" id="Zoom">
+      [世华财讯]“无法登录”、“刷新缓慢”、“系统崩溃”让购票者对这个网站的美好期望彻底落空。<br><br>“买票难”多年来令铁道部广遭诟病，其斥资千万元推出的12306售票网站更是招致了一片恶评。<br><br>“无法登录”、“刷新缓慢”、“系统崩溃”让购票者对这个网站的美好期望彻底落空。<br><br>服务能力低是公众怨声载道的主要原因，而平台建设项目招标过程中照顾“自家企业”、仅设立唯一的平台出口等做法则是业内人士对其质疑的焦点。这一“穿新鞋，走老路”的网上售票平台被认为是铁路政企不分的新产物。<br><br>1月12日，太原铁路局与山西省政府、山西省检察院签订太原铁路检察机关移交协议。这是我国第一个铁路检察机关正式移交地方，也是铁道部部长盛光祖2011年12月底提出2012年试水政企分开后铁路体制改革的最新举动。<br><br>“向地方移交是好事，标志着铁路检察院管理体制改革正式进入实施阶段，此举也是政企分开等深层次铁路体制改革的启动信号。”国家发改委综合运输研究所研究员罗仁坚告诉《中国企业报》记者，司法体制改革完成后铁路系统或将进入“政企分开”的大体制改革。<br><br>铁路售票网站一度瘫痪<br><br>“很抱歉，当前提交订单用户过多，请您稍后重试。”    <br><br>1月11日，在放票的第一时间，赵亮便开始在12306网站预定1月22日从北京回老家过年的火车票。但在反复多次输入验证码与提交订单的过程中，页面出现的都是同样的“提示”。而试过多次后，页面显示的“指定车次席别已停止售票”宣告张亮在网上抢票大战中再次失败。<br><br>这已经是赵亮网购火车票的第三次失利。1月9日与1月10日，赵亮同样没能在网上抢购到回家的车票。期间，赵亮还尝试了电话订票，但也未能订到票。<br><br>“只能看看能不能买上汽车票了。”既懊恼又无奈的赵亮说。<br><br>最近一段时间，作为中国铁路客户服务中心的唯一网站，同时也是唯一的火车票网上售卖平台，12306网站一跃成为流量极高的热门网站之一。而因为无力支撑2012年春运前期的售票高峰压力，12306网站几近瘫痪。<br><br>中国铁路客户服务中心建设运营专家表示，互联网售票系统建设是经过长期酝酿，充分论证，认真准备后实施的一项系统工程，是以多年铁路信息化建设成果为前提和基础的。<br><br>“在技术层面上已经具备了可以完全避免此类问题发生的能力与水平，况且网上售票平台已经有了成熟的经验与模板可供借鉴。”在电子商务专家看来，12306出现这样的状况太“意外”了。<br><br>从网站登录的技术层面来看，12306.cn是基于IE标准制作的网站，目前仅支持IE6及以上版本的浏览器，其他非IE内核的浏览器都无法正常登录。<br><br>12306的“不专业”还表现在其提供的在线支付方式十分有限。目前，12306网站只支持工商银行、中国农业银行、中国银行、招商银行和银联的网上银行功能，而不支持第三方支付公司。<br><br>再揭“政企不分”伤疤<br><br>据了解，12306网站是由铁道科学研究院电子所负责开发和维护。铁科院是铁道部下属企业，电子所是铁科院下属单位。<br><br>据业内人士透露，铁科院电子所在业内并不算知名。此次售票网站表现不佳也从一个侧面印证了该所技术研发能力的欠缺与不足。<br><br>铁路行业的IT系统往往是铁道部信息中心、铁科院等铁道部旗下的事业单位、下属公司等承包研发，并负责运营维护。	                 
+    </div>
+    <!------分页 start------>
+    <div class="pagenum"><span>1</span>&nbsp;<a href='NE034rhg-2.html' target='_self'>2</a><a href='NE034rhg-2.html' target='_self'>下一页</a><a href='NE034rhg-2.html' target='_self'>尾页</a><a href="NE034rhg-all.html" target="_self">单页阅读</a></div>
+    <!------分页 end------>
+    <div class="newstip cgray newstip_bot">已有<em class="cred" id="readnumber2">0</em>人阅读 字号：<s><a href="javascript:doZoom(12)" target="_self">T</a></s> | <s><a href="javascript:doZoom(14)" target="_self" class="cblue fb f14">T</a></s> <a href="javascript:copyToClipboard(document.URL)" target="_self" class="bga">复制链接</a> <a href="javascript:print()" target="_self" class="bgb">打印</a> <a href="http://service.caixun.com/rss/" class="bgc" target="_blank">RSS</a> 
+	<div id="sharetitle" class="sharetitle"><a href="###" target="_self" class="bgd">分享</a></div>	
+	<script type="text/javascript">
+function sendurl(){
+	var title = window.document.title;
+	title = title.replace("_财讯.COM","");
+	var url = window.location.href;
+	document.getElementById("kaixin").href='http://www.kaixin001.com/repaste/share.php?rurl='+encodeURIComponent(url)+'&rcontent='+encodeURIComponent('世华财讯―'+title)+'&rtitle='+encodeURIComponent('世华财讯―'+title);    
+	document.getElementById("xianguo").href='http://xianguo.com/service/submitdigg/?link='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title);
+	document.getElementById("tengxun").href='http://v.t.qq.com/share/share.php?url='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title);
+	return false;
+}
+
+function gotoWB(){
+	var title = window.document.title;
+	title = title.replace("_财讯.COM","");
+	var url = window.location.href;
+
+    var content = '<a href="'+url+'" taget="_blank">'+title+'</a>';
+
+	$("#wbexcerpt").attr('value', content);
+	
+	document.wbForm.submit();
+}
+</script>
+
+<form method="POST" target="_blank" name="wbForm" action="http://club.caixun.com/index.php?r=microblog/default/share">
+<input type="hidden" name="excerpt" id="wbexcerpt" />
+</form>
+
+<div class="share" id="share" style="display:none">
+  <ul>
+    <li><a style="cursor:pointer" onclick="gotoWB()">财讯微博</a></li>
+    <li><a href="javascript:window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent('世华财讯―'+window.document.title.replace('_财讯.COM',''))+'&amp;url='+encodeURIComponent
+(window.location.href)+'&amp;source=bookmark','_blank');void(0)">新浪微博</a></li>
+    <li><a href="###" onClick="sendurl()" id="tengxun" target="_blank">腾讯微博</a></li>
+	<li><a title="分享到搜狐微博" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var f='http://t.sohu.com/third/post.jsp?',u=z||d.location,p=['&url=',e(u),'&title=',e(t||d.title),'&content=',c||'utf-8','&pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=660,height=600,left=',(s.width-660)/2,',top=',(s.height-600)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','',window.document.title,'','utf-8'));"/>搜狐微博</a></li>
+    <li><a href="###" onClick="sendurl()" id="kaixin" target="_blank">开心网</a></li>
+    <li><a href="###" onClick="sendurl()" id="xianguo" target="_blank">鲜果网</a></li>
+  </ul>
+</div>
+	</div>
+    <!------相关新闻 start------>
+    <div class="xgxw" style="width:418px;">
+      <h3 class="cred">相关新闻</h3>
+      <ul class="newsxg">        
+		<li>・<a target="_blank" href="http://www.caixun.com/content/20120114/CX01utpi.html">购票网站点击数超10亿 铁道部称对购票需求估计不足</a><span>2012/01/14</span></li>
+<li>・<a target="_blank" href="http://life.caixun.com/content/20120111/CX01ussq.html">铁道部耗资千万订票网未曾模拟演练致买票难</a><span>2012/01/11</span></li>
+<li>・<a target="_blank" href="http://money.caixun.com/content/20120111/CX01ushv.html">铁道部巨款建龟速订票网站 平均刷500次买1票</a><span>2012/01/11</span></li>
+<li>・<a target="_blank" href="http://biz.caixun.com/content/20111207/NE032nbu.html">铁路改革路径明朗 铁道部或并入交通运输部</a><span>2011/12/07</span></li>
+<li>・<a target="_blank" href="http://economy.caixun.com/content/20111122/NE031uip.html">铁道部正式启动工程招投标</a><span>2011/11/22</span></li>
+<li>・<a target="_blank" href="http://biz.caixun.com/content/20110930/NE02us84.html">铁道部：年底所有火车可网络售票 </a><span>2011/09/30</span></li>
+<li>・<a target="_blank" href="http://economy.caixun.com/content/20110919/NE02u2th.html">一份未出台的铁路改革方案</a><span>2011/09/19</span></li>
+<li>・<a target="_blank" href="http://biz.caixun.com/content/20110914/NE02tklr.html">铁路局迫于财务危机 多种经营回归铁路主业</a><span>2011/09/14</span></li>
+<li>・<a target="_blank" href="http://biz.caixun.com/content/20110801/NE02qo1u.html">学界热议分拆铁道部</a><span>2011/08/01</span></li>
+<li>・<a target="_blank" href="http://economy.caixun.com/content/20110801/NE02qnt8.html">铁道部改革的N种猜想</a><span>2011/08/01</span></li>
+
+      </ul>
+    </div>
+    <!------相关新闻 end------>
+    <!------相关推荐 start------>
+    <div class="xgtj">
+      <h3 class="cred">关键词</h3>
+      <div class="xgtj_word cblue">
+	  <a target="_blank" href="http://search.caixun.com/?k=商业" class="">商业</a>
+<a target="_blank" href="http://search.caixun.com/?k=铁路运输" class="">铁路运输</a>
+<a target="_blank" href="http://search.caixun.com/?k=交通运输" class="">交通运输</a>
+<a target="_blank" href="http://search.caixun.com/?k=行业" class="">行业</a>
+<a target="_blank" href="http://search.caixun.com/?k=国内" class="">国内</a>
+<a target="_blank" href="http://search.caixun.com/?k=" class=""></a>
+<a target="_blank" href="http://search.caixun.com/?k=" class=""></a>
+
+	  </div>
+    </div>
+    <!------相关推荐 end------>
+    <div class="clear"></div>
+    <!------发表评论 start------>
+    <div class="comt clearfix" id="initiatecomment">      
+    </div>
+	<script src="http://images.caixun.com/js/article/comment.js" type="text/javascript"></script>
+    <!------发表评论 end------>
+    <!------热门专题 start------>
+	<div class="specialimage">
+  <div id="subject" class="subject">
+    <div class="top">
+      <h3 class="cred">热门专题</h3>
+      <a href="###" class="previous"><img src="http://images.caixun.com/images/common/ico_12.gif" alt="向左" /></a> 
+	  <a href="###" class="next"><img src="http://images.caixun.com/images/common/ico_13.gif" alt="向右" /></a> 
+	</div>
+    <div class="container">
+      <ul class="slides">
+        <!--热门专题开始-->
+        <li><a target="_blank" href="http://economy.caixun.com/special/chunyun2012/"><img src="http://images.caixun.com/houtai/201112/2011123117111568463783.jpg" width="120" height="90" alt="中国春运之变！" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/chunyun2012/">中国春运之变！</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/nianzhongjiang/"><img src="http://images.caixun.com/houtai/201108/2011081613272906047862.jpg" width="120" height="90" alt="年终奖那点事儿" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/nianzhongjiang/">年终奖那点事儿</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/wlaq/"><img src="http://images.caixun.com/houtai/201104/2011042314385196214166.jpg" width="120" height="90" alt="银行用户信息疑遭泄露" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/wlaq/">银行用户信息疑遭泄露</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/1001100100000000821/"><img src="http://images.caixun.com/houtai/201112/2011122707281683224737.jpg" width="120" height="90" alt="蒙牛含毒不能道歉了事" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/1001100100000000821/">蒙牛含毒不能道歉了事</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/shangyerenwu/"><img src="http://images.caixun.com/houtai//201112/201112072042521001100100000000111.jpg" width="120" height="90" alt="商界2011：面孔与记忆" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/shangyerenwu/">商界2011：面孔与记忆</a></p>
+</li><li><a target="_blank" href="http://economy.caixun.com/special/sdcx/"><img src="http://images.caixun.com/houtai/201006/9451781704c23330350abd.jpg" width="120" height="90" alt="2012中国经济十大猜想" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/sdcx/">2012中国经济十大猜想</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/1001100100000000805/"><img src="http://images.caixun.com/houtai/201112/2011122015241047846836.jpg" width="120" height="90" alt="防辐射服是个传说？" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/1001100100000000805/">防辐射服是个传说？</a></p>
+</li><li><a target="_blank" href="http://economy.caixun.com/special/xysmzy/"><img src="http://images.caixun.com/houtai/200904/73879221649f6b1ba40013.jpg" width="120" height="90" alt="2012中国需要什么主义" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/xysmzy/">2012中国需要什么主义</a></p>
+</li><li><a target="_blank" href="http://economy.caixun.com/special/1001100100000000672/"><img src="http://images.caixun.com/houtai/201112/2011120915384241899574.jpg" width="120" height="90" alt="盘点2011中国财经生活" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/1001100100000000672/">盘点2011中国财经生活</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/gongsi/"><img src="http://images.caixun.com/houtai//201112/201112141011571001100100000000125.jpg" width="120" height="90" alt="盘点2011：公司的选择" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/gongsi/">盘点2011：公司的选择</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/loushi/"><img src="http://images.caixun.com/houtai/201006/17289879714c0e22dba2941.jpg" width="120" height="90" alt="聚焦楼市双限令" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/loushi/">聚焦楼市双限令</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/dianxinliantong/"><img src="http://images.caixun.com/houtai/201108/2011080912442873997054.jpg" width="120" height="90" alt="电信联通遭遇反垄断" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/dianxinliantong/">电信联通遭遇反垄断</a></p>
+</li><!---->
+		<!--热门专题结束-->
+      </ul>
+    </div>    
+  </div>
+  <div class="clear"></div>
+</div>
+<script type="text/javascript">
+	$(function(){
+		$('#subject').loopedCarousel({
+			spacing: 18
+		});
+	});
+</script>
+    <!------热门专题 end------>
+  </div>
+  <div class="w320">
+    <!------财讯推广 start------>
+    <div class="blank10"></div>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>财讯推广</h2>
+      </div>
+      <ul class="newsa newsf12 cblue fsimsun" id="advertisementWord">
+      </ul>
+    </div>
+    <!------财讯推广 end------>
+    <!------广告插入 start------>
+    <!--<div class="ad320_260" id="advertisement"></div>-->
+	<div class="ad300_250"><script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9432028"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_29161077_2449754_9432028";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9432028";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script> 
+</div>
+    <!------广告插入 end------>
+    <!------论坛相关 start------>
+    <div class="blank10"></div>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>论坛相关</h2>
+      </div>
+      <ul class="newsa cblue">
+        <li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116327304291768-1-1.html">围观高管：19个月19名老总离世（9L）</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116187715865785-1-1.html">乔布斯：副总裁与看门人的区别</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116749021566891-1-1.html">散布涨价信息 联合利华被罚200万元</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116477340466729-1-1.html">南航张和平案揭开民航腐败一角</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116020293596953-1-1.html">雅芳“贿赂门”曝光 4名高管因在中国行贿落马</a></li><!---->
+      </ul>
+    </div>
+    <!------论坛相关 end------>
+    <!------个股行情 start------>
+    <div class="borda bgwhite" id="stockmarket">      
+    </div>
+    <!------论坛相关 end------>
+    <!------新闻排行 start------>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>新闻排行</h2>
+      </div>
+      <ul class="newsa newsph cblue">
+        <li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034rhg.html">售票网站瘫痪招致批评 铁路政企分开提上日程</a></li><li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034p3e.html">大众拟增加金融服务 巩固客户忠诚度</a></li><li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034qis.html">北京将投入100亿改造30万户老旧房屋</a></li><li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034qg8.html">拉菲酒价暴跌“连累”造假商人惨丢订单</a></li><li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034r3n.html">国内拉菲红酒多数为假酒 专家称喝的是品位</a></li><li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034qgj.html">中国近期大举从香港购金 黄金储备1054吨</a></li><li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034qi3.html">首钢的守望者</a></li><li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034qbn.html">中国成世界第五大葡萄酒消费国 一年喝掉19亿瓶</a></li><li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034qff.html">详解郑裕彤财富：为何挑战首富失败</a></li><li><a target="_blank" href="http://biz.caixun.com/content/20120117/NE034qfi.html">报告称我国电力投资增长乏力 预计今年继续放缓</a></li><!---->
+      </ul>
+    </div>
+    <!------新闻排行 end------>
+    <!------财讯推荐 start------>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>财讯推荐</h2>
+      </div>
+      <ul class="newsa cblue">
+        <li>・<a target="_blank" href="http://stocks.caixun.com/content/20120117/NE034qfr.html">内地企业仅获苹果产品2%利润</a></li><li>・<a target="_blank" href="http://biz.caixun.com/content/20120117/NE034qlo.html">苹果品牌价值跃居全球第8 </a></li><li>・<a target="_blank" href="http://biz.caixun.com/content/20120116/NE034ok1.html">iPhone4S难求</a></li><li>・<a target="_blank" href="http://economy.caixun.com/content/20120116/NE034nom.html">苹果还会被宠多久</a></li><li>・<a target="_blank" href="http://biz.caixun.com/content/20120117/NE034qll.html">受苹果挑战 Windows PC全球市场份额降至50%</a></li><li>・<a target="_blank" href="http://stocks.caixun.com/content/20120116/NE034ocf.html">苹果产业链分析</a></li><li>・<a target="_blank" href="http://economy.caixun.com/content/20120117/NE034qdm.html">联想否认其药企污染 将公布调查结果</a></li><li>・<a target="_blank" href="http://biz.caixun.com/content/20120116/NE034nqi.html">污水气味刺鼻</a></li><li>・<a target="_blank" href="http://economy.caixun.com/content/20120117/NE034qod.html">经济发展如何摆脱环境污染困局？</a></li><li>・<a target="_blank" href="http://biz.caixun.com/content/20120117/NE034rjq.html">标准银行：2011年中非并购活动大幅增加 矿业占半</a></li><!---->		                		                		                
+      </ul>
+    </div>
+    <!------财讯推荐 end------>
+    <!------博客推荐 start------>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>博客推荐</h2>
+      </div>
+      <ul class="newsa cblue">
+        <li>・<a target="_blank" href="http://blog.caixun.com/1011101819900321464/viewspace-1012101116579845925.html">多方山穷水尽 大盘考验2580点</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101061207982218/viewspace-1012101083470037790.html">八省份公布地方债 海南债务率超93%</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101763566759726/viewspace-1012101359166510779.html">养生必晓：数数女人老得快的十大原委</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101028609519668/viewspace-1012101615324142923.html">美债降级 一个时代的终结？</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101658959107650/viewspace-1012101073052093781.html">中国股市的四大历史机遇（8月8日） </a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101028609519668/viewspace-1012101759791778755.html">解决出租司机罢工岂能一吊了之？</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101645279106293/viewspace-1012101261823151964.html">网上逃犯年底前自首有“优惠”</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101864467375675/viewspace-1012101250612667401.html">中国人为何生活得像驴子?</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101028609519668/viewspace-1012101820470469915.html">铁道部，请珍惜血染的动车残骸</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101864467375675/viewspace-1012101054794505417.html">业内人士称5年后北京或面临保姆荒</a></li><!---->
+      </ul>
+    </div>
+    <!------博客推荐 end------>
+	<!--合作广告 start-->
+	<!--google ad-->
+    <div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-1753776201213826";
+/* 300x250, 创建于 08-7-1 */
+google_ad_slot = "8472505445";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<!--baidu ad-->
+<div class="blank10"></div>
+    <div align="center">
+<script type="text/javascript">/*300*250，创建于2011-7-20*/ var cpro_id = 'u547227';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+
+<script>var foja_mm_flag=true;</script>
+<script>var foja_mm_pos=1;</script>
+<script>var foja_mm_style='sytle1-1';</script>
+<script>var foja_mm_info=1;</script>
+<script src='http://union.mingrunad.com/proxy/miner.jsp?wid=7&cid=5'></script>
+	<!--合作广告 end-->
+  </div>
+  <div class="clear"></div>
+</div>
+<!------主体 end------>
+<!------底部 start------>
+<div class="footer">
+<div class="footnav"> <a href="http://www.caixun.com/include/footer/navigation.html" target="_blank">网站地图</a>|
+  <div id="footerlink"> <a href="http://www.caixun.com/include/footer/cxjs.html" target="_blank">关于我们</a>| <a href="http://www.caixun.com/include/footer/gsdt.html" target="_blank">公司动态</a>| <a href="http://www.caixun.com/include/footer/hzhb.html" target="_blank">合作伙伴</a>| <a href="http://www.caixun.com/include/footer/cpyc.html" target="_blank">诚征英才</a>| <a href="http://www.caixun.com/include/footer/zzqsm.html" target="_blank">著作权申明</a>| <a href="http://www.caixun.com/include/footer/ysqsm.html" target="_blank">隐私权保护</a>| <a href="http://www.caixun.com/include/footer/mzsm.html" target="_blank">免责申明</a>| <a href="http://www.caixun.com/include/footer/adquote.html" target="_blank">广告服务</a>| <a href="http://www.caixun.com/include/footer/lxwm.html" target="_blank">联系我们</a>| <a href="http://www.caixun.com/yqlj/" target="_blank">友情链接</a> </div>
+</div>
+<p>Copyright &copy; 2011 caixun.com All rights reserved. 版权所有财讯.com <a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007022800619" target="_blank"><img alt="版权" src="http://images.caixun.com/images/footer/cp.gif"></a><a href="http://ulic.baidu.com/client/clientDetailCerInfo.do?id=1740" target="_blank"><img alt="百度大联盟认证绿色会员" src="http://images.caixun.com/images/footer/logo_lm.gif"></a></p>
+<p><a class="gray" href="http://www.miibeian.gov.cn/" target="_blank">京ICP备07028176号</a> 京公网安备110301000051号</p>
+</div>
+<!------底部 end------>
+<!--百度统计代码-->
+<script type="text/javascript"> 
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F85ed4b194c2b844325d6954ed724c818' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!--集团系统代码-->
+<script language="javascript" src="http://gather.shushang-z.cn/Gather/scripts/visittrack.js" type="text/javascript"></script> <script type="text/javascript"> visittrack_siteId = '25'; visittrack_url = 'http://gather.shushang-z.cn/Gather/trace.do'; VisitTrack.visittrack_log( visittrack_siteId, visittrack_url); </script>
+<!--GA代码-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22871819-1']);
+  _gaq.push(['_setDomainName', '.caixun.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" src="http://www.caixun.com/clickheat/js/clickheat.js"></script>
+<script type="text/javascript">
+<!--
+clickHeatGroup = '';
+if (window.location.pathname == '/content/20111124/NE0321qu.html')
+{
+ clickHeatGroup = 'ne0321qu';
+ clickHeatSite = 'biz.caixun.com/';
+ clickHeatServer = 'http://www.caixun.com/clickheat/click.php';
+ initClickHeat();
+}
+//-->
+</script>
+<script src="http://images.caixun.com/js/article/ad.js" type="text/javascript"></script>
+<script src="/app/common/article/counter.php?rklsrecid=NE034rhg&tjwzbt=%CA%DB%C6%B1%CD%F8%D5%BE%CC%B1%BB%BE%D5%D0%D6%C2%C5%FA%C6%C0+%CC%FA%C2%B7%D5%FE%C6%F3%B7%D6%BF%AA%CC%E1%C9%CF%C8%D5%B3%CC&tjfbsj=2012-01-17+19%3A37%3A10&wzymrecid=00000004&tjwzlj=http://biz.caixun.com/content/20120117/NE034rhg.html"></script>
+</body>
+</html>
+

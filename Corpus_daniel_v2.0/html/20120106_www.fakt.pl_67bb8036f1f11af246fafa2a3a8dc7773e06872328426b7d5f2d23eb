@@ -1,0 +1,986 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-Transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" ><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Mleko w czasie diety. Czy mleko jest tuczące - Fakt.pl</title><meta name="Author" content="Ringier Axel Springer Polska IT Systemy Online"/><meta name="Copyright" content="Ringier Axel Springer Polska Sp. z o.o."/><meta name="keywords" content="zdrowie, odchudzanie, mleko"/><meta name="description" content="Planując dietę odchudzającą nie rezygnuj z nabiału. Zwykłe mleko może przyspieszyć utratę kilogramów."/><meta name="robots" content="INDEX, FOLLOW, ARCHIVE, ALL"/><meta name="title" content="Mleko w czasie diety. Czy mleko jest tuczące - Fakt.pl"/><meta property="og:type" content="Article"/><meta property="og:url" content="http://www.fakt.pl/Mleko-w-czasie-diety-Czy-mleko-jest-tuczace,artykuly,141337,1.html"/><meta property="og:title" content="Mleko pomaga schudnąć "/><meta property="og:description" content="Planując dietę odchudzającą nie rezygnuj z nabiału. Zwykłe mleko może przyspieszyć utratę kilogramów."/><meta property="og:image" content="http://www.fakt.pl/m/Repozytorium.Podglad.aspx/-200/-200/faktonline/634607825000296025.jpg"/><meta property="og:site_name" content="fakt.pl"/><meta property="og:app_id" content="266358044374"/><link rel="stylesheet" type="text/css" href="/css/ef.page13.css" title=""/><link rel="stylesheet" type="text/css" href="/css/ef.top.6.css" title=""/><link rel="stylesheet" type="text/css" href="/css/jquery.rating.css" title=""/><script language="JavaScript" src="/app/js/DHTML.001.js" type="text/javascript"></script><meta property="fb:app_id" content="464036226972301" /><meta name="verify-v1" content="CIUykSqC4FumbETfSWFclthQ0bgwiC6C+IqfDrjoUBU=" ><link rel="alternate" type="application/rss+xml" title="Fakt.pl - Gwiazdy" href="http://www.fakt.pl/rss/rss.asp?k=18"/><link rel="alternate" type="application/rss+xml" title="Fakt.pl - Telewizja" href="http://www.fakt.pl/rss/rss.asp?k=61"/><link rel="alternate" type="application/rss+xml" title="Fakt.pl - Wydarzenia" href="http://www.fakt.pl/rss/rss.asp?k=14"/><link rel="alternate" type="application/rss+xml" title="Fakt.pl - Rozrywka" href="http://www.fakt.pl/rss/rss.asp?k=72"/><link rel="alternate" type="application/rss+xml" title="Fakt.pl - Sport" href="http://www.fakt.pl/rss/rss.asp?k=9"/><link rel="alternate" type="application/rss+xml" title="Fakt.pl - Porady" href="http://www.fakt.pl/rss/rss.asp?k=71"/><!--[if (gte IE 5.5)&(lt IE 7)]><link rel="stylesheet" type="text/css" href="/css/efie6.css"/><![endif]--><!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/efie7v2.css" media="screen" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/efie8v2.css" media="screen" /><![endif]--><script type="text/javascript" language="JavaScript" src="/appWeb/js/Utils.js"></script><script type="text/javascript" language="JavaScript" src="/js/jquery.min.js"></script><script type="text/javascript" language="JavaScript" src="/js/jquery.carousellite_1.0.1.min.js"></script><script type="text/javascript" language="javascript" src="/js/jquery.client.js"></script>	<script type="text/javascript" language="JavaScript" src="/js/jquery-ui.min.js"></script><script type="text/javascript" language="JavaScript" src="/js/jquery.rating.pack.js"></script><script type="text/javascript" language="JavaScript" src="/js/jquery.timer.js"></script><script type="text/javascript" language="JavaScript" src="/js/jquery.appear-1.1.1.min.js"></script><script type="text/javascript" language="JavaScript" src="/js/tinyscrollbar.js"></script><script type="text/javascript" language="javascript">
+
+
+  jQuery(document).ready(function() {
+  	
+
+/*
+
+  	$('#tagLoaderImg').hide();
+		$('#tagNameInput').autocomplete({
+         source: function(request, response) {
+            $.ajax({
+                url: "/tag/tagiJSON.asp",
+                type: "GET",
+                contentType: "text/plain; charset=utf-8",
+                //timeout:100,
+                dataType: "json",
+                data: {
+                    term: request.term
+                    //maxRows: 15
+                },
+								beforeSend: function(data){
+									if($('#tagNameInput').val().length < 3){
+										$('#tagLoaderImg').hide();
+										return false;
+									}
+									else $('#tagLoaderImg').show();
+								},
+                success: function(data) {
+                		$('#tagLoaderImg').hide();
+                    response($.map(data, function(item) {
+                        return {
+                            label: item.tag,
+                            value: item.value
+                        }
+                    }))
+                }
+            })
+        },
+        select: function(event, ui) {
+        	var url = "http://www.fakt.pl/tag/"+ui.item.value;
+					$(location).attr('href',url);
+        }
+    });
+
+
+// pogoda 
+
+    $('#cityLoaderImg').hide();
+		$('#cityNameInput').autocomplete({
+         source: function(request, response) {
+            $.ajax({
+                url: "/pogoda/cityJSON.asp",
+                type: "GET",
+                contentType: "text/plain; charset=uft-8",
+                //timeout:100,
+                dataType: "json",
+                data: {
+                    term: request.term
+                    //maxRows: 15
+                },
+								beforeSend: function(data){
+									if($('#cityNameInput').val().length < 3){
+										$('#cityLoaderImg').hide();
+										return false;
+									}
+									else $('#cityLoaderImg').show();
+								},
+                success: function(data) {
+                		$('#cityLoaderImg').hide();
+                    response($.map(data, function(item) {
+                        return {
+                            label: item.tag,
+                            value: item.value
+                        }
+                    }))
+                }
+            })
+        },
+        select: function(event, ui) {
+        	//var url = "http://www.fakt.pl/pogoda/miasto.asp?mid="+ui.item.value;
+        	var url = "http://www.fakt.pl/"+ui.item.value;
+
+					$(location).attr('href',url);
+        }
+    });
+
+// pogoda 2
+
+    $('#cityLoaderImg2').hide();
+		$('#cityNameInput2').autocomplete({
+         source: function(request, response) {
+            $.ajax({
+                url: "/pogoda/cityJSON.asp",
+                type: "GET",
+                contentType: "text/plain; charset=utf-8",
+                //timeout:100,
+                dataType: "json",
+                data: {
+                    term: request.term
+                    //maxRows: 15
+                },
+								beforeSend: function(data){
+									if($('#cityNameInput2').val().length < 3){
+										$('#cityLoaderImg2').hide();
+										return false;
+									}
+									else $('#cityLoaderImg2').show();
+								},
+                success: function(data) {
+                		$('#cityLoaderImg2').hide();
+                    response($.map(data, function(item) {
+                        return {
+                            label: item.tag,
+                            value: item.value
+                        }
+                    }))
+                }
+            })
+        },
+        select: function(event, ui) {
+      //  	var url = "http://www.fakt.pl/pogoda/miasto.asp?mid="+ui.item.value;
+          var url = "http://www.fakt.pl/"+ui.item.value;
+
+					$(location).attr('href',url);
+        }
+    });
+*/
+
+
+  //pollm fix
+  $('div.box350a').hide();
+
+
+  // menu 
+
+
+      $("#eFDM ul#eFtopMnFull li a:first-child").addClass('tl');
+      $("#eFDM ul#eFtopMnFull li ul li a:first-child").removeClass('tl');
+      $("#eFDM li.stat").mouseover(function () {  $("#eFDM li.stat").removeClass("dynamic"); $(this).toggleClass("dynamic"); });
+      $("#eFDM li.stat").mouseout(function () {  $("#eFDM li.stat").removeClass("dynamic"); });
+      $("#eFDM li.selected").mouseover(function () {  $(this).addClass("dynamic"); });
+      $("#eFDM li.selected").mouseout(function () {  $(this).addClass("dynamic"); });
+
+  // najpopnow
+
+      $("#tbNwst").click(function () { $("a.nvtAbb").removeClass("selected"); $(this).toggleClass("selected"); $('.rc1a').show(); $('.rc1b').hide();});
+      $("#tbMost").click(function () { $("a.nvtAbb").removeClass("selected"); $(this).toggleClass("selected"); $('.rc1a').hide(); $('.rc1b').show();});
+
+  	$('.rc1a').tinyscrollbar();	
+  	$('.rc1b').tinyscrollbar();	
+  	$('.rc1b').hide();
+
+    // zakladki piekny wschod i faktomania
+    /*
+      $(".bgb1").click(function () { $('div.selected').slideUp(500); $('#bgmc1').addClass('selected'); $('#bgmc1').slideDown(700);});
+      $(".bgb2").click(function () { $('div.selected').slideUp(500); $('#bgmc2').addClass('selected'); $('#bgmc2').slideDown(700);});
+      $(".bgb3").click(function () { $('div.selected').slideUp(500); $('#bgmc3').addClass('selected'); $('#bgmc3').slideDown(700);});
+      $(".bgb4").click(function () { $('div.selected').slideUp(500); $('#bgmc4').addClass('selected'); $('#bgmc4').slideDown(700);});
+      $(".bgb5").click(function () { $('div.selected').slideUp(500); $('#bgmc5').addClass('selected'); $('#bgmc5').slideDown(700);});
+      $(".bgb6").click(function () { $('div.selected').slideUp(500); $('#bgmc6').addClass('selected'); $('#bgmc6').slideDown(700);});
+      $(".bgb7").click(function () { $('div.selected').slideUp(500); $('#bgmc7').addClass('selected'); $('#bgmc7').slideDown(700);});
+      */
+			$("#singleColumn .rc1a a").click(function(){ window.open(this.href); return false; });
+			$("#singleColumn .rc1b a").click(function(){ window.open(this.href); return false; });
+
+
+			$('#srcminiinput').focus(function() {
+			  if ( $(this).val() == "Szukaj")
+			  $(this).val('');
+
+			    });
+
+			$('#srcminiinput').blur(function() {
+             if ( $(this).val() == "" )
+                $(this).val('Szukaj');
+			    });
+
+
+         $("#newsLet .input1").focus(function() {
+             if ( $(this).val() == "Podaj adres email")
+                $(this).val('');
+         });
+
+         $("#newsLet .input1").blur(function() {
+             if ( $(this).val() == "" )
+                $(this).val('Podaj adres email');
+         });
+
+
+         $("#NewslBox .input1").focus(function() {
+             if ( $(this).val() == "Podaj adres email")
+                $(this).val('');
+         });
+
+         $("#NewslBox .input1").blur(function() {
+             if ( $(this).val() == "" )
+                $(this).val('Podaj adres email');
+         });
+
+
+			$(function(){
+			  try { $(".HPGalCont").jCarouselLite({
+	         btnNext: ".HPGnext",
+		       btnPrev: ".HPGprev",
+		       visible: 4,
+		       scroll: 2
+		      });
+
+  	    $(".HPMovCont").jCarouselLite({
+	         btnNext: ".HPMnext",
+		       btnPrev: ".HPMprev",
+		       visible: 4,
+		       scroll: 2
+		      });
+          } catch(err){ return false;
+        }
+
+
+
+
+		var n = $(".bigulHPclass li").length;
+  	  if (n > 1) {
+  		 	$(".HPBignext").css('visibility','visible');
+  			$(".HPBigprev").css('visibility','visible');
+  				$("#HAbxHPB").jCarouselLite({
+  	         btnNext: ".HPBignext",
+  		       btnPrev: ".HPBigprev",
+  		       visible: 1,
+  		       scroll: 1,
+  		       auto: 5000
+  				});
+  			}
+ 			else {
+  			$(".HPBignext").hide();
+  			$(".HPBigprev").hide();
+  			$("#HAbxHPB").css('visibility','visible');
+			}
+
+
+	    $(".HPMovContMini").jCarouselLite({
+        btnNext: ".HPMnextMini",
+        btnPrev: ".HPMprevMini",
+        visible: 3,
+        scroll: 2
+	    });
+
+      $(".gallHPd").jCarouselLite({
+        btnNext: ".aGalHPNext",
+        btnPrev: ".aGalHPPrev",
+        visible: 3,
+        scroll: 1
+      });
+
+      $('.HPMovCont').removeClass("Hide");
+      $('.HPGalCont').removeClass("Hide");
+
+      $("#OBJ1").animate({"opacity": "1.0"},{duration: 5000}).animate({"opacity": "toggle"},{duration: 1500});
+      $("#OBJ2").animate({"opacity": "0.0"},{duration: 5000}).animate({"opacity": "toggle"},{duration: 1500}).animate({"opacity": "1.0"},{duration: 5000}).animate({"opacity": "toggle"},{duration: 1500});
+
+      $(".mvBimgXbtn").click(function () {  $("#mvBcont").hide(1500);});
+
+			});
+
+
+
+// PRZELEW FUNDACJAFAKTU
+
+  $(document).ready(function() {
+		$(".zgodaShortOut").mouseover(function () { $('.zgodaLong').show(); });
+		$(".zgodaShortOut2").mouseover(function () { $('.zgodaLong2').show(); });
+		$(".zgodaShortOut").mouseout(function () { $('.zgodaLong').hide(); });
+		$(".zgodaShortOut2").mouseout(function () { $('.zgodaLong2').hide(); });
+		$(".zgodaShortOut").mouseleave(function () { $('.zgodaLong').hide(); });
+		$(".zgodaShortOut2").mouseleave(function () { $('.zgodaLong2').hide(); });
+	});
+
+// PRZELEW FUNDACJAFAKTU KONIEC
+
+
+
+
+
+
+
+			});
+					function moderateTopic(element,tId) {
+						$('.moderateTopic').load('/artykuly/zgloszenieDoModeracji.asp?Watek='+tId);
+	        	$('.moderateTopic').dialog({
+	        		title: 'Zgłoś do moderacji',
+	            width:360,
+	            closeOnEscape: true,
+              beforeclose: function() { $(".moderateTopic").dialog('destroy'); },
+	            height:160,
+	            modal:true,
+	            resizable:false,
+	            draggable:false
+						});
+
+					}
+
+					function MOnewsl(url){
+          	$('<iframe frameborder="0" class="DLGnewsl" id="DLGnewsl" src="'+url+'"></iframe>').dialog({
+          		title: 'Opis programu',
+              width:640,
+              closeOnEscape: true,
+              height:480,
+              modal:true,
+              resizable:false,
+              draggable:false,
+							open: function (){
+								$('iframe.DLGnewsl').height( $(this).height() );
+								$('iframe.DLGnewsl').width( $(this).width()+320 );
+							}
+  					});
+        	}
+
+
+					function MOTv(url){
+          	$('<iframe frameborder="0" class="DLGtvshow" id="DLGtvshow" src="'+url+'"></iframe>').dialog({
+          		title: 'Opis programu',
+              width:640,
+              closeOnEscape: true,
+              height:480,
+              modal:true,
+              resizable:false,
+              draggable:false,
+							open: function (){
+								$('iframe.DLGtvshow').height( $(this).height() );
+								$('iframe.DLGtvshow').width( $(this).width()+320 );
+							}
+  					});
+        	}
+
+
+					function MOnagroda(url){
+          	$('<iframe frameborder="0" class="DLGnagroda" id="DLGnagroda" src="'+url+'"></iframe>').dialog({
+          		title: 'Nagrody',
+              width:640,
+              closeOnEscape: true,
+              height:480,
+              modal:true,
+              resizable:false,
+              draggable:false,
+							open: function (){
+								$('iframe.DLGnagroda').height( $(this).height() );
+								$('iframe.DLGnagroda').width( $(this).width()+320 );
+							}
+  					});
+        	}
+
+					function MOFMania(url){
+          	$('<iframe frameborder="0" class="DLGfmania" id="DLGfmania" src="'+url+'"></iframe>').dialog({
+          		title: 'Nagrody',
+              width:640,
+              closeOnEscape: true,
+              height:480,
+              modal:true,
+              resizable:false,
+              draggable:false,
+							open: function (){
+								$('iframe.DLGfmania').height( $(this).height() );
+								$('iframe.DLGfmania').width( $(this).width()+320 );
+							}
+  					});
+        	}
+
+
+					function MOcustom(url){
+          	$('<iframe frameborder="0" class="DLGcustom" id="DLGcustom" src="'+url+'"></iframe>').dialog({
+          		title: 'Fakt STYL',
+              width:640,
+              closeOnEscape: true,
+              height:480,
+              modal:true,
+              resizable:false,
+              draggable:false,
+							open: function (){
+								$('iframe.DLGcustom').height( $(this).height() );
+								$('iframe.DLGcustom').width( $(this).width()+320 );
+							}
+  					});
+        	}
+
+
+// a to do czego sluzy, dlaczego nie jest opisane?
+
+	var setCookie = function ( name, value) {
+		var expires_date = new Date();
+		expires_date = expires_date.setFullYear(2012);
+		expires_date = new Date(expires_date);
+		var path = "/";
+		var cookieString = name + "=" +escape( value ) +
+		"; expires=" + expires_date.toGMTString() +
+		( ( path ) ? "; path=" + path : "" );
+		document.cookie = cookieString;
+	}
+
+	var getCookie = function( check_name ) {
+		var a_all_cookies = document.cookie.split( ';' );
+		var a_temp_cookie = '';
+		var cookie_name = '';
+		var cookie_value = '';
+		var b_cookie_found = false; // set boolean t/f default f
+
+		for ( i = 0; i < a_all_cookies.length; i++ )
+		{
+			a_temp_cookie = a_all_cookies[i].split( '=' );
+
+
+			cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+
+			if ( cookie_name == check_name )
+			{
+				b_cookie_found = true;
+				if ( a_temp_cookie.length > 1 )
+				{
+					cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+				}
+				return cookie_value;
+				break;
+			}
+			a_temp_cookie = null;
+			cookie_name = '';
+		}
+		if ( !b_cookie_found )
+		{
+			return null;
+		}
+	}
+	
+	// artykul sondy
+
+   function PllHideScore() { $('#PllQuestion').show(); $('#PllScore').hide(); }
+   function PllShowScore() { $('#PllScore').show(); $('#PllQuestion').hide(); }
+   function RateHideScore() { $('#ratingForm').show(); $('#ratingScore').hide(); }
+   function RateShowScore() { $('#ratingForm').hide(); $('#ratingScore').show(); }
+   function RateHideScoreArt() { $('#ratingFormArt').show(); $('#ratingScoreArt').hide(); }
+   function RateShowScoreArt() { $('#ratingFormArt').hide(); $('#ratingScoreArt').show(); }
+   function DLGcloseX() { $(document).dialog('destroy'); alert('aqq'); }
+
+  $(document).ready(function() {
+
+		$('#HPMovBx').removeClass("cNtHide");
+		
+		
+		
+		$('.HPRCmlCnt').show();
+		$('#HP GalBx').removeClass("cNtHide");
+		$('#HAbxHP').removeClass("cNtHide");
+		$("#eFDM li").removeClass("selected");
+		$('div.box350a').show(600);
+    $('#PllQuestion').show();
+
+    $(".mvBimgXbtn a").click(function () {  $('#mvBcont').fadeOut(1000); });
+
+		$(".goF").click(function () {setCookie('sfcv','.goF'); if($("#srcminiinput2").val() != "Szukaj w Internecie") $("#srcminiinput").val( $("#srcminiinput2").val() ); $('#sinF').show(); $('#sinG').hide(); });
+		$(".goG").click(function () {setCookie('sfcv','.goG'); if($("#srcminiinput").val() != "Szukaj w www.fakt.pl") $("#srcminiinput2").val( $("#srcminiinput").val() ); $('#sinF').hide(); $('#sinG').show(); });
+
+
+		var sfcv = getCookie('sfcv');//search form checked value ref
+		if(sfcv) $(sfcv).click();//attr('checked', true);
+
+  	$("#widget_facebook").hover(function() { $("#widget_facebook").stop(true, false).animate({ right: "0" }, 500); },function(){ $("#widget_facebook").stop(true, false).animate({ right: "-307" }, 500); },500);
+
+		});
+
+
+	</script>
+
+
+<script type='text/javascript'>
+var crtg_nid="1799";var crtg_cookiename="critaxpl";
+function crtg_getCookie(c_name){var i,x,y,ARRcookies=document.cookie.split(";");for(i=0;i<ARRcookies.length;i++){x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url='http://dis.eu.criteo.com/dis/rtt.js?networkId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=crtg_content';var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+</script><link href="https://plus.google.com/117768946127080777558/" rel="publisher" /><script type="text/javascript" language="JavaScript" src="/js/getImgSize.js"></script><script type="text/javascript" language="JavaScript" src="/appWeb/js/miniPoolReadCookie.js"></script><script type="text/javascript" language="JavaScript" src="/js/refresh.js"></script><script src="/js/facebook.share.js" type="text/javascript"></script><script type="text/javascript" language="JavaScript" src="/js/jquery.appear-1.1.1.js"></script><link rel="canonical" href="http://www.fakt.pl/Mleko-w-czasie-diety-Czy-mleko-jest-tuczace,artykuly,141337,1.html"/><link rel="image_src" href="http://www.fakt.pl/m/Repozytorium.Podglad.aspx/-200/-200/faktonline/634607825000296025.jpg"/><!--<PageMap><DataObject type="date"><Attribute name="displaydate" value="30.12.2011"/><Attribute name="sdate" value="20111230"/></DataObject><DataObject type="thumbnail"><Attribute name="src" value="http://www.fakt.pl/m/Repozytorium.Podglad.aspx/-200/-200/faktonline/634607825000296025.jpg"/><Attribute name="width" value="100"/></DataObject></PageMap>--><script language="JavaScript" type="text/javascript" src="/appWeb/js/Comments.js"></script><script language="JavaScript" type="text/javascript" src="/appWeb/js/Restrictions.js"></script><script language="JavaScript" type="text/javascript">Restrictions.add("CommentsForm.TytulKomentarza",100);Restrictions.add("CommentsForm.Komentarz",3096);Restrictions.add("CommentsForm.PodpisAutora",50);</script>
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);
+sas_pageid='8191/104992';
+var sas_formatids = '9222,3348,5664,3282,3624,4302,3284,3288,3289,5026,3347';
+sas_target=crtg_content;
+document.write('<scr'+'ipt src="http://diff3.smartadserver.com/call2/pubjall/' + sas_pageid + '/' + sas_formatids + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+</script>
+<script type="text/javascript" language="JavaScript" src="http://stats.asp24.pl/js/click.4.js"></script>
+<!-- GT: kategoria_styl_zdrowie_artykul -->
+<script type="text/javascript">
+var pp_gemius_identifier = new String('.F3rOXw0QFSE4cT2zWwq9JeA7xDUPCdQnCr5R16se1L.87');
+</script>
+<script type="text/javascript" language="JavaScript" src="http://axel.hit.gemius.pl/xgemius.js"></script><!-- Przeczytam Wszystkich faktonline -->
+<script type='text/javascript'>
+	{document.write('<script type="text/javascript" id="cafenews.pl#7648bfca304b70cf5006abd38e8fc43f"><\/script><div id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"><\/div>');setTimeout(function(){var d=new Date();document.getElementById("cafenews.pl#7648bfca304b70cf5006abd38e8fc43f").src='http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d='+d.getFullYear()+d.getMonth()+d.getDate();},250);}
+</script></head><body  onload="Doc.init();readRateCookie('Rating%5FArticle%5F141337=1');"><div id="overTheTop">
+    <ul>
+        <li class="first"><a href="http://www.fakt.pl">Fakt.pl</a></li>
+        <li><a href="http://koktajl.fakt.pl">Koktajl24</a></li>
+        <li><a href="http://smak.pl">Smak</a></li>
+        <li><a href="http://pieniadze.fakt.pl">Pieniądze</a></li>
+        <li><a href="http://gry.fakt.pl">Gry online</a></li>
+        <li class="last"><a href="http://fun.fakt.pl ">Fun Fakt</a></li>
+    </ul>
+</div><div class="adBillboardA">
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(3282);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi/8191/104992/3282/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi/8191/104992/3282/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div><div id="eFBody"><div id="eFTC"><div id="metaTitleTop"><a href="/Mleko-pomaga-schudnac-,artykuly,141337,1.html">Mleko w czasie diety. Czy mleko jest tuczące</a></div>
+      <!-- LOGO | MENU IKONEK | SERCZ -->
+
+      <div id="eFtop" class="efTPAfter">
+        <div id="eFLg">
+          <img src="/images/logo-fakt.gif" border="0" alt="www.fakt.pl" usemap="#logomap" />
+    			<map name="logomap">
+    				<area shape="rect" coords="1, 1, 190, 80" href="http://www.fakt.pl" />
+    			</map>
+        </div>
+        <div id="eFtopCnt">
+          <div id="eFtopCnt-microMenu">              
+            <div class="eFtopCalDate">10 kwietnia 2013 r.</div>
+            <ul class="eFtopIconsMenu">
+              <li><a href="http://horoskop.fakt.pl/"><img src="/images/top/ico_1.gif" alt="Horoskop" title="Horoskop" border="0"/></a></li>
+         			<li><a href="http://www.fakt.pl/newsletter/"><img src="/images/top/ico_2.gif" alt="Newsletter" title="Newsletter" border="0"/></a>
+         			<!--<li><a href="http://www.fakt.pl/programtv"><img src="/images/top/ico_3.gif" alt="Program TV" title="Program TV" border="0"/></a>-->
+         			<li><a href="http://www.fakt.pl/pogoda/"><img src="/images/top/ico_4.gif" alt="Pogoda" title="Pogoda" border="0"/></a>
+         			<li><a href="http://www.fakt.pl/rss"><img src="/images/top/ico_5.gif" alt="RSS" title="RSS" border="0"/></a>
+            </ul>
+     			</div>
+          <div id="eFtop-srcMini">
+            <div id="sinF" style="display: block">
+              <form action="http://fakt.pl/szukaj" id="cse-search-box">
+                <input type="hidden" name="cx" value="010228074649092228461:qnfvpfvypac" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="ISO-8859-2" />
+                <input type="text" name="q" class="input1" id="srcminiinput" value="Szukaj"/>
+                <input class="subimg" type="image" name="sa" src="http://www.fakt.pl/images/top/bt_search.gif" />
+              </form>
+              <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=pl"></script>
+            </div>
+            <div id="sinG"  style="display: none">
+              <form action="http://fakt.pl/szukaj" id="cse-search-box">
+                <input type="radio" style="display: none;" checked="checked" value="" name="sitesearch">
+                <input type="hidden" name="cx" value="010228074649092228461:qxtikck5vre" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="ISO-8859-2" />
+                <input type="text" name="q" class="input1" id="srcminiinput2" value="Szukaj"/>
+                <input class="subimg" type="image" name="sa" src="http://www.fakt.pl/images/top/bt_search.gif" />
+              </form>
+               <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=pl"></script>
+            </div>
+            <div id="switchTab">
+              <form name="switchTab">
+                <input type="radio" name="switchTab" id="goF" class="goF" checked="checked" /> <label for="goF">w fakt.pl</label>
+                &nbsp;&nbsp;
+                <input type="radio" name="switchTab" id="goG" class="goG" /> <label for="goG">w internecie</label>
+              </form>
+            </div>
+          </div>
+          <div class="clr"></div>
+        </div>
+        <div class="clr"></div>
+      </div>
+
+      <!-- FB | MENU SZARE | MENU BAJERKOWE -->
+
+      <div id="eFTM">
+        <div id="eFtopFB">
+
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ffaktpl&amp;locale=pl_PL&amp;send=false&amp;layout=button_count&amp;width=125&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=260859193942272" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:125px; height:21px;" allowTransparency="true"></iframe>
+                       
+        </div>
+        <div id="eFtopMnShortCont">
+          <ul id="eFtopMnShort">
+            <li class="dep sml"><a style="color: #000;" href="http://www.fundacjafaktu.pl" title="Fundacja Faktu" target="_blank">Fundacja Faktu</a></li>
+            <li class="dep sml"><a href="http://horoskop.fakt.pl" title="Horoskop">Horoskop</a></li>
+            <li class="dep sml"><a href="http://www.fakt.pl/donosy/" title="Donosy">Donosy</a></li>
+    		<li class="dep sml"><a href="http://www.fakt.pl/filmy,1.html" title="Wideo">Wideo</a></li>
+    		<li class="dep sml"><a href="http://www.fakt.pl/Hity-netu,kategoria,134.html" title="Hity Netu" style="color: #000;">Hity Netu</a></li>
+    		<li class="dep sml"><a href="http://erotyka.fakt.pl/" title="Erotyka" style="color: #840189; font-weight: bold;">Erotyka</a></li>
+            <li class="dep sml"><a href="http://www.fakt.oferty.net/" title="Mieszkania">Mieszkania</a></li>
+			<li class="dep sml"><a href="http://fun.fakt.pl/" target="_blank" title="Fun.Fakt.pl">Fun Fakt</a></li>
+          </ul>
+        </div>
+        <ul id="eFtopMnSExt">
+	      <li id="Sklep-Fakt" class="dep sml"><a href="http://sklep.fakt.pl/" target="_blank" title="Sklep.Fakt.pl">Sklep</a></li>
+        </ul>
+        <div class="clr"></div>
+      </div>
+      <div class="clr"></div>
+
+      <!-- MENU CZERWONE -->
+
+      <div id="eFDM">
+        <div id="eFtopMnFullCont">
+          <ul id="eFtopMnFull">
+            <li id="menu-najnowsze" class="stat"><a href="http://www.fakt.pl/najnowsze/" title="Najnowsze z Fakt.pl">Najnowsze</a>
+              <ul class="plot panel2">
+    	      	  <li><a href="http://wiki.fakt.pl/" style="font-weight: bold;">Encyklopedia wiedzy</a></li>
+                <li><a href="http://www.fakt.pl/najpopularniejsze/">Najpopularniejsze</a></li>
+              </ul>
+            </li>
+      		  <li id="menu-wydarzenia" class="stat"><a href="http://www.fakt.pl/Wydarzenia,kategoria,14.html" title="Wydarzenia">Wydarzenia</a>
+              <ul class="plot panel4">
+                <li><a href="http://www.fakt.pl/Polska,kategoria,64.html">Polska</a></li>
+                <li><a href="http://www.fakt.pl/Swiat,kategoria,65.html">Świat</a></li>
+                <li><a href="http://www.fakt.pl/Katastrofa,kategoria,116.html" title="Katastrofa">Katastrofa</a></li>
+                <li><a href="http://www.fakt.pl/Faktobus,kategoria,215.html" title="Faktobus">Faktobus</a></li>
+              </ul>
+            </li>
+            <li id="menu-polityka" class="stat"><a href="http://www.fakt.pl/Polityka,kategoria,112.html" title="Polityka">Polityka</a>
+  			      <ul class="plot panel2a">
+                <li><a href="http://www.fakt.pl/Opinie,kategoria,79.html">Opinie</a></li>
+                <!--<li><a href="http://www.fakt.pl/Wybory,kategoria,117.html">Wybory</a></li>-->
+              </ul>
+      		  </li>
+            <li id="menu-gwiazdy" class="stat"><a href="http://www.fakt.pl/Gwiazdy,kategoria,18.html" title="Gwiazdy">Gwiazdy</a>
+              <ul class="plot panel3">
+                <li><a href="http://www.fakt.pl/Plotki,kategoria,13.html">Plotki</a></li>
+                <li><a href="http://www.fakt.pl/Seriale,kategoria,56.html">Seriale</a></li>
+                <li><a href="http://koktajl.fakt.pl/" title="Koktajl24.pl"><img src="/images/k24.png" alt="Koktajl24.pl" title="Koktajl24.pl" /></a></li>
+              </ul>
+            </li>
+        	  <li id="menu-lokalne" class="stat"><a href="http://www.fakt.pl/Lokalne,kategoria,100.html" title="Lokalne">Lokalne</a>
+                <ul class="plot panel9a">
+                  <li><a href="http://www.fakt.pl/Bialystok,kategoria,206.html">Białystok</a></li>
+                  <li><a href="http://www.fakt.pl/Gdansk,kategoria,82.html">Gdańsk</a></li>
+                  <li><a href="http://www.fakt.pl/Katowice,kategoria,84.html">Katowice</a></li>
+                  <li><a href="http://www.fakt.pl/Krakow,kategoria,85.html">Kraków</a></li>
+                  <li><a href="http://www.fakt.pl/Lodz,kategoria,86.html">Łódź</a></li>
+                  <li><a href="http://www.fakt.pl/Poznan,kategoria,83.html">Poznań</a></li>
+                  <li><a href="http://www.fakt.pl/Pomorze-Zachodnie,kategoria,212.html">Pomorze Zachodnie</a></li>
+                  <li><a href="http://www.fakt.pl/Warszawa,kategoria,80.html">Warszawa</a></li>
+                  <li><a href="http://www.fakt.pl/Wroclaw,kategoria,81.html">Wrocław</a></li>
+                </ul>
+        	  </li>
+            <li id="menu-sport" class="stat"><a href="http://sport.fakt.pl/" title="Sport">Sport</a>
+              <ul class="plot panel4">
+                <li><a href="http://sport.fakt.pl/Pilka-nozna,kategoria,66.html">Piłka nożna</a></li>
+                <li><a href="http://sport.fakt.pl/Sporty-walki,kategoria,107.html">Sporty walki</a></li>
+                <li><a href="http://sport.fakt.pl/Inne-sporty,kategoria,67.html">Inne sporty</a></li>
+              </ul>
+            </li>
+            <li id="menu-galerie" class="stat"><a href="http://www.fakt.pl/galerie,1.html" title="Galerie" class="mainfoldericon">Galerie</a></li>
+            <li id="menu-styl" style="width: 50px;" class="stat"><a href="http://www.fakt.pl/STYL,kategoria,106.html" title="Styl">Styl</a>
+              <ul class="plot panel8">
+                <li><a href="http://www.fakt.pl/Zdrowie,kategoria,108.html">Zdrowie</a></li>
+                <li><a href="http://www.fakt.pl/Dieta-i-fitness,kategoria,109.html">Dieta i Fitness</a></li>
+                <li><a href="http://www.fakt.pl/Moda,kategoria,19.html">Moda</a></li>
+                <li><a href="http://www.fakt.pl/Uroda,kategoria,20.html">Uroda</a></li>
+                <li><a href="http://www.smak.pl">Kuchnia</a></li>
+                <li><a href="http://www.fakt.pl/styl/licznik_kalorii_k.asp">Licznik kalorii</a></li>
+                <li><a href="http://www.fakt.pl/styl/kalkulator_bmi_k.asp">Kalkulator BMI</a></li>
+         			  <li><a href="http://www.fakt.pl/styl/tabela.asp">Tabela kaloryczna</a></li>
+              </ul>
+            </li>
+      		  <li id="menu-pieniadze" class="stat"><a href="http://pieniadze.fakt.pl/" title="Pieniądze">Pieniądze</a>
+           		<ul class="plot panel5">
+                <li><a href="http://pieniadze.fakt.pl/Prawo,kategoria,98.html">Prawo</a></li>
+                <li><a href="http://pieniadze.fakt.pl/Finanse,kategoria,99.html">Finanse</a></li>
+                <li><a href="http://pieniadze.fakt.pl/Konsument,kategoria,218.html">Konsument</a></li>
+                <li><a href="http://taniekredyty.fakt.pl" target="_blank">Tanie kredyty</a></li>
+        		<li><a href="http://pieniadze.fakt.pl/Nieruchomosci,kategoria,120.html">Nieruchomości</a></li>
+        		<li><a style="height: 33px;" href="http://pieniadze.fakt.pl/Informacje-ze-SKOK-ow,kategoria,145.html">Informacje<br />ze SKOK-ów</a></li>
+              </ul>
+        	  </li>
+            <li id="menu-komputery" class="stat"><a href="http://www.fakt.pl/Komputery,kategoria,103.html" title="Komputery">Komputery</a>
+              <ul class="plot panel3b">
+                <li><a href="http://www.fakt.pl/Komputery-Nowosci,kategoria,104.html">Nowości</a></li>
+                <li><a href="http://www.fakt.pl/Komputery-Gry,kategoria,110.html">Gry</a></li>
+                <li><a href="http://www.fakt.pl/Gadzety,kategoria,105.html">Gadżety</a></li>
+                <li><a href="http://www.komputerswiat.pl/" title="Komputer Świat" target="_blank">Komputer Świat</a></li>
+              </ul>
+            </li>
+        	  <li id="menu-auto" class="stat"><a href="http://www.fakt.pl/Auto,kategoria,101.html" title="Auto">Auto</a>
+          		<ul class="plot panel3">
+                <li><a href="http://www.fakt.pl/Auto-Wiadomosci,kategoria,91.html">Wiadomości</a></li>
+                <li><a href="http://www.fakt.pl/Auto-Porady,kategoria,92.html">Porady</a></li>
+                <li><a href="http://www.fakt.pl/Auto-Plotki,kategoria,131.html">Plotki</a></li>
+              </ul>
+        	  </li>
+        	  <li id="menu-gry" class="stat"><a href="http://gry.fakt.pl/" title="Gry">Gry</a>
+        	  </li>
+          </ul>
+        </div>
+        <div class="clr"></div>
+      </div>
+      <div class="clr"></div>
+
+</div><div id="eF"><div class="adBillboardC">
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(3624);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi/8191/104992/3624/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi/8191/104992/3624/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div><div id="eFCnt"><iframe scrolling="no" frameborder="0" style="overflow: hidden; width: 960px; height: 100px; margin: 0; padding: 0;" src="http://www.fakt.pl/sondaz/styl/sonda-17/index.asp"></iframe><br clear="all"/><div id="clmn0"></div><div id="clmn1" style="" class=""><div class="hreview-aggregate"><div class="brC"><a href="http://www.fakt.pl">Fakt.pl</a> > <a href="/Styl,kategoria,106.html">Styl</a> > <a href="/Zdrowie-aktualnosci,kategoria,108.html">Zdrowie aktualności</a> &rsaquo; <h3 class="brC"><span class="item fn">Mleko w czasie diety. Czy mleko jest tuczące</span></h3></div><div id="arTicle"><h1 class="title">Mleko pomaga schudnąć </h1><div class="Keywords">Słowa kluczowe:  <h4><a href="/tag/zdrowie">zdrowie</a></h4>, <h4><a href="/tag/odchudzanie">odchudzanie</a></h4>, <h4><a href="/tag/mleko">mleko</a></h4></div><h5>30.12.2011, 08:16</h5><div id="AfP"><img src="/m/Repozytorium.Obiekt.aspx/-650/-550/faktonline/634439187255346728.jpg" border="0" title="" alt="Planując dietę odchudzającą nie rezygnuj z nabiału. Zwykłe mleko może przyspieszyć utratę kilogramów." /></div><div class="clr"></div><h2 class="lead"><span class="summary">Planując dietę odchudzającą nie rezygnuj z nabiału. Zwykłe mleko może przyspieszyć utratę kilogramów.</span></h2><div class="clr"></div><div id="J2Comm"><div id="fSBxT"><table class="fSBxTT" cellspacing="0" cellpadding="0" border="0"><tr><td class="fBook"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.fakt.pl%2FMleko-pomaga-schudnac-%2Cartykuly%2C141337%2C1.html&amp;layout=button_count&amp;locale=pl_PL&amp;show_faces=true&amp;width=110&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe></td><td class="Gplus"><g:plusone href="http://www.fakt.pl/Mleko-pomaga-schudnac-,artykuly,141337,1.html" size="small"></g:plusone></td><td class="likeNK"><script type="text/javascript" language="javascript">$(document).ready(function() {$('a[rel="fb_share"]').click( function() {window.open( $(this).attr('href'),'title', 'width=400, height=300' );return false;});});</script><a style="display:block;margin-left:10px;" href="https://www.facebook.com/sharer/sharer.php?u=http://www.fakt.pl/Mleko-pomaga-schudnac-,artykuly,141337,1.html" rel="fb_share"><img src="/images/fb_share.png" /></a></td><td></td></tr></table><style>#fSBxT iframe {width: 110px !important;}</style></div></div><div class="clr"></div><div class="ArLc"><div class="box226a"><div class="box226b"><div id="HotAList"><h5>Dziś polecamy</h5><p><a rel="nofollow" href="http://www.fakt.pl/Milosc-Marii-i-Lecha-Kaczynskich-Katastrofa-przerwala-milosc-Kaczynskich-,artykuly,207086,1.html" title="Oni tak bardzo sie kochali. Tych zdjec jeszcze nie widzieliscie">Oni tak bardzo sie kochali. Tych ...</a></p><p><a rel="nofollow" href="http://www.fakt.pl/Piecdziesiatki-do-Playboya-Jolanta-Kwasniewska-zachecana-do-rozebrania-sie-w-Playboyu,artykuly,207084,1.html" title="Piecdziesiatki do &rdquo;Playboya&rdquo;!">Piecdziesiatki do ...</a></p><p><a rel="nofollow" href="http://www.fakt.pl/Tak-sie-dorobili-na-padlinie,artykuly,207128,1.html" title="Tak sie dorobili na padlinie">Tak sie dorobili na padlinie</a></p><p><a rel="nofollow" href="http://www.fakt.pl/Czartoryska-dostanie-dom-od-tesciow,artykuly,207049,1.html" title="Czartoryska dostanie te wille w prezencie">Czartoryska dostanie te wille w ...</a></p><p><a rel="nofollow" href="http://www.fakt.pl/Kierowca-karetki-zginal-by-uratowac-zycie-dziecku,artykuly,207127,1.html" title="Oddal zycie, by ratowac dziecko<br/>">Oddal zycie, by ratowac dziecko
+</a></p><p><a rel="nofollow" href="http://www.fakt.pl/Kim-Kardashian-pokazala-ciazowy-brzuszek-,artykuly,198504,1.html" title="Kim Kardashian pokazala ciazowy brzuszek">Kim Kardashian pokazala ciazowy ...</a></p><p><a rel="nofollow" href="http://www.fakt.pl/Penelope-Cruz-w-ciazy-Penelope-Cruz-bedzie-miala-drugie-dziecko,artykuly,198490,1.html" title="Penelope Cruz w ciazy!">Penelope Cruz w ciazy!</a></p>
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(5664);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi//5664/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi//5664/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div><div class="clearfix"></div></div></div><div class="boxK24"><div class="boxK24in"><h5><a href="http://koktajl.fakt.pl">Dziś w Koktajl24.pl polecamy</a></h5><ul class="popular"><li><a href="http://koktajl.fakt.pl/Sukienka-Pretty-Woman,artykuly,207137,1.html" title="Odważne legginsy z wycięciami">Odważne legginsy z wycięciami</a></h4></li><li><a href="http://koktajl.fakt.pl/DvF-Roxy-kostiumy-kapielowe,artykuly,206963,1.html" title="Modne lato według Diane von Fürstenberg">Modne lato według Diane von Fürstenberg</a></h4></li><li><a href="http://koktajl.fakt.pl/Watch-Hunger-Stop-akcja,artykuly,206930,1.html" title="Zegarkami nakarmią głodne dzieci">Zegarkami nakarmią głodne dzieci</a></h4></li></ul></div></div><div class="pollhook"></div><div id="RedFBoxAr"></div><script type="text/javascript" src="http://smak.pl/sites/smak.pl/modules/CustomWidgets/js/widgets.js"></script><script type="text/javascript">new ASWidget('leftrecipes',230,365);</script></div><div class="ArCnt"><script type="text/javascript" src="http://ads.businessclick.com/master_1.1"></script><div class="3917dc34e07c9c7180df2ea9ef1033617dccde492c24a89653743b061ae7b789"><!-- FirstParagraphStart --><p>Mleko ma sporo zalet, ale wiele osób go nie lubi. Co więcej, niektóre osoby nie są w stanie strawić cukru zawartego w mleku, stąd po wypiciu zaledwie szklanki tego płynu, grożą im sensacje żołądkowe. Ale jeśli należysz do szczęśliwców, którzy mleko mogą pić bez obaw - nie rezygnuj z niego.Najważniejsze plusy są dwa. Przede wszystkim dostarczysz swojemu ciału dużo wapnia.</p></div>
+<div style="text-align:center;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5310645159024207";
+/* Fakt  - ?rodek artykułu */
+google_ad_slot = "1491797665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="3917dc34e07c9c7180df2ea9ef1033617dccde492c24a89653743b061ae7b789">
+<p>Ten pierwiastek jest ważny szczególnie dla kobiet. A to dlatego, że po menopauzie wiele pań zmaga się z osteoporozą. Dodatkowa dawka wapnia z mleka pomaga im dłużej zachować sprawność i zdrowe kości.Nie bez znaczenia jest również wpływ mleka na naszą figurę. Naukowcy przebadali osoby otyłe. Uczestnicy eksperymentu oprócz stosowania diety i zwiększonej aktywności fizycznej musieli codziennie pić mleko. Druga grupa obywała się bez tego napoju. Po ponad 20 miesiącach okazało się, że pijący mleko schudli kilka kilogramów więcej.</p>
+<p><a href="http://smak.pl">przepisy na smaczne dania z mlekiem znajdziesz na www.smak.pl</a></p><!-- LastParagraphEnd --><a name="eoa"></a> <br/><div class="auth" style="margin: 0 0 0 0;">[Daniel Lenart]</div><div id="J2Comm2"><div id="fSBxT3"><table cellspacing="0" cellpadding="0" border="0"><tr><td><a style="display:block;margin-right:10px;" href="https://www.facebook.com/sharer/sharer.php?u=http://www.fakt.pl/Mleko-pomaga-schudnac-,artykuly,141337,1.html" rel="fb_share"><img src="/images/fb_share.png" /></a></td><td><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.fakt.pl%2FMleko-pomaga-schudnac-%2Cartykuly%2C141337%2C1.html&amp;layout=button_count&amp;locale=pl_PL&amp;show_faces=true&amp;width=110&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe></td><td class="Gplus"><g:plusone href="http://www.fakt.pl/Mleko-pomaga-schudnac-,artykuly,141337,1.html" size="small"></g:plusone></td></tr></table><div style="float: none; display: block;"></div></div></div><script language="JavaScript" type="text/javascript">function createRateCookie(name,value,days){if (days) {var date = new Date();date.setTime(date.getTime()+(days*24*60*60*1000));var expires = "; expires="+date.toGMTString();	}else var expires = "";document.cookie = name+"="+value+expires+"; path=/";}function readRateCookie(cookieName){
+RateHideScoreArt();
+var nameEQ = cookieName + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++) {
+var c = ca[i];
+while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+if (c==cookieName) RateShowScoreArt();
+}
+};
+</script><div id="ratingFormArt" style="display:none;"><div id="ratingart"><form name="rateForm" action="" method="post"><!--<b class="d1">OCEŃ ARTYKUŁ</b>--><input type="hidden" name="null" value="objArticle"/><input type="radio" class="star" name="Ocena" value="1" class="checkbox"/><!--1--><input type="radio" class="star" name="Ocena" value="2" class="checkbox"/><!--2--><input type="radio" class="star" name="Ocena" value="3" class="checkbox"/><!--3--><input type="radio" class="star" name="Ocena" value="4" class="checkbox"/><!--4--><input type="radio" class="star" name="Ocena" value="5" class="checkbox"/><!--5--><input type="image" src="/images/rating/btn_rate2.gif" name="submit" value="głosuj" class="vote" /></form>ŚR. OCENA: <span class="rating">5</span>. GŁOSÓW: <b><span class="votes">1</span></b></div></div><div id="ratingScoreArt" style="display:none;"><div id="ratingart" class="aftervote"><div id="rateScore"><div class="RSC50"></div></div><div class="after">ŚR. OCENA: <b>5</b>. GŁOSÓW: <b>1</b></div></div></div><div style="text-align: center; clear: right;">
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(3348);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi//3348/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi//3348/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div><div class="clr"></div><hr/></div><div class="clr"></div><div class="adButtonH">
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(9222);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi//9222/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi//9222/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div></div></div>    <script language="javascript">
+  $(document).ready(function() {
+     var absoffset =  $("div.pollhook").offset().top;
+     var polloffset =  $("div.mvswrap").offset().top;
+      var polloffset = polloffset + 100 ;
+      if ( polloffset > absoffset) {
+        $(".mvswrap").addClass("MVSposLo");
+      }
+      else 
+      {
+        $(".mvswrap").addClass("MVSposHi");
+      }
+  });
+    </script><!--Info:108;;1;0;1;16--></div><div class="adRectangleE"></div><div style="margin: 0 0 10px 0;">
+<script type="text/javascript" data-key="4196-3285-5E2C-1002-1SG3tz">
+ var __nc_widgets = __nc_widgets || [];
+ var __nc_j = __nc_j || null;
+
+ __nc_widgets.push(['4196-3285-5E2C-1002-1SG3tz', 'fakt.pl', 'recommendation', 1, 1]);
+
+ (function() {
+ var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';
+ __nc.src = 'http://nextclick.pl/widget/widget.recommendation.1.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);
+ })();
+</script>
+ </div><div id="boxMostP"><h4>Zobacz też</h4><div class="MPItem ItL"><a href="http://www.fakt.pl/Szokujaca-terapia-w-chinskich-salonach-urody-palenie-ciala-zywcem,artykuly,203081,1.html" title="Palą kobiety żywcem! Dla urody!"><img src="/images/rm/rm210mp.png" border="0" alt="Palą kobiety żywcem! Dla urody!" class="mppix1" style="background: #eee url(/m/Repozytorium.Podglad.aspx/210/0/faktonline/634983321021690150.jpg)  center center no-repeat;"/></a><h2><a href="http://www.fakt.pl/Szokujaca-terapia-w-chinskich-salonach-urody-palenie-ciala-zywcem,artykuly,203081,1.html" title="Palenie twarzy lub ciała - oto nowa terapia odmładzająca w Chinach. W tamtejszych salonach piękności kobiety poddają się dobrowolnie drastycznej metodzie odnawiania tkanek. Chcą zachować wieczną młodość">Palą kobiety żywcem! Dla urody!</a></h2></div><div class="MPItem ItC"><a href="http://www.fakt.pl/Badania-mitow-Picie-kranowy-nie-szkodzi-a-jedzenie-szpinaku-wcale-nie-jest-jakies-szczegolnie-zdrowe,artykuly,205390,1.html" title="Obalone mity! Pij kranówę, nic ci nie będzie! A szpinak..."><img src="/images/rm/rm210mp.png" border="0" alt="Obalone mity! Pij kranówę, nic ci nie będzie! A szpinak..." class="mppix1" style="background: #eee url(/m/Repozytorium.Podglad.aspx/210/0/faktonline/634811301857704877.jpg)  center center no-repeat;"/></a><h2><a href="http://www.fakt.pl/Badania-mitow-Picie-kranowy-nie-szkodzi-a-jedzenie-szpinaku-wcale-nie-jest-jakies-szczegolnie-zdrowe,artykuly,205390,1.html" title="Okazuje się, że picie kranówy nie szkodzi, a jedzenie szpinaku wcale nie jest jakoś szczególnie zdrowe. Jak to? W internecie funkcjonuje bardzo ciekawa strona &rdquo;Pogromcy Mitów Medycznych&rdquo; gdzie takie utarte slogany są obalane!">Obalone mity! Pij kranówę, nic ci nie ...</a></h2></div><div class="MPItem ItR"><a href="http://www.fakt.pl/Jajka-ulecza-choroby-cywilizacyjne,artykuly,205683,1.html" title="Znaleźli cudowny lek w jajkach! Leczy..."><img src="/images/rm/rm210mp.png" border="0" alt="Znaleźli cudowny lek w jajkach! Leczy..." class="mppix1" style="background: #eee url(/m/Repozytorium.Podglad.aspx/210/0/faktonline/634956674497827205.jpg)  center center no-repeat;"/></a><h2><a href="http://www.fakt.pl/Jajka-ulecza-choroby-cywilizacyjne,artykuly,205683,1.html" title="Niezwykłe dokonanie polskich naukowców! Jako pierwsi na świecie odkryli lek na choroby cywilizacyjne. Dzięki ich odkryciu będzie można leczyć niektóre formy raka, alzheimera, nadciśnienie i otyłość... za pomocą cudownych właściwości jajek">Znaleźli cudowny lek w jajkach! Leczy...</a></h2></div><div class="clearfix"></div></div><div id="linkBar"><div class="nwsBAR"><a href="/newsletter/"><img src="/images/tlb_efakt.gif" alt="tlb" title=""/></a><img class="sep" src="/images/tlb_sep.gif" alt="tlb" title=""/></div><!-- AddThis Button BEGIN -->
+					<div class="addthis_toolbox addthis_default_style addBAR">
+
+						<a class="addthis_button_facebook" title="Dodaj do Facebooka"></a>
+						<a class="addthis_button_twitter" title="Dodaj do Twittera"></a>
+						<a class="addthis_button_wykop" title="Dodaj do Wykopu"></a>
+            <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=efakt" class="addthis_button_expanded">Więcej</a>
+						<span class="addthis_separator">|</span>
+						<a class="addthis_button_print" title="Drukuj"></a>
+						<a class="addthis_button_favorites" title="Dodaj do ulubionych"></a>
+
+
+					</div>
+          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=efakt"></script>
+<!-- AddThis Button END -->
+<!--<a href="http://www.wykop.pl/dodaj?url=http://www.fakt.pl/Adam-Bielecki-o-ostatniej-rozmowie-z-Tomaszem-Kowalskim-Adam-Bielecki-o-zejsciu-z-Broad-Peaku,artykuly,204535,1.html&title=undefined&desc=undefined" target="_popup"><img alt="urlB" title="Wyślij link do serwisu" src="/images/ico_wykop.gif" border="0"/></a> &nbsp;&nbsp;<a href="http://www.gwar.pl/DodajGwar.html?u=http://www.fakt.pl/Adam-Bielecki-o-ostatniej-rozmowie-z-Tomaszem-Kowalskim-Adam-Bielecki-o-zejsciu-z-Broad-Peaku,artykuly,204535,1.html" target="_popup"><img alt="urlB" title="Wyślij link do serwisu" src="/images/ico_gwar.gif" border="0"/></a> --><div class="rssBAR"><img class="sep" src="/images/tlb_sep.gif" alt="tlb" title=""/><a href="/rss/"><img src="/images/tlb_rss.gif" title="Kanały RSS" alt="Rss" border="0"/> Kanały RSS</a></div><div class="clr"></div></div><div style="text-align:center;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5310645159024207";
+/* Fakt - pod 1szym komentarzem */
+google_ad_slot = "8317060464";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div><div id="Comments"><div class="3917dc34e07c9c7180df2ea9ef1033617dccde492c24a89653743b061ae7b789"><a name="List"></a><div class="l"><h5>No pewnie Nocki , mozemy </h5><p>przeniesc sie na pisanie listow , moze na gg<br/>moj email- nastia4@o2.pl<br/>Mialam isc spac, ale zagladnelam na moj ulubiony temat, w filmie Ziemianie, niestety nie chodzi tylko o Ameryke, tak dzieje sie wszedzie, na calym swiecie. <br/>Pisz- pokaze Ci wiecej, co dzieje sie u nas w Polsce.<br/>Na naszym rodzimym podworku. Jak to wyglada w Uni.Moze sie zdziwisz,albo i nie. Zobaczymy.<br/>Pozdrawiam.</p></div><div class="r">04.01.2012&nbsp;23:46<br/>ella<br/><a href="#Odpowiedz"><img class="bt" src="/images/subm3.gif" title="Odpowiedz" alt="Odp" /></a><br/><!--<p style="text-align: right;"><a class="tt" href="/artykuly/artykul.asp?Artykul=141337&amp;Watek=1905727&amp;WatekStr=2&amp;DA=040120122346&amp;RewriteParam=-No-pewnie-Nocki-mozemy-">Zobacz cały wątek &raquo;</a></p>--></div><div class="clr"></div><div class="ModerateThis"><a title="Zgłoś ten komentarz do moderacji" href="javascript:void(0);" onClick="moderateTopic(this,'1905727')" rel="nofollow">Zgłoś do moderacji</a></div><div class="clr"></div><hr/><div class="l"><h5>do ELLI</h5><p>obejrzałem ten film, zastanawia mnie czemu prawie wszystko mozna w ameryce zobaczyc z tych filmow. cieszy mnie ze to widzisz ale moge cie zapewnic ze teraz jak jestesmy w uni jak to nie obraz sie miasto ma o nas zdanie dostajemy mnostwo kasy za darmo, a nic nie robimy. ostatnio w radiu jak slyszymy o skladkach zdrowotnych niech beda skoro nieuczciwie<br/> jest. zgadzam sie na nie. ale niech mi taksowkarz nie mowi ze jego praca nie rozni sie od mojej. jestes weganka, nie smieje sie z tego czy cie ponizam bron boze, ale te rosliny co jesz tez trzeba wyhodowac<br/> a to tez niesie ze soba jakies konsekwencje srodkow chemicznych, nawozow  itp. czlowiek nawet jesli przyrownamy go do zwierzecia<br/> musi jesc<br/> zwierzeta tez jedza siebie nawzajem by przetrwac, to prawo natury od poczatku swiata. jedne sa roslinozerne inne miesozerne a czlowiek<br/> praktycznie jak swinia wszystkozerny. wracajac do naszej kochanej uni(dla rolnikow) zebys ty wiedziala jakie my mamy wymagania odnosnie hodowli<br/> ile musi miec miejsca<br/> krowa jakie dlugie stasnowisko, zbiorniki na wszystko<br/> standardy pomieszczen i wogole. co tyczy sie kazdeh hodowli. nie przecze ci w stanowisku ferm ale to sa inne gospodarsta, tez maja swoje normy, przy kurach wlasnie jest rok w ktorym musza zrobic wieksze klatki  kura itp. wiec choc tyle dla nich. swiat potrzebuje zywnosci jednak, tego nie zatrzymasz. ja czy ty swiata nie zmienimy. jesli chcesz pisac dalej<br/> mozemy nr gg wymienic<br/>lub maila<br/></p></div><div class="r">04.01.2012&nbsp;19:21<br/>noki<br/><a href="#Odpowiedz"><img class="bt" src="/images/subm3.gif" title="Odpowiedz" alt="Odp" /></a><br/><!--<p style="text-align: right;"><a class="tt" href="/artykuly/artykul.asp?Artykul=141337&amp;Watek=1905325&amp;WatekStr=2&amp;DA=040120121921&amp;RewriteParam=-do-ELLI">Zobacz cały wątek &raquo;</a></p>--></div><div class="clr"></div><div class="ModerateThis"><a title="Zgłoś ten komentarz do moderacji" href="javascript:void(0);" onClick="moderateTopic(this,'1905325')" rel="nofollow">Zgłoś do moderacji</a></div><div class="clr"></div><hr/><div class="l"><h5>Ok ,Noki pogadamy :)</h5><p>Ja nie jestem znawca i ekspertem od hodowli zwierzat to prawda -ale  jestem przeciwna i to stanowczo chowu zwerzat na skale przemyslowa. Czyli ? fermy kurze klatkowe ,sciolkowe i jakiekolwiek inne , ktore i tak zawsze prowadza do smierci ( znecania sie nad zwierzetami, torturowania i wykorzystywania do maxymalnych mozliwosci) Wie Pan ile zyje krowa mleczna przecietnie chowana w takich kombinatach smierci - od 3 max 5 lat - ma pan krowke to doskonale orientuje sie jak dlugo moze zyc  - nawet do 25 lat ..dlaczego odbiera im sie ich dzieci po 2 dniach ??? niewiadomo gdzie ? dlaczego cielatka zabijane sa dla podpuszcki w serach zoltyych i innych jak sa alternatyne metody, dlaczego sa trzymane w ciasnych kojcach gdzie nie moga nawet sie poruszyc, dlaczego swinki kastruje sie na zywca ??? dlaczego obcina im sie uszy?  wie pan ze to jest bestialstwo !!!, potem idzie sie do kosciolka tak na pasterke pomodlic sie za kogo , za swoje umeczone zwierzeta ? <br/><br/>Wie pan ze krowy, swinie i kazda matka czy ludzka czy zwierzeca kocha swoje dzieci tak samo mocno i cierpi z tego powodu ze odbiera im sie malenstwo, ze zabija sie na ich oczach.<br/>Bicie , katowanie , tortury to rzecz normalna w takich fabrykach smierci, obozach zaglady.<br/>Czy mysli pan ze taki czlowiek nie jest w stanie zrobic czegos podobnego drugiemu czlowiekowi .<br/>Co dzieje sie na jarmarkach w czasie handlu zwierzetami ???<br/>Sa na to dowody , sa zdjecia, sa filmy.<br/>Stworzylismy naszym mniejszym braciom pieklo na ziemi.<br/>A oni maja takie samo prawo byc tu na naszej planecie.<br/>Przypominam , ciagle to powtarzam - we wszystkich religiach swiata jedno z najwazniejszych przykazan mowi - NIE ZABIJAJ!!- najbardziej ignorowane przez czlowieka- czy gdzies jest  napisane- z wyjatkiem tych co maja lapy, siersc , piora czy skrzela ???<br/>NIe. Wiec jak biegamy tak do kosciola to moze i zacznijmy przestrzegac i to  przykazanie Boze co ?<br/>Jestem weganka, od wielu lat nie jem ciala zwierzat, i zadnych produktow od zwierzecych, jestem zdrowa, pracuje, nie latam po lekarzach, nie wydaje na koncerny farmaceutyczne. Dieta wegsnska wcale nie jest drozsza, a na pewno zdrowsza, a przede wszystkim wolna od okrucienstwa.<br/>Wychodze z zalozenia - ze sama nigdy nie moglabym zabic zadne zwierze , wiec nie moge tez dawac zlecenia i placic za wykonanie morderstwa na zwierzeciu i na moim przyjacielu. Bo przyjaciol sie nie je.<br/>Bardzo szanuje i kocham zwierzeta bo sa lepsze od nas ludzi. <br/>Nie wspomne o rozrywce ? cyrki, polowania, ZOO , rodea i inne !<br/>Obejrzyjcie film Ziemianie dostepny na YT. <br/>Okrucienstwo i podlosc osiagnelo swoje apogeum na ziemi.I niestety sprawca jest ciagle nienasycony czlowiek.<br/>Zwierzeta przezywaja animals holocaust.<br/>I nalezy to zatrzymac! Jezeli nie otworzymy oczu to i dla nas sie to zle skonczy.<br/><br/>A co do przytulania - wiem ze nie da sie wszystkich poglaskac, przytulic ,ale mowic do nich czule mozna a zwierzeta to czuja, bo sa takimi samymi istotami jak my , tylko nie moga i nie maja komu sie poskarzyc na swoj parszywy los. <br/><br/><br/><br/> <br/></p></div><div class="r">03.01.2012&nbsp;22:07<br/>ella<br/><a href="#Odpowiedz"><img class="bt" src="/images/subm3.gif" title="Odpowiedz" alt="Odp" /></a><br/><!--<p style="text-align: right;"><a class="tt" href="/artykuly/artykul.asp?Artykul=141337&amp;Watek=1903862&amp;WatekStr=2&amp;DA=030120122207&amp;RewriteParam=-Ok-Noki-pogadamy-">Zobacz cały wątek &raquo;</a></p>--></div><div class="clr"></div><div class="ModerateThis"><a title="Zgłoś ten komentarz do moderacji" href="javascript:void(0);" onClick="moderateTopic(this,'1903862')" rel="nofollow">Zgłoś do moderacji</a></div><div class="clr"></div><hr/><div class="l"><h5>noki</h5><p>wiecie<br/> co jest demokracja, każdy robi jak uważa i jak myśli. jasne ze nie zapomniałem o zwierzętach w święta, zawsze jeździ się na pasterkę wiec można podsluchać <img class="smiley" src="/i/e/usmiech.gif" alt=":)" title=":)"/> a swoja drogą nie jestem jakimś wielkim producentem<br/> ale gdybym przytulił każde zwierze<br/> to brakło by mi czasu na życie. pozdrawiam<br/> jesli ktos chce<br/> poznac te prawdziwa strone wsi to mozna popisac</p></div><div class="r">03.01.2012&nbsp;19:27<br/>noki<br/><a href="#Odpowiedz"><img class="bt" src="/images/subm3.gif" title="Odpowiedz" alt="Odp" /></a><br/><!--<p style="text-align: right;"><a class="tt" href="/artykuly/artykul.asp?Artykul=141337&amp;Watek=1903563&amp;WatekStr=2&amp;DA=030120121927&amp;RewriteParam=-noki">Zobacz cały wątek &raquo;</a></p>--></div><div class="clr"></div><div class="ModerateThis"><a title="Zgłoś ten komentarz do moderacji" href="javascript:void(0);" onClick="moderateTopic(this,'1903563')" rel="nofollow">Zgłoś do moderacji</a></div><div class="clr"></div><hr/><div class="l"><h5>A ja powtórzę raz jeszcze</h5><p>Wiecie, co to jest SSAK? Jaka jest różnica między ssakiem a na przykład gadem?<br/>I człowiek jest JEDYNYM SSAKIEM NA ZIEMI PIJĄCYM INNOGATUNKOWE MLEKO. I to po okresie niemowlęcym.<br/>Jeśli ktoś pije mleko, bo lubi, to niech sobie pije. Ale jeśli pije, bo mu się wydaje, że jest dla niego zdrowe, to niech sobie pogoogla, albo pogada z pierwszym lepszym dietetykiem a się zdziwi. A już namawianie do picia ze względów zdrowotnych jest działaniem na szkodę drugiego człowieka.<br/>Dla jasności - nie mówię o jogurtach czy maślankach - to jest inna bajka. Tu rozmawiamy o mleku.</p></div><div class="r">03.01.2012&nbsp;17:04<br/>Mądrala<br/><a href="#Odpowiedz"><img class="bt" src="/images/subm3.gif" title="Odpowiedz" alt="Odp" /></a><br/><!--<p style="text-align: right;"><a class="tt" href="/artykuly/artykul.asp?Artykul=141337&amp;Watek=1903310&amp;WatekStr=2&amp;DA=030120121704&amp;RewriteParam=-A-ja-powtorze-raz-jeszcze">Zobacz cały wątek &raquo;</a></p>--></div><div class="clr"></div><div class="ModerateThis"><a title="Zgłoś ten komentarz do moderacji" href="javascript:void(0);" onClick="moderateTopic(this,'1903310')" rel="nofollow">Zgłoś do moderacji</a></div><div class="clr"></div><hr/><br clear="all"/><table class="subPages" cellspacing="0" cellpadding="0" border="0"><tr><td style="width: 15%;"></td><td style="width: 70%; text-align: center;"><b>1</b>  | <a href="/artykuly,Mleko-pomaga-schudnac-,141337,0,2,1,0,0,0.html">2</a>  | <a href="/artykuly,Mleko-pomaga-schudnac-,141337,0,3,1,0,0,0.html">3</a>  | <a href="/artykuly,Mleko-pomaga-schudnac-,141337,0,4,1,0,0,0.html">4</a> </td><td style="width: 15%; text-align: right"><a href="/artykuly,Mleko-pomaga-schudnac-,141337,0,2,1,0,0,0.html"><img src="/images/sp2.gif" alt="nxt" title="Następna strona"/></a></td></tr></table><br clear="all"/><a name="Odpowiedz"><h4 class="ldx">Dodaj komentarz</h4><div class="ComFrm"><form name="CommentsForm" method="post" onSubmit="return window.Comments.validateThreadForm(this);" "><input type="hidden" name="Comments" value="objComments">&nbsp;<em>Tytuł komentarza:</em> <input id="in1" class="input1" name="TytulKomentarza" value=""><br/><textarea class="input1" name="Komentarz"></textarea><br/><em>Twój podpis:</em> <input class="input1" type="text" name="PodpisAutora" value=""><br/><div class="subxfrm"><input type="image" name="submit" value="Wyślij" src="/images/subm1.gif"/></div></form></div><hr/></a></div></div><div class="moderateTopic"></div></div><div id="clmn2" style=""><div class="HPRCCnt"><div id="tmRC1"><div class="adRectangleA">
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(3284);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi/8191/104992/3284/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi/8191/104992/3284/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div><div id="nvTab"><a id="tbNwst" class="nvtAbb selected" href="javascript: void(0);">Najnowsze</a><a id="tbMost" class="nvtAbb" href="javascript: void(0);">Najpopularniejsze</a></div><div class="scrollRClst"><div class="rc1a"><div class="scrollbar" style="height:220px"><div class="track" style="height:200px"><div class="thumb"><div class="end"></div></div></div></div><div id="bxNwArtL"><div class="scRCnl"><p><img src="/images/pntr.gif" alt="pntr" title=""/> <span>08:10</span> <a href="http://www.fakt.pl/Premier-Donald-Tusk-przed-pomnikiem-ofiar-katastrofy,artykuly,207170,1.html" title="Premier pod pomnikiem ofiar katastrofy">Premier pod pomnikiem ofiar ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <span>08:00</span> <a href="http://sport.fakt.pl/Anastasi-nie-dostanie-Achrema,artykuly,207069,1.html" title="Anastasi w nich wierzy">Anastasi w nich wierzy</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <span>08:00</span> <a href="http://horoskop.fakt.pl/Horoskop-dzienny-na-srode-10-kwietnia-Dzisiaj-sa-urodziny-aktora-Artura-zmiejewskiego-,artykuly,207085,1.html" title="Horoskop na środę 10 kwietnia">Horoskop na środę 10 kwietnia</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 07:44 <a href="http://koktajl.fakt.pl/Sukienka-Pretty-Woman,artykuly,207137,1.html" title="Odważne legginsy z wycięciami">Odważne legginsy z wycięciami</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 07:43 <a href="http://www.fakt.pl/Wojt-chce-zamknac-szkole-i-postawic-prywatna-,artykuly,207123,1.html" title="Układ zamknięty, czyli jak wójt chce zamknąć szkołę i postawić prywatną">Układ zamknięty, czyli jak wójt ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 07:26 <a href="http://www.fakt.pl/Pomylka-sledczych-czy-zbrodnia-doskonala-,artykuly,207120,1.html" title="Pomyłka śledczych czy zbrodnia doskonała?">Pomyłka śledczych czy zbrodnia ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 07:16 <a href="http://www.fakt.pl/Zostan-Miss-Wiosny-Faktu,artykuly,207125,1.html" title="Zostań Miss Wiosny Faktu">Zostań Miss Wiosny Faktu</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 07:14 <a href="http://www.fakt.pl/Anatomia-Upadku-w-TVP-Film-Anity-Gargas-w-TVP-Katastrofa-Tu-154-Smolensk-Katastrofa-Smolenska-,artykuly,207083,1.html" title="Wpadka w &rdquo;Anatomii upadku&rdquo;! Autorka zbłaźniła się?">Wpadka w &rdquo;Anatomii ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 07:04 <a href="http://www.fakt.pl/Anita-Gargas-Oficjalna-wersja-nie-trzyma-sie-kupy-,artykuly,197872,1.html" title="Anita Gargas: Oficjalna wersja nie trzyma się kupy!">Anita Gargas: Oficjalna wersja ...</a></p><p><b><img src="/images/pntr.gif" alt="pntr" title=""/> 07:03 <a href="http://sport.fakt.pl/Polscy-skoczkowie-narciarscy-pojada-na-oboz-regeneracyjny-do-Egiptu,artykuly,207093,1.html" title="Polscy skoczkowie polecą do Egiptu">Polscy skoczkowie polecą do Egiptu</a></b></p><p><b><img src="/images/pntr.gif" alt="pntr" title=""/> 07:00 <a href="http://sport.fakt.pl/Prezes-PZPN-Zbigniew-Boniek-ujal-sie-za-kibicami-Arki-Gdyni-w-sporze-z-policja,artykuly,207097,1.html" title="Boniek wściekły na policję">Boniek wściekły na policję</a></b></p><p><b><img src="/images/pntr.gif" alt="pntr" title=""/> 07:00 <a href="http://sport.fakt.pl/Ljuboja-wsciekly-na-dzialaczy,artykuly,207095,1.html" title="Legia traci gwiazdy">Legia traci gwiazdy</a></b></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 07:00 <a href="http://sport.fakt.pl/Grzegorz-Krychowiak-latem-moze-zmienic-klub,artykuly,207076,1.html" title="Lyon chce Krychowiaka">Lyon chce Krychowiaka</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 06:58 <a href="http://www.fakt.pl/Joanna-Liszowska-bedzie-rodzic-za-granica-,artykuly,207162,1.html" title="Liszowska znów urodzi w Szwecji">Liszowska znów urodzi w Szwecji</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 06:51 <a href="http://www.fakt.pl/Prof-Artymowicz-Oba-filmy-Anity-Gargas-przecza-sobie-To-dowod-ze-zaden-nie-jest-zgodny-z-prawda-,artykuly,207080,1.html" title="Prof. Artymowicz: Oba filmy Anity Gargas przeczą sobie<br/>">Prof. Artymowicz: Oba filmy Anity ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 06:47 <a href="http://sport.fakt.pl/24-kwietnia-polskie-kluby-dostana-ostrzezenie-od-PZPN,artykuly,207078,1.html" title="Nie chcemy biedaków w lidze">Nie chcemy biedaków w lidze</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 06:44 <a href="http://www.fakt.pl/Rostowski-ma-nowe-zeby-Sztuczne-zeby-Rostowskiego-Jacek-Rostowski-ma-nowy-usmiech--,artykuly,207108,1.html" title="Rostowski: Zjadł zęby na walce o pieniądze">Rostowski: Zjadł zęby na walce o ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 06:32 <a href="http://www.fakt.pl/Kontek-Uszanujmy-pamiec-tych-ktorzy-zgineli,artykuly,207145,1.html" title="Kontek: Uszanujmy pamięć tych, którzy zginęli">Kontek: Uszanujmy pamięć tych, ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 06:27 <a href="http://www.fakt.pl/Maciej-Zakoscielny-rozstal-sie-z-dziewczyna,artykuly,207071,1.html" title="Maciej Zakościelny rozstał się z dziewczyną">Maciej Zakościelny rozstał się z ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> 06:18 <a href="http://www.fakt.pl/Marta-Grycan-chodzi-w-starych-ubraniach,artykuly,207157,1.html" title="Marta Grycan chodzi w starych ubraniach">Marta Grycan chodzi w starych ...</a></p></div></div></div><div class="rc1b"><div class="more" style="position:absolute; margin-left:230px;z-index: 10;margin-top:-10px; padding: 0 10px 0 0;"><a href="/najpopularniejsze/">Więcej &raquo;</a></div><div class="scrollbar" style="height:200px"><div class="track" style="height:200px"><div class="thumb"><div class="end"></div></div></div></div><div id="bxNwArtL"><div class="scRCnl"><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Co-dzis-robi-syn-Anny-German-Zbigniew-Tucholski-junior-ma-38-lat-i-jest-,artykuly,206020,1.html" title="Anna German miała 40 lat, gdy urodziła swojego jedynego synka - Zbigniewa juniora. Chłopiec miał 6,5 roku, gdy jego ukochana mama zmarła na raka kości. Jego wychowaniem zajął się tata Zbigniew senior...">Co dziś robi syn Anny German? Ma ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Aktor-Piotr-Adamczyk-odkryl-ze-Kate-Rozz-byla-interesowna-Rozwod-Adamczyka-i-Rozz-,artykuly,206863,1.html" title="Kate Rozz, zanim została żoną Piotra Adamczyka, obracała się w towarzystwie znanych i bogatych mężczyzn. Czy aktor zaczął podejrzewać, że jego żona była interesowna? - zastanawia się tygodnik &rdquo;Życie na gorąco&rdquo;">Adamczyk odkrył, że Kate Rozz ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Piosenkarka-Edyta-Gorniak-marzy-o-corce-,artykuly,206873,1.html" title="Edyta Górniak w wywiadzie dla magazynu &rdquo;Gala&rdquo; po raz kolejny wyznała, że jest gotowa na drugie dziecko. Piosenkarka marzy o córeczce, którą nazwie...">Dziecko Górniak i Schramma ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Rosyjscy-scenarzysci-sfalszowali-rzeczywistosc-w-serialu-Anna-German,artykuly,206886,1.html" title="Serial o życiu Anny German okazał się niesamowitym przebojem. Ogląda go 6 milionów Polaków (w Rosji produkcja ma ponoć 22-milionową widownię!). Ale w obrazie, który pięknie przedstawia Annę German  pojawiła się pewna rysa. Chodzi o manipulację, która w istocie zakłamuje historię. Czy rosyjscy scenarzyści celowo fałszowali rzeczywistość?">Bezczelne kłamstwo o Annie ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Ukochany-Gorniak-oswiadczal-sie-8-razy,artykuly,206900,1.html" title="Ukochany Edyty Górniak (41 l.) Piotr Schramm (38 l.) nie ma łatwo. Prawnik oświadczał się jej aż... osiem razy. Na razie ślubu jednak nie będzie">Zaręczyny Górniak. Ukochany ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Gdzie-senatorowie-jezdza-limuzynami-Do-kina-i-do-teatru-jezdza-senatorowie-za-nasze-pieniadze-,artykuly,206906,1.html" title="Do kina, teatru czy restauracji? Żaden problem! Senackie limuzyny wożą polityków wszędzie, gdzie ci sobie zamarzą! Senatorowie zarzekają się, że wszystkie kursy odbywają &rdquo;w ramach wykonywania mandatu senatora&rdquo;. To wyjątkowo szeroki mandat, biorąc pod uwagę, że szacowni senatorowie sprawują go nawet podczas obiadu w restauracji.">Skandal w Senacie. Nasza kasa ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Nowak-swietuje-utrzymanie-posady-Z-kim-Nowak-poszedl-na-wino-Minister-transportu-na-winie-,artykuly,206928,1.html" title="Czerwone wino, wypad do nocnego klubu. Minister transportu nie próżnuje, tylko oblewa ocalenie swego stołka. Z kim Sławomir Nowak poszedł na wino?">Minister Nowak oblewa ocalony ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Gwiazdy-dostaja-samochody-za-darmo,artykuly,206933,1.html" title="Kilka dni temu Tomasz Karolak (42 l.) odebrał z salonu nowiutki samochód. Myli się jednak ten kto myśli, że aktor wydał na niego fortunę. Serialowy Ludwik z &bdquo;Rodzinki.pl&rdquo; podobnie jak wielu jego kolegów po fachu dostał auto za darmo w ramach reklamowania marki. Karolak nie jest jedynym aktorem, który ma darmowe auto">Autogranda! Tak gwiazdy dostają ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Rosyjski-film-potwierdza-wybuch,artykuly,206936,1.html" title="Tupolew lecący nad smoleńskim lasem nagle wybucha. Świadkowie opowiadają o rozrzuconych na odcinku pół kilometra szczątkach. Czy to kolejna rekonstrukcja zespołu Antoniego Macierewicza (65 l.)? Nie, to materiał rosyjskiej rządowej agencji informacyjnej RIA Novosti wyemitowany na świecie tuż po katastrofie 10 kwietnia 2010 roku. Nie ma w nim ani słowa o brzozie!">Katastrofa smoleńska: Rosyjski ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Grecy-zadaja-miliardow-od-Niemcow,artykuly,206939,1.html" title="Kraj w ruinie, wyczyszczona do cna kasa państwowa i rozkradzione dobra narodowe - swoje straty, spowodowane przez Niemców podczas II wojny światowej, Grecy wycenili na 162 mld euro. Gdyby dostali te pieniądze z Niemiec, uratowaliby swój kraj przed bankructwem.">Grecy do Niemców: Zapłaćcie za ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Wypadek-karetki-Kierowca-zginal-ratujac-zycie-noworodkowi,artykuly,206952,1.html" title="Gdyby w wałbrzyskim szpitalu był lekarz, który byłby w stanie przeprowadzić operację na maleńkiej pacjentce - Marice (1 mies.), nie doszłoby do tragedii. A to podczas wypadku karetki życie stracił Bartłomiej Z. (?27 l.), a maleńka pacjentka została ranna">Kulisy strasznego wypadku ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Czy-matka-zabitego-Filipka-chciala-trafic-do-wiezienia-,artykuly,206957,1.html" title="Czy dzieciobójczyni z Inowrocławia Natalia S. (21 l.) planowała wcześniej zabójstwo własnego syna i liczyła się z tym, że poniesie za to karę? Jej babcia znalazła w jej pokoju książkę, która opisuje historie więźniów nawróconych za kratami.">Matka zabiła Filipka, bo chciała ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Aleksander-Kwasniewski-Chce-rozebrac-zone-w-Playboyu,artykuly,206959,1.html" title="Kochają się niezmiennie od 34 lat, czerpią przyjemność z seksu, a on uważa ją za najatrakcyjniejszą kobietę na świecie. Jolanta Kwaśniewska (58 l.) mówi, że często słyszy od swojego męża Aleksandra Kwaśniewskiego (59 l.), że powinna zapozować nago na rozkładówce &rdquo;Playboya&rdquo;.">Aleksander Kwaśniewski chce ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Policjant-dreczyl-byla-narzeczona,artykuly,206962,1.html" title="Osiem miesięcy w więzieniu spędzi Eugeniusz G. (52 l.), policjant z Suwałk (woj. podlaskie), który nie mógł pogodzić się z odejściem ukochanej. Zadręczał byłą partnerkę SMS-ami, groził jej śmiercią, nachodził w domu w przebraniu, a nawet rozlepił jej zdjęcia na cmentarnych nagrobkach">Szalona miłość! Policjant dręczył ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/FILM-Grodzka-obsmiala-sie-jak-,artykuly,206975,1.html" title="Anna Grodzka lubi dowcipy na swój temat. Jeden z nich (tak dla porządku - strasznie obleśny) tak ją rozbawił, że nie omieszkała skomentować go przed kamerą Fakt.pl - Obśmiałam się jak norka! - zdradziła nam">Grodzka śmieje się z obleśnego ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Kobieta-zginela-jadac-pod-prad-autostrada,artykuly,207028,1.html" title="Jak mogło dojść do takiej pomyłki? Na miejscu zginęła kobieta, która pod prąd wjechała na autostradę A4 w stronę Katowic!">Autostrada A4. Kobieta zginęła, ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Pokaz-dwoch-filmow-o-Smolensku-podzielil-komentatorow,artykuly,207030,1.html" title="&rdquo;Anatomia upadku&rdquo; i &rdquo;Samolot prezydenta&rdquo; to dwa filmy o katastrofie smoleńskiej wymitowane w poniedziałek przez TVP1. Decyzja telewizji podzieliła komentatorów. Część z nich sprzeciwiała się pokazania filmu Anity Gargas. - Czy każda głupota ma być prezentowana w TVP w imię pluralizmu? - pytał prof. Wiesław Władyka. - Ludzie będą w stanie sami wyciągnąć wnioski - bronił pomysłu Piotr Kraśko cytowany przez portal gazeta.pl">Burza w TVP1 po pokazie filmów o ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Aktorka-Joanna-Koroniewska-wystapi-w-nowym-serialu-,artykuly,207034,1.html" title="Joanna Koroniewska jakiś czas temu zakończyła współpracę z serialem &rdquo;M jak miłość&rdquo;. Po tym fakcie utrzymywała się głównie z reklam. Czy teraz zobaczymy ją w nowym serialu? Koroniewska wzięła udział w castingu do...">Koroniewska wystąpi w nowym ...</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Dorota-Wellman-do-Marcina-Prokopa-wez-spierdalaj-,artykuly,207035,1.html" title="Początek współpracy Doroty Wellman i Marcina Prokopa miał miejsce w magazynie &rdquo;Gala&rdquo; i nie należał do łatwych. Jak przywitała świeżo upieczonego redaktora Prokopa Dorota Wellman? Na dzień dobry powiedziała mu, aby &rdquo;spier....&rdquo;">Wellman do Prokopa: weź spier....</a></p><p><img src="/images/pntr.gif" alt="pntr" title=""/> <a href="http://www.fakt.pl/Grycanki-pracuja-w-supermarkecie-,artykuly,207038,1.html" title="Córki Marty Grycan - Weronika i Wiktoria Grycan - zostały przyłapane na stanowisku rybnym w supermarkecie. Dlaczego Grycanki sprzedają ryby?">Grycanki pracują w ...</a></p></div></div></div></div><div class="bxNwArtL">
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(5026);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi/8191/104992/5026/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi/8191/104992/5026/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div><div class="adRectangleD"></div><div id="RedFBoxesRC1"></div></div><!-- GAS --><div class="GASS"></div><div id="tmRCtv"></div><div id="tmRC2"><div id="HPMovBxRC"><h4 class="ldx"><em><a href="/filmy">Wideo</a></em></h4><a title="Skrajne reakcje pod Pałacem" href="/Skrajne-reakcje-pod-Palacem,film,987540.html" title="Trzecia rocznica katastrofy smoleńskiej i znów wracają skrajne emocje nie tylko polityków, ale i zwykłych przechodniów pod Pałacem Prezydenckim i przy stacji metra Centrum, gdzie przeprowadziliśmy sondę na temat znaczenia tego wydarzenia. - To trzeba być mordercą, żeby tak tu w tym miejscu tak to powiesić! - mówi pani o tablicy wiszącej na Pałacu Prezydenckim, upamiętniającej kwietniowe dni żałoby narodowej 2010 roku. A dwie młode dziewczyny reagują tylko: - Mamy to gdzieś..."><img src="/images/rm/rmv300.png" style="background: url(/m/Repozytorium.Podglad.aspx/300/0/faktonline/1365518627018.jpg) no-repeat;" alt="obrazek" title=""/></a><h3>Skrajne reakcje pod Pałacem</h3><div class="clr"></div></div><div id="HPMovBxMini"><div class="HPMovContMini Hide"><ul><li><a title="Skrajne reakcje pod Pałacem" href="/Skrajne-reakcje-pod-Palacem,film,987540.html" title="Trzecia rocznica katastrofy smoleńskiej i znów wracają skrajne emocje nie tylko polityków, ale i zwykłych przechodniów pod Pałacem Prezydenckim i przy stacji metra Centrum, gdzie przeprowadziliśmy sondę na temat znaczenia tego wydarzenia. - To trzeba być mordercą, żeby tak tu w tym miejscu tak to powiesić! - mówi pani o tablicy wiszącej na Pałacu Prezydenckim, upamiętniającej kwietniowe dni żałoby narodowej 2010 roku. A dwie młode dziewczyny reagują tylko: - Mamy to gdzieś..."><img src="/images/rm/rm112.gif" style="background: url(/m/Repozytorium.Podglad.aspx/0/50/faktonline/1365518627018.jpg) no-repeat;" alt="obrazek" title=""/></a></li><li><a title="Kumorek, Olech i Gajos o &rdquo;Układzie zamkniętym&rdquo;" href="/Kumorek-Olech-i-Gajos-o-Ukladzie-zamknietym,film,984738.html" title="- Mamy nadzieję, że ten układ zamknięty uda się w Polsce otworzyć - z przekonaniem mówi Janusz Gajos, który jak zwykle bardzo przekonująco i powściągliwie zagrał czarny charakter, prokuratora, który z premedytacją oskarża niewinnych biznesmenów działających we współczesnej wolnej Polsce, chcąc przejąć ich firmę. Film &rdquo;Układ zamknięty. Jutro mogą przyjść po ciebie&rdquo; wyreżyserował Ryszard Bugajski, twórca słynnego &rdquo;Przesłuchania&rdquo; o czasach stalinowskich. Czy żyjemy paradoksalnie nadal w czasach terroru?"><img src="/images/rm/rm112.gif" style="background: url(/m/Repozytorium.Podglad.aspx/0/50/faktonline/1365174482825.jpg) no-repeat;" alt="obrazek" title=""/></a></li><li><a title="Marcin Prokop z Wiktorem jako Osobowość telewizyjna" href="/Marcin-Prokop-z-Wiktorem-jako-Osobowosc-telewizyjna,film,985606.html" title="Czy osoba Marcina Prokopa jest osobowością, osobistością, a może osobliwością? Z tak pokrętnym pytaniem zwróciliśmy się do najwyższego człowieka telewizji, który dziękując za Wikrora 2012 musiał w karkołomny sposób pochylać się do zbyt nisko umieszczonych mikrofonów. - Sam mam kłopot z tym, kim tak naprawdę jestem w telewizji - mówi Marcin, finansista z wykształcenia. - Wcale nie planowałem takiej kariery..."><img src="/images/rm/rm112.gif" style="background: url(/m/Repozytorium.Podglad.aspx/0/50/faktonline/1365333721171.jpg) no-repeat;" alt="obrazek" title=""/></a></li><li><a title="Tak posłowie uciekają z Sejmu" href="/Tak-poslowie-uciekaja-z-Sejmu,film,984581.html" title="Tak posłowie uciekają z Sejmu"><img src="/images/rm/rm112.gif" style="background: url(/m/Repozytorium.Podglad.aspx/0/50/faktonline/1365166404883.JPG) no-repeat;" alt="obrazek" title=""/></a></li><li><a title="Adam Rogacki z torbami " href="/Adam-Rogacki-z-torbami-,film,984587.html" title="Adam Rogacki z torbami ucieka z Sejmu"><img src="/images/rm/rm112.gif" style="background: url(/m/Repozytorium.Podglad.aspx/0/50/faktonline/1365166557423.jpg) no-repeat;" alt="obrazek" title=""/></a></li><li><a title="Cezary Kucharski ucieka z Sejmu" href="/Cezary-Kucharski-ucieka-z-Sejmu,film,984584.html" title="Cezary Kucharski ucieka z Sejmu"><img src="/images/rm/rm112.gif" style="background: url(/m/Repozytorium.Podglad.aspx/0/50/faktonline/1365166512869.jpg) no-repeat;" alt="obrazek" title=""/></a></li><li><a title="Politycy w busie sejmowym" href="/Politycy-w-busie-sejmowym,film,984583.html" title="Politycy w busie sejmowym. W piątek rano posłowie uciekają z Sejmu"><img src="/images/rm/rm112.gif" style="background: url(/m/Repozytorium.Podglad.aspx/0/50/faktonline/1365166477254.JPG) no-repeat;" alt="obrazek" title=""/></a></li><li><a title="Skiba ostro o Kukizie " href="/Skiba-ostro-o-Kukizie-,film,980309.html" title="Krzysztof Skiba pozwolił sobie ostro skomentować zaangażowanie polityczne swego kolegi po fachu, Pawła Kukiza. Obaj muzycy są dość mocno zaangażowani politycznie, ale czy rzcezywiście nadają sie na polityków? - Przeżyłem z 5-6 wolt politycznych Pawła - krytykuje Skiba i nie wierzy, że jednomandatowe okręgi wyborcze, które forsuje Kukiz to lekarstwo na wszystko..."><img src="/images/rm/rm112.gif" style="background: url(/m/Repozytorium.Podglad.aspx/0/50/faktonline/1364518735526.jpg) no-repeat;" alt="obrazek" title=""/></a></li></ul></div><div class="clr"></div><a class="HPMprevMini" href="javascript:void(0);"></a><a class="HPMnextMini" href="javascript:void(0);"></a><div class="clr"></div></div><hr/></div><script type="text/javascript"><!--
+google_ad_client = "ca-pub-5310645159024207";
+/* Fakt - wysoki sidebar */
+google_ad_slot = "3747260065";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><g:plus href="https://plus.google.com/117768946127080777558" rel="publisher" width="300" height="131" theme="light"></g:plus><div style="margin-bottom:10px;">
+<script type='text/javascript'><!--//<![CDATA[
+var m3_u = (location.protocol=='https:'?'https://ad.soft365.com/openx/www/delivery/ajs.php':'http://ad.soft365.com/openx/www/delivery/ajs.php');
+var m3_r = Math.floor(Math.random()*99999999999);
+if (!document.MAX_used) document.MAX_used = ',';
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?zoneid=139");
+document.write ('&amp;cb=' + m3_r);
+if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+document.write ("&amp;loc=" + escape(window.location));
+if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.soft365.com/openx/www/delivery/ck.php?n=ae0812a8&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.soft365.com/openx/www/delivery/avw.php?zoneid=139&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae0812a8' border='0' alt='' /></a></noscript>
+</div><div style="margin-bottom: 10px;">
+  <embed width="300" height="202" flashvars="file=http://www.fakt.pl/swf/loteria2013.flv&amp;skin=/swf/modieus.swf&amp;image=/swf/loteria2013.jpg" allownetworking="all" allowfullscreen="true" allowscriptaccess="always" volume="1" quality="high" name="mpl" id="mpl" style="undefined" src="/appweb/jwplayer/player.swf" type="application/x-shockwave-flash">
+  <script type="text/javascript">
+    var so = new SWFObject("/appweb/jwplayer/player.swf", "mpl","300","202","9");
+      so.addParam("allowscriptaccess","always");so.addParam("allowfullscreen","true");
+      so.addParam("allowscriptaccess","always");so.addParam("allownetworking","all");
+      so.addParam("volume","1")so.addVariable("file", "http://www.fakt.pl/swf/loteria2013.flv");
+      so.addVariable("skin","/swf/modieus.swf");so.addVariable("image","/swf/loteria2013.jpg");
+      so.write("mediaspace");
+  </script>
+</div>		<h4 class="ldx" style="margin-top: 5px;"><a href="/newsletter/">NEWSLETTER</a></h4>
+		<div id="NewslBox">
+  	    <form name="Newsletter" action="/newsletter/save.asp" method="post">
+				<h3>Już jest <strong>nowy</strong> Newsletter Fakt.pl<br/>Zamów za darmo, bądź na bieżąco!</h3>
+				<input type="text" name="Email" value="Podaj adres email" class="input1" style="width:197px; margin: 2px;"/>
+				<input type="image" class="submit1" src="/images/subm1.gif" value="Zapisz"/><br/>
+      </form>
+      <div class="clr"></div>
+		</div><div class="adRectangleB">
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(3288);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi/8191/104992/3288/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi/8191/104992/3288/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div><div id="tmRC3"><h4 class="ldx"><a href="/najpopularniejsze/">Najpopularniejsze</a></h4><div id="cLoud"><div id="cLoudInt"><a class="cl5" href="/tag/Alicja-Bachleda-Curus">Alicja Bachleda-Curuś</a> <a class="cl4" href="/tag/Alicja-Bachleda-Curus">Alicja Bachleda-Curuś</a> <a class="cl20" href="/tag/Aneta-Zajac">Aneta Zając</a> <a class="cl15" href="/tag/Anna-Mucha">Anna Mucha</a> <a class="cl6" href="/tag/Anna-Mucha">Anna Mucha</a> <a class="cl27" href="/tag/Barwy-szczescia">Barwy szczęścia</a> <a class="cl3" href="/tag/Doda">Doda</a> <a class="cl25" href="/tag/Dzieci-Gwiazd">Dzieci Gwiazd</a> <a class="cl8" href="/tag/Edyta-Gorniak">Edyta Górniak</a> <a class="cl9" href="/tag/Gwiazdy-Nago">Gwiazdy Nago</a> <a class="cl29" href="/tag/Gwiazdy-Nago">Gwiazdy Nago</a> <a class="cl7" href="/tag/Kasia-Cichopek">Kasia Cichopek</a> <a class="cl18" href="/tag/Kasia-Tusk">Kasia Tusk</a> <a class="cl16" href="/tag/Katarzyna-Skrzynecka">Katarzyna Skrzynecka</a> <a class="cl17" href="/tag/Kate-Middleton">Kate Middleton</a> <a class="cl10" href="/tag/Kinga-Rusin">Kinga Rusin</a> <a class="cl32" href="/tag/Komisarz-Alex">Komisarz Alex</a> <a class="cl2" href="/tag/M-jak-milosc">M jak miłość</a> <a class="cl1" href="/tag/M-jak-milosc">M jak miłość</a> <a class="cl14" href="/tag/Mam-talent">Mam talent</a> <a class="cl23" href="/tag/Must-Be-The-Music">Must Be The Music</a> <a class="cl22" href="/tag/Must-Be-The-Music">Must Be The Music</a> <a class="cl13" href="/tag/Na-Wspolnej">Na Wspólnej</a> <a class="cl12" href="/tag/Na-Wspolnej">Na Wspólnej</a> <a class="cl19" href="/tag/Nergal">Nergal</a> </div></div></div><div id="tmRC4"></div><div class="clr"></div> <div class="clr"></div><div style="margin-bottom: 10px;">
+<script type="text/javascript" id="AdTaily_Widget" src="http://static.adtaily.pl/widget.js#esAbpaALldX3pFS"></script>
+<noscript><a href="http://www.adtaily.pl">Reklama w internecie</a></noscript>
+</div><div class="adRectangleC">
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(3289);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi/8191/104992/3289/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi/8191/104992/3289/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div></div></div><div class="clr">&nbsp;</div></div><div class="adBillboardD">
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(4302);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi/8191/104992/4302/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi/8191/104992/4302/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+</div><div style="margin: 10px 0;">
+<script type="text/javascript">
+var _r = document.referrer ? encodeURIComponent(document.referrer) : '';
+var _w = encodeURIComponent(document.location.href);
+var _e = document.inputEncoding ? document.inputEncoding : document.charset;
+document.write('<scr'+'ipt type="text/javascript" src="http://ads.businessclick.com/awrapper?data=3917dc34e07c9c7180df2ea9ef103361c7180d0fe18858ce8b129e285c22cfa4&ref2='+_w+'&ref1='+_r+'&referer='+_r+'&webpage='+_w+'&v=2&encoding='+_e+'&oid=3917dc34e07c9c7180df2ea9ef103361"><\/scr'+'ipt>');
+</script>
+</div><div id="footer">
+<div class="clr" style="margin-top: 20px"></div>
+&copy; 2003-2013 Ringier Axel Springer Polska<br/>Żadna część jak i całość utworów umieszczonych na witrynie nie może być powielana i rozpowszechniana w jakikolwiek sposób<br />(w tym także elektroniczny, mechaniczny lub inny), na jakimkolwiek polu eksploatacji i w jakiejkolwiek formie, włącznie<br />z umieszczeniem w Internecie - bez pisemnej zgody Ringier Axel Springer Polska Sp. z o.o. Jakiekolwiek użycie lub wykorzystanie utworów w całości lub w części bez zgody Ringier Axel Springer Sp. z o.o. lub autorów jest zabronione i stanowi naruszenie prawa.
+</div>
+
+<div id="widget_facebook" style="right:-307px;">
+<div class="facein">
+<iframe style="width: 292px; height: 195px; border: 0; border-bottom: 1px solid #AAA; padding: 0; margin: 0; display: overflow" frameborder="0" scrolling="no" src="/inl/facebook_fans_slider.html"></iframe>
+<div style="font-size:8px; padding-left:10px; margin-bottom: 10px;"></div>
+<div style="height: 120px; overflow: hidden;"><g:plus href="https://plus.google.com/117768946127080777558" rel="publisher" width="292" height="131" theme="light"></g:plus></div>
+</div></div><div class="clr">&nbsp;</div><div id="metaTitleBottom">Mleko w czasie diety. Czy mleko jest tuczące <a href="/Zdrowie-aktualnosci,kategoria,108.html">Zdrowie aktualności</a></div></div><script type="text/javascript">
+function addClickCounters() {
+    function extractParamFromUri(uri, paramName) {
+        if (!uri) {
+            return;
+       }
+        var uri = uri.split('#')[0];  // Remove anchor.
+        var parts = uri.split('?');  // Check for query params.
+        if (parts.length == 1) {
+            return;
+        }
+       var query = decodeURI(parts[1]);
+        // Find url param.
+        paramName += '=';
+        var params = query.split('&');
+        for (var i = 0, param; param = params[i]; ++i) {
+            if (param.indexOf(paramName) === 0) {
+               return unescape(param.split('=')[1]);
+            }
+        }
+    };
+   function is(variable) {
+        return typeof (variable) !== 'undefined' && variable;
+    }
+    if (is(window.FB) && is(FB.Event) && is(FB.Event.subscribe)) {
+        FB.Event.subscribe('edge.create', function(targetUrl) {
+            //console.log('liked');
+            _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+        });
+        FB.Event.subscribe('edge.remove', function(targetUrl) {
+            //console.log('unliked');
+            _gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
+        });
+        FB.Event.subscribe('message.send', function(targetUrl) {
+            //console.log('send');
+            _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
+        });
+    }
+};
+function countClick(network, action) {
+    //console.log(network, action);
+    _gaq.push(['_trackSocial', network, action]);
+};
+(function() {
+addClickCounters();
+_gaq = window._gaq || [];
+_gaq.push(['_setAccount', 'UA-4033697-1']);
+_gaq.push(['_setCustomVar',1,'Category','Zdrowie aktualności',3]);
+_gaq.push(['_setCustomVar',2,'ShortUrl','null',3]);
+_gaq.push(['_setCustomVar',3,'pn','1',3]);
+_gaq.push(['_trackPageview']);
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script>
+if(window.document.location.href.match('fb_xd_fragment')!=null)
+{
+    var reg=/\?/
+    window.document.location.href.match('fb_xd_fragment');
+    var start=window.document.location.href.search(reg)
+    window.location=window.document.location.href.substring(0,start);
+}
+</script><script type="text/javascript">
+  window.___gcfg = {lang: 'pl'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script><script type="text/javascript" src="http://cookies.fakt.pl/resources/js/min.cookies.js"></script><script language="JavaScript" type="text/javascript">Restrictions.init();</script>
+<script type="text/javascript">
+if (typeof sas_manager != 'undefined') sas_manager.render(3347);
+</script>
+<noscript>
+<a href="http://diff3.smartadserver.com/call/pubjumpi/8191/104992/3347/S/[timestamp]/?">
+<img src="http://diff3.smartadserver.com/call/pubi/8191/104992/3347/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+<script type="text/javascript" language="JavaScript" src="http://data.asp24.pl/smartCheck.js"></script><script type="text/javascript" language="JavaScript">function nnResize(init) {  if( init==true ) with(navigator){ if ((appName=="Netscape")&&(parseInt(appVersion)==4)) onresize=nnResize; }  else location.reload();}nnResize(true);</script><!-- App: FILE GEN OK 2013-04-10 08:27:19 --></body></html>

@@ -1,0 +1,608 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>煥然新升 7?妓?似槳迦??6210評測-科技新聞-新浪新聞中心</title>
+<meta name="title" content="煥然新升 7?妓?似槳迦??6210評測-科技新聞-新浪新聞中心" />
+<meta name="description" content="煥然新升 7?妓?似槳迦??6210評測" />
+<meta name="keywords" content="煥然新升 7?妓?似槳迦??6210評測,科技新聞,新浪新聞中心" />
+<meta name="copyright" content="Copyright 2008 SINA.com All Rights Reserved" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="revisit-after" content="1" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link href="/css/news.css?20111228" rel="stylesheet" type="text/css" />
+<link href="/_common/jquery/bxSlider/bx_styles/bx_styles.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/_common/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_common/print.js"></script>
+<script type="text/javascript" src="/_common/sinapush_tools.js?_20120103"></script>
+</head>
+
+<body id="but_n">
+<!-- Header start -->
+<div id="header">
+	<!-- Homepage start -->
+	<div class="homepage"><a href="http://pad.sina.com.tw/" target="_blank" title="平板新浪"><img src="/images/icon_pad_version.gif" alt="平板新浪" /></a>&nbsp;|&nbsp;<a href="http://tw.weibo.com/" target="_blank">登入微博</a>&nbsp;|&nbsp;<a href="http://nz.sina.com.tw/member/asker?id=2&ch=news">客戶服務</a>&nbsp;|&nbsp;<a href="http://www.sina.com.tw">新浪網</a></div>
+	<!-- Homepage end -->
+
+	<div class="head">
+		<!-- SINA Logo start -->
+		<div class="sinalogo"><a href="http://news.sina.com.tw"><img src="/images/spacer.gif" alt="新浪新聞中心" width="176" height="50" border="0" /></a></div>
+		<!-- SINA Logo end -->
+		
+		<!-- Ad banner 728*90 start -->
+		<div class="banner">
+		
+		<!--start:Ad clickforce-->
+			<iframe marginheight="0" marginwidth="0" frameborder="0" width="728" height="90" scrolling="no" src="/include/coopad.html"></iframe>
+		<!--end:Ad clickforce-->
+		
+		</div>
+		<div class="clear"></div>
+		<!-- Ad banner 728*90 end -->
+	</div>
+
+	<div class="infobar">
+	<!-- Adtxt*3 start -->
+	<div class="ifbar">
+	<iframe marginheight="0" marginwidth="0" frameborder="0" width="740" height="29" scrolling="no" src="/include/glodtext3.html"></iframe>
+	</div>
+	<!-- Adtxt*3 end -->
+	
+	<!-- start:searchbar -->
+	<div class="searchbar">
+	<form name="sendkw" id="form_kw" method="get" action="http://search.sina.com.tw/search/search_n.do" target="_blank">
+	<span>搜尋／</span><input  type="text" id="kw" name="kw" class="input" size="26" />
+	<input type="hidden" name="type" value="news" />
+	<input type="submit" name="Submit" value="Go" class="but" />
+	</form>
+	</div> 
+	<script type="text/javascript"> 
+	$(document).ready(function(){
+		$("#form_kw").submit(function(){
+			$.ajax({
+			  type: "POST",
+			  url: "/keyword.php",
+			  dataType: "json",
+			  data: "keyword=" + encodeURI($("#form_kw #kw").val()),
+			  success: function(data){
+			  	return true;
+			  }
+			});
+		});
+	});
+	</script> 
+	<!-- end:searchbar -->
+	</div>
+	
+	<!-- Navigation start -->
+	<div class="navigation">
+	<ul>
+	<li class="index"><a href="http://news.sina.com.tw">新聞中心</a></li>
+	<li class="but_p"><em><a href="/video/">影音</a></em></li>
+	<li class="but_a"><a href="/realtime/">即時</a></li>
+	<li class="but_b"><a href="/focusreport/">專題</a></li>
+	<li class="but_c"><a href="/photo/">圖片</a></li>
+	<li class="but_d"><a href="/politics/">政治</a></li>
+	<li class="but_e"><a href="/society/">社會</a></li>
+	<li class="but_f"><a href="/ents/">娛樂</a></li>
+	<li class="but_g"><a href="/china/">兩岸</a></li>
+	<li class="but_h"><a href="/global/">國際</a></li>
+	<li class="but_i"><a href="/life/">生活</a></li>
+	<li class="but_j"><a href="/travel/">旅遊</a></li>
+	<li class="but_k"><a href="/sports/">體育</a></li>
+	<li class="but_l"><a href="/finance/">財經</a></li>
+	<li class="but_m"><a href="/edu/">文教</a></li>
+	<li class="but_n"><a href="/tech/">科技</a></li>
+	<li class="but_o"><a href="/business/">產業</a></li>
+	<li class="but_q"><a href="/strange/">新奇</a></li>
+	</ul>	
+	</div>
+	<!-- Navigation end -->
+	
+	<div class="clear"></div>
+	
+	<!-- Navigation2 start -->
+	<div class="navigation2">
+		<div class="menu">
+			<ul>
+				<li class="but_sp_a"><a href="/magazine/">雜誌</a></li>
+				<li class="but_sp_b"><a href="/books/">閱讀</a></li>
+				<!--
+				<li class="but_sp_c"><a href="#">藝術</a></li>
+				-->
+				
+				
+			</ul>	
+		<div class="clear"></div>
+		</div>
+		<div class="newsroll"><a id="rtBar_a" href="" title="" target="_blank"></a><em id="rtBar_time"></em></div>
+		<script type="text/javascript">$.getJSON("/include/rtBar.php",function(a){$("#rtBar_a").text(a.text).attr( { title:a.title , href:a.link });$("#rtBar_time").text(a.time)});</script>
+    </div>
+	<!-- Navigation2 end -->
+	
+	<div class="clear"></div>
+
+</div>
+<!-- Header end -->
+
+<!-- Middle start -->
+<div id="main">
+
+<!-- Content start -->
+<div id="middle">
+<div id="Content">
+<div class="path">
+<a href="/tech/">科技新聞</a> &gt; 
+	<a href="/cobrand/sinacn/">北京新浪網</a>
+</div>
+</div>
+
+<!-- Article start -->
+<div id="articles" class="articles">
+<strong><h1><!-- ArticleTitle Start -->煥然新升 7?妓?似槳迦??6210評測<!-- ArticleTitle End --></h1></strong><span class="subtitle"></span><!-- |date:'Y-m-d H:i' -->
+<cite>北京新浪網 (2012-01-16 14:40)</cite>
+
+<div class="forward">分享|
+<!-- weibo --><a title="分享至新浪微博" href="javascript:addtoweibo();"><img src="/images/icon_weibo.gif" title="分享至新浪微博" alt="分享至新浪微博" border="0"></a>
+<!-- facebook --><a title="分享至facebook" href="javascript:addtofacebook();"><img src="/images/icon_facebook.gif" title="分享至facebook" alt="分享至facebook" border="0"></a>
+<!-- PLURK --><a title="分享至PLURK" href="javascript:addtoplurk();"><img src="/images/icon_plurk.gif" title="分享至PLURK" alt="分享至PLURK" border="0"></a>
+<!-- twitter --><a title="分享至twitter" href="javascript:addtotwitter();"><img src="/images/icon_twitter.gif" title="分享至twitter" alt="分享至twitter" border="0"></a>
+<a href="http://forward.sina.com.tw/Forward/sendmsg" target="_blank" title="轉寄好友"><img src="/images/icon_mail.gif" border="0" /></a> <img id="print" src="/images/icon_print.gif" border="0" title="友善列印" /></div>
+<div class="clear"></div>
+
+<!-- Ad Google start -->
+<div id="googleads_w468h60_n1_MBF"><script language="javascript" type="text/javascript" src="/js/googleads_newscont_w468h60_n1_MBF.js"></script></div>
+<!-- Ad Google end -->
+<div class="clear"></div>
+
+
+
+
+<span name="iclickAdBody_Start" id="iclickAdBody_Start"></span>
+<div class="pcont">
+<p>
+<p>文/于雷</p><p>    煥然新"升"GALAXY Tab P6210登場</p><p>    平板電腦已經成為繼智能手機後最受大家喜愛的一樣電子設備。提到平板電腦，大家可能最先會想到苹果iPad，iPad兩代產品確實在全球受到了追捧，但其封閉的系統以及獨有的操作方式讓相當一部分人比較頭疼。除了iPad外，三星GALAX Tab系列應該是最被大家所熟知的平板電腦，尤其是首款7英寸的GALAXY Tab P1000，更是成為了我們在街頭經常能看到的便攜式平板電腦。</p><p> <br /><br />GALAXY Tab P6210登場</p><p>    隨著人們對這類產品需求的提高，之前GALAXY Tab P1000已經有些不能夠滿足大家的需求。三星也是充分考慮到用戶的種種需求，推出了GALAXY Tab的升級產品──GALAXY Tab P6210，也就是GALAXY Tab 7.0 Plus。新款的7英寸Tab分為兩款產品，分別是支持3G+WIFI的P6200與支持WIFI的P6210。新的平板采用了全新的雙核1.2GHz處理器，並升級到了Android3.2系統。到底GALAXY Tab 7.0 Plus有什么樣的具體表現呢？接下來我們就為大家帶來GALAXY Tab P6210的評測。</p>
+</p>
+</div>
+<span name="iclickAdBody_End" id="iclickAdBody_End"></span>
+<div class="clear"></div>
+
+   <!-- SiteBro Ysm start -->
+            <div id="googleads_w468h60_n2_MB">
+            <script type="text/javascript" src="http://biz.sitebro.tw/initads_sina_news.js?channel=ysmsina_news"></script>
+            </div>
+            <div class="clear"></div> 
+
+            <div id="aiweb_w468h70_n2">
+            <script type="text/javascript" src="http://biz.sitebro.tw/initads_sina_news_aiwed.js"></script>
+            </div>
+  <!-- SiteBro Ysm end --> 
+
+<div class="clear"></div>
+
+
+<div class="clear"></div>
+</div>
+<!-- Article end -->
+
+<div class="pgbutn">
+<input type="button" class="gobtn" onclick="javascript:window.location.href='/tech/';" value="回科技新聞首頁" />
+<input type="button" class="gobtn" onclick="javascript:window.location.href='/';" value="回新聞首頁" />
+</div>
+
+
+<!-- Ad Sponsor Sitebro start --> 
+<div class="adsponsor">
+	<script language="javascript">
+    document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="637" height="122" src="http://zh.adsbro.com/sina/iframe/?size=637_122&channel=ifra_news&ref='+encodeURIComponent(document.location)+'&loc='+encodeURIComponent(document.referrer)+'"></i'+'frame>');
+    </script>
+</div>
+<!-- Ad Sponsor Sitebro end -->
+<!-- Other News start -->
+<div class="other">
+<div class="tous"><h5>其他科技新聞</h5><span><img src="/images/icon03.gif" hspace="2" border="0" /><a href="/realtime/tech/tw/list.html">更多科技新聞</a></span></div>
+<div class="ocont">
+	<ul class="list">
+	 		<li><a href="/article/20120117/5613696.html">微軟發Win7新主題《日本的黃昏與黎明》</a><cite>【北京新浪網】2012-01-17 21:40</cite></li>
+			<li><a href="/article/20120117/5613695.html">把電影裝滿iPad 回家途中看大片不無聊</a><cite>【北京新浪網】2012-01-17 21:40</cite></li>
+			<li><a href="/article/20120117/5613694.html">4400mAh!　王SRBC502魔方移動電源評測</a><cite>【北京新浪網】2012-01-17 21:40</cite></li>
+			<li><a href="/article/20120117/5613750.html">
+      別等了！　華碩否認變形金剛有3G版本
+    </a><cite>【NOWnews今日新聞】2012-01-17 21:22</cite><img src="/images/camera.gif" border="0" align="absmiddle" /></li>
+			<li><a href="/article/20120117/5613635.html">三星大拜年 奢華W999西安熱賣19500元</a><cite>【北京新浪網】2012-01-17 21:10</cite></li>
+		</ul>
+</div>
+
+</div>
+<!-- Other News end -->
+
+<!-- weibo list start -->
+<iframe width="100%" height="300"frameborder="0" scrolling="no" src="http://widget.weibo.com/list/list.php?width=638&height=300&listid=220573259&uname=%E6%96%B0%E6%B5%AA%E5%8F%B0%E6%B9%BE%E7%88%86%E5%A4%B4%E6%9D%A1&uid=1888725725&listname=%E6%96%B0%E8%81%9E%E5%BE%AE%E5%8D%9A%E5%A4%A7%E5%B0%8F%E4%BA%8B&color=CCCCCC,CAEBFD,444444,0082CB,FFFFFF,FFFFEA&showcreate=0&isborder=1&showtitle=1"></iframe>
+<!-- weibo list end -->
+<!-- magazine start -->
+<div class="magz">
+	<div class="tou">
+  		<h3>發燒雜誌</h3><span><img src="/images/icon05.gif" border="0" align="top" /><a href="/magazine/" target="_blank">更多</a></span>
+	</div>
+	<div class="cont">
+		<!--midCont start-->
+		<div class="boxbg">
+			<!--leftCont start-->
+			<div class="sl">
+				<h3>Cheers 快樂工作人</h3>
+				<h5><a href="http://magazines.sina.com.tw/magazine/article/8688.html">社會新鮮人，投資策略保守至上</a></h5>
+				<p>&nbsp;《Cheers》雜誌於本期開始，推出「理財健診室」，邀請知名理財部落客「口...《<a href="http://magazines.sina.com.tw/magazine/article/8688.html" target="_blank">詳全文</a>》</p>
+			</div>
+			<!--leftCont end-->
+			<!--rightCont start-->
+			<div class="sr">
+				<div class="magbox">
+					<div class="pic"><a href="http://magazines.sina.com.tw/magazine/article/8688.html"><img src="/_data/magazine/bestMag/scope1_4.gif?_1326687717" width="90" height="102" border="0" /></a></div>
+				</div>
+			</div>
+			<!--rightCont end-->
+			<!--otherCont start-->
+			<ul class="otherlist">
+			   				<li><a href="http://magazines.sina.com.tw/magazine/article/8680.html">春節樂活遊提案》最好「玩」的博物館在台南！</a></li>
+			  				<li><a href="http://magazines.sina.com.tw/magazine/article/8641.html">我非固著之我：《姊妹》</a></li>
+			  				<li><a href="http://magazines.sina.com.tw/magazine/article/8613.html">疫苗防癌將成真</a></li>
+			  			</ul>
+			<!--otherCont end-->
+		<div class="clear"></div>
+		</div>
+		<!--midCont end-->
+	<div class="clear"></div>
+	</div>
+<div class="clear"></div>
+</div>
+<!-- magazine end -->
+<!-- goodbooks start -->
+<div class="gdbooks">
+  <div class="tou">
+  		<h3>強打好書</h3><span><img src="/images/icon05.gif" border="0" align="top" /><a href="/books/">更多</a></span>
+	</div>
+	<div class="cont">
+		<!--midCont start-->
+		<div class="bksinfo">
+			<div class="sl">
+				<h3><a href="/books/leisure/binfo/1595.html">你還不懂的職場心理</a></h3>
+				<div class="author">作者：裴鈺</div>
+				<p>★超實用！人際教戰守則，隨時掌握職場風向球！★超神準！工作自我評量，專家保證信度、效度NO.1！★超輕鬆！測驗、解析、延伸三步驟，助你成為職場大紅人！...《<a href="/books/leisure/binfo/1595.html">詳全文</a>》</p>
+			</div>
+			<div class="sr">
+			    <div class="bksbox_hd"><img src="/images/spacer.gif" border="0" height="7" /></div>
+				<div class="bksbox">
+					<div class="pic"><a href="/books/leisure/binfo/1595.html"><img src="/books/images/b-2-0x225-1320034221113.gif" width="90" border="0" /></a></div>
+				</div>
+				<div class="bksbox_btm"><img src="/images/spacer.gif" border="0" height="10" /></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+		<!--midCont end-->
+	</div>
+	<div class="clear"></div>
+</div>
+<!-- goodbooks end -->
+<div class="clear"></div>
+<!-- START:Editor Commend -->
+<div class="comed">
+	<div class="tou"><h3>編輯首推</h3></div>
+	<div class="cont">
+		<!-- area start-->
+		 		<div class="commlist">
+			<div class="areatou">布三布四玩生活</div>
+			<div class="areacont">
+				<a href="http://blog.sina.com.tw/d0525/" target="_blank"><img src="/_data/otherImg/1313639483530.gif" border="0" width="100" height="75" /></a>
+				<p><a href="http://blog.sina.com.tw/d0525/" target="_blank">用你的小衣物，做你內心的小動物</a></p>
+			</div>
+			<div class="areabtm"><img src="/images/spacer.gif" border="0" height="11" /></div>
+		</div>
+				<div class="commlist">
+			<div class="areatou">瓦辛</div>
+			<div class="areacont">
+				<a href="http://blog.sina.com.tw/wasin/" target="_blank"><img src="/_data/otherImg/1322818181168.gif" border="0" width="100" height="75" /></a>
+				<p><a href="http://blog.sina.com.tw/wasin/" target="_blank">在礁溪，遇見京野菜的美好</a></p>
+			</div>
+			<div class="areabtm"><img src="/images/spacer.gif" border="0" height="11" /></div>
+		</div>
+				<div class="commlist">
+			<div class="areatou">魔女克洛蒂</div>
+			<div class="areacont">
+				<a href="http://blog.sina.com.tw/cloudy/" target="_blank"><img src="/_data/otherImg/1313639483522.gif" border="0" width="100" height="75" /></a>
+				<p><a href="http://blog.sina.com.tw/cloudy/" target="_blank">我一步步遠離了喧嘩世界，悄悄跌進</a></p>
+			</div>
+			<div class="areabtm"><img src="/images/spacer.gif" border="0" height="11" /></div>
+		</div>
+				<div class="commlist">
+			<div class="areatou">決戰2012</div>
+			<div class="areacont">
+				<a href="http://news.sina.com.tw/event/2012Election/index.php" target="_blank"><img src="/_data/otherImg/1322816896033.gif" border="0" width="100" height="75" /></a>
+				<p><a href="http://news.sina.com.tw/event/2012Election/index.php" target="_blank">全民投家換你作 投票送好禮</a></p>
+			</div>
+			<div class="areabtm"><img src="/images/spacer.gif" border="0" height="11" /></div>
+		</div>
+				<!-- area end-->
+		<div class="clear"></div>
+	</div>
+</div>
+<!-- END:Editor Commend -->
+<div class="clear"></div>
+<!-- weibo bulkfollow start -->
+<script type="text/javascript">document.write('<iframe width="100%" height="489" frameborder="0" scrolling="no" src="http://widget.weibo.com/relationship/bulkfollow.php?uids=1803608792,1986544897,2150766094,1918327921,2028990475&wide=1&color=C2D9F2,FFFFFF,0082CB,666666&showtitle=1&showinfo=1&sense=0&verified=1&count=5&refer=&dpc=1"></iframe>')</script>
+<!-- weibo bulkfollow end -->
+
+</div>
+<!-- Content end -->
+
+<!-- SideRight start -->
+<div id="sideright">
+<!-- hots key start -->
+<div class="hkey">
+<div class="hots_tou"><img src="/images/spacer.gif" alt="熱門關鍵字" height="8" border="0" /></div>
+<div class="cont">
+	<!-- start:關鍵字 -->
+	<div class="keywords">
+	<!-- <img src="/images/hots03.gif" border="0" align="absmiddle" /> -->
+	<span id="keyword"></span>
+	<script type="text/javascript" src="/_common/search.js?20110630"></script>
+	</div>
+	<!-- start:SiteBro HotKW -->
+	<div class="keywords">
+	<span>
+		<script src="/_data/adsbro_hotspot.js"></script>
+	</span>
+	</div>
+	<!-- end:SiteBro HotKW -->	
+	<!-- end:關鍵字 -->
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="8" /></div>
+<div class="clear"></div>
+</div>
+<!-- hots key end --><div class="clear"></div>
+<!--Ad Banner 300x100 start-->
+<div class="ad300"> 
+	<!--AdForward Begin:-->
+	<iframe marginheight="0" marginwidth="0" frameborder="0" width="300" height="100" scrolling="no" src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|News_300x100&db=twsina&border=0&local=yes">
+	<noscript><a href="http://twsina.allyes.com/main/adfclick?user=twsina|2005_news|News_300x100&db=twsina"><img src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|News_300x100&db=twsina" width="300" height="100" border="0"></a></noscript></iframe>
+	<!--AdForward End-->
+</div>	
+<!--Ad Banner 300x100 end-->
+<div class="clear"></div><!-- Ad Google start -->
+<div id="googleads_w300h250_n4_MB"><script language="javascript" type="text/javascript" src="/js/googleads_newsall_w300h250_n4_MB.js"></script></div>
+<!-- Ad Google end --><div class="clear"></div>
+
+<!-- Ad Sponsor Group Buying start -->
+<iframe marginheight="0" marginwidth="0" frameborder="0" width="300" height="184" scrolling="no" src="/include/adsponsor_gbuy.html"></iframe>
+<!-- Ad Sponsor Group Buying end -->
+<div class="clear"></div>
+
+<!-- weibo weiboshow start -->
+<iframe width="100%" height="350" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?width=0&height=350&fansRow=2&ptype=1&speed=0&skin=9&isTitle=1&noborder=1&isWeibo=1&isFans=0&uid=1888725725&verifier=06903df6"></iframe>
+<!-- weibo weiboshow end -->
+
+	
+	<!-- ranking START -->
+<div class="catyrank">
+<div class="tec_tou"><img src="/images/spacer.gif" alt="科技瀏覽排行" height="30" border="0" /></div>
+<div class="cont">
+  	<div class="crarea">
+		<div class="crankl"><img src="/images/top01.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120115/5584274.html">1.2GHz超薄雙核 摩托羅拉XT910售價3050元</a><cite>【北京新浪網】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="crarea">
+		<div class="crankl"><img src="/images/top02.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120115/5583746.html">售價不便宜 索尼新機Xperia S價格曝光</a><cite>【北京新浪網】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="crarea">
+		<div class="crankl"><img src="/images/top03.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120116/5589143.html">CES2012新品指向：顛覆苹果</a><cite>【北京新浪網】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="crarea">
+		<div class="crankl"><img src="/images/top04.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120115/5583530.html">售3790元 索尼Xperia S雙核手機價格曝光</a><cite>【北京新浪網】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="crarea">
+		<div class="crankl"><img src="/images/top05.gif" border="0" /></div>
+		<div class="crankr"><a href="/article/20120116/5591067.html">iPhone 4S暴漲 節前不宜出手手機盤點(5)</a><cite>【北京新浪網】</cite></div>
+	</div>
+	<div class="clear"></div>
+ 	<div class="submore"><img src="/images/icon03.gif" hspace="2" border="0" /><a href="/ranking/tech/">更多</a></div>
+
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="6" /></div>
+<div class="clear"></div>
+</div>
+<!-- ranking END -->
+<div class="sadbanner">
+<!--AdForward Begin:-->
+<iframe marginheight="0" marginwidth="0" frameborder="0" width="300" height="250" scrolling="no" src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|300x250&db=twsina&border=0&local=yes"><noscript><a href="http://twsina.allyes.com/main/adfclick?user=twsina|2005_news|300x250&db=twsina"><img src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|300x250&db=twsina" width="300" height="250" border="0"></a></noscript></iframe>
+<!--AdForward End-->
+</div>
+<div class="clear"></div>
+
+<!-- categ subject start -->
+<div class="caty">
+<div class="tec_tou"><img src="/images/spacer.gif" alt="科技專題" height="30" border="0" /></div>
+<div class="cont">
+<div class="catl"><div class="catpic"><a href="/focusreport/tech/588.html"><img src="/focusreport/images/focusreport-13178686766893.jpg" width="90" height="90" border="0" /></a></div>
+</div>
+<div class="catr"><h2><a href="/focusreport/tech/588.html">賈伯斯逝世 震驚全球</a></h2>
+<p>叱吒風雲的蘋果前執行長賈伯斯今天因罕見胰臟疾病逝《<a href="/focusreport/tech/588.html">詳全文</a>》</p>
+<div class="submore"><img src="/images/icon03.gif" hspace="2" border="0" /><a href="/focusreport/tech/list.html">更多</a></div>
+</div>
+<div class="clear"></div>
+<ul class="catlist">
+   	<li><a href="/focusreport/tech/589.html">賈伯斯逝世新聞總覽</a></li>
+  	<li><a href="/focusreport/tech/570.html">賈伯斯辭職 果迷震驚</a></li>
+  </ul>
+
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="6" /></div>
+<div class="clear"></div>
+</div>
+<!-- categ subject end -->
+<!--Ad Banner 300x250_2 start-->
+<div class="sadbanner">
+	<!--AdForward Begin:-->
+	<iframe marginheight="0" marginwidth="0" frameborder="0" width="300" height="250" scrolling="no" src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|300x250_2&db=twsina&border=0&local=yes"><noscript><a href="http://twsina.allyes.com/main/adfclick?user=twsina|2005_news|300x250_2&db=twsina"><img src="http://twsina.allyes.com/main/adfshow?user=twsina|2005_news|300x250_2&db=twsina" width="300" height="250" border="0"></a></noscript></iframe>
+	<!--AdForward End-->
+</div>
+<!--Ad Banner 300x250_2 end--><!-- cooperation start -->
+<div class="coop">
+<div class="tou"><img src="/images/spacer.gif" alt="合作媒體" height="35" border="0" /></div>
+<div class="cont">
+<div class="cooptw">
+	<ul class="clist"><h6>台灣：</h6>
+	   		<li><a href="/cobrand/cnanews/">‧中央社</a></li>
+	  		<li><a href="/cobrand/bccnews/">‧中廣新聞網</a></li>
+	  		<li><a href="/cobrand/rtinews/">‧中央廣播電台</a></li>
+	  		<li><a href="/cobrand/nownews/">‧NOWnews今日新聞</a></li>
+	  		<li><a href="/cobrand/nernews/">‧教育廣播電台</a></li>
+	  		<li><a href="/cobrand/ftvnews/">‧民視</a></li>
+	  		<li><a href="/cobrand/ptsnews/">‧公視</a></li>
+	  		<li><a href="/cobrand/forbes/">‧富比世</a></li>
+	  		<li><a href="/cobrand/xprnnews/">‧美通社(亞洲)</a></li>
+	  		<li><a href="/cobrand/uhonews/">‧優活健康資訊網</a></li>
+	  		<li><a href="/cobrand/ttnews/">‧大台灣旅遊網</a></li>
+	  		<li><a href="/cobrand/travelrich/">‧旅遊經</a></li>
+	  		<li><a href="/cobrand/vrhouse/">‧網路地產王</a></li>
+	  		<li><a href="/cobrand/awakeningtw/">‧台灣醒報</a></li>
+	  		<li><a href="/cobrand/investor/">‧財訊快報</a></li>
+	  		<li><a href="/cobrand/24drs/">‧24Drs.com</a></li>
+	  		<li><a href="/cobrand/acn/">‧ACN</a></li>
+	  		<li><a href="/cobrand/hitfm/">‧Hit Fm聯播網</a></li>
+	  		<li><a href="/cobrand/hakkatv/">‧客家電視台</a></li>
+	  		<li><a href="/cobrand/looklife/">‧LOOK生活網</a></li>
+	  		<li><a href="/cobrand/pollster/">‧波仕特線上市調網</a></li>
+	  		<li><a href="/cobrand/marketwatch/">‧Market Watch</a></li>
+	  		<li><a href="/cobrand/cnyes/">‧鉅亨網</a></li>
+	  		<li><a href="/cobrand/lihpao/">‧台灣立報</a></li>
+	  		<li><a href="/cobrand/tripass/">‧景點家 Tripass</a></li>
+	  		<li><a href="/cobrand/liontravel/">‧欣傳媒</a></li>
+	  		<li><a href="/cobrand/chinayes/">‧Yes娛樂</a></li>
+	  		<li><a href="/cobrand/crowninc/">‧CROWNinc潮流媒體</a></li>
+	  		<li><a href="/cobrand/tcfnews/">‧台灣競爭力論壇</a></li>
+	  		<li><a href="/cobrand/newstaiwan/">‧台灣新聞報</a></li>
+	  		<li><a href="/cobrand/alifetale/">‧生活童話</a></li>
+	  		<li><a href="/cobrand/cdnnews/">‧中央日報</a></li>
+	  		<li><a href="/cobrand/newtalk/">‧新頭殼</a></li>
+	  		<li><a href="/cobrand/suntravel/">‧太陽網</a></li>
+	  	</ul>
+</div>
+<div class="clear"></div>
+<div class="coopcn">
+	<ul class="clist"><h6>中國大陸：</h6>
+	   		<li><a href="/cobrand/sinacn/">‧北京新浪網</a></li>
+	  		<li><a href="/cobrand/expo/">‧上海世博</a></li>
+	  		<li><a href="/cobrand/fifa2010/">‧南非世足</a></li>
+	  	  <li><a href="http://archive.news.sina.com.tw/" target="_blank">‧新聞資料庫</a></li>
+	</ul></div>
+<div class="clear"></div>
+<div class="coopmag">
+	<ul class="clist"><h6><a href="/magazine/">雜誌類</a></h6></ul>
+</div>
+<div class="clear"></div>
+<div class="coopmag">
+	<ul class="clist"><h6><a href="/books/">閱讀類</a></h6></ul>
+</div>
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="10" /></div>
+<div class="clear"></div>
+</div>
+<!-- cooperation end -->
+<!-- news archive start -->
+<div class="oldnews">
+<div class="tou"><h3>歷史新聞</h3></div>
+<div class="cont">
+	<ul>
+		         <li><a href="http://archive.news.sina.com.tw/%E7%8E%A9%E5%AE%B6-%E6%9A%97%E9%BB%91-%E4%B8%AD%E5%9C%8B-559867/" target="_blank">暗黑之父Max Schaefer：中國玩家是真正的玩家</a><cite>2011-06-18</cite></li>
+		        <li><a href="http://archive.news.sina.com.tw/%E9%81%8A%E6%88%B2-%E6%84%9B%E7%8E%A9-%E9%A2%A8%E5%91%B3-576838/" target="_blank">勝思網絡邀模特助陣 愛玩遊戲喜歡原始風味</a><cite>2011-07-31</cite></li>
+		        <li><a href="http://archive.news.sina.com.tw/%E8%81%AF%E9%80%9A-%E9%81%8A%E6%88%B2-%E7%AC%AC%E4%B9%9D-576829/" target="_blank">聯通沃商店第九城市戰略合作 共建社交遊戲頻道</a><cite>2011-07-31</cite></li>
+		        <li><a href="http://archive.news.sina.com.tw/%E6%AE%AD%E5%B1%8D-%E8%A5%BF%E9%9B%85%E5%9C%96-%E9%A1%8C%E6%9D%90-585228/" target="_blank">西雅圖遊戲展正式開幕 殭屍題材體感頻頻亮相</a><cite>2011-08-27</cite></li>
+		        <li><a href="http://archive.news.sina.com.tw/%E4%BC%AF%E6%96%AF-%E8%B3%88%E4%BC%AF%E6%96%AF-%E5%BD%B1%E7%89%87-586756/" target="_blank">賈伯斯辭世紀念影片</a><cite>2011-10-06</cite></li>
+			</ul>
+    
+	<div class="clear"></div>
+    
+	<div class="submore"><img src="/images/icon03.gif" hspace="2" border="0" /><a href="http://archive.news.sina.com.tw/2011/jan/17/" target="_blank">更多</a></div>
+
+<div class="clear"></div>
+</div>
+<div class="btm"><img src="/images/spacer.gif" border="0" height="6" /></div>
+<div class="clear"></div>
+</div>
+<!-- news archive end --></div> 
+<!-- SideRight end -->
+
+<div class="clear"></div>
+</div>
+<!-- Middle end -->
+
+<!-- Footer start -->
+<div id="footer">
+<a href="http://home.sina.com/" target="_blank">北美新浪網</a> | 
+<a href="http://www.sina.com.cn/" target="_blank">北京新浪網</a> | 
+<a href="http://www.sina.com.hk" target="_blank">香港新浪網</a> | 
+<a href="http://www.sina.com/" target="_blank">SINA.com</a> | 
+<a href="http://english.sina.com/" target="_blank">SINA English</a><br />
+<a href="http://nz.sina.com.tw/member/asker?id=2&ch=news" target="_blank">意見信箱</a> | 
+<a href="http://corp.sina.com.cn/chn/sina_index.html" target="_blank">關於新浪</a> | 
+<a href="http://www.sina.com.tw/info/sina_info.html" target="_blank">新浪新聞室</a> | 
+<a href="http://www.sina.com.tw/about/privacy.html" target="_blank">隱私權政策</a> | 
+<a href="http://www.sina.com.tw/about/declaration.html" target="_blank">聲明啟事</a> |
+<a href="http://bonus.sina.com.tw/saleskit/why.html" target="_blank">刊登廣告</a><br />
+<span class="copyrights">Copyright &copy; 1996-<script language="javascript" type="text/javascript">var now=new Date();document.write(now.getFullYear());</script> SINA.com All Rights Reserved </span> 
+</div>
+<!-- START:Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+// By news.sina.com.tw
+try {
+var pageTracker = _gat._getTracker("UA-4068118-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script type="text/javascript">
+// By magazines.sina.com.tw
+try {
+var pageTracker = _gat._getTracker("UA-8600085-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script type="text/javascript">
+// By books.sina.com.tw
+try {
+var pageTracker = _gat._getTracker("UA-8600127-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END:Google Analytics -->
+
+<!-- Start : SiteBro News -->
+<script type="text/javascript" src="http://track.zh.sitebro.com/sitebro_track_sinatw.js?userid=NA==&websiteid=NjM1NQ=="></script><a href="http://zh.sitebro.com/zh1826355"><img src="http://zh.sitebro.com/img/px.gif" width="1" height="1" style="display:none;" /></a>
+<!-- End : SiteBro News -->
+<!-- Footer end -->
+<script language="javascript" type="text/javascript">
+bust = Math.floor(1000000*Math.random());
+document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://dotmore.sina.com.tw/verify.aspx?w=75&charset=utf-8&ord='+bust+'?">');
+document.write('</'+'SCRIPT>');
+</script>
+</body>
+</html>
+

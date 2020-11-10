@@ -1,0 +1,597 @@
+ 
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<script language="JavaScript">
+
+function checkEmail(email) {
+	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)){
+	return (true)
+	}
+	alert("Please enter correct e-mail")
+	return (false);
+}
+
+
+function validateForm(theForm){
+		
+	if(theForm.name.value == ""){
+		//Please enter user id
+		alert("Please enter your name!");
+		theForm.name.focus();
+		return false;
+	}
+
+	if(theForm.email.value == ""){
+		//Please enter user id
+		alert("Please enter your email address!");
+		theForm.email.focus();
+		return false;
+	}
+
+	if(checkEmail(theForm.email.value) == false){
+		theForm.email.focus();
+		return false;
+	}
+
+
+	if(theForm.phno.value == ""){
+		//Please enter user id
+		alert("Please enter your phone no!");
+		theForm.phno.focus();
+		return false;
+	}
+
+	
+	if(theForm.commentText.value == ""){
+		//Please enter user id
+		alert("Please enter your Comment here!");
+		theForm.commentText.focus();
+		return false;
+	}
+
+	
+	return true;
+}
+
+
+var min=8;
+var max=18;
+function increaseFontSize() {
+   var p = document.getElementsByTagName('p');
+   for(i=0;i<p.length;i++) {
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 12;
+      }
+      if(s!=max) {
+         s += 1;
+      }
+      p[i].style.fontSize = s+"px"
+   }
+}
+function decreaseFontSize() {
+   var p = document.getElementsByTagName('p');
+   for(i=0;i<p.length;i++) {
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 12;
+      }
+      if(s!=min) {
+         s -= 1;
+      }
+      p[i].style.fontSize = s+"px"
+   }   
+}
+
+
+
+</Script>
+
+
+<TITLE>Exponents slam New York Times' 'Yoga can damage your body' article</TITLE>
+
+<META NAME="description" CONTENT="Exponents slam New York Times' 'Yoga can damage your body' article">
+
+<META NAME="keywords" CONTENT="Exponents slam New York Times' 'Yoga can damage your body' article">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/css/style.css" type="text/css" rel="stylesheet" />
+<script src="/js/toggle.js" language="JavaScript" type="text/javascript" ></script>
+
+</head>
+<body>
+
+<div id="main">
+<div class="head">
+
+
+
+
+
+<div class="tp-dt">
+
+
+
+
+<table width="98%"  border="0" cellspacing="0" cellpadding="0">
+  <tr >
+    <td align="left" valign="top"></td>
+    
+    <td align="right" valign="top">
+		
+		Tue, Jan 17, 2012
+</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><a href="/index.jsp"><img src="/images/logo.jpg" border="0" style="margin-left:10px;margin-bottom:10px; border:0px solid #000000;"/></a></td>
+
+    <td align="right" valign="top"> <script type="text/javascript"><!--
+   e9 = new Object();
+   e9.size = "728x90,468x60";
+   e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/newstrackindia/ROS/tags.js"></script>
+</td>
+   
+  </tr>
+ 
+</table>
+
+
+</div>
+
+
+<div class="log">&nbsp;&nbsp;&nbsp;&nbsp;
+  
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="tp-lnk">
+<a href="/index.jsp">HOME</a> |
+<a href="/news-article/society/">SOCIETY</a> |  <a href="/news-article/world">WORLD</a>  |  <a href="/news-article/economy">ECONOMY</a> |  <a href="/news-article/sports">SPORTS</a>  |  
+<a href="/news-article/sciencetechnology/">SCI-TECH</a>  |  <a href="/news-article/editorial">EDITORIAL</a>  |  <a href="/news-article/features">FEATURES</a>  |  <a href="/news-article/humour">HUMOUR</a>  |  <a href="/news-article/health">HEALTH</a> |  <a href="/news-article/lifestyle">LIFE STYLE</a>  |  <a href="/news-article/artsculture">ARTS-CULTURE</a>  |  <a href="/news-article/entertainment">ENTERTAINMENT</a>  |  <a href="/news-article/special">SPECIAL</a>
+
+</div>
+
+
+
+
+
+<br>
+		<div>
+
+		<form name="search" method="get" action="/search/">
+ 
+
+
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td align="left" valign="top" width="35%">
+			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td align="left" valign="top" class="search"  height="40" WIDTH="50">Search</td>
+				<td align="left" valign="top" WIDTH="210"><input type="text" name="q" class="inputtext" value=""/></td>
+				<td align="left" valign="top"><input type="Submit" value="Search" class="submitbutton"/></td>
+			  </tr>
+			  <tr>
+				<td align="left" valign="top" class="search-hd" height="40">Look for:</td>
+				<td align="left" valign="top" colspan="2">
+					<input type="hidden" name="d" value="">
+				&nbsp; <input type="radio" value="1" checked
+  name="r"> Last 1 Month
+				&nbsp; <input type="radio" value="6"   name="r"> Last 6 Months
+				&nbsp; <input type="radio" value="all"   name="r"> All time
+				</td>
+			  
+			  </tr>
+			</table></td>
+
+
+
+			<td align="left" valign="top"  width="65%" style="border:1px solid #d1cfcf">
+					  <div>			
+						
+							<div class="ot-cont">TOP SEARCHES:
+							 
+							
+<a href='/search/?q=UGC&r=1&d='>UGC</a>,
+							
+<a href='/search/?q=Delhi&r=1&d='>Delhi</a>,
+							
+<a href='/search/?q=Maharashtra&r=1&d='>Maharashtra</a>,
+							
+<a href='/search/?q=Rajasthan&r=1&d='>Rajasthan</a>,
+							
+<a href='/search/?q=Mumbai&r=1&d='>Mumbai</a>,
+							
+<a href='/search/?q=Karnataka&r=1&d='>Karnataka</a>,
+							
+<a href='/search/?q=Agra&r=1&d='>Agra</a>,
+							
+<a href='/search/?q=Police&r=1&d='>Police</a>,
+							
+<a href='/search/?q=inflation&r=1&d='>inflation</a>,
+							
+<a href='/search/?q=ICICI Bank&r=1&d='>ICICI Bank</a>,
+
+			<a href="/newssearch.jsp"><img src="/images/moresearches.gif" border="0"></a>				
+							</div>	
+						
+			  </div>
+			
+			</td>
+		  </tr>
+		</table>
+		</form>
+		</div>
+
+		
+
+
+
+
+</div>
+
+
+<div class="content">
+<!-- Right nav starts -->
+<div class="right-nav-in">
+<div >
+        <div align="right">
+
+
+<!--
+		<form style="margin:0px;padding:0px;">
+	    <input type="text"  name="t1"  style="width:100px;margin:0px 3px 5px 10px;" />
+	    <input type="radio"  name="r1"  checked="checked"/>
+	    <img src="/images/new-tr-logo.gif" hspace="3"/>
+	    <input type="radio"  name="r1"  />
+	    <img src="/images/ggle.gif" style="margin:0px 10px 0px 3px; "/>
+	    <input type="image"  src="/images/go-button.gif" /></form>
+-->		
+		</div>	
+</div>
+<div id="dd2"class="box-rt" style="display:none;"> <a href="#"><img src="/images/features.jpg" align="left" border="0" hspace="10"/></a> 
+        <div class="news-cont2"> 
+          <div class="box-left-hd1" ><a href="#">&nbsp;</a></div>
+          &nbsp;</div>
+      </div>
+      <div id="dd3"class="box-rt" style="display:none;"> <a href="#"><img src="/images/entertainment.jpg" align="left" border="0" hspace="10"/></a> 
+        <div class="news-cont2"> 
+          <div class="box-left-hd1" ><a href="#">&nbsp;</a></div>
+          &nbsp;</div>
+      </div>
+
+<div class="box-hd-in" >OTHER TOP STORIES</div>
+
+
+
+              <div>			
+				
+					<div class="ot-cont"><a href="/newsdetails/2012/01/17/260348-Manipur-journalists-condemn-threats-to-media-from-insurgents.html">Manipur journalists condemn threats to media from insurgents</a></div>	
+				
+					<div class="ot-cont"><a href="/newsdetails/2012/01/17/260347-X-ray-of-rare-Shiva-statue-surprises-Amsterdam-museum.html">X-ray of rare Shiva statue surprises Amsterdam museum</a></div>	
+				
+					<div class="ot-cont"><a href="/newsdetails/2012/01/17/260346-Stacy-Keibler-signed-up-by-famous-talent-agency.html">Stacy Keibler signed up by famous talent agency</a></div>	
+				
+					<div class="ot-cont"><a href="/newsdetails/2012/01/17/260345-India-China-set-up-working-mechanism-to-resolve-boundary-issues.html">India, China set up working mechanism to resolve boundary issues</a></div>	
+				
+					<div class="ot-cont"><a href="/newsdetails/2012/01/17/260344-Jodie-Marsh-wants-another-boob-job-despite-worrying-over-PIP-.html">Jodie Marsh wants another boob job despite worrying over PIP </a></div>	
+				
+					<div class="ot-cont"><a href="/newsdetails/2012/01/17/260343--Multicolored-hair-band-lands-tennis-star-Laura-Robson-in-gay-rights-controversy.html">'Multicolored hair band' lands tennis star Laura Robson in gay rights controversy</a></div>	
+				
+			 </div>
+   
+<br />
+<br />
+<div class="rt-add">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-8521061892309803";
+//200x200, created 1/11/08
+google_ad_slot = "3713164742";
+google_ad_width = 200;
+google_ad_height = 200;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div><br />
+<div class="rt-hd-in" >More from this section</div>
+				<ul class="ot-cont-li">
+
+
+<li>
+<a href="/newsdetails/2012/1/17/149-Prenatal-alcohol-exposure-can-lead-to-abnormalities-in-offspring.html">Prenatal alcohol exposure can lead to abnormalities in offspring</a>
+</li>
+
+
+<li>
+<a href="/newsdetails/2012/01/17/260314-Doubts-cast-over-HRT-link-to-breast-cancer-.html">Doubts cast over HRT link to breast cancer </a>
+</li>
+
+
+<li>
+<a href="/newsdetails/2012/01/17/260294-Internet-could-help-nurses-treat-obesity-Southampton-Varsity-study.html">Internet could help nurses treat obesity: Southampton Varsity study</a>
+</li>
+
+
+<li>
+<a href="/newsdetails/2012/01/17/260287-Vitamin-D-pills-may-help-prevent-blindness-in-elders.html">Vitamin D pills may help prevent blindness in elders</a>
+</li>
+
+
+<li>
+<a href="/newsdetails/2012/01/17/260249-Gaming-may-be-a-coping-mechanism-for-depression-.html">Gaming may be a coping mechanism for depression </a>
+</li>
+
+
+<li>
+<a href="/newsdetails/2012/01/17/260240-Prenatal-alcohol-exposure-can-lead-to-abnormalities-in-offspring.html">Prenatal alcohol exposure can lead to abnormalities in offspring</a>
+</li>
+
+
+
+</ul>
+<br />
+<br />
+<div style="border: 1px solid #225286;margin-right:50px;width:180px;float:right;margin-bottom:30px;">
+<div style="text-align:center;margin-bottom:20px;margin-top:20px;">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-8521061892309803";
+//160x600, created 1/11/08
+google_ad_slot = "1829600949";
+google_ad_width = 160;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+</div>
+</div>
+</div>
+
+<!-- Right nav ends  -->
+<!-- Main content sarts-->
+<div class="main-content">
+
+
+ 
+<div align="left" class="left1-cat">
+
+<a href="/index.jsp">Home</a>
+
+		<font color="red">::</font> 
+		
+		
+			<a href="/news-article/health/">Health</a>
+		
+
+	
+</div>
+
+
+
+ <div align="left" class="left2-in" >	
+ <h1>Exponents slam New York Times' 'Yoga can damage your body' article</h1>
+<div class="dt-in"> 
+<span style="float:right;">
+
+London,
+
+
+Sun, 15 Jan 2012</span>
+<span>ANI</span>
+</div>
+<p>
+
+
+
+<p>London, Jan 15 (ANI): 'Yoga can damage your body' article in the New York Times has thrown its exponents off-balance and outraged a 5illion dollars by saying that the keep fit regime is bad for the body.</p>&nbsp;<p>This article was published on guardian.co.uk on Saturday 14 January 2012 and a version appeared on p26 of the Main section section of the Observer on Sunday 15 January 2012.</p>&nbsp;<p>One of the most common sights in New York is slim, young professional women scurrying across the city with rolled-up yoga mats under theirrms and determined looks, cramming in a dawn or lunchtime session between power moves in the office.</p>&nbsp;<p>So perhaps it should come as no surprise that an incendiary magazine piece in the New York Times, under the headline, 'How yoga can wreck your body', has turned the usually chilled community of yoga-lovers upside down. In the US, and perhaps even in Britain, where an estimated million people practice regularly, yoga may never be theame again.</p>&nbsp;<p>The offending article, which appeared across several pages of the paper's prestigious Sunday magazine, was written by senior science writer William Broad. In it, he alleged that students and even "celebrated teachers" were injuring themselves "in droves" by over-ambitious and under-taught yoga moves.</p>&nbsp;<p>He also quoted at length the views of local yoga veteran Glenn Black, who seriously hurt his back after years of practice. According to Black, "the vast majority of people should give up yoga altogether"ecause it's too likely to cause them serious damage.</p>&nbsp;<p>The result has been acrimony, recrimination and a ferocious backlash from representatives of a 5 billion dollars-plus industry in Americaith an estimated 20 million followers - five times more than 10 years ago.</p>&nbsp;<p>Drivel, sensationalism, disgraceful hype, bizarre and misleading were just some of the criticisms posted online and expressed to thebserver. After more than 700 comments had been posted on the New York Times website, there was no room for more.</p>&nbsp;<p>The well-known Ashtanga New York group retaliated with an article on its own website entitled "How the New York Times can wreck yoga".</p>&nbsp;<p>Meanwhile, the controversy has quickly become the talk of the hundreds of studios all over the city and the hundreds of thousands beyond.</p>&nbsp;<p>"I'm shocked. Yoga transformed my life and I love going to practise - it's made me healthier and much calmer and my body feels more alive," the Guardian quoted Susan Davies, a software designer as saying.</p>&nbsp;<p>"I'm more balanced and yet more assertive and efficient at work - my friends who do yoga say the same," she said.</p>&nbsp;<p>"The controversy is massive. People in the circles I run in are going crazy, because lots of people who were going to try yoga - the peopleou can bring in and heal - are going to be afraid now and they'll think yoga's bad. That's so tragic and angering," Paula Tulsi, whouns the Manhattan practice Reflections Yoga, said.</p>&nbsp;<p>Tales of yoga disasters are not difficult to find in New York. Arts administrator Elizabeth Bennett, 45, slipped a disc in her neck aftereing "bullied" into a headstand at a New York yoga studio.</p>&nbsp;<p>"When I hesitated, he called me a wimp. There are too many teachers who push unwitting students too far to serve their own egos," sheaid.</p>&nbsp;<p>Despite having health insurance, she ended up spending about 8,000 dollars of her own money on acupuncture and months of physiotherapyntil she was pain-free again. Bennett added that people trust yoga and rely on it as a source of healing, not injury, but are nowearning to be a lot more sceptical and discerning in their choice of studio.</p>&nbsp;<p>The $5 community class, like many, simply had a leader to mimic, with no expert correction of students' postures or warnings about injuriesr not pushing one's limits. In an industry where there is cursory certification and no official licensing, yoga teachers can becomequalified" with a 200-hour online course.</p>&nbsp;<p>"Many teachers are coming out of training and don't even know the three different hamstring muscles," Emilia Conradson, who branched outrom teaching the Forrest school of yoga into her own therapy business Body In Balance in New York, said.</p>&nbsp;<p>"Their understanding of anatomy is laughable, and yet yoga is about the physical as well as the spiritual and needs to be safe," she said.</p>&nbsp;<p>Other experts blame the "westernisation" of yoga as more of a workout than a holistic practice.</p>&nbsp;<p>Even Tulsi, while furious at the inflammatory nature of Broad's attack, does admit that the debate is timely.</p>&nbsp;<p>"It's not yoga, it's the bad translation or teaching of yoga that's the problem," she said.</p>&nbsp;<p>After a row that threatened to throw one of America's favourite middle-class leisure pursuits off balance the lesson for devotees islear - take care and take your time when choosing your next yoga class. (ANI)</p>&nbsp;
+
+
+</p>
+
+
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8521061892309803";
+/* 336x280-bottom-1 */
+google_ad_slot = "7119820977";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<br/>
+</div><br />
+
+<div class="box-hd-in" >RELATED STORIES</div>
+ <div class="bot-cont">
+
+              <a href="/newsdetails/2012/01/15/259622-Exponents-slam-New-York-Times-Yoga-can-damage-your-body-article.html">Exponents slam New York Times' 'Yoga can damage your body' article</a>. <br />
+
+              <a href="/newsdetails/2012/01/15/0-Exponents-slam-New-York-Times-Yoga-can-damage-your-body-article.html">Exponents slam New York Times' 'Yoga can damage your body' article</a>. <br />
+
+
+
+      </div>
+<br />
+<span>
+
+<div class="box-hd-in" >
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8521061892309803";
+/* bottom-link-1 */
+google_ad_slot = "2530436883";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<div class="box-hd-in" >
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8521061892309803";
+/* bottom-link-1 */
+google_ad_slot = "2530436883";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<div class="box-hd-in" >
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8521061892309803";
+/* bottom-link-1 */
+google_ad_slot = "2530436883";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+<div class="box-hd-in" >MORE...</div>
+ <div class="bot-cont">
+
+<a href="/newssearch.jsp">Top Searches</a>.
+</div>
+</span>
+
+<!-- Bookmark Button BEGIN -->
+<span style="color:#B13031;font-weight:bold;">
+<div >Social bookmark this page</div></span>
+<br>
+
+<script type="text/javascript">
+  addthis_url    = location.href;   
+  addthis_title  = document.title;  
+  addthis_pub    = 'newstrackindia';     
+</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12" ></script>
+<!-- Bookmark Button END -->
+<br><br>
+
+
+
+
+
+
+<div class="hd-post" >Comment Details</div>
+
+
+  
+
+
+<br />
+</div>
+
+	</div>
+<!-- Main content ends-->
+
+</div>
+<!-- footer starts -->
+<div class="copy"  align="center">
+
+
+
+</div>
+
+
+<div style="clear:both;">
+  <div class="tp-lnk" style="height:20px;line-height:20px;">
+<a href="/index.jsp">HOME</a> |
+<a href="/news-article/society/"><span style="font-style: normal">SOCIETY</span></a> |  
+<a href="/news-article/world"><span style="font-style: normal">WORLD</span></a>  |  
+<a href="/news-article/economy"><span style="font-style: normal">ECONOMY</span></a> |  
+<a href="/news-article/sports"><span style="font-style: normal">SPORTS</span></a>  |  
+<a href="/news-article/sciencetechnology/"><span style="font-style: normal">SCI-TECH</span></a>  |  
+<a href="/news-article/editorial"><span style="font-style: normal">EDITORIAL</span></a>  |  
+<a href="/news-article/features"><span style="font-style: normal">FEATURES</span></a>  |  
+<a href="/news-article/humour"><span style="font-style: normal">HUMOUR</span></a>  |  
+<a href="/news-article/health"><span style="font-style: normal">HEALTH</span></a> |  
+<a href="/news-article/lifestyle"><span style="font-style: normal">LIFE STYLE</span></a>  |  
+<a href="/news-article/artsculture"><span style="font-style: normal">ARTS-CULTURE</span></a>  |  
+<a href="/news-article/entertainment"><span style="font-style: normal">ENTERTAINMENT</span></a>  |  
+<a href="/news-article/special"><span style="font-style: normal">SPECIAL</span></a></div>
+
+</div>
+</div>
+<div class="copy"  align="center">
+
+<a href="/careers.jsp" class="text"><span style="font-style: normal">Careers</span><a/> | 
+<a href="/privacy.jsp" class="text"><span style="font-style: normal">Privacy Policy</span></a> | 
+<a href="/feedback.jsp" class="text"><span style="font-style: normal">Feedback</span></a> | 
+<a href="/aboutus.jsp" class="text"><span style="font-style: normal">About Us</span></a> | 
+<a href="/contactus.jsp" class="text"><span style="font-style: normal">Contact Us</span></a> |
+|
+<a href="/latestnews/" class="text"><span style="font-style: normal">Latest News</span></a>
+<br />
+<span style="font-style: normal"><b>Copyright &copy; 2011 NEWS TRACK India All rights reserved.</b></span>
+
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-287488-2";
+urchinTracker();
+</script>
+
+<!-- Kontera ContentLink(TM);-->
+<script type='text/javascript'>
+var dc_AdLinkColor = 'blue' ;
+var dc_UnitID = 14 ;
+var dc_PublisherID = 31247 ;
+var dc_adprod = 'ADL' ;
+</script>
+<script type='text/javascript' src='http://kona.kontera.com/javascript/lib/KonaLibInline.js'>
+</script>
+<!-- Kontera ContentLink(TM) -->
+
+  
+<!-- footer ends -->
+</div>
+</body>
+</html>
+

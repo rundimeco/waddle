@@ -1,0 +1,647 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
+<head>
+    <title>Сельские врачи получат компенсации за оплату услуг ЖКХ</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="В России сельские медики получат компенсации на оплату коммунальных платежей." />
+    <meta name="keywords" content="В России сельские медики получат компенсации на оплату коммунальных платежей." />
+    <meta name='yandex-verification' content='42ca03681d177cd1' />
+<meta name='yandex-verification' content='72a3a7d0bb590457' />    
+    <link rel="alternate" type="application/rss+xml" title="Новости Челябинского областного телевидения" href="/news.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Видео новости Челябинского областного телевидения" href="/videonews.xml" />
+    <link rel="stylesheet" type="text/css" href="/styles/s.css" />
+    <!--[if IE]> <link rel="stylesheet" type="text/css" href="/styles/ie.css" /><![endif]-->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+    <script type='text/javascript' src='/js/jquery/jquery.js'></script>
+    <script type='text/javascript' src='/js/jquery/jquery.scrollable.js'></script>
+    <script type='text/javascript' src='/js/jquery/jquery.mousewheel.js'></script>
+    <script type='text/javascript' src='/js/jquery/jquery.tools.min.js'></script>
+    <script type='text/javascript' src='/js/jquery/jquery.form.js'></script>
+    <script type='text/javascript' src='/js/jquery/jquery.jmp3.js'></script>
+    <script type="text/javascript" src="/js/jquery/socializ.js"></script>
+    
+
+    <script type='text/javascript' src='/js/i.js'></script>
+    <script type='text/javascript' src='/js/js.js'></script>
+    <script type='text/javascript' src='/js/swfobject.js'></script>    
+    <script type='text/javascript' src='/js/wether.js'></script>    
+    <script type='text/javascript'>var SITE_URL = 'www.1obl.ru';</script>
+    <!--[if IE]> <script type='text/javascript' src='/js/fixpng.js'></script><![endif]-->
+    <script type='text/javascript' src='/js/disnone.js'></script>
+    <script type='text/javascript' src='/js/archive.js'></script>
+    <script type='text/javascript' src='/js/horo.js'></script>
+    <script type="text/javascript">
+    <!--
+    $().ready(function(){ 
+        
+        $("#blackfon").click(function() {
+            ClodeDialog();
+            return false;
+        });
+
+        $("#url_rate").click(function(e) {
+            var Yurl = e.pageY;
+            var Xurl = e.pageX;
+            showDiv('div_rate',Yurl,Xurl,0);
+            return false;
+        });
+
+        $('#form_rate').ajaxForm({
+            beforeSubmit: function(a,f,o) {
+                o.dataType = "html";
+                $('#div_rate .output').html("<img src=\"/pics/loader3.gif\" />");
+            },
+            success: function(data) {
+                $('#div_rate .output').html(data);
+            },
+        });
+
+        $("#url_friend").click(function(e) {
+            var Yurl = e.pageY;
+            var Xurl = e.pageX;
+            showDiv('div_friend',Yurl,Xurl,0);
+            return false;
+        });
+
+        $('#form_friend').ajaxForm({
+            beforeSubmit: function(a,f,o) {
+                o.dataType = "html";
+                $('#div_friend .output').html("<img src=\"/pics/loader2.gif\" />");
+            },
+            success: function(data) {
+                $('#div_friend .output').html(data);
+            },
+        });
+
+
+       	$('#calec a, .pager a').click(function() {
+                   return loadArchiveOb(this);
+       	});        
+
+    });
+
+    //-->
+    </script>
+        
+<meta name='yandex-verification' content='42ca03681d177cd1' />    
+</head>
+
+<body>
+<a name="top"></a>
+<div style="top:0px;left:0px;z-index:40000;position:absolute;display:none;" id="blackfon"></div>
+<div id="main">
+    <div id="head">
+
+        
+        <div id="blockm">
+
+            <div class="blockmtl ugs"></div><div class="blockmbl ugs"></div><div class="blockmtr ugs"></div><div class="blockmbr ugs"></div>
+
+                        <div id="icons">
+                <ul>
+                    <li><a href="http://www.1obl.ru/"><img src="/pic/icon1.gif" alt="На главную" title="На главную" /></a></li>
+                    <li><a href="http://www.1obl.ru/feedback/"><img src="/pic/icon2.gif" alt="Обратная связь" title="Обратная связь" /></a></li>
+                    <li><a href="http://www.1obl.ru/map/"><img src="/pic/icon3.gif" alt="Карта сайта" title="Карта сайта" /></a></li>
+                </ul>
+            </div>
+
+                        <div class="rss">
+                <a href="/news.xml" target="_blank"><img src="/pic/rss.gif" alt="RSS" title="RSS" />RSS</a>
+            </div>
+
+                        <div id="datatime">
+                <span>17.01</span>, ВТ, 
+                <div id="hour">21</div><div id="colon">:</div><div id="minute">58</div>
+            </div>
+
+            
+            <div id="weather">
+                <form action="http://www.1obl.ru/weather/" method="post">
+                    <fieldset>
+                        <div id="weather_ajax">
+                        <img src="/pics/weather/w_ic3_n.png" alt="облачно, без осадков" title="облачно, без осадков" style="margin-top:6px;" /><strong>-16</strong>Ночью<tt>-14</tt><span>Завтра<tt>-13</tt></span>                        </div>
+                        <a href="http://www.1obl.ru/weather/">Другие города</a>
+                        <div id="prel">
+                            <img src="/pic/preloader.gif" alt="" title=""/>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+
+                        <div id="search">
+                
+                <form action="http://www.1obl.ru/search/" method="get" name="sform" onsubmit="return CheckSearch(this);">
+                    <input type="hidden" name="search" value="1">
+                    <input type="hidden" name="action" value="search">
+                    <fieldset>
+                        <input type="text" name="stext" value="Поиск" onblur="if(this.value=='') this.value='Поиск';" onfocus="if(this.value=='Поиск') this.value='';" />
+                        <input type="submit" class="but" value="" title="Искать" />
+                    </fieldset>
+                </form>
+
+            </div>
+
+                        <div id="arh">
+                <a href="http://www.1obl.ru/archive/">Архив по датам</a>
+            </div>
+
+        </div>
+        <table class="bbb" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                    <div id="logo">
+                        <a href="http://www.1obl.ru/"><img src="/pic/logo1.gif" alt="Телекомпания ОТВ. Челябинское областное телевидение." title="Телекомпания ОТВ. Челябинское областное телевидение." /></a>
+                    </div>
+                </td>
+                <td class="right_new">        <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://active.macromedia.com/flash2/cabs/swflash.cab#version=6,0,0,0' ID=ban207 WIDTH='350' HEIGHT='88'><PARAM NAME=movie VALUE='http://www.1obl.ru/bf.php?url=207image.swf'><PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE='#FFFFFF'><EMBED src='http://www.1obl.ru/bf.php?url=207image.swf' quality=high bgcolor='#FFFFFF' WIDTH='350' HEIGHT='88' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED></OBJECT></td>
+                <td class="right_new">        <a target='_self' href='http://www.1obl.ru/bc.php?0.1729651072&amp;id=205'><img src='http://www.1obl.ru/bi.php?url=205image.jpg' width='350' height='88' border='0' alt='Губернатор-74.РФ' title='Губернатор-74.РФ' /></a></td>
+            </tr>
+        </table>
+    </div>
+
+    <div id="menu">
+        <div class="m_tl ugs2"></div><div class="m_bl ugs2"></div><div class="m_tr ugs2"></div><div class="m_br ugs2"></div>
+                <ul>
+            <li class="begin"><a href="http://www.1obl.ru/politics/"><span>Политика</span></a></li><li><a href="http://www.1obl.ru/economics/"><span>Бизнес</span></a></li><li><a href="http://www.1obl.ru/incidents/"><span>Происшествия</span></a></li><li><a href="http://www.1obl.ru/society/"><span>Общество</span></a></li><li><a href="http://www.1obl.ru/culture/"><span>Культура</span></a></li><li><a href="http://www.1obl.ru/sport/"><span>Спорт</span></a></li><li><a href="http://www.1obl.ru/health/"><span>Здоровье</span></a></li><li><a href="http://www.1obl.ru/online/"><span>Он-лайн</span></a></li><li><a href="http://www.1obl.ru/forum/"><span>Форум</span></a></li><li><a href="http://www.1obl.ru/feedback/"><span>Контакты</span></a></li><li class="end"><a href="http://www.1obl.ru/photoreport/"><span>Фоторепортажи</span></a></li>        </ul>
+    </div>
+
+    <div id="content">
+        <div id="leftcol">
+            
+            
+                                            <div class="specrep">
+                            <div class="y_tl ugs"></div><div class="y_bl ugs"></div><div class="y_tr ugs"></div><div class="y_br ugs"></div>
+                            <div class="blockcont">
+
+                                <h2>Спецрепортажи</h2>
+                                
+                                <div class="news">
+                                                    <a href="http://www.1obl.ru/specialreports/culture/2011/12/13/the_queen/"><img src="/pics/specnews/138thumb.jpg" alt="Королева диско С.С.Сatch" title="Королева диско С.С.Сatch" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/specialreports/culture/2011/12/13/the_queen/">Королева диско С.С.Сatch</a>
+                                                        <span>Каролина Катарина - королева диско далеких восьмидесятых, про поклонников не забывает и сегодня</span>
+                                                    </div>
+                                           </div><div class="news">
+                                                    <a href="http://www.1obl.ru/specialreports/culture/2011/12/20/wax_figures/"><img src="/pics/specnews/140thumb.jpg" alt="Коллекция игрушечных полицейских" title="Коллекция игрушечных полицейских" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/specialreports/culture/2011/12/20/wax_figures/">Коллекция игрушечных полицейских</a>
+                                                        <span>Сто автоинспекторов в одном кабинете</span>
+                                                    </div>
+                                           </div><div class="news">
+                                                    <a href="http://www.1obl.ru/specialreports/health/2011/12/15/tourism_in_urals/"><img src="/pics/specnews/139thumb.jpg" alt="Туризм по-южноуральски" title="Туризм по-южноуральски" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/specialreports/health/2011/12/15/tourism_in_urals/">Туризм по-южноуральски</a>
+                                                        <span>Накануне самых длинных праздников южноуральцы всерьез озадачены вопросом: где и как скоротать каникулы?</span>
+                                                    </div>
+                                           </div><div class="news">
+                                                    <a href="http://www.1obl.ru/specialreports/economics/2011/12/27/aleksandr/"><img src="/pics/specnews/141thumb.jpg" alt="Александр Соляников" title="Александр Соляников" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/specialreports/economics/2011/12/27/aleksandr/">Александр Соляников</a>
+                                                        <span>Челябинский боксер Александр Соляников  - основной кандидат на поездку в Олимпийский Лондон</span>
+                                                    </div>
+                                           </div><div class="news">
+                                                    <a href="http://www.1obl.ru/specialreports/culture/2011/12/29/city_snowman/"><img src="/pics/specnews/142thumb.jpg" alt="День &quot;Снеговика&quot;" title="День &quot;Снеговика&quot;" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/specialreports/culture/2011/12/29/city_snowman/">День "Снеговика"</a>
+                                                        <span>Медиа-холдинг ОТВ объявил новый праздник - День снеговика!</span>
+                                                    </div>
+                                           </div>                                <a href="http://www.1obl.ru/specialreports/" class="all">Все репортажи</a>
+
+                            </div>
+                        </div>
+                        
+    <div class="bunners">
+        <img src='http://www.1obl.ru/bi.php?url=210image.jpg' width='195' height='195' border='0' alt='Триколор' title='Триколор' />    </div>
+
+                                            <div class="tz">
+                            <div class="g_tl ugs"></div><div class="g_bl ugs"></div><div class="g_tr ugs"></div><div class="g_br ugs"></div>
+                            <div class="blockcont">
+                                <b>Информационно-аналитическая программа</b>
+                                <h2>"Точка зрения"</h2>
+                                
+                                <div class="news">
+                                                    <a href="http://www.1obl.ru/pointview/economics/2012/01/14/ogonzzkom/"><img src="/pics/tznews/704thumb.jpg" alt="Новый год &quot; с огоньком&quot;" title="Новый год &quot; с огоньком&quot;" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/pointview/economics/2012/01/14/ogonzzkom/">Новый год " с огоньком"</a>
+                                                        <span>Начало года некоторым челябинцам запомнилось совсем не праздничным настроением. </span>
+                                                    </div>
+                                           </div><div class="news">
+                                                    <a href="http://www.1obl.ru/pointview/economics/2012/01/14/elyabinske/"><img src="/pics/tznews/705thumb.jpg" alt="За что в Челябинске убили прокурора? " title="За что в Челябинске убили прокурора? " /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/pointview/economics/2012/01/14/elyabinske/">За что в Челябинске убили прокурора? </a>
+                                                        <span>Сегодня в Челябинске состоялись похороны прокурора Олега Ухина и его супруги</span>
+                                                    </div>
+                                           </div><div class="news">
+                                                    <a href="http://www.1obl.ru/pointview/economics/2012/01/14/bolzzshe/"><img src="/pics/tznews/701thumb.jpg" alt="100 дней до Чемпионата по дзюдо. Интервью с М. Карповым " title="100 дней до Чемпионата по дзюдо. Интервью с М. Карповым " /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/pointview/economics/2012/01/14/bolzzshe/">100 дней до Чемпионата по дзюдо. Интервью с М. Карповым </a>
+                                                        <span>Мы выяснили подробности подготовки у представителя оргкомитета Максима Карпова.</span>
+                                                    </div>
+                                           </div><div class="news">
+                                                    <a href="http://www.1obl.ru/pointview/economics/2012/01/14/vozmutiteli/"><img src="/pics/tznews/703thumb.jpg" alt="Штрафы возросли в разы" title="Штрафы возросли в разы" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/pointview/economics/2012/01/14/vozmutiteli/">Штрафы возросли в разы</a>
+                                                        <span>ГИБДД продолжает увеличивать штрафы за основные виды нарушений.</span>
+                                                    </div>
+                                           </div><div class="news">
+                                                    <a href="http://www.1obl.ru/pointview/economics/2012/01/14/nedele/"><img src="/pics/tznews/702thumb.jpg" alt="Скоро установят видеокамеры на избирательных участках" title="Скоро установят видеокамеры на избирательных участках" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/pointview/economics/2012/01/14/nedele/">Скоро установят видеокамеры на избирательных участках</a>
+                                                        <span>Самым главным событием может стать запуск видеотрансляции голосования в Интернете</span>
+                                                    </div>
+                                           </div>                                <a href="http://www.1obl.ru/pointview/" class="all">Все сюжеты программы</a>
+                            </div>
+                        </div>
+                        
+                                            <div class="specrep">
+                            <div class="y_tl ugs"></div><div class="y_bl ugs"></div><div class="y_tr ugs"></div><div class="y_br ugs"></div>
+                            <div class="blockcont">
+                                <h2>Все Чудеса Урала</h2>
+                                
+                                <div class="news">
+                                                    <a href="http://www.1obl.ru/specialprojects/society/society/2012/01/17/vechnovechno/"><img src="/pics/specpnews/106thumb.jpg" alt="Ямал. Край вечной мерзлоты" title="Ямал. Край вечной мерзлоты" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/specialprojects/society/society/2012/01/17/vechnovechno/">Ямал. Край вечной мерзлоты</a>
+                                                        <span></span>
+                                                    </div>
+                                           </div><div class="news">
+                                                    <a href="http://www.1obl.ru/specialprojects/society/2011/12/12/hristianstva/"><img src="/pics/specpnews/105thumb.jpg" alt="Пермь. Путь христианства (Часть 2)" title="Пермь. Путь христианства (Часть 2)" /></a>
+                                                    <div>
+                                                        <a href="http://www.1obl.ru/specialprojects/society/2011/12/12/hristianstva/">Пермь. Путь христианства (Часть 2)</a>
+                                                        <span></span>
+                                                    </div>
+                                           </div>                                <a href="http://www.1obl.ru/specialprojects/" class="all">Все Чудеса Урала</a>
+                            </div>
+                        </div>
+                        
+                                
+                        
+            <div class="gor">                
+                                                    
+            </div>
+
+                            
+                            
+                            
+
+                            <h4 class="mainnews"><span>Интересно</span></h4>
+                <div class="mnews">
+                    <div class="nnn">
+                        <div class="v_tl ugs2"></div><div class="v_bl ugs2"></div><div class="v_tr ugs2"></div><div class="v_br ugs2"></div>
+                        <div class="blockcont2">
+
+                        <iframe width="170" height="350" frameborder="0" scrolling="no"  src="http://click.readme.ru/informer/htm/25401.htm"></iframe>
+
+                        </div>
+                    </div>
+                </div>
+
+  <iframe id="snf2999" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+  <script src="http://js.sn00.net/00/29/99.js"></script>
+                
+                        
+        </div>
+
+        <div id="centercol">
+      <h1>Сельские врачи получат компенсации за оплату услуг ЖКХ</h1>
+
+      <div class="textnews">
+
+<div id="hypercontext">
+<index>
+
+
+        <span class="date">16.01.12</span><br />
+
+        
+        <span class="data_in inpimg" id="news_txt"><br />
+<span style="font-weight: bold;">В России сельские медики получат компенсации на оплату коммунальных платежей.</span> С 2012 года медицинским и фармацевтическим специалистам ежемесячно&nbsp; будут начислять 1200 рублей на плату за жилье, отопление и электроэнергию.<br />
+<br />
+В Минздравсоцразвития отмечают, что речь идет обо всех медиках из различных ведомств, в том числе Роспотребнадзора и министерства обороны. <br />
+<br />
+<span style="font-weight: bold;">Кроме того, в 2012 году будет предоставлена единовременная денежная выплата тем сельским медикам и фармацевтам, которые работали в федеральных учреждениях здравоохранения с 1 января 2005 года по 31 декабря 2011 года и имели право на бесплатное предоставление квартир с отоплением и освещением. </span><br style="font-weight: bold;" />
+<br />
+Ежемесячные выплаты сотрудники будут получать по настоящему месту работы, а единовременные пособия - по месту последней работы в федеральном учреждении, уточняет REGNUM.<br />
+
+</span>
+        
+          
+        
+</index> 
+</div>
+              
+
+      </div>
+      <div style="padding-top:5px;">
+      <table>
+      <tr>
+      
+      <td>
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="otv_chel">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+      </td>
+      
+      <td>
+<script src="http://connect.facebook.net/ru_RU/all.js#xfbml=1"></script><fb:like href="" layout="button_count" show_faces="true" width="80" action="recommend" font=""></fb:like>
+</td>
+      
+      <td>
+<!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="http://vkontakte.ru/js/api/share.js?10" charset="utf-8"></script>
+
+<!-- Put this script tag to the place, where the Share button will be -->
+<script type="text/javascript"><!--
+document.write(VK.Share.button(false,{type: "round", text: "Сохранить"}));
+--></script>
+      </td>
+      </tr>
+</table>
+
+<table>
+<tr>
+      <td>
+<a target="_blank" class="mrc__plugin_like_button" href="http://connect.mail.ru/share" data-mrc-config="{'type' : 'button', 'width' : '550', 'show_text' : 'true', 'show_faces' : 'true'}">Нравится</a>
+<script src="http://cdn.connect.mail.ru/js/loader.js" type="text/javascript" charset="UTF-8"></script>
+      </td>
+      
+      </tr>
+      </table>
+
+
+      </div>
+        <br />
+      <div class="nnn">
+            <div class="v_tl ugs2"></div><div class="v_bl ugs2"></div><div class="v_tr ugs2"></div><div class="v_br ugs2"></div>
+             <div style="width: 440px; padding-bottom: 7px;" class="blockcont2">
+                      <a class="maillist" style='float: right; margin: 0px;' href="http://www.1obl.ru/subscribe/?m_id=1" class="all">Подписаться на рассылку</a>
+                <a href="#" id="url_rate" style="float: right; margin-right:50px;"  onClick="return false;">Оцените материал</a>
+
+                <a href="http://www.1obl.ru/news/">Архив новостей</a>
+      
+<div id="div_rate" style="display:none;z-index:50000;left:140px;position:absolute;overflow: hidden; height: 142px; width: 224px;">
+	<div class="class_rate" style="margin-top:13px;width:190px;height:95px;">
+    <div style="position:absolute;z-index:50001;top:-15px;left:25px;"><img src="/pics/arrow_camera.jpg" width="25" height="16"></div>
+    <div style="position:absolute;z-index:50001;top:-5px;left:210px;"><img src="/pics/camera_right.png" width="14" height="127"></div>
+    <div style="position:absolute;z-index:50001;top:114px;left:0px;"><img src="/pics/camera_bottom2.png" width="201" height="14"></div>
+
+    <div style="width:100%;color:#2B61A8;font-weight:bold;">Оцените материал</div>
+
+    <div class="output" style="height:20px;"></div>
+
+    <form method="post" id="form_rate" action="/" class="form2">
+        <input type="hidden" name="action" value="rate">
+        <input type="hidden" name="art" value="32627">
+        <input type="hidden" name="type" value="news">
+        <fieldset>
+
+            <input class="check_input" type="radio" name="rate" value="1" id="rate1" /> <label for="rate1">1</label>
+            <input class="check_input" type="radio" name="rate" value="2" id="rate2" /> <label for="rate2">2</label>
+            <input class="check_input" type="radio" name="rate" value="3" id="rate3" /> <label for="rate3">3</label>
+            <input class="check_input" type="radio" name="rate" value="4" id="rate4" /> <label for="rate3">4</label>
+            <input class="check_input" type="radio" name="rate" value="5" id="rate5" /> <label for="rate4">5</label>
+
+            <div class="clboth2"></div>
+            <input type="submit" class="send" value="Оценить" />
+
+        </fieldset>
+    </form>
+	</div>
+</div>
+        </div></div>
+        
+
+
+      <div class="clboth2"></div>
+          
+<div style="padding-bottom:10px;">
+
+<!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="http://userapi.com/js/api/openapi.js?22"></script>
+
+<script type="text/javascript">
+  VK.init({apiId: 2251772, onlyWidgets: true});
+  </script>
+  
+  <!-- Put this div tag to the place, where the Comments block will be -->
+  <div id="vk_comments"></div>
+  <script type="text/javascript">
+  VK.Widgets.Comments("vk_comments", {limit: 10, width: "450", attach: "*"});
+  </script>
+</div>           
+
+      
+    
+    <strong class="comment"><a href="#" class="comment" onclick="ShowMods(document.getElementById('commentform')); return false;">Добавить комментарий</a></strong>
+    <div>
+       <script type='text/javascript' src='/js/comment.js'></script>
+       
+       <form method="post" class="form2" onsubmit="return CheckComment(this);" id="commentform" style="">
+       
+           <input type="hidden" name="action" value="comment">
+           <input type="hidden" id="art" name="art" value="32627">
+           <input type="hidden" id="type" name="type" value="news">
+           <fieldset>
+
+               <label for="name"><span class="red">*</span> Ваше имя</label>
+               <input type="text" id="name" name="name" value="" />
+               <div class="clboth"></div>
+
+               <label for="email"> Эл. почта</label>
+               <input type="text" id="email" name="email" value="" />
+               <div class="clboth"></div>
+
+               <label for="msg"> Комментарий</label>
+               <textarea id="msg" name="text"></textarea>
+               <div class="clboth"></div>
+
+               <label for="kod"><span class="red">*</span> Код</label>
+               <input type="text" id="kod" class="fm2" name="yourcode" value="" />
+               <img src="/gfx.php?gfx=generate&random_num=355813&w=78&h=20&zp=3275192224" width="78" border="1" height="20" /><input type="hidden" id="random_num" name="random_num" value="355813" />               <div class="clboth2"></div>
+
+               <input type="submit" class="send" value="Отправить" />
+
+               <div class="clboth"></div>
+           </fieldset>
+       </form>
+    </div>
+
+    <div class="clboth"></div>
+
+    
+    
+          
+
+      <div class="clboth2"></div>
+
+      
+            
+               <div class="newslist">
+                   <h1><span>Новости</span></h1>
+               </div>
+
+                        
+            <div class="buttons">
+                    <a title="Новости. Актуальные темы" id="li-z2" href="javascript:void(0);" onclick="return folderChange('z2', this);">Актуальные темы</a><a title="Новости. Челябинск и область" id="li-z1" class="act" href="javascript:void(0);" onclick="return folderChange('z1', this);">Челябинск и область</a><a title="Новости. День Города" id="li-z3" href="javascript:void(0);" onclick="return folderChange('z3', this);">День Города</a>            </div>
+
+            <div id="z2" class="nlist" style="display:none;"><p class='news_date'>11 января</p><div><span>16:02</span><p><a href="http://www.1obl.ru/news/incidents/2012/01/11/druzzzya/">Друзья Александра Бака: "Он был отличным человеком"</a><sup><a href="http://www.1obl.ru/news/incidents/2012/01/11/druzzzya/">видео</a></sup></p></div><div><span>15:31</span><p><a href="http://www.1obl.ru/news/incidents/2012/01/11/eeksklyuzivnoe/">Эксклюзивное видео с места убийства Ухиных</a><sup><a href="http://www.1obl.ru/news/incidents/2012/01/11/eeksklyuzivnoe/">видео</a></sup></p></div><p class='news_date'>10 января</p><div><span>16:49</span><p><a href="http://www.1obl.ru/news/society/2012/01/10/eralasha/">100 серий "Ералаша" снимут в Челябинске</a></p></div><p class='news_date'>07 января</p><div><span>17:03</span><p><a href="http://www.1obl.ru/news/society/2012/01/07/ministr/">Министр Сергей Шойгу прогнозирует Южному Уралу в 2012 году раннее начало пожароопасного периода и риск взрывов бытового газа    </a></p></div><p class='news_date'>06 января</p><div><span>14:28</span><p><a href="http://www.1obl.ru/news/incidents/2012/01/06/strashnaya/">Страшная авария в Златоусте! 4 человека погибли</a><sup><a href="http://www.1obl.ru/news/incidents/2012/01/06/strashnaya/">фото</a></sup></p></div><p class='news_date'>25 декабря</p><div><span>13:35</span><p><a href="http://www.1obl.ru/news/society/2011/12/25/ozerskom/">Над Озерском пролетело НЛО</a><sup><a href="http://www.1obl.ru/news/society/2011/12/25/ozerskom/">фото</a></sup></p></div><p class='news_date'>22 декабря</p><div><span>08:46</span><p><a href="http://www.1obl.ru/news/society/2011/12/22/lesnaya/">Лесная сказка по-южноуральски </a><sup><a href="http://www.1obl.ru/news/society/2011/12/22/lesnaya/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2011/12/22/lesnaya/">видео</a></sup></p></div><p class='news_date'>21 декабря</p><div><span>15:54</span><p><a href="http://www.1obl.ru/news/society/2011/12/21/yuryuzani/">В Юрюзани девятимесячный малыш упал за батарею и получил страшные ожоги </a><sup><a href="http://www.1obl.ru/news/society/2011/12/21/yuryuzani/">фото</a></sup></p></div><p class='news_date'>19 декабря</p><div><span>20:25</span><p><a href="http://www.1obl.ru/news/society/2011/12/19/golubye/">Голубые русалки и африканские дикарки в Большом Куяше</a><sup><a href="http://www.1obl.ru/news/society/2011/12/19/golubye/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2011/12/19/golubye/">видео</a></sup></p></div><p class='news_date'>14 декабря</p><div><span>15:02</span><p><a href="http://www.1obl.ru/news/society/2011/12/14/elyabinske/">Танго в Челябинске будет танцевать целый микрорайон</a><sup><a href="http://www.1obl.ru/news/society/2011/12/14/elyabinske/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2011/12/14/elyabinske/">видео</a></sup></p></div><p class='news_date'>13 декабря</p><div><span>16:43</span><p><a href="http://www.1obl.ru/news/society/2011/12/13/elyabinskoe/">Челябинское метро защитят от террористов</a></p></div><div><span>15:12</span><p><a href="http://www.1obl.ru/news/society/2011/12/13/zhitelzz/">Житель Челябинска поступил во МХАТ в режиме онлайн</a><sup><a href="http://www.1obl.ru/news/society/2011/12/13/zhitelzz/">фото</a></sup></p></div><p class='news_date'>12 декабря</p><div><span>18:05</span><p><a href="http://www.1obl.ru/news/society/2011/12/12/druzzzya/">Друзья подозреваемого в зверском убийстве школьницы из Озерска не верят в его виновность </a><sup><a href="http://www.1obl.ru/news/society/2011/12/12/druzzzya/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2011/12/12/druzzzya/">видео</a></sup></p></div><p class='news_date'>09 декабря</p><div><span>18:57</span><p><a href="http://www.1obl.ru/news/society/2011/12/09/elyabinske/">C.C. Catch дала в Челябинске прощальный концерт</a><sup><a href="http://www.1obl.ru/news/society/2011/12/09/elyabinske/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2011/12/09/elyabinske/">видео</a></sup></p></div><p class='news_date'>08 декабря</p><div><span>15:14</span><p><a href="http://www.1obl.ru/news/society/2011/12/08/zhizni/">Ушел из жизни профессор ЧелГУ Марк Бент</a><sup><a href="http://www.1obl.ru/news/society/2011/12/08/zhizni/">фото</a></sup></p></div><p class='news_date'>07 декабря</p><div><span>16:58</span><p><a href="http://www.1obl.ru/news/incidents/2011/12/07/nastoyatelzz/">В ДТП погиб настоятель церкви из Кизила</a><sup><a href="http://www.1obl.ru/news/incidents/2011/12/07/nastoyatelzz/">фото</a></sup><sup><a href="http://www.1obl.ru/news/incidents/2011/12/07/nastoyatelzz/">видео</a></sup></p></div><p class='news_date'>06 декабря</p><div><span>20:37</span><p><a href="http://www.1obl.ru/news/society/2011/12/06/podrostok/">Подросток получил медаль «За отвагу на пожаре» </a><sup><a href="http://www.1obl.ru/news/society/2011/12/06/podrostok/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2011/12/06/podrostok/">видео</a></sup></p></div><p class='news_date'>01 декабря</p><div><span>17:37</span><p><a href="http://www.1obl.ru/news/society/2011/12/01/pogibshi/">Погибший при взрыве в Коркино парень предупреждал газовую службу о неисправности оборудования</a><sup><a href="http://www.1obl.ru/news/society/2011/12/01/pogibshi/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2011/12/01/pogibshi/">видео</a></sup></p></div><p class='news_date'>29 ноября</p><div><span>11:15</span><p><a href="http://www.1obl.ru/news/society/2011/11/29/strashno/">"Страшно, б**!" Шокирующее видео из Челябинска</a><sup><a href="http://www.1obl.ru/news/society/2011/11/29/strashno/">видео</a></sup></p></div><p class='news_date'>28 ноября</p><div><span>13:20</span><p><a href="http://www.1obl.ru/news/society/2011/11/28/shokiruyuschee/">Шокирующее ДТП! В Магнитогорске пьяный водитель насмерть сбил пятилетнего ребенка</a></p></div><p class='news_date'>26 ноября</p><div><span>17:26</span><p><a href="http://www.1obl.ru/news/society/2011/11/26/rossii/">В России зарегистрирован первый кандидат в президенты</a></p></div><p class='news_date'>25 ноября</p><div><span>17:55</span><p><a href="http://www.1obl.ru/news/society/2011/11/25/zhutkoe/">Жуткое ДТП! На мосту в Златоусте столкнулись пять машин </a><sup><a href="http://www.1obl.ru/news/society/2011/11/25/zhutkoe/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2011/11/25/zhutkoe/">видео</a></sup></p></div><p class='news_date'>23 ноября</p><div><span>20:22</span><p><a href="http://www.1obl.ru/news/health/2011/11/23/dekabrya/">С 1 декабря на Южном Урале начнется эпоха электронных очередей</a><sup><a href="http://www.1obl.ru/news/health/2011/11/23/dekabrya/">видео</a></sup></p></div><p class='news_date'>21 ноября</p><div><span>16:26</span><p><a href="http://www.1obl.ru/news/incidents/2011/11/21/pzzyany/">Пьяный лихач угнал «копейку» ради острых ощущений</a><sup><a href="http://www.1obl.ru/news/incidents/2011/11/21/pzzyany/">фото</a></sup><sup><a href="http://www.1obl.ru/news/incidents/2011/11/21/pzzyany/">видео</a></sup></p></div><p class='news_date'>20 ноября</p><div><span>11:29</span><p><a href="http://www.1obl.ru/news/society/2011/11/20/detski/">За детский сад можно будет расплатиться материнским капиталом</a></p></div><p class='news_date'>17 ноября</p><div><span>10:22</span><p><a href="http://www.1obl.ru/news/society/2011/11/17/elyabinski/">Челябинский "Трактор" начал выпускать косметику</a><sup><a href="http://www.1obl.ru/news/society/2011/11/17/elyabinski/">фото</a></sup></p></div><p class='news_date'>14 ноября</p><div><span>18:12</span><p><a href="http://www.1obl.ru/news/society/2011/11/14/protivnikov/">Имена противников православных ценностей предлагается вывешивать на позорные столбы</a><sup><a href="http://www.1obl.ru/news/society/2011/11/14/protivnikov/">фото</a></sup></p></div><p class='news_date'>10 ноября</p><div><span>11:58</span><p><a href="http://www.1obl.ru/news/society/2011/11/10/yuzhnouralzzcam/">Южноуральцам продают курицу вместо свинины и икру, глазированную льдом. А недовольных покупателей избивают охранники. Тема для обсуждения </a><sup><a href="http://www.1obl.ru/news/society/2011/11/10/yuzhnouralzzcam/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2011/11/10/yuzhnouralzzcam/">видео</a></sup></p></div><p class='news_date'>08 ноября</p><div><span>16:17</span><p><a href="http://www.1obl.ru/news/incidents/2011/11/08/pervye/">Первые жертвы тонкого льда. Как обезопасить жизнь детей и рыбаков? Тема дня</a><sup><a href="http://www.1obl.ru/news/incidents/2011/11/08/pervye/">фото</a></sup><sup><a href="http://www.1obl.ru/news/incidents/2011/11/08/pervye/">видео</a></sup></p></div><p class='news_date'>06 ноября</p><div><span>15:48</span><p><a href="http://www.1obl.ru/news/sport/2011/11/06/dzyudoisty/">Дзюдоисты Южного Урала завоевали медали на турнире в Туймазы</a></p></div><a class="maillist all" href="http://www.1obl.ru/subscribe/?m_id=1" >Подписаться на рассылку</a><a href="http://www.1obl.ru/news/" class="all">Все новости</a></div><div id="z1" class="nlist"><p class='news_date'>Сегодня</p><div><span>12:49</span><p><a class='bold' href="http://www.1obl.ru/news/society/2012/01/17/avtograf/">Автограф Раймона Жиру приносит детям удачу </a></p></div><div><span>16:00</span><p><a class='bold' href="http://www.1obl.ru/news/society/2012/01/17/zavtra/">Мороз и снег. Погода на завтра</a></p></div><div><span>18:14</span><p><a class='bold' href="http://www.1obl.ru/news/society/2012/01/17/elyabinskie/">Челябинские пассажиры будут влиять на расписание общественного транспорта</a><sup><a class='bold' href="http://www.1obl.ru/news/society/2012/01/17/elyabinskie/">видео</a></sup></p></div><div><span>21:05</span><p><a class='bold' href="http://www.1obl.ru/news/sport/2012/01/17/vyrval/">“Трактор” вырвал победу у СКА - 3:1 </a></p></div><div><span>21:46</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/etkulya/">Житель Еткуля, чтобы "откосить" от армии, усыновил чужого ребенка</a></p></div><div><span>21:23</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/piszzmami/">Обмен письмами между россиянами и немцами станет проще </a></p></div><div><span>21:01</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/vyberut/">На Южном Урале выберут "королей сноуборда"</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/vyberut/">фото</a></sup></p></div><div><span>20:45</span><p><a href="http://www.1obl.ru/news/sport/2012/01/17/vyshel/">"Трактор" вышел вперед в матче со СКА – 2:1</a></p></div><div><span>20:38</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/srednyaya/">Средняя зарплата южноуральского учителя выросла до 19,7 тысяч рублей</a></p></div><div><span>20:36</span><p><a href="http://www.1obl.ru/news/sport/2012/01/17/sravnyal/">"Трактор" сравнял счет в матче со СКА – 1:1</a></p></div><div><span>20:24</span><p><a href="http://www.1obl.ru/news/sport/2012/01/17/vtorogo/">После второго периода счет "Трактор" уступает СКА - 0:1</a></p></div><div><span>20:12</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/vozduh/">Воздух Челябинска отравляют автомобили</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/vozduh/">видео</a></sup></p></div><div><span>19:54</span><p><a href="http://www.1obl.ru/news/sport/2012/01/17/otkryl/">СКА открыл счет в матче с "Трактором" - 0:1</a></p></div><div><span>19:48</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/novaya/">Новая книга в подарок Южному Уралу</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/novaya/">видео</a></sup></p></div><div><span>19:28</span><p><a href="http://www.1obl.ru/news/sport/2012/01/17/traktor/">"Трактор" и СКА не открыли счет – 0:0</a></p></div><div><span>19:21</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/yuzhnouralzzske/">В Южноуральске живет любитель точного времени </a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/yuzhnouralzzske/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2012/01/17/yuzhnouralzzske/">видео</a></sup></p></div><div><span>18:50</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/zhivotnye/">Животные Южного Урала получат более полумиллиона рублей</a></p></div><div><span>17:53</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/istorii/">Тайные истории Челябинской области вскрылись в личных архивах </a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/istorii/">видео</a></sup></p></div><div><span>17:44</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/yuzhny/">Южный Урал переходит на новые стандарты выхаживания младенцев</a></p></div><div><span>17:29</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/elyabinskim/">Челябинским дошкольникам в детских садах предложат кровати-шкафы </a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/elyabinskim/">видео</a></sup></p></div><div><span>16:45</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/passazhiry/">Завтра пассажиры трамвая смогут пообщаться с Сергеем Давыдовым</a></p></div><div><span>16:33</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/elyabinsko/">В Челябинской области появятся обученные санитарные дружины</a></p></div><div><span>16:21</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/valeri/">Валерий Белоусов не изменил состав "Трактора" перед матчем со "СКА"</a></p></div><div><span>16:09</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/zhvanecki/">Михаил Жванецкий и Тимур Кизяков вручат "Светлое прошлое"</a></p></div><div><span>16:01</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/indisko/">Театр индийской культуры открылся на Южном Урале</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/indisko/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2012/01/17/indisko/">видео</a></sup></p></div><div><span>15:20</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/ukrali/">В Челябинске украли эксклюзивную детскую коляску</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/ukrali/">видео</a></sup></p></div><div><span>15:08</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/kopeska/">Житель Копейска хранил на пустыре три килограмма героина</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/kopeska/">видео</a></sup></p></div><div><span>14:42</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/elyabinskaya/">Челябинская область постарела, но стала более образованной</a></p></div><div><span>14:33</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/yuzhnom/">На Южном Урале хотят учредить свою литературную премию</a></p></div><div><span>14:27</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/zlatouste/">В Златоусте переселяют злостных должников</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/zlatouste/">фото</a></sup><sup><a href="http://www.1obl.ru/news/society/2012/01/17/zlatouste/">видео</a></sup></p></div><div><span>14:04</span><p><a href="http://www.1obl.ru/news/health/2012/01/17/kupeli/">В Магнитогорске к Крещению готовят купели</a><sup><a href="http://www.1obl.ru/news/health/2012/01/17/kupeli/">фото</a></sup><sup><a href="http://www.1obl.ru/news/health/2012/01/17/kupeli/">видео</a></sup></p></div><a class="maillist all" href="http://www.1obl.ru/subscribe/?m_id=1" >Подписаться на рассылку</a><a href="http://www.1obl.ru/news/" class="all">Все новости</a></div><div id="z3" class="nlist" style="display:none;"><p class='news_date'>Сегодня</p><div><span>08:14</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/cherez/">Мост через Миасс на улице Худякова снизил нагрузку на Шершнёвскую плотину</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/cherez/">видео</a></sup></p></div><div><span>08:12</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/elyabinske/">В Челябинске сменится поставщик тепла населению</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/elyabinske/">видео</a></sup></p></div><div><span>08:10</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/velikobritanii/">В Великобритании издана книга о Челябинском тракторном заводе</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/velikobritanii/">видео</a></sup></p></div><div><span>08:08</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/kreschenie/">На Крещение в Челябинске оборудуют 5 иорданей</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/kreschenie/">видео</a></sup></p></div><div><span>08:06</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/obyavlyaet/">"Дом-2" объявляет кастинг на реалити-шоу. 28 января в Челябинске пройдет отбор участников</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/obyavlyaet/">видео</a></sup></p></div><div><span>08:04</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/afisha/">Афиша</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/afisha/">видео</a></sup></p></div><div><span>08:02</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/sport/">Спорт</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/sport/">видео</a></sup></p></div><div><span>08:00</span><p><a href="http://www.1obl.ru/news/society/2012/01/17/pogoda/">Погода</a><sup><a href="http://www.1obl.ru/news/society/2012/01/17/pogoda/">видео</a></sup></p></div><p class='news_date'>13 января</p><div><span>11:31</span><p><a href="http://www.1obl.ru/news/society/2012/01/13/avtovladelzzcy/">К лету автовладельцы смогут указывать дорожникам на выбоины и контролировать их устранение через интренет</a><sup><a href="http://www.1obl.ru/news/society/2012/01/13/avtovladelzzcy/">видео</a></sup></p></div><div><span>11:30</span><p><a href="http://www.1obl.ru/news/society/2012/01/13/sostoitsya/">Сегодня в Челябинске состоится прощание с супругами Ухиными</a><sup><a href="http://www.1obl.ru/news/society/2012/01/13/sostoitsya/">видео</a></sup></p></div><div><span>11:29</span><p><a href="http://www.1obl.ru/news/society/2012/01/13/segodnya/">Сегодня День российской печати</a><sup><a href="http://www.1obl.ru/news/society/2012/01/13/segodnya/">видео</a></sup></p></div><div><span>11:28</span><p><a href="http://www.1obl.ru/news/society/2012/01/13/elyabinske/">В Челябинске началось масштабное изготовление сувениров для чемпионата Европы по дзюдо</a><sup><a href="http://www.1obl.ru/news/society/2012/01/13/elyabinske/">видео</a></sup></p></div><div><span>11:27</span><p><a href="http://www.1obl.ru/news/society/2012/01/13/magnitogorcy/">Магнитогорцы решили скатать самый большой снежный ком на планете</a><sup><a href="http://www.1obl.ru/news/society/2012/01/13/magnitogorcy/">видео</a></sup></p></div><div><span>11:26</span><p><a href="http://www.1obl.ru/news/society/2012/01/13/sport/">Спорт</a><sup><a href="http://www.1obl.ru/news/society/2012/01/13/sport/">видео</a></sup></p></div><div><span>11:00</span><p><a href="http://www.1obl.ru/news/society/2012/01/13/afisha/">Афиша</a><sup><a href="http://www.1obl.ru/news/society/2012/01/13/afisha/">видео</a></sup></p></div><p class='news_date'>12 января</p><div><span>11:36</span><p><a href="http://www.1obl.ru/news/society/2012/01/12/detyam/">Детям убитых супругов Ухиных Павел Астахов поручил оказать необходимую помощь</a><sup><a href="http://www.1obl.ru/news/society/2012/01/12/detyam/">видео</a></sup></p></div><div><span>11:35</span><p><a href="http://www.1obl.ru/news/society/2012/01/12/elyabinsko/">В 2012 г. в Челябинской области начнут работать пункты оказания первой доврачебной помощи</a><sup><a href="http://www.1obl.ru/news/society/2012/01/12/elyabinsko/">видео</a></sup></p></div><div><span>11:33</span><p><a href="http://www.1obl.ru/news/society/2012/01/12/predlagayut/">В России предлагают ввести абонентскую плату за общественное телевидение. Цена вопроса - 46 рублей ежемесячно</a><sup><a href="http://www.1obl.ru/news/society/2012/01/12/predlagayut/">видео</a></sup></p></div><div><span>11:31</span><p><a href="http://www.1obl.ru/news/society/2012/01/12/elyabinec/">Челябинец пытался получить кредит по похищенному паспорту</a><sup><a href="http://www.1obl.ru/news/society/2012/01/12/elyabinec/">видео</a></sup></p></div><div><span>11:27</span><p><a href="http://www.1obl.ru/news/society/2012/01/12/vyberut/">В Челябинске выберут лучших работников культуры и искусства</a><sup><a href="http://www.1obl.ru/news/society/2012/01/12/vyberut/">видео</a></sup></p></div><div><span>11:26</span><p><a href="http://www.1obl.ru/news/society/2012/01/12/afisha/">Афиша</a><sup><a href="http://www.1obl.ru/news/society/2012/01/12/afisha/">видео</a></sup></p></div><div><span>11:25</span><p><a href="http://www.1obl.ru/news/society/2012/01/12/sport/">Спорт</a><sup><a href="http://www.1obl.ru/news/society/2012/01/12/sport/">видео</a></sup></p></div><p class='news_date'>11 января</p><div><span>10:03</span><p><a href="http://www.1obl.ru/news/society/2012/01/11/delegaciya/">Делегация Челябинской области планирует деловую поездку в Италию</a><sup><a href="http://www.1obl.ru/news/society/2012/01/11/delegaciya/">видео</a></sup></p></div><div><span>10:01</span><p><a href="http://www.1obl.ru/news/politics/2012/01/11/yuzhny/">Южный Урал готовится к Единому дню голосования 4 марта 2012 года</a><sup><a href="http://www.1obl.ru/news/politics/2012/01/11/yuzhny/">видео</a></sup></p></div><div><span>09:59</span><p><a href="http://www.1obl.ru/news/incidents/2012/01/11/kopeske/">В Копейске шестьдесят автомобилистов лишились водительских удостоверений</a><sup><a href="http://www.1obl.ru/news/incidents/2012/01/11/kopeske/">видео</a></sup></p></div><div><span>09:58</span><p><a href="http://www.1obl.ru/news/culture/2012/01/11/elyabinskom/">В Челябинском Драмтеатре стартовал новый проект: "Молодая режиссура и профессиональный театр"</a><sup><a href="http://www.1obl.ru/news/culture/2012/01/11/elyabinskom/">видео</a></sup></p></div><div><span>09:56</span><p><a href="http://www.1obl.ru/news/culture/2012/01/11/zooparke/">В зоопарке Челябинска - бэби-бум</a><sup><a href="http://www.1obl.ru/news/culture/2012/01/11/zooparke/">видео</a></sup></p></div><div><span>09:55</span><p><a href="http://www.1obl.ru/news/culture/2012/01/11/afisha/">Афиша</a><sup><a href="http://www.1obl.ru/news/culture/2012/01/11/afisha/">видео</a></sup></p></div><div><span>09:45</span><p><a href="http://www.1obl.ru/news/sport/2012/01/11/sport/">Спорт</a><sup><a href="http://www.1obl.ru/news/sport/2012/01/11/sport/">видео</a></sup></p></div><p class='news_date'>23 декабря</p><div><span>08:12</span><p><a href="http://www.1obl.ru/news/society/2011/12/23/predlozhenie/">Предложение Медведева</a><sup><a href="http://www.1obl.ru/news/society/2011/12/23/predlozhenie/">видео</a></sup></p></div><a class="maillist all" href="http://www.1obl.ru/subscribe/?m_id=1" >Подписаться на рассылку</a><a href="http://www.1obl.ru/news/" class="all">Все новости</a></div>
+      
+        </div>
+        
+        <div id="rightcol">
+                        
+                <h4 class="mainnews"><span>Интервью</span></h4>
+                <div class="mnews">
+                    <div class="nnn">
+                        <div class="v_tl ugs2"></div><div class="v_bl ugs2"></div><div class="v_tr ugs2"></div><div class="v_br ugs2"></div>
+                        <div class="blockcont2">
+                            <h3>Светлана Лучинина - заместитель главного санитарного врача по Челябинской области</h3>
+                            <p class="main_news_link"><a href="http://www.1obl.ru/mainnews/health/2012/01/16/svetlana/"><img src="/pics/mainnews/560thumb.jpg" alt="Светлана Лучинина - заместитель главного санитарного врача по Челябинской области" title="Светлана Лучинина - заместитель главного санитарного врача по Челябинской области" /></a></p>
+                            <a href="http://www.1obl.ru/mainnews/health/2012/01/16/svetlana/">Как обезопасить себя и своего ребенка от гриппа и ОРВИ? На какие симптомы стоит обратить внимание уже сейчас? Появятся ли новые штаммы гриппа в этом сезоне? Читайте на "Первом областном"</a>                            <span>16 января, 10:38</span>
+                        
+                            <br />
+                            <a href="http://www.1obl.ru/mainnews/" class="all">Все интервью</a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                            
+                                        <div class="nnn2">
+                    <div class="v_tl ugs2"></div><div class="v_bl ugs2"></div><div class="v_tr ugs2"></div><div class="v_br ugs2"></div>
+                    <div class="blockcont2">
+                        <h2 class="fonts2">Он-лайн <font>конференция</font></h2>
+                        
+                            <div class="news">
+                                <a href="http://www.1obl.ru/online/2012/01/17/traktor/"><img src="/pics/onlinefaqs/113thumb.jpg" alt="&quot;Трактор&quot; vs &quot;СКА&quot;" title="&quot;Трактор&quot; vs &quot;СКА&quot;" /></a>
+                                <div>
+                                    <a href="http://www.1obl.ru/online/2012/01/17/traktor/">"Трактор" vs "СКА"</a>
+                                    <span>Смотрите сегодня на ОТВ матч "Трактор" vs "СКА". Болеем за наших он-лайн</span>
+                                </div>
+                                <font>17 января, 08:41</font>
+                            </div>
+                                                    <a href="http://www.1obl.ru/online/" class="all">Все конференции</a>
+                    </div>
+                </div>
+                        
+            
+                    <div class="bunners">
+        <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://active.macromedia.com/flash2/cabs/swflash.cab#version=6,0,0,0' ID=ban195 WIDTH='195' HEIGHT='385'><PARAM NAME=movie VALUE='http://www.1obl.ru/bf.php?url=195image.swf'><PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE='#FFFFFF'><EMBED src='http://www.1obl.ru/bf.php?url=195image.swf' quality=high bgcolor='#FFFFFF' WIDTH='195' HEIGHT='385' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED></OBJECT>    </div>
+            
+            <div class="specrep">
+                <div class="y_tl ugs"></div><div class="y_bl ugs"></div><div class="y_tr ugs"></div><div class="y_br ugs"></div>
+                                                       
+            </div>
+            
+            
+                <div class="bunners">
+        <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://active.macromedia.com/flash2/cabs/swflash.cab#version=6,0,0,0' ID=ban203 WIDTH='195' HEIGHT='195'><PARAM NAME=movie VALUE='http://www.1obl.ru/bf.php?url=203image.swf'><PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE='#FFFFFF'><EMBED src='http://www.1obl.ru/bf.php?url=203image.swf' quality=high bgcolor='#FFFFFF' WIDTH='195' HEIGHT='195' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED></OBJECT>    </div>
+                <div class="bunners">
+        <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://active.macromedia.com/flash2/cabs/swflash.cab#version=6,0,0,0' ID=ban198 WIDTH='195' HEIGHT='100'><PARAM NAME=movie VALUE='http://www.1obl.ru/bf.php?url=198image.swf'><PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE='#FFFFFF'><EMBED src='http://www.1obl.ru/bf.php?url=198image.swf' quality=high bgcolor='#FFFFFF' WIDTH='195' HEIGHT='100' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED></OBJECT>    </div>
+                <div class="bunners">
+        <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://active.macromedia.com/flash2/cabs/swflash.cab#version=6,0,0,0' ID=ban175 WIDTH='195' HEIGHT='195'><PARAM NAME=movie VALUE='http://www.1obl.ru/bf.php?url=175image.swf'><PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE='#FFFFFF'><EMBED src='http://www.1obl.ru/bf.php?url=175image.swf' quality=high bgcolor='#FFFFFF' WIDTH='195' HEIGHT='195' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED></OBJECT>    </div>
+            
+            
+                <h4 class="mainnews"><span>Интересно</span></h4>
+                <div class="mnews">
+                    <div class="nnn">
+                        <div class="v_tl ugs2"></div><div class="v_bl ugs2"></div><div class="v_tr ugs2"></div><div class="v_br ugs2"></div>
+                        <div class="blockcont2">
+
+                        <iframe width="170" height="350" frameborder="0" scrolling="no"  src="http://click.readme.ru/informer/htm/25401.htm"></iframe>
+
+                        </div>
+                    </div>
+                </div>
+                
+            
+        </div>
+    </div>
+
+            <div class="specrep">
+        <div class="y_tl ugs"></div><div class="y_bl ugs"></div><div class="y_tr ugs"></div><div class="y_br ugs"></div>
+        <div class="blockcont4">
+            <h2>Дайджест СМИ</h2>
+            <div class="links">
+                <div class="left">
+                    <a target="_blank" href="http://www.vz.ru/news/2012/1/17/554252.html"><b>Китай раскритиковал посла США за заявление о правах человека </b></a><a target="_blank" href="http://vz.ru/" class="small">Взгляд.</a><div class="clboth"></div><a target="_blank" href="http://rss.feedsportal.com/c/32171/f/424076/s/152b69e0/l/0L0Sizvestia0Bru0Cnews0Cnews274486/story01.htm"><b>В Дагестане уничтожены два схрона с боеприпасами </b></a><a target="_blank" href="http://izvestia.ru/" class="small">Известия.</a><div class="clboth"></div><a target="_blank" href="http://rss.feedsportal.com/c/32255/f/438799/p/1/s/155ee6ce/l/0L0Skommersant0Bru0Cdoc0C1852669/story01.htm"><b>Не исключено все, что не запрещено  </b></a><a target="_blank" href="http://kommersant.ru/" class="small">Коммерсантъ.</a><div class="clboth"></div><a target="_blank" href="http://kp.ru/daily/25818/2797118/"><b>Дом Быкова признали памятником и не будут сносить </b></a><a target="_blank" href="http://kp.ru/" class="small">Комсомольская правда.</a>                </div>
+                <div class="right">
+                    <a target="_blank" href="http://www.ng.ru/energy/2012-01-17/9_fuel.html"><b>Энергобезопасность под вопросом  </b></a><a target="_blank" href="http://ng.ru/" class="small">Независимая Газета</a><div class="clboth"></div><a target="_blank" href="http://rss.feedsportal.com/c/32327/f/441154/s/1be4fcab/l/0Ltop0Brbc0Bru0Cpolitics0C170C0A10C20A120C6336920Bshtml/story01.htm"><b>Врио губернатора Волгоградской области назначен С.Боженов </b></a><a target="_blank" href="http://rbc.ru/" class="small">РосБизнесКонсалтинг</a><div class="clboth"></div><a target="_blank" href="http://www.rg.ru/2012/01/17/reg-cfo/stepashin-anons.html"><b>  </b></a><a target="_blank" href="http://rg.ru/" class="small">Российская Газета</a><div class="clboth"></div><a target="_blank" href="http://rss.trud.ru/c/32503/f/480456/s/1be50ef7/l/0L0Strud0Bru0Carticle0C170E0A10E20A120C2715650Iapple0Izapretila0Idelat0Ikuklu0Iiz0Istiva0Idzhobsa0Bhtml/story01.htm"><b>Apple запретила делать куклу из Стива Джобса </b></a><a target="_blank" href="http://trud.ru/" class="small">Труд</a>                </div>
+            </div>
+        </div>
+    </div>
+            
+    <div class="menufoot">
+        <ul>
+    <li><a href="http://www.1obl.ru/mainnews/"><span>Главные новости</span></a></li><li><a href="http://www.1obl.ru/videonews/"><span>Время новостей</span></a></li><li><a href="http://www.1obl.ru/news/"><span>Новости</span></a></li><li><a href="http://www.1obl.ru/specialprojects/"><span>Все чудеса Урала</span></a></li><li><a href="http://www.1obl.ru/pointview/"><span>Точка зрения</span></a></li><li><a href="http://www.1obl.ru/specialreports/"><span>Спецрепортажи</span></a></li><li><a href="http://www.1obl.ru/saitreklama/"><span>Реклама на 1obl.ru</span></a></li><li><a href="http://www.1obl.ru/archive/"><span>Архив новостей</span></a></li><li><a href="http://www.1obl.ru/tv/"><span>Телевидение ОТВ</span></a></li><li><a href="http://www.1obl.ru/radio/"><span>Радио ОТВ</span></a></li><li><a href="http://www.1obl.ru/feedback/"><span>Контакты</span></a></li><li><a href="http://www.1obl.ru/komunalka/"><span> Коммуналка</span></a></li><li><a href="http://www.1obl.ru/photoreport/"><span>Фоторепортажи</span></a></li></ul>
+    </div>
+
+    <div id="footer">
+        <div id="fmenu">
+                        <ul>
+                <li class="begin"><a href="javascript:void(0);" onclick="return Bookmark(this);" rel="sidebar">В избранное</a></li>
+                <li><a href="javascript:void(0);" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.1obl.ru/'); return false;">Сделать стартовой</a></li>
+                <li><a href="#top">Наверх</a></li>
+            </ul>
+        </div>
+        <div class="clboth"></div>
+        <div id="copy">
+            Copyright © 1991—2012 Телекомпания ОТВ. Новости Челябинска и Челябинской области. СМИ Эл. периодическое издание. Св-во о регистрации СМИ Эл. №ФС77-38704 от 23 января 2010 года. Выдано Роскомнадзором РФ. При любом копировании материалов активная ссылка на 1obl.ru обязательна        </div>
+        <div id="footbun">
+            
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t14.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<!--Rating@Mail.ru COUNTEr--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=1278735"'+
+' target=_top><img src="http://d3.c8.b3.a1.top.list.ru/counter'+
+'?id=1278735;t=52;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target=_top href="http://top.mail.ru/jump?from=1278735"><img
+src="http://d3.c8.b3.a1.top.list.ru/counter?js=na;id=1278735;t=52"
+border=0 height=31 width=88
+alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+            try {
+                        w.yaCounter11553109 = new Ya.Metrika({id:11553109, enableAll: true});
+                                }
+                                        catch(e) { }
+                                            });
+                                            })(window, "yandex_metrika_callbacks");
+                                            </script></div>
+                                            <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+                                            <noscript><div><img src="//mc.yandex.ru/watch/11553109" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+                                            <!-- /Yandex.Metrika counter -->
+        </div>
+        <div id="klemo">
+            <a href="http://www.dextra.ru" target="_blank" class="black">Разработка сайта:</a><br />
+            <a href="http://www.dextra.ru" target="_blank">Интернет-агентство Dextra</a>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

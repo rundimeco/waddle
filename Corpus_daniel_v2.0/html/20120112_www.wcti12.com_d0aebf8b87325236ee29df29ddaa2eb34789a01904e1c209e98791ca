@@ -1,0 +1,802 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="no-js">
+<head><META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript">(function(a,b){
+
+var exclude = /(?:android|iphone)/i;
+if(exclude.exec(navigator.userAgent)) {
+return;
+}
+
+if(/android|avantgo|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|e\-|e\/|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(di|rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|xda(\-|2|g)|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))
+window.location=b
+})(navigator.userAgent||navigator.vendor||window.opera,'http://www.wcti12.com/mobile/index.html');
+</script><link rel="stylesheet" href="/_public/css/bern-min.css" type="text/css" media="screen" charset="utf-8">
+<!--[if IE 6]>
+<link rel="stylesheet" href="/_public/css/IE6-min.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="/_public/css/IE6-bern-min.css" type="text/css" media="screen" charset="utf-8" />
+<script src="/_public/js/lib/DD_belatedPNG/DD_belatedPNG_0.0.8a-min.js"></script>
+<![endif]--><!--[if IE 7]>
+<link rel="stylesheet" href="/_public/css/IE7-min.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="/_public/css/IE7-bern-min.css" type="text/css" media="screen" charset="utf-8" />
+<![endif]--><!--[if IE 8]>
+<link rel="stylesheet" href="/_public/css/IE8-min.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="/_public/css/IE8-bern-min.css" type="text/css" media="screen" charset="utf-8" />
+<![endif]-->
+<meta property="og:title" content="U.K. Mom Coughs Up Cancer">
+<meta property="og:image" content="http://www.wcti12.com/2012/0112/30194465.jpg">
+<title>U.K. Mom Coughs Up Cancer - News Story - WCTI New Bern</title>
+<link rel="canonical" href="http://www.wcti12.com/news/30194440/detail.html"><link rel="sitecanonical" href="http://www.wcti12.com/news/30194440/detail.html"><script src="/sh/flash/js/AC_OETags.js" id="AC_OETags.js" type="text/javascript"></script><meta name="lastmodified" content="Thu, 12 Jan 2012 12:43:38 GMT">
+<meta name="created" content="Thu, 12 Jan 2012 12:35:12 GMT">
+<meta name="publisher" content="Internet Broadcasting Systems, Inc.">
+<meta name="author" content="KATIE MOISSE // ABC News">
+<meta name="description" content="United Kingdom -- INTERNATIONAL NEWS A mother of six from Coventry, U.K., said shes cancer-free after coughing up a three-quarter-inch tumor. Thursday, January 12, 2012.">
+<meta name="sectionname" content="news">
+<meta name="topicname" content="news">
+<meta name="primarymediatype" content="story">
+<meta name="keywords" content="greenville news, new bern news, washington NC news, north carolina news, eastern carolina news">
+<meta name="WT.cg_s" content="News">
+<meta name="WT.cg_n" content="News">
+<meta name="WT.ti" content="U.K. Mom Coughs Up Cancer">
+<meta name="DCSext.mtype" content="detail">
+<meta name="DCSext.ib_comment_enabled" content="yes">
+<meta name="DCSext.ib_ratings_enabled" content="no">
+<meta name="DCSext.ib_recommend_enabled" content="no">
+<meta name="DCSext.ib_coid" content="30194440">
+<meta name="DCSext.ib_pool" content="bern">
+<script type="text/javascript">
+IBSYS = window.IBSYS || {};
+IBSYS.originHost = 'www.wcti12.com';</script><script type="text/javascript" src="/_public/js/bern-min.js"></script><link rel="stylesheet" type="text/css" href="/css/layouts;bonten;detail;css/style.css"><script type="text/javascript" src="/javascript/script.js"></script>
+
+<!-- set ad zone  -->
+<script type="text/javascript" src="/js/6807715/script.js"></script>
+
+<script type="text/javascript">
+var rnd = new Date();
+rnd = rnd.getTime();
+</script>
+<script type="text/javascript">
+var pageProps= {
+time: {hr:"8",hr_p:"08",hr24:"8",hr24_p:"08",min:"55",sec:"40",mer:"am",tz:"EST",mon:"1",mon_p:"01",date:"12",date_p:"12",yr:"2012",day:"5"},coid: '30194440',
+envhost:"www.wcti12.com",
+sectionname:"News",
+sectiontag:"news",
+sectionpath:"/news/"
+};
+var adZone = 'local';
+
+IBSYS.application.Application.mergeConfig({
+
+"urlContent.category": "/news/",
+"urlContent.section": "",
+"urlContent.topic": "/news/",
+"urlContent.mediaType": "nitf",
+
+"pageID": "142478",
+"pageTopicPath": "news"
+});
+</script><script type="text/javascript">
+IBSYS.application.Application.mergeConfig({
+"ads.excludeCategory": "",
+
+"ads.defaultStrategy": "Dart"
+});
+
+IBSYS.ad.AdManager.setZoneDistribution(
+
+{
+"local":1}
+
+);
+
+IBSYS.ad.strategies.Default = IBSYS.ad.strategies.Dart;
+</script><link rel="alternate" type="application/rss+xml" title="Local News RSS" href="/news/topstory.rss"><link rel="alternate" type="application/rss+xml" title="Local Video RSS" href="/video/topstory.rss"><link rel="alternate" type="application/rss+xml" title="Most Popular Stories RSS" href="/mostpopularstories/topstory.rss"><script type="text/javascript" src="http://nexus.ensighten.com/IB/Bootstrap.js"></script>
+</head>
+<!--stopindex--><body class="pagetype-detail langcode-en topic-news">
+<div id="vtmp505" class="documentWrapper"><div class="pageheader" id="pageHeader"><div id="pageHeaderRow1"><div id="header" class="pageContainer">
+  
+    
+      
+  
+<span class="adWrap noAdTab adbanner1Wrap"><!-- Begin Ad tag: banner1--><span id="ad_N730079.2833" class="adObj adbanner1"><script type="text/javascript">
+IBSYS.ad.AdManager.registerPosition({
+"iframe": false,
+"companion": true,
+"addlSz": "",
+"element": "ad_N730079.2833",
+"interstitials": true,
+"beginDate": "",
+"endDate": "",
+"getSect": "yes",
+"name": "banner1",
+"qString": "",
+"width": "728",
+"height": "90",
+"section": "",
+"useId": "30194440",
+"interactive": false,
+"useSameCategory": false,
+"topic": "",
+"swSectionRoot": "",
+"useZone": "",
+"containerType": "page",
+"containerID": "142478",
+"type": "DOM"
+});
+</script></span><noscript><a href="http://ad.doubleclick.net/jump/ibs.bern.news/local;kw=news+banner1+30194440;ad=true;dcopt=ist;pgtype=detail;tile=3;sz=728x90;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.bern.news/local;kw=news+banner1+30194440;ad=true;dcopt=ist;pgtype=detail;tile=3;sz=728x90;ord=123456789?" border="0" alt="sponsor" width="728" height="90"></a></noscript><!-- End Ad tag: banner1--></span>
+  
+</div><div id="iota" class="pageContainer">
+  
+    
+      
+  
+<span class="adWrap adWithTab adheaderbrickWrap"><span class="adtab left"></span><!-- Begin Ad tag: headerbrick--><span id="ad_N730079.2851" class="adObj adheaderbrick"><script type="text/javascript">
+IBSYS.ad.AdManager.registerPosition({
+"iframe": false,
+"companion": true,
+"addlSz": "",
+"element": "ad_N730079.2851",
+"interstitials": false,
+"beginDate": "",
+"endDate": "",
+"getSect": "yes",
+"name": "headerbrick",
+"qString": "",
+"width": "200",
+"height": "90",
+"section": "",
+"useId": "30194440",
+"interactive": false,
+"useSameCategory": false,
+"topic": "",
+"swSectionRoot": "",
+"useZone": "",
+"containerType": "page",
+"containerID": "142478",
+"type": "DOM"
+});
+</script></span><noscript><a href="http://ad.doubleclick.net/jump/ibs.bern.news/local;kw=news+headerbrick+30194440;ad=true;pgtype=detail;tile=4;sz=200x90;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.bern.news/local;kw=news+headerbrick+30194440;ad=true;pgtype=detail;tile=4;sz=200x90;ord=123456789?" border="0" alt="sponsor" width="200" height="90"></a></noscript><!-- End Ad tag: headerbrick--></span>
+  
+</div></div><div id="pageHeaderRow2"><a id="headerSiteLogo" href="/"><img src="/images/structures/headers/site_header_logo.jpg" width="325" height="90" alt="WCTI12.com"></a><div id="headerWx"><div id="headerWxCC"><div class="currentConditions" id="cc778088"><div class="locale"><a href="/weather/778088/detail.html">Greenville</a></div><img src="/sh/images/weather/weathericons/bonten/bern/35x35/clear_am_35x35.png" alt="Clear" border="0" width="35" height="35" class="wxicon" id="iconclear"><span class="tempF english">46<span class="degreesymbol">&deg;</span></span></div><div class="currentConditions" id="cc546356"><div class="locale"><a href="/weather/546356/detail.html">Jacksonville</a></div><img src="/sh/images/weather/weathericons/bonten/bern/35x35/clear_am_35x35.png" alt="Clear" border="0" width="35" height="35" class="wxicon" id="iconclear"><span class="tempF english">48<span class="degreesymbol">&deg;</span></span></div><div class="currentConditions" id="cc837973"><div class="locale"><a href="/weather/837973/detail.html">Atlantic Beach</a></div><img src="/sh/images/weather/weathericons/bonten/bern/35x35/partlycloudy_am_35x35.png" alt="Partly Cloudy" border="0" width="35" height="35" class="wxicon" id="iconpartlycloudy"><span class="tempF english">49<span class="degreesymbol">&deg;</span></span></div></div>
+    
+      
+  
+<span id="index24497746" class=" headerWxLinks"><div class="articlelink hasHeadlineIcon item"><a href="http://www.wcti12.com/weather/24047338/detail.html" class="iconed">Weather Conditions<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="http://www.wcti12.com/weather/24701188/detail.html" class="iconed">ZoomRadar<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="http://www.wcti12.com/gas-prices/index.html" class="iconed">Gas Prices<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="http://www.ncdot.org/traffictravel/" class="iconed">Road Closures<span class="headlineIcon"></span></a></div></span>
+  </div></div></div><div id="mainNav"><table border="0" cellspacing="0" cellpadding="0"><tr><td><div id="tn1" class="menuBar&#10;"><ul><li class="menuBarItem"><a href="/" class="menuBarLink">HOME</a></li></ul></div></td><td><div id="tn2" class="menuBar&#10;currentSection"><ul><li class="menuBarItem"><a href="/news/index.html" class="menuBarLink">NEWS</a><div class="subMenu"><ul><li class="subMenuItem"><a class="subMenuLink" href="/news-local/index.html">Local/State</a></li><li class="subMenuItem"><a class="subMenuLink" href="/nationalnews/index.html">Nation/World</a></li><li class="subMenuItem"><a class="subMenuLink" href="/politics/index.html">Politics</a></li><li class="subMenuItem"><a class="subMenuLink" href="/entertainment/index.html">Entertainment</a></li><li class="subMenuItem"><a class="subMenuLink" href="/irresistible/index.html">Odd and Irresistible</a></li><li class="subMenuItem"><a class="subMenuLink" href="/technology/index.html">Technology</a></li><li class="subMenuItem"><a class="subMenuLink" href="/news-archive/index.html">Local News Archive</a></li></ul></div></li></ul></div></td><td><div id="tn3" class="menuBar&#10;"><ul><li class="menuBarItem"><a href="/weather/index.html" class="menuBarLink">StormTrack 12</a><div class="subMenu"><ul><li class="subMenuItem"><a class="subMenuLink" href="/weather/index.html">StormTrack 12 Weather Center</a></li><li class="subMenuItem"><a class="subMenuLink" href="/weather-radar/index.html">StormTrack 12 Radar</a></li><li class="subMenuItem"><a class="subMenuLink" href="/hurricanes/index.html">Hurricane Center</a></li><li class="subMenuItem"><a class="subMenuLink" href="/weatherwarn/index.html">WeatherWarn</a></li><li class="subMenuItem"><a class="subMenuLink" href="/closings/index.html">Closings/Delays</a></li></ul></div></li></ul></div></td><td><div id="tn4" class="menuBar&#10;"><ul><li class="menuBarItem"><a href="/sports/index.html" class="menuBarLink">Sports</a><div class="subMenu"><ul><li class="subMenuItem"><a class="subMenuLink" href="/sports/index.html">Headlines</a></li><li class="subMenuItem"><a class="subMenuLink" href="/sports-video/index.html">Video</a></li><li class="subMenuItem"><a class="subMenuLink" href="/sports-scoreboard/index.html">Scoreboard</a></li></ul></div></li></ul></div></td><td><div id="tn5" class="menuBar&#10;"><ul><li class="menuBarItem"><a href="/community/index.html" class="menuBarLink">Community</a><div class="subMenu"><ul><li class="subMenuItem"><a class="subMenuLink" href="/community-happenings/index.html">Happenings</a></li><li class="subMenuItem"><a class="subMenuLink" href="/photos/index.html">Photo Galleries</a></li><li class="subMenuItem"><a class="subMenuLink" href="/opinion/index.html">Opinion</a></li><li class="subMenuItem"><a class="subMenuLink" href="/contests/index.html">Contests</a></li></ul></div></li></ul></div></td><td><div id="tn6" class="menuBar&#10;"><ul><li class="menuBarItem"><a href="/living/index.html" class="menuBarLink">Living</a><div class="subMenu"><ul><li class="subMenuItem"><a class="subMenuLink" href="/healthview/index.html">HealthView</a></li><li class="subMenuItem"><a class="subMenuLink" href="/automotive/index.html">Auto</a></li><li class="subMenuItem"><a class="subMenuLink" href="/education/index.html">Education</a></li><li class="subMenuItem"><a class="subMenuLink" href="/family/index.html">Family</a></li><li class="subMenuItem"><a class="subMenuLink" href="/food/index.html">Food and Cooking</a></li><li class="subMenuItem"><a class="subMenuLink" href="/gas-prices/index.html">Gas Prices</a></li><li class="subMenuItem"><a class="subMenuLink" href="/health/index.html">Health and Fitness</a></li><li class="subMenuItem"><a class="subMenuLink" href="/houseandhome/index.html">House and Home</a></li><li class="subMenuItem"><a class="subMenuLink" href="/money/index.html">Money</a></li><li class="subMenuItem"><a class="subMenuLink" href="/pets/index.html">Pets</a></li><li class="subMenuItem"><a class="subMenuLink" href="/travelgetaways/index.html">Travel and Getaways</a></li></ul></div></li></ul></div></td><td><div id="tn7" class="menuBar&#10;"><ul><li class="menuBarItem"><a href="/video/" class="menuBarLink">Video</a></li></ul></div></td><td><div id="tn8" class="menuBar&#10;"><ul><li class="menuBarItem"><a href="/foxeasterncarolina" class="menuBarLink">Fox Eastern Carolina</a><div class="subMenu"><ul><li class="subMenuItem"><a class="subMenuLink" href="/foxeasterncarolina-news/">News@10</a></li><li class="subMenuItem"><a class="subMenuLink" href="/foxeasterncarolina-weather/index.html">Weather</a></li><li class="subMenuItem"><a class="subMenuLink" href="/foxeasterncarolina-team/">News Team</a></li><li class="subMenuItem"><a class="subMenuLink" href="/foxeasterncarolina-contests/">Contests</a></li><li class="subMenuItem"><a class="subMenuLink" href="/foxeasterncarolina-whatson/index.html">What's On</a></li><li class="subMenuItem"><a class="subMenuLink" href="/foxeasterncarolina-employment/">Employment</a></li><li class="subMenuItem"><a class="subMenuLink" href="/foxeasterncarolina-advertise/">Advertise</a></li><li class="subMenuItem"><a class="subMenuLink" href="/foxeasterncarolina-contact/">Contact</a></li></ul></div></li></ul></div></td><td><div id="tn9" class="menuBar&#10;"><ul><li class="menuBarItem"><a href="http://www.wcti12.com/whatson/index.html" class="menuBarLink">What's On</a></li></ul></div></td><td><div id="tn10" class="menuBar&#10;"><ul><li class="menuBarItem"><a href="/about/" class="menuBarLink">ABOUT</a><div class="subMenu"><ul><li class="subMenuItem"><a class="subMenuLink" href="/newsteam/index.html">Our Team</a></li><li class="subMenuItem"><a class="subMenuLink" href="/advertise/index.html">Advertise</a></li><li class="subMenuItem"><a class="subMenuLink" href="/contact/index.html">Contact us</a></li><li class="subMenuItem"><a class="subMenuLink" href="/employment/index.html">Employment</a></li></ul></div></li></ul></div></td></tr></table></div><script type="text/javascript">new IBSYS.features.Navigation("mainNav");</script><div id="innerDocumentWrapper"><span class="breadcrumbs"><span class="brdcrmbhome"><a href="/" class="spancolcaphome">Home</a>&nbsp;/&nbsp;</span><span class="brdcrmbsect"><a class="spancolcapsection" href="/news/">News</a></span></span><div class="bodyTopSearchForm"><form name="searchForm" action="/search/form.html" class="compactSearchForm" method="get"><input class="searchInput" name="qt" type="text" size="30" value=""><span class="querySubmit"><input type="submit" value="" class="searchFormSubmit"></span><input type="hidden" name="stories" value="on"><input type="hidden" name="video" value="on"></form></div><script type="text/javascript">IBSYS.features.searchForm('bodyTopSearchForm');</script><div id="site-tools"><ul><li class="tooldefault rss"><a href="/rss/" target="" title="">RSS</a></li><li class="tooldefault "><a href="/emailnewsletters/" target="" title="">E-mail</a></li><li class="tooldefault "><a href="http://www.twitter.com/wcti12" target="_blank" title="">Twitter</a></li><li class="tooldefault "><a href="http://www.facebook.com/wcti12" target="_blank" title="">Facebook</a></li><li class="tooldefault "><a href="/mobile/" target="" title="">Mobile</a></li></ul></div><!-- end header -->
+			<div id="pageBody">
+				<div id="breakingNews"></div>
+				<div id="mainCols">
+					<div id="row1" class="row"><div id="story" class="pageContainer">
+  
+  
+
+<a href="detail.html#comments"><img src="http://farm6.static.flickr.com/5225/5764629249_6ba1c910a1_z.jpg"></a>
+
+
+<div class="Story" id="story30194440"><h1 class="Headline">U.K. Mom Coughs Up Cancer</h1><div class="Byline">
+By KATIE MOISSE // ABC News</div><span class="posted">POSTED: 7:35 am EST January 12, 2012</span><div class="storytools"></div><div id="sb" class="StoryBody small"><div class="AssocContent sidebar"><div class="AssocContentDIV"><div class="sidebarMedia">
+<div align="center" class="AssocContClkImg"><table class="clkImgTbl" cellpadding="0" cellspacing="0" border="0" width="212"><tr><td valign="top"><a title=""><img src="/2012/0112/30194465_212X320.jpg" width="212" height="320" id="image30194465" border="0"></a></td></tr></table></div></div></div></div><!--startindex--><strong class="Dateline">United Kingdom -- </strong>A mother of six from Coventry, U.K., said shes cancer-free after coughing up a three-quarter-inch tumor.<p></p>Claire Osborn, 37, was driving when she felt a tickle in her throat, <a href="http://www.dailymail.co.uk/health/article-2085040/Mother-saves-life-coughing-cancerous-tumour.html">the Daily Mail reported.</a>  Moments later, she hacked up a heart-shaped lump of liver-colored tissue.<p></p>I knew something was very wrong so I went straight to my GP who sent the tissue sample away for tests, Osborn told the Daily Mail.<p></p>The tests revealed Osborn had metastatic adenocarcinoma  an aggressive form of cancer that likely stemmed from glandular tissue at the back of her mouth. Doctors told her shed need chemotherapy to kill any remaining cancer and gave her 50-50 odds of surviving, Osborn said.  But when they ran a positron emission tomography (PET) scan to spot the cancer left behind, they found none.<p></p>The consultant turned round to me and said, It appears you have coughed up your cancer. Congratulations, Osborn told the Daily Mail. I was totally flabbergasted. I couldnt believe a coughing fit had saved my life.<p></p>Osborn had a small operation to remove any cancer cells that might have been lingering at the back of her mouth on Nov. 29, the Daily Mail reported.<p></p>Dr. Gary Walton, the head and neck surgeon who treated Osborn, said its rare for patients to cough up cancer, but not impossible.<p></p>We suspect the tumor grew on a stalk at the back of her mouth which is very difficult to detect, he told the Daily Mail. Somehow she dislodged this and the stalk snapped and she coughed up the tumor.<p></p>Dr. Edward Kim, chief of head and neck medical oncology at MD Anderson Cancer Center in Houston, said the coughing fit acted as surgical resection of sorts. But he added that metastatic adenocarcinoma usually requires chemo and radiation treatment, too.<p></p>Its very rare that these types of tumors dont require other treatments beyond surgery, he said.<p></p>As for the fluky fit that alerted Osborn to her cancer, Kim estimated fewer than 5 percent of patients discover mouth and throat tumors haphazardly.<p></p>Usually there are subtler symptoms, like difficulty with swallowing or speech, he said.<p></p>Osborn said shes lucky to have coughed up the cancer before it invaded other parts of her body.<p></p>If I hadnt coughed it up, the tumor would have grown and almost certainly spread to my other organs, she told the Daily Mail. Anyone with a persistent cough should get checked out as a precaution.<p></p>
+<i>Photo Courtesy: Daily Mail</i> <!--stopindex--><span class="clearBoth"></span><div class="storytools secondary"></div><div class="Copyright"></div><span class="clearBoth"></span></div><script type="text/javascript">
+(function(){
+var eventName = 'mediaType-tracking';
+var eventData =
+{
+primary_media_type: {type: "story", coid: "30194440", pool: "bern"},
+associated_media_types: [
+
+{type: "associated-image", coid: "30194465"}
+, 
+{type: "associated-image", coid: "30194465"}
+
+]
+};
+IBSYS.application.Application.announceEventProxy(eventName, eventData);
+})();
+</script></div>
+  
+  
+
+<meta property="fb:app_id" content="218967018119595">
+<meta property="fb:admins" content="100001202046402">
+<div id="fb-comments">
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js#appId=218967018119595&xfbml=1"></script>
+<span id="facebookComments" style="display:none">
+<a name="comments"></a>
+<h1 class="titlebar titlebar0"><span>Comments</span></h1>
+<div class="disclaimer" style="font-size:11px; font-style:italic; padding:1em;">
+The views expressed are not those of WCTI12.com, WCTI NewsChannel 12 or its affiliated companies. By posting your comments, you agree to accept our <a href="http://www.wcti12.com/station/29776815/detail.html">Public Forum Terms of Use</a>. 
+<br><br>
+<b>This is a community-moderated forum. If you see a comment you feel is abuse/spam, use the blue "X" in the top-right corner of the post to report that comment.</b>
+</div>
+</span>
+</div>
+<script>
+var comments_enabled = false;
+var metas = document.getElementsByTagName('meta');
+for (var x=0,y=metas.length; x<y; x++) {
+                if(metas[x].name.toLowerCase() == "dcsext.ib_comment_enabled"){
+                                if (metas[x].content == "yes"){
+                                                gogoFacebook();                              
+                                }
+                }
+}
+function gogoFacebook(){
+var facebook_span = document.getElementById('facebookComments');
+facebook_span.style.display = "block";  
+theelement = document.getElementById('facebookComments');
+facebooknode = document.createElement('fb:comments');
+var links = document.getElementsByTagName('link');
+for (var x=0,y=links.length; x<y; x++) {
+  if (links[x].rel.toLowerCase() == "canonical") {
+    canonical = links[x];
+    //facebooknode.setAttribute('href', canonical.href);
+    facebooknode.setAttribute('xid', canonical.href);
+   }
+}
+facebooknode.setAttribute('width', '625');
+facebooknode.setAttribute('migrated', '1');
+theelement.appendChild(facebooknode);
+}
+</script>
+
+  
+  
+
+<hr>
+<!--
+<a href="http://www.wcti12.com/fox-playground/26695090/detail.html">
+<img align="center" src="http://farm6.static.flickr.com/5141/5665903129_07137928e4_z.jpg" /></a>
+-->
+<div style="text-align: center;"><span style="color: red;"><b>CONTESTS SECTION: </b>
+Want to be a <b>winner?</b> To enter one of our contests,</span> <a href="http://www.wcti12.com/contests/index.html">click here!</a></div>
+<hr>
+<br>
+
+  
+  
+
+<br>
+<br>
+
+</div></div>
+					<div id="row2" class="row"></div>
+					<div id="row3" class="row">
+						<div class="leftCol"><div id="eta" class="pageContainer">
+  
+    
+      
+  <div id="sw27953836" class="mode-normal ts1"><h1 class="titlebar titlebar0"><span>Mugshots</span></h1><div class="sectionwidget0">
+  
+  
+
+<span style="color: red;"><b>NEW ADDITIONS &raquo; &raquo; &raquo;</b></span> 
+<table style="text-align: left; width: 300px;" border="0" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      
+<!-- LOCAL IMAGE -->
+
+<td style="text-align: center;">
+
+<script language="JavaScript"><!-- 
+
+//Javascript Created by Computerhope http://www.computerhope.com 
+
+//store the quotations in arrays 
+
+images = new Array(7); 
+
+images[0] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848442.jpg'></a>"; 
+
+images[1] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848444.jpg'></a>";
+
+images[2] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848445.jpg'></a>";
+
+images[3] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848446.jpg'></a>";
+
+images[4] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848448.jpg'></a>";
+
+images[5] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848449.jpg'></a>";
+
+images[6] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848450.jpg'></a>";
+
+index = Math.floor(Math.random() * images.length); 
+
+document.write(images[index]); 
+
+//done 
+
+// --></script>
+
+
+
+</td>
+
+
+<!-- NATIONAL IMAGE -->
+
+<td align="center">
+
+<script language="JavaScript"><!-- 
+
+//Javascript Created by Computerhope http://www.computerhope.com 
+
+//store the quotations in arrays 
+
+images = new Array(7); 
+
+images[0] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152204.jpg'></a>"; 
+
+images[1] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152205.jpg'></a>";
+
+images[2] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152206.jpg'></a>";
+
+images[3] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152207.jpg'></a>";
+
+images[4] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152208.jpg'></a>";
+
+images[5] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152209.jpg'></a>";
+
+images[6] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152210.jpg'></a>";
+
+index = Math.floor(Math.random() * images.length); 
+
+document.write(images[index]); 
+
+//done 
+
+// --></script>
+
+
+
+</td>
+
+
+
+    </tr>
+    <tr>
+      <td align="center"><a href="http://www.wcti12.com/photos/25039063/detail.html">LOCAL</a></td>
+      <td align="center"><a href="http://www.wcti12.com/photos/20067310/detail.html">NATIONAL</a></td>
+    </tr>
+  </tbody>
+</table>
+<p align="center"><a href="http://www.wcti12.com/photos/13744745/detail.html">Also check out these CELEBRITY mug shots!</a></p>
+
+</div></div>
+  
+  
+  <div id="sw27307210" class="mode-normal"><h1 class="titlebar titlebar0"><span>Editor's Picks</span></h1><div class="sectionwidget0">
+  
+    
+      
+  
+<span id="index24663503" class="MS"><div class="articlelink hasHeadlineIcon item"><a href="/news/30187186/detail.html" class="iconed">BBQ Joint Blasted Over Viral Customer Tiff<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/30186243/detail.html" class="iconed">No Jail Time For Dad Who Threw Son Off Boat<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/30177840/detail.html" class="iconed">Facebook Post Leads To Daddy's Indictment<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/30177651/detail.html" class="iconed">Airport Security Confiscates Woman's Cupcake<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/30171356/detail.html" class="iconed">Woman Forced To Attempt A Bank Robbery<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/30175610/detail.html" class="iconed">Twinkie Makers Set For Bankruptcy?<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/30168766/detail.html" class="iconed">Police Arrest Beezow Doo-Doo Zopittybop-Bop-Bop<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/30165262/detail.html" class="iconed">Relatives Accused of Killing Teen They Thought Was a Witch<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/30165515/detail.html" class="iconed">Papa Johns Employee Calls Woman Lady Chinky Eyes on Receipt<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/30165192/detail.html" class="iconed">Homework Asks, If Fred Got Two Beatings Per Day <span class="headlineIcon"></span></a></div></span>
+  
+</div></div>
+</div></div>
+						<div class="midCol"><div id="kappa" class="pageContainer">
+  
+    
+      
+  <div id="sw24047314" class="mode-normal accordian"><h1 class="titlebar titlebar0"><a href="/mostpopular/">Most Popular</a></h1><div class="sectionwidget0"><ul class="accordian"><li class="panel active"><h3><span class="arrow">Stories</span></h3><ul><li><div><h4><a href="/news/30193587/detail.html">Possible Tornado Rips Through Two Counties</a></h4><p class="clearfix"><img alt="" id="image30191768" title="" class="" src="/media/80x45/30191768.jpg"> NC NEWS 
+The National Weather Service says an
+apparent tornado ripped through Rutherford and Burke counties in
+western North Carolina, toppling trees, snapping power lines and
+causing significant damage to a mobile home park.
+
+
+</p></div></li><li><div><h4><a href="/news/30194304/detail.html">North Carolina Factory To Bulk Up Hiring</a></h4><p class="clearfix"><img alt="" id="image30194280" title="" class="" src="/media/80x45/30194280.jpg"> NC NEWS 
+A North Carolina factory that builds long-distance Freightliner trucks is announcing plans to bulk up hiring after the recession forced it to cut thousands of jobs.
+
+
+</p></div></li><li><div><h4><a href="/news/30192702/detail.html">3 In Hospital After Late Night Crash</a></h4><p class="clearfix"><img alt="" id="image30192389" title="" class="" src="/media/80x45/30192389.jpg"> CRAVEN COUNTY
+Two women And a child are in the hospital after a two-car crash in Craven County.
+
+
+</p></div></li><li><div><h4><a href="/news/30194170/detail.html">15 Injured in Storms in 2 North Carolina Counties</a></h4><p class="clearfix"><img alt="" id="image30194345" title="" class="" src="/media/80x45/30194345.jpg">NC NEWS
+At least 15 people have been hurt in an apparent tornado that struck two counties in western North Carolina.
+
+
+</p></div></li><li><div><h4><a href="/news/30194440/detail.html">U.K. Mom Coughs Up Cancer</a></h4><p class="clearfix"><img alt="" id="image30194465" title="" class="" src="/media/80x45/30194465.jpg">INTERNATIONAL NEWS
+A mother of six from Coventry, U.K., said shes cancer-free after coughing up a three-quarter-inch tumor.
+
+
+</p></div></li></ul></li><li class="panel"><h3><span class="arrow">Video</span></h3><ul><li><div><h4><a href="/video/30185092/index.html">Housing Authority Meeting</a></h4><p class="clearfix"></p></div></li><li><div><h4><a href="/video/30194348/index.html">Marine Conduct In Question</a></h4><p class="clearfix"></p></div></li><li><div><h4><a href="/video/30191493/index.html">Cat Hit by Arrow</a></h4><p class="clearfix"></p></div></li><li><div><h4><a href="/video/30194417/index.html">Sports Highlights: Jan 11</a></h4><p class="clearfix"></p></div></li><li><div><h4><a href="/video/30191532/index.html">Police Investigating Sorority House Break-Ins</a></h4><p class="clearfix"></p></div></li></ul></li><li class="panel"><h3><span class="arrow">Slideshows</span></h3><ul><li><div><h4><a href="javascript:popUp('/slideshow/news/25039063/detail.html','width=1024,height=820,top=0,left=0,scrollbars');">Best Of Local Mugshots</a></h4><p class="clearfix"><img alt="" id="image28394984" title="" class="" src="/media/80x45/28394984.jpg">All information taken from public records. All images show people who face the listed charges. They are innocent until proven guilty.
+
+
+</p></div></li><li><div><h4><a href="javascript:popUp('/slideshow/entertainment/13744745/detail.html','width=1024,height=820,top=0,left=0,scrollbars');">Celebrity Mug Shots</a></h4><p class="clearfix"><img alt="Phil Spector" id="image27201961" title="" class="" src="/media/80x45/27201961.jpg">Take a tour of our gallery of celebrity mug shots, featuring familiar faces dating back to 1938.
+
+
+</p></div></li><li><div><h4><a href="javascript:popUp('/slideshow/entertainment/20067310/detail.html','width=1024,height=820,top=0,left=0,scrollbars');">Best Of The Worst: Mug Shot Hall Of Shame</a></h4><p class="clearfix"><img alt="" id="image29891389" title="" class="" src="/media/80x45/29891389.jpg">Check out these lookers who ran into the law. 
+
+
+</p></div></li></ul></li></ul><div class="morestories"><a href="/mostpopular/">More Most Popular&nbsp;<span class="redFont">&raquo;</span></a></div></div></div>
+  
+  
+  <div id="sw24453537" class="mode-normal"><h1 class="titlebar titlebar0"><span>Email Sign-up</span></h1><div class="sectionwidget0">
+  
+  
+<div id="component_N73007A18EA" class="component IBSYS-widgets-ezMailForm"><div class="emailsignupobject"><form action="/emailnewsletters/index.html" method="get" class="formInline"><input type="hidden" name="sitekey" value="bern"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td colspan="2" align="center"><div class="Headline" id="headline">E - News Registration</div></td></tr><tr><td width="10%">&nbsp;</td><td valign="top"><input type="checkbox" name="dlist" value="bern_natlbreak_TEXT"><span class="small">National Breaking News</span><br><input type="checkbox" name="dlist" value="bern_break_TEXT"><span class="small">Local Breaking News</span><br><input type="checkbox" name="dlist" value="bern_12pm_HTML"><span class="small">Lunchtime Headlines</span><br><input type="checkbox" name="dlist" value="bern_6pm_HTML"><span class="small">Evening Headlines</span><br></td></tr><tr><td colspan="2" align="center"><input type="text" name="email" class="enewsSignupField" value="Enter Email" size="13" maxlength="100"><input type="image" name="submit" width="57" height="15" border="0" src="/images/structures/buttons/button_continue.gif"></td></tr></table></form></div></div><span xmlns:esi="http://www.edge-delivery.org/esi/1.0"></span><script type="text/javascript">
+IBSYS.application.Application.registerComponent('IBSYS.widgets.ezMailForm','N73007A18EA',{
+'emailPrompt':'Enter Email'
+});
+</script><script type="text/javascript" src="/_public/js/lib/yui_2.5.1/build/connection/connection-min.js"></script><script type="text/javascript" src="/_public/js/treet/SevereWeatherAlertsManager-min.js"></script>
+</div></div>
+</div></div>
+					</div>
+				</div>
+				<div id="rightCol"><div id="delta" class="pageContainer">
+  
+    
+      
+  
+<span class="adWrap noAdTab adbrickWrap"><!-- Begin Ad tag: brick--><span id="ad_N730079.BFC" class="adObj adbrick"><script type="text/javascript">
+IBSYS.ad.AdManager.registerPosition({
+"iframe": false,
+"companion": true,
+"addlSz": "",
+"element": "ad_N730079.BFC",
+"interstitials": false,
+"beginDate": "",
+"endDate": "",
+"getSect": "yes",
+"name": "brick",
+"qString": "",
+"width": "300",
+"height": "50",
+"section": "",
+"useId": "30194440",
+"interactive": false,
+"useSameCategory": false,
+"topic": "",
+"swSectionRoot": "",
+"useZone": "",
+"containerType": "page",
+"containerID": "142478",
+"type": "DOM"
+});
+</script></span><noscript><a href="http://ad.doubleclick.net/jump/ibs.bern.news/local;kw=news+brick+30194440;ad=true;pgtype=detail;tile=1;sz=300x50;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.bern.news/local;kw=news+brick+30194440;ad=true;pgtype=detail;tile=1;sz=300x50;ord=123456789?" border="0" alt="sponsor" width="300" height="50"></a></noscript><!-- End Ad tag: brick--></span>
+  
+  
+  
+
+
+
+
+<table style="text-align: left; width: 310px;" border="0" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td align="center"><img style="width: 10px; height: 10px;" alt="" src="http://farm6.static.flickr.com/5184/5664927141_c9eb919d92_z.jpg"></td>
+      <td style="text-align: center;"><div id="fb-root">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fwcti12&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=285" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:285px;" allowTransparency="true"></iframe>
+</div>
+</td>
+    </tr>
+  </tbody>
+</table>
+
+   
+
+
+
+
+
+
+
+
+
+  
+  
+
+<br>
+<br>
+
+  
+  <div id="sw28823958" class="mode-normal"><h1 class="titlebar titlebar0"><a href="/news/">Bonten Media News</a></h1><div class="sectionwidget0">
+  
+    
+      
+  
+<span id="index28756836" class="MS"><div class="articlelink hasHeadlineIcon item"><a href="http://www.krcrtv.com/news/30145707/detail.html" class="iconed">Gray Wolf 'OR7' Confirmed In Shasta County<span class="headlineIcon"></span></a></div></span>
+  
+  
+    
+      
+  
+<span id="index28756368" class="MS"><div class="articlelink hasHeadlineIcon item"><a href="http://www.ktxs.com/news/30151581/detail.html" class="iconed">Man Tries To Set Girlfriend On Fire After Dousing Her In Flammable Liquid<span class="headlineIcon"></span></a></div></span>
+  
+  
+    
+      
+  
+<span id="index28757327" class="MS"><div class="articlelink hasHeadlineIcon item"><a href="http://www.nbcmontana.com/news/30167483/detail.html" class="iconed">Sheriff's Office Releases Names Of 2 Killed In Bus Accident<span class="headlineIcon"></span></a></div></span>
+  
+  
+    
+      
+  
+<span id="index28730685" class="MS"><div class="articlelink hasHeadlineIcon item"><a href="http://www.wcyb.com/news/30170575/detail.html" class="iconed">$100,000 Dump Truck Stolen From Roofing Business<span class="headlineIcon"></span></a></div></span>
+  
+</div></div>
+  
+    
+      
+  
+<span class="adWrap noAdTab adsquareWrap"><!-- Begin Ad tag: square--><span id="ad_N730079.16A9" class="adObj adsquare"><script type="text/javascript">
+IBSYS.ad.AdManager.registerPosition({
+"iframe": false,
+"companion": true,
+"addlSz": "",
+"element": "ad_N730079.16A9",
+"interstitials": false,
+"beginDate": "",
+"endDate": "",
+"getSect": "yes",
+"name": "square",
+"qString": "",
+"width": "300",
+"height": "250",
+"section": "",
+"useId": "30194440",
+"interactive": false,
+"useSameCategory": false,
+"topic": "",
+"swSectionRoot": "",
+"useZone": "",
+"containerType": "page",
+"containerID": "142478",
+"type": "DOM"
+});
+</script></span><noscript><a href="http://ad.doubleclick.net/jump/ibs.bern.news/local;kw=news+square+30194440;ad=true;pgtype=detail;tile=2;sz=300x250;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.bern.news/local;kw=news+square+30194440;ad=true;pgtype=detail;tile=2;sz=300x250;ord=123456789?" border="0" alt="sponsor" width="300" height="250"></a></noscript><!-- End Ad tag: square--></span>
+  
+  
+    
+      
+  <span class="containerwidget" id="cw26132714">
+
+<span class="containerwidget" id="cw29888957">
+  
+  <div id="sw29889201" class="mode-normal"><h1 class="titlebar titlebar0"><span>Links We Like</span></h1><div class="sectionwidget0">
+  
+  
+
+<!-- Begin Cox Digital Solutions Page Tag for [page name] on "wcti" -->
+<script type="text/javascript">
+	cdsTag = {};
+	cdsTag.zones = {};
+	cdsTag.zones.as1000008008207 = { "size" : "300x404", "id" : "1000008008207" };
+	cdsTag.siteId = 1000101862180;
+	cdsTag.keywords = null;
+	cdsTag.user = null;
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/cdsad.js"></script>
+<!-- End Cox Digital Solutions Page Tag for [page name] on "wcti" -->
+
+
+
+<!-- Begin Cox Digital Solutions Ad Space Tag for "Links We Like Container" Ad Space(300x404) ID#1000008008207 -->
+<script type="text/javascript">cdsPlaceAd("as1000008008207");</script>
+<!-- End Cox Digital Solutions Ad Space Tag for "Links We Like Container" Ad Space(300x404) ID#1000008008207 -->
+
+</div></div>
+</span>
+
+</span>
+  
+  
+    
+      
+  <div id="sw26132670" class="mode-normal rotatingWidget"><h1 class="titlebar titlebar0"><span>Sponsored Links</span></h1><div class="sectionwidget0">
+
+
+
+<!-- Begin Cox Digital Solutions Page Tag for [page name] on "wcti" -->
+<script type="text/javascript">
+	cdsTag = {};
+	cdsTag.zones = {};
+	cdsTag.zones.as1000008155207 = { "size" : "300x360", "id" : "1000008155207" };
+	cdsTag.siteId = 1000101862180;
+	cdsTag.keywords = null;
+	cdsTag.user = null;
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/cdsad.js"></script>
+<!-- End Cox Digital Solutions Page Tag for [page name] on "wcti" -->
+
+
+
+<!-- Begin Cox Digital Solutions Ad Space Tag for "Rotating Widget Container" Ad Space(300x360) ID#1000008155207 -->
+<script type="text/javascript">cdsPlaceAd("as1000008155207");</script>
+<!-- End Cox Digital Solutions Ad Space Tag for "Rotating Widget Container" Ad Space(300x360) ID#1000008155207 -->
+
+
+
+
+
+<style type="text/css">
+.ib_rw_container { font-family: Verdana,Arial,sans-serif; font-size: 12px; font-weight: normal; width: 270px;}
+.ib_rw_list{ margin-left: 5px; padding-left: 10px; }
+.ib_rw_list_item  { padding-bottom: 6px;  padding-top: 4px; float: left; }
+.ib_rw_anchor{}
+.ib_rw_image{ border: 1px solid black;margin: 0px 10px 0px 0px;}
+.ib_rw_container a.ib_rw_anchor, .ib_rw_container a.ib_rw_anchor:link, .ib_rw_container a.iconed:visited{font-size: 12px;color: #000066;text-decoration: none;font-weight:bold;}
+a.ib_rw_anchor:hover{text-decoration: underline;}
+.ib_rw_filler{ cursor: pointer;display: inline-block;height: 12px;left: 3px;margin-right: -22px;margin-top: 1px;position: relative;vertical-align: top;width: 22px;}
+.ib_rw_titlebar{margin: 0;border-bottom: 1px solid #000066;padding: 4px 4px 3px;font: bold 14px Arial,Verdana,sans-serif;}
+.yui-u .rotatingWidget div.sectionwidget0{height:230px;}/* POST */
+div#sw26132670 div.sectionwidget0{height:240px;} /* TELE */
+.gatewayOn div#sw26132670 div.sectionwidget0{height:230px;} /* Hearst*/
+</style>
+
+<!-- New CDS CSS -->
+<style type="text/css">
+.cds_sl_rw_container { height:230px; padding: 5px 10px 0; }
+.cds_sl_rw_container_liner { height: 220px; overflow:visible; }
+.cds_sl_rw_ad_liner { padding-top: 5px; }
+</style>
+
+
+</div></div>
+  
+</div></div>
+				<div id="preFooter"></div>
+			</div>
+		</div><!-- begin footer --><div id="pageFooter"><div id="pageFooterTop"></div><div id="toc" class="pageContainer">
+	    <div id="sw24497735" class="mode-normal"><h1 class="titlebar titlebar0"><span>Table of Contents</span></h1><div class="sectionwidget0">
+  
+  
+<span id="index24497694" class=""><div class="articlelink hasHeadlineIcon item"><a href="/index.html" class="iconed">Home<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/news/" class="iconed">News<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/weather/" class="iconed">Weather<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/sports/index.html" class="iconed">Sports<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/community/" class="iconed">Community<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/politics/index.html" class="iconed">Politics<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/money/index.html" class="iconed">Money<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/video/index.html" class="iconed">Video<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/about/index.html" class="iconed">About<span class="headlineIcon"></span></a></div><div class="articlelink hasHeadlineIcon item"><a href="/foxeasterncarolina/index.html" class="iconed">Fox Eastern Carolina<span class="headlineIcon"></span></a></div></span>
+</div></div>
+	</div><div id="pageFooterRight"><p>Copyright &copy; 2012&nbsp;WCTI / WFXI / WYDO &nbsp; &nbsp; New Bern, NC USA - All Rights Reserved.</p><p>
+In association with:
+<span id="ibsysBug" class="bugLogo"><a href="http://www.ibsys.com/"><img src="/images/structures/misc/ib_logo.png" border="0"></a></span><span id="cnnBug" class="bugLogo"><a href="http://www.cnn.com/"><img src="/images/structures/misc/cnn_logo.png" border="0"></a></span></p><p><a class="footerLink" href="/contact/">Contact Us</a> | <a class="footerLink" href="/station/24451131/detail.html">Privacy Policy</a> | <a class="footerLink" href="/station/24451175/detail.html">Terms Of Use</a> | <a class="footerLink" href="/advertise/" rel="nofollow">Advertising</a> | <a class="footerLink" href="/employment/">EEO Policy</a> | <a class="footerLink" href="http://go.microsoft.com/fwlink/?LinkId=21969">Microsoft MapPoint Terms of Use</a> | <a class="footerLink" href="http://go.microsoft.com/fwlink/?LinkId=21970">Microsoft Privacy Statement</a> | <a class="footerLink" href="/sitemap/">Site Map</a> | <a class="footerLink" href="http://www.wunderground.com" rel="nofollow">Some Images Provided by Weather Underground, Inc.</a></p></div><span class="clearBoth"></span></div></div>
+<!-- Added Back the fullpathed domain for search bug pts 43483 -->
+<!-- Restored fullpath 5/6/08 : mwolfe : PTS 138706 -->
+<script type="text/javascript" src="http://www.wcti12.com/js/5271885,5097349/script.js"></script>
+
+
+<SCRIPT LANGUAGE="Javascript"><!--
+gVersion="1.0";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.3"><!--
+gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
+			}
+		}
+		catch(e){
+		}
+	}
+}
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+
+var gDomain="statse.webtrendslive.com";
+var gDcsId=siteinfo.thirdparty_info.WT_info.id;
+if (siteinfo.callletters.uc)
+    DCSext.ib_station=siteinfo.callletters.uc;
+else
+    DCSext.ib_station=siteinfo.sitekey.uc;
+if (siteinfo.owner)
+    DCSext.ib_partner=siteinfo.owner;
+else
+    DCSext.ib_partner=siteinfo.sitename.mx;
+
+if (siteinfo.distribution) {
+  DCSext.ib_ntwk = siteinfo.distribution;
+}
+
+(function() {
+  if (IBSYS.ad.getDartNulls) {
+    var nullAds = IBSYS.ad.getDartNulls();
+    if (nullAds) {
+      DCSext.ib_null_ads = nullAds;
+    }
+  }
+})();
+//-->
+</SCRIPT>
+<!-- call DCS functions -->
+<script type="text/javascript">
+IBSYS.using('WebTrends');
+if (typeof ib_WTCustomTags == "function") ib_WTCustomTags();
+if (typeof IBSYS.WebTrends.collectUserData == 'function') IBSYS.WebTrends.collectUserData();
+if (typeof dcsVar == "function") dcsVar();
+
+if (IBSYS.application.Application.getProperty('tracking.remapReferrer') && document.referrer && IBSYS.propPath('siteinfo.distribution') == 'ext') {
+  (function() {
+    var ref = document.referrer.match(/(?:[^:]+:\/\/)?([^\/]+)([^\?]*)\??(.*)/);
+    window.DCS.dcssip = ref[1];
+    window.DCS.dcsuri = ref[2];
+    window.DCS.dcsqry = ref[3];
+  })();
+}
+
+if (IBSYS.propPath('IBSYS.widgets.LinksWeLike')) {
+  IBSYS.widgets.LinksWeLike.prepLegacyWT();
+}
+
+if (typeof dcsMeta == "function")  dcsMeta();
+if (typeof dcsFunc == "function") dcsFunc("dcsAdv");
+if (IBSYS && IBSYS.event) {
+  (function() {
+    var e = new IBSYS.event.GlobalEvent('beforeDcsTag');
+    try {
+      IBSYS.application.Application.announceEvent(e);
+    } catch (ex) {}
+  })();
+}
+if (typeof dcsTag == "function") {
+  if (window.location.hostname.indexOf('channel4000.com') < 0) {
+    if (IBSYS.qs('noWTPageView') != 'true' && !IBSYS.noLegacyTracking) {
+      dcsTag();
+    }
+  } else {
+    setTimeout(function() {
+      dcsTag();
+    }, 2000);
+  }
+}
+</script>
+
+
+<noscript>
+<IMG alt="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" src="http://statse.webtrendslive.com/dcs8ch6t810000w06ytkacern_3p7y/njs.gif?dcsuri=/nojavascript&WT.js=No">
+</noscript>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "12367761" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=12367761&cv=2.0&cj=1">
+</noscript>
+<!-- End comScore Tag -->
+
+<!--
+Time: 8:55:40 EST
+Date: 1/12/2012
+XSL File: index.xsl
+Browser Type: 
+Page Type: detail
+Section Site: bern
+-->
+<span xmlns:esi="http://www.edge-delivery.org/esi/1.0"><!--Load Scripts--><script src="/_public/js/widgets/ezMailForm-min.js"> </script><script src="/_public/js/lib/yui_2.5.1/build/connection/connection-min.js"> </script></span><script type="text/javascript"> _qoptions={ qacct:"p-41jrVeSPpekVU",
+labels:"Bonten Television Stations" }; </script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><noscript><a href="http://www.quantcast.com/p-41jrVeSPpekVU" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-41jrVeSPpekVU.gif?labels=Bonten%20Television%20Stations%20" style="display: none;" border="0" height="1" width="1" alt="Quantcast"></a></noscript><script src="/_public/js/ibLast.js" type="text/javascript"></script></body></html>

@@ -1,0 +1,737 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="ru" lang="ru">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Сельским медикам компенсируют оплату жилья и коммунальных услуг, tverlife.ru</title>
+    <link rel="stylesheet" href="/c/main.css" type="text/css"/>
+    <link rel="stylesheet" href="/c/tia.css?0.0.2" type="text/css"/>
+    <link rel="stylesheet" href="/c/thickbox.css" type="text/css"/>
+    <link rel="stylesheet" href="/c/modal.css?0.0.2" type="text/css"/>
+    <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/c/ie7.css?{$version}"/><![endif]-->
+    <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/c/ie6.css?{$version}"/><![endif]-->
+    <script type="text/javascript" src="/j/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="/j/jcode.js?0.0.2">
+      
+    </script>
+    <script type="text/javascript" src="/j/main.js?0.0.2">
+      
+    </script>
+    <script type="text/javascript" src="/j/thickbox.js?0.0.2"></script>
+    <script type="text/javascript" src="/j/common.js?0.0.2"></script>
+    <script type="text/javascript" src="/j/generic/validateForm.js?0.0.2"></script>
+    <script type="text/javascript" src="/j/modal/modalContents.js?0.0.2"></script>
+    <script type="text/javascript" src="/j/jquery.validate.js?0.0.2"></script>
+    <script type="text/javascript" src="/j/vote.js?0.0.2"></script>
+    <script type="text/javascript" src="/j/modal/login2.js?0.0.2"></script>
+    <script type="text/javascript">var loggedIn = 0</script>
+    <script type="text/javascript" src="/j/comments.js"></script>
+    <script type="text/javascript" src="/j/news.js"></script>
+    <link rel="stylesheet" href="/upload/ds-style.css?0.0.2" type="text/css"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+    <link rel="alternate" type="application/rss+xml" title="Тверская Жизнь: События дня" href="/rss.html"/>
+    <link rel="alternate" type="application/rss+xml" title="Тверская Жизнь: Короткой строкой" href="/short-news/rss.html"/>
+    <link rel="alternate" type="application/rss+xml" title="Тверская Жизнь: Новости" href="/news/rss.html"/>
+    <link rel="alternate" type="application/rss+xml" title="Тверская Жизнь: Новости с видео" href="/video/rss.html"/>
+  </head>
+  <body>
+    <div id="main">
+      <div id="header">
+        <div id="auth">
+          <div id="a-left">
+            <div class="unauth"><b>Клуб читателей:</b> <a href="/login.html?TB_inline&amp;height=275&amp;width=530&amp;inlineId=modal-loginForm&amp;modal=true&amp;showHandler=modalLoginContentResetToLogin()" class="thickbox">войти</a>
+				или
+				<a title="зарегистрироваться" href="/registration/">зарегистрироваться</a></div>
+          </div>
+          <div id="a-right">
+            <a href="/editorial/">
+              <img title="Тверская Жизнь" alt="Тверская Жизнь" src="/i/tl.gif"/>
+            </a>
+          </div>
+        </div>
+        <div class="partner"><a href="http://atlas-lux.ru" target="_blank"><img src="/img/b/103.gif"/></a></div>
+        <ul id="switch">
+          <li style="display: block; text-align: right;"> </li>
+        </ul>
+        <div id="l">
+          <a href="/">
+            <img alt="Тверская Жизнь" title="Тверская Жизнь" src="/i/l.gif"/>
+          </a>
+          <div id="date-now">Вторник, 17 января 2012, <div id="server-datetime"><span class="hours">20</span><span class="colon">:</span><span class="minutes">00</span></div></div>
+        </div>
+        <ul class="site-versions">
+          <li>
+            <a href="http://pda.tverlife.ru/">PDA-версия</a>
+            <br/>
+            <a href="/audio/">
+              <img style="margin-top: 15px;" title="Аудиоверсия" alt="Аудиоверсия" src="/img/aud.png"/>
+            </a>
+            <br/>
+            <a href="/pv/">
+              <img style="margin-left: -5px; margin-top: 10px;" title="Версия для слабовидящих" alt="Версия для слабовидящих" src="/img/pv-text.png"/>
+            </a>
+          </li>
+        </ul>
+        <br style="clear: left"/>
+        <ul class="b-menu">
+          <li class="b-btn">
+            <div class="b-btn-wr">
+              <a class="arr-down" title="Изменить" href="#">Новости районов</a>
+            </div>
+          </li>
+          <li>
+            <div class="wr">
+              <a href="/news/cat_47/">• Дзюдо</a>
+            </div>
+          </li>
+          <li>
+            <div class="wr">
+              <a href="/news/cat_26/">• Футбол</a>
+            </div>
+          </li>
+          <li>
+            <div class="wr">
+              <a href="/news/cat_28/">• Хоккей</a>
+            </div>
+          </li>
+          <li>
+            <div class="wr">
+              <a href="/news/cat_33/">• Баскетбол</a>
+            </div>
+          </li>
+          <li>
+            <div class="wr">
+              <a href="/news/cat_29/">• Волейбол</a>
+            </div>
+          </li>
+        </ul>
+        <form id="srch-form" action="/search/" method="get">
+          <fieldset>
+            <input type="text" name="query" class="text autocomplete-off" id="search-query" autocomplete="off" value="Поиск по сайту"/>
+            <input type="submit" class="button" id="srch-find" value="Найти"/>
+            <div id="quick-search-wrapper">
+              
+            </div>
+          </fieldset>
+        </form>
+        <ul class="clear" id="navmenu">
+          <li class=" first">
+            <a href="/">Главная</a>
+          </li>
+          <li class=" spliter selected">
+            <a href="/short-news/">Новости</a>
+          </li>
+          <li class=" spliter" id="no-brdr">
+            <a href="/news/cat_46/">Фото</a>
+          </li>
+          <li class=" spliter">
+            <a href="/video/">Видео</a>
+          </li>
+          <li class=" spliter">
+            <a href="/docs/">Документы</a>
+          </li>
+          <li class=" spliter">
+            <a href="/playbill/">Афиша</a>
+          </li>
+          <li class=" spliter">
+            <a href="/blog/">Блоги</a>
+          </li>
+          <li class=" spliter left last">
+            <a href="/advertising/">Реклама</a>
+          </li>
+          <li class=" spliter left">
+            <a href="/editorial/vacancy.html">Вакансии</a>
+          </li>
+          <li class=" spliter left">
+            <a href="/readers-club/subscribe/">Подписка</a>
+          </li>
+          <li class=" rss left">
+            <a href="/readers-club/rss.html">RSS</a>
+          </li>
+        </ul>
+        <div id="smenu">
+          <ul>
+            <li>
+              <a href="/news/cat_48/">Гордость земли Тверской</a>
+            </li>
+            <li>
+              <a href="/news/cat_2/">Политика</a>
+            </li>
+            <li>
+              <a href="/news/cat_3/">Экономика</a>
+            </li>
+            <li>
+              <a href="/news/cat_42/">Летопись</a>
+            </li>
+            <li>
+              <a href="/news/cat_4/">Культура</a>
+            </li>
+            <li>
+              <a href="/news/cat_43/">Служба</a>
+            </li>
+            <li>
+              <a href="/news/cat_5/">Социум</a>
+            </li>
+            <li>
+              <a href="/news/cat_38/">ЖКХ</a>
+            </li>
+            <li>
+              <a href="/news/cat_14/">Транспорт</a>
+            </li>
+            <li>
+              <a href="/news/cat_7/">Экология</a>
+            </li>
+            <li>
+              <a href="/news/cat_36/">Агро</a>
+            </li>
+            <li>
+              <a href="/news/cat_9/">Образование</a>
+            </li>
+            <li>
+              <a href="/news/cat_10/">Спорт</a>
+            </li>
+            <li>
+              <a href="/news/cat_8/">Здоровье</a>
+            </li>
+            <li>
+              <a href="/news/cat_6/">ЧП</a>
+            </li>
+            <li>
+              <a href="/news/cat_11/">Туризм</a>
+            </li>
+            <li>
+              <a href="/news/cat_45/">Детская</a>
+            </li>
+            <li>
+              <a href="/news/cat_12/">P.S.</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="clear">
+        
+      </div>
+      <div class="clear">
+        
+      </div>
+      <div id="container">
+		
+		
+	
+
+
+	
+		
+		
+			
+			
+				
+			
+		
+		
+	
+
+
+		
+		
+	
+
+
+	
+		
+		
+			
+		
+	
+	
+		
+	
+		<div class="content"><div class="cont-text-r"><div class="cont-text-wr"><div class="full-news"><div class="author">editor</div><div class="stats"><span class="time">15 января 15:31</span></div><h1 class="clear">Сельским медикам компенсируют оплату жилья и коммунальных услуг</h1><div class="descr"><p>С 2012 года медикам и фармацевтам, которые проживают и работают в федеральных госучреждениях на селе, будет выплачиваться ежемесячная денежная компенсация на оплату жилья, электроэнергии и отопления в размере 1200 рублей, сообщила пресс-служба Минздравсоцразвития.</p>
+
+<p>Речь идет о медработниках медицинских учреждений, находящихся в ведении Минздравсоцразвития, Роспотребнадзора, Минобороны и других федеральных ведомств. Таким образом, будут уравнены в правах работающие на селе медики федеральных и региональных учреждений.</p>
+
+<p>На региональном уровне социальная поддержка предоставляется в натуральной форме, либо в виде компенсации за жилье и коммунальные услуги. В ряде регионов установлены фиксированные ежемесячные денежные выплаты.</p>
+
+<p>Тем сельским медикам и фармацевтам, которые с 1 января 2005 года по 31 декабря 2011 года работали в федеральных учреждениях здравоохранения и при этом имели право на бесплатное предоставление квартир с отоплением и освещением, в 2012 году будет предоставлена единовременная денежная выплата. Однако если в этот промежуток времени работник получал компенсации за оплату коммунальных услуг и жилья по иным основаниям (как ветеран труда или инвалид войны), то указанная выплата осуществляться не будет, пишет "Трибуна".</p>
+
+<p>Указанные выплаты сельские медики будут получать либо по настоящему месту работы, либо, в случае единовременной выплаты, - по месту последней работы в федеральном учреждении.</p>
+
+<p> </p>
+</div></div></div><div class="cont-video-short"><h2 class="header" style="margin-top: 29px;">Архив</h2><div class="clear"></div><ul class="arch"><li class="selected">2012<div class="clear"></div><ul><li><strong><a href="/short-news/2012/1/17/">январь</a></strong></li></ul></li><li><a href="/short-news/2011/12/31/">2011</a></li><li><a href="/short-news/2010/12/31/">2010</a></li><li><a href="/short-news/2009/12/31/">2009</a></li><li><a href="/short-news/2008/12/31/">2008</a></li></ul><div class="clear"></div><hr class="separator"/><p style="padding-left: 20px"><a href="/news/archive/">Архив по всем рубрикам</a></p><div style="clear: left; padding: 10px 8px 20px 20px;"><h3>Предыдущая новость:</h3><p><a href="/short-news/53201.html"> На факультете прикладной математики и кибернетики ТвГУ пройдет День открытых дверей</a></p><h3>Следующая новость:</h3><p><a href="/short-news/53195.html">Выдвинут кандидат на пост главы администрации Вышневолоцкого района</a></p></div></div><div class="clear"></div><br/><br/><div class="in-2col-bnr"><div class="pl-45"></div></div></div></div><div class="right"><div class="bn"><div class="partner"><a href="http://archive.tverlife.ru/pdf/2012/01/" target="_blank"><img src="/img/b/102.jpg"/></a></div><div class="partner"><a href="http://tverlife.ru/news/cat_15/" target="_blank"><img src="/img/b/64.jpg"/></a></div><div class="partner"><a href="http://www.erismann.ru/" target="_blank"><img src="/img/b/14.jpg"/></a></div><div class="partner"><a href="http://fc-volga.ru/" target="_blank"><img src="/img/b/40.jpg"/></a></div><div class="partner"><a href="http://tverlife.ru/news/cat_41/" target="_blank"><img src="/img/b/75.gif"/></a></div><div class="partner"><a href="http://www.tverlife.ru/news/cat_30/" target="_blank"><img src="/img/b/57.png"/></a></div><div class="partner"><a href="http://www.pospelov.org/" target="_blank"><img src="/img/b/24.jpg"/></a></div><div class="partner"><a href="http://tverlife.ru/news/cat_27/" target="_blank"><img src="/img/b/65.jpg"/></a></div><div class="partner"><a href="http://vkontakte.ru/club20876080" target="_blank"><img src="/img/b/69.jpg"/></a></div><div class="partner"><a href="http://twitter.com/tverlifeRU" target="_blank"><img src="/img/b/68.jpg"/></a></div><div class="partner"><a href="http://www.facebook.com/pages/tverliferu/147796121947637" target="_blank"><img src="/img/b/67.jpg"/></a></div></div><div style="padding-left: 16px;"><a href="http://clck.yandex.ru/redir/dtype=stred/pid=7/cid=1228/*http://weather.yandex.ru/index.xml?city=27402"><img src="http://info.weather.yandex.net/informer/175x114/27402.png" border="0" alt="Яндекс.Погода"/><img width="1" height="1" src="http://clck.yandex.ru/click/dtype=stred/pid=7/cid=1227/*http://img.yandex.ru/i/pix.gif" alt="" border="0"/></a></div><div class="info"><h3>Курсы валют ЦБ</h3><table width="100%" cellspacing="0" cellpadding="0" border="0" summary="Курсы валют ЦБ"><thead><tr><td> </td><td>сегодня</td></tr></thead><tbody><tr><td>USD</td><td><b>31.93</b></td></tr><tr><td>EUR</td><td><b>40.38</b></td></tr></tbody></table></div><a name="vote"></a><div class="vote"><h3>Опрос</h3><p>Как вы провели новогодние каникулы?</p><form action="http://www.tverlife.ru/short-news/53202.html#vote" method="post" id="vote-form"><fieldset><input type="hidden" name="voting_id" id="voting_id" value="82"/><ul><li><input type="radio" id="vote_answ_580" value="580" name="vote_answ"/><label for="vote_answ_580">Просидел все праздники дома</label></li><li><input type="radio" id="vote_answ_581" value="581" name="vote_answ"/><label for="vote_answ_581">Все новогодние каникулы был с друзьями (за городом)</label></li><li><input type="radio" id="vote_answ_582" value="582" name="vote_answ"/><label for="vote_answ_582">Отдыхал за границей</label></li><li><input type="radio" id="vote_answ_583" value="583" name="vote_answ"/><label for="vote_answ_583">Все каникулы занимался делами</label></li><li><input type="radio" id="vote_answ_584" value="584" name="vote_answ"/><label for="vote_answ_584">У меня был активный отдых</label></li></ul><br/><input type="submit" value="Голосовать"/></fieldset></form></div><div class="bn"></div></div><div class="clear"></div>
+
+
+
+
+			
+		
+		
+		
+	
+
+
+	
+
+
+
+
+	
+</div>
+      <div class="clear">
+        
+      </div>
+      <hr class="hidden"/>
+      <div id="footer">
+        <div id="footer-wr">
+          <img id="f-l" alt="Тверская Жизнь" src="/i/l.png"/>
+          <div class="clear">
+            
+          </div>
+          <ul class="v-list">
+            <li>
+              <h4>Редакция</h4>
+            </li>
+            <li>
+              <a href="/editorial/history.html">История</a>
+            </li>
+            <li>
+              <a href="/editorial/contacts.html">Контакты</a>
+            </li>
+            <li>
+              <a href="/editorial/vacancy.html">Вакансии</a>
+            </li>
+          </ul>
+          <ul class="v-list">
+            <li>
+              <h4>Клуб читателей</h4>
+            </li>
+            <li>
+              <a href="/login.html?TB_inline&amp;height=275&amp;width=530&amp;inlineId=modal-loginForm&amp;modal=true&amp;showHandler=modalLoginContentResetToLogin()" class="thickbox">Войти в сообщество</a>
+            </li>
+            <li>
+              <a href="/readers-club/white-to-editor.html">Письмо редактору</a>
+            </li>
+            <li>
+              <a href="/news/discussed/">Обсуждаемое</a>
+            </li>
+            <li>
+              <a href="/readers-club/subscribe/">Подписка на газету</a>
+            </li>
+            <li>
+              <a href="/readers-club/rss.html">RSS-ленты</a>
+            </li>
+          </ul>
+          <ul class="v-list">
+            <li>
+              <h4>Размещение рекламы</h4>
+            </li>
+            <li>
+              <a href="/advertising/site.html">на сайте</a>
+            </li>
+            <li>
+              <a href="/advertising/newspaper.html">в газете «Тверская Жизнь»</a>
+            </li>
+            <li>
+              <a href="/advertising/price.html">на сайте и в газете</a>
+            </li>
+          </ul>
+          <form id="location" method="get" action="/">
+            <fieldset>
+							Публикации по районам области:<br/><select name="location"><option value="0">не выбран</option><option value="adreanapolskiy">Андреапольский</option><option value="bejeckiy">Бежецкий</option><option value="belskiy">Бельский</option><option value="bologodskiy">Бологовский</option><option value="vesegonskiy">Весьегонский</option><option value="vishnevolockiy">Вышневолоцкий</option><option value="jarovsky">Жарковский</option><option value="zapadnodvinskiy">Западнодвинский</option><option value="zubcovsky">Зубцовский</option><option value="kalininskiy">Калининский</option><option value="kalyazinsky">Калязинский</option><option value="kashinskiy">Кашинский</option><option value="kesovogorskiy">Кесовогорский</option><option value="kimrskiy">Кимрский</option><option value="konakovskiy">Конаковский</option><option value="krasnoholmskiy">Краснохолмский</option><option value="kuvshinovskiy">Кувшиновский</option><option value="lesnoy">Лесной</option><option value="lihoslavlskiy">Лихославльский</option><option value="maksatihinskiy">Максатихинский</option><option value="molokovskiy">Молоковский</option><option value="nelidovskiy">Нелидовский</option><option value="ozerniy-zato">Озерный ЗАТО</option><option value="oleninskiy">Оленинский</option><option value="ostashkovskiy">Осташковский</option><option value="penovskiy">Пеновский</option><option value="rameshkovskiy">Рамешковский</option><option value="rjevskiy">Ржевский</option><option value="sandovskiy">Сандовский</option><option value="selijarovskiy">Селижаровский</option><option value="solnechniy-zato">Солнечный ЗАТО</option><option value="sonkovskiy">Сонковский</option><option value="spirovskiy">Спировский</option><option value="starickiy">Старицкий</option><option value="tver">Тверь</option><option value="torjokskiy">Торжокский</option><option value="toropeckiy">Торопецкий</option><option value="udomelskiy">Удомельский</option><option value="firovskiy">Фировский</option></select></fieldset>
+          </form>
+        </div>
+        <p>© 1999—2012, tverlife.ru. <a href="/privacy.html">Информация об авторских правах</a>.</p>
+        <div class="counters">
+          <!-- Yandex.Metrika -->
+          <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+          <div style="display:none;">
+            <script type="text/javascript">try { var yaCounter7965283 = new Ya.Metrika(7965283); } catch(e){}</script>
+          </div>
+          <noscript>
+            <div style="position:absolute">
+              <img src="//mc.yandex.ru/watch/7965283" alt=""/>
+            </div>
+          </noscript>
+          <!-- /Yandex.Metrika -->
+          <!--LiveInternet counter-->
+          <script type="text/javascript"><!--
+				document.write("<a href='http://www.liveinternet.ru/click' "+
+				"target=_blank><img src='//counter.yadro.ru/hit?t14.1;r"+
+				escape(document.referrer)+((typeof(screen)=="undefined")?"":
+				";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+				screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+				";"+Math.random()+
+				"' alt='' title='LiveInternet: показано число просмотров за 24"+
+				" часа, посетителей за 24 часа и за сегодня' "+
+				"border='0' width='88' height='31'><\/a>")
+				//--></script>
+          <!--/LiveInternet-->
+          <div>
+            <a href="http://www.ruj.ru/">
+              <img src="http://www.ruj.ru/images/ruj.gif" border="0"/>
+            </a>
+          </div>
+        </div>
+        <p class="dev"><a href="http://www.infolio.ru/" class="masked">Разработка сайта</a> — <a title="Студия Инфолио, разработка сайта" href="http://www.infolio.ru/">Студия Infolio / 2°</a></p>
+      </div>
+      <div id="regions-ch" class="shadow">
+        <div id="hd">
+          <a href="javascript:void(0);" title="Закрыть окно" id="region-close" class="close-wind">закрыть окно</a>
+          <a href="#" title="Изменить" class="region-helper">Тверская область</a>
+          <p>Выберите район области для просмотра публикаций, относящихся к нему:</p>
+        </div>
+        <ul>
+          <li>
+            <a href="/adreanapolskiy-region/" title="Андреапольский район">Андреапольский</a>
+          </li>
+          <li>
+            <a href="/bejeckiy-region/" title="Бежецкий район">Бежецкий</a>
+          </li>
+          <li>
+            <a href="/belskiy-region/" title="Бельский район">Бельский</a>
+          </li>
+          <li>
+            <a href="/bologodskiy-region/" title="Бологовский район">Бологовский</a>
+          </li>
+          <li>
+            <a href="/vesegonskiy-region/" title="Весьегонский район">Весьегонский</a>
+          </li>
+          <li>
+            <a href="/vishnevolockiy-region/" title="Вышневолоцкий район">Вышневолоцкий</a>
+          </li>
+          <li>
+            <a href="/jarovsky-region/" title="Жарковский район">Жарковский</a>
+          </li>
+          <li>
+            <a href="/zapadnodvinskiy-region/" title="Западнодвинский район">Западнодвинский</a>
+          </li>
+          <li>
+            <a href="/zubcovsky-region/" title="Зубцовский район">Зубцовский</a>
+          </li>
+          <li>
+            <a href="/kalininskiy-region/" title="Калининский район">Калининский</a>
+          </li>
+          <li>
+            <a href="/kalyazinsky-region/" title="Калязинский район">Калязинский</a>
+          </li>
+          <li>
+            <a href="/kashinskiy-region/" title="Кашинский район">Кашинский</a>
+          </li>
+          <li>
+            <a href="/kesovogorskiy-region/" title="Кесовогорский район">Кесовогорский</a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="/kimrskiy-region/" title="Кимрский район">Кимрский</a>
+          </li>
+          <li>
+            <a href="/konakovskiy-region/" title="Конаковский район">Конаковский</a>
+          </li>
+          <li>
+            <a href="/krasnoholmskiy-region/" title="Краснохолмский район">Краснохолмский</a>
+          </li>
+          <li>
+            <a href="/kuvshinovskiy-region/" title="Кувшиновский район">Кувшиновский</a>
+          </li>
+          <li>
+            <a href="/lesnoy-region/" title="Лесной район">Лесной</a>
+          </li>
+          <li>
+            <a href="/lihoslavlskiy-region/" title="Лихославльский район">Лихославльский</a>
+          </li>
+          <li>
+            <a href="/maksatihinskiy-region/" title="Максатихинский район">Максатихинский</a>
+          </li>
+          <li>
+            <a href="/molokovskiy-region/" title="Молоковский район">Молоковский</a>
+          </li>
+          <li>
+            <a href="/nelidovskiy-region/" title="Нелидовский район">Нелидовский</a>
+          </li>
+          <li>
+            <a href="/ozerniy-zato-region/" title="Озерный ЗАТО район">Озерный ЗАТО</a>
+          </li>
+          <li>
+            <a href="/oleninskiy-region/" title="Оленинский район">Оленинский</a>
+          </li>
+          <li>
+            <a href="/ostashkovskiy-region/" title="Осташковский район">Осташковский</a>
+          </li>
+          <li>
+            <a href="/penovskiy-region/" title="Пеновский район">Пеновский</a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="/rameshkovskiy-region/" title="Рамешковский район">Рамешковский</a>
+          </li>
+          <li>
+            <a href="/rjevskiy-region/" title="Ржевский район">Ржевский</a>
+          </li>
+          <li>
+            <a href="/sandovskiy-region/" title="Сандовский район">Сандовский</a>
+          </li>
+          <li>
+            <a href="/selijarovskiy-region/" title="Селижаровский район">Селижаровский</a>
+          </li>
+          <li>
+            <a href="/solnechniy-zato-region/" title="Солнечный ЗАТО район">Солнечный ЗАТО</a>
+          </li>
+          <li>
+            <a href="/sonkovskiy-region/" title="Сонковский район">Сонковский</a>
+          </li>
+          <li>
+            <a href="/spirovskiy-region/" title="Спировский район">Спировский</a>
+          </li>
+          <li>
+            <a href="/starickiy-region/" title="Старицкий район">Старицкий</a>
+          </li>
+          <li>
+            <a href="/tver-region/" title="Тверь район">Тверь</a>
+          </li>
+          <li>
+            <a href="/torjokskiy-region/" title="Торжокский район">Торжокский</a>
+          </li>
+          <li>
+            <a href="/toropeckiy-region/" title="Торопецкий район">Торопецкий</a>
+          </li>
+          <li>
+            <a href="/udomelskiy-region/" title="Удомельский район">Удомельский</a>
+          </li>
+          <li>
+            <a href="/firovskiy-region/" title="Фировский район">Фировский</a>
+          </li>
+        </ul>
+        <div class="t-border"></div>
+        <div class="r-border"></div>
+        <div class="b-border"></div>
+        <div class="l-border"></div>
+        <div class="rt-corner"></div>
+        <div class="rb-corner"></div>
+      </div>
+    </div>
+    <div style="display:none">
+      <div id="modal-loginForm" class="modalWindow">
+        <div class="modalPadding" id="mc-loginForm">
+          <div class="auth-form">
+            <h2 class="header">Вход в клуб</h2>
+            <form id="mfl-form" action="/login.html" method="post" class="clear">
+              <fieldset>
+                <label for="mfl-login">Логин или e-mail:</label>
+                <br/>
+                <input type="text" class="text required" name="login" id="mfl-login" tabindex="1"/>
+                <label for="mfl-password">Пароль:</label>
+                <br/>
+                <input type="password" class="text required" name="password" id="mfl-password" tabindex="2"/>
+                <div class="field" id="rememberMe">
+                  <input type="checkbox" class="checkbox" id="mfl-remember" name="remember" value="on" tabindex="3" checked="checked" style="vertical-align:bottom"/>
+                  <label for="mfl-remember" class="checkbox" style="vertical-align:top">чужой компьютер</label>
+                </div>
+                <input tabindex="4" type="submit" value="Войти" class="button"/>
+              </fieldset>
+            </form>
+          </div>
+          <div class="modal-descr">
+            <div class="modal-note">
+              <p>Входить в систему могут только зарегистрированные пользователи.</p>
+              <p>
+                <a tabindex="5" href="registration/repair.html" id="modal-restorePasswordForm-input-email-link">Забыли пароль?</a>
+              </p>
+              <p><a tabindex="6" href="/registration/">Регистрация</a> (новый пользователь)</p>
+            </div>
+          </div>
+        </div>
+        <div class="modalPadding" id="mc-restorePasswordForm">
+          <div class="auth-form">
+            <h2 class="header">Восстановление пароля</h2>
+            <div class="clear">
+              
+            </div>
+            <form id="mfrp-form" action="/registration/repair.html" method="post">
+              <fieldset>
+                <label for="mfrp-email">Логин или e-mail:</label>
+                <br/>
+                <input type="text" name="email" id="mfrp-email" class="required"/>
+                <input type="submit" value="Выслать пароль" class="button" id="mfrp-formSubmitter"/>
+              </fieldset>
+            </form>
+          </div>
+          <div class="modal-descr">
+            <div class="modal-note">
+              <p>Если вы внезапно вспомнили пароль, можно попробовать войти ещё раз.</p>
+              <p>
+                <a tabindex="5" href="login.html" class="modal-loginForm-authFailed-retry">Вход в клуб</a>
+              </p>
+              <p><a tabindex="6" href="/registration/">Регистрация</a> (новый пользователь)</p>
+            </div>
+          </div>
+        </div>
+        <div class="modalPadding" id="mc-loginForm-authFailed">
+          <h2 class="header">Ошибка</h2>
+          <div class="clear">
+            
+          </div>
+          <p>Введеные логин/e-mail или пароль неверны!</p>
+          <p>
+            <a href="/login.html" class="gray-button modal-loginForm-authFailed-retry">Попробуйте еще раз</a>
+          </p>
+          <p>
+            <a href="registration/repair.html" class="link" id="modal-loginForm-authFailed-restore-password-link">Восстановление пароля</a>
+          </p>
+        </div>
+        <div class="modalPadding" id="mc-restorePasswordForm-fail">
+          <h2 class="header">Ошибка</h2>
+          <div class="clear"></div>
+          <div class="inner">
+            <p>Указанный E-mail не был найден в нашей базе.<br/>Восстановление пароля невозможно.</p>
+            <p>
+              <input type="submit" class="button" value="Окей" onclick="top.tb_remove(); return false;"/>
+            </p>
+          </div>
+        </div>
+        <div class="modalPadding" id="mc-restorePasswordForm-success">
+          <div class="auth-form">
+            <h2 class="header">Восстановление пароля</h2>
+            <div class="clear">
+              
+            </div>
+            <div class="inner">
+              <p>На указанный вами email выслана ссылка, по которой необходимо проследовать для указания нового пароля.</p>
+              <p>
+                <input type="submit" class="button" value="Окей" onclick="top.tb_remove(); return false;"/>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="modalPadding modal-activationExpires modal-activationFailed" id="modal-activationExpires-form">
+          <h2 class="modal-activationExpires-form header">Учётная запись не активирована</h2>
+          <div class="clear">
+            
+          </div>
+          <div class="inner">
+            <p>Вы уже как минимум 3 (три!) дня не кликаете по активационной ссылке в отправленном вам письме. В результате ссылка автоматически заблокирована вместе с вашей учетной записью. Не беспокойтесь, все ваши данные хранятся на сервере, но временно заблокированы.</p>
+            <p>Пожалуйста, укажите свой действующий e-mail для получения повторного приглашения, в котором будет новая ссылки активации. Кликнув по ней, вы получите доступ к сайту.</p>
+            <p>Внимание! Если в течение 30 дней учетная запись не будет активирована, она автоматически будет удалена.</p>
+            <form id="mcfae" action="/registration/reActivation.html" method="post">
+              <fieldset>
+                <input type="hidden" name="password" value="" id="mcfae-password"/>
+                <input type="hidden" name="key" value="" id="mcfae-key"/>
+                <p style="margin: 0 0 -7px 0">
+                  <label for="mcfae-email" style="padding:0;margin:0">E-mail:</label>
+                  <br/>
+                  <input type="text" name="email" id="mcfae-email" class="required" style="width: 50%"/>
+                </p>
+                <br/>
+                <input type="submit" class="button" id="formSubmitter"/>
+              </fieldset>
+            </form>
+          </div>
+        </div>
+        <div class="modalPadding modal-activationExpires modal-activationFailed" id="modal-activationExpires-email-invalid">
+          <h2 class="header">Адрес не верен</h2>
+          <div class="clear">
+            
+          </div>
+          <div class="inner">
+            <p>Введён неправильный адрес E-mail.</p>
+            <p>
+              <input type="submit" class="button" value="Окей" onclick="top.tb_remove(); return false;"/>
+            </p>
+          </div>
+        </div>
+        <div class="modalPadding modal-activationExpires" id="modal-activationExpires-email-not-own">
+          <h2 class="header">Ошибка</h2>
+          <div class="clear">
+            
+          </div>
+          <div class="inner">
+            <p>Вы знаете, у нас уже зарегистрирован пользователь с таким адресом электронной почты. Мы не знаем как получилось, что этот пользователь имеет доступ к вашей почте, но придется вам указать другой e-mail.</p>
+            <p>
+              <input type="submit" class="button" value="Окей" onclick="top.tb_remove(); return false;"/>
+            </p>
+          </div>
+        </div>
+        <div class="modalPadding modal-activationExpires modal-activationFailed" id="modal-activationExpires-sended">
+          <h2 class="header">Информация отправлена</h2>
+          <div class="clear">
+            
+          </div>
+          <div class="inner">
+            <p>На указанный вами адрес E-mail отправлена информация для активации.</p>
+            <p>
+              <input type="submit" class="button" value="Окей" onclick="top.tb_remove(); return false;"/>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="modal-complaintReportForm" class="modalWindow">
+        <div class="modalPadding" id="mc-complaintReportForm-input">
+          <h2 class="header">Письмо в редакцию</h2>
+          <form id="complaint-report-form" action="complaint.html" method="post" class="modal-form clear">
+            <fieldset>
+              <p>
+						Если вы стали свидетелем каких-либо нарушений, столкнулись с проблемами (например, в сфере ЖКХ, природоохранного законодательства и т.п.), и вам необходима помощь в их решении, либо комментарий специалиста, обращайтесь в веб-редакцию областной газеты «Тверская жизнь». Наши корреспонденты постараются вам помочь.
+						<hr/>
+						Пожалуйста, заполните поля имени, фамилии и контактной информации.
+					</p>
+              <table>
+                <tr>
+                  <td>
+                    <label class="obligatory" for="f_complaint_request_fami">Фамилия</label>
+                    <input type="text" name="complaint_request_fami" id="f_complaint_request_fami" class="text"/>
+                  </td>
+                  <td>
+                    <label class="obligatory" for="f_complaint_request_name">Имя</label>
+                    <input type="text" name="complaint_request_name" id="f_complaint_request_name" class="text"/>
+                  </td>
+                  <td>
+                    <label for="f_complaint_request_name">Отчество</label>
+                    <input type="text" name="complaint_request_name" id="f_complaint_request_fath" class="text"/>
+                  </td>
+                </tr>
+              </table>
+              <p>
+                <label class="obligatory" for="f_complaint_request_contact">Контактный e-mail или телефон</label>
+                <input type="text" name="complaint_request_contact" id="f_complaint_request_contact" class="text"/>
+              </p>
+              <p>
+                <label for="f_complaint_request">Описание</label>
+                <textarea rows="10" cols="80%" name="complaint_request" id="f_complaint_request" class="text"></textarea>
+              </p>
+              <p class="submit">
+                <input type="submit" value="Отправить"/>
+              </p>
+            </fieldset>
+          </form>
+        </div>
+        <div class="modalPadding" id="mc-complaintReportForm-fail">
+          <h2 class="header">Ошибка</h2>
+          <div class="inner-text inner clear">
+            <p>При отправке жалобы произошла ошибка. Простите нас, мы не специально.</p>
+            <p class="standalone-submit">
+              <input type="submit" value="Окей" onclick="top.tb_remove(); return false;"/>
+            </p>
+          </div>
+        </div>
+        <div class="modalPadding" id="mc-complaintReportForm-timeout">
+          <h2 class="header">Ошибка</h2>
+          <div class="inner-text inner clear">
+            <p>Пожалуйста введите имя, фамилию и контактные данные.</p>
+            <p class="standalone-submit">
+              <input type="submit" value="Окей" onclick="top.tb_remove(); return false;"/>
+            </p>
+          </div>
+        </div>
+        <div class="modalPadding" id="mc-complaintReportForm-success">
+          <h2 class="header">Жалоба в редакцию</h2>
+          <div class="inner-text inner clear">
+            <p>Ваша жалоба отправлена.</p>
+            <p class="standalone-submit">
+              <input type="submit" value="Окей" onclick="top.tb_remove(); return false;"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+

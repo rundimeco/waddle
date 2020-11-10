@@ -1,0 +1,512 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>美元/日元纽约早盘探底回升，美国经常帐赤字创新低 - 汇市直播 _ 外汇网</title>
+<meta name="Keywords" content="美元/日元纽约早盘探底回升，美国经常帐赤字创新低">
+<META NAME="Description" CONTENT="外汇、炒汇、外汇交易、美元  欧元   澳元   日元   英镑   纽元   瑞郎    加元、外汇博客、外汇论坛、外汇专家">
+<script src="http://s.cnfolimg.com/v5.0/js/home04-min.js"></script>
+<link href="http://s.cnfolimg.com/v5.0/css/forex/forex06-min.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<center>
+<!-- 头部部分 -->
+<script type="text/javascript">
+function $(s)
+{
+return document.getElementById(s);
+}
+</script>
+<script type="text/javascript" src="http://s.cnfolimg.com/v5.0/js/site02-min.js"></script>
+<script type="text/javascript">
+var nickname = Get_Cookie('cookie[passport][username]');
+var url = document.location.href;
+
+   document.writeln('<div class="top"><div class="top1"><img src="http://images.cnfol.com/uploads/whw/1/top-01.gif" /></div>');
+if (!nickname) {
+   document.writeln('<form id="index_login" action="http://passport.cnfol.com/accounts/Login" method="post" name="loginform" target="_top">');
+   document.writeln('<div class="top2">用户名：</div>');
+   document.writeln('<div class="top3"><input type="text" class="bd1" name="username" id="username"/></div>');
+   document.writeln('<div class="top2">密 码：</div>');
+   document.writeln('<div class="top3"><input class="bd1" name="password" type="password" id="password" /></div>');
+   document.writeln('<div class="top4"><input type="image" src="http://images.cnfol.com/uploads/whw/1/top-02.gif"/></div>');
+   document.writeln('<div class="top5"><a href="http://passport.cnfol.com/accounts/Register" target="_blank"><img src="http://images.cnfol.com/uploads/whw/1/top-03.gif" border="0" /></a></div>');
+   document.writeln('<input type="hidden" name="act" value="login" />');
+    document.writeln('<input type="hidden" name="usertype" value="0" />');
+	document.writeln('<input type="hidden" name="return" value="'+url+'?0=0" />');
+   document.writeln('</form>');
+   $('index_login').onsubmit = function () {
+        if (this.username.value=="") {
+            alert("请输入您的用户名！");
+            this.username.focus();
+            return false;
+        }
+        if (this.password.value=="") {
+            alert("请输入您的密码！");
+            this.password.focus();
+            return false;
+        }
+    }
+
+    var m = location.href.match(/error=([\d])/i);
+
+    if (m) {
+        if (m[1]==4) alert('您输入的用户名不存在！');
+        if (m[1]==5) alert('您的密码不正确！');
+        if (m[1]==6) alert('您的密码不正确！');
+    }
+}
+else {
+   var url = 'http://passport.cnfol.com/accounts/Logout?return=http://' + location.host + location.pathname;
+    document.writeln('<div class="flt_l">');
+	document.writeln('欢迎您！');
+    document.writeln(unescape(Get_Cookie('cookie[passport][username]'))+' | ');
+    document.writeln('<a href="http://passport.cnfol.com/" target="_blank">我的帐户</a> | ');
+    document.writeln('<a href="'+ url +'">退出</a>');
+	document.writeln('</div>');
+}
+   document.writeln('<div class="top7"><img src="http://images.cnfol.com/uploads/whw/1/top-04.gif" /></div>');
+   document.writeln('<div class="top8"><a href="http://rss.cnfol.com/wh.shtml" target="_blank"><img src="http://images.cnfol.com/uploads/whw/1/icon-01.gif" border="0" /></a></div><div class="top6"><a href="#" onclick="var strHref=window.location.href;this.style.behavior=\'url(#default#homepage)\';this.setHomePage(\'http://forex.cnfol.com\');" style="CURSOR: hand" class="red">设为首页</a>　   <a href="javascript:if(document.all){window.external.addFavorite(\'http://forex.cnfol.com\',\'中金在线 - 中国人的金融门户网站\');}else if(window.sidebar){window.sidebar.addPanel(\'外汇网\', \'http://forex.cnfol.com\',\'\');}"><span class="red">加入收藏</span></a>　   <a href="http://www.cnfol.com" target="_blank">访问中金在线</a></div></div>');
+</script>
+<!-- 导航部分 -->
+<div class="dh">
+	<div class="dhL"><a href="http://forex.cnfol.com" target="_blank"><img src="http://images.cnfol.com/uploads/whw/1/logo.gif" border="0" /></a></div>
+    <div class="dhR">
+    	<div class="dhR1">
+    		<script src="http://he.js.cnfol.com/index.php/id=1075"></script>
+    	</div>
+    </div>
+</div>
+<!-- 内容部分 -->
+<div class="wzy1"><img src="http://i3.cnfolimg.com/uploads/whw/1/wzy-01.gif" /></div>
+<div class="wzy2">
+	<div class="wzy2-1"><span class='sitenav'>
+<a href='http://www.cnfol.com' class='sitenav'>首页</a> &gt;&gt; <a href='http://forex.cnfol.com' class='sitenav'>外汇</a> &gt;&gt; <a href='http://forex.cnfol.com/1381/' class='sitenav'>汇市直播</a> &gt;&gt; <font color='red'>正文</font>
+</span></div>
+</div>
+<div class="wzy3">
+	<div class="wzy3L">
+		<div class="wzy3L1"><strong>美元/日元纽约早盘探底回升，美国经常帐赤字创新低</strong></div>
+		<div class="wzy3L2"><img src="http://i3.cnfolimg.com/uploads/whw/1/wzy-02.gif" /></div>
+	    <div class="wzy3L3">
+	    	<div class="wzy3L3-1"><span id="jj"><a href="http://sms.cnfol.com/wap/index.shtml" target="_blank">手机免费访问</a></span>　<a href="http://forex.cnfol.com" target="_blank">外汇网</a>　2011年12月15日 23:51　外汇网　
+ 
+            
+            </div>
+            <div class="wzy3L3-2"><img src="http://i3.cnfolimg.com/uploads/whw/1/wzy-03.gif" /></div>
+            <div class="wzy3L3-3"><a href="javascript:comment();"><font color="red">查看评论</font></a></div>
+  	  	</div>
+	    <div class="wzy3L4" id="__content" style="overflow:hidden;">　　周四(12月15日)纽约早盘时段，美元/日元探底回升，目前汇价交投于77.90水平附近。<br />
+<br />
+　　美国商务部(DOC)公布的数据显示，包括贸易和资本流入的美国三季度经常帐录得赤字1102.8亿美元，预期赤字1075亿美元；二季度数据修正为赤字1247.2亿美元，初值为1180亿美元。<br />
+<br />
+　　与此同时，日本央行发布的季度短观调查报告称，第四季度日本大型制造业景气判断指数为-4，逊于9月时的+2，且低于市场预估中值的-2。这也是该指数自6月期报告以来首次出现负值。<br />
+<br />
+　　从技术上看，美元/日元位于5日均线附近，MACD指标红色动能柱犹在，KDJ指标拐头向下。若汇价突破78.60水平，则反弹目标将指向79.50水平。若汇价跌破76.70水平，则回调目标将指向76.30水平。<br />
+<br />
+　　北京时间23:48，美元/日元报77.91/94。</div>
+	    <div class="wzy3L5 lj6"></div>
+		<div></div>
+	   <div style="text-align:left;color:#666666"><div class="Statement">　　外汇网声明：外汇网转载上述内容，不表明证实其描述，仅供投资者参考，并不构成投资建议。投资者据此操作，风险自担。</div>
+</div>
+	   
+<script>
+var sharetitle = "美元/日元纽约早盘探底回升，美国经常帐赤字创新低";
+</script>	   
+	    <div class="wzy3L3">
+	    	<div style="float:left; width:400px; padding-top:10px; text-align:right; ">
+
+ <iframe scrolling="no" frameborder="0" style="width: 120px; height: 23px; border: medium none; overflow: hidden; display: inline-block; vertical-align: top;" border="0" allowtransparency="true" src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F1594113740&type=button_num&width=100&height=30"></iframe>
+
+</div>
+            <div class="wzy3L3-2"><img src="http://i3.cnfolimg.com/uploads/whw/1/wzy-03.gif" /></div>
+            <div class="wzy3L3-3"><strong><a href="javascript:comment();"><font color="red">我要评论</font></a></strong></div>
+			<div style="text-align:right; padding:5px 30px 0px 0px;font-size:14px; float:right;"><a href="##" onclick="javascript:void((function(s,d,e,h,l,p,t,z,c){ var f='http://t.cnfol.com/share.php?',u=z||d.location,p=['url=',e(u),'&title=',e(t||d.title),'&source=',e(h),'&sourceUrl=',e(l),'&content=',c||'utf-8','&pic=',e(p||'')].join('');function a(){ if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('')};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else a()})(screen,document,encodeURIComponent,'news','http://news.cnfol.com','',sharetitle,'','GB2312'));"><img src="http://t.cnfol.com/images/default/s_red.gif" id="viewimg" border="0" /><span id="textShare"><font color="#FF0000">转发此文至微博</font></span></a></div>
+  	  	</div>
+	    <div class="wzy3L8"><div style="font-size:14px; text-align:left; padding:15px 0px 15px 12px;" id="page"><span id="text12"></span></div>
+<div class="ctrl" >【<span class="org">收藏到</span>&nbsp;<a href="javascript:d=document;t=d.selection?(d.selection.type!='None'?d.selection.createRange().text:''):(d.getSelection?d.getSelection():'');void(keyit=window.open('http://blogmark.blogchina.com/jsp/key/quickaddkey.jsp?k='+encodeURI(d.title)+'&u='+encodeURI(d.location.href)+'&c='+encodeURI(t),'keyit','scrollbars=no,width=500,height=430,status=no,resizable=yes'));keyit.focus();" style="color:red;" title="将此文加入博客中国博采">博采</a>&nbsp;<a href="javascript:u=location.href;t=document.title;c = %22%22 + (window.getSelection ? window.getSelection() : document.getSelection ? document.getSelection() : document.selection.createRange().text);var url=%22http://cang.baidu.com/do/add?it=%22+encodeURIComponent(t)+%22&iu=%22+encodeURIComponent(u)+%22&dc=%22+encodeURIComponent(c)+%22&fr=ien#nw=1%22;window.open(url,'_blank','scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes'); void 0" class="blue">百度</a>】【<a href="javascript:send();" class="org">推荐</a>】【<a href="javascript:printMe();" class="org">打印</a>】【<a href="javascript:changeSize(16)" class="org">大</a> <a href="javascript:changeSize(14.7)" class="org">中</a> <a href="javascript:changeSize(12)" class="org">小</a>】【<a href="javascript:window.close();" class="org">关闭</a>】</div></div>
+		<div class="normal clear">
+<div class="sign"></div>
+<div class="nonmaltext">我来说两句</div>
+</div>
+<script type="text/javascript" src="http://s.cnfolimg.com/v5.0/js/site02-min.js"></script>
+<script type="text/javascript">
+function $(s)
+{
+  return document.getElementById(s);
+}
+<!--
+document.writeln('<div id="pldl">');
+var nickname = Get_Cookie('cookie[passport][username]');
+var url = document.location.href 
+if (!nickname) {
+    document.writeln('<form id="index_login" action="http://passport.cnfol.com/accounts/Login" method="post" name="loginform" target="_top">');
+	document.writeln('<div class="text">用户名：</div>');
+	document.writeln('<div class="input"><input name="username" id="username" type="text" /></div>');
+	document.writeln('<div class="text">密 码：</div>');
+	document.writeln('<div class="input"><input name="password" type="password" id="password" /></div>');
+	document.writeln('<div class="submit"><input type="image" src="http://images.cnfol.com/uploads/v5.0/page/pldl_submit.gif"/></div>');
+	document.writeln('<div class="reg"><a href="http://passport.cnfol.com/accounts/Register" target="_blank"><img src="http://images.cnfol.com/uploads/v5.0/page/pldl_reg.gif" border="0"/></a></div>');
+	document.writeln('<input type="hidden" name="act" value="login" />');
+    document.writeln('<input type="hidden" name="usertype" value="0" />');
+	document.writeln('<input type="hidden" name="return" value="'+url+'?0=0" />');
+    document.writeln('</form>');
+
+    $('index_login').onsubmit = function () {
+        if (this.username.value=="") {
+            alert("请输入您的用户名！");
+            this.username.focus();
+            return false;
+        }
+        if (this.password.value=="") {
+            alert("请输入您的密码！");
+            this.password.focus();
+            return false;
+        }
+        if ($('usertype').value == 0) {
+            this.backurl.value = location.href;
+            this.redirectUrl.value = 'http://'+location.host+location.pathname;
+        } else {
+            this.urlfrom.value = 'http://www.cnfol.com/';
+            this.action = 'http://service.cnfol.com/index.php?login';
+            this.target = '_top';
+        }
+    }
+
+    var m = location.href.match(/error=([\d])/i);
+
+    if (m) {
+        if (m[1]==4) alert('您输入的用户名不存在！');
+        if (m[1]==5) alert('您的密码不正确！');
+    }
+
+} else {
+       var CookieStr = document.cookie;
+        var cookieinfo = CookieStr.match(/cookie\[passport\]\[nickname\]\s*=\s*[%,\w]+;/);
+        var cookieinfo = cookieinfo[0].replace("cookie[passport][nickname]=","");
+        var cookieinfo = cookieinfo.replace(";","");
+ 
+    var url = 'http://passport.cnfol.com/accounts/Logout?return=http://' + location.host + location.pathname;
+    document.writeln('<div id="usercenter" class="p_4">');
+    document.writeln('<b>欢迎您！</b> ');
+    document.writeln(decodeURI(cookieinfo)+' | ');
+    document.writeln('<a href="http://passport.cnfol.com/" target="_blank">我的帐户</a> | ');
+    document.writeln('<a href="'+ url +'">退出</a>');
+    document.writeln('</div>');
+}
+document.writeln('</div>');
+//-->
+</script>
+
+<div class="ckpl"><img src="http://images.cnfol.com/uploads/v5.0/page/ckpl.gif" onclick="javascript:comment();" style="cursor: pointer"/></div>
+<form name="pform" method="post" onSubmit="return comment(1)" target="_blank">
+<script type="text/javascript">
+var nickname = Get_Cookie('cnfol_global_username');
+if (!nickname) {
+    document.write('<input name="reply_author"  type="hidden" value="" checked />');
+}
+else 
+{
+    document.write('<input name="reply_author"  type="hidden" value="'+nickname+'" checked />'+nickname+'　<input name="reply_author"  type="radio" value=""/>');
+	}
+</script>
+<div class="commit_submit"><input type="image" src="http://images.cnfol.com/uploads/v5.0/page/commit_submit.gif"/></div>
+<div class="clear"><textarea name="post_content" id="post_content" class="commit"></textarea></div>
+</form>
+<script language="javascript">
+function comment(rt) {
+    try {
+	    if(rt == 1) var action = 'reply';
+		else var action = 'newthread';
+
+        var f = document.pform;
+        var article_class_id = '1381';
+        var news_id = '11367084';
+        var news_title = '美元/日元纽约早盘探底回升，美国经常帐赤字创新低';
+        if (!news_title) news_title = document.title;
+		var news_title = news_title.replaceAll('&quot;','`');
+		var news_title = news_title.replaceAll('\'','`');
+        news_title = encodeURI(news_title);
+        var news_url = location.href;
+		var baseurl = 'http://bbs.cnfol.com/api/newspost.php?news_id=' + news_id +'&news_url=' + news_url + '&action='+action+'&news_title=' + news_title;
+
+        if (rt==1) {
+            if (f.post_content.value=="") {
+                alert('请输入评论内容');
+                f.post_content.focus();
+                return false;
+            }
+            f.action = baseurl+'&commit='+encodeURI(document.getElementById('post_content').value);
+            return true;
+        } else
+		referURL(baseurl);
+    } catch(e) {}
+}
+
+String.prototype.replaceAll = function(reallyDo, replaceWith, ignoreCase) {   
+    if (!RegExp.prototype.isPrototypeOf(reallyDo)) {   
+        return this.replace(new RegExp(reallyDo, (ignoreCase ? "gi": "g")), replaceWith);   
+    } else {   
+        return this.replace(reallyDo, replaceWith);   
+    }   
+}   
+
+function referURL(url){
+var isIe=(document.all)?true:false;
+if(isIe) {
+var linka = document.createElement('a');
+linka.href=url;
+linka.target = "_blank";
+document.body.appendChild(linka);
+linka.click();
+}else {
+window.open(url);
+}
+}
+</script>
+
+	    <div class="wzy3L9">
+	    	<div class="wzy3L9-L">
+	    		<div class="wzy3L9-L1">
+	    			<div class="wzy3L9-L1a"><img src="http://i3.cnfolimg.com/uploads/whw/1/wzy-05.gif" /></div>
+					<div class="wzy3L9-L1b"><strong>24小时热门文章</strong></div>
+	    		</div>
+	    	    <div class="wzy3L9-L2">
+<font size='2'>・</font><a href='http://forex.cnfol.com/111214/134,1381,11356310,00.shtml' target='_blank' title="默克尔：葡萄牙的最新数据非常鼓舞人心">默克尔：葡萄牙的最新数据非常鼓舞人心</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111212/134,1381,11333025,00.shtml' target='_blank' title="路透调查：2012年底中国央行将累计下调存款准备金率200个基点">路透调查：2012年底中国央行将累计下调存款</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111213/134,1381,11339998,00.shtml' target='_blank' title="安住淳：理解美国及加拿大支持欧洲的立场">安住淳：理解美国及加拿大支持欧洲的立场</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111213/134,1381,11345205,00.shtml' target='_blank' title="IEA：对伊朗石油采取更广泛全球禁令或能更有效地限制伊朗收入，但是将...">IEA：对伊朗石油采取更广泛全球禁令或能更有</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111214/134,1381,11356456,00.shtml' target='_blank' title="默克尔：欧洲必须实现可持续增长">默克尔：欧洲必须实现可持续增长</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111214/134,1381,11352299,00.shtml' target='_blank' title="中央经济工作会议：明年经济社会发展要突出把握好稳中求进的总基调">中央经济工作会议：明年经济社会发展要突出</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111212/134,1381,11335421,00.shtml' target='_blank' title="标准人寿投资：欧元/美元或将跌至1.2000水平">标准人寿投资：欧元/美元或将跌至1.2000水平</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111213/134,1381,11340835,00.shtml' target='_blank' title="1.3148――欧元/美元18个月后的病危通知书(图)">1.3148――欧元/美元18个月后的病危通知书(</a><br>
+
+</div>
+	    	</div>
+			<div class="wzy3L9-R">
+				<div class="wzy3L9-L1">
+	    			<div class="wzy3L9-L1a"><img src="http://i3.cnfolimg.com/uploads/whw/1/wzy-05.gif" /></div>
+					<div class="wzy3L9-L1b"><strong>栏目最新文章</strong></div>
+	    		</div>
+				<div class="wzy3L9-L2">
+<font size='2'>・</font><a href='http://forex.cnfol.com/111215/134,1381,11367077,00.shtml' target='_blank' title='伦敦铂金12月15日下午定盘价为每盎司1,415.00美元'>伦敦铂金12月15日下午定盘价为每盎司1,415.</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111215/134,1381,11367079,00.shtml' target='_blank' title='IMF：基金可能需要更多的的资源以保护全球货币体系'>IMF：基金可能需要更多的的资源以保护全球货</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111215/134,1381,11367082,00.shtml' target='_blank' title='美国12月10日当周EIA天然气库存减少1020亿立方英尺'>美国12月10日当周EIA天然气库存减少1020亿立</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111215/134,1381,11367076,00.shtml' target='_blank' title='伦敦钯金12月15日下午定盘价为每盎司623.50美元'>伦敦钯金12月15日下午定盘价为每盎司623.50</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111215/134,1381,11367080,00.shtml' target='_blank' title='国际货币基金组织IMF：就针对意大利的官方监测仍没有设定日期'>国际货币基金组织IMF：就针对意大利的官方监</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111215/134,1381,11367081,00.shtml' target='_blank' title='IMF：基金下周访问意大利将不会是正式的监测团'>IMF：基金下周访问意大利将不会是正式的监测</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111215/134,1381,11367078,00.shtml' target='_blank' title='国际货币基金组织IMF：正在进行讨论额外的欧盟资金可能的使用方式'>国际货币基金组织IMF：正在进行讨论额外的欧</a><br>
+<font size='2'>・</font><a href='http://forex.cnfol.com/111215/134,1381,11367075,00.shtml' target='_blank' title='伦敦现货黄金12月15日下午定盘价为1574.00美元/盎司'>伦敦现货黄金12月15日下午定盘价为1574.00美</a><br>
+
+</div>
+			</div>
+      	</div>
+	</div>
+	
+	<div class="wzy3R">
+		<div class="wzy3R1" id="ads2"></div>
+	    <div class="wzy3R2">
+	    	<div class="cen1L4-1">
+	    		<div class="cen1L4-1a"><strong><a href="http://forex.cnfol.com/1381/" target="_blank">汇市直播</a></strong></div>
+	    	    <div class="cen1L4-1b lj4"><a href="http://forex.cnfol.com/1381/" target="_blank">更多 >></a></div>
+	    	</div>
+			<div class="wzy3R2-2"><script language="javascript" src="http://rss.cnfol.com/rss?cid=1381&num=10&limit=20&li=big&date=none"></script></div>
+   	  	</div>
+		<div class="wzy3R2">
+	    	<div class="cen1L4-1">
+	    		<div class="cen1L4-1a"><strong>赞助商链接</strong></div>
+	    	</div>
+   	  	</div>
+			<div class="wzy3R1" id="ads4"></div>
+		<div class="wzy3R2">
+	    	<div class="cen1L4-1">
+	    		<div class="cen1L4-1a"><strong><a href="http://forex.cnfol.com/1504/" target="_blank">专家建议</a></strong></div>
+	    	    <div class="cen1L4-1b lj4"><a href="http://forex.cnfol.com/1504/" target="_blank">更多 >></a></div>
+	    	</div>
+			<div class="wzy3R2-2"><script language="javascript" src="http://rss.cnfol.com/rss?cid=1504&num=10&limit=20&li=big&date=none"></script></div>
+   	  	</div>
+		<div class="wzy3R2">
+	    	<div class="cen1L4-1">
+	    		<div class="cen1L4-1a"><strong>赞助商链接</strong></div>
+	    	</div>
+   	  	</div>
+			<div class="wzy3R1" id="ads5"></div>
+		    <div class="wzy3R1"><iframe src="http://i5.cnfolimg.com/uploads/v5.0/page/300x250.html" width="300" height="250" frameborder="0" scrolling="no"></iframe></div>
+		    <div class="wzy3R2">
+	    	<div class="cen1L4-1">
+	    		<div class="cen1L4-1a"><strong>分类信息</strong></div>
+	    	</div>
+   	  	</div>
+			<div class="wzy3R1" id="ads6"></div>
+	</div>
+	
+    <div><img src="http://i2.cnfolimg.com/uploads/whw/1/wzy-948.gif" /></div>
+</div>
+<!--底部部分 -->
+<div class="body83">
+<div class="body84">---------------------------------------------------------------------------------------------</div>
+<div class="body85">
+本站所有文章、数据仅供参考，使用前务请仔细阅读<a href="http://www.cnfol.com/info/law.shtml" target="_blank">法律声明</a>，风险自负<br/>
+      《中华人民共和国增值电信业务经营许可证》编号：闽 B2-20050010 号<br/>
+	  《电子公告服务许可证》编号：闽通信互联网 [2008]1 号<br/>
+          证券资讯提供:福建天信投资咨询顾问有限公司 [证书：ZX0151]<br/>
+        Copyright &copy; 2003-2013  福建中金在线网络股份有限公司. All Right Reserved.<br/>
+		<a href="http://www.12321.cn" target="_blank"><img src="http://i0.cnfolimg.com/uploads/v4.0/home/12321logo.gif" border="0"/></a> <a href="http://www.fuzhou.cyberpolice.cn/" target="_blank"><img src="http://images.cnfol.com/uploads/new_2008/home/mew8-web02.gif" width="37" height="43" border="0"/></a>
+</div>
+</div>
+<!--google统计-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-197044-9");
+pageTracker._trackPageview();
+</script>
+
+<!--百度统计-->
+
+<script language='javascript' src='http://utk.baidu.com/usv/uc.sv?pe=ck8QMrbvAItmoHLwei5VMe7d&sn=115&an=126358&rn=263'></script>
+<!-- End of LogMicroscope Code --> 
+
+<DIV style="DISPLAY: none"><!-- START AIYA Site Stat. -->
+<SCRIPT language=JavaScript type="text/javascript" src="//s.cnfolimg.com/v5.0/js/stat01-min.js"></SCRIPT>
+<NOSCRIPT><img src="//logs.cnfol.com/a?ci=cnfol" alt=""></NOSCRIPT><!-- END AIYA Site Stat. -->
+</DIV> 
+<!--<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-3738071758743360");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleUseIframeRendering();
+</script>-->
+<script src="http://cbjs.baidu.com/js/m.js"></script>
+
+
+
+
+
+
+<!--ads02-->
+<span id="span_ads2" style="display:none;">
+<!--<script type='text/javascript'>
+GA_googleFillSlotWithSize("ca-pub-3738071758743360", "00025", 300, 250);
+</script>-->
+<script>BAIDU_CLB_fillSlotWithSize("304663", 300, 250);</script>
+</span>
+
+<script>
+$('ads2').innerHTML = $('span_ads2').innerHTML;
+$('span_ads2').innerHTML = '';
+</script>
+
+<!--ads04-->
+<span id="span_ads4" style="display:none;">
+<!--<script type='text/javascript'>
+GA_googleFillSlotWithSize("ca-pub-3738071758743360", "00191", 300, 250);
+</script>-->
+<script>BAIDU_CLB_fillSlotWithSize("213852", 300, 250);</script>
+</span>
+
+<script>
+$('ads4').innerHTML = $('span_ads4').innerHTML;
+$('span_ads4').innerHTML = '';
+</script>
+
+<!--ads05-->
+<span id="span_ads5" style="display:none;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3738071758743360";
+/* 文章内页google广告3  300x250 */
+google_ad_slot = "5056902614";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</span>
+
+<script>
+$('ads5').innerHTML = $('span_ads5').innerHTML;
+$('span_ads5').innerHTML = '';
+</script>
+
+<!--ads06-->
+<span id="span_ads6" style="display:none;">
+<script type='text/javascript'>
+var sogou_param = new Array();
+sogou_param["pid"]  = 'cnfolcom';
+sogou_param["ct"]  = 'context';
+sogou_param["fmt"]  = 'v_120_240';
+sogou_param["iw"]   = '300';
+sogou_param["ih"]   = '250';
+sogou_param["charset"]   = 'utf-8';
+sogou_param["c_bo"] = 'F4F5F7';
+sogou_param["c_bg"] = 'F4F5F7';
+sogou_param["c_li"] = '0000ff';
+sogou_param["c_te"] = '000000';
+sogou_param["c_bt"] = '000000';
+sogou_param["c_hl"] = 'FF0900';
+sogou_param["sv"] = '1';
+sogou_param["sl"] = '1';
+sogou_param["hl"] = '0';
+sogou_param["tfs"] = '14';
+sogou_param["tft"] = '0';
+sogou_param["tml"] = '30';
+sogou_param["dn"] = '3';
+sogou_param["ucl"] = '008000';
+sogou_param["ufs"] = '10';
+sogou_param["uft"] = '0';
+sogou_param["dfs"] = '14';
+sogou_param["mhc"] = 'FF0900';
+sogou_param["mht"] = '0';
+sogou_param["tdw"] = '';
+sogou_param["lod"] = '70';
+sogou_param["ppc"] = '0';
+sogou_param["dul"] = '1';
+sogou_param["new"] = '1';
+sogou_param["tlh"] = '16';
+sogou_param["tpl"] = '0';
+</script>
+<script language='JavaScript' type='text/javascript' src='http://images.sohu.com/cs/jsfile/js/ct.js'></script>
+
+<script type='text/javascript'> 
+cpro_client='cnfol_cpr';
+cpro_at='text_image'; 
+cpro_161=3; 
+cpro_flush=4; 
+cpro_w=300; 
+cpro_h=250; 
+cpro_template='text_default_300_250'; 
+cpro_cbd='#F4F5F7'; 
+cpro_cbg='#F4F5F7'; 
+cpro_ctitle='#0000ff'; 
+cpro_cdesc='#444444'; 
+cpro_curl='#008000'; 
+cpro_cflush='#e10900'; 
+cpro_uap=1;
+cpro_cad=1;
+</script>
+<script language='JavaScript' type='text/javascript' src='http://cpro.baidu.com/cpro/ui/cp.js'></script>
+</span>
+
+<script>
+$('ads6').innerHTML = $('span_ads6').innerHTML;
+$('span_ads6').innerHTML = '';
+</script>
+
+
+</center>
+</body>
+</html>
+<script language="javascript" src="http://count.cnfol.com/view.count?11367084"></script> 
+<script type="text/javascript">BAIDU_CLB_fillSlot("198845");</script>
+
+ <!-- Ecai CMS Published at Fri Dec 16 00:14:37 2011 CST From 1140 -->
+

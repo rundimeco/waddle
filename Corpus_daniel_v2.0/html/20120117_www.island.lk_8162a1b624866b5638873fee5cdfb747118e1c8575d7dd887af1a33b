@@ -1,0 +1,887 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="author" content="Lankacom PVT LTD"/><meta name="verify-v1" content="" /><meta name="keywords" content="" /><meta name="description" content="" /><!-- //META_CODE// --><script language="javascript" type="text/javascript"> var mHost = "http://www.island.lk";</script><script language="javascript" src="http://www.island.lk/scripts/script.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/scripts/jquery.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/templates/island Template/jscript/cli_template.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modgeneral/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modgeneral/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modPublication/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modPublication/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modPublication/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modPublication/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modPublication/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modpolls/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modnews/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modPublication/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modnews/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modnews/jscript/module_jscript.js" type="text/javascript"></script><script language="javascript" src="http://www.island.lk/modules/modnews/jscript/module_jscript.js" type="text/javascript"></script><!-- //SCRIPT_CODE// --><link rel="shortcut icon" href="http://www.island.lk/images/favicon.ico" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/styles/main.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/templates/island Template/css/main.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modgeneral/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modgeneral/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modPublication/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modPublication/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modPublication/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modPublication/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modPublication/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modpolls/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modnews/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modPublication/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modnews/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modnews/css/module_css.css" /><link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modnews/css/module_css.css" /><!-- //LINK_CODE// --><title>The Island</title><script language="javascript" type="text/javascript">
+var browser = navigator.appName;
+var ver = navigator.appVersion;
+var thestart = parseFloat(ver.indexOf("MSIE"))+1;
+var brow_ver = parseFloat(ver.substring(thestart+4,thestart+7));
+
+
+if ((browser=="Microsoft Internet Explorer") && (brow_ver <= 6))
+{
+	alert("Your browser version (IE 6) is obsolete. Please update your browser to a latest version of Internet Explorer (Ex: IE 8, IE 9), in order to see the best view of this web site.");
+//window.location="http://www.google.lk";
+}
+
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28006754-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+</head>
+<body>
+
+<div class="client_main_pane">
+  <div id="cli_main_content_pane">
+  
+  
+    <div class="template_row" id="header"> 
+    <!--<div class="col" id="main_logo">&nbsp;</div>-->
+    <div class='col' style='position: relative; top: 15px;width:99%;'><table width="99%" border="0"><tbody><tr><td width="25%" align="right"><img alt="" style="width: 256px; height: 67px;" src="/userfiles/image/danweem/advertise1.jpg" /></td><td width="50%" valign="middle" align="center"><img width="368" height="70" alt="" src="/userfiles/image/danweem/island.gif" /></td><td width="25%" valign="middle" align="left"><a href="http://www.island.lk/danweem/web.html" target="_self"><img width="225" height="68" src="/userfiles/image/danweem/best4.gif" alt="" /></a></td></tr></tbody></table></div>
+    	<div id="date_area" class="col"> 
+<p style="text-align:center; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold;"><span style="color:#FFFFFF; padding:0;margin:0">Tuesday&nbsp;&nbsp;January 17th 2012</span></p>
+
+ </div>
+    </div>
+    
+    <!-- <div  style="background-color:#666666; line-height:2px; height:2px; min-height:2px; position:relative; top:95px; width:990px;"></div>
+      -->
+    <div class="template_row" id="menu_bar">     	
+    	
+<script language="javascript" type="text/javascript">
+ <!--
+function mainmenu(){
+$(" #nav ul ").css({display: "none"}); // Opera Fix
+$(" #nav li").hover(function(){
+		$(this).find('ul:first').css({visibility: "visible",display: "none"}).show(100);
+		},function(){
+		$(this).find('ul:first').css({visibility: "hidden"});
+		});
+}
+
+ 
+ 
+ $(document).ready(function(){					
+	mainmenu();
+});
+// -->
+</script>
+<div>
+<ul id="nav">
+        <li><a href="/">Home</li></a>
+   <li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=48">
+		  News</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=49">
+		  Features</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=50">
+		  Sports</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=51">
+		  Business</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=52">
+		  Opinion</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=55">
+		  Editorial</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=57">
+		  Obituaries</a></li>        <!-- <li><a href="<br />
+<b>Warning</b>:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in <b>/home/island/scms_classes/scmslcls_general.php</b> on line <b>6</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/island/scms_classes/scmslcls_general.php</b> on line <b>6</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/island/scms_classes/scmslcls_general.php</b> on line <b>6</b><br />
+http://www.island.lk/index.php?">Image Gallery</a></li>-->
+     
+
+
+       <li><a href="http://www.island.lk/index.php?page_cat=issue-gallery&page=issue-gallery&code_title=issuegalley">Image Gallery</a></li>
+    
+
+
+  <li><a href="http://www.island.lk/index.php?page_cat=contact-us">Contact us</a></li>
+
+</ul></div> 
+    </div>
+    <div class="template_row" style="background-color:#666666; line-height:5px; height:5px; min-height:5px;">&nbsp;</div>    
+    <!--<div class="template_row" id="edit_date_row">
+        <div class="col" style="width:69%; float:left;" id="editors_choice">editors_choice </div>
+        
+    </div>-->
+    
+ <div class="template_row" id="topmostad">
+        <center></center>
+
+    </div>
+
+    <div class="template_row" style="background-color:#FFFFFF; line-height:10px; height:10px; min-height:10px;"></div>
+
+    <div class="template_row" id="main_content_pane">
+       
+    	<div class="height_beem" style="height:500px;">&nbsp;</div>
+            
+            <div class="col" id="left">
+                <div class="row" style="margin:0px">
+                
+                	<div id="left_hot_news" style="height:auto;">
+                   <div class="hot_news">
+	<div class="col"><strong>NAVIGATE</strong></div>
+	<div class="col" style="width:3%; text-align:center;">:</div>
+        <div class="col" style="width:72%;">
+            <a href="/">Home</a>
+                                &nbsp;<span class="bc_sep">&raquo;</span>
+                                        <a href="http://www.island.lk/index.php?page_cat=news-section"></a>&nbsp;<span class="bc_sep">&raquo;</span>
+                    <a href="#">Docs warn against giving aspirin to children with high fever</a>
+                    
+        </div>
+</div>
+                    </div>
+                    
+                    <div id="left_video_area">
+                                       <br /><h1>Docs warn against giving aspirin to children with high fever</h1> <span class="article_date">January 15, 2012, 12:00 pm</span>
+<br/><br/>
+
+ 
+<img alt="article_image" style="float:left" src="http://www.island.lk/modules/modPublication/article_title_images/4327682191-2.jpg"/><br />
+
+<p>The Sri Lanka College of Paediatricians warns the public against  giving children, with high fever, aspirin and similar non-steroid  anti-inflammatory drugs which induces bleeding in the case of dengue  haemorrhagic fever.</p> <br />    <p>Following is the text of the SLCP communiqu&eacute; titled, &quot;Important  Message from the Sri Lanka College of Paediatricians&quot;:</p> <br /> <p>&quot;Presently, Paediatric wards in most parts of the country are  dealing with large numbers of children with Dengue Fever and Dengue Haemorrhagic  fever.</p> <br /> <p>&quot;It is noted that some of these children have received  medication for high fever with non steroidal anti-inflammatory drugs such as  aspirin, ibuprofen, mefanamic acid and diclofenac sodium suppositories, prior to  admission to hospital. &quot;It is now well documented that children who have had  these medicines have a greater potential to bleed when they have Dengue  Haemorrhagic Fever. This is causing major problems in treating them.</p> <br /> <p>&quot;The Sri Lanka College of Paediatricians wishes to inform all  parents that it is best to refrain from giving their children these medications  in the presence of fever. These medications are available in the market under  different trade names hence, it is important that you check the labels of all  medications available for control of fever prior to giving them to your child.</p> <br /> <p>&quot;It is advisable to use only paracetamol at the recommended  dosage as a medication, to bring down such fevers, in addition to tepid  sponging.&quot;</p> <br /> 
+<div class="row">&nbsp;</div>
+<div class="row">
+    <div class="article_info_col" style="width:40%; float:right;" >
+    	<img alt="" src="http://www.island.lk/images/icons/chart_bar.gif"/>&nbsp;Hits: 266&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.island.lk/images/icons/email.png"/>&nbsp;<a href="javascript:emailArticle(43276);">Send to Friend</a>
+    </div>
+</div>
+
+<div class="row" style="border-bottom:1px solid #cccccc;">&nbsp;</div>
+
+<div class="row">
+<a name="comments">&nbsp;</a>
+<h2>Comments (0)</h2>
+
+
+
+</div>
+<div class="row" style="border-bottom:1px solid #cccccc;">&nbsp;</div>
+<div class="row" >
+<a name="comment_write">&nbsp;</a>
+<h2>Write Your Comment</h2>
+<br/>
+<span id="article_comment_sucess">Thank you for your comment. Your comment will be published shortly after the moderation process.</span>
+	<form name="mFrmArticleComment" id="mFrmArticleComment" action="http://www.island.lk/site_controler.php" method="post" onsubmit="return validateAddComment();" style="float:left; width:90%; position:relative; left:5%;">
+    	<input type="hidden" name="mAction" id="mAction" value="mEventAddNewsArticleComment" />
+        <input type="hidden" name="mArticleId" id="mArticleId" value="43276"  />
+        <input type="hidden" name="mVeriValue" id="mVeriValue" value="42573ea1cc52356b2fcfed8d43b6db2f"  />
+        <div class="row">
+            <div class="col" style="width:30%;">
+                <span class="mFormLable">Name <span class="error">*</span></span>
+            </div>
+            <div class="col" style="width:5%;">:</div>
+            <div class="col" style="width:60%;">
+                <input type="text" class="mFormField" id="mTxtCommentName" name="mTxtCommentName" value="" style="width:90%;" />
+                <div class="mErrorHidden" id="mTxtCommentNameError"></div>
+            </div>
+        </div>
+         <div class="row">
+            <div class="col" style="width:30%;">
+                <span class="mFormLable">Comment <span class="error">*</span></span>
+            </div>
+            <div class="col" style="width:90%; line-height:10px;">&nbsp;</div>
+            <div class="col" style="width:90%;">
+                <textarea name="mTxtCommentDetails" rows="4" cols="40" style="width: 100%; height: 300pxpx"></textarea>                <div class="mErrorHidden" id="mTxtCommentDetailsError">d</div>
+            </div>
+        </div>
+            <div class="col" style="width:90%; line-height:10px;">&nbsp;</div>
+         <div class="row">
+            <div class="col" style="width:30%;">
+                <span class="mFormLable">Verification image</span>
+            </div>
+            <div class="col" style="width:5%;">:</div>
+            <div class="col" style="width:60%;">
+              <img src="http://www.island.lk/scms_classes/gen_vkey_code.php?rand=22966&amp;color=245_245_245" id="mImgVarivation" class="mFormFieldNew" alt="verification image" />            </div>
+        </div>
+         <div class="row">
+            <div class="col" style="width:30%;">
+                <span class="mFormLable">Enter Verification Image <span class="error">*</span></span>
+            </div>
+            <div class="col" style="width:5%;">:</div>
+            <div class="col" style="width:60%;">
+                <input type="text" class="mFormField" id="mTxtTicketVariImage" value="" name="mTxtTicketVariImage" style="width:90%;" />
+                <div class="mErrorHidden" id="mTxtTicketVariImageError">d</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col" style="width:30%;">
+               &nbsp;
+            </div>
+            <div class="col" style="width:5%;">&nbsp;</div>
+            <div class="col" style="width:60%;">
+                <input type="submit" class="mFormButton" value="Add Comment" />
+            </div>
+        </div>
+    </form>
+
+</div>
+                                        </div>
+                    
+                    <div class="template_row_gap" style="background-color:#FFFFFF; line-height:10px; height:10px; min-height:10px;">&nbsp;</div>
+                                
+                <div id="left_news_cat">
+               
+             <!-- left_news_cat -->
+					
+                
+                </div>
+                
+                
+                <div class="template_row_gap" style="background-color:#FFFFFF; line-height:10px; height:10px; min-height:10px;">&nbsp;</div>
+                
+                <div class="template_row_gap" style="background-color:#ABABAB; line-height:5px; height:5px; min-height:5px;">&nbsp;</div>
+                
+                
+                <div class="template_row_gap" style="background-color:#FFFFFF; line-height:10px; height:10px; min-height:10px;">&nbsp;</div>
+                
+                <div id="left_banner_adds2">                
+             
+<!-- left_banner_adds2 -->
+                
+                </div>
+                
+                
+                <div class="template_row_gap" style="background-color:#FFFFFF; line-height:10px; height:10px; min-height:10px;">&nbsp;</div>
+                
+                
+                <div id="left_other">
+                 <div id="right_search" style="padding-left:15px; padding-bottom:3px; padding-top:-10px"  >
+       
+         <table width='99%'>
+         <tbody>
+       <script>
+function newWin() {
+
+var trimmed=document.getElementById('q').value;
+var domains=document.getElementById('domains').value;
+
+var val = 0;
+var selection = document.searchform.sitesearch;
+for( i = 0; i < selection .length; i++ )
+{
+
+if( selection [i].checked == true )
+val = selection [i].value;
+
+}
+
+var weburl="http://www.google.com/search?q="+trimmed+"&domains="+domains+"&sitesearch="+val+"";
+var new_window = window.open(weburl);/* ,"","width=200,height=200"); */
+
+}
+</script>
+         <tr>
+         <!-- <form > action="http://www.google.com/search" method="GET" onclick='newWin(weburl)'>    -->      
+        
+<form name='searchform'>
+ <input type="hidden" value="UTF-8" name="ie">
+         <input type="hidden" value="UTF-8" name="oe">
+           <td width="2%"  rowspan="2">&nbsp;</td>
+           <td width="15%" valign="top"><img src="http://www.island.lk/templates/island Template/images/nav_logo13.png" alt="Google" height="25" align="top" style="margin-top:10px"></td>
+           <td>
+            <input type="text"  class="mFormField" maxlength="255" size="30" name="q" id='q' style="margin-top:10px">
+             <input type="image" id="searchsubmit" src="http://www.island.lk/templates/island Template/images/hdrSearchArrow.gif" width="16" height="16" style="padding-top:10px" onClick="newWin();">
+             <input type="radio" value="" name="sitesearch" id="sitesearch">
+              &nbsp;&nbsp;www  &nbsp;&nbsp; <input type="radio" checked="" value="http://www.island.lk" name="sitesearch" id="sitesearch"> &nbsp;&nbsp;  island.lk
+             </td>
+         </tr>
+         <tr>
+           <td ><input type="hidden" value="http://www.island.lk" name="domains2">
+             <input type="hidden" name="domains" id="domains" value="http://www.island.lk">
+             <input type="hidden" name="sitesearch2" value="http://www.island.lk"></td>
+           <td>
+         </td>
+           </tr>
+     </form> 
+     </tbody>
+     </table>
+     
+                   </div>
+                    <div class="col" id="polls">
+                        <h2>Polls</h2>
+                        <div class="col" style="width:90%; position:relative; left:5%; margin-top:5px;">
+                            
+		<div class="row" >
+			<br/>
+    <strong style="font-size:11px;">Who is Sri Lanka’s best Test spinner?</strong>
+    <div class="row" style="line-height:10px;" >&nbsp;</div>
+	
+		
+					<div class="col" style="width:99%;">
+                <div class="col" style="width:10%;">
+				<input type="radio" name="poll_4" id="poll_4" value="4" style="float:left;" onchange="selectVotePolls('poll_4',4);" />
+                </div>
+                <div class="col" style="width:5%;">&nbsp;</div>
+                <div class="col" style="width:84%; font-size:11px;">
+				
+				Rangana Herath				</div>
+			</div>
+			
+			                <div class="row" style="line-height:5px;">&nbsp;</div>
+                			<div class="col" style="width:99%;">
+                <div class="col" style="width:10%;">
+				<input type="radio" name="poll_4" id="poll_4" value="5" style="float:left;" onchange="selectVotePolls('poll_4',5);" />
+                </div>
+                <div class="col" style="width:5%;">&nbsp;</div>
+                <div class="col" style="width:84%; font-size:11px;">
+				
+				Ajantha Mendis				</div>
+			</div>
+			
+			                <div class="row" style="line-height:5px;">&nbsp;</div>
+                			<div class="col" style="width:99%;">
+                <div class="col" style="width:10%;">
+				<input type="radio" name="poll_4" id="poll_4" value="6" style="float:left;" onchange="selectVotePolls('poll_4',6);" />
+                </div>
+                <div class="col" style="width:5%;">&nbsp;</div>
+                <div class="col" style="width:84%; font-size:11px;">
+				
+				Suraj Randiv				</div>
+			</div>
+			
+			                <div class="row" style="line-height:5px;">&nbsp;</div>
+                			<div class="col" style="width:99%;">
+                <div class="col" style="width:10%;">
+				<input type="radio" name="poll_4" id="poll_4" value="7" style="float:left;" onchange="selectVotePolls('poll_4',7);" />
+                </div>
+                <div class="col" style="width:5%;">&nbsp;</div>
+                <div class="col" style="width:84%; font-size:11px;">
+				
+				Malinga Bandara				</div>
+			</div>
+			
+			                <div class="row" style="line-height:5px;">&nbsp;</div>
+                    <div class="row" style="line-height:5px;">&nbsp;</div>
+        <div class="row">
+            <input type="button" onclick="performVote()" value="Vote Now!!" class="mNewFormButton" />
+
+        </div>
+	
+	<span style="font-size:10px; float:left;">Total : 2562 Votes.</span>
+        
+		<span style="font-size:10px; float:right;"><a href="http://www.island.lk/index.php?page_cat=poll-resutls&page=poll-resutls&code_title=4">Results</a></span>
+	<div class="row" style="border-bottom:0px dashed #555555;">&nbsp;</div>
+	
+	</div>
+
+                        </div>
+                    </div>
+                    <div class="col" id="annoucements">
+                         <h2>Announcements</h2>
+                        <div class="col" style="width:90%; position:relative; left:5%; margin-top:5px;">
+                            
+
+                        </div>
+                    </div>
+
+               <!-- left_other -->
+                
+                </div>
+                
+                
+                </div> 
+            </div>  
+            
+            
+            
+            
+              	
+        	<div class="col" id="right">
+                <div class="row" style="margin:0px;padding:0px;">
+                	 
+                    
+                    <div id="right_breaking_news">
+                    	
+                   <!--<link rel="stylesheet" href="http://www.island.lk/modules/modPublication/jscript/style.css" type="text/css" media="screen" />
+<script src="http://www.island.lk/modules/modPublication/jscript/jquery-latest.pack.js" type="text/javascript"></script>
+<script src="http://www.island.lk/modules/modPublication/jscript/jcarousellite_1.0.1c4.js" type="text/javascript"></script>
+
+   <script type="text/javascript">
+ $(function() {
+ $(".newsticker-jcarousellite").jCarouselLite({
+         vertical: true,
+       visible: 3,
+       auto:500,
+       speed:1000
+     });
+ });
+ </script>  
+-->
+  <style type="text/css">
+  #breaking_news_more {
+position:relative;
+  top:12px;
+  left:10px;
+  }
+  #breaking_news_more a{
+  	font-family:Cambria,"Times New Roman",Times,serif;
+
+	font-size:13px;
+	color:#006699;
+	font-weight:bold;
+  text-decoration:none;
+
+  }
+
+
+  #right_breaking_news_items p{
+  	font-family:Verdana;
+
+	
+
+  }
+
+    #breaking_news_more a:hover{
+
+  text-decoration:underline;
+  color:#CC3333;
+  }
+
+  .small{
+
+      color:#999999;
+      font-size:6px;
+      line-height:100%;
+  }
+
+  </style>
+  <div id="right_breaking_news_heading">
+                        	<h2> Breaking News </h2>
+                          </div>
+
+
+<p>No breaking news available.</p>
+
+                         <!-- <p>More on <a href="#" >Breaking News</a></p> -->
+                   </div>
+                    <div class="template_row_gap_right" style="background-color:#FFFFFF; line-height:10px; height:10px; min-height:10px;">&nbsp;</div>
+                     <div id="right_feature" >
+                         <div class="col" style="width:49%;">
+                             
+<script language="javascript">
+$(document).ready(function(){
+   //Caption Sliding (Partially Hidden to Visible)
+				$('.boxgrid.caption').hover(function(){
+					$(".cover", this).stop().animate({top:'70px'},{queue:false,duration:160});
+				}, function() {
+					$(".cover", this).stop().animate({top:'100px'},{queue:false,duration:160});
+				});
+
+});
+
+</script>
+<h2>Featured News</h2>
+        <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/432909056fea8-1.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/432909056fea8-1.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=432909056fea8-1.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=43290" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> Taiwan: Waiting for China</h3>
+                    <p>2012-01-16<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+                <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/432913563fea10-1.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/432913563fea10-1.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=432913563fea10-1.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=43291" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> Indian visit and importance of...</h3>
+                    <p>2012-01-16<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+                <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/432927432fea5-1.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/432927432fea5-1.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=432927432fea5-1.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=43292" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> Z Score Imbroglio</h3>
+                    <p>2012-01-16<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+                <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/432935700fea5-2.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/432935700fea5-2.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=432935700fea5-2.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=43293" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> Z score and populations</h3>
+                    <p>2012-01-16<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+                <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/432946701fea12.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/432946701fea12.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=432946701fea12.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=43294" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> Executive Summary of the...</h3>
+                    <p>2012-01-16<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+                <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/433003568b1-2.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/433003568b1-2.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=433003568b1-2.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=43300" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> SEC relaxes controls, credit to...</h3>
+                    <p>2012-01-16<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+        
+                         </div>
+                         <div class="col" style="float:right; width:49%; " id="right_adverts">
+                             <div class="col" style="width:99%;"><table width='99%'width="156" height="524" cellspacing="1" cellpadding="1" border="0" style=""><tbody><tr><td><div> <a href="http://pdfs.island.lk/marriage/marriage.html" target="_self"><img width="140" height="60" src="/userfiles/image/danweem/marriage1.gif" alt="" /></a><a href="http://www.bestweb.lk" target="_blank"><br /></a><a href="http://pdfs.island.lk/marriage/photoclassified.htm" target="_blank"><img width="140" height="60" alt="" src="/userfiles/image/danweem/photos.gif" /></a><a href="http://pdfs.island.lk/marriage/marriage.html" target="_self"><br /></a> </div></td></tr><tr><td valign="middle" align="left"><iframe width="140" scrolling="no" height="45" frameborder="0" src="http://www.lanka.info/danweem/server.jsp?publisher=island" name="Kapruka Promotions at Upali News Paper"></iframe><br /><center><a class="kapruka" style="font-size: 11px; margin-left: 3px; font-family: tahoma,arial;" href="http://www.lanka.info/" target="_blank">Kapruka Shopping</a>&nbsp;|&nbsp;<a class="kapruka" style="font-size: 11px; font-family: tahoma,arial;" href="http://www.lankanewspapers.com/news/index.jsp" target="_blank">News</a></center> </div></td></tr><tr><td><div> <a href="http://www.lassanaflora.com" target="_blank"><img width="140" height="60" src="/userfiles/image/danweem/LassanaFlora.jpg" alt="" /></a> </div></td></tr><tr><td><div> <a href="http://www.mobitel.lk/surveillance?utm_source=island&amp;utm_medium=banner&amp;utm_campaign=cctv" target="_blank"><img width="140" height="120" src="/userfiles/image/danweem/Island-140X120.gif" alt="" /><br /></a> </div></td></tr><tr><td><div> <a target="_blank" href="http://pdfs.island.lk/2012/01/17/pdfthumb.html"><img width="140" height="60" alt="" src="../../userfiles/image/danweem/pdf.jpg" /></a> </div></td></tr><tr><td><div> <a href="http://pdfs.island.lk/2012/01/17/Star-trek.html" target="_blank"><img width="140" height="62" src="/userfiles/image/Star-Trek.jpg" alt="" /></a> </div></td></tr><tr><td><div> <a href="http://matrimony.divaina.com/" target="_self"><img alt="" src="/userfiles/image/danweem/epal.jpg" style="width: 144px; height: 64px;" /></a> </div></td></tr><tr><td><div> <a href="http://www.cse.lk/cmt/upload_cse_report_file/daily_report.pdf" target="_blank"><img width="140" height="60" src="/userfiles/image/danweem/stock.jpg" alt="" /></a> </div></td></tr></tbody></table> </div>   	<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+/*
+img{
+border:0;
+}	
+*/
+
+#gallery {
+		/*background-color: #00718E;*/
+		
+		
+                
+                border:#AAAAAA;
+	}
+	#gallery ul { list-style: none;}
+	#gallery ul li { display: inline;padding-bottom : 5px;  }
+	#gallery ul img {
+		border: 5px solid #AAAAAA;
+		border-width: 1px 1px 1px;
+		padding:5px;
+               
+	}
+	#gallery ul a:hover img {
+		border:2px solid #DF0D0D;
+		border-width: 1px 1px 1px;
+		/*color: #fff;*/
+	}
+	#gallery ul a:hover {/* color: #fff; */}
+
+
+#sharemarketgallery {
+		/*background-color: #00718E;*/
+
+
+
+                border:#AAAAAA;
+	}
+	#sharemarketgallery ul { list-style: none;}
+	#sharemarketgallery ul li { display: inline;padding-bottom : 5px;  }
+	#sharemarketgallery ul img {
+		border: 5px solid #AAAAAA;
+		border-width: 1px 1px 1px;
+		padding:5px;
+
+	}
+	#sharemarketgallery ul a:hover img {
+		border:2px solid #DF0D0D;
+		border-width: 1px 1px 1px;
+		/*color: #fff;*/
+	}
+	#sharemarketgallery ul a:hover {/* color: #fff; */}
+        </style>
+<script type="text/javascript" src="http://www.island.lk/modules/modpicturegallery/jscript/pikachoose.js"></script>
+  <script type="text/javascript" src="http://www.island.lk/modules/modpicturegallery/jscript/jquery.lightbox-0.5.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://www.island.lk/modules/modpicturegallery/css/jquery.lightbox-0.5.css" media="screen" />
+
+<script language="javascript">
+    <!--
+    $(document).ready(
+        function (){
+        $('.gallery a').lightBox({
+
+         /*   overlayBgColor: '#FFF',*/
+	overlayOpacity: 0.6,
+	imageLoading: 'http://www.island.lk/modules/modpicturegallery/lightbox_images/lightbox-ico-loading.gif',
+	imageBtnClose: 'http://www.island.lk/modules/modpicturegallery/lightbox_images/lightbox-btn-close.gif',
+	imageBtnPrev: 'http://www.island.lk/modules/modpicturegallery/lightbox_images/lightbox-btn-prev.gif',
+	imageBtnNext: 'http://www.island.lk/modules/modpicturegallery/lightbox_images/lightbox-btn-next.gif',
+	containerResizeSpeed: 250
+
+
+
+
+        });
+
+    $('#sharemarketgallery a').lightBox({
+
+         /*   overlayBgColor: '#FFF',*/
+	overlayOpacity: 0.6,
+	imageLoading: 'http://www.island.lk/modules/modpicturegallery/lightbox_images/lightbox-ico-loading.gif',
+	imageBtnClose: 'http://www.island.lk/modules/modpicturegallery/lightbox_images/lightbox-btn-close.gif',
+	imageBtnPrev: 'http://www.island.lk/modules/modpicturegallery/lightbox_images/lightbox-btn-prev.gif',
+	imageBtnNext: 'http://www.island.lk/modules/modpicturegallery/lightbox_images/lightbox-btn-next.gif',
+	containerResizeSpeed: 250
+
+
+
+
+        });
+
+        });
+    -->
+</script>
+<style>
+#albums{
+position:relative;float:right;top:-32px;left:-10px;font-size:8pt;font-family:verdana,Tahoma;
+}
+#albums a{
+text-decoration:none;
+border:0px;
+}
+#albums a img{
+
+border:0px;
+}
+</style>
+        <!--       <img src="/modules/modpicturegallery/thumb_images/" alt="Island Cartoon"  title="" alt="" rel="" />
+-->
+<div id="gallery" class="gallery" width="99%" class="col" style="margin:0;padding-bottom:10px;padding-top:5px;" >
+  <ul>
+		<li style="margin:0;">
+                 <!-- <a href="" class="album_link"></a> - <i>Created By:  | </i>
+ -->
+
+            <a href="http://www.island.lk/modules/modpicturegallery/gallery_pictures/1326719893cart.jpg" >
+            
+               <!-- <img alt="cartoon" style="float:left; position:relative; top:8px;padding:0px;" src="/image_crop.php/?width=140&cropratio=1:1&image="/>
+-->
+
+
+  <img alt="cartoon" style="float:left; position:relative; top:8px;padding:0px;" src="/image_crop.php/1326719893cart.jpg?width=140&cropratio=1:1&image=http://www.island.lk/modules/modpicturegallery/gallery_pictures/1326719893cart.jpg"/>
+
+    
+
+            </a>
+
+		</li>
+    </ul>
+</div>
+
+<br><br>
+<br /><br />
+
+                         </div>
+                </div>
+                    <div class="template_row_gap_right" style="background-color:#FFFFFF; line-height:10px; height:10px; min-height:10px;">&nbsp;</div>
+                    
+                   <!--  <div id="right_video_story">-->
+                   
+                     	
+    <!-- right_video_story [temporry disconnected]-->
+                       
+          
+                   <!--  </div>-->
+                    
+                    
+                    <div class="template_row_gap_right" style="background-color:#FFFFFF; line-height:10px; height:10px; min-height:10px;">&nbsp;</div>
+                    
+					<div id="right_media">
+                          
+                  <script src="http://www.island.lk/scripts/jquery.flow.1.2.auto.js" type="text/javascript"></script>
+
+<script language="javascript">
+$(document).ready(function(){
+    $("#myController").jFlow({
+        slides: "#mySlides",
+        width: "99%",
+		auto: false,
+        height: "300px",
+        duration: 400
+    });
+});
+</script>
+<div class="col" style="width:99%; line-height:5px;">&nbsp;</div>
+<div id="myController" class="col" style="width:90%; position:relative; left:5%;">
+   <!--<span class="jFlowControl">LATEST NEWS</span>-->
+   <span class="jFlowControl">ARCHIVES</span>
+  <span class="jFlowControl">RELATED LINKS</span>
+   
+</div>
+
+
+<div id="mySlides" class="media_panel_slides">
+   <!-- <div>
+        <ul>
+            -->   	           <!--     <li><a href=""> - []</a></li>
+	          -->           <!--  </ul>
+   </div> -->
+  <!-- <div>
+        <ul>
+                <li>First news item under populer</li>
+                <li>second news item under populer</li>
+                <li>third news item under populer</li>
+                <li>forth news item under populer</li>
+                <li>fiveth news item under populer</li>
+        </ul>
+   </div>-->
+   <div>
+              <ul>
+            
+           <li><a href="javascript:loadIssue('598')">Tuesday, 17th January 2012 [Current Issue]</a></li>
+             
+           <li><a href="javascript:loadIssue('597')">Monday, 16th January 2012 </a></li>
+             
+           <li><a href="javascript:loadIssue('596')">Sunday, 15th January 2012 </a></li>
+             
+           <li><a href="javascript:loadIssue('595')">Saturday, 14th January 2012 </a></li>
+             
+           <li><a href="javascript:loadIssue('594')">Friday, 13th January 2012 </a></li>
+             
+           <li><a href="javascript:loadIssue('593')">Thursday, 12th January 2012 </a></li>
+             
+           <li><a href="javascript:loadIssue('592')">Wednesday, 11th January 2012 </a></li>
+                          <!-- <li><a href="#">View more</a></li> -->
+         <li> <a href="http://www.island.lk/index.php?page_cat=island-archives" >More Archives</a></li>
+         
+    
+        </ul>
+        
+        
+   </div>
+
+
+
+<div id="mySlides" class="media_panel_slides">
+   <!-- <div>
+        <ul>
+            -->   	           <!--     <li><a href=""> - []</a></li>
+	          -->           <!--  </ul>
+   </div> -->
+  <!-- <div>
+        <ul>
+                <li>First news item under populer</li>
+                <li>second news item under populer</li>
+                <li>third news item under populer</li>
+                <li>forth news item under populer</li>
+                <li>fiveth news item under populer</li>
+        </ul>
+   </div>-->
+   <div>
+              <ul>
+                            <li>
+                            <a href="http://www.worldtimeserver.com/current_time_in_LK.aspx" target="_blank">World Clock</a></li>
+                            <li><a href="http://www.oanda.com/convert/classic?user=webteam&lang=en" target="_blank">Currency Rates</a></li>
+                            <li><a href="http://news.bbc.co.uk/weather/" target="_blank">Weather</a></li>
+                            <ul>
+        
+        
+   </div>
+</div>
+
+                 	  </div>
+                      
+                      
+
+                    
+                    
+
+                    
+                    
+                    
+                    
+                    
+                </div>
+            </div>
+    </div>
+    
+    
+    
+    <div class="template_row" style="background-color:#FFFFFF; line-height:10px; height:10px; min-height:10px;">&nbsp;</div> 
+    <div class="template_row">  <center>
+ 
+<table cellspacing="5" cellpadding="5" style="border: 0px none ;">
+<tbody>
+<tr>
+<td valign="top">
+   <a href="http://www.divaina.com" target="_blank"> <img alt="" src="http://www.island.lk/templates/island Template/images/divaina100.jpg" style="border:none;"/></a>
+
+</td>
+
+
+<td valign="top">
+  <a href="http://www.navaliya.com" target="_blank">  <img alt="" src="http://www.island.lk/templates/island Template/images/navaliya100.jpg" style="border:none;"/></a>
+
+</td>
+
+
+<td valign="top">
+  <a href="http://www.vidusara.com"  target="_blank"><img alt="" src="http://www.island.lk/templates/island Template/images/vidu100.jpg" style="border:none;"/></a>
+
+</td>
+
+</tr>
+</tbody>
+</table>
+
+</center>
+</div>
+    <div class="template_row" style="background-color:#ABABAB; line-height:5px; height:5px; min-height:5px;">&nbsp;</div> 
+        <div class="template_row" id="footer"> 
+    
+           <center>
+ 
+<table cellspacing="5" cellpadding="5" style="border: 0px none ;">
+<tbody>
+<tr>
+<td valign="top">
+    <img alt="" src="http://www.island.lk/templates/island Template/images/upali_group_logo.png"/>
+<!--src="http://www.srilankanelections.com/templates/election_template/images/upali_group_logo.png"-->
+</td>
+<td style="font-size: 8pt;">
+UPALI NEWSPAPERS (PVT) LTD
+<br/>
+Copyright &copy; Upali Newspapers (Pvt) Ltd.
+<br/> All Rights Reserved.
+</td>
+</tr>
+<tr>
+<td colspan="2"> <center>Solution by <a href="http://www.lankacom.net " target="_blank">Lankacom</a>.</center> </td>
+</tr>
+</tbody>
+</table>
+
+</center>
+
+
+</div>
+    
+  </div>
+</div>
+
+<!-- AJAX Pre Loader Remove This Below Code if you don't want to have it -->
+<div id="busy_box" class="cls_busy_box_off" style="z-index:200" > <img src="http://www.island.lk/templates/island Template/images/wait26trans.gif" alt="animated gif"  /><br/>
+  Processing Request<br/>
+  Please Wait... </div>
+<!-- End of AJAX Pre Loader Code -->
+<script language="javascript" type="text/javascript">//__FOOTER_SCRIPT__//</script></body></html>

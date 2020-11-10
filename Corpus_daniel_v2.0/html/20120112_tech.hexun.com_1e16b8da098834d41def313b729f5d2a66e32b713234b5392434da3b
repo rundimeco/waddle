@@ -1,0 +1,629 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="CES2012报道：尼康1系列展台魅力四射-科技频道-和讯网">
+<meta name="keywords" content="尼康">
+<title>CES2012报道：尼康1系列展台魅力四射-科技频道-和讯网</title>
+<link href="http://img.hexun.com/css/2011/detail.css" type="text/css" rel="stylesheet" />
+<script language="javascript" src="http://img.hexun.com/base/hx_base.min.js"></script>
+<script language="javascript" src="http://img.hexun.com/js/2011/finalpage2011.js"></script>
+<script language=Javascript src="http://img.hexun.com/js/2011/printcommon.js"></script>
+<script language=Javascript src="http://img.hexun.com/js/showComment.js"></script>
+</head>
+<body>
+<div id="wrap">
+<center><div id="fullScreeMedia"></div><div id="topFullWidthBanner"></div></center>
+<link rel="stylesheet" type="text/css" href="http://img.hexun.com/news/2010/head2010.css" />
+<script src="http://img.hexun.com/js/hexunjs.js?var=090820"></script>
+<div id="head2010">
+<!-- 导航登录等 -->
+<div class="navetc">
+<div class="navL">
+<style>
+#head2010 .navetc{height:27px; overflow:hidden; font-family:"宋体";}
+#head2010 .navL a{ padding:0px 2px;}
+#head2010 .navetc .navL{ width:840px; float:left; padding:3px 0 0 0; height: 52px; border-right:#bebebe 1px solid;} 
+#head2010 .navetc .navR{ width:111px; float:right; padding:3px 3px 3px 0; overflow: hidden;}
+#hexunMember_isloginedSetup_span_display_username{ width: 49px; height: 20px; overflow: hidden; text-align: right; padding:0 0 0 8px; margin-right: 5px;}
+#hexunMember_nologinSetup_div_display_nologin{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8; overflow:hidden; margin-bottom:3px;}
+#hexunMember_isloginedSetup_div_display{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8 }
+#hexunCalendar a,#hexunCalendar a:hover{ color:#C7E1FC;}
+</style>
+<table width="840" cellpadding="0" cellspacing="0">
+<tr>
+<td class="nr"><a href="http://www.hexun.com/" target="_blank">首页</a>-<a href="http://news.hexun.com/" target="_blank">新闻</a>-<a href="http://stock.hexun.com/" target="_blank">股票</a>-<a href="http://funds.hexun.com/" target="_blank">基金</a>-<a href="http://futures.hexun.com/" target="_blank">期货</a>-<a href="http://qizhi.hexun.com/" target="_blank">期指</a>-<a href="http://gold.hexun.com/" target="_blank">黄金</a>-<a href="http://forex.hexun.com/" target="_blank">外汇</a>-<a href="http://bond.hexun.com/" target="_blank">债券</a>-<a href="http://money.hexun.com/" target="_blank">理财</a>-<a href="http://bank.hexun.com/" target="_blank">银行</a>-<a href="http://insurance.hexun.com/" target="_blank">保险</a>-<a href="http://trust.hexun.com/" target="_blank">信托</a>-<a href="http://house.hexun.com/" target="_blank">房产</a>-<a href="http://auto.hexun.com/" target="_blank">汽车</a>-<a href="http://tech.hexun.com/" target="_blank">科技</a>-<a href="http://guba.hexun.com/" target="_blank">股吧</a>-<a href="http://bbs.hexun.com/" target="_blank">论坛</a>-<a href="http://blog.hexun.com/" target="_blank">博客</a>-<a href="http://t.hexun.com/" target="_blank" style="color:#f00">微博</a>-<a href="http://tv.hexun.com/" target="_blank">视频</a>-<a href="http://lc.hexun.com/" target="_blank">理财服务</a>-<a href="http://cs.stock.hexun.com/" target="_blank">Ａ股超市</a></td>
+</tr>
+</table>
+</div>
+<div class="navR">
+<!--登录注册-->
+<div id="hexunMember_liveDisplay"></div>
+<link href='http://login.tool.hexun.com/OtherInterFace/style/newbase.css' rel='stylesheet' type='text/css' />
+<script src=http://login.tool.hexun.com/OtherInterFace/js/popup.js type="text/javascript" charset="utf-8"></script>
+<script charset="utf-8" type="text/javascript" language="javascript">
+var href=window.location.href;   
+hexunMember_loginSetup_signOutURL=href;//登出地址
+hexunMember_loginSetup_noLoginDisplayMsg=""; //没登陆的提示
+hexunMember_loginSetup_noLoginDisplayFlag="|";//登录和注册中间的分隔符号 或 用户名与登出中间的分隔符号，不需要分隔符可以为空
+hexunMember_loginSetup_islogined_isDisplay=true;//如果是登陆状态，true=显示用户名和登出按钮等信息,flase=不显示任何信息
+hexunMember_loginSetup_referrer=document.referrer;//请不要修改此项
+hexunMember_loginSetup_MastLogin=0;//如果需要不登陆就一直弹窗，在此设置一下弹窗时间间隔(秒)。如果等于0本项无效
+</script>
+<!--登录注册over-->
+<div id="enterhexun">
+<a onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.hexun.com');" style="cursor:pointer">设和讯为首页</a>  
+<a href="http://3g.hexun.com" target="_blank" class="tel">手机版</a>
+</div>
+</div>
+</div>
+<!-- logo search -->
+<div class="logoetc">
+<div class="logo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/sylogo/sy_logo.gif" alt="和讯" border="0" /></a><a href="http://www.hexun.com" target="_blank" id="subChannelLogo"><img src="http://img.hexun.com/images2008/emp.gif" alt="" border="0" /></a></div>
+<div class="date" id="hexunCalendar"></div>
+<a href="http://3g.hexun.com" target="_blank" style="background:url(http://img.hexun.com/2010/img/tel.gif) no-repeat;line-height: 15px; padding:2px 0 2px 13px; margin:17px 0 0 10px;color:#cae0fe; float:left" id="phoneNewsText">手机版</a>
+<script type="text/javascript">
+(function(){
+var obj = document.getElementById('phoneNewsText');
+var url = window.location.href;
+if(url.indexOf('news.hexun.com')!=-1) {
+   obj.style.margin = '17px 0 0 20px';
+   obj.innerHTML = '免费手机资讯客户端下载';
+   obj.href = 'http://3g.hexun.com/download_zx.jsp';
+}
+})();
+</script>
+<div class="sea">
+<form action="http://search.hexun.com/search_result.jsp" name="hexunsearch" method="post"  target="_blank" onsubmit="submitForm_x();return false;">
+<dl>
+<dt>
+<input type="hidden" name="wf" value="2">
+<input type="hidden" name="stockid" id="stockid" value="">
+<input type="hidden" name="Dboard" value="-1">
+<input type="hidden" name="Dtime" value="3m">
+<input type="hidden" name="Dkeytype" value="1">
+<input type="hidden" name="Ttext" value="">
+<input type="hidden" name="sw" value="">
+<input type="hidden" name="msn_stockid" value="">
+<input type="hidden" name="fund_code" value="">
+<input type="radio" name="whichDB" value="stock" id="rdstock" onClick="wrDefault(this)" checked="checked" /><label for="rdstock">股票/基金</label>&nbsp;
+<input type="radio" name="whichDB" value="guba" id="rdguba" onClick="wrDefault(this)"/><label for="rdguba">微博</label>&nbsp;
+<input type="radio" name="whichDB" value="info" id="rdinfo" onClick="wrDefault(this)"/><label for="rdinfo">新闻</label>&nbsp;
+<input type="radio" name="whichDB" value="blog" id="rdblog" onClick="wrDefault(this)"/><label for="rdblog">博客</label>&nbsp;
+</dt>
+<dd>
+<input id="textMessage" value="输入代码、名称或简写" class="inputtxt" type="text" name="tempsw" style="color:#858585;" autocomplete="off"/>
+<input type="button" value="和讯搜索" class="inputbtn" onClick="submitForm_x()"/>
+</dd>
+<input type="hidden" name="searchID" value="101" /> 
+</dl>
+</form>
+</div>
+</div>
+</div>
+<!--股票输入提示-->
+<div id="standStockPanel"></div>
+<script language="javascript" src="http://img.hexun.com/js/suggest/standSearchVerify.js"></script>
+<script language="javascript" type="text/javascript">
+new hxSuggest('textMessage','http://data.stock.hexun.com/include/AjaxSearch2011.ashx',{contrainer:document.getElementById('standStockPanel')});
+</script>
+<!--股票输入提示over-->
+<script type="text/javascript">
+(function(){
+var reg = /^[http:\/\/\w|/w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/;
+if(reg.test(window.location.href)){
+    var newNode = document.createElement("div");//创建div
+newNode.className="cabar";
+    var oldNode =document.getElementById("hexunCalendar");//获取div
+newNode.innerHTML = "<div id='hexunCalendar' class='hxcal'></div>";   
+    oldNode.parentNode.replaceChild(newNode,oldNode);//直接替换标签
+var w_div = document.createElement('div');
+w_div.className = 'weather';
+var w_frame = document.createElement('iframe');
+w_frame.width = '100%';
+w_frame.height = '22';
+w_frame.frameBorder = '0';
+w_frame.scrolling = 'no';
+w_frame.allowTransparency = 'true';
+w_frame.style.display = 'none';
+w_frame.src = "http://m.weather.com.cn/m/hexunhead/";
+w_div.appendChild(w_frame);
+newNode.appendChild(w_div); 
+if(w_frame.readyState) 
+   w_frame.onreadystatechange = function() {
+      if(w_frame.readyState == 'loaded' || w_frame.readyState == 'complete') {
+    w_frame.style.display = '';
+}
+   };
+else 
+w_frame.onload = function() {
+    w_frame.style.display = '';
+    };
+}
+})();
+</script>
+<!--二级导航 begin-->
+<link type="text/css" rel="stylesheet" href="http://img.hexun.com/css/2011/sec_header.css">
+<div id="secnav11">
+<dl>
+<dt class="zx2">&nbsp;</dt>
+<dd style="width:515px;">
+<a target="_blank" href="http://tech.hexun.com/original/index.html">原创</a>&nbsp;&nbsp;<a target="_blank" href="http://tech.hexun.com/gdft2010/">高端访谈</a>&nbsp;&nbsp;<a target="_blank" href="http://tech.hexun.com/highlightsb/">业界要闻</a>&nbsp;&nbsp;<a target="_blank" href="http://tech.hexun.com/highlightsa/">互联网要闻</a>&nbsp;&nbsp;<a target="_blank" href="http://tech.hexun.com/tc/">电信要闻</a>&nbsp;&nbsp;<a target="_blank" href="http://tech.hexun.com/appliance1/">家电要闻</a>&nbsp;&nbsp;<a target="_blank" href="http://tech.hexun.com/syjs/">商业计算</a>&nbsp;&nbsp;<a target="_blank" href="http://tech.hexun.com/ss/">精彩专题</a>&nbsp;&nbsp;<a target="_blank" href="http://roll.hexun.com/?source=103">滚动</a></dd>
+<dt class="cp2">&nbsp;</dt>
+<dd><a target="_blank" href="http://digi.hexun.com/">数字生活</a>&nbsp;&nbsp;<a target="_blank" href="http://digi.hexun.com/pc/">整机</a>&nbsp;&nbsp;<a target="_blank" href="http://digi.hexun.com/mobile/index.html">手机</a>&nbsp;&nbsp;<a target="_blank" href="http://digi.hexun.com/ehome/index.html">家电</a>&nbsp;&nbsp;<a target="_blank" href="http://tech.hexun.com/pic/">图库</a></dd>
+</dl>
+</div>
+<!--二级导航 end-->
+<div id="mainer">
+<div class="main_L">
+<!--广告-->
+<div  id="topFullWidthBanner2"></div>
+<!--广告-->
+<div class="crumbs">
+<div class="crumbs_L">
+<a href=http://www.hexun.com/>和讯网</a> &gt; <a href=http://tech.hexun.com/>科技</a> > <span>正文</span>
+</div>
+<div class="crumbs_R">
+<a href="javascript:LoadPrintJs()">打印</a>
+<a href="http://rss.hexun.com" target="_blank">RSS</a>
+</div>
+</div>
+<div class="clear"></div>
+<div class="text_panel">
+<!--正文标题-->
+<div class="title_con">
+<div id="artibodyTitle" class="art_title">
+<h1>CES2012报道：尼康1系列展台魅力四射</h1>
+</div>
+<ul class="title_opt">
+<li class="tt">字号</li>
+<li class="big" onclick="_hexun_2011_page.fontSize(this,16)"></li>
+<li class="small_on end" onclick="_hexun_2011_page.fontSize(this,14)"></li>
+</ul>
+</div>
+<div class="clear"></div>            
+<div class="title_desc">
+<script>showComment_03(137177607,48)</script><span id="artibodyDesc">
+<span class="gray">2012年01月12日01:10</span>
+ 
+
+	<span class="gray">来源：</span><a href="http://copy.yesky.com/reshipart.jsp?aid=30979786" target="_blank">天极网</a>&nbsp;
+
+
+
+</span>
+</div>
+<!--正文标题over-->
+<!-- 分享 -->
+<div class="shareBox">
+<script type="text/javascript" src="http://img.hexun.com/share/share_text_up.js"></script>
+</div>
+<!--分享 end-->
+<!--正文内容-->
+
+<div id="artibody" class="art_context">
+　　<STRONG>第1页</STRONG><STRONG>CES2012报道：尼康1系列展台魅力四射</STRONG><p>　　本次CES上，传统影像巨头尼康除了主打的奥运旗舰机型D4外，与去年第四季度发布的1系列微单也进行了大量的展出，并设有专用的试用体验舞台，而舞台中央则有2位穿着奇异的美女模特作为大家的试用拍摄对象。</p><DIV align="center"><DIV align=center><IMG style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' src="http://i0.hexunimg.cn/2012-01-12/137177608.jpg" alt="舞台中央的2位模特手持粉色和银色J1为试用者进行展示" border=1 align=middle></div></DIV><DIV align="center"><TABLE align="center"><TBODY><TR><TD><TABLE cellpadding="2" align="center"><TBODY><TR><TD><DIV align=center><IMG style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' src="http://i8.hexunimg.cn/2012-01-12/137177609.jpg" alt="CES2012报道：尼康1系列展台魅力四射" border=1 align=middle></div></TD><TD><DIV align=center><IMG style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' src="http://i7.hexunimg.cn/2012-01-12/137177610.jpg" alt="CES2012报道：尼康1系列展台魅力四射" border=1 align=middle></div></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV><DIV align="center"><DIV align=center><IMG style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' src="http://i5.hexunimg.cn/2012-01-12/137177611.jpg" alt="CES2012报道：尼康1系列展台魅力四射" border=1 align=middle></div></DIV><DIV align="center"><DIV align=center><IMG style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' src="http://i3.hexunimg.cn/2012-01-12/137177612.jpg" alt="CES2012报道：尼康1系列展台魅力四射" border=1 align=middle></div></DIV><DIV align="center"><DIV align=center><IMG style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' src="http://i0.hexunimg.cn/2012-01-12/137177613.jpg" alt="CES2012报道：尼康1系列展台魅力四射" border=1 align=middle></div></DIV><DIV align="center"><DIV align=center><IMG style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' src="http://i4.hexunimg.cn/2012-01-12/137177614.jpg" alt="CES2012报道：尼康1系列展台魅力四射" border=1 align=middle></div></DIV><DIV align="center"><FONT style="FONT-SIZE: 12px">舞台中央的2位模特手持粉色和银色J1为试用者进行展示</FONT></DIV><DIV align="center"><DIV align=center><IMG style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' src="http://i1.hexunimg.cn/2012-01-12/137177615.jpg" alt="舞台周围有一圈的尼康1系列相机用参观者试用" border=1 align=middle></div></DIV><DIV align="center"><FONT style="FONT-SIZE: 12px">舞台周围有一圈的尼康1系列相机用参观者试用</FONT></DIV><p>　　国际消费电子展(CES)由美国电子消费品制造商协会主办，是世界最大 的消费类电子产品展览会之一，从1967年的首届发展至今已有45年的历史，CES2012展会于2012年1月10日在美国拉斯维加斯盛大开幕。天极网将 派报道团队亲临拉斯维加斯，全程报道最新的消费电子行业动态。</p><p><p><p>　　本届展会为期4天，期间将围绕最新的消费电子产品、技术、家庭生活<a href='http://tech.hexun.com/' target='_blank'>科技</a>、低碳环保能源的应用以及消费电子市 场的发展展开。同时本届展会上来自中国本土的企业和技术也将以重要身份登场，尤为令人期待。</p><DIV align="center"><DIV align="center"><DIV align=center><IMG style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' style='margin:4px;border:1px solid #000;' src="http://i0.hexunimg.cn/2012-01-12/137177616.jpg"  width=400 border="1"  height=161 alt="点击进入《天极网全程报道CES2012》专题 &gt;&gt; 了解更多" border=1 align=middle></div></DIV><FONT style="FONT-SIZE: 12px"></FONT></p><DIV align="center"><FONT style="FONT-SIZE: 12px"><FONT style="FONT-SIZE: 12px">点击进入《天极网全程报道CES2012》专题 &gt;&gt; 了解更多</FONT></FONT></DIV></DIV></p>
+<span id="arctTailMark"></span>
+
+<div class="clear"></div>
+
+</div>
+          
+<!--正文内容over-->
+<!--正文页末尾加入图标start-->
+<script type="text/javascript">
+(function(){
+var obj = null;
+if(document.getElementById('arctTailMark')) {
+obj = document.getElementById('arctTailMark');
+}
+if(obj!=null) {
+var str = ' <a href=" http://www.hexun.com/?from=hxlogo" target="_blank" title="点击进入和讯首页"><img src=" http://img.hexun.com/home/hx.gif" style="margin:0;"/></a>';
+try
+{
+	var oo = obj.previousSibling;
+while(oo.nodeType!=1 || oo.innerHTML.replace(/\s|\u3000/g,'').length==0) {
+   oo = oo.previousSibling;
+}
+if(oo.nodeType==1 && oo.tagName.toLowerCase()=='p') {
+  var span = document.createElement('span');
+  span.innerHTML =str;
+  oo.appendChild(span);
+ }
+}
+catch (e){}
+}
+})();
+</script>
+<!--end-->
+<!-- 分享 -->
+<div class="shareBox">
+<script type="text/javascript" src="http://img.hexun.com/share/share_text_down2011.js"></script>
+</div>
+<!--分享 end-->
+<div id="banner600x60_02"></div>
+<h4 class="column_L xgxx"><i>相关新闻</i></h4>
+<div class="xgxw_con">
+<div class="xgxw_con_con">
+<ul class="xgxw_list">
+<li><span>01/12 01:30</span><a href=http://tech.hexun.com/2012-01-12/137177159.html target=_blank>和你一起过年 尼康D3100热销价3999元</a></li><li><span>01/11 17:57</span><a href=http://tech.hexun.com/2012-01-11/137169582.html target=_blank>4张/秒1620万像素 尼康D5100仅4750元</a></li><li><span>01/11 17:54</span><a href=http://tech.hexun.com/2012-01-11/137170410.html target=_blank>超广角21倍光学变焦镜头 尼康L120相机</a></li><li><span>01/11 17:54</span><a href=http://tech.hexun.com/2012-01-11/137170446.html target=_blank>黑夜中也能拍出迷人的相片 尼康S9100</a></li><li><span>01/11 17:54</span><a href=http://tech.hexun.com/2012-01-11/137169574.html target=_blank>入门级单反 尼康D5100套机促销4950元</a></li><li><span>01/11 17:54</span><a href=http://tech.hexun.com/2012-01-11/137169573.html target=_blank>极具性价比 尼康D3100套机4050元送礼</a></li><li><span>01/11 17:49</span><a href=http://tech.hexun.com/2012-01-11/137171143.html target=_blank>摄友首选全画幅 尼康D700单机售14900</a></li><li><span>01/11 17:48</span><a href=http://tech.hexun.com/2012-01-11/137169788.html target=_blank>岁末特价到底 烟台尼康S1100jp相机促销</a></li>
+</ul>
+<div class="xgxw_tj">
+<h5>相关推荐</h5>
+<ul>
+<li><a href="http://news.search.hexun.com/cgi-bin/search/info_search.cgi?key=%C4%E1%BF%B5&f=0" target="_blank">尼康</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div> 
+
+<!--发表评论及查看评论090810 -->
+<dl id="yhcomment01">
+<dt class="column_L">
+<i>我有话说</i>
+<span class="qt_more">
+已有<span color="#cc0000" id="commentCount">0</span>位网友发言
+<script>showComment_02(137177607,48)</script></span>
+</dt>
+<!--修改后的CMT -->          
+<dd id="unlogin" style="position: relative;">
+<div class="new_leave">
+<div class="unlogin_top">
+<form onsubmit="doLogin(); return false;" name="loginForm">
+<div style="height:30px;">
+<div style="float:right;">
+<span style="padding-right:10px;"><input type="checkbox" value="1" name="auto" id="auto"/>自动登录</span>
+<input type="submit" value="登录" class="nfbbut01"/>
+<input type="button" onclick="window.open('http://reg.hexun.com/regname.aspx?gourl=' + document.location.href)" value="快速注册" class="nfbbut02"/>
+</div>                  
+	用户名：<input type="text" style="width: 80px;" class="fbbo01" id="username" value="用户名/邮箱/手机" onclick="if(this.value==valueofnameinput)this.value='';"  onblur="if(this.value=='')this.value=valueofnameinput;" onfocus="if(this.value==valueofnameinput)this.value='';checkLeaveWord()"/>
+
+	密码：<input type="password" style="width: 80px;" class="fbbo01" id="password" value="******"   onblur="if(this.value=='')this.value=valueofpassinout;" onfocus="if(this.value==valueofpassinout)this.value='';"  />
+</div>
+<div> 
+<textarea id="contentBefore" cols="" rows="" class="fbbo02" onclick="checkLeaveWord()">请在这里发表您个人看法，发言时请遵守法纪注意文明。
+</textarea>
+<p><input type="button" name="Submit3" class="nfbbut01" value="发表" style="margin-top:10px;" onclick="checkLeaveWord()"/>
+</p>
+</div>
+</form>
+</div>
+</div>
+
+<div id="Load" class="nload" style="width:600px; top:50px;opacity:0.5">正在验证用户信息...</div>
+<script language="javascript">
+var valueofnameinput="用户名/邮箱/手机";
+var valueofpassinout="******";
+	function checkLeaveWord() {
+	var obj = document.getElementById('contentBefore');
+	obj. disabled='disabled';
+	obj.style.background = '#F5F5F5';
+	obj.value = '请登录后再发表评论！';
+	}
+</script>
+</dd>
+<!--修改后的CMT over-->
+<dd id="allogin" style="display:none">
+<div class="szsl">
+<p><font id="usertext" color="#fd0003">alfdls</font>&nbsp;&nbsp;您好，欢迎您发表评论！&nbsp;&nbsp;<span>（言论仅代表会员个人观点，不代表和讯网观点）</span></p>
+
+<form name="commentForm" target="_blank" action="http://bbs.hexun.com/news/connect.aspx" method="post" focus="content">
+<input type="hidden" id="authorid" name="comment.authorid" value="" />
+<input type="hidden" id="author" name="comment.author" value="" />
+<input type="hidden" id="newsId" name="newsId" value="137177607" />
+<input type="hidden" id="bid" name="bid" value="" />
+<input type="hidden" id="url" name="url" value="http://tech.hexun.com/2012-01-12/137177607.html" />
+<textarea id="newsContent" name="newsContent" style="display:none">　　第1页CES2012报道：尼康1系列展台魅力四射　　本次CES上，传统影像巨头尼康除了主打的奥运旗舰机型D4外，与去年第四季度发布的1系列微单也进行了大量的展出，并设有专用的试用体验舞台，而舞台中央则有2位穿着奇异的美女模特作为大家的试用拍摄对象。舞台中央的2位模特手持粉色和银色J1为试用者进行展示舞台周围有一圈的尼康1系列相机用参观者试用　　国际消费电子展(CES)由美国电子消费品制造商协会......</textarea>	
+<input type="hidden" id="title" name="title" value="CES2012报道：尼康1系列展台魅力四射" />
+<textarea name="content" id="content" cols="" rows="" class="fbbo02" onclick="clearCommentContent(this)">请在这里发表您个人看法，发言时请遵守法纪注意文明。</textarea>
+<p>&nbsp;&nbsp;&nbsp;<input type="submit" name="Submit3" class="nfbbut01" value="发表" style="margin-top:10px;" onclick="return beforeSubmit(document.commentForm);"/></p>
+</form>
+<script src="http://img.hexun.com/comment/cmt2011.js"></script>
+</div>
+</dd>
+
+</dl>
+<!--发表评论及查看评论结束090810 end -->
+<div class="clear"></div>
+<h4 class=column_L><i>科技精品推荐</i> 
+<div class=jbbt><span>特色：<a href="http://tech.hexun.com/gdft2010/">高端访谈</a> <a href="http://tech.hexun.com/tech/" target=_blank>科普</a> <a href="http://tech.hexun.com/deepspecial/" target=_blank>评论</a></span>热点：<a href="http://tech.hexun.com/2011/zhonggaigu2011q3/" target=_blank>Q3中概股财报汇总</a> <a href="http://news.hexun.com/2011/stevejobs/" target=_blank>乔布斯病逝</a> </div></h4>
+<div class=jbbt_con>
+<dl>
+<dt>
+<div><a href="http://tech.hexun.com/2012-01-10/137126246_1.html" target=_blank><img height=110 alt=百度HR爆乳装一夜爆红 src="http://i7.hexunimg.cn/2012-01-10/137128941.jpg" width=134 border=0></a> </div>
+<p><a href="http://tech.hexun.com/2012-01-10/137126246_1.html" target=_blank>百度HR爆乳装一夜爆红</a></p></dt>
+<dd>
+<h2 align=justify><a href="http://tech.hexun.com/2012-01-09/137064853.html" target=_blank>电信版iPhone4S进入网审批阶段 最快2月份上市</a></h2>
+<div class=jb_more>
+<div align=center><a href="http://tech.hexun.com/2012-01-04/136921723.html" target=_blank>[联通停止iPhone 4S私下预约]</a> <a href="http://tech.hexun.com/2011-12-29/136791258.html" target=_blank>[在中国大卖有三个挑战]</a></div></div>
+<ul>
+<li><a href="http://tech.hexun.com/2012-01-09/137055308.html" target=_blank>CSDN承认对安全问题重视不够</a></li>
+
+<li><a href="http://tech.hexun.com/2012-01-09/137066857.html" target=_blank>李彦宏：百度业绩增长目标将完成</a></li>
+
+<li><a href="http://tech.hexun.com/2012-01-09/137062324.html" target=_blank>小卖家遭殃欲逃离品聚网</a></li>
+
+<li><a href="http://tech.hexun.com/2012-01-09/137067714.html" target=_blank>移动应用广告平台未获广告商认可</a></li>
+
+<li><a href="http://tech.hexun.com/2012-01-09/137058458.html" target=_blank>百年柯达颓势背后的中国启示</a></li>
+
+<li><a href="http://tech.hexun.com/2012-01-09/137065049.html" target=_blank>陶宏开称戒网瘾机构99%都骗人</a></li>
+</ul>
+</dd></dl></div>
+
+<div class=minisite>
+<ul>
+<li><a href="http://tech.hexun.com/2011-12-30/136848756_1.html" target=_blank><img src="http://i0.hexunimg.cn/2011-12-31/136863736.jpg"></a><a href="http://tech.hexun.com/2011-12-30/136848756_1.html" target=_blank>12种毒水果你吃了多少</a></li>
+
+<li><a href="http://tech.hexun.com/2011-12-27/136719503_1.html" target=_blank><img src="http://i7.hexunimg.cn/2011-12-31/136863873.jpg"></a><a href="http://tech.hexun.com/2011-12-27/136719503_1.html" target=_blank>2011年度死亡景观佳作</a></li>
+
+<li><a href="http://tech.hexun.com/2011-11-14/135194766_1.html" target=_blank><img src="http://i2.hexunimg.cn/2011-12-26/136685078.jpg"></a><a href="http://tech.hexun.com/2011-11-14/135194766_1.html" target=_blank>女生穿丁字裤微博求粉</a></li>
+
+<li><a href="http://tech.hexun.com/2011-12-30/136845432_1.html" target=_blank><img src="http://i3.hexunimg.cn/2012-01-10/137128763.jpg"></a><a href="http://tech.hexun.com/2011-12-30/136845432_1.html" target=_blank>盘点史上最离奇木乃伊</a></li>
+</ul>
+</div><!--minisite end-->
+<!--推广-->
+<div class="business">
+<div class="text">推广</div>
+<ul id="B_listAD_1" class="textad">
+<!--本行js广告代码控制生成li-->
+</ul>
+</div>
+<div class="clear"></div>
+<div style="margin-top: 0pt;" class="business">
+<div class="text">热点</div>
+<ul id="L_listAD_1" class="textad">
+<!--本行js广告代码控制生成li-->
+</ul>
+</div>
+<div class="clear"></div>
+<!--推广over-->
+</div>
+</div>
+<div class="main_R">
+
+<div style=" padding-top:10px;">
+<div id="right300x60Banner01"></div>
+</div>
+<div id="right145x55Banner01"></div>
+
+
+<div class="word_link" style="padding:0">
+<div class=label_0912><strong><b>热点</b></strong></div>
+<ul class="textad" id="R_listAD_1" style="padding:5px 0 5px 8px"></ul>
+</div>
+
+
+<div class="word_link">
+<ul class="textad" id="R_listTG_1"></ul>
+</div>
+
+<div class="main_R_box">
+<div class=label_0912><strong><b>每日要闻推荐</b></strong></div>
+<div class=wzxgxx>
+<h3><a href="http://tech.hexun.com/2012/ces/" target=_blank>2012国际消费电子展进入第二日</a></h3>
+<ul>
+<li><a href="http://tech.hexun.com/2012-01-12/137184670.html" target=_blank>云计算或成圈地圈钱障眼法：各地建设热情高涨</a></li>
+
+<li><a href="http://tech.hexun.com/2012-01-12/137188939.html" target=_blank>马化腾公开驳QQ实名：电话卖淫需运营商负责吗</a></li>
+
+<li><a href="http://tech.hexun.com/2012-01-12/137186475.html" target=_blank>小米手机存三道难题：中国消费者手机爱好善变</a></li>
+
+<li><a href="http://tech.hexun.com/2012-01-12/137186475.html" target=_blank>CSDN董事长蒋涛反思泄密门：超八成网站存漏洞</a></li>
+
+<li><a href="http://tech.hexun.com/2012-01-12/137186937.html" target=_blank>消息称微软计划重组营销部门 可能裁员数百人</a></li>
+</ul>
+</div>
+<div class=label_0912><strong><b>精彩焦点图鉴</b></strong></div>
+<div class=xg_photo>
+<ul>
+<li>
+<div><a href="http://tech.hexun.com/2012-01-04/136935800_1.html" target=blank><img height=88 alt=盘点科学无法解释恐怖照片 src="http://i7.hexunimg.cn/2012-01-04/136942553.jpg" width=134 border=0></a></div>
+<p><a href="http://tech.hexun.com/2012-01-04/136935800_1.html.html" target=_blank>科学无法解释的恐怖照片</a></p></li>
+
+<li class=r>
+<div><a href="http://tech.hexun.com/2011-12-31/136879181_1.html" target=blank><img height=88 alt=世界上最犀利的21道早餐 src="http://i6.hexunimg.cn/2012-01-04/136942606.jpg" width=134 border=0></a></div>
+<p><a href="http://tech.hexun.com/2011-12-31/136879181_1.html" target=_blank>世界上最犀利的21道早餐</a></p></li>
+
+<li>
+<div><a href="http://tech.hexun.com/2011-12-09/136162861_1.html" target=blank><img height=88 alt=揭秘世界最神秘宗教巫毒教：还魂尸在田间劳动 src="http://i1.hexunimg.cn/2011-12-12/136223782.jpg" width=134 border=0 Muge></a></div>
+<p><a href="http://tech.hexun.com/2011-12-09/136162861_1.html" target=_blank>世界最神秘宗教大揭秘</a></p></li>
+
+<li class=r>
+<div><a href="http://tech.hexun.com/2011-12-09/136163344_1.html" target=blank><img height=88 alt=苍井空微博性感私密照大合集 src="http://i9.hexunimg.cn/2011-12-12/136224145.jpg" width=134 border=0></a></div>
+<p><a href="http://tech.hexun.com/2011-12-09/136163344_1.html" target=_blank>苍井空微博性感私密照</a></p></li>
+</ul>
+</div>
+</div>
+
+<div id="right300x250Banner01"></div>
+
+
+<div class="main_R_box">
+<div class=label_0912><strong><b>排行榜</b></strong></div>
+<div class=phb>
+<ul>
+<li>
+<span class=q3>1</span>
+<a href="http://tech.hexun.com/2012-01-04/136935800.html" target="_blank">盘点科学无法解释的恐怖照片</a></li>
+<li>
+<span class=q3>2</span>
+<a href="http://tech.hexun.com/2012-01-10/137126246.html" target="_blank">百度度娘刘冬jocelin全套图片欣赏</a></li>
+<li>
+<span class=q3>3</span>
+<a href="http://tech.hexun.com/2011-12-09/136162861.html" target="_blank">揭秘世界最神秘宗教巫毒教：还魂尸在田间劳动</a></li>
+<li>
+<span>4</span>
+<a href="http://tech.hexun.com/2011-11-14/135194766.html" target="_blank">女生微博丁字裤求粉豪放程度让人咋舌</a></li>
+<li>
+<span>5</span>
+<a href="http://tech.hexun.com/2012-01-10/137113154.html" target="_blank">残忍至极的欧洲古代20大酷刑</a></li>
+<li>
+<span>6</span>
+<a href="http://tech.hexun.com/2012-01-10/137115833.html" target="_blank">2011年度爆笑�图精选</a></li>
+<li>
+<span>7</span>
+<a href="http://tech.hexun.com/2011-12-09/136163344.html" target="_blank">苍井空微博性感私密照大合集</a></li>
+<li>
+<span>8</span>
+<a href="http://tech.hexun.com/2011-10-28/134653891.html" target="_blank">探访西安精子库 捐精室内部实景曝光</a></li>
+<li>
+<span>9</span>
+<a href="http://tech.hexun.com/2011-12-09/136164082.html" target="_blank">曝光美军在亚洲的性暴行</a></li>
+<li>
+<span>10</span>
+<a href="http://tech.hexun.com/2011-11-02/134801054.html" target="_blank">惊悚鬼影 全球灵异有鬼照片集锦</a></li>
+<!--{2012-01-12 19:50:08}-->
+</ul>
+</div>
+</div>
+
+<div id="right300x250Banner02"></div>
+<iframe scrolling="no" frameborder="0" width="100%" height="1000" src="http://news.hexun.com/final2011_rightfrag/page_right.html">
+</iframe>
+<div id="right300x250Banner03"></div>
+</div>
+<div class="clear"></div>
+<div class="mz_decl"><div class="clear"></div><P style="color:#666;">　　【免责声明】本文仅代表作者本人观点，与和讯网无关。和讯网站对文中陈述、观点判断保持中立，不对所包含内容的准确性、可靠性或完整性提供任何明示或暗示的保证。请读者仅作参考，并请自行承担全部责任。</P><div class="clear"></div></div>
+</div>
+<link rel="stylesheet" type="text/css" href="http://img.hexun.com/news/2010/foot2010.css" />
+<div id="foot2010">
+<div class="link">
+<a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯恭候您的意见</a> - 
+<a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - 
+<a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - 
+<a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a>
+<script language="javascript">
+(function(){
+if((/^[http:\/\/]*news\.hexun\.com(\/|\/index\.html)*$/).test(window.location.href))
+document.write('<span style="padding-left:18px;">执行主编：姜洪桥</span>');
+})();
+</script>
+
+</div>
+<div class="copyright">
+本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究
+</div>
+</div>
+<script src="http://img.hexun.com/js/inc_2010.js?date=201002041519"></script>
+<script src="http://utrack.hexun.com/track/track_hx.js"></script>
+<script src="http://news.hexun.com/js/count.js?date=200911261100"></script>
+<script src="http://count.utrack.hexun.com/track/track_fivemin.js"></script>
+<script src="http://login.tool.hexun.com/OtherInterFace/login_2010_Style02.aspx" type="text/javascript" charset="utf-8"></script>
+<script language="javascript">
+if(document.getElementById("shilu")!=null)
+{
+document.getElementById("shilu").style.width="710px";
+}
+</script>
+
+<!---temp count by zb 2011-05-30--->
+<script type="text/javascript">
+function coutLinkFrom(strId,mark,isId,p){
+  var obj = null;
+  if(isId) {
+  if(!document.getElementById(strId)) return;
+  obj = document.getElementById(strId);
+  }
+  else {
+     var parent = (typeof p!='undefined' && document.getElementById(p))?document.getElementById(p):document;
+     var arr = parent.getElementsByTagName('*');
+ var classesObj = [];
+ for(var i=0,l=arr.length;i<l;i++) {
+   if(arr[i].className && arr[i].className == strId) classesObj.push(arr[i]);
+ }
+ if(classesObj.length>=1) obj = classesObj[0];
+  }
+  if(obj==null) return;
+  var alist = obj.getElementsByTagName('a');
+  var len = alist.length;
+  for(var i=0;i<len;i++) {
+    if(alist[i].href) {
+   alist[i].href = (alist[i].href.indexOf('?')!=-1)?(alist[i].href+'&'+mark):(alist[i].href+'?'+mark);
+}
+  }
+}
+coutLinkFrom('jjjxmod','fromfunds=jjjx',false,'mainleft');
+coutLinkFrom('yued','fromfunds=tjxd',true);
+</script>
+
+<!--分享start-->
+<script type="text/javascript">
+(function(){
+  var reg = /^[http:\/\/\w|\w\.*\w|\w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/;
+  if(!reg.test(window.location.href)) {
+    document.write('\x3Cscript type="text/javascript" src="http://img.hexun.com/base/version/hx_base.min1.1.js">\x3C/script>'+'\x3Cscript type="text/javascript" src="http://img.hexun.com/share/hxShare2011.js">\x3C/script><link href="http://img.hexun.com/share/hxShare2011.css" type="text/css" rel="stylesheet" />');
+    if(window.attachEvent) window.attachEvent('onload',function() {hxShare2011('');});
+	if(window.addEventListener) window.addEventListener('load',function(){hxShare2011('');},false);
+  }
+})();
+</script>
+<!--分享over-->
+
+<script type="text/javascript">
+(function(){
+	//全站通发广告
+	var reg=/\/\d{9}(_\d+)?.(html|html\?\w*)$/;		
+	if(reg.test(location.href)){
+		document.write('<script type="text/javascript" src="http://itv.hexun.com/lbi-html/ly/2011/allPages/tempAd.js"><\/script>');
+	}
+})()
+</script>
+
+
+
+</div>
+<!--选中正文区域-->
+<div class="selected_text" id="selectedTextOpttion" style="display:none;">
+<form name="text_link_form" action="#" target="_blank" method="post">
+<input type="hidden" name="quoteContent" id="slectedTextContext"/>
+<input type="hidden" id="selNewsId" name="newsId" value="137177607" />
+<input type="hidden" id="selBid" name="bid" value="" />
+<input type="hidden" id="quoteAtPost" name="quoteAtPost" value="true" />
+</form>
+<ul>
+<li class="text_wb" title="转发到微博" onclick="skipWb(screen,document,encodeURIComponent,HX.$('slectedTextContext').value,'')"></li> 
+<li class="text_pl" title="评论" onclick="_hexun_2011_page.skipToPl('http://bbs.hexun.com/news/connect.aspx')"></li>
+<li class="text_jc" title="纠错" onclick="_hexun_2011_page.skipToJC()"></li>
+</ul>
+</div>
+<!--选中正文区域over-->
+<div id="pageTail"></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/it/pageMediaControl1.js"></script>
+<script language="javascript" src="http://img.hexun.com/hx_it/hx_it_finalpage.js"></script>
+
+
+
+
+</body>
+</html>
+<script src="http://news.hexun.com/js/2007-06-25/ajax_funcs.js?"></script>
+<script language="javascript" src="http://news.hexun.com/commentcount/commentCount.js"></script>
+<script type="text/javascript" src="http://login.tool.hexun.com/rest/loginReUserInfo.aspx"></script>
+<script type="text/javascript" src="http://img.hexun.com/comment/ajax_func_m.js"></script>
+<script type="text/javascript" src="http://img.hexun.com/comment/comment0908.js?var=0917"></script>
+<script type="text/javascript" src="http://img.hexun.com/stock/stockpop/stock_v6.js"></script>
+<script type="text/javascript" src="http://img.hexun.com/share/tipblog.js"></script>
+
+
+<script type="text/javascript">
+var zero = 0;
+var cmtNum = "0";
+try{
+	if(document.getElementById("commentCount").innerText)
+	cmtNum = document.getElementById("commentCount").innerText ;
+	else if(document.getElementById("commentCount").textContent)
+	cmtNum = document.getElementById("commentCount").textContent;
+	zero = parseInt(cmtNum);
+}catch(e){
+	zero = 0;
+}
+if(document.getElementById("cmtspan"))
+{
+document.getElementById("cmtspan").style.display='';
+if(zero == 0 ) document.getElementById("cmtspan").innerHTML = "欢迎发表评论<span id='commentCount' style='display:none'>0</span>";
+else  document.getElementById("cmtspan").innerHTML = "已有<span id='commentCount'>"+zero+"</span>条评论";
+}
+</script>

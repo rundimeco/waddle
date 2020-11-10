@@ -1,0 +1,848 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"/><meta property="og:image" content="http://img.vz.ru/upimg/m55/m551530.jpg"/><meta property="og:description" content="В Петербурге задержан мужчина, который открыл огонь в поликлинике № 105, куда был доставлен на машине скорой помощи..."/><meta property="og:title" content="Водитель скорой устроил стрельбу в петербургской поликлинике"/><title> ВЗГЛЯД / Водитель скорой устроил стрельбу в петербургской поликлинике</title><link rel="alternate" type="application/rss+xml" title="RSS 2.0 для всех статей" href="/rss.xml"/><link rel="alternate" type="application/rss+xml" title="RSS 2.0 для рубрики Новости дня" href="rss.xml"/><link rel="apple-touch-icon" href="/apple-touch-icon.png"/><link rel="shortcut icon" href="/favicon.ico"/><link rel="icon" type="image/ico" href="/favicon.ico"/><script src="/js/lib/jquery-1.4.2.min.js"></script><script type="text/javascript">jQuery.noConflict();</script><script src="/js/lib/jquery.json.js"></script><script type="text/javascript" src="http://vkontakte.ru/js/api/openapi.js?13" charset="utf-8"></script><link href="/screen_2.css?2" rel="stylesheet" type="text/css"/><script src="/js/lib/prototype.js" charset="utf-8" type="text/javascript"></script><script src="/js/swfobject.js" charset="utf-8" type="text/javascript"></script>
+<script src="/js/lib/jquery.jcarousel.js"></script>
+<script type="text/javascript">		
+			function r(a, w){
+				img = new Image();
+				img.src = 'http://php.vz.ru/counter/index.php?pos=' + w + '&url=' + a.href;
+			}
+
+			function add_bookmark(url, title){
+				if (document.all && document.all.item && !window.opera) window.external.AddFavorite(url, title);
+				return false;
+			}
+
+			function set_hp(homepage_str){
+				if (document.all && document.all.item && !window.opera){
+				document.getElementById('hp_obj').setHomePage((homepage_str) || ('http://' + SITE_URL + '/'));
+				event.returnValue = false;
+				}
+				return false;
+			}
+		
+		</script>
+<script type="text/javascript" language="JavaScript" src="/js/easyXDM.js"></script>
+<![if gte IE 5.5000]>
+<script type="text/javascript" charset="utf-8" src="/js/lib/prototype.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/lib/utils.js?6"></script>
+<script type="text/javascript" charset="utf-8" src="/js/ajax/init.js?6"></script>
+<script type="text/javascript" src="/js/adriver.core.2.2.js"></script>
+<![endif]>
+<script src="/vengine.js?32" charset="utf-8" type="text/javascript"></script>
+<style type="text/css">
+ie\:homepage{
+        behavior:url(#default#homepage)
+}
+</style><script language="JavaScript"></script><script type="text/javascript">
+var SITE_URL = 'vz.ru';
+</script><script type="text/javascript" src="/js/ptl.js?ts=1275557993000"></script>
+</head><body><script>var ar_key = 5;</script><table width="100%" cellspacing="0" cellpadding="0"><tr><td id="main"><div id="topdate">
+10 апреля, среда  |  Последнее обновление — 10:29  |  vz.ru
+</div><ul id="features">
+	<li><a href="javascript:void(0);" onClick="return add_bookmark(location.href, document.title)">Поставить закладку</a> &nbsp;|&nbsp;</li> 
+	<li><a href="javascript:void(0);" onClick="return set_hp()">Сделать стартовой</a></li>
+</ul>
+
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<img src='http://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' width=1 height=1 alt=''>")//</script><!--/LiveInternet-->
+<!-- SpyLOG -->
+<!--
+<script src="http://tools.spylog.ru/counter_cv.js"
+id="spylog_code" type="text/javascript" counter="1112021"
+part="" track_links="ext" page_level="0">
+</script>
+<noscript>
+<a
+href="http://u11120.21.spylog.com/cnt?cid=1112021&f=3&p=0"
+target="_blank">
+<img src="http://u11120.21.spylog.com/cnt?cid=1112021&p=0"
+alt="SpyLOG" border="0" width="1" height="1"></a>
+</noscript>
+-->
+<!--/ SpyLOG -->
+<script type="text/javascript"><!--
+var statun_s="106983";
+var statun_img="none";
+//--></script>
+
+<!--
+<script src="http://www.statuncore.com/count.js" type="text/javascript"></script>
+-->
+<!--
+generated
+--->
+<script language="JavaScript">
+<!--
+var ar_key= Math.floor(Math.random()*2+1); 
+//-->
+</script>
+
+
+
+<!--
+<div id="header-banner"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('header-banner', '/inc/b/top_730x90_main_iframe.html?'+ ar_key,'100%', '90');
+		});
+-->
+
+<div style="margin-top: 30px;background-color: #ffffff;">
+<script language="javascript" type="text/javascript">
+var ar_bn1=Math.floor(Math.random()*3+1);
+if(typeof(ar_cn)=="undefined") var ar_cn=1;
+var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
+
+//var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=54890&bn="+ar_bn1+"&target=blank&bt=43&pz=1&tail256=" + ar_Tail;
+var ar_key = location.search.substring(1);
+var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=54890&bn="+ar_bn1+"&target=blank&bt=43&pz=1&keyword=" + ar_key + "&tail256=" + ar_Tail;
+
+function ar_getDoc(t,n,l){
+var doc;
+if(t<100){if(document.all && !window.opera){doc = window.frames['ar_container_'+n].document;}
+else if(document.getElementById){doc=document.getElementById('ar_container_'+n).contentDocument;}
+if(!doc){setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100);}
+else {var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+doc.write ('<sc'+'ript>var ar_bnum='+n+';(function(){if(!window.ad_fr)setTimeout(arguments.callee,100);else setTimeout(function(){ad_fr.style.top="0px"},100)})();<\/sc'+'ript>');
+doc.write ('<sc'+'ript src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');}}}
+function ar_putDiv(n, f){document.write('<div id="ad_ph_'+n+'" style="'+(f?'position:absolute;':'position:relative;')+'display:none"><\/div>');}
+function ar_putContainer(n){document.write('<div style="visibility:hidden; height: 1px; overflow: hidden"><iframe id="ar_container_'+n+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');}
+ar_putDiv(ar_cn,0);ar_putContainer(ar_cn);ar_getDoc(0,ar_cn++,ar_link);
+</script>
+<!--
+<script>
+var vzcom_random = Math.round(Math.random() * 100000);
+document.write("<script src='http://com.adv.vz.ru/cgi-bin/iframe/advz_exttention_zamena_adriver_2012?"+vzcom_random+"&options=F'></scr"+"ipt>");
+</script>
+-->
+<!-- AdRiver code END -->
+
+</div>
+<div class="shadow"></div>
+
+
+
+
+
+
+<div id="top"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td	width="45%">
+
+	<div class="stats">
+
+
+
+
+
+
+
+
+<!--
+<a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?759644" alt="" width=1 height=1 border=0></a>
+-->
+
+
+</div>
+
+
+						<a href="/"><img src="http://www.vz.ru/images/logov4.gif" border="0" width="225" height="100" alt="Взгляд" style="display:block;padding-right:25px;"></a>
+					</td>
+					<td width="55%" valign="top">
+						<div class="z12" id="hot-news" >
+								<h4 style="background:#656565">НОВОСТЬ ЧАСА</h4>
+								<span></span><p><a href="/redir/?source=vz_hour_news&id=628121&vzurl=news/2013/4/10/628121.html"><img alt="" title="" width="63" height="50" src="http://img.vz.ru/upimg/ne_/ne_628121.jpg"/></a><a href="/redir/?source=vz_hour_news&id=628121&vzurl=news/2013/4/10/628121.html">Из-за ДТП отменены аэроэкспрессы из Москвы в аэропорт Домодедово</a></p><div class="clear"></div><a class="allnews" href="/news/">лента новостей</a>     <a class="allnews" href="/hournews/">все новости часа</a>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td width="290" valign="top">
+			<table cellpadding="0" cellspacing="0" width=100% border=0>
+				<tr>
+					<td align="right" valign="top">
+ 						<div>
+							<a class = "sys_app" target = "_blank" href = "http://vz-mnenie.livejournal.com/"><img style = "margin-top:10px;" src = "/images/app-livejournal_bw.gif"/></a>&#160;
+							<a class = "sys_app" target = "_blank" href = "http://twitter.com/vzglyad"><img style = "margin-top:10px;" src = "/images/twitter_bw.png"/></a>&#160;
+							<a class = "sys_app" target = "_blank" href = "http://vk.com/vz"><img style = "margin-top:10px;" src = "/images/vkontakte_bw.gif"/></a>&#160;
+							<a class = "sys_app" target = "_blank" href = "http://www.facebook.com/vzglyad"><img style = "margin-top:10px;" src = "/images/app-fasebook_bw.gif"/></a>&#160;
+							<a class = "sys_app" target = "_blank" href = "http://www.russia.ru/vzru/"><img style = "margin-top:10px;" src = "/images/app-russiaru_bw.png"/></a>&#160;
+							<a class = "sys_app" target = "_blank" href = "http://www.vz.ru/rss.xml"><img style = "margin-top:10px;" src = "/images/rss_bw.gif"/></a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="right" valign="bottom">
+						<form action="http://vz.ru/search/" onSubmit="return (this.elements['s_string'].value != '')">
+							<input type="hidden" name="action" value="search">
+							<table  cellspacing="1" cellpadding="0">
+								<tr>
+									<td align="left" valign="top"><input class="input" type="text" name="s_string" value="" style="width:120px;"></td>
+									<td valign="top"><input class="submit" type="submit" value=" Найти " style="display:block; margin-bottom:15px;"></td>
+								</tr>
+							</table>
+						</form>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<div class="plus18"></div>
+</div><div class="menu"><div class="menui"><div class="taggroup-menu"><div class="taggroup sys_thumbs"><ul><li style="float: left;" class="thumb"><a href=" /tags/northkorea/" class="thumb sys_thumb" style="color: #000000;"><nobr>Северная Корея</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/cyprus/" class="thumb sys_thumb" style="color: #000000;"><nobr>Кипр</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/children/" class="thumb sys_thumb" style="color: #000000;"><nobr>Дети</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/syria/" class="thumb sys_thumb" style="color: #000000;"><nobr>Сирия</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/corruption/" class="thumb sys_thumb" style="color: #000000;"><nobr>Борьба с коррупцией</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/military-reform/" class="thumb sys_thumb" style="color: #000000;"><nobr>Военная реформа</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/serdyukov-dismissal/" class="thumb sys_thumb" style="color: #000000;"><nobr>Дело Сердюкова</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/sochi2014/" class="thumb sys_thumb" style="color: #000000;"><nobr>Сочи-2014</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/russia-usa/" class="thumb sys_thumb" style="color: #000000;"><nobr>Россия и США</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/meteor/" class="thumb sys_thumb" style="color: #000000;"><nobr>Челябинский метеорит</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/smoking/" class="thumb sys_thumb" style="color: #000000;"><nobr>Борьба с курением</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/religion/" class="thumb sys_thumb" style="color: #000000;"><nobr>Люди и религия</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/mass-media/" class="thumb sys_thumb" style="color: #000000;"><nobr>«МК» vs Госдума</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/dima-yakovlev/" class="thumb sys_thumb" style="color: #000000;"><nobr>Закон Димы Яковлева</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/Berezovskiy/" class="thumb sys_thumb" style="color: #000000;"><nobr>Борис Березовский</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/currency/" class="thumb sys_thumb" style="color: #000000;"><nobr>Курс валют</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/education-reform/" class="thumb sys_thumb" style="color: #000000;"><nobr>Реформа образования</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/putin/" class="thumb sys_thumb" style="color: #000000;"><nobr>Президент Путин</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/pension/" class="thumb sys_thumb" style="color: #000000;"><nobr>Пенсионная реформа</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/space/" class="thumb sys_thumb" style="color: #000000;"><nobr>Россия в космосе</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/Internet/" class="thumb sys_thumb" style="color: #000000;"><nobr>Интернет</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/georgia/" class="thumb sys_thumb" style="color: #000000;"><nobr>Грузия</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/kuriles/" class="thumb sys_thumb" style="color: #000000;"><nobr>Курилы</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/Medvedev/" class="thumb sys_thumb" style="color: #000000;"><nobr>Дмитрий Медведев</nobr></a></li><li style="float: left;" class="thumb"><a href=" /tags/artificialman/" class="thumb sys_thumb" style="color: #000000;"><nobr>Человек будущего</nobr></a></li></ul><div class="clear"></div></div><div class="jcarousel-buttons"></div></div><div class="main-menu"><div class="menu sys_thumbs"><ul><li style="float: left;" class="thumb"><a href="/economy" class="sys_thumb">Экономика</a></li><li style="float: left;" class="thumb"><a href="/politics" class="sys_thumb">Политика</a></li><li style="float: left;" class="thumb"><a href="/society" class="sys_thumb">Общество</a></li><li style="float: left;" class="thumb"><a href="/world" class="sys_thumb">В мире</a></li><li style="float: left;" class="thumb"><a href="/incidents" class="sys_thumb">Происшествия</a></li><li style="float: left;" class="thumb"><a href="/opinions" class="sys_thumb">Мнения</a></li><li style="float: left;" class="thumb"><a href="/photoreport/628058/" class="sys_thumb">Фото</a></li><li style="float: left;" class="thumb"><a class="sys_thumb" href="/vote/1154/">Голосования</a></li></ul></div><div class="jcarousel-buttons"></div><div class="clear"></div></div><noscript><style type="text/css">
+		.main-menu li.thumb
+		{
+			padding-top: 0;
+		}
+		.taggroup-menu li.thumb
+		{
+			margin-bottom: 10px;
+			margin-top: -13px;
+		}
+		*+html .taggroup-menu li.thumb
+		{
+			margin-bottom: 0px;
+			margin-top: 0px;
+		}
+		*+html .main-menu li.thumb
+		{
+			margin-top: 8px;
+		}
+		* html .taggroup-menu li.thumb
+		{
+			margin-bottom: 0px;
+			margin-top: 0px;
+		}
+		.main-menu .jcarousel-buttons, .taggroup-menu .jcarousel-buttons
+		{
+			display: none;
+		}
+	</style></noscript><table class="top-news" cellspacing="0" cellpadding="0"><tr><td class="top"><a href="/redir/?source=vz_menu_links&nomain=1&id=628096&vzurl=http://www.vz.ru/news/2013/4/10/628096.html">Российские хоккеистки завоевали бронзу чемпионата мира</a></td><td class="top"><a href="/redir/?source=vz_menu_links&nomain=1&id=628118&vzurl=http://www.vz.ru/news/2013/4/10/628118.html">КНДР вывела на боевые позиции новые баллистические ракеты</a></td><td class="top"><a href="/redir/?source=vz_menu_links&nomain=1&id=628131&vzurl=http://www.vz.ru/news/2013/4/10/628131.html">В России появился новый город-миллионник</a></td><td class="opinion"><table><tr><td width="45"><a href="/redir/?source=top_opinions&nomain=1&id=628000&vzurl=columns/2013/4/9/628000.html"><img width="40" height="26" src="http://img.vz.ru/upimg/711/711314.jpg"/></a></td><td valign="top"><a href="/redir/?source=top_opinions&nomain=1&id=628000&vzurl=columns/2013/4/9/628000.html"><b>Василий Колташов:</b> История с Кипром далеко не закончена. Остров еще будет пугать мир новостями
+					
+						 <nobr>(<span style="font-size: 11px; font-style: italic;">14 комментариев</span>)</nobr></a></td></tr></table></td></tr><tr><td class="top"><a href="/redir/?source=vz_menu_links&nomain=1&id=628113&vzurl=http://www.vz.ru/news/2013/4/10/628113.html">В Нижегородской области три здания провалились под землю</a></td><td class="top"><a href="/redir/?source=vz_menu_links&nomain=1&id=628123&vzurl=http://www.vz.ru/news/2013/4/10/628123.html">США решили добиваться расследования избиения Бекетова</a></td><td class="top"><a href="/redir/?source=vz_menu_links&nomain=1&id=628085&vzurl=http://www.vz.ru/news/2013/4/9/628085.html">В американском колледже ранили ножом 14 человек</a></td><td class="opinion"><table><tr><td width="45"><a href="/redir/?source=top_opinions&nomain=1&id=627994&vzurl=opinions/2013/4/9/627994.html"><img width="40" height="26" src="http://img.vz.ru/upimg/711/711273.jpg"/></a></td><td valign="top"><a href="/redir/?source=top_opinions&nomain=1&id=627994&vzurl=opinions/2013/4/9/627994.html"><b>Мария Гайдар:</b> Совет чиновников по любому поводу вызывать скорую дорого обходится госбюджету
+					
+						 <nobr>(<span style="font-size: 11px; font-style: italic;">57 комментариев</span>)</nobr></a></td></tr></table></td></tr><tr><td class="top"><a href="/redir/?source=vz_menu_links&nomain=1&id=628111&vzurl=http://www.vz.ru/news/2013/4/10/628111.html">На границе Северной Осетии и Кабардино-Балкарии введен режим КТО</a></td><td class="top"><a href="/redir/?source=vz_menu_links&nomain=1&id=628110&vzurl=http://www.vz.ru/news/2013/4/10/628110.html">Генассамблея ООН готовит новый проект резолюции по Сирии</a></td><td class="top"><a href="/redir/?source=vz_menu_links&nomain=1&id=628091&vzurl=http://www.vz.ru/news/2013/4/10/628091.html">Google запустила первый канал сверхскоростного интернета</a></td><td class="opinion"><table><tr><td width="45"><a href="/redir/?source=top_opinions&nomain=1&id=628063&vzurl=opinions/2013/4/9/628063.html"><img width="40" height="26" src="http://img.vz.ru/upimg/711/711430.jpg"/></a></td><td valign="top"><a href="/redir/?source=top_opinions&nomain=1&id=628063&vzurl=opinions/2013/4/9/628063.html"><b>Эдуард Биров:</b> Ложно понятые милосердие и социальная справедливость породили паразитизм
+					
+						 <nobr>(<span style="font-size: 11px; font-style: italic;">32 комментария</span>)</nobr></a></td></tr></table></td></tr></table><div class="clear"></div></div></div><table width="100%" cellspacing="0" cellpadding="0" style="background: #fff;"><tr><td id="left_td" width="22%" valign="top" style="padding: 15px 0px 10px 15px;"><h3>Читайте также</h3><div class="hotnews"><div class="title"><a href="/politics/2013/4/10/627540.html">«Америка боевых холопов себе найдет»</a></div><div class="leadh"><a href="/politics/2013/4/10/627540.html" style="text-decoration: none">Эксперт рассказал о том, как выглядит будущая геополитика с точки зрения математических расчетов</a></div><a href="/politics/2013/4/10/627540.html"><img src="http://img.vz.ru/upimg/m62/m627540_150.jpg?775436954" width="150" border="0" title="" alt=""/></a><div class="text" style="margin-bottom: 7px;"><a href="/politics/2013/4/10/627540.html" class="more">Подробности...</a></div><div class="title"><a href="/politics/2013/4/9/628061.html">«Нет зуда сажать в тюрьму»</a></div><div class="leadh"><a href="/politics/2013/4/9/628061.html" style="text-decoration: none">Госдума подавляющим большинством голосов одобрила уголовную ответственность за оскорбление чувств верующих</a></div><a href="/politics/2013/4/9/628061.html"><img src="http://img.vz.ru/upimg/m62/m628061_150.jpg?1787623945" width="150" border="0" title="" alt=""/></a><div class="text" style="margin-bottom: 7px;"><a href="/politics/2013/4/9/628061.html" class="more">Подробности...</a></div><div class="title"><a href="/society/2013/4/9/628042.html">Оценка неудовлетворительная</a></div><div class="leadh"><a href="/society/2013/4/9/628042.html" style="text-decoration: none">Счетная палата заявила о нарушениях в системе школьного образования</a></div><a href="/society/2013/4/9/628042.html"><img src="http://img.vz.ru/upimg/m62/m628042_150.jpg?1265356579" width="150" border="0" title="" alt=""/></a><div class="text" style="margin-bottom: 7px;"><a href="/society/2013/4/9/628042.html" class="more">Подробности...</a></div>
+<div id="banner_forex" style="margin-bottom:5px;"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('banner_forex', '/inc/b/banner_forex.html','240', '400');
+		});
+	</script></div>
+<!--  AdRiver code START. Type:240x120 Site: ????  PZ: 0 BN: 0 -->
+<script language="javascript" type="text/javascript"><!--
+//var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+//var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
+//document.write(
+//'<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?'
+//+ 'sid=172005&target=blank&w=240&h=146&bt=8&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail
+//+ '" frameborder=0 vspace=0 hspace=0 width=240 height=146 marginwidth=0'
+//+ ' marginheight=0 scrolling=no></iframe>');
+//--></script>
+<!--
+<noscript>
+<a href="http://ad.adriver.ru/cgi-bin/click.cgi?sid=172005&bt=8&pz=0&rnd=1616200576" target=_blank>
+<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=172005&bt=8&pz=0&rnd=1616200576" alt="-AdRiver-" border=0 width=240 height=146></a>
+</noscript>
+-->
+<!--  AdRiver code END  -->
+
+<script>//<!--
+	if( arrayNumsTipsRight2 == null ){
+		var arrayNumsTipsRight2 = new Array();
+		for( i = 1; i <= 0; i++ ){
+			arrayNumsTipsRight2.push( i );
+		}
+		arrayNumsTipsRight2 = shufle( arrayNumsTipsRight2 );
+	}
+// -->
+</script><div class="block-show-window-left"></div>
+
+
+<div><p><iframe src="/inc/b/left_240x400_inner_iframe.html?news" width="240" height="400" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe></p></div>
+<div style="margin-top:0px; margin-bottom:8px; padding:0"><div id="left_rian_iframe"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('left_rian_iframe', '/inc/b/last-right-banner-240x400.html','240', '400');
+		});
+	</script></div></div>
+	<div style="margin-top:12px; margin-bottom:18px; padding:0"><div id="dni_ru_banner_240x400_left"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('dni_ru_banner_240x400_left', 'http://dni.ru/inc/banner-240x400.html','240', '400');
+		});
+	</script></div></div><div style="margin-top:12px; margin-bottom:18px; padding:0"><div id="banner_240x400_left"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('banner_240x400_left', '/inc/b/banner_left_240x400.html','242', '402');
+		});
+	</script></div></div><!--div style="margin-top:12px; margin-bottom:8px; padding:0"><div id="left_master_iframe.html"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('left_master_iframe.html', '/inc/b/left_masterspy_iframe.html','240', '270');
+		});
+	</script></div></div><div style="margin-top:12px; margin-bottom:8px; padding:0"><div id="left_dozory_iframe"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('left_dozory_iframe', '/inc/b/left_dozory_iframe.html','240', '400');
+		});
+	</script></div></div-->
+<h3><a href="/interviewpolit/">Интервью / Политика</a></h3><table class="new-block" width="100%"><tr><td class="l"><a href="/redir/?source=vz_index_interviewpolit&id=627540&vzurl=politics/2013/4/10/627540.html"><img src="http://img.vz.ru/upimg/ne_/ne_627540.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewpolit&id=627540&vzurl=politics/2013/4/10/627540.html">Виктор Ковалев: Америка боевых холопов себе найдет</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_interviewpolit&id=627374&vzurl=politics/2013/4/4/627374.html"><img src="http://img.vz.ru/upimg/ne_/ne_627374.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewpolit&id=627374&vzurl=politics/2013/4/4/627374.html">Константин Голоскоков: Собчак уже попалась на лжи</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_interviewpolit&id=627030&vzurl=politics/2013/4/2/627030.html"><img src="http://img.vz.ru/upimg/ne_/ne_627030.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewpolit&id=627030&vzurl=politics/2013/4/2/627030.html">Кирилл Кабанов: Массового бегства чиновников не будет</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_interviewpolit&id=626586&vzurl=world/2013/3/29/626586.html"><img src="http://img.vz.ru/upimg/ne_/ne_626586.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewpolit&id=626586&vzurl=world/2013/3/29/626586.html">Евгений Бужинский: Ракетный потенциал КНДР преувеличен</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_interviewpolit&id=615837&vzurl=politics/2013/3/22/615837.html"><img src="http://img.vz.ru/upimg/ne_/ne_615837.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewpolit&id=615837&vzurl=politics/2013/3/22/615837.html">Вячеслав Лысаков: Для общества чреват нигилизм</a></td></tr></table><h3><a href="/interviewsociety/">Интервью / Общество</a></h3><table class="new-block" width="100%"><tr><td class="l"><a href="/redir/?source=vz_index_interviewsociety&id=627597&vzurl=society/2013/4/5/627597.html"><img src="http://img.vz.ru/upimg/ne_/ne_627597.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewsociety&id=627597&vzurl=society/2013/4/5/627597.html">Франц Клинцевич: Многие еще не раз пожалеют</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_interviewsociety&id=627587&vzurl=society/2013/4/5/627587.html"><img src="http://img.vz.ru/upimg/ne_/ne_627587.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewsociety&id=627587&vzurl=society/2013/4/5/627587.html">Иван Каляпин: Реформа не провальна, а провалена</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_interviewsociety&id=627075&vzurl=society/2013/4/5/627075.html"><img src="http://img.vz.ru/upimg/ne_/ne_627075.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewsociety&id=627075&vzurl=society/2013/4/5/627075.html">Александр Никонов: Феминизм опасен, как и любое левачество</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_interviewsociety&id=626831&vzurl=society/2013/4/1/626831.html"><img src="http://img.vz.ru/upimg/ne_/ne_626831.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewsociety&id=626831&vzurl=society/2013/4/1/626831.html">Андрей Шмакин: В народе это называется &quot;поздняя весна&quot;</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_interviewsociety&id=625533&vzurl=society/2013/3/25/625533.html"><img src="http://img.vz.ru/upimg/ne_/ne_625533.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_interviewsociety&id=625533&vzurl=society/2013/3/25/625533.html">Елена Ярская-Смирнова: Крен в неоконсерватизм очевиден</a></td></tr></table><h3><a href="/intervieweco/">Интервью / Экономика</a></h3><table class="new-block" width="100%"><tr><td class="l"><a href="/redir/?source=vz_index_intervieweco&id=626626&vzurl=economy/2013/4/1/626626.html"><img src="http://img.vz.ru/upimg/ne_/ne_626626.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_intervieweco&id=626626&vzurl=economy/2013/4/1/626626.html">Вячеслав Кондратьев: Ан-2 не будет конкурентом для &quot;Рысачка&quot;</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_intervieweco&id=626447&vzurl=society/2013/3/28/626447.html"><img src="http://img.vz.ru/upimg/ne_/ne_626447.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_intervieweco&id=626447&vzurl=society/2013/3/28/626447.html">Игорь Маликов: «Пилотировать» на КамАЗе – не то же самое</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_intervieweco&id=624222&vzurl=economy/2013/3/13/624222.html"><img src="http://img.vz.ru/upimg/ne_/ne_624222.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_intervieweco&id=624222&vzurl=economy/2013/3/13/624222.html">Алексей Ведев: Набиуллина сможет сочетать разные подходы МЭР</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_intervieweco&id=620171&vzurl=economy/2013/2/13/620171.html"><img src="http://img.vz.ru/upimg/ne_/ne_620171.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_intervieweco&id=620171&vzurl=economy/2013/2/13/620171.html">Галина Хованская: Категория несправедливо обиженных граждан</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_intervieweco&id=619211&vzurl=economy/2013/2/6/619211.html"><img src="http://img.vz.ru/upimg/ne_/ne_619211.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_intervieweco&id=619211&vzurl=economy/2013/2/6/619211.html">Юрий Ковалев: Свинина оказалась в двойных тисках</a></td></tr></table></div></td><td id="right_td" width="auto" valign="top" style="padding:15px 20px 10px 15px;"><script src="/js/blogger.js" language="javascript"></script><h1>Водитель скорой устроил стрельбу в петербургской поликлинике</h1><div class="lead"></div><table width="100%" cellspacing="0" cellpadding="0"><tr><td width="350" style="padding: 10px 0 0 0;"><img src="http://img.vz.ru/upimg/m55/m551530.jpg" width="300" height="233" border="0" title="" alt=""/></td><td width="90%" nowrap="nowrap">  </td><td nowrap="nowrap" align="right" valign="bottom" style="padding:10px 0 10px 0;" class="extra">
+				5 января 2012, 14:33<br/>
+				Фото: РИА "Новости" <br/>
+				
+				<p><div class="m3"><noindex><a href="http://www.vz.ru/news/2012/1/5/551530.print.html" rel="nofollow" class="print-link">Версия для печати</a></noindex>  •<br/><a href="javascript:void(0);" onclick="if (document.all) {window.external.AddFavorite(location.href,document.title); return false;}">В закладки</a>  •<br/><a class="sys_const_link" href="http://www.vz.ru/news/2012/1/5/551530.html">Постоянная ссылка</a>  •<br/><div id="blogger-code" class="ta"></div>  •
+				<script language="JavaScript">
+<!--
+//Открытие окна для сообщения об ошибке
+function submit_error() {
+myWin2 = open("http://php.vz.ru/submit_error.php?referer="+escape(document.location)+"&rand="+Math.random(), "displayWindow","width=500,height=555,status=no,toolbar=no,menubar=no");
+}
+//-->
+</script>
+<br /><a href="javascript:void(0);" onClick="return submit_error(location.href, document.title)">Сообщить об ошибке</a>&nbsp;&nbsp;&#8226;</div><script type="text/javascript">
+				
+				var blogger = new Blogger();
+				blogger.initArticle({
+					date: '14:33, 5 января 2012',
+					pic_url: 'http://img.vz.ru/upimg/m55/m551530.jpg',
+					pic_display: 'block',
+					title: 'Водитель скорой устроил стрельбу в петербургской поликлинике',
+					lead: 'В Петербурге задержан мужчина, который открыл огонь в поликлинике № 105, куда был доставлен на машине скорой помощи медиками, которым угрожал пистолетом, пишут в четверг городские СМИ.',
+					url: '/news/2012/1/5/551530.html'
+				});
+				</script></p></td></tr></table><div id="blogger-code-text-wrapper" class="ta"></div><div class="text"><p><b>В Петербурге задержан мужчина, который открыл огонь в поликлинике № 105, куда был доставлен на машине скорой помощи медиками, которым угрожал пистолетом, пишут в четверг городские СМИ.</b></p><p><div id="related" style="width:180px; line-height: 100%"><h3><a href="/crime/">криминал</a></h3><table class="new-block" width="100%"><tr><td class="l"><a href="/redir/?source=vz_index_crime&id=626380&vzurl=incidents/2013/3/28/626380.html"><img src="http://img.vz.ru/upimg/ne_/ne_626380.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_crime&id=626380&vzurl=incidents/2013/3/28/626380.html">В ГУВД опровергли избиение прихожан мечети в Москве</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_crime&id=626236&vzurl=incidents/2013/3/27/626236.html"><img src="http://img.vz.ru/upimg/ne_/ne_626236.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_crime&id=626236&vzurl=incidents/2013/3/27/626236.html">Курсанты университета МВД задержаны за похищение человека</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_crime&id=625415&vzurl=society/2013/3/21/625415.html"><img src="http://img.vz.ru/upimg/ne_/ne_625415.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_crime&id=625415&vzurl=society/2013/3/21/625415.html">В кабинете замглавы Минобрнауки прошли обыски</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_crime&id=625382&vzurl=politics/2013/3/21/625382.html"><img src="http://img.vz.ru/upimg/ne_/ne_625382.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_crime&id=625382&vzurl=politics/2013/3/21/625382.html">Развозжаеву предъявлено новое обвинение в ложном доносе</a></td></tr><tr><td class="l"><a href="/redir/?source=vz_index_crime&id=625283&vzurl=society/2013/3/21/625283.html"><img src="http://img.vz.ru/upimg/ne_/ne_625283.jpg" width="63" height="50" title="" alt="" border="0"/></a></td><td width="100%"><a href="/redir/?source=vz_index_crime&id=625283&vzurl=society/2013/3/21/625283.html">Дело Лотковой может оказаться не столь однозначным</a></td></tr></table></div>Инцидент произошел в поликлиническом отделении поликлиники № 105 в доме 21 по Комсомольской улице (Красносельский район). Как сообщили в УВО при ГУ МВД по Петербургу и Ленобласти, около 04.00 из поликлиники поступил сигнал тревоги. Приехавший через 2,5 минуты наряд нашел персонал поликлинического отделения в состоянии паники, а на диване в отделении &ndash; мужчину, рядом с которым валялись стреляные гильзы и пистолет, передает <a href="http://www.fontanka.ru/" target="_blank">&laquo;Фонтанка.ру&raquo;</a>.<p>По словам персонала, мужчина приехал в отделение на машине скорой помощи, ведя медиков под пистолетом, а в поликлинике устроил беспорядочную стрельбу.<p>Предполагаемый стрелок был задержан и передан в 42-й отдел полиции Красносельского района. По предварительной информации, ранее он был дважды судим &ndash; за незаконное ношение оружия и хулиганство.<p>Как сообщают читатели издания, мужчина работает водителем на скорой в поликлиническом отделении, в настоящее время находится в отпуске. Его обезоружили врач и фельдшер. Было сделано не менее 10 выстрелов. Пистолет, как сообщают осведомленные читатели, &ndash; боевой.</p></div><br/><!--iframe width="100%" scrolling="no" height="95" frameborder="no" src="http://medvedev2012.ru/export/vz-banner.html" style="margin-bottom: 15px;"></iframe-->             
+<iframe width="100%" scrolling="no" height="125" frameborder="no" src="http://adv.russia.ru/adv?id=3&c=2&n=4&amp;css=/css/vz.css" style="margin-bottom: 10px"></iframe>
+
+<div style="clear: both; font-size: 12px;">
+Вы можете комментировать материалы газеты ВЗГЛЯД, <a target = "_blank" href = "http://www.russia.ru/registration/">зарегистрировавшись</a> на сайте Russia.ru. О редакционной политике по отношению к комментариям читайте <a target = "_blank" href = "http://vz.ru/about/comments.html">здесь</a>
+</div>
+<a name="comments"></a><div id="xdm-container"></div><script type="text/javascript" src="http://apivz.russia.ru/js/easyXDM.js"></script><script type="text/javascript">
+	var pageId = '551530';
+var link = jQuery(".sys_const_link").attr("href");
+ if(!link) {
+ 	link = jQuery(".print-link").attr("href");
+ 	if(link) {
+ 		link = link.replace(".print", "");
+ 	}
+ }
+ new easyXDM.Socket({
+     remote: "http://apivz.russia.ru/comments_widget?api_key=uHqzR2nYRY6YxveloLeL&ps=10&updateCountCommentsForLogged=true&source=news_" 
+     	+ pageId + "&path=" + encodeURIComponent(link) + "&css=http://apivz.russia.ru/css/vz-comments.css&recommend=/images/vz/vz_recommend.gif",
+     container: document.getElementById("xdm-container"),
+     props: {style: {width: "100%"}},
+     onMessage: function(message, origin){
+        var height = parseInt(message);
+        if (height > 0) {
+          var iframe = this.container.getElementsByTagName("iframe")[0];
+          iframe.scrolling = 'no';
+          iframe.frameborder = 'no';
+          iframe.style.height = height + "px";
+          iframe.style.width = "100%";
+        } else {
+          var post = jQuery.evalJSON(message);
+          VZ.newsCommentsCallback(post.count, post.page_id, post.time, post.sign, pageId);
+        }
+     }
+ });
+</script>
+<br/><script src="http://russia.ru/js/api.js" type="text/javascript"></script>
+<script src="http://vkontakte.ru/js/api/share.js?3" type="text/javascript"></script><script type="text/javascript">
+// document.write(VK.Share.button(false,{type: "link_noicon", text: "Добавить Вконтакт"}));
+</script><div id="append-other-applecations" style="display: none;"><div class="append-other-applecations"><div class="addintion-actions"><a class="action favorite" onclick="if (document.all) {window.external.AddFavorite(location.href,document.title); return false;}" href="javascript:void(0);"></a><a class="action print" href="#"></a><a class="action mail" href="/subscribe/"></a></div><div class="append"><div class="append-all-app" href="#">Поделиться новостью</div><div class="append-several-app"><a class="app big-livejournal" target="_blank"></a><a class="app big-twitter" target="_blank"></a><div class="app big-vkontakte"><script type="text/javascript">
+						document.write(VK.Share.button(false,{type: "link_noicon", text: " " } ));
+                    </script></div><a class="app big-facebook" target="_blank"></a><a class="app big-russiaru" target="_blank"></a></div></div><div class="app-popup" style="display: none;"><a class="popup-apps livejournal" target="_blank">
+				Livejournal
+			</a><a class="popup-apps twitter" target="_blank">
+				Twitter
+			</a><a class="popup-apps vkontakte" href="#" onclick="VK.Share.click(0); return false;">
+				В контакте
+			</a><a class="popup-apps mailru" target="_blank">
+				Mail.ru
+			</a><a class="popup-apps liveinternet" target="_blank">
+				Liveinternet.ru
+			</a><a class="popup-apps facebook" target="_blank">
+				Facebook
+			</a><a class="popup-apps myspace" target="_blank">
+				Myspace
+			</a><a class="popup-apps blogger" target="_blank">
+				Blogger
+			</a><a class="popup-apps google" target="_blank">
+				Google Buzz
+			</a><a class="popup-apps gmail" target="_blank">
+				Gmail
+			</a></div></div></div><script>
+	insertAppendOtherApplecationsBlock();
+</script><br/><div class="clear"></div>
+
+<table id="article-action-links" width="100%" style="margin-top:0;"><tr class="zm"><td class="l">&#8592; <a href="/" onclick="r(this, 'inner2main')">На главную страницу</a></td><td class="m"><a href="mailto:inform@vz.ru">Письмо в редакцию</a></td><td class="r"><a href="/subscribe/">Подписка на новости</a></td></tr></table><!-- #include virtual="/inc/article_tips.html" -->
+<style>
+.flash_div 
+{
+    width: 100%;
+    background-color: black;
+    background-image: url('/images/war_background2.gif');
+    background-position: top center;
+    background-repeat:no-repeat;
+    height: 450px;
+    text-align: center;
+    margin: 0px;
+    margin-bottom:12px;
+    padding: 0px;
+    min-width: 700px;
+    width:expression(document.body.clientWidth < 770? "770px": "auto" );
+}
+
+.russia_flash_div_old 
+{
+    width: 100%;
+    background-color: black;
+    background-image: url('/images/war_background3.gif');
+    background-position: top center;
+    background-repeat:no-repeat;
+    height: 450px;
+    text-align: center;
+    margin: 0px;
+    margin-bottom:12px;
+    padding: 0px;
+    min-width: 608px;
+    width:expression(document.body.clientWidth < 1100? "608px": "auto" );
+    
+}
+
+.russia_flash_div
+{
+    width: 100%;
+    background-color: black;
+    background-image: url('/images/russia_vz_player3.jpg');
+    background-position: top center;
+    background-repeat:no-repeat;
+    height: 338px;
+    text-align: center;
+    margin: 0px;
+    margin-bottom:12px;
+    padding: 0px;
+    min-width: 519px;
+    width:expression(document.body.clientWidth < 1100? "519px": "auto" );
+    
+}
+
+.flash_container
+{
+    width: 100%;
+    text-align: center;
+    
+    height: 360px;
+    padding-top: 0px;
+    /*padding-left: 7px;*/
+
+    padding-bottom: 0px;
+    margin:0px;
+    
+}
+*html .flash_container embed {margin-left:1px;} *+html .flash_container embed {margin-left:1px;}
+.russia_flash_div_link
+{
+	text-align: center;
+	vertical-align:top;
+	margin-top:-5px;
+	background-color: black;
+    background-image: url('/images/russia_vz_player_link3.jpg');
+    background-position: top center;
+    background-repeat:no-repeat;
+	height:47px;
+	
+	margin-bottom:0px;
+	padding-bottom:0px;
+	min-width: 519px;
+	width:expression(document.body.clientWidth < 1100? "519px": "auto" );
+}
+*html .russia_flash_div_link{margin-bottom:-5px;margin-top:0px;margin-left:0px;} *+html .russia_flash_div_link {margin-top:0px;margin-left:0px;margin-bottom:-5px;}
+</style>
+
+
+<!--<div class="flash_div" style="display:none" id="playercontainer1">
+    <div class="flash_container" align="center">
+    <OBJECT width="470" height="353"><PARAM name="movie" value="http://video.rutube.ru/44a04ec6337548afd9f0e2699cd6780d"></PARAM><PARAM name="wmode" value="window"></PARAM><PARAM name="allowFullScreen" value="true"></PARAM><EMBED src="http://video.rutube.ru/44a04ec6337548afd9f0e2699cd6780d" type="application/x-shockwave-flash" wmode="window" width="470" height="353" allowFullScreen="true" ></EMBED></OBJECT></div></div>
+
+<div class="flash_div" style="display:none" id="playercontainer2">
+    <div class="flash_container" align="center">
+    <object width="601" height="385"><param name="flashvars" value="imaginehost=video.mail.ru&perlhost=video.mail.ru&alias=inbox&username=russia_ru&albumid=221&id=293&catalogurl=http://video.mail.ru/themes/clips&tagurl=" /><param name="allowScriptAccess" value="always" /><param name="movie" value="http://img.mail.ru/r/video2/player_v2.swf?par=http://content.video.mail.ru/inbox/russia_ru/221/$293$0$2913" /><embed src="http://img.mail.ru/r/video2/player_v2.swf?par=http://content.video.mail.ru/inbox/russia_ru/221/$293$0$2913" type="application/x-shockwave-flash" width="601" height="385" flashvars="imaginehost=video.mail.ru&perlhost=video.mail.ru&alias=inbox&username=russia_ru&albumid=221&id=293&catalogurl=http://video.mail.ru/themes/clips" allowScriptAccess="always"></embed></object></div></div>--> 
+
+    
+<script language="JavaScript">
+<!--
+var rand_no = Math.random();
+if(rand_no>0.5)
+{
+    //$('playercontainer1').style.display="";
+}
+else
+{
+    //$('playercontainer2').style.display="";
+}
+  
+//-->
+</script>     
+
+<!--
+<div style = "height: 270px;" class = "russia_flash_div" align = "center">
+	<div class = "flash_container" id = "flash_container" align = "center">
+		<iframe scrolling = "no" src = "http://dozory.goodoo.ru/squest/vz_podval.html" width = "608" height = "266"></iframe>
+	</div>
+</div>
+
+
+<div style = "height: 270px; margin-bottom: 10px;" align = "center">
+	<iframe frameborder="0" scrolling = "no" src = "http://dozory.goodoo.ru/squest/vz_podval.html" width = "608" height = "266"></iframe>
+</div>
+-->
+
+<div class="russia_flash_div" align="center">
+<div class="flash_container" id="flash_container" align="center">
+ 	<div id="player">
+ 	<script type="text/javascript">	
+		var	linkPlayer = "http://www.russia.ru/player/top_vz.swf";
+	
+		var so_flv_player = new SWFObject( linkPlayer, 'fp', '519', '292', '9.0.115.0', '#000000' );
+		so_flv_player.skipDetect = 1;
+		so_flv_player.addVariable('from', 'vz');
+		so_flv_player.addParam('allowScriptAccess', 'always');
+		so_flv_player.addParam('allowFullScreen', 'true');
+		so_flv_player.addParam('wmode', 'transparent');
+		so_flv_player.write('player');
+	</script>
+	</div>
+ 	<div class="russia_flash_div_link"><a href="http://russia.ru"><img src="/images/russia_vz_player_link_short3.jpg"/></a></div>
+</div></div>
+
+    
+    
+<br />
+<iframe style="margin-top:-15px;" src="/inc/popular_inner.html" width="100%" height="200" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe><hr style="margin-top:0px;margin-bottom:8px;"/><!--div style="padding-top:10px;padding-bottom:10px;margin-top:-15px;margin-bottom:15px;background:#F0F0F0">
+<iframe src="/inc/b/more_article_after_iframe.html" width="100%" height="142" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+</div-->
+
+
+<div style="padding-top:10px;padding-bottom:10px;margin-top:-15px;margin-bottom: -40px;">
+<iframe src="/inc/b/more_article_after_km2_iframe.html" width="100%" height="68" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+<iframe src="/inc/b/more_article_after_km_iframe.html" width="100%" height="68" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+<iframe src="/inc/b/more_article_after_km3_iframe.html" width="100%" height="110" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+</div>
+
+
+<iframe src="/import/more_after_article_news_iframe.html" width="100%" height="150" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+
+
+<!-- <iframe src="/inc/b/more_article_after_echo_iframe.html" width="100%" height="190" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe> -->
+
+<!--div style="height:23px;width:100%"><spacer /></div>
+<iframe src="/inc/b/more_article_after_km2_iframe.html" width="100%" height="68" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+<iframe src="/inc/b/more_article_after_km_iframe.html" width="100%" height="110" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe--><!-- <br><br> --><dl class="lenta"><dt><img class="our-news" src="/favicon.ico"/><span class="our-news-time"> 10:17 </span> 
+			<a href="/news/2013/4/10/628131.html">Новый город-миллионник появился в России</a><dd>Статус города-миллионника официально подтвердил Красноярск, сообщили в среду в местном органе статистики.</dd></dt><dt><span> 10:15 </span> 
+			<a href="/news/2013/4/10/628134.html">Усилена охрана здания Госдумы</a><dd>У здания Госдумы усилена охрана, проход по Охотному ряду перекрыт, рассказал в среду утром очевидец.</dd></dt><dt><span> 10:10 </span> 
+			<a href="/news/2013/4/10/628133.html">Доллар на ММВБ подорожал на две копейки</a><dd>Курс доллара расчетами «завтра» в первые минуты валютных торгов на Московской бирже в среду вырос на 2 копейки - до 31,04 рубля, курс евро снизился на 2 копейки - до 40,59 рубля.</dd></dt><dt><img class="our-news" src="/favicon.ico"/><span class="our-news-time"> 10:08 </span> 
+			<a href="/news/2013/4/10/628132.html">ММВБ-РТС открылась в плюсе</a><dd>Индекс РТС при открытии торгов в среду повысился на 0,74% и составил 1450,18 пункта, индекс ММВБ - на 0,26% до 1429,25 пункта.</dd></dt><dt><img class="our-news" src="/favicon.ico"/><span class="our-news-time"> 10:06 </span> 
+			<a href="/news/2013/4/10/628125.html">МВД начало проверку омского кафе по поводу порно-вечеринки</a><dd>Снимки порнографического характера, сделанные в одном из омских кафе, стали поводом для полицейской проверки, сообщили в среду в региональном УМВД.</dd></dt><dt><span> 09:50 </span> 
+			<a href="/news/2013/4/10/628130.html">Движение на Каширском шоссе в Подмосковье закрыли до пятницы</a><dd>Движение на 36-м километре Каширского шоссе в Подмосковье в районе съезда с трассы М-4 «Дон», закрытое из-за ДТП с грузовиком, будет перекрыто еще два дня, сообщила в среду пресс-служба регионального управления ГИБДД.</dd></dt><dt><span> 09:40 </span> 
+			<a href="/news/2013/4/10/628128.html">Баррель нефти подорожал до 93,91 доллара</a><dd>Мировые цены на нефть демонстрируют смешанную динамику в среду на фоне статистики по запасам сырья в США и внешнеторговому балансу Китая.</dd></dt><dt><img class="our-news" src="/favicon.ico"/><span class="our-news-time"> 09:34 </span> 
+			<a href="/news/2013/4/10/628126.html">Boeing с пассажирами загорелся в сибирском аэропорту</a><dd>В аэропорту Емельяново произошло возгорание тормозного устройства левой основной опоры шасси Boeing-767 авиакомпании ООО «Северный Ветер» во время буксировки на стоянку, сообщили в Западно-Сибирской транспортной прокуратуре.</dd></dt><dt><img class="our-news" src="/favicon.ico"/><span class="our-news-time"> 09:26 </span> 
+			<a href="/news/2013/4/10/628124.html">Обвиняемого в убийстве посетителя кафе боксера отдали под суд</a><dd>Расследование уголовного дела в отношении 22-летнего жителя города Каменск-Уральского Валерия Третьякова, выступающего за один из известных боксерских клубов Москвы, завершено, сообщили в СУ СК России по Свердловской области.</dd></dt><dt><span> 09:18 </span> 
+			<a href="/news/2013/4/10/628123.html">США решили добиваться расследования обстоятельств избиения Бекетова</a><dd>Соединенные Штаты озабочены тем, что в России не нашли виновных в избиении российского журналиста Михаила Бекетова, и продолжат добиваться тщательного расследования этого преступления.
+</dd></dt><dt class="hournews"><img class="our-news" src="/favicon.ico"/><span class="our-news-time"> 09:13 </span> 
+			<a href="/news/2013/4/10/628121.html">Из-за ДТП отменены аэроэкспрессы из Москвы в аэропорт Домодедово</a><dd>Отменяется движение нескольких аэроэкспрессов, следующих из Москвы и в столицу, поезда пригородного сообщения будут следовать с небольшими отклонениями от расписания из-за произошедшего ДТП, сообщили в пресс-службе МЖД.</dd></dt><dt><span> 09:07 </span> 
+			<a href="/news/2013/4/10/628120.html">Венесуэла закрыла границы перед президентскими выборами</a><dd>Накануне президентских выборов власти Венесуэлы приняли решение закрыть границу с Колумбией и Бразилией, передают зарубежные информационные агентства.</dd></dt><dt class="hournews"><span> 08:42 </span> 
+			<a href="/news/2013/4/10/628118.html">КНДР вывела на боевые позиции несколько новых баллистических ракет</a><dd>К северу от портового города Вонсан КНДР установила на боевые позиции еще несколько баллистических ракет «Скад» и «Нодон», сообщили в среду в минобороны Южной Кореи. </dd></dt><dt><span> 08:29 </span> 
+			<a href="/news/2013/4/10/628117.html">СМИ: Глава британского МИД призвал защищать женщин на войне</a><dd>Министр иностранных дел Великобритании рассказал о готовящемся документе по предотвращению сексуального насилия и защите женщин в ходе вооруженных конфликтов. </dd></dt><dt><span> 08:25 </span> 
+			<a href="/news/2013/4/10/628116.html">Прокуратура ТОФ выявила воровство на строительстве дороги</a><dd>Проверка военных прокуроров выявила необоснованное перечисление денег на благоустройство дороги, в том числе в жилом районе для военных «Снеговая Падь» во Владивостоке, сообщили в военной прокуратуре Тихоокеанского флота.
+</dd></dt><dt><span> 08:14 </span> 
+			<a href="/news/2013/4/10/628115.html">Южная Корея попросила Россию и Китай повлиять на КНДР</a><dd>Правительство Южной Кореи обратилось к России и Китаю с просьбой оказать помощь в сдерживании КНДР от дальнейших военных провокаций, сообщили в среду южнокорейские СМИ.</dd></dt><dt><span> 08:11 </span> 
+			<a href="/news/2013/4/10/628114.html">Избившие настоятеля церкви в новой Москве задержаны</a><dd>По подозрению в нападении на настоятеля храма Сошествия Святого Духа в поселке Первомайское и подсобного рабочего задержаны 32-летний и 29-летний мужчины, сообщили в ГУ МВД России по Москве.</dd></dt><dt><span> 07:58 </span> 
+			<a href="/news/2013/4/10/628113.html">Дети пострадали при провале грунта в нижегородском поселке</a><dd>Три здания провалились в воронку диаметром 85 метров, которая образовалась в среду утром в поселке Бутурлино Нижегородской области, травмы получили шестеро детей, сообщил представитель регионального УМВД.</dd></dt><dt class="hournews"><span> 07:47 </span> 
+			<a href="/news/2013/4/10/628112.html">Япония ошибочно сообщила о запуске ракеты КНДР</a><dd>Япония в среду ошибочно сообщила о запуске ракеты КНДР через официальную страницу в Twitter администрации города Иокогама (префектура Канагава).</dd></dt><dt><span> 07:34 </span> 
+			<a href="/news/2013/4/10/628111.html">На границе Северной Осетии и Кабардино-Балкарии введен режим КТО</a><dd>Режим КТО введен по границе с Кабардино-Балкарией в лесном массиве на территории Правобережного района Северной Осетии для ликвидации базы бандподполья, говорится в информации пресс-службы УФСБ по Северной Осетии.</dd></dt></dl></td></tr></table><div class="shadow"> </div></td><td id="vdelimiter"><div> </div></td><td id="right"><div id="toplinks"><a href="http://vz.ru/about/staff.html">О газете</a>  |  <a href="/about/vacancy.html">Вакансии</a>  |  <a href="/about/advertise.html#journal">Реклама на сайте</a></div><div id="adriver_banner" style="margin-top: 22px; margin-bottom: 10px;"></div>
+
+<script type="text/javascript">
+var place   = 'adriver_banner';
+var soloway = new adriver(place,{sid:54890, bt:52, pz: 1});
+(function(){var args = arguments,c=adriver.items[place];if(!c||(c&&!c.reply)){setTimeout(function(){args.callee();}, 100);return;}
+if(c.reply.bid == 399800){if(typeof(window.ar_cn)=="undefined") window.ar_cn=1;var ar_Tail=document.referrer ? escape(document.referrer) : 'unknown';
+var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=54890&bt=49&pz=2&target=blank&tail256=" + ar_Tail;
+var div = document.createElement('div');a = document.getElementById(place);a.appendChild(div);div.style.visibility = "hidden";div.style.height="0px";
+div.innerHTML = '<iframe id="ar_container_'+window.ar_cn+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe>';
+var div2 = document.createElement('div');div2.id = "ad_ph_"+window.ar_cn;a.appendChild(div2);
+function ar_getDoc(t,n,l){var doc;if(t<100){if(document.all && !window.opera){doc = window.frames['ar_container_'+n].document}
+else if(document.getElementById){doc=document.getElementById('ar_container_'+n).contentDocument}
+if(!doc){setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100)}else {var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+doc.write ('<sc'+'ript language="JavaScript" type="text/javascript">var ar_bnum='+n+';<\/sc'+'ript>');
+doc.write ('<sc'+'ript language="JavaScript" type="text/javascript" src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');}}}
+(function(num,link){function addEvent(e,t,f){if(e.addEventListener)e.addEventListener(t,f,false);else if(e.attachEvent)e.attachEvent('on'+t,f)}
+function removeEvent(e,t,f){if(e.removeEventListener)e.removeEventListener(t,f,false);else if(e.detachEvent)e.detachEvent('on'+t,f)}
+var BannerLoader={top:0,height:400,left:0,width:240,cm:document.compatMode=="CSS1Compat",
+scroll:function(){var s = self, de = document.documentElement, db = document.body,cw = this.cm && de.clientWidth || s.innerWidth || db.clientWidth,
+sl = s.pageXOffset || this.cm && de.scrollLeft || db.scrollLeft,sw = this.cm && de.scrollWidth || db.scrollWidth || db.offsetWidth;
+if((sl-this.left<=this.width*0.1&&sl+cw-this.left>=this.width*0.9)||(sw-this.left<=this.width*0.9&&(sw-sl-cw<1||sw<cw))){removeEvent(window,'scroll',this.sfunc);removeEvent(window,'resize',this.sfunc);ar_getDoc(0,num,link)}},
+sfunc: function(){BannerLoader.scroll()},init:function(){var t=this,obj=document.getElementById('ad_ph_'+num);
+if(obj){while(obj.offsetParent){t.top += obj.offsetTop;t.left += obj.offsetLeft; obj = obj.offsetParent}
+addEvent(window,'scroll',this.sfunc);addEvent(window,'resize',this.sfunc);t.scroll()}}};BannerLoader.init(); })(window.ar_cn++,ar_link);}})();
+</script>
+
+<!--
+<script>
+var vzcom_login = "advz_240x400_zamena_adriver_2012";
+var vzcom_options = "options=N";
+var vzcom_random = Math.round(Math.random() * 100000);
+document.write('<iframe src="http://com.adv.vz.ru/cgi-bin/iframe/'+vzcom_login+'?'+vzcom_random+'&'+vzcom_options+'" width="240" height="400" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://com.adv.vz.ru/cgi-bin/href/'+vzcom_login+'?'+vzcom_random +'" target="_blank"><img src="http://com.adv.vz.ru/cgi-bin/banner/'+vzcom_login+'?'+vzcom_random +'&'+vzcom_options+'" alt="" width="240" height="400" border="0" ismap="ismap"></a></iframe>');
+</script>
+<noscript>
+<iframe src="http://com.adv.vz.ru/cgi-bin/iframe/advz_240x400_zamena_adriver_2012?options=N" width="240" height="400" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://com.adv.vz.ru/cgi-bin/href/advz_240x400_zamena_adriver_2012" target="_blank"><img src="http://com.adv.vz.ru/cgi-bin/banner/advz_240x400_zamena_adriver_2012?options=N" alt="" width="240" height="400" border="0" ismap="ismap"></a></iframe>
+</noscript>
+-->
+
+<div id="right_russia">
+<script type="text/javascript">
+ advert.push( function() {
+ create_iframe('right_russia', 'http://adv.russia.ru/adv?id=3&c=1&n=6&css=/css/vz.css', '240', '337');
+ //create_iframe('right_russia', 'http://russia.ru/inc/export/vzbannermain.html', '240', '872');
+ //create_iframe('right_russia', 'http://russia.ru/inc/export/vzbanneronline.html','240', '878');
+});
+</script>
+</div>
+
+<div class="shadow">&nbsp;</div>
+
+<script>//<!--
+	if( arrayNumsTips == null ){
+		var arrayNumsTips = new Array();
+		for( i = 1; i <= 0; i++ ){
+			arrayNumsTips.push( i );
+		}
+		arrayNumsTips = shufle( arrayNumsTips );
+	}
+// -->
+</script><div class="block-show-window-left"></div>
+<!--  AdRiver code START. Type:AjaxJS Site: RRR PZ: 0 BN: 0 -->
+
+<!--div id="adriver_banner_1337025279"></div>
+
+<script type="text/javascript">
+new adriver("adriver_banner_1337025279", {sid:178710, bt:52});
+</script-->
+
+<!--div id="right-banner240x400"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('right-banner240x400', '/inc/b/rightAdvert240x400.html','240', '400');
+		});
+	</script></div><div class="shadow"> </div-->
+
+<!--  AdRiver code END  -->
+
+<div class="block-show-window-left"></div>
+
+<div id="sol-banner"><script type="text/javascript">
+		advert.push( function() {
+			//create_iframe('sol-banner', '/inc/b/vz_block_sol_inner.html','240', '400');
+			create_iframe('sol-banner', '/inc/b/vz_block_infoks_inner.html','240', '400');
+		});
+	</script></div><div class="shadow"> </div><script language="JavaScript"><!--
+var is_main = 0;  
+//--></script>
+<script language="JavaScript"><!--
+var is_main = 0;  
+//--></script>
+
+<script type="text/javascript">
+		if( location.href.indexOf("top") >= 0 ){
+			document.write("<div id='banner_forex_right'></div><div class='shadow'>&#160;</div>");
+		}
+		advert.push( function() {
+			create_iframe('banner_forex_right', '/inc/b/banner_forex.html','240', '400');
+		});
+</script>
+
+<div id="right_advert240x400_2"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('right_advert240x400_2', '/inc/b/right_advert_240x400_2.html','240', '400');
+		});
+	</script></div>
+
+<div class="shadow"> </div>
+
+ <div id="last-banner-right">
+ 	
+	    <script type="text/javascript">
+		advert.push( function() {
+			create_iframe('last-banner-right', '/inc/b/last-right-banner-240x400.html','240', '400');
+		});
+  	   </script>
+
+           <script type="text/javascript">
+		advert.push( function() {
+			create_iframe('last-banner-right', '/inc/b/left_rian_iframe.html','240', '400');
+		});
+	
+          </script>
+
+ </div><div class="shadow">&#160;</div>	
+ <div id="last2-banner-right">
+ 
+           <script type="text/javascript">
+                advert.push( function() {
+                        create_iframe('last2-banner-right', '/inc/b/last2-right-banner-240x400.html','240', '400');
+                });
+
+          </script>
+
+ </div><div class="shadow">&#160;</div>
+
+	
+
+<!--
+<div id="edros_240">
+	<script type='text/javascript'>
+		advert.push( function() {
+			create_iframe('edros_240', '/extadv/edros_240_code.html','240', '376');
+		});
+	</script>
+</div>
+<div class="shadow">&nbsp;</div>
+--><div id="vz.ru_234x120"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('vz.ru_234x120', '/inc/b/adv.vz.ru_234x120_iframe.html','234', '120');
+		});
+	</script></div><div class="shadow"> </div><!--div id="journal_anons_bottom"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('journal_anons_bottom', '/inc/b/journal_anons_bottom_iframe.html','240', '400');
+		});
+	</script></div><div class="shadow"> </div--><!--div id="journal_anons_bottom_inosmi"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('journal_anons_bottom_inosmi', '/inc/b/journal_anons_bottom_inosmi.html','240', '400');
+		});
+	</script></div><div class="shadow"> </div-->
+
+
+<!--div id="right_advert240x400"><script type="text/javascript">
+		advert.push( function() {
+			create_iframe('right_advert240x400', '/inc/b/right_advert_240x400.html','240', '400');
+		});
+	</script></div><div class="shadow"> </div-->
+
+<div id="widget-xdm-container"></div><div class="shadow"> </div><div style="background: white;"><div id="vk_groups"></div><script type="text/javascript">
+		if(VK){
+			VK.Widgets.Group("vk_groups", {mode: 0, width: "240"}, 19976640);
+		}
+	</script></div><div class="shadow"> </div><table width="100%" cellspacing="0" cellpadding="0" border="0"><td class="redact" style="padding:15px;"><div style="margin:0 0 10px 0;" class="hh1">Редакция</div><div class="z11" style="margin:0 0 10px 0;"><b><a href="/about/staff.html">Выходные данные</a></b><br/></div><div class="z11" style="margin:0 0 10px 0;"><b>Кто делает «Взгляд»</b><br/>
+•  <a href="/about/staff.html#redaktor">Главный редактор</a><br/>
+•  <a href="/about/staff.html#collective">Редакторы и обозреватели</a><br/>
+•  <a href="/about/vacancy.html">Вакансии</a><br/></div><div class="z11" style="margin:0 0 10px 0;"><b>Размещение рекламы</b><br/>
+•  <a href="/about/advertise.html">Баннерная реклама</a><br/>
+•  <a href="/about/advertise.html">Спонсорство разделов</a><br/></div><div class="z11" style="margin:0 0 10px 0;">
+•  <a href="/subscribe/">Подписка на новости</a><br/>
+•  <a href="/about/export.html">Экспорт новостей</a><br/>
+•  <a href="http://adv.vz.ru/">Медиасеть газеты «Взгляд»</a><br/></div></td></table><div class="shadow"> </div>
+</td></tr></table><!--
+<div style="margin: 0 0 10px 0;">
+#include virtual="/inc/b/footer_advert.html"
+</div>
+ -->
+
+<div style="margin-right:260px">
+<table id="copyrights" width="100%">
+<tr>
+<td class="left">
+&copy; 2005 - 2012 ЗАО &laquo;ВЗГЛЯД.РУ&raquo;<br>
+2009 Newmedia Stars<br>
+E-mail: <a href="mailto:inform@vz.ru">inform@vz.ru</a>
+</td>
+<td class="middle">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td nowrap="nowrap">
+
+
+
+
+
+
+
+
+<!--
+<a href="http://top100.rambler.ru/top100/Media/index.shtml.ru"><img src="http://top100-images.rambler.ru/top100/b1.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+-->
+
+<img src="http://counter.yadro.ru/logo?58.3" borde="0" width="0" height="0"/>
+<!--LiveInternet logo-->
+<!--
+<a href="http://www.liveinternet.ru/click"
+target=_blank><img src="http://counter.yadro.ru/logo?58.3"
+title="LiveInternet"
+alt="" border=0 width=88 height=31></a>
+-->
+<!--/LiveInternet-->
+
+
+
+<script type="text/javascript" src="/tmv13.js"></script>
+
+<script language="JavaScript">
+	var img = new Image();
+	img.src = 'http://www.tns-counter.ru/V13a***' + document.referrer.replace(/\*/g,'%2a') + '*krykov_ru/ru/CP1251/tmsec=vzglyad_total/';
+</script>
+<noscript>
+	<img src="http://www.tns-counter.ru/V13a****krykov_ru/ru/CP1251/tmsec=vzglyad_total/" alt="">
+</noscript>
+
+
+</td>
+<td style="padding-left:5px">
+<a href="http://www.masterhost.ru/"><img src="http://img.vz.ru/images/masterhost.jpg" width="88" height="31" border="0" title=".masterhost" alt=".masterhost"/></a>
+<a href="http://itunes.apple.com/us/app/delovaa-gazeta-vzglad/id508017700"><img style="margin-bottom: 4px; margin-left: 20px" src="http://img.vz.ru/images/itunes.png" border="0" title="Apple iTunes" alt="Apple iTunes"/></a>
+<a href="https://play.google.com/store/apps/details?id=ru.vz"><img style="margin-bottom: 4px" src="http://img.vz.ru/images/android.png" border="0" title="Google Play" alt="Google Play"/></a>
+</td>
+<!--
+<td style="text-align:left;padding-left:5px"><a href="/about/reuters.html" style="color:#5B5758 !important;text-decoration:none"><img src="http://img.vz.ru/images/reuters.gif" width="62" height="12" alt="Reuters" border="0"><br />
+Информация<br />
+об&nbsp;ограничениях</a></td>-->
+</tr>
+</table>
+</td>
+<td class="right">
+
+<a class=w href=#top onClick="scrollTo(0,0); return false;">В начало страницы</a>&nbsp;&nbsp;&#8226;<br>
+<a class=w href="javascript:void(0)" onClick="return add_bookmark(location.href, document.title)">Поставить закладку</a>&nbsp;&nbsp;&#8226;<br>
+<a class=w href=/>На главную страницу</a>&nbsp;&nbsp;&#8226;<br>
+
+</td>
+</tr>
+</table>
+</div>
+<!--  AdRiver code START. Type:ZeroPixel Site: vz_ru PZ: 0 BN: 0 -->
+<script language="javascript" type="text/javascript"><!--
+var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
+document.write('<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?' + 'sid=54890&bt=21&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" border=0 width=1 height=1>')
+//--></script>
+<noscript><img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=54890&bt=21&pz=0&rnd=1644363451" border=0 width=1 height=1></noscript><!--  AdRiver code END  -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3626413-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!--Openstat-->
+<!--span id="openstat2055822"></span><script type="text/javascript"> var openstat = { counter: 2055822, next: openstat , track_links: "all" }; document.write(unescape("%3Cscript%20src=%22http" +
+(("https:" == document.location.protocol) ? "s" : "") +
+"://openstat.net/cnt.js%22%20defer=%22defer%22%3E%3C/script%3E")); </script-->
+<!--Openstat-->
+
+<div class="social-network-panel" id="social-network-panel" style="display: none; width:400px;height:280px;"><div class="title">Мы в социальных сетях</div><div class="network vkontakte"><div id="vk_groups_2"></div><script type="text/javascript">
+		VK.Widgets.Group("vk_groups_2", {mode: 1, width: "280px", height: "91px"}, 19976640);
+		</script></div><div class="network facebook"><div class="border"><div class="phm fbConnectWidgetHeaderTitleBranded"><div class="clearfix"><div class="lfloat"><span class="fsl">Мы в Facebook</span></div><span class="rfloat"><img width="60" height="17" alt="Facebook" src="/images/fb_logo_small.png"/></span></div></div><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fvzglyad&width=292&colorscheme=light&show_faces=false&border_color&stream=false&header=true&height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true"></iframe></div></div><div class="network twitter"><div class="border"><div class="header"><img src="/images/twitter.gif"/><span>Мы в Twitter</span></div><div class="body"><a href="http://twitter.com/vzglyad" class="twitter-follow-button" data-lang="ru">Follow @vzglyad</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div></div></div><div class="close"></div></div>
+
+</body></html>

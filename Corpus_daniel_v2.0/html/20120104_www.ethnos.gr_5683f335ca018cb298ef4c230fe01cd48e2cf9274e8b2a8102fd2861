@@ -1,0 +1,1420 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head><title>
+	Νέα Κρήτη - Παγκρήτια εφημερίδα - Το ατέλειωτο πάρτυ της μίζας στις εφορίες και τα τελωνεία
+</title><base href="http://www.neakriti.gr/" /><meta name="CODE_LANGUAGE" content="C#"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="keywords" content="ΝΕΑ ΚΡΗΤΗ, ΝΕΑ, NEWS, ΚΡΗΤΗ, CRETE,KRITI, ISLAND, ΕΙΔΗΣΕΙΣ, ΔΗΜΟΣΙΟΓΡΑΦΟΙ, ΕΦΗΜΕΡΙΔΑ, NEWSPAPERS,ΕΠΙΚΑΙΡΟΤΗΤΑ,ΓΝΩΜΗ, ΟΙΚΟΝΟΜΙΑ,ΑΘΛΗΤΙΚΑ,SPORTS,ΠΟΛΙΤΙΣΜΟΣ,LIFESTYLE
+,MEDIA , VIDEOS,AUDIO, ΧΡΗΣΙΜΑ,ΑΓΓΕΛΙΕΣ,ΕΝΘΕΤΑ,ΔΙΑΦΗΜΙΣΕΙΣ,ΦΩΤΟΓΡΑΦΙΕΣ ΗΜΕΡΑΣ,ΚΟΣΜΟΣ,ΕΛΛΑΔΑ,ΗΡΑΚΛΕΙΟ,ΡΕΘΥΜΝΟ,ΑΓ.ΝΙΚΟΛΑΟΣ,ΧΑΝΙΑ,ΤΑΞΙΔΙΑ,TRAVEL,
+ΤΟΠΟΙ,ΑΓΓΕΛΙΕΣ,ΟΦΗ,ΕΡΓΟΤΕΛΗΣ,ΕΦΗΜΕΡΕΥΟΝΤΑ,ΛΑΔΙ,CINEMA,ΚΑΙΡΟΣ,AUTOMOTO, BLOGS,PDF,ΖΩΑ,ΓΥΝΑΙΚΑ,SOCCER,ΨΥΧΑΓΩΓΙΑ,ΑΤΖΕΝΤΑ,AGENDA, ΕΚΔΗΛΩΣΕΙΣ,
+ΠΟΛΙΤΙΣΤΙΚΟΙ ΣΥΛΛΟΓΟΙ,ΜΑΓΕΙΡΙΚΗ,ΔΙΑΤΡΟΦΗ,ΚΟΥΣ ΚΟΥΣ,DIET,I-PHONE,ANDROID,TABLET,PC,APPLE,SMARTPHONES,JOURNALIST, ΒΙΒΛΙΟ, ΤΟΠΙΚΑ ΝΕΑ, ΚΡΗΤΙΚΑ ΝΕΑ"><meta property="fb:app_id" content="352885568098374"><link rel="stylesheet" href="styles/styles.css" type="text/css" />
+		
+		<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="js/jquery.tools.min.js"></script>
+		<script type="text/javascript" src="js/jquery.pngFix.js"></script> 
+		<script type="text/javascript" src="js/jquery.jshowoff.min.js"></script>
+		<script type="text/javascript" src="js/jquery.autocomplete-min.js"></script>
+		<script type='text/javascript' src="JWPlayer/silverlight.js"></script>
+		<script type='text/javascript' src="JWPlayer/audioplayer.js"></script>
+		<script type='text/javascript' src="JWPlayer/customwmvplayer.js"></script>
+		
+	    
+		<!--[if lt IE 7]>
+            <script defer type="text/javascript" src="js/pngfix.js"></script>
+        <![endif]-->
+        
+        
+        <script type="text/JavaScript">
+            function timedRefresh(timeoutPeriod) {
+                setTimeout("location.reload(true);", timeoutPeriod);
+            }
+            document.onload = timedRefresh(900000);
+        </script>
+            
+                <script type="text/javascript" src="js/redirection_mobile.js"></script>
+                <script>
+                    SA.redirection_mobile({
+                        mobile_url: "mobile.neakriti.gr/?docid=882054&srvid=96",
+                        mobile_prefix: "http",
+                        noredirection_param: "true",
+                        tablet_redirection: "false"
+                    });
+                </script><meta name="og:title" content="Το ατέλειωτο πάρτυ της μίζας στις εφορίες και τα τελωνεία"><meta name="og:url" content="http://www.neakriti.gr/default.aspx?page=newsdetail&amp;DocID=882054&amp;srv=96"><meta name="og:site_name" content="Νέα Κρήτη - Παγκρήτια εφημερίδα"><meta name="Description" content="Απίστευτες αποκαλύψεις για τη δράση των κυκλωμάτων που θησαύριζαν σε βάρος του Δημοσίου. Στις εφορίες κάποιοι υπάλληλοι «άνοιξαν σαμπάνιες», όταν το υπουργείο Οικονομικών εξήγγειλε ρυθμίσεις για περαίωση, ενώ τελωνειακοί εδώ και έναν χρόνο έχουν βραχυκυκλώσει την...
+
+εγκατάσταση μηχανισμού..."><meta name="og:description" content="Απίστευτες αποκαλύψεις για τη δράση των κυκλωμάτων που θησαύριζαν σε βάρος του Δημοσίου. Στις εφορίες κάποιοι υπάλληλοι «άνοιξαν σαμπάνιες», όταν το υπουργείο Οικονομικών εξήγγειλε ρυθμίσεις για..."><meta name="og:image" content="http://www.neakriti.gr/img/trans.gif"></head>
+	
+	
+
+<!-- iBox Portal Builder 2,5 - Copyright 2006-2012 Athens Technology Center (http://www.atc.gr) -->
+
+<body id="defBody" class="Body_Default">
+	    <form name="Form1" method="post" action="default.aspx?page=newsdetail&amp;DocID=882054&amp;srv=96" language="javascript" onsubmit="javascript:return WebForm_OnSubmit();" id="Form1">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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v8+FIM6xz4DOrc69zrHOvc+Ezrkgz4PPhM63zr0gzpPOtc+BzrzOsc69zq/OsTwvYT48YnIgLz4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgzqPPhc68zrzOsc+Hzq/OsSDPhM+Jzr0gz4fPic+Bz47OvSDPhM6/z4Ugzr3PjM+Ezr/PhSDOsc+Azq3Ovc6xzr3PhM65IM+Dz4TOtyDOs861z4HOvM6xzr3Ouc66zq4gzrrPhc+BzrnOsc+Bz4fOr86xIM+Dz4TOt869Li4uDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+PGEgaHJlZj0nP3BhZ2U9bmV3c2RldGFpbCZEb2NJRD0xMDI2MzMzJnNydj05Nic+z4DOtc+BzrnPg8+Dz4zPhM61z4HOsSZuYnNwOyZyYXF1bzwvYT48L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4NCiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj48dGQgY29sc3Bhbj0nMicgY2xhc3M9J2RvdHRlZCc+PC90ZD48L3RyPg0KICAgICAgICAgICAgICAgICAgICAgICAgPHRyPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48aW1nIHN0eWxlPSdtYXJnaW4tcmlnaHQ6NXB4JyBzcmM9J2h0dHA6Ly93d3cubmVha3JpdGkuZ3IvdGVtcC9DQUNIRV8xMDBYODBfMF8xMDAwODY4LkpQRycgYWx0PScnIGJvcmRlcj0nMCcgLz48L3RkPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0nP3BhZ2U9bmV3c2RldGFpbCZEb2NJRD0xMDI2MzEyJnNydj05Nic+zpHPgM6/z4fPic+BzrXOryDOsc+Az4wgz4TOt869IM63zrPOtc+Dzq/OsSDPhM6/z4UgzprOms6VIM63IM6RzrvOrc66zrEgzqDOsc+AzrHPgc6uzrPOsTs8L2E+PGJyIC8+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIM6Oz4PPhM61z4HOsSDOsc+Az4wgMjIgz4fPgc+Mzr3Ouc6xLCDOtyDOkc67zq3Ous6xIM6gzrHPgM6xz4HOrs6zzrEgzrHPhs6uzr3Otc65IM+Ezr8gz4TOuc68z4zOvc65IM+Ezr/PhSDOms6azpUuLi4uDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+PGEgaHJlZj0nP3BhZ2U9bmV3c2RldGFpbCZEb2NJRD0xMDI2MzEyJnNydj05Nic+z4DOtc+BzrnPg8+Dz4zPhM61z4HOsSZuYnNwOyZyYXF1bzwvYT48L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4NCiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj48dGQgY29sc3Bhbj0nMicgY2xhc3M9J2RvdHRlZCc+PC90ZD48L3RyPg0KICAgICAgICAgICAgICAgICAgICAgICAgPHRyPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48aW1nIHN0eWxlPSdtYXJnaW4tcmlnaHQ6NXB4JyBzcmM9J2h0dHA6Ly93d3cubmVha3JpdGkuZ3IvdGVtcC9DQUNIRV8xMDBYODBfMF8xMDA4NTY5LkpQRycgYWx0PScnIGJvcmRlcj0nMCcgLz48L3RkPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0nP3BhZ2U9bmV3c2RldGFpbCZEb2NJRD0xMDI2MzA3JnNydj05Nic+zqDOsc+AzrHOvc60z4HOrc6/z4U6IM6UzrXOvSDOs869z47Pgc65zrbOsSDPhM6/IM+AzrXPgc65zrXPh8+MzrzOtc69zr8gz4TOt8+CIM67zq/Pg8+EzrHPgi4uLjwvYT48YnIgLz4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgzpzigJkgzq3Ovc6xIM+EzrXPhM+BzrHPg86tzrvOuc60zr8gz4XPgM+MzrzOvc63zrzOsSDOus6xz4TOrc64zrXPg861IM6/IM+Az4HPjs63zr0gz4DPgc+JzrjPhc+Azr/Phc+BzrPPjM+CIM6TzrnPjs+BzrPOv8+CLi4uDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+PGEgaHJlZj0nP3BhZ2U9bmV3c2RldGFpbCZEb2NJRD0xMDI2MzA3JnNydj05Nic+z4DOtc+BzrnPg8+Dz4zPhM61z4HOsSZuYnNwOyZyYXF1bzwvYT48L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4NCiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj48dGQgY29sc3Bhbj0nMicgY2xhc3M9J2RvdHRlZCc+PC90ZD48L3RyPg0KICAgICAgICAgICAgICAgICAgICAgICAgPHRyPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48aW1nIHN0eWxlPSdtYXJnaW4tcmlnaHQ6NXB4JyBzcmM9J2h0dHA6Ly93d3cubmVha3JpdGkuZ3IvdGVtcC9DQUNIRV8xMDBYODBfMF8xMDA3Mzc1LkpQRycgYWx0PScnIGJvcmRlcj0nMCcgLz48L3RkPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0nP3BhZ2U9bmV3c2RldGFpbCZEb2NJRD0xMDI2MzA2JnNydj05Nic+NzYuNDQ0IG/OuSDPhs61z4TOuc69zr/OryDOtc65z4POsc66z4TOrc6/zrkgz4POtSDOkc6VzpkgzrrOsc65IM6kzpXOmSA8L2E+PGJyIC8+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE/Pgc65z4PPhM65zrrOv8+Azr/Ouc6uzrjOt866zrUgzr8gzrHPgc65zrjOvM+Mz4Igz4TPic69IM61zrnPg86xzrrPhM6tz4nOvSDPg8+EzrfOvSDOpM+BzrnPhM6/zrLOrM64zrzOuc6xIM6VzrrPgM6xzq/OtM61z4XPg863Li4uLg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PjxhIGhyZWY9Jz9wYWdlPW5ld3NkZXRhaWwmRG9jSUQ9MTAyNjMwNiZzcnY9OTYnPs+AzrXPgc65z4PPg8+Mz4TOtc+BzrEmbmJzcDsmcmFxdW88L2E+PC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+DQogICAgICAgICAgICAgICAgICAgICAgICA8dHI+PHRkIGNvbHNwYW49JzInIGNsYXNzPSdkb3R0ZWQnPjwvdGQ+PC90cj4NCiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+PGltZyBzdHlsZT0nbWFyZ2luLXJpZ2h0OjVweCcgc3JjPSdodHRwOi8vd3d3Lm5lYWtyaXRpLmdyL3RlbXAvQ0FDSEVfMTAwWDgwXzBfOTk1OTkwLkpQRycgYWx0PScnIGJvcmRlcj0nMCcgLz48L3RkPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0nP3BhZ2U9bmV3c2RldGFpbCZEb2NJRD0xMDI2Mjk4JnNydj05Nic+zpcgzrHOvc6xzrrOv86vzr3Pic+Dzrcgz4TOt8+CIM6VzpsuzpHOoy4gzrPOuc6xIM+EzrEgzrXPgM61zrnPg8+MzrTOuc6xIM+Dz4TOty4uLjwvYT48YnIgLz4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgzpHOvc6xzrrOv86vzr3Pic+DzrcgzrXOvs6tzrTPic+DzrUgzrfCoM6VzpsuzpHOoy4gzrPOuc6xIM61z4DOtc65z4PPjM60zrnOsSDPgM6/z4UgzrXOus+Ez4XOu86vz4fPhM63zrrOsc69IM+EzrEuLi4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj48YSBocmVmPSc/cGFnZT1uZXdzZGV0YWlsJkRvY0lEPTEwMjYyOTgmc3J2PTk2Jz7PgM61z4HOuc+Dz4PPjM+EzrXPgc6xJm5ic3A7JnJhcXVvPC9hPjwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+DQogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPg0KICAgICAgICAgICAgICAgICAgICAgICAgPHRyPjx0ZCBjb2xzcGFuPScyJyBjbGFzcz0nZG90dGVkJz48L3RkPjwvdHI+DQogICAgICAgICAgICAgICAgICAgICAgICA8dHI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjxpbWcgc3R5bGU9J21hcmdpbi1yaWdodDo1cHgnIHNyYz0naHR0cDovL3d3dy5uZWFrcml0aS5nci90ZW1wL0NBQ0hFXzEwMFg4MF8wXzEwMTU4NDIuSlBHJyBhbHQ9JycgYm9yZGVyPScwJyAvPjwvdGQ+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSc/cGFnZT1uZXdzZGV0YWlsJkRvY0lEPTEwMjYyNzAmc3J2PTk2Jz7Okc+Az4wgz4POrs68zrXPgc6xIM6/zrkgzrHOuc+Ezq7Pg861zrnPgiDOs865zrEgzrzOtc+EzrXOs86zz4HOsc+Gzq3PgiDPhs6/zrnPhM63z4TPjs69PC9hPjxiciAvPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDOkc+Az4wgz4POrs68zrXPgc6xIM6kzrXPhM6sz4HPhM63IDEwIM6Rz4DPgc65zrvOr86/z4Ugzq3Pic+CIM66zrHOuSDPhM65z4IgMjYgzpHPgM+BzrnOu86vzr/PhSDOuM6xIM68z4DOv8+Bzr/Pjc69IM6/zrkuLi4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj48YSBocmVmPSc/cGFnZT1uZXdzZGV0YWlsJkRvY0lEPTEwMjYyNzAmc3J2PTk2Jz7PgM61z4HOuc+Dz4PPjM+EzrXPgc6xJm5ic3A7JnJhcXVvPC9hPjwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+DQogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPg0KICAgICAgICAgICAgICAgICAgICAgICAgPHRyPjx0ZCBjb2xzcGFuPScyJyBjbGFzcz0nZG90dGVkJz48L3RkPjwvdHI+PC90YWJsZT5kAg8PZBYCZg9kFgJmD2QWCAIBDxYCHgRocmVmBUtodHRwOi8vd3d3Lm5lYWtyaXRpLmdyL2RlZmF1bHQuYXNweD9wYWdlPW5ld3NkZXRhaWwmRG9jSUQ9ODgyMDU0JnNydj05NiNUT1BkAgMPFgIfBgVLaHR0cDovL3d3dy5uZWFrcml0aS5nci9kZWZhdWx0LmFzcHg/cGFnZT1uZXdzZGV0YWlsJkRvY0lEPTg4MjA1NCZzcnY9OTYjVE9QZAIHDxYCHwYFS2h0dHA6Ly93d3cubmVha3JpdGkuZ3IvZGVmYXVsdC5hc3B4P3BhZ2U9bmV3c2RldGFpbCZEb2NJRD04ODIwNTQmc3J2PTk2I1RPUGQCCQ8WAh8GBUtodHRwOi8vd3d3Lm5lYWtyaXRpLmdyL2RlZmF1bHQuYXNweD9wYWdlPW5ld3NkZXRhaWwmRG9jSUQ9ODgyMDU0JnNydj05NiNUT1BkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRVfY3RsOTpfY3RsMDpzZWFyY2hCdG5F/ZD6SsThPxlOH9NU8qUsbIra4A==" />
+
+<script type="text/javascript">
+<!--
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+// -->
+</script>
+
+
+<script src="/WebResource.axd?d=Tw_DBmGfM6xC7T9QhUWxMZNnR_HOMgJ0D-gcsvqPm9LiDkGG8Yu7uYKxsZMQRrp9d0jt-kQ6nz3CS22SSHFSa3jzvw41&amp;t=634604497351482412" type="text/javascript"></script>
+
+<!-- start -->
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b98b3ee1493b96e"></script><script type="text/javascript">var addthis_config = { services_expanded: 'facebook, twitter, myspace, google, digg, live, delicious, stumbleupon, more'}</script> <script type='text/javascript'>
+                (function($) {
+                $.fn.jshowoff = function(settings) {
+                    var config = { animatePause: true, autoPlay: true, changeSpeed: 600, controls: true, controlText: { play: 'Play', pause: 'Pause', next: 'Next', previous: 'Previous' }, effect: 'fade', hoverPause: true, links: true, speed: 3000 }; if (settings) $.extend(true, config, settings); if (config.speed < (config.changeSpeed + 20)) { alert('jShowOff: Make speed at least 20ms longer than changeSpeed; the fades aren\'t always right on time.'); return this; }; this.each(function(i) {
+                        var $cont = $(this); var gallery = $(this).children().remove(); var timer = ''; var counter = 0; var preloadedImg = []; var howManyInstances = $('.jshowoff').length + 1; var uniqueClass = 'jshowoff-' + howManyInstances; var cssClass = config.cssClass != undefined ? config.cssClass : ''; $cont.css('position', 'relative').wrap('<div class="jshowoff ' + uniqueClass + '" />'); var $wrap = $('.' + uniqueClass); $wrap.css('position', 'relative').addClass(cssClass); $(gallery[0]).clone().appendTo($cont); preloadImg(); if (config.controls) { addControls(); if (config.autoPlay == false) { $('.' + uniqueClass + '-play').addClass(uniqueClass + '-paused jshowoff-paused').text(config.controlText.play); }; }; if (config.links) { addSlideLinks(); $('.' + uniqueClass + '-slidelinks a').eq(0).addClass(uniqueClass + '-active jshowoff-active'); }; if (config.hoverPause) { $cont.hover(function() { if (isPlaying()) pause('hover'); }, function() { if (isPlaying()) play('hover'); }); }; if (config.autoPlay && gallery.length > 1) { timer = setInterval(function() { play(); }, config.speed); }; if (gallery.length < 1) { $('.' + uniqueClass).append('<p>For jShowOff to work, the container element must have child elements.</p>'); }; function transitionTo(gallery, index) {
+                        var oldCounter = counter; if ((counter >= gallery.length) || (index >= gallery.length)) { counter = 0; var e2b = true; }
+                            
+                            else if ((counter < 0) || (index < 0)) { counter = gallery.length - 1; var b2e = true; }
+                            else { counter = index; }
+                            if (config.effect == 'slideLeft') { var newSlideDir, oldSlideDir; function slideDir(dir) { newSlideDir = dir == 'right' ? 'left' : 'right'; oldSlideDir = dir == 'left' ? 'left' : 'right'; }; counter >= oldCounter ? slideDir('left') : slideDir('right'); $(gallery[counter]).clone().appendTo($cont).slideIt({ direction: newSlideDir, changeSpeed: config.changeSpeed }); if ($cont.children().length > 1) { $cont.children().eq(0).css('position', 'absolute').slideIt({ direction: oldSlideDir, showHide: 'hide', changeSpeed: config.changeSpeed }, function() { $(this).remove(); }); }; } else if (config.effect == 'fade') { $(gallery[counter]).clone().appendTo($cont).hide().fadeIn(config.changeSpeed, function() { if ($.browser.msie) this.style.removeAttribute('filter'); }); if ($cont.children().length > 1) { $cont.children().eq(0).css('position', 'absolute').fadeOut(config.changeSpeed, function() { $(this).remove(); }); }; } else if (config.effect == 'none') { $(gallery[counter]).clone().appendTo($cont); if ($cont.children().length > 1) { $cont.children().eq(0).css('position', 'absolute').remove(); }; }; if (config.links) { $('.' + uniqueClass + '-active').removeClass(uniqueClass + '-active jshowoff-active'); $('.' + uniqueClass + '-slidelinks a').eq(counter).addClass(uniqueClass + '-active jshowoff-active'); };
+                        }; function isPlaying() { return $('.' + uniqueClass + '-play').hasClass('jshowoff-paused') ? false : true; }; function play(src) {
+                            if (!isBusy()) {
+                                counter++; transitionTo(gallery, counter); if (src == 'hover' || !isPlaying()) { timer = setInterval(function() { play(); }, config.speed); }
+                                if (!isPlaying()) { $('.' + uniqueClass + '-play').text(config.controlText.pause).removeClass('jshowoff-paused ' + uniqueClass + '-paused'); } 
+                            };
+                        }; function pause(src) { clearInterval(timer); if (!src || src == 'playBtn') $('.' + uniqueClass + '-play').text(config.controlText.play).addClass('jshowoff-paused ' + uniqueClass + '-paused'); if (config.animatePause && src == 'playBtn') { $('<p class="' + uniqueClass + '-pausetext jshowoff-pausetext">' + config.controlText.pause + '</p>').css({ fontSize: '62%', textAlign: 'center', position: 'absolute', top: '40%', lineHeight: '100%', width: '100%' }).appendTo($wrap).addClass(uniqueClass + 'pauseText').animate({ fontSize: '600%', top: '30%', opacity: 0 }, { duration: 500, complete: function() { $(this).remove(); } }); } }; function next() { goToAndPause(counter + 1); }; function previous() { goToAndPause(counter - 1); }; function isBusy() { return $cont.children().length > 1 ? true : false; }; function goToAndPause(index) { $cont.children().stop(true, true); if ((counter != index) || ((counter == index) && isBusy())) { if (isBusy()) $cont.children().eq(0).remove(); transitionTo(gallery, index); pause(); }; }; function preloadImg() { $(gallery).each(function(i) { $(this).find('img').each(function(i) { preloadedImg[i] = $('<img>').attr('src', $(this).attr('src')); }); }); }; function addControls() { $wrap.append('<p class="jshowoff-controls ' + uniqueClass + '-controls"><a class="jshowoff-play ' + uniqueClass + '-play" href="#null">' + config.controlText.pause + '</a> <a class="jshowoff-prev ' + uniqueClass + '-prev" href="#null">' + config.controlText.previous + '</a> <a class="jshowoff-next ' + uniqueClass + '-next" href="#null">' + config.controlText.next + '</a></p>'); $('.' + uniqueClass + '-controls a').each(function() { if ($(this).hasClass('jshowoff-play')) $(this).click(function() { isPlaying() ? pause('playBtn') : play(); return false; }); if ($(this).hasClass('jshowoff-prev')) $(this).click(function() { previous(); return false; }); if ($(this).hasClass('jshowoff-next')) $(this).click(function() { next(); return false; }); }); }; function addSlideLinks() { $wrap.append('<p class="jshowoff-slidelinks ' + uniqueClass + '-slidelinks"></p>'); $.each(gallery, function(i, val) { var linktext = $(this).attr('title') != '' ? $(this).attr('title') : i + 1; $('<a class="jshowoff-slidelink-' + i + ' ' + uniqueClass + '-slidelink-' + i + '" href="#null">' + linktext + '</a>').bind('click', { index: i }, function(e) { goToAndPause(e.data.index); return false; }).appendTo('.' + uniqueClass + '-slidelinks'); }); };
+                    }); return this;
+                    };
+                })(jQuery); (function($) { $.fn.slideIt = function(settings, callback) { var config = { direction: 'left', showHide: 'show', changeSpeed: 600 }; if (settings) $.extend(config, settings); this.each(function(i) { $(this).css({ left: 'auto', right: 'auto', top: 'auto', bottom: 'auto' }); var measurement = (config.direction == 'left') || (config.direction == 'right') ? $(this).outerWidth() : $(this).outerHeight(); var startStyle = {}; startStyle['position'] = $(this).css('position') == 'static' ? 'relative' : $(this).css('position'); startStyle[config.direction] = (config.showHide == 'show') ? '-' + measurement + 'px' : 0; var endStyle = {}; endStyle[config.direction] = config.showHide == 'show' ? 0 : '-' + measurement + 'px'; $(this).css(startStyle).animate(endStyle, config.changeSpeed, callback); }); return this; }; })(jQuery);
+                </script>
+                <script type='text/javascript' src='http://www.neakriti.gr/js/jquery.jcarousellite.pauseOnHover.js'></script>
+<script type='text/javascript' src='http://www.neakriti.gr/js/jquery.easing.1.3.js'></script>
+<script type='text/javascript'>  $(document).ready(function() { });</script>
+				<script language=javascript>
+					menuCurrentId = 0;
+					function VerticalMenu(current,child,image)
+					{
+						menuCurrentId  = current;
+				        
+						if (child+'' != '0' && false==false)
+						{
+							childMenu = document.getElementById(''+child+'');
+                            image = document.getElementById(''+image+'');
+				            
+							if (childMenu)
+							{
+								if (childMenu.style.display == 'none')
+								{
+									childMenu.style.display = 'block';
+									childMenu.style.visibility = 'visible';
+                                    image.src = 'img/main/links-bullet.gif';
+								}
+								else
+								{
+									childMenu.style.display = 'none';
+									childMenu.style.visibility = 'hidden';
+                                    image.src = 'img/main/links_bullet.gif';
+								}
+							}
+						}
+					}
+				</script>
+			
+<script src="/WebResource.axd?d=6UoxDoT1IFLnPyK7UGLD1k5csYDUzCR2SKO_UAI_Fimp0nf7DMeTVcO8ZMd8y1emiY3KDAauAAVdBNxkLZ-v6ErCrp01&amp;t=634604497351482412" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+var __cultureInfo = '{"name":"el-GR","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"μη αριθμός","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-Άπειρο","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"Άπειρο","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"πμ","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402293599999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, d MMMM yyyy h:mm:ss tt","LongDatePattern":"dddd, d MMMM yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"dd MMMM","PMDesignator":"μμ","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d/M/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Κυρ","Δευ","Τρι","Τετ","Πεμ","Παρ","Σαβ"],"ShortestDayNames":["Κυ","Δε","Τρ","Τε","Πε","Πα","Σά"],"DayNames":["Κυριακή","Δευτέρα","Τρίτη","Τετάρτη","Πέμπτη","Παρασκευή","Σάββατο"],"AbbreviatedMonthNames":["Ιαν","Φεβ","Μαρ","Απρ","Μαϊ","Ιουν","Ιουλ","Αυγ","Σεπ","Οκτ","Νοε","Δεκ",""],"MonthNames":["Ιανουάριος","Φεβρουάριος","Μάρτιος","Απρίλιος","Μάιος","Ιούνιος","Ιούλιος","Αύγουστος","Σεπτέμβριος","Οκτώβριος","Νοέμβριος","Δεκέμβριος",""],"IsReadOnly":true,"NativeCalendarName":"Γρηγοριανό Ημερολόγιο","AbbreviatedMonthGenitiveNames":["Ιαν","Φεβ","Μαρ","Απρ","Μαϊ","Ιουν","Ιουλ","Αυγ","Σεπ","Οκτ","Νοε","Δεκ",""],"MonthGenitiveNames":["Ιανουαρίου","Φεβρουαρίου","Μαρτίου","Απριλίου","Μαΐου","Ιουνίου","Ιουλίου","Αυγούστου","Σεπτεμβρίου","Οκτωβρίου","Νοεμβρίου","Δεκεμβρίου",""]}}';// -->
+</script>
+
+<script src="/ScriptResource.axd?d=p-sc7hSJsL6YhS-n8hgAB04qowZcFawQx8KevHlwQqw93Yq4sKZwOZh-cX7TkCZxsx_chtYrtDaN0UX8FSI_7n_DIUjV4xQtU9s5TpTpaShzN3_-R3vu66wbzWUXW3Ez0fcv-zSQxeZ7eZvkkHKe85XV_h81&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+// -->
+</script>
+
+       
+            
+		    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+			    <tr>
+				    			    
+				    <td valign="top" align="center">
+                        <table cellpadding="0" cellspacing="0" style="margin-left:-1px">
+                            <tr>
+                                <td valign="top" style="background-color:Transparent">
+                                    <div class="b-left-container">
+	                                    <div id="BANNER_LEFT" class="b-left"></div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <table cellpadding="0" cellspacing="0" border="0" width="940">
+					                    <tr valign="top">
+					                        <td class="NK_header" >
+					                            <table cellpadding="0" cellspacing="0" width="100%" border="0">
+					                                <tr>
+					                                    <td id="TOP" width="660" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td id="_ctl7__ctl0_HTML" style="width:100%">&nbsp; <a href="http://www.neakriti.gr/?Page=home"><img width="312" height="93" src="files/neakriti_logo.png" alt="" /></a><br /></td>
+</tr></table></td>
+
+					                                    <td id="TOP_RIGHT" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td id="_ctl8__ctl0_HTML" style="width:100%"><table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><iframe width="500" scrolling="no" height="44" frameborder="0" style="overflow: hidden" allowtransparency="allowtransparency" src="HeaderLinksExternal.aspx"></iframe></td>
+            <td valign="middle"><g:plusone size="small" href="http://www.neakriti.gr"></g:plusone><!-- Place this render call where appropriate --><script type="text/javascript">
+                    window.___gcfg = { lang: 'el' };
+
+                    (function() {
+                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                        po.src = 'https://apis.google.com/js/plusone.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                    })();
+                </script></td>
+        </tr>
+    </tbody>
+</table></td>
+</tr></table>
+
+<table cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td align="right">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td align="right">
+                        <table cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td align="right">
+                                    <a href="http://itunes.apple.com/us/app/id486803221?mt=8" target="_blank"><img src="img/NK/iphoneap.png" border="0" alt="iphone app" title="iphone app" /></a><br />
+                                    <a href="https://market.android.com/details?id=com.ioannisa.rssreadernk" target="_blank"><img src="img/NK/androidap.png" alt="android app" title="android app" border="0" /></a>
+                                </td>
+                                <td width="10px"></td>
+                                <td><a href="http://itunes.apple.com/us/app/id486803221?mt=8" target="_blank"><img src="img/NK/iphone.png" alt="iphone app" title="iphone app" border="0" /></a></td>
+                                <td><a href="https://market.android.com/details?id=com.ioannisa.rssreadernk" target="_blank"><img src="img/NK/android.png" alt="android app" title="android app" border="0" /></a></td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td align="right">
+                        <table cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td align="right">
+                                    <table cellspacing="0" cellpadding="0" border="0">
+                                        <tr>
+                                            <td style="vertical-align:top;text-align:right;"><input name="_ctl9:_ctl0:txtSearch" type="text" id="_ctl9__ctl0_txtSearch" name="txtSearch" style="width:170px;" /></td>
+                                            <td style="text-align:left;vertical-align:middle;padding-left:3px;">
+                                            <input type="image" name="_ctl9:_ctl0:searchBtn" id="_ctl9__ctl0_searchBtn" src="img/NK/search_bt.jpg" border="0" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;_ctl9:_ctl0:searchBtn&quot;, &quot;&quot;, true, &quot;searchGroup&quot;, &quot;&quot;, false, false))" language="javascript" />
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2" align="center" height="9">
+                                                <span controltovalidate="_ctl9__ctl0_txtSearch" focusOnError="t" errormessage="Συμπληρώστε κριτήριο αναζήτησης" display="None" validationGroup="searchGroup" id="_ctl9__ctl0_rfvRequired" evaluationfunction="RequiredFieldValidatorEvaluateIsValid" initialvalue="" style="color:Red;display:none;"></span>
+                                        <span controltovalidate="_ctl9__ctl0_txtSearch" focusOnError="t" errormessage="Εισάγετε λέξη με τουλάχιστον 3 χαρακτήρες." display="None" validationGroup="searchGroup" id="_ctl9__ctl0_regexSearch" evaluationfunction="RegularExpressionValidatorEvaluateIsValid" validationexpression=".{3,}" style="color:Red;display:none;"></span>
+                                    <div displaymode="List" validationGroup="searchGroup" id="_ctl9__ctl0_validationSummary" style="color:Yellow;font-size:11px;display:none;">
+
+</div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                  
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="right">
+                                    
+<table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td style="padding-right:5px;">
+            <a href="?page=kairos"><img src="http://www.neakriti.gr/Files/ImageGallery/Weather/16.png" alt="" width="30" height="30" border="0" /></a>
+        </td>
+        <td align="left">
+            <table border="0" cellspacing="1" cellpadding="1" >
+                <tr>
+                    <td align="left"><a href="?page=kairos"><span style="padding-right: 5px; color: #ffffff; font-size: 11px">Ηράκλειο, 12.2-19.4<sup>ο&nbsp;</sup>C</span></a>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td align="left"><a href="?page=kairos"><span style="padding-right: 5px; color: #ffffff; font-size: 11px">Τετάρτη 10 Απριλίου 2013</span></a></td>
+                </tr>
+            </table>
+        </td>
+        
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="10px"></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+
+
+
+</td>
+
+					                                </tr>
+					                            </table>
+					                        </td>
+					                    </tr>
+					                    <tr>
+					                        <td valign="top">
+					                            <table cellpadding="0" cellspacing="0" width="100%" border="0">
+					                                <tr>
+					                                    <td id="TOP_BANNER_LEFT" width="465" align="left"></td>
+
+					                                    <td width="10"></td>
+					                                    <td id="TOP_BANNER_RIGHT" valign="top"></td>
+
+					                                </tr>
+					                            </table>
+					                        </td>
+					                    </tr>
+						                <tr>
+							                <td valign="top" align="left">
+							                    <table cellpadding="0" cellspacing="0" width="940px" border="0" style="background-color:#ffffff">
+							                        <tr>
+						                                <td id="TOP_BANNER" colspan="2" valign="top" align="left" width="940px"></td>
+
+						                            </tr>
+							                        <tr>
+						                                <td id="TOP_CENTER" colspan="2" valign="top" align="left" width="940px">
+
+<script type="text/javascript" src="js/hoverIntent.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        $("ul.sf-menu").superfish({
+            pathClass: 'current'
+        });
+    });  
+</script>
+
+
+            <table cellpadding="0" cellspacing="0" width="940px" style="background-image:url(Files/ImageGallery/new_layout/mnu_back.jpg); background-repeat:repeat-x;">
+                <tr>
+                    <td id="_ctl10__ctl0_TOPMENU" align="center"><ul class='sf-menu sf-navbar'><li><a href='?Page=home'><img id='img_0' src='Files/ImageGallery/Menu/HOME_NEWS2..png' alt='' border='0' onmouseover="document.getElementById('img_0').src='Files/ImageGallery/Menu/HOME_NEWS2..png'" onmouseout="document.getElementById('img_0').src='Files/ImageGallery/Menu/HOME_NEWS2..png'" /></a><ul><li><a href='?Page=nea_topika'>ΚΡΗΤΗ</a><strong> | </strong></li><li><a href='?Page=nea_ellada'>ΕΛΛΑΔΑ</a><strong> | </strong></li><li><a href='?Page=nea_kosmos'>ΔΙΕΘΝΗ</a></li></ul></li><li><a href='?Page=gnomi'><strong>ΓΝΩΜΗ</strong></a><ul><li><a href='?Page=apopseis'>ΑΡΘΡΑ</a><strong> | </strong></li><li><a href='?Page=political_comments'>ΠΑΡΑΠΟΛΙΤΙΚΗ</a><strong> | </strong></li><li><a href='?Page=skitsa'>ΣΚΙΤΣΑ</a><strong> | </strong></li><li><a href='?Page=sinenteuxeis'>ΣΥΝΕΝΤΕΥΞΕΙΣ</a></li></ul></li><li><a href='?Page=oikonomia'><strong>ΟΙΚΟΝΟΜΙΑ</strong></a><ul><li><a href='?Page=oikonomia_news'>ΕΙΔΗΣΕΙΣ</a><strong> | </strong></li><li><a href='?Page=oikon_agores'>ΚΡΗΤΗ</a><strong> | </strong></li><li><a href='?Page=oikon_epixeiriseis'>ΕΠΙΧΕΙΡΗΣΕΙΣ</a><strong> | </strong></li><li><a href='?Page=oikon_diethnis'>ΔΙΕΘΝΗ</a><strong> | </strong></li><li><a href='?Page=oikonomia_ergasiaka'>ΕΡΓΑΣΙΑΚΑ</a><strong> | </strong></li><li><a href='?Page=oikonomia_agrotika'>ΑΓΡΟΤΙΚΑ</a><strong> | </strong></li><li><a href='?Page=oikonomia_taxes'>ΦΟΡΟΛΟΓΙΑ</a><strong> | </strong></li><li><a href='?Page=oikon_xrimatistirio'>ΧΡΗΜΑΤΙΣΤΗΡΙΟ</a></li></ul></li><li><a href='?Page=stiles'><strong>ΠΟΛΙΤΙΣΜΟΣ</strong></a><ul><li><a href='?Page=politismos'>ΕΙΔΗΣΕΙΣ</a><strong> | </strong></li><li><a href='?Page=books'>ΒΙΒΛΙΟ</a><strong> | </strong></li><li><a href='?Page=theatro'>ΤΕΧΝΕΣ</a><strong> | </strong></li><li><a href='?Page=sillogoi'>ΠΟΛΙΤΙΣΤΙΚΟΙ ΣΥΛΛΟΓΟΙ</a></li></ul></li><li><a href='?Page=perivalon'><strong>ΠΕΡΙΒΑΛΛΟΝ</strong></a></li><li><a href='?Page=technologia'><strong>ΤΕΧΝΟΛΟΓΙΑ</strong></a><ul><li><a href='?Page=internet'>ΔΙΑΔΙΚΤΥΟ</a><strong> | </strong></li><li><a href='?Page=gadgets'>GADGETS</a></li></ul></li><li><a href='?Page=athlitika'><img id='img_6' src='Files/ImageGallery/Menu/HOME_SPORT2..png' alt='' border='0' onmouseover="document.getElementById('img_6').src='Files/ImageGallery/Menu/HOME_SPORT2..png'" onmouseout="document.getElementById('img_6').src='Files/ImageGallery/Menu/HOME_SPORT2..png'" /></a><ul><li><a href='?Page=athlit_podosfairo'>ΠΟΔΟΣΦΑΙΡΟ</a><strong> | </strong></li><li><a href='?Page=athlit_basket'>ΜΠΑΣΚΕΤ</a><strong> | </strong></li><li><a href='?Page=athlit_mihanokinita'>ΜΗΧΑΝΟΚΙΝΗΤΑ ΣΠΟΡ</a><strong> | </strong></li><li><a href='?Page=athlit_allaspor'>ΑΛΛΑ ΣΠΟΡ</a><strong> | </strong></li><li><a href='?Page=athlit_stoihima'>ΣΤΟΙΧΗΜΑ</a><strong> | </strong></li><li><a href='http://www.neakriti.gr/?page=athlit_vathmoi&sport=soccer&categ=1&champ=90'>BΑΘΜΟΛΟΓΙΕΣ </a></li></ul></li><li><a href='?Page=arheio'><strong>ΕΝΤΥΠO PDF</strong></a><ul><li><a href='?Page=arheio'>H ΕΦΗΜΕΡΙΔΑ ΣΕ PDF</a><strong> | </strong></li><li><a href='?Page=entheta'>ΕΝΘΕΤΑ  ΣΕ PDF</a><strong> | </strong></li><li><a href='?Page=ilek_arheio'>ΗΛΕΚΤΡΟΝΙΚΟ ΑΡΧΕΙΟ</a></li></ul></li><li><a href='?Page=media'><strong>ΜΕDIA</strong></a></li></ul></td>
+
+                </tr>
+                
+            </table>
+      
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="js/hoverIntent.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        $("ul.sf-menu").superfish({
+            pathClass: 'current'
+        });
+    });  
+</script>
+
+
+            <table cellpadding="0" cellspacing="0" width="940px" style="background-image:url(Files/ImageGallery/new_layout/mnu_back.jpg); background-repeat:repeat-x;">
+                <tr>
+                    <td id="_ctl11__ctl0_TOPMENU" align="center"><ul class='sf-menu sf-navbar'><li><a href='?Page=lifestyle'><strong>LIFESTYLE</strong></a><ul><li><a href='?Page=life'>ΖΩΗ</a><strong> | </strong></li><li><a href='?Page=city'>ΠΟΛΗ</a><strong> | </strong></li><li><a href='?Page=paraxena'>ΠΑΡΑΞΕΝΑ</a><strong> | </strong></li><li><a href='?Page=kouskous'>ΚΟΥΣ ΚΟΥΣ</a></li></ul></li><li><a href='?Page=ekpaideysi'><strong>ΕΚΠΑΙΔΕΥΣΗ</strong></a><ul><li><a href='?Page=university'>ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ</a><strong> | </strong></li><li><a href='?Page=ite'>ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ & ΕΡΕΥΝΑΣ</a><strong> | </strong></li><li><a href='?Page=foitites'>ΦΟΙΤΗΤΕΣ</a></li></ul></li><li><a href='?Page=ygeia'><strong>ΥΓΕΙΑ</strong></a><ul><li><a href='?Page=diatrofi'>ΔΙΑΤΡΟΦΗ</a><strong> | </strong></li><li><a href='?Page=euphoria'>ΕΥΕΞΙΑ</a></li></ul></li><li><a href='?Page=gynaika'><strong>ΓΥΝΑΙΚΑ</strong></a><ul><li><a href='?Page=beauty'>ΟΜΟΡΦΙΑ</a><strong> | </strong></li><li><a href='?Page=fashion'>FASHION</a><strong> | </strong></li><li><a href='?Page=shopping'>SHOPPING</a><strong> | </strong></li><li><a href='?Page=mageiriki'>ΜΑΓΕΙΡΙΚΗ</a><strong> | </strong></li><li><a href='?Page=family'>ΟΙΚΟΓΕΝΕΙΑ</a><strong> | </strong></li><li><a href='?Page=child'>ΠΑΙΔΙ</a></li></ul></li><li><a href='?Page=taxidia'><strong>ΤΑΞΙΔΙΑ</strong></a><ul><li><a href='?Page=taxidia_kriti'>ΣΤΗΝ ΚΡΗΤΗ</a><strong> | </strong></li><li><a href='?Page=taxidia_ellada'>ΣΤΗΝ ΕΛΛΑΔΑ</a><strong> | </strong></li><li><a href='?Page=taxidia_exoteriko'>ΣΤΟ ΕΞΩΤΕΡΙΚΟ</a></li></ul></li><li><a href='?Page=entertainmet'><strong>ΨΥΧΑΓΩΓΙΑ</strong></a><ul><li><a href='?Page=cinema'>CINEMA</a><strong> | </strong></li><li><a href='?Page=music'>ΜΟΥΣΙΚΗ</a><strong> | </strong></li><li><a href='?Page=ekdiloseis'>ΕVENTS</a><strong> | </strong></li><li><a href='?Page=exodos'>ΕΞΟΔΟΣ</a><strong> | </strong></li><li><a href='?Page=agenda'>AGENDA</a></li></ul></li><li><a href='?Page=automoto'><strong>ΑUTOMOTO</strong></a><ul><li><a href='?Page=cars'>AYTOKINHTO</a><strong> | </strong></li><li><a href='?Page=moto'>ΜΟΤΟΣΙΚΛΕΤΑ</a><strong> | </strong></li><li><a href='?Page=apostaseis'>ΧΙΛΙΟΜΕΤΡΙΚΕΣ ΑΠΟΣΤΑΣΕΙΣ</a></li></ul></li><li><a href='?Page=blogs'><img id='img_7' src='Files/ImageGallery/Menu/HOME_BLOGS2..png' alt='' border='0' onmouseover="document.getElementById('img_7').src='Files/ImageGallery/Menu/HOME_BLOGS2..png'" onmouseout="document.getElementById('img_7').src='Files/ImageGallery/Menu/HOME_BLOGS2..png'" /></a></li><li><a href='?Page=xrisima'><strong>ΧΡΗΣΙΜΑ</strong></a><ul><li><a href='?Page=kairos'>Ο ΚΑΙΡΟΣ</a><strong> | </strong></li><li><a href='http://www.aggeliesneakriti.gr/default.aspx?page=home'>ΑΓΓΕΛΙΕΣ</a><strong> | </strong></li><li><a href='?Page=efimeries'>ΕΦΗΜΕΡΙΕΣ</a><strong> | </strong></li><li><a href='?Page=dromologia'>ΠΤΗΣΕΙΣ</a><strong> | </strong></li><li><a href='?Page=aktoploika'>ΠΛΟΙΑ</a><strong> | </strong></li><li><a href='?Page=tvprogram'>TV ΠΡΟΓΡΑΜΜΑ</a><strong> | </strong></li><li><a href='?Page=wroskopio'>ΩΡΟΣΚΟΠΙΟ</a><strong> | </strong></li><li><a href='?Page=newsletter_public'>Newsletters</a><strong> | </strong></li><li><a href='?Page=newsdesk'>Newsdesk</a><strong> | </strong></li><li><a href='?Page=i-phone'>ΝΕΑ ΚΡΗΤΗ ΜΟΒΙLE</a></li></ul></li></ul></td>
+
+                </tr>
+                
+            </table>
+      
+
+
+
+
+
+
+</td>
+
+						                            </tr>
+									                <tr>
+										                <td style="padding-top:10px;padding-right:8px;padding-left:5px" valign="top" align="left" width="620px" >
+										                    <table cellpadding="0" cellspacing="0">
+										                        <tr>
+										                            <td id="MIDDLE" colspan="3" valign="top" align="left">
+<div id="Main" style="width:auto">
+    
+</div>
+
+<style type="text/css">
+.NA_NewsItem_HomeHeadline__ctl13
+{
+    color:#1f3e65;
+    font-size: 18px;
+    font-weight:bold;
+}
+
+.NA_NewsItem_DateTime__ctl13
+{
+    color:#666666;
+    font-size: 12px;
+}
+a.NA_NewsItem_HomeHeadline_List__ctl13:link 
+{
+    color:			#333333; 
+    font-size:		16px;
+}      
+
+a.NA_NewsItem_HomeHeadline__ctl13:link 
+{
+	color:#1f3e65;
+    font-size: 18px;
+    font-weight:bold;
+}      
+a.NA_NewsItem_HomeHeadline__ctl13:visited 
+{
+	color:#1f3e65;
+    font-size: 18px;
+    font-weight:bold;
+}  
+a.NA_NewsItem_HomeHeadline__ctl13:hover 
+{
+	color:#cc0000;
+    font-size: 18px;
+    font-weight:bold;
+    text-decoration:underline;
+}  
+a.NA_NewsItem_HomeHeadline__ctl13:active 
+{
+	color:#cc0000;
+    font-size: 18px;
+    font-weight:bold;
+}
+a.NA_NewsItem_Relevant_Link__ctl13:link 
+{
+    color:			#333333; 
+    font-size:		12px;
+    background-color:Transparent;
+}
+a.NA_NewsItem_Relevant_Link__ctl13:visited 
+{
+    color:			#333333; 
+    font-size:		12px;
+    background-color:Transparent;
+}  
+a.NA_NewsItem_Relevant_Link__ctl13:hover 
+{
+    color:			#e40d21; 
+    font-size:		12x;
+    background-color:Transparent;
+}  
+a.NA_NewsItem_Relevant_Link__ctl13:active 
+{
+    color:			#e40d21; 
+    font-size:		12px;
+}
+.NA_NewsItem_Relevant_Link_bg__ctl13
+{
+	background-image:url(Files/ImageGallery/new_layout/sxetikes_eidhseis_back.jpg); 
+    background-repeat:repeat-x;
+    width:600px;
+    height:37px;
+    padding-left:5px;
+    line-height:37px;
+}
+
+.NA_NewsItem_SxetikesEidiseis_Head__ctl13
+{
+	color:			#999999; 
+    font-size:		15pt;
+    font-weight:    bold;
+}
+.NA_NewsItem_HomeSubTitle__ctl13
+{
+    color:#666666;
+    font-size: 12px;
+}
+.NA_NewsItem_NAText__ctl13
+{
+	color:#666666;
+    font-size: 12px !important;
+    font-family:Verdana !important;
+}
+
+.NA_NewsItem_NAText__ctl13 div
+{
+	color:#666666;
+    font-family:Verdana !important;
+}
+
+.NA_NewsItem_NAText__ctl13 a
+{
+	color:blue !important;
+    font-size: 12px !important;
+    font-family:Verdana !important;
+    text-decoration:underline !important;
+}
+
+.NA_NewsItem_NAText__ctl13 div a
+{
+	color:blue !important;
+    font-size: 12px !important;
+    font-family:Verdana !important;
+    text-decoration:underline !important;
+}
+
+.NA_NewsItem_NAText__ctl13 span
+{
+	color:#666666;
+    font-family:Verdana !important;
+}
+
+.NA_NewsItem_NAText__ctl13 span a
+{
+	color:blue !important;
+    font-size: 12px !important;
+    font-family:Verdana !important;
+    text-decoration:underline !important;
+}
+
+.NA_NewsItem_NAInitiator__ctl13
+{
+    
+}
+.NA_NewsItem_PhotoText__ctl13
+{
+    color:#666666;
+    font-size: 10px;
+    width:100%;
+}
+</style>
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td id="_ctl13_Center" valign="top" style=" background-attachment:fixed;">
+		
+
+<script type="text/javascript">
+    function showPlayer() {
+        
+        $('#mediaspace').css('visibility', 'visible');
+        $('#mediaspace').css('width', '618px');
+        $('#mediaspace').css('height', '22px');
+        
+
+        if (plyAudioPlayer.view) {
+            plyAudioPlayer.sendEvent('PLAY');
+        } else {
+            setTimeout(startPlayer, 100);
+        }
+    }
+
+    function startPlayer() {
+        try {
+            plyAudioPlayer.sendEvent('PLAY');
+        }
+        catch (ex) { }
+    }
+    
+    
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0" width="620px">
+	<tr>
+		<td id="_ctl13__ctl0_LeftPanel" valign="bottom">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" class="En_NewsItem_MainTable__ctl13">
+				<tr>
+					<td id="_ctl13__ctl0_NAMainImage" style="vertical-align:top;text-align:left;"><img class='NA_NewsItem_Photo__ctl13' src='http://www.neakriti.gr/temp/CACHE_620X620_1_882055.JPG' border='0' /></td>
+
+					
+				</tr>
+				<tr>
+					<td id="_ctl13__ctl0_NAImageLezanta" style="vertical-align:top;text-align:left;"><span class='NA_NewsItem_PhotoText__ctl13'></span></td>
+
+					
+				</tr>
+				<tr style="height:10px;"><td colspan="2"></td></tr>
+				<tr>
+			        <td id="_ctl13__ctl0_NATitle" style="vertical-align:top;text-align:left;"><span class='NA_NewsItem_HomeHeadline__ctl13'>Το ατέλειωτο πάρτυ της μίζας στις εφορίες και τα τελωνεία</span><br/></td>
+
+			        
+			    </tr>
+			    <tr id="_ctl13__ctl0_trNormalPlayer">
+	<td colspan="2">
+			        <div name="mediaspace" id="mediaspace" style="visibility: hidden; width: 1px; height: 1px;"></div>
+                        <script type='text/javascript' src="JWPlayer/silverlight.js"></script>
+                        <script type='text/javascript' src="JWPlayer/audioplayer.js"></script>
+                        <script type="text/javascript">
+                            var cnt = document.getElementById("mediaspace");
+                            var src = 'JWPlayer/audioplayer.xaml';
+                            var cfg = {
+                                file: '',
+                                image: '',
+                                height: '20',
+                                width: '618',
+                                backcolor: '010101',
+                                frontcolor: 'cf161c',
+                                showdigits: false
+                            };
+                            var plyAudioPlayer = new jeroenwijering.Player(cnt, src, cfg); ;
+	                    </script>
+			        </td>
+</tr>
+
+			    
+			    <tr>
+                    <td id="_ctl13__ctl0_NADateRegion" align="left" valign="top"> <span class='NA_NewsItem_DateTime__ctl13'></span></td>
+
+                    
+                </tr>
+				<tr>
+			        <td id="_ctl13__ctl0_NaSubTitle" style="vertical-align:top;text-align:left;"></td>
+
+			        
+			    </tr>
+				<tr>
+					<td id="_ctl13__ctl0_NABodyText" style="vertical-align:top;text-align:left;"><p><table cellpadding='0' cellspacing='0'><tr><td><div class='NA_NewsItem_NAText__ctl13'>Απίστευτες αποκαλύψεις για τη δράση των κυκλωμάτων που θησαύριζαν σε βάρος του Δημοσίου. Στις εφορίες κάποιοι υπάλληλοι «άνοιξαν σαμπάνιες», όταν το υπουργείο Οικονομικών εξήγγειλε ρυθμίσεις για περαίωση, ενώ τελωνειακοί εδώ και έναν χρόνο έχουν βραχυκυκλώσει την...<br /><br />εγκατάσταση μηχανισμού ελέγχου στα βενζινάδικα για την αποτροπή λαθρεμπορίου καυσίμων. Στον ίδιο «ρυθμό» και στελέχη της Δημοτικής Αστυνομίας που ενέχονται στη μαφία του παραεμπορίου<br /><br /><br />Ενα ατέλειωτο πάρτι μίζας στις εφορίες και στα τελωνεία σε βάρος των φορολογουμένων έχει στηθεί από επίορκους υπαλλήλους, όπως αποκαλύπτει δικαστική έρευνα.<br /><br />Την ίδια στιγμή, ανώτερο στέλεχος του υπουργείου Ανάπτυξης, Ανταγωνιστικότητας και Ναυτιλίας σε συνομιλία που είχε χθες με δημοσιογράφους αφήνει αιχμές για συμμετοχή υπαλλήλων της Δημοτικής Αστυνομίας μεγάλων δήμων στο παραεμπόριο, ενώ γνωστοποιεί την αντίδραση τελωνειακών και εφοριακών στην εγκατάσταση του συστήματος εισροών - εκροών καυσίμων στα βενζινάδικα, με αποτέλεσμα το λαθρεμπόριο να οργιάζει...<br /><br />Πιο συγκεκριμένα η έρευνα των δικαστικών αρχών βγάζει στο φως τη δράση κυκλώματος εφοριακών που «κούρευαν», κατά το δοκούν, τα πρόστιμα περαίωσης. Δικαστική λειτουργός εντόπισε περίπτωση ανώνυμης εταιρείας που πλήρωσε για περαίωση εξαετίας μόλις 20.000 ευρώ έναντι παραβάσεων ύψους 620.000 ευρώ.<br /><br /><br />Αποκαλυπτικές είναι και οι καταγγελίες αξιωματούχου του υπουργείου Ανάπτυξης, σύμφωνα με τις οποίες εδώ κι έναν χρόνο «ο μηχανισμός του υπουργείου Οικονομικών, εφοριακοί και τελωνειακοί αλλά κι έμποροι πετρελαιοειδών αντιδρούν στην τοποθέτηση του ειδικού συστήματος μέτρησης εισροών - εκροών καυσίμων στις δεξαμενές των βενζινάδικων».<br /><br />Με το σύστημα αυτό αντιμετωπίζεται δραστικά η παράνομη διακίνηση βενζίνης και ντίζελ, που στερεί στο Δημόσιο 500 εκατ. έως και 1 δισ. ευρώ ετησίως. Απαιτείται η έκδοση απόφασης από το υπουργείο Οικονομικών και στις 14 Δεκεμβρίου, έναν χρόνο μετά την πρώτη απόφαση των υπουργείων Ανάπτυξης και Μεταφορών, ο υπουργός Οικονομικών Ευάγγελος Βενιζέλος έδωσε εντολή να εκδοθεί και η απόφαση που λαμβάνει ως φορολογικά στοιχεία τις ποσότητες εισόδου κι εξόδου καυσίμων βάσει του ειδικού μηχανισμού μέτρησης.<br /><br />Το ίδιο στέλεχος κάνει λόγο πως «η ΕΥΠ παρακολουθεί κορυφαία στελέχη της Δημοτικής Αστυνομίας μεγάλων δήμων. Ερευνά αν εμπλέκονται σε παραεμπόριο». Η λαθραία διακίνηση παράνομων εμπορευμάτων κοστίζει φόρους 4,5 με 5 δισ. ευρώ ετησίως στο Δημόσιο.<br /><br />Η υψηλόβαθμη πηγή περιγράφει τις κόντρες ανάμεσα στα υπουργεία Ανάπτυξης και Οικονομικών για την εγκατάσταση του συστήματος εισροών - εκροών καυσίμων, αλλά και την απροθυμία συνεργασίας του ΣΔΟΕ στο παραεμπόριο.<br /><br />Ανατριχιαστικές... είναι και οι αφηγήσεις για τους τρόπους της λαθραίας εμπορίας πετρελαιοειδών και βιομηχανικών προϊόντων.<br /><br />20.000 € ΑΝΤΙ ΓΙΑ 620.000 ΕΥΡΩ<br />Το κόλπο με την περαίωση<br /><br />Αφορμή για τη δικαστική έρευνα, που «δείχνει» την ύπαρξη κυκλώματος, το οποίο «κούρευε» πρόστιμα περαίωσης από φορολογούμενους, ήταν -σύμφωνα με πληροφορίες- η... παρατηρητικότητα δικαστικής λειτουργού στο Διοικητικό Πρωτοδικείο.<br /><br />Η ίδια εξετάζοντας την περίπτωση ανώνυμης εταιρείας εντόπισε αναντιστοιχία μεταξύ των φορολογικών παραβάσεών της σε σχέση με το μικρό πρόστιμο που πλήρωσε για περαίωση εξαετίας και το οποίο έφτανε μόλις τα 20.000 ευρώ. Η δικαστική λειτουργός το έψαξε ζητώντας στοιχεία από το υπουργείο Οικονομικών και διαπιστώθηκε ότι η εν λόγω εταιρεία αντί των 20.000 ευρώ έπρεπε να πληρώσει πρόστιμο 620.000 ευρώ.<br /><br />Σύμφωνα με τις πληροφορίες από τα στοιχεία που της εστάλησαν, φάνηκε ότι οι αρμόδιοι υπάλληλοι, που είχαν ελέγξει την εταιρεία, είχαν καταχωρίσει στο σύστημα Taxis συνολικά... τρία σημειώματα. Σύμφωνα με το πρώτο, έπρεπε η εταιρεία να καταβάλει για την περαίωση 420.000 ευρώ, σύμφωνα με το δεύτερο 20.000 ευρώ, ενώ στο τρίτο 620.000 ευρώ. Ωστόσο, η εν λόγω υπόθεση είχε περαιωθεί με το εκκαθαριστικό που ζητούσε 20.000 ευρώ.<br /><br /><br />ΕΘΝΟΣ</div></td></tr></table></p><br /></td>
+
+					
+				</tr>
+				<tr>
+					<td id="_ctl13__ctl0_NAInitiator" style="vertical-align:top;text-align:left;"></td>
+
+					
+				</tr>
+				<tr>
+					<td id="_ctl13__ctl0_NAPdf" style="vertical-align:top;text-align:left;"></td>
+
+					
+				</tr>
+				<tr>
+	                <td id="_ctl13__ctl0_NABottom" style="color:#666666; vertical-align:top;">
+	                    <table width="100%" cellpadding="0" cellspacing="0">
+	                        <tr>
+	                            <td><span id="_ctl13__ctl0_lblForward" style="width:135px;">
+	                                 <!-- AddThis Button BEGIN -->
+                                        <div class="addthis_toolbox addthis_default_style">
+                                           <a class="addthis_button_facebook"></a>    
+                                           <a id="_ctl13__ctl0_AddThisTwitter" class="addthis_button_twitter" addthis:title="Το ατέλειωτο πάρτυ της μίζας στις εφορίες και τα τελωνεία - "></a>  
+                                            <a class="addthis_button_email"></a>
+                                            <span class="addthis_separator">|</span>
+                                            <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b98b3ee1493b96e" class="addthis_button_expanded" style="font-size:12px;">Περισσότερα</a>
+                                        </div>
+                                        <!-- AddThis Button END -->
+                                        </span>
+	                            </td>
+	                            <td style="text-align:right;"><span id="_ctl13__ctl0_lblPrint"><a href='?page=printerfriendly&DocID=882054&srv=96' target='_blank'><img src='Files/ImageGallery/CssImages/print_bt.jpg' alt='' border='0' style='vertical-align:middle;' />&nbsp;&nbsp;<span class='NA_NewsItem_HomeSubTitle__ctl13'>Εκτύπωση</span></a></span></td>
+	                        </tr>
+	                        <tr>
+	                            <td colspan="3">&nbsp;
+                                </td>
+	                        </tr>
+	                        <tr>
+	                            <td colspan="3" style="padding-bottom:5px">
+                                    <g:plusone size="medium" annotation="inline"></g:plusone>
+
+                                    <!-- Place this render call where appropriate -->
+                                    <script type="text/javascript">
+                                        window.___gcfg = { lang: 'el' };
+
+                                        (function() {
+                                            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                            po.src = 'https://apis.google.com/js/plusone.js';
+                                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                                        })();
+                                    </script>
+	                            </td>
+	                        </tr>
+	                        <tr>
+	                            <td colspan="3">
+	                                <div id="fb-root"></div><script src="http://connect.facebook.net/el_GR/all.js#xfbml=1"></script><fb:like href="" send="true" width="450" show_faces="true" font="verdana"></fb:like>
+	                            </td>
+	                        </tr>
+	                    </table>
+	                </td>
+
+	                
+                </tr>
+				<tr>
+				    <td style="border-bottom: dotted 2px #999999;line-height:1px;">&nbsp;</td>
+				    <td style="border-bottom: dotted 2px #999999;line-height:1px;">&nbsp;</td>
+				</tr>
+				<tr>
+                    <td colspan="2">
+                        <br />
+                        <fb:comments title="" numposts="10" width="620" colorscheme="light" href="http://www.neakriti.gr/default.aspx?page=newsdetail&DocID=882054&srv=96">
+                    </td>
+                </tr>
+			</table>
+		</td>
+
+	</tr>
+</table>
+
+<script type="text/javascript">
+    
+</script>
+</td>
+
+	</tr>
+</table>
+<!-- Banner Zone Start -->
+
+    <script type="text/javascript">
+        
+        $(document).ready(function() {
+            var RotateSpeed = $('#_ctl14__ctl0_hfBannerSpeed').val();
+            $('#features_1314').jshowoff(
+                {
+                    speed: RotateSpeed,
+                    controls: false,
+                    hoverPause: false,
+                    links: false,
+                    effect: 'none'
+                });
+            $('#features_holder_1314').removeClass("m_banner_hide");
+            $('#features_holder_1314').addClass("m_banner_show");
+        });
+        function floatClose(objId) {
+            objId = '#' + objId;
+            $(objId).removeClass("m_banner_show");
+            $(objId).addClass("m_banner_hide");
+            return false;
+        }
+    </script>
+    <style type="text/css">
+    .m_banner_hide{
+	    display:none;
+    }
+    .m_banner_show{
+	    display:block;
+    }
+    </style> 
+
+<span id="_ctl14__ctl0_lbSpacerTop"><br/></span>
+<input type="hidden" name="_ctl14:_ctl0:hfBannerSpeed" id="_ctl14__ctl0_hfBannerSpeed" value="12000" />
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="">
+<tr><td align="center" valign="top" id="features_holder_1314" class="m_banner_hide">
+    
+                                        <table cellspacing='0' cellpadding='0' border='0' width='620px'>
+                                            <tr><td align='center' width='620px' height='176px'>
+                                            <a href='http://www.neakriti.gr/BannerRedirect.aspx?bannerID=247&amp;portletID=1314&amp;pageID=10&amp;target=http://www.apolymansi.gr&amp;targetType=2' target="_blank"><img alt='' src='http://www.neakriti.gr/Files/AdvBanners/247.jpg' border='0' /></a>
+                                            </td></tr>
+                                        </table>
+</td></tr>
+</table>
+
+
+
+
+<!-- Banner Zone End -->
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td id="_ctl15__ctl0_HTML" style="width:100%"><br />
+<br />
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2829208774884013";
+/* Banner esoteriko */
+google_ad_slot = "9604174046";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script> <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
+</tr></table>
+
+<style type="text/css">
+.NA_NewsItem_HomeHeadline__ctl16
+{
+    color:#1f3e65;
+    font-size: 18px;
+    font-weight:bold;
+}
+
+.NA_NewsItem_DateTime__ctl16
+{
+    color:#666666;
+    font-size: 12px;
+}
+a.NA_NewsItem_HomeHeadline_List__ctl16:link 
+{
+    color:			#333333; 
+    font-size:		16px;
+}      
+
+a.NA_NewsItem_HomeHeadline__ctl16:link 
+{
+	color:#1f3e65;
+    font-size: 18px;
+    font-weight:bold;
+}      
+a.NA_NewsItem_HomeHeadline__ctl16:visited 
+{
+	color:#1f3e65;
+    font-size: 18px;
+    font-weight:bold;
+}  
+a.NA_NewsItem_HomeHeadline__ctl16:hover 
+{
+	color:#cc0000;
+    font-size: 18px;
+    font-weight:bold;
+    text-decoration:underline;
+}  
+a.NA_NewsItem_HomeHeadline__ctl16:active 
+{
+	color:#cc0000;
+    font-size: 18px;
+    font-weight:bold;
+}
+a.NA_NewsItem_Relevant_Link__ctl16:link 
+{
+    color:			#333333; 
+    font-size:		12px;
+    background-color:Transparent;
+}
+a.NA_NewsItem_Relevant_Link__ctl16:visited 
+{
+    color:			#333333; 
+    font-size:		12px;
+    background-color:Transparent;
+}  
+a.NA_NewsItem_Relevant_Link__ctl16:hover 
+{
+    color:			#e40d21; 
+    font-size:		12x;
+    background-color:Transparent;
+}  
+a.NA_NewsItem_Relevant_Link__ctl16:active 
+{
+    color:			#e40d21; 
+    font-size:		12px;
+}
+.NA_NewsItem_Relevant_Link_bg__ctl16
+{
+	background-image:url(Files/ImageGallery/new_layout/sxetikes_eidhseis_back.jpg); 
+    background-repeat:repeat-x;
+    width:600px;
+    height:37px;
+    padding-left:5px;
+    line-height:37px;
+}
+
+.NA_NewsItem_SxetikesEidiseis_Head__ctl16
+{
+	color:			#999999; 
+    font-size:		15pt;
+    font-weight:    bold;
+}
+.NA_NewsItem_HomeSubTitle__ctl16
+{
+    color:#666666;
+    font-size: 12px;
+}
+.NA_NewsItem_NAText__ctl16
+{
+	color:#666666;
+    font-size: 12px !important;
+    font-family:Verdana !important;
+}
+
+.NA_NewsItem_NAText__ctl16 div
+{
+	color:#666666;
+    font-family:Verdana !important;
+}
+
+.NA_NewsItem_NAText__ctl16 a
+{
+	color:blue !important;
+    font-size: 12px !important;
+    font-family:Verdana !important;
+    text-decoration:underline !important;
+}
+
+.NA_NewsItem_NAText__ctl16 div a
+{
+	color:blue !important;
+    font-size: 12px !important;
+    font-family:Verdana !important;
+    text-decoration:underline !important;
+}
+
+.NA_NewsItem_NAText__ctl16 span
+{
+	color:#666666;
+    font-family:Verdana !important;
+}
+
+.NA_NewsItem_NAText__ctl16 span a
+{
+	color:blue !important;
+    font-size: 12px !important;
+    font-family:Verdana !important;
+    text-decoration:underline !important;
+}
+
+.NA_NewsItem_NAInitiator__ctl16
+{
+    
+}
+.NA_NewsItem_PhotoText__ctl16
+{
+    color:#666666;
+    font-size: 10px;
+    width:100%;
+}
+</style>
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td id="_ctl16_Center" valign="top" style=" background-attachment:fixed;">
+		
+
+<table border="0" cellpadding="0" cellspacing="0" width="600px">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="1" cellspacing="5" class="En_NewsItem_MainTable__ctl16">
+                <tr>
+					<td id="_ctl16__ctl0_NARefText" style="vertical-align:middle;"></td>
+
+				</tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+</td>
+
+	</tr>
+</table>
+
+<style type="text/css">
+.NA_MainArticleHeader__ctl17
+{
+    color:#2e3192;
+    font-size: 14px;
+    font-weight:bold;
+}
+
+.NA_DateTime__ctl17
+{
+    color:#666666;
+    font-size: 12px;
+    font-weight:bold;
+}
+
+.NA_MainArticleHeader__ctl17 a:link 
+{
+	color:#2e3192;
+    font-size: 14px;
+    font-weight:bold;
+}
+      
+.NA_MainArticleHeader__ctl17 a:visited 
+{
+	color:#2e3192;
+    font-size: 14px;
+    font-weight:bold;
+}
+  
+.NA_MainArticleHeader__ctl17 a:hover 
+{
+	color:#cc0000;
+    font-size: 14px;
+    font-weight:bold;
+}  
+
+.NA_MainArticleHeader__ctl17 a:active 
+{
+	color:#cc0000;
+    font-size: 14px;
+    font-weight:bold;
+}
+
+.NA_ArticleHeader__ctl17
+{
+    color:#2e3192;
+    font-size: 12px;
+    padding:0px 7px 0px 7px;
+    text-align:left;
+    font-weight:bold;
+}
+
+.NA_ArticleHeader__ctl17 a:link 
+{
+	color:#2e3192;
+    font-size: 12px;
+    font-weight:bold;
+}
+      
+.NA_ArticleHeader__ctl17 a:visited 
+{
+	color:#1f3e65;
+    font-size: 12px;
+    font-weight:bold;
+}
+  
+.NA_ArticleHeader__ctl17 a:hover 
+{
+	color:#cc0000;
+    font-size: 12px;
+    font-weight:bold;
+}  
+
+.NA_ArticleHeader__ctl17 a:active 
+{
+	color:#cc0000;
+    font-size: 12px;
+    font-weight:bold;
+}
+
+.NA_ListArticleHeader__ctl17
+{
+    color:#2e3192;
+    font-size: 14px;
+    text-align:left;
+    font-weight:bold;
+}
+
+.NA_ListArticleHeader__ctl17 a:link 
+{
+	color:#2e3192;
+    font-size: 14px;
+    font-weight:bold;
+}
+      
+.NA_ListArticleHeader__ctl17 a:visited 
+{
+	color:#1f3e65;
+    font-size: 14px;
+    font-weight:bold;
+}
+  
+.NA_ListArticleHeader__ctl17 a:hover 
+{
+	color:#cc0000;
+    font-size: 14px;
+    font-weight:bold;
+}  
+
+.NA_ListArticleHeader__ctl17 a:active 
+{
+	color:#cc0000;
+    font-size: 14px;
+    font-weight:bold;
+}
+
+
+.NA_Header__ctl17
+{
+    background-image:url(img/NK/title_red.gif);
+    background-repeat:repeat-x;
+    height:32px;
+    font-size:12px;
+    text-align:center;
+    color:#ffffff;
+    font-weight:bold;
+}
+
+.NA_HeaderRight__ctl17
+{
+    background-image:url(img/NK/title_grey.gif);
+    background-repeat:repeat-x;
+    height:32px;
+    font-size:12px;
+    color:#ffffff;
+    font-weight:bold;
+}
+
+.NA_Header__ctl17 a
+{
+    font-size:12px;
+    text-decoration:none;
+    color:#ffffff;
+    font-weight:bold;
+}
+
+.carousel__ctl17
+{
+	
+}
+
+.carousel__ctl17 li
+{
+   width:114px;
+   height:180px;
+   float:left;
+   text-align:center;
+   list-style-type:none;
+}
+
+.next__ctl17
+{
+   cursor:pointer;
+}
+
+.prev__ctl17
+{
+   cursor:pointer;
+}
+
+.listImg__ctl17
+{
+	float:left;
+	margin-right:10px;
+	margin-bottom:2px;
+}
+
+</style>
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td id="_ctl17_Center" valign="top" style=" background-attachment:fixed;">
+		
+
+<!--Make sure your page contains a valid doctype at the very top-->
+<script type="text/javascript" src="http://www.neakriti.gr//Admin/Include/PortalScripts.aspx"></script>
+
+<script type="text/javascript">
+    $(function() {
+        $(".anyClass_ctl17").jCarouselLite({
+            btnNext: ".next_ctl17",
+            btnPrev: ".prev_ctl17",
+            visible: 4,
+            circular: false,
+            start: 0,
+            speed: 100,
+            scroll: 1
+        });
+    });
+
+    function ShowCaption(i, count) {
+        for (j = 1; j < count; j++) {
+            var psj = document.getElementById('ps_' + j);
+            if (i == j) {
+                psj.style.display = 'block';
+            }
+            else {
+                psj.style.display = 'none';
+            }
+        }
+    }
+</script>
+
+</td>
+
+	</tr>
+</table></td>
+
+										                        </tr>
+										                        <tr>
+										                            <td id="MIDDLE_LEFT" valign="top" style="width:305px;"></td>
+
+										                            <td width="10"></td>
+										                            <td id="MIDDLE_RIGHT" valign="top"></td>
+
+										                        </tr>
+										                        <tr>
+										                            <td id="MIDDLE_BOTTOM" colspan="3" valign="top" align="left"></td>
+
+										                        </tr>
+										                    </table>
+										                </td>
+										                <td id="RIGHT" style="padding-top:10px;" valign="top" align="left"><div id="_ctl18__ctl0_pnlNews">
+	
+<table cellpadding="0" cellspacing="0" width="300px">
+    <tr>
+        <td>
+            <div class="p-header">
+                <div class="red-line">
+                    Άρθρα κατηγορίας <span style="color:Red">ΕΛΛΑΔΑ ΝΕΑ</span>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <table cellpadding='0' cellspacing='0' width='100%' class='t_latest_article'>
+                        <tr>
+                            <td><img style='margin-right:5px' src='http://www.neakriti.gr/temp/CACHE_100X80_0_1024747.JPG' alt='' border='0' /></td>
+                            <td>
+                                <a href='?page=newsdetail&DocID=1026333&srv=96'>Τσίπρας: Συμμαχία του νότου απέναντι στην Γερμανία</a><br />
+                                Συμμαχία των χωρών του νότου απέναντι στη γερμανική κυριαρχία στην...
+                                <div><a href='?page=newsdetail&DocID=1026333&srv=96'>περισσότερα&nbsp;&raquo</a></div>
+                            </td>
+                        </tr>
+                        <tr><td colspan='2' class='dotted'></td></tr>
+                        <tr>
+                            <td><img style='margin-right:5px' src='http://www.neakriti.gr/temp/CACHE_100X80_0_1000868.JPG' alt='' border='0' /></td>
+                            <td>
+                                <a href='?page=newsdetail&DocID=1026312&srv=96'>Αποχωρεί από την ηγεσία του ΚΚΕ η Αλέκα Παπαρήγα;</a><br />
+                                Ύστερα από 22 χρόνια, η Αλέκα Παπαρήγα αφήνει το τιμόνι του ΚΚΕ....
+                                <div><a href='?page=newsdetail&DocID=1026312&srv=96'>περισσότερα&nbsp;&raquo</a></div>
+                            </td>
+                        </tr>
+                        <tr><td colspan='2' class='dotted'></td></tr>
+                        <tr>
+                            <td><img style='margin-right:5px' src='http://www.neakriti.gr/temp/CACHE_100X80_0_1008569.JPG' alt='' border='0' /></td>
+                            <td>
+                                <a href='?page=newsdetail&DocID=1026307&srv=96'>Παπανδρέου: Δεν γνώριζα το περιεχόμενο της λίστας...</a><br />
+                                Μ’ ένα τετρασέλιδο υπόμνημα κατέθεσε ο πρώην πρωθυπουργός Γιώργος...
+                                <div><a href='?page=newsdetail&DocID=1026307&srv=96'>περισσότερα&nbsp;&raquo</a></div>
+                            </td>
+                        </tr>
+                        <tr><td colspan='2' class='dotted'></td></tr>
+                        <tr>
+                            <td><img style='margin-right:5px' src='http://www.neakriti.gr/temp/CACHE_100X80_0_1007375.JPG' alt='' border='0' /></td>
+                            <td>
+                                <a href='?page=newsdetail&DocID=1026306&srv=96'>76.444 oι φετινοί εισακτέοι σε ΑΕΙ και ΤΕΙ </a><br />
+                                Oριστικοποιήθηκε ο αριθμός των εισακτέων στην Τριτοβάθμια Εκπαίδευση....
+                                <div><a href='?page=newsdetail&DocID=1026306&srv=96'>περισσότερα&nbsp;&raquo</a></div>
+                            </td>
+                        </tr>
+                        <tr><td colspan='2' class='dotted'></td></tr>
+                        <tr>
+                            <td><img style='margin-right:5px' src='http://www.neakriti.gr/temp/CACHE_100X80_0_995990.JPG' alt='' border='0' /></td>
+                            <td>
+                                <a href='?page=newsdetail&DocID=1026298&srv=96'>Η ανακοίνωση της ΕΛ.ΑΣ. για τα επεισόδια στη...</a><br />
+                                Ανακοίνωση εξέδωσε η ΕΛ.ΑΣ. για επεισόδια που εκτυλίχτηκαν τα...
+                                <div><a href='?page=newsdetail&DocID=1026298&srv=96'>περισσότερα&nbsp;&raquo</a></div>
+                            </td>
+                        </tr>
+                        <tr><td colspan='2' class='dotted'></td></tr>
+                        <tr>
+                            <td><img style='margin-right:5px' src='http://www.neakriti.gr/temp/CACHE_100X80_0_1015842.JPG' alt='' border='0' /></td>
+                            <td>
+                                <a href='?page=newsdetail&DocID=1026270&srv=96'>Από σήμερα οι αιτήσεις για μετεγγραφές φοιτητών</a><br />
+                                Από σήμερα Τετάρτη 10 Απριλίου έως και τις 26 Απριλίου θα μπορούν οι...
+                                <div><a href='?page=newsdetail&DocID=1026270&srv=96'>περισσότερα&nbsp;&raquo</a></div>
+                            </td>
+                        </tr>
+                        <tr><td colspan='2' class='dotted'></td></tr></table>
+        </td>
+    </tr>
+</table>
+<br />
+
+</div>
+
+
+<br /><img src='http://www.neakriti.gr/Files/Broadcasts/Banner-saxinis.jpg' alt='' width='300' height='250'  />
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td id="_ctl20__ctl0_HTML" style="width:100%"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2829208774884013";
+/* banner 300x250 */
+google_ad_slot = "9667208328";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script><script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
+</tr></table>
+
+<br /><img src='http://www.neakriti.gr/Files/Broadcasts/GENIKO_KTV.JPG' alt='' width='300' height='250'  /></td>
+
+									                </tr>
+									                <tr>
+						                                <td id="BOTTOM_BANNER" colspan="2" valign="top" align="center"></td>
+
+						                            </tr>
+									                <tr>
+						                                <td id="PRO_BOTTOM" colspan="2" valign="top" align="center">
+
+<table cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td align="center">
+            <table width="930px" cellpadding="0" cellspacing="0">
+                <tr style="height:30px;">
+                    <td align="left" style="width:25px;"><a href="http://www.neakriti.gr/default.aspx?page=newsdetail&DocID=882054&srv=96#TOP" id="_ctl22__ctl0_a1"><img src="Files/ImageGallery/CssImages/top_button.png" border="0" alt="" /></a></td>
+                    <td style="color:#bdbdbd; font-size:11px; width:30px;"><a href="http://www.neakriti.gr/default.aspx?page=newsdetail&DocID=882054&srv=96#TOP" id="_ctl22__ctl0_a2" class="bottom_horizontal_menu">TOP</a></td>
+                    <td id="_ctl22__ctl0_BOTTOMMENU" align="center" style="color:#bdbdbd; font-size:11px;"><span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=home&Menu1=0_26&Menu2=0_26'>ΕΙΔΗΣΕΙΣ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=gnomi&Menu1=0_26&Menu2=0_26'>ΓΝΩΜΗ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=oikonomia&Menu1=0_26&Menu2=0_26'>ΟΙΚΟΝΟΜΙΑ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=politismos&Menu1=0_26&Menu2=0_26'>ΠΟΛΙΤΙΣΜΟΣ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=perivalon&Menu1=0_26&Menu2=0_26'>ΠΕΡΙΒΑΛΛΟΝ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=technologia&Menu1=0_26&Menu2=0_26'>ΤΕΧΝΟΛΟΓΙΑ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=athlitika&Menu1=0_26&Menu2=0_26'>ΑΘΛΗΤΙΣΜΟΣ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=arheio&Menu1=0_26&Menu2=0_26'>ΕΝΤΥΠΟ PDF</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=media&Menu1=0_26&Menu2=0_26'>MEDIA</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=lifestyle&Menu1=0_26&Menu2=0_26'>LIFESTYLE</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=ekpaideysi&Menu1=0_26&Menu2=0_26'>EΚΠΑΙΔΕΥΣΗ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=ygeia&Menu1=0_26&Menu2=0_26'>ΥΓΕΙΑ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=gynaika&Menu1=0_26&Menu2=0_26'>ΓΥΝΑΙΚΑ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=&Menu1=0_26&Menu2=0_26'>ΤΑΞΙΔΙΑ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=entertainmet&Menu1=0_26&Menu2=0_26'>ΨΥΧΑΓΩΓΙΑ</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=automoto&Menu1=0_26&Menu2=0_26'>AUTOMOTO</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=&Menu1=0_26&Menu2=0_26'>BLOGS</a></span>								
+							<span class='bottom_horizontal_menu_seperator'> | </span>
+									<span id='m1_26' class='bottom_horizontal_menu'><a class='bottom_horizontal_menu' href='?Page=xrisima&Menu1=0_26&Menu2=0_26'>ΧΡΗΣΙΜΑ</a></span>								
+							</td>
+
+                    <td style="color:#bdbdbd; font-size:11px;width:30px;"><a href="http://www.neakriti.gr/default.aspx?page=newsdetail&DocID=882054&srv=96#TOP" id="_ctl22__ctl0_a3" class="bottom_horizontal_menu">TOP</a></td>
+                    <td align="right" style="width:25px;"><a href="http://www.neakriti.gr/default.aspx?page=newsdetail&DocID=882054&srv=96#TOP" id="_ctl22__ctl0_a4"><img src="Files/ImageGallery/CssImages/top_button.png" border="0" alt="" /></a></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table></td>
+
+						                            </tr>
+								                </table>
+							                </td>
+						                </tr>
+						                <tr>
+							                <td align="center" class="NK_footer">
+							                    <table width="940px"  cellpadding="0" cellspacing="0" border="0">
+							                        <tr>
+							                            <td id="BOTTOM_UPPER"></td>
+
+							                        </tr>
+							                    </table>
+							                    <table width="940px"  cellpadding="10" cellspacing="0" border="0">
+							                        <tr>
+							                            <td align="center" valign="top">
+							                                <table cellpadding="0" cellspacing="0" width="100%" border="0">
+							                                    <tr>
+							                                        <td id="BOTTOM_LEFT" align="left" valign="top" width="25%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td id="_ctl23__ctl0_HTML" style="width:100%"><table width="100%" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="top" style="text-align: left"><span style="font-size: 16px"><span style="color: rgb(255,255,255)">Επικοινωνία</span> </span></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; color: rgb(189,189,189)"><span style="color: rgb(204,204,204)">ΚΥΚΛΟΣ Α.Ε. ΕΚΔΟΣΕΙΣ<br />
+            ΒΙ. ΠΕ. Ηρακλείου Τ.Κ. 71601<br />
+            <br />
+            Τηλ: 2810398100<br />
+            Fax: 2810398015<br />
+            Marketing: 2810398112-113<br />
+            Αγγελίες: 2810398101,152<br />
+            info@neakriti.gr<br />
+            portal@neakriti.gr<br />
+            </span></td>
+        </tr>
+    </tbody>
+</table></td>
+</tr></table></td>
+
+							                                        <td id="BOTTOM_MID_LEFT" align="left" valign="top" width="25%"></td>
+
+							                                        <td id="BOTTOM_MID_RIGHT" align="left" valign="top" width="25%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td id="_ctl24__ctl0_HTML" style="width:100%"><table style="height: 155px">
+    <tbody>
+        <tr>
+            <td style="padding-left: 30px; text-align: left;"><a style="color: #cccccc; font-size: 16px; text-decoration: underline" href="Newsletter.aspx?Page=newsletter_public">NEWSLETTER</a></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 30px"><a style="color: #cccccc; font-size: 16px; text-decoration: underline" href="?page=identity">ΤΑΥΤΟΤΗΤΑ</a></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 30px"><a style="color: #cccccc; font-size: 16px; text-decoration: underline" href="?page=terms">ΟΡΟΙ ΧΡΗΣΗΣ</a></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 30px"><a style="color: #cccccc; font-size: 16px; text-decoration: underline" href="?page=diafimisi">ΔΙΑΦΗΜΙΣΗ</a></td>
+        </tr>
+    </tbody>
+</table></td>
+</tr></table></td>
+
+							                                        <td id="BOTTOM_RIGHT" align="left" valign="top" width="25%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td id="_ctl25__ctl0_HTML" style="width:100%"><p><img src="files/ImageGallery/omilos.png" alt="" /><br />
+<br />
+&nbsp;<br />
+<a href="http://www.atc.gr" target="_blank"><img  border="0" src="files/ImageGallery/Logos/logo_ibox.png" alt="" /></a></p></td>
+</tr></table></td>
+
+							                                    </tr>
+							                                </table>
+							                            </td>
+							                        </tr>
+							                    </table>
+							                </td>
+						                </tr>
+						                <tr>
+			                                <td id="BOTTOM_FOOTER"></td>
+
+			                            </tr>
+					                </table>
+                                </td>
+                                <td valign="top" style="background-color:Transparent">
+                                    <div class="b-right-container">
+	                                    <div id="BANNER_RIGHT" class="b-right"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+					        
+				    </td>
+			    </tr>
+		    </table>
+		     
+            	
+            <script type="text/javascript">
+                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-16257636-1");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+            
+<script type="text/javascript">
+<!--
+var Page_ValidationSummaries =  new Array(document.getElementById("_ctl9__ctl0_validationSummary"));
+var Page_Validators =  new Array(document.getElementById("_ctl9__ctl0_rfvRequired"), document.getElementById("_ctl9__ctl0_regexSearch"));
+// -->
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK6iqGLBwLF3L3DAgKvxNmOAgLBmNX8BjNN5FtvGc5v4ajXIFNKxSxMWfG7" />
+
+<script type="text/javascript">
+<!--
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        Sys.Application.initialize();
+// -->
+</script>
+</form>
+    </body>
+</html>

@@ -1,0 +1,421 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>RVH Critical Care Facility 'Topped Out' - Northern Ireland News</title>
+<link rel="alternate" type="application/rss+xml" title="Northern Ireland News" href="/rssnews.asp">
+
+<link rel="alternate" type="application/rss+xml" title="UK National News" href="/rss_national_news.asp">
+
+<link rel="alternate" type="application/rss+xml" title="Northern Ireland Weather" href="/rss_northern_ireland_weather.asp">
+<meta name="description" content="There may be ongoing change on the way health and social services are being delivered, but investment continues with a new Critical Care Building nearing completion at the Royal Hospitals site in west..">
+
+<meta name="verify-v1" content="7c0rlDPOQG5lEnKue7/wvYetRDvHkIe9vq98aeqYxlI=">
+<link href="http://www.4ni.co.uk/listing.css?x=1" rel="stylesheet" type="text/css">
+<link href="lightbox/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css" />
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="/scripts/jquery-1.3.1.min.js"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+ GS_googleAddAdSenseService("ca-pub-9423069465971080");
+ GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-9423069465971080", "4ni-wedd-1");
+GA_googleAddSlot("ca-pub-9423069465971080", "4ni-wedd-2");
+</script>
+<script type="text/javascript">
+ GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION --> 
+<script type="text/JavaScript">
+
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+<!-- Begin
+function clock() {
+
+var months=new Array(13);
+months[1]="January";
+months[2]="February";
+months[3]="March";
+months[4]="April";
+months[5]="May";
+months[6]="Jun";
+months[7]="Jul";
+months[8]="Aug";
+months[9]="Sep";
+months[10]="Oct";
+months[11]="Nov";
+months[12]="Dec";
+if (!document.layers && !document.all) return;
+var digital = new Date();
+var hours = digital.getHours();
+var minutes = digital.getMinutes();
+var seconds = digital.getSeconds();
+var da = digital.getDate();
+var mo = months[digital.getMonth()+1];
+var ye = digital.getYear();
+var amOrPm = "AM";
+if (hours > 11) amOrPm = "PM";
+if (hours > 12) hours = hours - 12;
+if (hours == 0) hours = 12;
+if (minutes <= 9) minutes = "0" + minutes;
+if (seconds <= 9) seconds = "0" + seconds;
+dispTime = da + " " + mo + " " + ye + " -  " + hours + ":" + minutes + ":" + seconds + " " + amOrPm;
+if (document.layers) {
+document.layers.pendule.document.write(dispTime);
+document.layers.pendule.document.close();
+}
+else
+if (document.all)
+pendule.innerHTML = dispTime;
+setTimeout("clock()", 1000);
+
+}
+//  End -->
+</script>
+
+<script type="text/JavaScript">
+function formthing() {
+
+vara="opticron";
+document.write("<tr><td></td><td><input type='hidden' name='left" + vara + "field' value='915' /></td></tr>");
+}
+</script>
+
+
+
+
+<script type="text/JavaScript">
+function butCl(aid)
+{
+	var http = false;
+
+	if(navigator.appName == "Microsoft Internet Explorer") {
+	  http = new ActiveXObject("Microsoft.XMLHTTP");
+	} else {
+	  http = new XMLHttpRequest();
+	}
+
+	var randomnumber=Math.floor(Math.random()*1000000)
+	http.open("GET", "/button" + "count.asp?aid="+aid+"&r="+randomnumber);
+	http.onreadystatechange=function() {
+	  if(http.readyState == 4) {
+		var done=1;
+		// document.write(http.responseText);
+	  }
+	}
+	http.send(null);
+	return null;
+}
+</script>
+</head>
+
+<body  leftmargin='0' topmargin="0" onLoad="clock();">
+<table width="780"  align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3" align='center'><!-- Banner -->
+
+<!-- ImageReady Slices (masthead.psd) -->
+<table id="Table_01" width="780" border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+  <td><a href="http://www.4ni.co.uk/"><img src="http://www.4ni.co.uk/masthead/ni_logo.jpg" name="Image23" width="224" height="58" border="0" id="Image23" alt='4ni Home'></a></td>
+  <td class="nav-bar"> 
+  
+	  <div class="container-bar">
+			<ul class="nav-font">
+				<li class="nav-font-property"><a href="http://www.4ni.co.uk/northern_ireland_property.asp"><span class='button-numbers'><b>27,598</b></span><br />Property</a></li>
+				<li class="nav-font-cars"><a href="http://www.4ni.co.uk/northern_ireland_used_cars.asp"><span class='button-numbers-cars'><b>11,481</b></span><br />Cars<br /></a></li>
+				<li class="nav-font-jobs"><a href="http://www.4ni.co.uk/northern_ireland_jobs"><span class='button-numbers-jobs'><b>2,637</b></span><br />Jobs</a></li>
+				<li class="nav-font-general"><a href="http://www.4ni.co.uk/adrates.asp">Ad Rates</a></li>
+				<li class="nav-font-general"><a href="http://www.4ni.co.uk/submitsite.asp">Submit Site</a></li>
+				<li class="nav-font-general-contact"><a href="http://www.4ni.co.uk/contact.asp?contactsource=">Contact us</a></li>
+			</ul> 
+	</div><!-- end of container bar -->
+  
+  </td>
+<td><a href='http://www.4ni.co.uk/northern_ireland_weather.asp'><img src='http://www.4ni.co.uk/masthead/2.jpg' width='94px' height='58px' alt='Northern Ireland Weather Forecast' border='0'></a></td>
+
+</tr>
+</table>
+
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="780px" height="22px" background="http://www.4ni.co.uk/masthead/ni_long-bar.jpg" align='left'><div class='bar-container'><div id="pendule"></div><p class='temp'>Temp: 5&#176;C</p></div></td>
+	</tr>
+<tr><td height="4"></td></tr>
+<tr><td align="center" style="padding-bottom:6px;">
+<script language="javascript">document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/975/2194175/0/0/ADTECH;loc=100;target=_blank;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');</script><noscript><a href="http://adserver.adtech.de/adlink/3.0/975/2194175/0/0/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/975/2194175/0/0/ADTECH;loc=300;grp=[group]" border="0" width="0" height="0"></a></noscript>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+</td></tr>
+</table>
+
+
+<a name="top"></a>
+</td></tr>
+
+<TR valign='top'>
+<TD width='90'><TABLE width='90' cellpadding='2' cellspacing='0'><tr><td><a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=96737&url=http%3A%2F%2Fwww%2Emulsanne%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/96737bu.jpg' class='adi' alt='Mulsanne Fun Casinos Northern Ireland' onclick='butCl(120); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=121052&url=http%3A%2F%2Fwww%2E4ni%2Eco%2Euk%2Fadv%2FGSF%2Dcar%2Dparts%2Epdf' target='button'><IMG SRC='http://www.4ni.co.uk/adv/121052bu.jpg' class='adi' alt='Car Parts Northern Ireland' onclick='butCl(121); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=101280&url=http%3A%2F%2Fwww%2Eflogasni%2Ecom%2Fflogasforliving%2Fhomeenergysolutions%2Ephp' target='button'><IMG SRC='http://www.4ni.co.uk/adv/101280bu.jpg' class='adi' alt='Flogas' onclick='butCl(122); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=67658&url=http%3A%2F%2Fwww%2Eknockbrackenfuels%2Ecom' target='button'><IMG SRC='http://www.4ni.co.uk/adv/67658bu.jpg' class='adi' alt='Knockbracken Fuels' onclick='butCl(123); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=64338&url=http%3A%2F%2Fwww%2Ejwmccall%2Ecom' target='button'><IMG SRC='http://www.4ni.co.uk/adv/64338bu.jpg' class='adi' alt='J&W McCall Supplies (NI) Ltd' onclick='butCl(124); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=30198&url=http%3A%2F%2Fwww%2E4ni%2Eco%2Euk%2F23463x866x22%5Fthe%2Dcotton%2Dprint%2Dfactory%2Dshop%2Dltd%2Dbelfast%2Ehtm' target='button'><IMG SRC='http://www.4ni.co.uk/adv/30198bu.jpg' class='adi' alt='The Cotton Print Factory Shop Ltd.' onclick='butCl(125); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=103071&url=http%3A%2F%2Fwww%2Eshredbank%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/103071bu.jpg' class='adi' alt='ShredBank' onclick='butCl(126); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=121075&url=http%3A%2F%2Fwww%2Eneedaprint%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/121075bu.jpg' class='adi' alt='Need A Print Northern Ireland' onclick='butCl(127); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=106705&url=http%3A%2F%2Fwww%2Eshelbournemotors%2Ecom%2Ffleet%2F%3Fito%3DLBC205114' target='button'><IMG SRC='http://www.4ni.co.uk/adv/106705bu.jpg' class='adi' alt='Fleet 4 You Northern Ireland' onclick='butCl(128); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=106729&url=http%3A%2F%2Fwww%2Edoorhandlesltd%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/106729bu.jpg' class='adi' alt='Door Handles' onclick='butCl(129); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=61150&url=http%3A%2F%2Fwww%2Eaxani%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/61150bu.jpg' class='adi' alt='car insurance Northern Ireland by AXA Direct Northern Ireland' onclick='butCl(130); return true;'></a><BR>
+</td></tr></TABLE></TD>
+<TD align='center' width='780'>
+<! -- MAIN BODY -->
+<TABLE width='100%'>
+<!-- Search / Dir / News -->
+<TR valign='top'>
+<td width='10'></TD>
+<TD width='365px'>
+
+
+<div class='box-wrap' style='margin-top:0px;'>
+  
+  <!--HEADER TABLE -->
+  <table width="100%" border="0" cellpadding='0' cellspacing='0'>
+
+  <tr align='center'>
+  <td class="header"><h2> &nbsp;Northern Ireland News</h2></td>
+  </tr>
+  <tr>
+  <td align="left"><img src="http://www.4ni.co.uk/graphics/box_logo.jpg" alt="4NI National News" width="133" height="32"><br></td>
+  </tr>
+  </table>
+  <!--END HEADER TABLE -->
+  
+  <!--BEGIN Inner table  -->
+  <table width="100%"  border="0" cellpadding="0" align="center">
+  <tr>
+  <td width="5%" align="left" valign="top">
+  <table cellpadding='0' cellspacing='0' class='news-content'><tr><td>15 December 2011</td></tr><tr><td height='8'></td></tr><tr><td class='news-content'><h1>RVH Critical Care Facility 'Topped Out'</h1></td></tr><tr><td height='8'></td></tr><tr><td><img src='http://www.4ni.co.uk/newsimages/RVH-Critical-Care-web.jpg' align='left' style='padding-right: 4px;' alt='RVH Critical Care Facility Topped Out'><B>There may be ongoing change on the way health and social services are being delivered, but investment continues with a new Critical Care Building nearing completion at the Royal Hospitals site in west Belfast.</B><BR><BR>Speaking today, the NI Health Minister Edwin Poots has said all patients will benefit from a new £152m state-of-the-art building, with modern fit for purpose facilities.<BR><BR>The Minister was speaking as he took part in a 'topping out' ceremony at the new Critical Care Building at the Royal Victoria Hospital (RVH).<BR><BR>He said: "This new building is a much needed project and these new facilities will benefit from the latest innovations in design and technology and provide regional emergency and trauma services to some of the most severely injured people in Northern Ireland."<BR><BR>The first six floors of the building will include an emergency department, main theatres and an adult critical care unit. <BR><BR>The top three floors will house postnatal beds and maternity outpatients.<BR><BR>DUP MLA and Executive Minister Poots added: "Along with a new maternity building to include delivery theatres, antenatal beds, birthing rooms and a neonatal unit, linked to the Critical Care Building, the construction will also permit the delivery of first class regional maternity services in Northern Ireland."<BR><BR><div align='center'><script language="javascript">document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/975/2221857/0/0/ADTECH;loc=100;target=_blank;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');</script><noscript><a href="http://adserver.adtech.de/adlink/3.0/975/2221857/0/0/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/975/2221857/0/0/ADTECH;loc=300;grp=[group]" border="0" width="0" height="0"></a></noscript>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </div><BR>He added that construction of the Critical Care Building is due to be completed in 2012, with the new linked Maternity building due for completion in 2014. The proposed Children's hospital will be delivered as a separate project.<BR><BR>This is the third major project in the Royal Victoria Hospital redevelopment programme. Phase 1, the main hospital building was completed in 2006 and Phase 2a, the Imaging Centre was completed in 2007.<BR><BR>The investment comes at a time of dramatic change as it emerged on Tuesday that a major review of the health service is at an advanced stage.<BR><BR>Edwin Poots said the review, by John Compton, was expected to be the biggest in recent years and has been forecast to be controversial and radical.<BR><BR>The report's view is that it is likely only to be possible to provide resilient, sustainable major acute services on five to seven sites.<BR><BR>This is one of the 99 recommendations - and the one most likely to trigger debate - as it means a huge reduction in the number of hospitals.<BR><BR>The review suggests the current number could be cut from 10 as early as 2016 leaving as few as five - at worst - by that time.<BR><BR>DUP Minister Edwin Poots said in the Assembly that 'Transforming Your Care, A Review of Health and Social Care' contains a compelling set of proposals for the future of health and social care services in Northern Ireland.<BR><BR>However, it is at cost, as elsewhere, the SDLP South Down MLA Karen McKevitt said any subsequent downgrading of the status of Daisy Hill in Newry as a full-service acute hospital would make delivery of a coherent and consistent health service impossible.<BR><BR>Commenting on the Compton report which recommends cutting acute hospitals from ten to five, she said: "It is very important that acute services and particularly A&E are located on the basis of operational rather than administrative requirements. <BR><BR>"The consequences for my own constituency would be terrible as a glance at the map will show. How on earth could A&E cover from Belfast or Craigavon stretch out to Kilkeel or Attical?<BR><BR>"Daisy Hill is in fact ideally placed to become the focal point of cross-border co-operation on acute services and it is in that context that we need to debate the reconfiguration of the health service," she said, yesterday.<BR><BR>See: <A HREF= 'http://www.4ni.co.uk/northern_ireland_news.asp?id=136960' TARGET = '_NEW'><u>Hospital Sites 'Facing 50% Cut'</u></A><BR><BR>(BMcC)</td></tr><tr><td align='right' style='vertical-align: top; padding-top: 5px; padding-right: 5px;'>
+	<!-- AddThis Button BEGIN -->
+	<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+	<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=4niaddthis"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=4niaddthis"></script>
+	<!-- AddThis Button END -->
+	</td></tr><tr><td height='24'></td></tr><tr><td><b>Top 10 Northern Ireland News Stories</b></td></tr><tr><td>15 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137156'>'Worthwhile Discussions' On Corporation Tax</a></td></tr><tr><td height='8'></td></tr><tr><td>15 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137124'>UDR 'Courageous' Says Donaldson</a></td></tr><tr><td height='8'></td></tr><tr><td>15 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137115'>Women Left 'Shaken' After Shooting</a></td></tr><tr><td height='8'></td></tr><tr><td>15 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137136'>RVH Critical Care Facility 'Topped Out'</a></td></tr><tr><td height='8'></td></tr><tr><td>15 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137082'>'Collusive Behaviour' In Miami Massacre: HET</a></td></tr><tr><td height='8'></td></tr><tr><td>15 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137110'>Magherafelt Draft Plan Launched</a></td></tr><tr><td height='8'></td></tr><tr><td>15 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137096'>Flout Fire Safety Rules 'At Your Peril'</a></td></tr><tr><td height='8'></td></tr><tr><td>15 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137139'>Cancer Foundation 'Sets New Record'</a></td></tr><tr><td height='8'></td></tr><tr><td>15 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137111'>£2.9m Upgrade For Antrim Station </a></td></tr><tr><td height='8'></td></tr><tr><td>14 December 2011</td></tr><tr><td><A HREF='http://www.4ni.co.uk/northern_ireland_news.asp?id=137029'>BMA Cautious On Planned Changes</a></td></tr><tr><td height='8'></td></tr><tr><td height='8'></td></tr><tr><td align='right'><A Href='submitnews.asp'><b>Submit a news item</b></td></tr><tr><td align='right'><A Href='archive.asp'><b>News Archive</b></td></tr></table>
+  </td>
+  </tr>
+  </table>
+  <!--END Inner table  -->
+  </div><!--end box-wrap-->
+
+  
+</TD>
+<td width='10'></td>
+
+<td>
+
+<!-- NEWS BAR OUTER TABLE-->
+<table cellpadding='0' cellspacing='0' class='news'>
+<tr><td><img src='graphics/ni-news-header.jpg'></td></tr>
+<!-- NI NEWS -->
+<tr><td>
+<table width='179' style='padding:0; margin:0;'><tr><td height='4'></td></tr>
+<tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137156'><STRONG>'Worthwhile Discussions' On Corporation Tax</STRONG></a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137124'>UDR 'Courageous' Says Donaldson</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137115'>Women Left 'Shaken' After Shooting</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137136'>RVH Critical Care Facility 'Topped Out'</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137082'>'Collusive Behaviour' In Miami Massacre: HET</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137110'>Magherafelt Draft Plan Launched</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137096'>Flout Fire Safety Rules 'At Your Peril'</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137139'>Cancer Foundation 'Sets New Record'</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137111'>£2.9m Upgrade For Antrim Station </a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137029'>BMA Cautious On Planned Changes</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5' align='left'></td><td><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137085'>Other NI News In Brief</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr>
+</table>
+</td></tr>
+</table>
+
+
+
+
+<table cellpadding='0' cellspacing='0' class='news'>
+<!-- National News -->
+<tr><td><img src='graphics/uk-news-header.jpg'></td></tr>
+<tr><td>
+<table width='179'><tr><td height='4'></td></tr>
+<tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137126'><STRONG>Cameron To Target Troubled Families </STRONG></a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137107'>Wrong Drug Story 'Alarmist'</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137119'>Gov To Scrap Driver Licence Papers</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137142'>American Flag Lowered In Baghdad</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137113'>Opposition Fails To Halt Huge Badger Cull</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137137'>Railway Workers Campaign Against Closures</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137130'>Newcastle Appeal For 'Racist' Away Fan</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137122'>Minister Visits Newcastle Ahead Of Devolution</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137123'>Fossil Fuel Costs Not Green Tech Causing Hikes</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137039'>UK Unemployment Up By 128k Since October</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr><tr valign='top'><td></td><td><img src='graphics/main_plus.gif'></td><td width='5'></td><td align='left'><a href='http://www.4ni.co.uk/northern_ireland_news.asp?id=137147'>Other News In Brief</a></td><td width='5'></td></tr><tr><td width='5'></td><td colspan='2' height='8'></td></tr>
+</table>
+</td></tr>
+<tr><td align='center'>
+<table id="Table_01" width="149" border="0" cellpadding="0" cellspacing="0">
+   <tr>
+       <td>
+           <img id="feed" src="graphics/feed_01.gif" width="49" height="29" alt="" /></td>
+       <td><img src="/graphics/feed_02.gif" width="45" height="29" border="0"></td>
+       <td rowspan="2"><a href="news.asp?id=137117" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image114','','graphics/feed_subs_04r.gif',1)"><img src="graphics/feed_subs_04.gif" name="Image114" width="55" height="62" border="0"></a></td>
+   </tr>
+   <tr>
+       <td colspan="2"><a href="sendnews.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image116','','graphics/feed_news_03r.gif',1)"><img src="graphics/feed_news_03.gif" name="Image116" width="94" height="33" border="0"></a></td>
+   </tr>
+</table>
+
+</td></tr>
+
+<!-- close news outer table -->
+</table>
+<div align='center' style='width:180px; margin:0 auto; clear:both;'><a href="http://www.4ni.co.uk/abc.pdf"><img border="0" alt="ABC / ABCE Certification" src="http://www.4ni.co.uk/graphics/abc.jpg"></a></div>
+<div align='center' style='width:180px; margin:0 auto; padding-top:8px;'><img src='./graphics/abce-text.jpg' /></div>
+</td>
+<TD width='5'></TD>
+</TR>
+</TABLE>
+
+</TD>
+
+<TD width='90'><TABLE width='90' cellpadding='2' cellspacing='0'><tr><td><a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=103071&url=http%3A%2F%2Fwww%2Eshredbank%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/103071bu.jpg' class='adi' alt='ShredBank Northern Ireland' onclick='butCl(131); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=31699&url=http%3A%2F%2Fwww%2Ewilsonsofrathkenny%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/31699bu.jpg' class='adi' alt='Wilsons Of Rathkenny Ltd' onclick='butCl(132); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=99512&url=http%3A%2F%2Fwww%2Emullantraining%2Ecom%2F' target='button'><IMG SRC='http://www.4ni.co.uk/adv/99512bu.jpg' class='adi' alt='Photoshop Training Northern Ireland' onclick='butCl(133); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=15985&url=http%3A%2F%2Fwww%2Ebusinessvehicles%2Enet' target='button'><IMG SRC='http://www.4ni.co.uk/adv/15985bu.jpg' class='adi' alt='Fleet Financial (NI) Ltd' onclick='butCl(134); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=121741&url=http%3A%2F%2Fwww%2Eoptilase%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/121741bu.jpg' class='adi' alt='Optilase Laser Eye Clinic' onclick='butCl(135); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=59867&url=http%3A%2F%2Fwww%2Egilbert%2Dashconservatories%2Ecom' target='button'><IMG SRC='http://www.4ni.co.uk/adv/59867bu.jpg' class='adi' alt='Gilbert-Ash Conservatories Northern Ireland' onclick='butCl(136); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=27836&url=http%3A%2F%2Fwww%2Ethemortgageshop%2Enet' target='button'><IMG SRC='http://www.4ni.co.uk/adv/27836bu.jpg' class='adi' alt='The Mortgage Shop' onclick='butCl(137); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=99227&url=http%3A%2F%2Fwww%2Ehampersandgiftsireland%2Ecom' target='button'><IMG SRC='http://www.4ni.co.uk/adv/99227bu.jpg' class='adi' alt='Fruit Baskets Ireland' onclick='butCl(138); return true;'></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=121584&url=http%3A%2F%2Fwww%2Etileandstoveculture%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/121584bu.jpg' class='adi' alt='Tile & Stove Culture Northern Ireland' onclick='butCl(139); return true;'></a><BR>
+<a href='http://www.modelshopbelfast.com'><IMG SRC='http://www.4ni.co.uk/adv/28223bu.jpg' alt='Model Shop Belfast .com' class='adi'  onclick=''/></a><BR>
+<a href='http://www.4ni.co.uk/buttonredirect.asp?buttonid=30157&url=http%3A%2F%2Fwww%2Emartinphillipscarpets%2Eco%2Euk' target='button'><IMG SRC='http://www.4ni.co.uk/adv/30157bu.jpg' class='adi' alt='Martin Phillips Carpets' onclick='butCl(119); return true;'></a><BR>
+</td></tr></TABLE></TD>
+</tr>
+
+<tr><td colspan='3' height='4'></td></tr>
+<tr><td colspan='3'>
+<TABLE align='center' width='100%'><tr align='center'>
+
+</tr>
+   <tr><td colspan="4"><br>
+ <!--   nnnnnnn -->
+   <table cellpadding="0" align='center'>
+  <tr align='center' valign='top'>
+    <td><a href="http://www.4ni.co.uk/archive.asp">NEWS ARCHIVE</a></td>
+    <td></td>
+	  <td><a href="http://www.4ni.co.uk/contact.asp">CONTACT 4NI</a></td>
+	  <td></td>
+    <td><a href="http://www.4ni.co.uk/login.asp">CUSTOMER LOGIN</a></td>
+    <td></td>
+    <td nowrap><a href="http://www.4ni.co.uk/0x385x16_car-insurance.htm">Car Insurance Northern Ireland</a>
+    
+    </td>
+    <td></td>
+    <td><a href="http://www.4ni.co.uk/webmaster.asp">WEBMASTER RESOURCES</a></td>
+    <td><a href="http://www.4ni.co.uk/whatsnew.asp">WHATS NEW</a></td>
+    <td><a href="http://www.4ni.co.uk/adrates.asp">ADVERTISING OPPORTUNITIES</a></td>
+  </tr>
+  </table>
+  
+  <table align='center'><tr><td><a href='http://www.4ni.co.uk'>4ni - Northern Ireland on the Internet</a></td><td><a href='http://www.4ie.ie'>4ie - Ireland on the Internet</a></td></tr></table>
+  
+ 
+<table align='center'>
+<tr valign='top'>
+<td valign="top" align='center'>	
+<table>
+
+<tr align='left' valign='top'><td align='center'>
+<a href='http://www.4ni.co.uk/topsites.asp' style='color: black; text-decoration: none;'><B>Flagship</a> <a href='http://www.4ni.co.uk/seall.asp' style='color: black; text-decoration: none;'>Media Group</a> <a href='http://www.4ni.co.uk/seall2.asp' style='color: black; text-decoration: none;'>Ltd</b></a>, <br>
+<a href='http://www.4ni.co.uk/seallcats.asp' style='color: black; text-decoration: none;'>Unit C3, 6 Westbank Drive,</a>
+<a href='http://www.4ni.co.uk/topsearches.asp' style='color: black; text-decoration: none;'>Belfast</a>,<BR> 
+<a href='' style='color: black; text-decoration: none;'>BT3 9LA</a>, 
+<a href='http://www.4ni.co.uk/regions.asp' style='color: black; text-decoration: none;'>Northern Ireland</a> <br>
+Tel : (028) 90319008 <br>
+Contact : <a href="http://www.4ni.co.uk/contact.asp">Click Here</a>
+
+</td>
+<td width='2'></td>
+<td>
+
+</td>
+<td width='4'></td>
+<td>
+
+</td>
+
+</tr>
+</table>
+</td></tr>
+</td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='770' align='center'><tr><td>
+       
+      <img src='http://www.4ni.co.uk/graphics/terms.gif' border='0' usemap='#m'>
+      <map name='m'>
+      
+      <area shape='rect' coords='300,10,370,70' href='http://www.4ni.co.uk/location.asp'>
+      <area shape='rect' coords='150,10,170,70' href='http://www.4ni.co.uk/99140x84x5_auto-alloys-com-alloy-wheels-magherafelt.htm' alt='Alloy Wheels Belfast'>
+      
+      </map>
+        <BR><div align='center'>        
+	        VER= yyz00000007 x yyz000000w51
+	        &nbsp;0
+	          Time=0.015625,
+	         DT=15/12/2011 18:36:37,
+	         4075, 47069, 51144, J4243, 193.55.130.208, 
+	        <BR>ActAdSet=5,
+	         AdsetForTime=,
+	         Setforthisrotation=5,Banner=4, AT=1
+	         Staticset=,
+	         
+        </div>
+        
+</td></tr></table>
+       
+
+<a href='http://www.4ni.co.uk/track/main.asp'><img src='http://www.4ni.co.uk/graphics/ireland.jpg' border='0'></a>
+
+<div align='center'>
+
+</div>
+<BR><div align='center'>There may be ongoing change on the way health and social services are being delivered, but investment continues with a new Critical Care Building nearing completion at the Royal Hospitals site in west..</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-569416-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,981 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb='http://www.facebook.com/2008/fbml'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中科院稱網癮傷及青少年大腦 專家:人際缺失致網癮_新聞_鉅亨網</title>
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="googlebot" content="INDEX,FOLLOW" />
+<meta name="keywords" content="," />
+<meta name="description" content="," />
+<meta property="og:image" content="http://imgcache.cnyes.com/cnews/img/cnyes_logo.gif"/>
+<meta property="og:title" content="中科院稱網癮傷及青少年大腦 專家:人際缺失致網癮_新聞_鉅亨網"/>
+<meta property="og:site_name" content="鉅亨網-新聞頻道"/>
+<link rel="image_src" type="image/gif" href="http://imgcache.cnyes.com/cnews/img/cnyes_logo.gif" />
+<link href="http://imgcache.cnyes.com/cnews/css/public_news.css" rel="stylesheet" type="text/css" />
+<link href="http://imgcache.cnyes.com/cnews/css/big5/newspage09.css" rel="stylesheet" type="text/css" />
+<link href="http://www.cnyes.com/css/google_1AD_BigFont_CSS.css" rel="stylesheet" type="text/css">
+<script src="/js/Prototype.js" type="text/javascript"></script>
+<script src="/js/jspublic.js" type="text/javascript"></script>
+<script src="/js/public.js" type="text/javascript"></script>
+<script src="http://imgcache.cnyes.com/cnews/js/newsLIB.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript"> 
+	GS_googleAddAdSenseService("ca-pub-0246916887946697");
+	GS_googleEnableAllServices();
+</script>
+<script type="text/javascript"> 
+
+	GA_googleAddSlot("ca-pub-0246916887946697", "GG_NEWS_rightdown_300_250");
+	GA_googleAddSlot("ca-pub-0246916887946697", "GG_NEWSCONTENT");
+	GA_googleAddSlot("ca-pub-0246916887946697", "GG_NEWSTITLE");
+</script>
+<script type="text/javascript"> 
+	GA_googleFetchAds();
+</script>
+<script type="text/javascript">
+function switchTab(obj, num, len, cn)
+{
+	var objcss = cn
+	for(var i = 1 ; i<=len; i++)
+	{
+		var otab = obj + '_tab_' + i;
+		var ocnt = obj + '_cnt_' + i;
+		if (i == num){
+		  try{document.getElementById(otab).className=objcss}catch(e){};
+		  try{document.getElementById(ocnt).style.display="block"}catch(e){};
+		}else{
+		  try{document.getElementById(otab).className=""}catch(e){};
+		  try{document.getElementById(ocnt).style.display="none"}catch(e){};
+		}
+	}
+}
+
+function switchTab2(obj, num, len, cn)
+{
+	var objcss = cn
+	for(var i = 0 ; i<len; i++)
+	{
+		var otab = obj + '_tab_' + i;
+		var ocnt = obj + '_cnt_' + i;
+		if (i == num){
+		  try{document.getElementById(otab).className=objcss}catch(e){};
+		  try{document.getElementById(ocnt).style.display="block"}catch(e){};
+		}else{
+		  try{document.getElementById(otab).className=""}catch(e){};
+		  try{document.getElementById(ocnt).style.display="none"}catch(e){};
+		}
+	}
+}
+</script>
+</head>
+<script language="javascript" type="text/javascript" src="/js/Prototype.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jspublic.js"></script>
+<script language="javascript" type="text/javascript" src="/js/public.js"></script>
+<!--Created by Chinayes v1.0 at 2012/1/17 下午 03:12:03-->
+<body>
+	
+    <link href="http://chart.cnyes.com/cssv8/rt10.css" rel="stylesheet" type="text/css" />
+    <script src="http://imgcache.cnyes.com/cnews/js/jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://imgcache.cnyes.com/cnews/js/jquery.cookie.pack.js"></script>
+
+	<script type="text/javascript"> 
+	<!--
+		 var $jq = jQuery.noConflict();
+	//-->
+	</script>
+<div class='header'>    <ul class='masthead'>        <li><a target='_blank' href='http://so.cnyes.com/' title='搜尋'>搜尋</a></li>        <li><a target='_blank' href='http://cn.cnyes.com/' title='簡體版'>簡體版</a></li>        <li><a target='_blank' href='http://mag.chinayes.com/' title='雜誌'>雜誌</a></li>        <li><a target='_blank' href='http://www.cnyes.com/fashion/' title='時尚' class='r'>時尚</a></li>        <li><a target='_blank' href='http://news.cnyes.com/' title='新聞'>新聞</a></li>        <li><a target='_blank' href='http://www.cnyes.com/twstock/' title='台股'>台股</a></li>        <li><a target='_blank' href='http://www.cnyes.com/hkstock/' title='港股'>港股</a></li>        <li><a target='_blank' href='http://www.cnyes.com/chn/stockcenter/index_cnstock.htm' title='A股'>A股</a></li>        <li><a target='_blank' href='http://www.cnyes.com/usastock/' title='美股'>美股</a></li>        <li><a target='_blank' href='http://www.cnyes.com/gold/' title='黃金'>黃金</a></li>        <li><a target='_blank' href='http://www.cnyes.com/forex/' title='外匯'>外匯</a></li>        <li><a target='_blank' href='http://www.cnyes.com/futures/' title='期貨'>期貨</a></li>        <li><a target='_blank' href='http://money.cnyes.com/StockQ.aspx' title='StockQ'>StockQ</a></li>        <li><a target='_blank' href='http://fund.cnyes.com/' title='基金'>基金</a></li>        <li><a target='_blank' href='http://afund.cnyes.com/cn/' title='A基金'>A基金</a></li>        <li><a target='_blank' href='http://house.cnyes.com/index.htm' title='房產'>房產</a></li>        <li class='mdtail'><a href='http://bar.cnyes.com/' target='_blank' title='鉅亨吧'>鉅亨吧</a></li>        <li><a target='_blank' href='http://blog.cnyes.com/' title='Blog'>Blog</a></li>    </ul>    <h1 class='logo'>        <span>鉅亨網</span>        <a title='鉅亨網' href='http://www.cnyes.com' target='_top'><img src='http://imgcache.cnyes.com/cnews/img/cnyes_logo.gif' alt='鉅亨網' width='139' height='46' /></a>        <span>鉅亨新聞</span>        <a title='鉅亨網新聞' href='/' target='_top'><img src='http://imgcache.cnyes.com/cnews/img/logo_news.gif' alt='鉅亨網新聞' height='42' width='73'/></a>    </h1>    <div class='memberlinks'>        <span><a href='http://www.facebook.com/cnYES' target='new' >+粉絲團</a>　</span><a href='http://www.cnyes.com/personal/membercenter/join.htm'>免費註冊</a>|<a href='http://www.cnyes.com/_mem_bin/FormsLogin.asp?http://news.cnyes.com/'>登入</a>    </div>    <div class='gadbar728x90'>        <!-- AD_728*90 -->        <iframe src='http://ad.cnyes.com/cnYESAD/showad.asp?TAG=NEWS_V4HOMEUP' frameborder=no vspace=0 hspace=0  width=728 height=90 marginheight=0 marginwidth=0 scrolling=no></iframe>    </div>    <div class='adglodtxt cBlue'>        <!-- AD_黃金文字 -->         <script type='text/javascript'>
+ad_string='<table width="100%" border="0" cellpadding="0" cellspacing="0"  class="textb">'+
+  '<tr align="center" valign="bottom"> '+
+'<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41224&url=https://www.capital.com.tw/Activity/20111213_hunt2/default.asp target=_blank ><font class=textnews>交易海期來群益 拿愛鳳4s</font></a></td>'+
+'<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41028&url=http://www.cnyes.com/promote/ad.htm target=_blank ><font class=textnews>如何受惠中國政策轉向？</U></font></a></td>'+
+'<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41281&url=http://www.pmf.com.tw/2012chinesenewyear target=_blank ><font class=textnews>春節不打烊 至尊平板天天送</U></font></a></td>'+
+'<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41216&url=http://www.cnyes.com/promoteWeb/berich/default.aspx target=_blank ><font class=textnews>媒體爭相報導外匯紅包自己賺</font></a></td>'+
+'<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41371&url=http://www.fashioncookie.com.tw/products/corpo%3Futm_source=cnyes%26utm_medium=omni%26utm_campaign=affiliate%26utm_content=201112_09 target=_blank ><font class=textnews>新年穿新衣特製只要899</U></font></a></td>'+
+
+
+  '</tr>'+
+'</table>';
+document.write(ad_string);         </script>    </div></div>
+
+<script type="text/javascript"> 
+<!--
+    var url = document.URL;
+     $jq("div[class*='memberlinks'] > a").eq(1).attr("href", "http://www.cnyes.com/_mem_bin/FormsLogin.asp?" + url);
+    if ( $jq.cookie("AicMember2")!=null &&  $jq.cookie("AicMember2")!="" && GetCn( $jq.cookie("AicMember2"))!="")
+         $jq("div[class*='member']").html(GetCn( $jq.cookie("AicMember2")) + "，您好！ <a href=\"http://www.cnyes.com/personal/formslogout.asp\" title=\"會員登出\">登出</a>");
+    function GetCn(a){var o=a.indexOf("CN=")+3;e=a.indexOf(";",o);if(e==-1) e=a.indexOf("&",o);if(e==-1) e=a.length;return a.substring(o,e);}
+-->
+</script>
+	<div class="newsArea bg_newsPage">
+		
+		<div class="col1">
+			<div class="path" style="float:left" >
+<span class="crumb cDGray"><a href="/">新聞首頁</a> &gt; <a href="/sh_stock/list.shtml">滬深股</a> > 內文</span>
+<span id="showmain" class="crumb cDGray"></span>
+&nbsp;　　<fb:like send="true" locale="zh_TW" layout="button_count" ref="title" expr:href='data:post.url' show_faces="false" width="100" font="arial"></fb:like>
+&nbsp;　　<g:plusone></g:plusone>
+</div>
+<div class="path" style="float:right" ></div>
+			<span class="areaBdr"></span>
+			<div class="newsContent bg_newsPage_Lblue">
+				<h1>中科院稱網癮傷及青少年大腦 專家:人際缺失致網癮</h1>
+				<span class="info">鉅亨網新聞中心　(來源：財匯資訊，摘自：中國經濟網)　2012-01-17 15:08:02　<span id="newsPageUrl1"></span>　<span id="spanupdown1"></span></span>
+				<p class="summary" style="display:none;">據中國之聲《全球華語廣播網》報導，昨天全國迎來中小學寒假假期。孩子放假家長很糾結：自己上班，孩子在家犯了網癮該怎么辦？</p><p style="display:none;"><span id="click_20120117151159252868510"></span><script language="javascript" type="text/javascript">pubajax('/WebServices/InteractionService.asmx/WB_getViewsCount','strNewsNO=20120117151159252868510&strChNO=0','click_20120117151159252868510');</script></p>
+				<div class="gadstxtmcont1" id="GoogleAD_oc" style="margin:10px 10px 0; padding:2px 0 5px;border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;"></div>
+				<div id="newsText">
+					<p>據中國之聲《全球華語廣播網》報導，昨天全國迎來中小學寒假假期。孩子放假家長很糾結：自己上班，孩子在家犯了網癮該怎么辦？</p><p>    這樣的擔心不無道理。也就是在昨天，中國互聯網絡信息中心發布報告稱，截至去年12月底，中國網民數已突破5億；而在過去五年內10-29歲的青少年群體是使用互聯網的"主力軍"。</p
+					<!--source from http://news.chinayes.com--><div class="ad_nsbd_300_250">
+					<iframe id="NEWSINSIDE" name="NEWSINSIDE" align="left" src="http://ad.cnyes.com/cnYESAD/showad.asp?TAG=NEWSINSIDE" frameborder="0" vspace="0" hspace="0" width="300" height="250" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+					</div>
+					<p>    除了這個消息，下面的這條新聞家長聽了恐怕更坐不住了。來自中國科學院的一項最新研究顯示，就像海洛因或酒精一樣，過度沉溺於網絡除了傷眼、傷神，更會直接傷害青少年的大腦。這項發現立即引起全球科學家的關注，一位英國心理學家稱，這個研究成果具有"突破性"意義。中央臺記者張加寧隨即采訪了負責該項目的中科院武漢物理與數學研究所教授雷皓。</p><p>    雷皓：有網癮的這些人大腦結構的一些改變和那些毒品成癮的人是類似的，這個是我們認為最有意義的一個結果，就是說它至少起到了提醒作用。但我們只能說網癮患者的大腦的改變和毒癮者的大腦結構的改變是類似的，但是這種改變不一定是由上網本身引起的，因為上網的這些人可以徹夜不睡覺，上網的這些人還有其他的一些精神上的障礙，所以生活不能自理，就是還有很多的其他因素。也有國外的這些評論也在說，就是說也許是這些人本來大腦就跟其他的人有些不太一樣，所以他們才容易上癮，也有這種可能性。</p><p>    網癮對青少年的傷害顯而易見！科學家在對患有網癮的青少年進行大腦磁共振掃描時發現，其腦白質中的神經纖維不如正常人健康。什么是腦白質呢？就是大腦和脊髓的組成部分，是大腦和身體其他部位進行溝通的橋梁。</p><p>    過度上網和大腦受損有關聯，美國知名科技作家尼古拉斯·卡爾認為，上網本身對人們的認知能力有重要的影響：</p><p>    尼古拉斯·卡爾：和所有的智能技術一樣，電腦網絡使人們的某些認知能力加強，比如同時處理多項任務大量的信息碎片等等，但是就在我們加強一部分能力的同時也在喪失另一些能力，比如說我們失去了對一件事長時間專注的能力、過濾干擾的能力，這種保持注意力的能力對於構建我們的記憶力至關重要。</p><p>    （責任編輯：趙晗）</p>
+				</div>
+
+
+					<div class="gadstxtmcont2" id="GoogleADthree" style="margin:10px 10px 0; padding:2px 0 5px;"></div>
+
+                    <script type="text/javascript">
+	                    google_ad_channel = '7306890733'; //  your channel
+	                    cnyes_max_num_ads = '1';
+                    </script>
+                    <script type="text/javascript">
+	                    GA_googleFillSlot("GG_NEWSTITLE");
+                    </script>
+
+<br /><br />
+<div id="spanupdown2" >
+　　
+</div>
+<br />	
+<br />
+					
+
+				<div class="relatedStock" style=" margin-top:10px; padding-top:5px">
+					
+				</div>
+				
+				
+                <center>		
+                <br />
+                <ul style="list-style-type:none;width:630px;">
+                <li style="float:right;margin-right:15px;">
+                &nbsp;&nbsp;<fb:like send="true" locale="zh_TW" expr:href='data:post.url' show_faces="false" width="360" font="arial"></fb:like>
+                </li>
+                <li style="float:right;">
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                </li>
+                <li style="float:right;">
+                    
+                    <img style="float:left" alt="書籤" src="http://imgcache.cnyes.com/cnews/img_bookmark/title_tablebookmark.gif" />
+                        <div style="width:160px;line-height:24px;float:left;background-image:url(http://imgcache.cnyes.com/cnews/img_bookmark/bg_table.gif)">
+                            <a title="twitter" style="line-height:24px;color:#666666;" href="javascript: location.href='http://twitter.com/home?status='+encodeURIComponent(document.URL)+'%20'+encodeURIComponent(document.title);"><img alt="twitter" src="http://imgcache.cnyes.com/cnews/img_bookmark/twitter_16.png" /></a>
+                            <a title="plurk" style="line-height:24px;color:#666666;" href="javascript: location.href='http://www.plurk.com/?qualifier=shares&status='+encodeURIComponent(document.URL)+'%20('+encodeURIComponent(document.title) + ')';"><img alt="plurk" src="http://imgcache.cnyes.com/cnews/img_bookmark/plurk_16.png" /></a>
+                            <a title="facebook" style="line-height:24px;color:#666666;" href="javascript: location.href='http://www.facebook.com/share.php?u='+encodeURIComponent(document.URL)+'&t='+encodeURIComponent(document.title);"><img alt="facebook" src="http://imgcache.cnyes.com/cnews/img_bookmark/facebook_16.png" /></a>
+                <a title="delicious" href="javascript: desc='';if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://del.icio.us/post?title='+encodeURIComponent(document.title)+'&url='+encodeURIComponent(location.href)+'&notes='+encodeURIComponent(desc)));"><img src="http://imgcache.cnyes.com/cnews/img_bookmark/delicious_16.png" /></a>
+                <a title="hemidemi" href="javascript: desc='';via='';if(document.referrer)via=document.referrer;if(typeof(_ref)!='undefined')via=_ref;if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://www.hemidemi.com/user_bookmark/new?title='+encodeURIComponent(document.title)+'&url='+encodeURIComponent(location.href)+'&description='+encodeURIComponent(desc)+'&via='+encodeURIComponent(via)));"><img src="http://imgcache.cnyes.com/cnews/img_bookmark/hd_16.png" /></a>
+                <a title="yahoo" href="javascript: desc='';if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://tw.myweb2.search.yahoo.com/myresults/bookmarklet?t='+encodeURIComponent(document.title)+'&u='+encodeURIComponent(window.location.href)+'&d='+encodeURIComponent(desc)+'&ei=UTF-8'));"><img src="http://imgcache.cnyes.com/cnews/img_bookmark/yahoo_16.png" /></a>
+                <a title="udn" href="javascript: desc='';via='';if(document.referrer)via=document.referrer;if(typeof(_ref)!='undefined')via=_ref;if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://bookmark.udn.com/add?f_TITLE='+encodeURIComponent(document.title)+'&f_URL='+encodeURIComponent(location.href)+'&f_DIGEST='+encodeURIComponent(desc)+'&via='+encodeURIComponent(via)));"><img src="http://imgcache.cnyes.com/cnews/img_bookmark/udn_16.png" /></a>
+                        </div>
+                        <img style="line-height:24px;" alt="書籤" src="http://imgcache.cnyes.com/cnews/img_bookmark/bot_table.gif" />
+                </li>
+
+                </ul>
+                </center>
+
+
+				<div class="moodCounter">
+					
+					<span class="f15px">這篇新聞讓您覺得？</span>
+					<ul>
+					<li><label for="md01"><img src="http://imgcache.cnyes.com/cnews/img/ico_md01.gif" /><br />實用</label><input name="rdeclare" type="radio" value="0" id="md01" onclick="javascript:clickDeclare('20120117151159252868510',0);"/></li>
+					<li><label for="md02"><img src="http://imgcache.cnyes.com/cnews/img/ico_md02.gif" /><br />期待</label><input name="rdeclare" type="radio" value="1" id="md02" onclick="javascript:clickDeclare('20120117151159252868510',1);"/></li>
+					<li><label for="md03"><img src="http://imgcache.cnyes.com/cnews/img/ico_md03.gif" /><br />激動</label><input name="rdeclare" type="radio" value="2" id="md03" onclick="javascript:clickDeclare('20120117151159252868510',2);"/></li>
+					<li><label for="md04"><img src="http://imgcache.cnyes.com/cnews/img/ico_md04.gif" /><br />難過</label><input name="rdeclare" type="radio" value="3" id="md04" onclick="javascript:clickDeclare('20120117151159252868510',3);"/></li>
+					<li><label for="md05"><img src="http://imgcache.cnyes.com/cnews/img/ico_md05.gif" /><br />生氣</label><input name="rdeclare" type="radio" value="4" id="md05" onclick="javascript:clickDeclare('20120117151159252868510',4);"/></li>
+					<li><label for="md06"><img src="http://imgcache.cnyes.com/cnews/img/ico_md06.gif" /><br />搞笑</label><input name="rdeclare" type="radio" value="5" id="md06" onclick="javascript:clickDeclare('20120117151159252868510',5);"/></li>
+					<li><label for="md07"><img src="http://imgcache.cnyes.com/cnews/img/ico_md07.gif" /><br />胡扯</label><input name="rdeclare" type="radio" value="6" id="md07" onclick="javascript:clickDeclare('20120117151159252868510',6);"/></li>
+					<li><label for="md08"><img src="http://imgcache.cnyes.com/cnews/img/ico_md08.gif" /><br />鼓掌</label><input name="rdeclare" type="radio" value="7" id="md08" onclick="javascript:clickDeclare('20120117151159252868510',7);"/></li>
+					<li><label for="md09"><img src="http://imgcache.cnyes.com/cnews/img/ico_md09.gif" /><br />天哪</label><input name="rdeclare" type="radio" value="8" id="md09" onclick="javascript:clickDeclare('20120117151159252868510',8);"/></li>
+					</ul>
+					
+					<span class="clear"></span>
+				</div>
+				<div class="newsFunctions2">
+
+					<ul>
+                        <li><a onclick="javascript:newsCopyToClipboard();alert('只要將滑鼠點擊「引用本文」,您就可以用滑鼠右鍵「貼上」的方式,將這一則新聞的標題與新聞連結網址,貼到您準備引用這一則新聞的網頁上.');" href="#">引用本文</a></li>
+					<li><a href="/printme.aspx?ao=/comment,20120117151159252868510.htm&page=sub&con=all">列印本文</a></li>
+					<li><a href="/SendMail.aspx?ChID=&InfoID=20120117151159252868510">轉寄好友</a></li>
+					<li><a href="javascript:T(16);">大</a> <a href="javascript:T(14);">中</a> <a href="javascript:T(12);">小</a></li>
+					<li class="functionEnd"><a href="/mynews_main.aspx">我的收藏</a></li>
+					<li class="functionEnd"><a href="javascript:mynews_add2('/comment,20120117151159252868510.htm',location.href)">收藏文章</a></li>
+					</ul>
+
+				</div>
+				<span class="blank10"></span>
+			</div>  
+			<span class="areaBdr"></span>
+			<span class="blank9w"></span>
+			<span class="areaBdr"></span>
+			<div id="aboutnewslink" class="box">
+
+			</div>
+			<span class="areaBdr"></span>
+			<span class="blank9w"></span>
+
+			<div>
+				<iframe src="http://ad.cnyes.com/cnYESAD/showad.asp?TAG=NEWS_INDOWN" frameborder="no" vspace="0" hspace="0" width="650" height="250" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+				﻿    <style type="text/css">
+    .heartnew a { font-weight:bold }
+    .heartnew2 ul li a { font-size:13px; }
+    </style>
+    
+    <ul style="float:left; width:100% ; border-bottom:#ccc 1px solid; margin-bottom:10px; font-size:13px;line-height:23px;border-top:#ccc 1px solid; text-align:center;">
+    	<li id="chartTab_tab_1" class="heartnew" style="float:left;width:10% ; border-right:#ccc 1px solid; text-align:center;">
+            <a style="color:#333333;" onmouseover="javascript:switchTab('chartTab', 1, 9 , 'heartnew');" href="/heartlist/0.htm">最實用</a>
+        </li>
+        <li id="chartTab_tab_2" class="" style="float:left;width:10% ; border-right:#ccc 1px solid; text-align:center;">
+            <a style="color:#333333;" onmouseover="javascript:switchTab('chartTab', 2, 9 , 'heartnew');" href="/heartlist/1.htm">最期待</a>
+        </li>
+        <li id="chartTab_tab_3" class="" style="float:left;width:10% ; border-right:#ccc 1px solid; text-align:center;">
+            <a style="color:#333333;" onmouseover="javascript:switchTab('chartTab', 3, 9 , 'heartnew');" href="/heartlist/2.htm">最激動</a>
+        </li>
+        <li id="chartTab_tab_4" class="" style="float:left;width:10% ; border-right:#ccc 1px solid; text-align:center;">
+            <a style="color:#333333;" onmouseover="javascript:switchTab('chartTab', 4, 9 , 'heartnew');" href="/heartlist/3.htm">最難過</a>
+        </li>
+        <li id="chartTab_tab_5" class="" style="float:left;width:10% ; border-right:#ccc 1px solid; text-align:center;">
+            <a style="color:#333333;" onmouseover="javascript:switchTab('chartTab', 5, 9 , 'heartnew');" href="/heartlist/4.htm">最生氣</a>
+        </li>
+        <li id="chartTab_tab_6" class="" style="float:left;width:10% ; border-right:#ccc 1px solid; text-align:center;">
+            <a style="color:#333333;" onmouseover="javascript:switchTab('chartTab', 6, 9 , 'heartnew');" href="/heartlist/5.htm">最搞笑</a>
+        </li>
+        <li id="chartTab_tab_7" class="" style="float:left;width:10% ; border-right:#ccc 1px solid; text-align:center;">
+            <a style="color:#333333;" onmouseover="javascript:switchTab('chartTab', 7, 9 , 'heartnew');" href="/heartlist/6.htm">最胡扯</a>
+        </li>
+        <li id="chartTab_tab_8" class="" style="float:left;width:10% ; border-right:#ccc 1px solid; text-align:center;">
+            <a style="color:#333333;" onmouseover="javascript:switchTab('chartTab', 8, 9 , 'heartnew');" href="/heartlist/7.htm">最鼓掌</a>
+        </li>
+        <li id="chartTab_tab_9" class="" style="float:left;width:10% ; border-right:#ccc 1px solid; text-align:center;">
+            <a style="color:#333333;" onmouseover="javascript:switchTab('chartTab', 9, 9 , 'heartnew');" href="/heartlist/8.htm">最天哪</a>
+        </li>
+    </ul>
+    <div id="chartTab_cnt_1" class="heartnew2" style="display: ; padding-left:10px;">
+        <ul>
+            <li style='line-height:23px;'>．<a href='/Content/20120113/KFHYIQXR71SY3.shtml' style='color:#2353a7;' >大選前夕表態 王雪紅：我無法想像沒有九二共識的兩岸關係</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYY9BZD21F2.shtml' style='color:#2353a7;' >管理鴻海百萬大軍 郭台銘向動物園長請益！</a></li><li style='line-height:23px;'>．<a href='/Content/20120112/KFHYAEPW3QXIB.shtml' style='color:#2353a7;' >救美國財政 巴菲特嗆：共和黨捐多少錢 我出多少</a></li><li style='line-height:23px;'>．<a href='/Content/20120114/KFHYQRK4A07FY.shtml' style='color:#2353a7;' >總統大選開票 馬英九自行宣布當選：恭喜大家 我們贏了！</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYI2DAWYSDQ.shtml' style='color:#2353a7;' >台股盤前－選前倒數 多空下好離手 政治盤撐季線</a></li>
+        </ul>
+    </div>
+    <div id="chartTab_cnt_2" class="heartnew2" style="display:none ; padding-left:10px;">
+        <ul>
+            <li style='line-height:23px;'>．<a href='/Content/20120115/KFHYYBSC2TW17.shtml' style='color:#2353a7;' >郭台銘「馬上」拚經濟 鴻海Ａ計畫啟動！加碼投資兩岸巴西</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYXMO85ZW6.shtml' style='color:#2353a7;' >連任得票大幅滑落 馬英九：會記取教訓</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYI2J2E3DI4.shtml' style='color:#2353a7;' >美3航母集結 兵臨波斯灣 俄警告：美國真的可能攻擊伊朗！</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYQPULH5Y0U.shtml' style='color:#2353a7;' >〈名師解盤〉慶祝行情 鴻海、宏達電領銜演出 但留意節前賣壓</a></li><li style='line-height:23px;'>．<a href='/Content/20120114/KFHYQRK4A07FY.shtml' style='color:#2353a7;' >總統大選開票 馬英九自行宣布當選：恭喜大家 我們贏了！</a></li>
+        </ul>
+    </div>
+    <div id="chartTab_cnt_3" class="heartnew2" style="display:none ; padding-left:10px;">
+        <ul>
+            <li style='line-height:23px;'>．<a href='/Content/20120114/KFHYQRK4A07FY.shtml' style='color:#2353a7;' >總統大選開票 馬英九自行宣布當選：恭喜大家 我們贏了！</a></li><li style='line-height:23px;'>．<a href='/Content/20120112/KFHYBBTKY2276.shtml' style='color:#2353a7;' >陜西省圖書館免費幫助農民工上網預訂火車票</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYIQXR71SY3.shtml' style='color:#2353a7;' >大選前夕表態 王雪紅：我無法想像沒有九二共識的兩岸關係</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYYBSC2TW17.shtml' style='color:#2353a7;' >郭台銘「馬上」拚經濟 鴻海Ａ計畫啟動！加碼投資兩岸巴西</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYITTZL7IFI.shtml' style='color:#2353a7;' >臺灣首富王雪紅宣布支持馬英九 (圖)</a></li>
+        </ul>
+    </div>
+    <div id="chartTab_cnt_4" class="heartnew2" style="display:none ; padding-left:10px;">
+        <ul>
+            <li style='line-height:23px;'>．<a href='/Content/20120114/KFHYQRK4A07FY.shtml' style='color:#2353a7;' >總統大選開票 馬英九自行宣布當選：恭喜大家 我們贏了！</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYXN52CRB8M.shtml' style='color:#2353a7;' >連任失利！邱毅：正義被邪惡打敗</a></li><li style='line-height:23px;'>．<a href='/Content/20120117/KFHZDAPMC981W.shtml' style='color:#2353a7;' >沙烏地阿拉伯大漲目標油價！首衝上三位數100美元</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYITTZL7IFI.shtml' style='color:#2353a7;' >臺灣首富王雪紅宣布支持馬英九 (圖)</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYI2J2E3DI4.shtml' style='color:#2353a7;' >美3航母集結 兵臨波斯灣 俄警告：美國真的可能攻擊伊朗！</a></li>
+        </ul>
+    </div>
+    <div id="chartTab_cnt_5" class="heartnew2" style="display:none ; padding-left:10px;">
+        <ul>
+            <li style='line-height:23px;'>．<a href='/Content/20120115/KFHYY9BZD21F2.shtml' style='color:#2353a7;' >管理鴻海百萬大軍 郭台銘向動物園長請益！</a></li><li style='line-height:23px;'>．<a href='/Content/20120114/KFHYQRK4A07FY.shtml' style='color:#2353a7;' >總統大選開票 馬英九自行宣布當選：恭喜大家 我們贏了！</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYIQXR71SY3.shtml' style='color:#2353a7;' >大選前夕表態 王雪紅：我無法想像沒有九二共識的兩岸關係</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYYHRL4ESVU.shtml' style='color:#2353a7;' >周永明︰宏達電超越政治 是台灣人的品牌</a></li><li style='line-height:23px;'>．<a href='/Content/20120112/KFHYBFFLHDVGM.shtml' style='color:#2353a7;' >彭博社：中美兩國共同認知 支持馬英九勝選</a></li>
+        </ul>
+    </div>
+    <div id="chartTab_cnt_6" class="heartnew2" style="display:none ; padding-left:10px;">
+        <ul>
+            <li style='line-height:23px;'>．<a href='/Content/20120115/KFHYY9BZD21F2.shtml' style='color:#2353a7;' >管理鴻海百萬大軍 郭台銘向動物園長請益！</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYYFHV3Y68U.shtml' style='color:#2353a7;' >王雪紅：宏達電要做世界第一 是台灣之光 為台灣發光</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYYHRL4ESVU.shtml' style='color:#2353a7;' >周永明︰宏達電超越政治 是台灣人的品牌</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYYBSC2TW17.shtml' style='color:#2353a7;' >郭台銘「馬上」拚經濟 鴻海Ａ計畫啟動！加碼投資兩岸巴西</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYIQXR71SY3.shtml' style='color:#2353a7;' >大選前夕表態 王雪紅：我無法想像沒有九二共識的兩岸關係</a></li>
+        </ul>
+    </div>
+    <div id="chartTab_cnt_7" class="heartnew2" style="display:none ; padding-left:10px;">
+        <ul>
+            <li style='line-height:23px;'>．<a href='/Content/20120113/KFHYIQXR71SY3.shtml' style='color:#2353a7;' >大選前夕表態 王雪紅：我無法想像沒有九二共識的兩岸關係</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYYHRL4ESVU.shtml' style='color:#2353a7;' >周永明︰宏達電超越政治 是台灣人的品牌</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYY9BZD21F2.shtml' style='color:#2353a7;' >管理鴻海百萬大軍 郭台銘向動物園長請益！</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYIFIB3YIUC.shtml' style='color:#2353a7;' >總統大選周末登場 台股屏息以待 多數外資認為執政黨連任將帶動大漲</a></li><li style='line-height:23px;'>．<a href='/Content/20120112/KFHYBFFLHDVGM.shtml' style='color:#2353a7;' >彭博社：中美兩國共同認知 支持馬英九勝選</a></li>
+        </ul>
+    </div>
+    <div id="chartTab_cnt_8" class="heartnew2" style="display:none ; padding-left:10px;">
+        <ul>
+            <li style='line-height:23px;'>．<a href='/Content/20120113/KFHYIQXR71SY3.shtml' style='color:#2353a7;' >大選前夕表態 王雪紅：我無法想像沒有九二共識的兩岸關係</a></li><li style='line-height:23px;'>．<a href='/Content/20120114/KFHYQRK4A07FY.shtml' style='color:#2353a7;' >總統大選開票 馬英九自行宣布當選：恭喜大家 我們贏了！</a></li><li style='line-height:23px;'>．<a href='/Content/20120112/KFHYAEPW3QXIB.shtml' style='color:#2353a7;' >救美國財政 巴菲特嗆：共和黨捐多少錢 我出多少</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYXN52CRB8M.shtml' style='color:#2353a7;' >連任失利！邱毅：正義被邪惡打敗</a></li><li style='line-height:23px;'>．<a href='/Content/20120112/KFHYAVO5UQ3FS.shtml' style='color:#2353a7;' >表態！人民日報：中國沒理由追隨美國禁買伊朗石油</a></li>
+        </ul>
+    </div>
+    <div id="chartTab_cnt_9" class="heartnew2" style="display:none ; padding-left:10px;">
+        <ul>
+            <li style='line-height:23px;'>．<a href='/Content/20120115/KFHYY9BZD21F2.shtml' style='color:#2353a7;' >管理鴻海百萬大軍 郭台銘向動物園長請益！</a></li><li style='line-height:23px;'>．<a href='/Content/20120114/KFHYQRK4A07FY.shtml' style='color:#2353a7;' >總統大選開票 馬英九自行宣布當選：恭喜大家 我們贏了！</a></li><li style='line-height:23px;'>．<a href='/Content/20120115/KFHYYBSC2TW17.shtml' style='color:#2353a7;' >郭台銘「馬上」拚經濟 鴻海Ａ計畫啟動！加碼投資兩岸巴西</a></li><li style='line-height:23px;'>．<a href='/Content/20120113/KFHYIDNGGT4UU.shtml' style='color:#2353a7;' >蔡英文忙掃街不出席國際記者會</a></li><li style='line-height:23px;'>．<a href='/Content/20120112/KFHYAHDB3SNI0.shtml' style='color:#2353a7;' >伊朗核子科學家遭炸彈攻擊身亡 波灣局勢惡化</a></li>
+        </ul>
+    </div>
+				<span class="areaBdr"></span>
+			</div>  
+			<span class="blank9w"></span>
+			<span class="areaBdr"></span>
+	
+
+			<div class="box newsComment bg_newsPage_Lblue" id="comment">
+				<div class="title"><h2>新聞評論</h2><a href="/comment,20120117151159252868510.htm" class="cBlue">已有<span class="fB cDRed"><span id="gCount2012011715115925286851000"></span>
+<script language="javascript" type="text/javascript">    pubajax('/WebServices/InteractionService.asmx/WB_getCommCount','strNewsNO=20120117151159252868510&strChNO=&Today=0','gCount2012011715115925286851000');</script></span>位網友發表了評論<span class="cDRed">(點此查看)</span></a></div>
+				<div class="commentbox">
+					<form name="formpost" onsubmit="return reply_checksubmit();" method="post" target="_self" action="/reply/dopost.aspx">
+<div class="textBox"><textarea id="commentbody" name="commentbody" onfocus="reply_clearfield()" cols="80" rows="8">發表我的看法！</textarea>
+<span class="blank6"></span><span class="cGray">網友評論僅代表網友個人立場，並不表明鉅亨網贊同其觀點或證實其描述。</span></div>
+<div class="send"><input type="submit" name="frmsubmit" value="立即發表" class="input"/></div>
+<div class="login"><label>我的名字：</label><input type="text" name="username" class="input1" style="width: 180px"/></div>
+<input type="hidden" name="nid" value="20120117151159252868510" />
+</form>
+<script type="text/javascript">
+var tip = '發表我的看法！';
+                                function reply_checksubmit()
+                                {
+	                                if(document.formpost.commentbody.value==tip || document.formpost.commentbody.value.length==0)
+	                                {
+		                                alert('請填寫內容');
+		                                return false;
+	                                }
+                                    //try{ext_submit();}catch(e){}
+	                                return true;
+                                }
+
+                                function reply_clearfield()
+                                {
+	                                if (document.formpost.commentbody.value == tip)
+	                                {
+		                                document.formpost.commentbody.value = '';
+	                                }
+                                }
+</script>
+
+					<span class="blank9"></span>
+				</div>
+				<script type="text/javascript">
+				
+					var temp1 = document.getElementsByTagName("form")[0];
+
+					temp1.appendChild( createmetat('label') )
+					temp1.appendChild( createmetat('input') )
+					
+	
+                    function createmetat(elmtName) 
+                    {
+                        elmtName = elmtName ? elmtName : '';
+                        var inputElmt ;
+                        if ( elmtName == 'label' )
+                        {
+                            inputElmt = document.createElement('label');
+                            inputElmt.innerHTML = 'EMAIL：' ;
+                        }
+                        else if ( elmtName == 'br' )
+                        {
+                            inputElmt = document.createElement('br');
+                        }
+                        else if ( elmtName == 'input' )
+                        {
+                            inputElmt = document.createElement('input');
+                            inputElmt.setAttribute('type', 'text');
+                            inputElmt.setAttribute('id', 'txtEMAIL1');
+                            inputElmt.setAttribute('name', 'txtEMAIL1');
+                            inputElmt.setAttribute('class', 'input1');
+                            inputElmt.setAttribute('style', 'width: 180px');
+                            
+                        }
+                        return inputElmt;
+                    }				
+				</script>
+			</div>
+
+			<span class="areaBdr"></span>	
+			<span class="blank9w"></span>
+			<span class="areaBdr"></span>
+
+		</div>
+		<div class="col2" style=" margin-top:-1em;">﻿
+<script type="text/javascript">
+
+function goOpenSearch(keyword)
+{
+    var tempU = '' ; 
+    
+    var q = ""
+    
+    if (keyword == '')
+    {
+        q = document.getElementById('search').value
+    }
+    else
+    {
+        q = keyword
+    }
+    if (q == '請輸入新聞關鍵字' || q == '')
+    {
+        q = '頭條'
+    }
+    tempU = '/search.aspx?q=' + encodeURI( q ) + '&D=7&P=1&1=1'
+    
+    openFullPage(tempU)
+}
+
+function openFullPage(myURL)
+{   
+    MM_openBrWindow(myURL,'','width=1000,height=710,toolbar=yes,location=yes,directories=yes,scrollbars=yes,menubar=yes,status=yes,resizable=yes')
+}
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+</script>
+<div class="cysSearch">
+    <input id="search" type="text" style=" width:248px;" maxlength="15" name="username" class="input" value="請輸入新聞關鍵字" onclick="javascript:this.value='';" />
+    <input class="searchbtn" type="button" value="" onclick="goOpenSearch('')" />
+</div>
+
+
+﻿<marquee direction='left' scrolldelay='150' scrollAmount='5' width=290 height=25 ><span style='color:#ee1111;font-size:14px;font-weight:bold;'><b>NEWS: </b></span><a target='blank' style='color:#2353a7;font-size:14px;font-weight:bold;' href='http://www.ingfunds.com.tw/activity/BRIICSS/index.html'>小資甩開老闆拚金磚! ７國均衡配置逆轉勝</a>　　　 </marquee>
+
+<div class="ad_nsRT_300_250" style=" margin-top:-0.5em;"><iframe src='http://ad.cnyes.com/cnYESAD/showad.asp?TAG=NEWS_V4HOMERIGHTTOP' frameborder='no' vspace='0' hspace='0'  width='300' height='250' marginheight='0' marginwidth='0' scrolling='no'></iframe></div>
+
+
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+
+
+
+<div class="contentBoxTitle menu-w60">
+  <ul class="menu">
+    <li id="clickTab_tab_5" class="selected">
+      <a onmouseover="javascript:switchTab('clickTab', 5, 5, 'selected');" href="/viewlistindex/list.htm">點閱排行</a>
+    </li>
+    <li id="clickTab_tab_1" class="">
+      <a onmouseover="javascript:switchTab('clickTab', 1, 5, 'selected');" href="/tw_stock/list.shtml">台股</a>
+    </li>
+    <li id="clickTab_tab_2" class="">
+      <a onmouseover="javascript:switchTab('clickTab', 2, 5, 'selected');" href="/us_stock/list.shtml">美股</a>
+    </li>
+    <li id="clickTab_tab_3" class="">
+      <a onmouseover="javascript:switchTab('clickTab', 3, 5, 'selected');" href="/forex/list.shtml">外匯</a>
+    </li>
+    <li id="clickTab_tab_4" class="">
+      <a onmouseover="javascript:switchTab('clickTab', 4, 5, 'selected');" href="/cnyeshouse/list.shtml">房地產</a>
+    </li>
+  </ul>
+</div>
+<div class="contentBoxBody">
+  <ol id="clickTab_cnt_5" style=""  class="rankList tabComment">
+      <li><label class='No01'></label><a href='/content/20120117/KFHZCXHWDOUNI.shtml' title='台灣主要報紙頭條要聞一覽( 1月17  )' class='videoNews'>台灣主要報紙頭條要聞一覽( 1月17  )</a></li><li><label class='No02'></label><a href='/content/20120117/KFHZDEBJE3I64.shtml' title='歐洲央行發出最嚴厲警告：歐債問題非常危急' class='videoNews'>歐洲央行發出最嚴厲警告：歐債問題非常危急</a></li><li><label class='No03'></label><a href='/content/20120117/KFHZ5Z4A1GBRE.shtml' title='鉅亨早報 2012年1月17日' class='videoNews'>鉅亨早報 2012年1月17日</a></li><li><label class='No04'></label><a href='/content/20120117/KFHZCXJ2DRM62.shtml' title='告別北京后 洪博培無奈揮手告別總統夢' class='videoNews'>告別北京后 洪博培無奈揮手告別總統夢</a></li><li><label class='No05'></label><a href='/content/20120117/KFHZD54JTD44D.shtml' title='蒙蒂警告：德國再不軟化伸援 歐債國將爆強烈民怨' class='videoNews'>蒙蒂警告：德國再不軟化伸援 歐債國將爆強</a></li><li><label class='No06'></label><a href='/content/20120117/KFHZDSFM0QEGE.shtml' title='歐元多頭正玩起「危險遊戲」' class='videoNews'>歐元多頭正玩起「危險遊戲」</a></li><li><label class='No07'></label><a href='/content/20120117/KFHZDB0DXCAH6.shtml' title='讓洪博培退選的那些事兒' class='videoNews'>讓洪博培退選的那些事兒</a></li><li><label class='No08'></label><a href='/content/20120117/KFHZDH0NYFENA.shtml' title='台股盤後─謝票行情還來！蘋果派助攻 帶量千億元站上7200' class='videoNews'>台股盤後─謝票行情還來！蘋果派助攻 帶量</a></li><li><label class='No09'></label><a href='/content/20120117/KFHZ5YH1RMJRH.shtml' title='美夢不再 衛報：經濟再平衡有助解決危機 然意識型態紛爭是最大阻撓' class='videoNews'>美夢不再 衛報：經濟再平衡有助解決危機 </a></li><li><label class='No10'></label><a href='/content/20120117/KFHZDBA0TPLL2.shtml' title='〈理財〉存退休金打三呆 讓財富不縮水' class='videoNews'>〈理財〉存退休金打三呆 讓財富不縮水</a></li>
+  </ol>
+  <ol id="clickTab_cnt_1" style="display:none;"  class="rankList tabComment">
+      <li><label class='No01'></label><a href='/content/20120117/KFHZCXHWDOUNI.shtml' title='台灣主要報紙頭條要聞一覽( 1月17  )' class='videoNews'>台灣主要報紙頭條要聞一覽( 1月17  )</a></li><li><label class='No02'></label><a href='/content/20120117/KFHZ5Z4A1GBRE.shtml' title='鉅亨早報 2012年1月17日' class='videoNews'>鉅亨早報 2012年1月17日</a></li><li><label class='No03'></label><a href='/content/20120117/KFHZDH0NYFENA.shtml' title='台股盤後─謝票行情還來！蘋果派助攻 帶量千億元站上7200' class='videoNews'>台股盤後─謝票行情還來！蘋果派助攻 帶量</a></li><li><label class='No04'></label><a href='/content/20120117/KFHZD8P47YIHA.shtml' title='康舒獲蘋果「正名」！蘋果消費電源、工業電源通吃' class='videoNews'>康舒獲蘋果「正名」！蘋果消費電源、工業電</a></li><li><label class='No05'></label><a href='/content/20120117/KFHZDBCNVBYTU.shtml' title='蘋果報明牌？供應商榜單滿堂紅！' class='videoNews'>蘋果報明牌？供應商榜單滿堂紅！</a></li><li><label class='No06'></label><a href='/content/20120117/KFHZCZX2613TA.shtml' title='HTC CEO：不懼對手大炮核武攻擊' class='videoNews'>HTC CEO：不懼對手大炮核武攻擊</a></li><li><label class='No07'></label><a href='/content/20120117/KFHZDM681P8BM.shtml' title='歐債問題、原物料成本升 台灣非科技業衰退風險升高！' class='videoNews'>歐債問題、原物料成本升 台灣非科技業衰退</a></li><li><label class='No08'></label><a href='/content/20120117/KFHZD5NF35F42.shtml' title='台股盤中─籌碼換手 融資轉增 量縮有利國安基金人工作價' class='videoNews'>台股盤中─籌碼換手 融資轉增 量縮有利國</a></li><li><label class='No09'></label><a href='/content/20120117/KFHZD2U61379V.shtml' title='彭淮南：歐信評參考就好　台股投資人勿過度依賴恐慌' class='videoNews'>彭淮南：歐信評參考就好　台股投資人勿過度</a></li><li><label class='No10'></label><a href='/content/20120117/KFHZDRG1V0HB.shtml' title='卡位「龍頭」行情？外資買超42億元 投信自營對作！' class='videoNews'>卡位「龍頭」行情？外資買超42億元 投信自</a></li>
+  </ol>
+  <ol id="clickTab_cnt_2" style="display:none;" class="rankList tabComment">
+      <li><label class='No01'></label><a href='/content/20120117/KFHZCITGLV7NU.shtml' title='標普：希臘即將債務違約' class='videoNews'>標普：希臘即將債務違約</a></li><li><label class='No02'></label><a href='/content/20120117/KFHZCX2RPMEIR.shtml' title='中華電投資35億元入股華航 搶攻觀光雲' class='videoNews'>中華電投資35億元入股華航 搶攻觀光雲</a></li><li><label class='No03'></label><a href='/content/20120117/KFHZDGPY1FGXU.shtml' title='三星加快擺脫Android 拉攏英特爾合作OS' class='videoNews'>三星加快擺脫Android 拉攏英特爾合作OS</a></li><li><label class='No04'></label><a href='/content/20120117/KFHZCXSZS1II2.shtml' title='匯控范智廉：解決歐債危機指日可待 亞洲中東拉美雇前線人員' class='videoNews'>匯控范智廉：解決歐債危機指日可待 亞洲中</a></li><li><label class='No05'></label><a href='/content/20120117/KFHZDJ3HD9RMK.shtml' title='終於傳出時間表！  科技媒體：Facebook擬於5月第3周' class='videoNews'>終於傳出時間表！  科技媒體：Facebook擬</a></li><li><label class='No06'></label><a href='/content/20120117/KFHZDH5BAOKYG.shtml' title='〈分析〉美國零售業成長緩慢一如去年 專家：關鍵是就業市場' class='videoNews'>〈分析〉美國零售業成長緩慢一如去年 專家</a></li><li><label class='No07'></label><a href='/content/20120117/KFHZD4UFYTIZB.shtml' title='福布斯：微軟WP需從Android吸取教訓' class='videoNews'>福布斯：微軟WP需從Android吸取教訓</a></li><li><label class='No08'></label><a href='/content/20120117/KFHZDWQ5MTSNU.shtml' title='美股盤前─大陸第四季GDP報佳音 大盤或開高' class='videoNews'>美股盤前─大陸第四季GDP報佳音 大盤或開</a></li><li><label class='No09'></label><a href='/content/20120117/KFHZCDX8TEX32.shtml' title='薩科齊：我根本不理會評級機構言論' class='videoNews'>薩科齊：我根本不理會評級機構言論</a></li><li><label class='No10'></label><a href='/content/20120117/KFHZD0I0Q4DS6.shtml' title='蘋果將在法國普羅旺斯建設全透明零售店(圖)' class='videoNews'>蘋果將在法國普羅旺斯建設全透明零售店(圖</a></li>
+  </ol>
+  <ol id="clickTab_cnt_3" style="display:none;" class="topList_01 tabComment">
+      <li><label class='No01'></label><a href='/content/20120117/KFHZDSFM0QEGE.shtml' title='歐元多頭正玩起「危險遊戲」' class='videoNews'>歐元多頭正玩起「危險遊戲」</a></li><li><label class='No02'></label><a href='/content/20120117/KFHZDABF7Y40A.shtml' title='亞匯午盤—中國經濟數據提振樂觀情緒 歐元、澳元反彈' class='videoNews'>亞匯午盤—中國經濟數據提振樂觀情緒 歐元</a></li><li><label class='No03'></label><a href='/content/20120117/KFHZD7IKMYVX8.shtml' title='標普降評  歐盟主席范龍佩反擊：重塑歐元區已有實質進展' class='videoNews'>標普降評  歐盟主席范龍佩反擊：重塑歐元</a></li><li><label class='No04'></label><a href='/content/20120117/KFHZD090JMZ48.shtml' title='死硬派！9國信評遭降後 德國仍不願擴大EFSF規模' class='videoNews'>死硬派！9國信評遭降後 德國仍不願擴大EF</a></li><li><label class='No05'></label><a href='/content/20120117/KFHZD0040X5LA.shtml' title='孟德浩：法國失去AAA評級 歐債危機愈演愈烈' class='videoNews'>孟德浩：法國失去AAA評級 歐債危機愈演愈</a></li><li><label class='No06'></label><a href='/content/20120117/KFHZCZS9XA6AU.shtml' title='希臘違約預期再浮現 歐元遠遜商品貨幣' class='videoNews'>希臘違約預期再浮現 歐元遠遜商品貨幣</a></li><li><label class='No07'></label><a href='/content/20120117/KFHZDWQ5WKF6Z.shtml' title='美股盤前─大陸第四季GDP報佳音 大盤或開高' class='videoNews'>美股盤前─大陸第四季GDP報佳音 大盤或開</a></li><li><label class='No08'></label><a href='/content/20120117/KFHZCPHHU14T2.shtml' title='歐洲盤前—標普下調EFSF評級，商品貨幣依舊強勢' class='videoNews'>歐洲盤前—標普下調EFSF評級，商品貨幣依舊</a></li><li><label class='No09'></label><a href='/content/20120117/KFHZD2J2F85YM.shtml' title='摩根士丹利:2012將是美元之年' class='videoNews'>摩根士丹利:2012將是美元之年</a></li><li><label class='No10'></label><a href='/content/20120117/KFHZD68DNOSTG.shtml' title='中國2011全年貿易順差1551億美元 同比減264億美元' class='videoNews'>中國2011全年貿易順差1551億美元 同比減2</a></li>
+  </ol>
+  <ol id="clickTab_cnt_4" style="display:none;" class="topList_01 tabComment">
+      <li><label class='No01'></label><a href='/content/20120117/KFHZDOKK5SMYA.shtml' title='房市慶祝行情？ 大台北9建案選後房價破表  Q1推案量300' class='videoNews'>房市慶祝行情？ 大台北9建案選後房價破表</a></li><li><label class='No02'></label><a href='/content/20120117/KFHZD2DMFG76E.shtml' title='更新案是房價飆漲元兇? 北市府力駁：供給釋出抑價' class='videoNews'>更新案是房價飆漲元兇? 北市府力駁：供給</a></li><li><label class='No03'></label><a href='/content/20120117/KFHZDMR1MSV9N.shtml' title='趙藤雄：台灣房市最壞時候已經過去 房價全面下修？不可能' class='videoNews'>趙藤雄：台灣房市最壞時候已經過去 房價全</a></li><li><label class='No04'></label><a href='/content/20120117/KFHZD89T0NSKQ.shtml' title='新北市府推都更10計 新店2處公辦都更上路' class='videoNews'>新北市府推都更10計 新店2處公辦都更上路</a></li><li><label class='No05'></label><a href='/content/20120117/KFHZDDX26XJCI.shtml' title='加速都更 新北釘子戶5戶以下限制取消' class='videoNews'>加速都更 新北釘子戶5戶以下限制取消</a></li><li><label class='No06'></label><a href='/content/20120117/KFHZDBAMEO8DQ.shtml' title='後馬英九時代，房地產政策必受重視的兩大議題 ~【維護居住正義' class='videoNews'>後馬英九時代，房地產政策必受重視的兩大議</a></li><li><label class='No07'></label><a href='/content/20120117/KFHZDB795QR0E.shtml' title='從總統大選結果，預測台灣房地產未來發展趨勢' class='videoNews'>從總統大選結果，預測台灣房地產未來發展趨</a></li><li><label class='No08'></label><a href='/content/20120117/KFHZD91QRKBY6.shtml' title='中金：逾2000億房地產信託今年到期 進入償付高峰' class='videoNews'>中金：逾2000億房地產信託今年到期 進入償</a></li><li><label class='No09'></label><a href='/content/20120117/KFHZCZF057GDM.shtml' title='85%經濟學家預期半年內降房價' class='videoNews'>85%經濟學家預期半年內降房價</a></li><li><label class='No10'></label><a href='/content/20120117/KFHZDDV5Z60A.shtml' title='加速都更 新北釘子戶五戶以下限制取消' class='videoNews'>加速都更 新北釘子戶五戶以下限制取消</a></li>
+  </ol>
+</div>
+
+
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+<div class="">
+			<iframe src='http://ad.cnyes.com/cnYESAD/showad.asp?TAG=NEWS_RIGHTTOP' frameborder='no' vspace='0' hspace='0'  width='300' height='100' marginheight='0' marginwidth='0' scrolling='no'></iframe>
+</div>
+
+
+
+
+
+
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+<div class="contentBoxTitle menu-w100">
+    <ul class="menu">
+      <li id="newsspeczone2_tab_1" class="selected">
+        <a href="/headline_channel/list.shtml" onmouseover="javascript:switchTab('newsspeczone2', 1, 3,'selected');">焦點頭條</a>
+      </li>
+      <li id="newsspeczone2_tab_2" class="">
+        <a href="/dpanal/list.shtml" onmouseover="javascript:switchTab('newsspeczone2', 2, 3,'selected');">深度分析</a>
+      </li>
+      <li id="newsspeczone2_tab_3" class="">
+        <a href="/focus/list.shtml" onmouseover="javascript:switchTab('newsspeczone2', 3, 3,'selected');">國際聚焦</a>
+      </li>
+    </ul>
+</div>
+<div class="contentBoxBody" >
+    <ol id="newsspeczone2_cnt_1"  class="rankList tabComment" style="margin-top:-0.5em;">
+        ﻿<li><label class='No01'></label><a href='/content/20120117/KFHZDR25979AI.shtml' title='IHS iSuppli：擁抱雲彩  雲端伺服器需求未來三年步步高升' class='videoNews'>IHS iSuppli：擁抱雲彩  雲端伺服器需求</a></li><li><label class='No02'></label><a href='/content/20120117/KFHZDSI75W5ZV.shtml' title='中鋼上季虧損24.21億元 10季來首見！去年稅前EPS 1.34元' class='videoNews'>中鋼上季虧損24.21億元 10季來首見！去年</a></li><li><label class='No03'></label><a href='/content/20120117/KFHZDS0XQ072.shtml' title='台灣人口結構快速老化 資產通貨緊縮風險 馬政府嚴峻挑戰' class='videoNews'>台灣人口結構快速老化 資產通貨緊縮風險 </a></li><li><label class='No04'></label><a href='/content/20120117/KFHZDRGZURIM.shtml' title='卡位「龍頭」行情？外資買超42億元 投信自營對作！' class='videoNews'>卡位「龍頭」行情？外資買超42億元 投信自</a></li><li><label class='No05'></label><a href='/content/20120117/KFHZDO9DTZSKI.shtml' title='經濟部：台中軟體園區5月動工 年產值上看150億元' class='videoNews'>經濟部：台中軟體園區5月動工 年產值上看</a></li>
+    </ol>
+    <ol id="newsspeczone2_cnt_2"  class="rankList tabComment" style="display:none;margin-top:-0.5em;">
+        ﻿<li><label class='No01'></label><a href='/content/20120117/KFHZDZPZEKIVE.shtml' title='陰謀的味道在彌漫 評級機構將靈魂出賣給了魔鬼' class='videoNews'>陰謀的味道在彌漫 評級機構將靈魂出賣給了</a></li><li><label class='No02'></label><a href='/content/20120117/KFHZE0EJBHYBU.shtml' title='歐洲央行「印鈔」上癮無救 歐洲需深刻整合和改革' class='videoNews'>歐洲央行「印鈔」上癮無救 歐洲需深刻整合</a></li><li><label class='No03'></label><a href='/content/20120117/KFHZDH5B1JE12.shtml' title='〈分析〉美國零售業成長緩慢一如去年 專家：關鍵是就業市場' class='videoNews'>〈分析〉美國零售業成長緩慢一如去年 專家</a></li><li><label class='No04'></label><a href='/content/20120117/KFHZDMNQUPIUZ.shtml' title='紐約時報：台灣豎立民主鏡像 中國彼岸看見未來' class='videoNews'>紐約時報：台灣豎立民主鏡像 中國彼岸看見</a></li><li><label class='No05'></label><a href='/content/20120116/KFHZ5WQLGFQOI.shtml' title='〈分析〉中國腳步放緩 全球跟著喘口氣' class='videoNews'>〈分析〉中國腳步放緩 全球跟著喘口氣</a></li>
+    </ol>
+    <ol id="newsspeczone2_cnt_3"  class="rankList tabComment" style="display:none;margin-top:-0.5em;">
+        ﻿<li><label class='No01'></label><a href='/content/20120117/KFHZDZPZNZYBF.shtml' title='陰謀的味道在彌漫 評級機構將靈魂出賣給了魔鬼' class='videoNews'>陰謀的味道在彌漫 評級機構將靈魂出賣給了</a></li><li><label class='No02'></label><a href='/content/20120117/KFHZE0EJBHYBW.shtml' title='歐洲央行「印鈔」上癮無救 歐洲需深刻整合和改革' class='videoNews'>歐洲央行「印鈔」上癮無救 歐洲需深刻整合</a></li><li><label class='No03'></label><a href='/content/20120117/KFHZDX9SDUW3R.shtml' title='惠譽：希臘終將違約 但會有序進行' class='videoNews'>惠譽：希臘終將違約 但會有序進行</a></li><li><label class='No04'></label><a href='/content/20120117/KFHZDX5V5LH0.shtml' title='EFSF首席執行長雷格林：標普降級行動的影響有限' class='videoNews'>EFSF首席執行長雷格林：標普降級行動的影響</a></li><li><label class='No05'></label><a href='/content/20120117/KFHZDZVXYNE23.shtml' title='法國財長:無需針對EFSF采取行動' class='videoNews'>法國財長:無需針對EFSF采取行動</a></li>
+    </ol>
+</div>
+
+
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+<div class="contentBoxTitle menu-w100">
+    <ul class="menu">
+      <li id="newsspeczone_tab_1" class="selected">
+        <a href="/SpecialList/list.shtml" onmouseover="javascript:switchTab('newsspeczone', 1, 3,'selected');">新聞專題</a>
+      </li>
+      <li id="newsspeczone_tab_2" class="">
+        <a href="/MURMUR/list.shtml" onmouseover="javascript:switchTab('newsspeczone', 2, 3,'selected');">鉅亨看世界</a>
+      </li>
+      <li id="newsspeczone_tab_3" class="">
+        <a href="/INTERVIEW/list.shtml" onmouseover="javascript:switchTab('newsspeczone', 3, 3,'selected');">人物專訪</a>
+      </li>
+    </ul>
+</div>
+<div class="contentBoxBody" >
+    <ol id="newsspeczone_cnt_1"  class="rankList tabComment" style="margin-top:-0.5em;">
+        ﻿<li><label class='No01'></label><a href="/special/2012election/index.shtml"  title="2012年總統大選" class='videoNews' >2012年總統大選</a></li><li><label class='No02'></label><a href="/special/eurofra/index.shtml"  title="歐債問題最新進展：法國遭降評" class='videoNews' >歐債問題最新進展：法國遭降評</a></li><li><label class='No03'></label><a href="/special/BRICS10y/index.shtml"  title="金磚告別10年盛世" class='videoNews' >金磚告別10年盛世</a></li><li><label class='No04'></label><a href="/special/Hormuz_OilWar/index.shtml"  title="美伊恩怨再起 石油戰爭一觸即發" class='videoNews' >美伊恩怨再起 石油戰爭一觸即發</a></li><li><label class='No05'></label><a href="/special/gold1600/index.shtml"  title="黃金失寵 10年牛市告終？" class='videoNews' >黃金失寵 10年牛市告終？</a></li>
+    </ol>
+    <ol id="newsspeczone_cnt_2"  class="rankList tabComment" style="display:none;margin-top:-0.5em;">
+        ﻿<li><label class='No01'></label><a href='/content/20120116/KFHZ5L2HP0606.shtml' title='鉅亨看世界─執法過當' class='videoNews'>鉅亨看世界─執法過當</a></li><li><label class='No02'></label><a href='/content/20120113/KFHY3H90DDPWE.shtml' title='鉅亨看世界─速食，慢下來了' class='videoNews'>鉅亨看世界─速食，慢下來了</a></li><li><label class='No03'></label><a href='/content/20120111/KFHY3GLTEDR6I.shtml' title='鉅亨看世界─百年依舊黑暗' class='videoNews'>鉅亨看世界─百年依舊黑暗</a></li><li><label class='No04'></label><a href='/content/20120109/KFHXNV6IA2AVI.shtml' title='鉅亨看世界─新聞變變變' class='videoNews'>鉅亨看世界─新聞變變變</a></li><li><label class='No05'></label><a href='/content/20120106/KFHWKZCJGCNHI.shtml' title='鉅亨看世界─旅遊鐵幕' class='videoNews'>鉅亨看世界─旅遊鐵幕</a></li>
+    </ol>
+    <ol id="newsspeczone_cnt_3"  class="rankList tabComment" style="display:none;margin-top:-0.5em;">
+        ﻿<li><label class='No01'></label><a href='/content/20120117/KFHZD4VWWWHPQ.shtml' title='創業錄之多看閱\讀：相信總有人為精致付費' class='videoNews'>創業錄之多看閱\讀：相信總有人為精致付費</a></li><li><label class='No02'></label><a href='/content/20120115/KFHYITY355HQM.shtml' title='〈專訪〉台驊董座顏益財 用文藝思維打造中國物流王國' class='videoNews'>〈專訪〉台驊董座顏益財 用文藝思維打造中</a></li><li><label class='No03'></label><a href='/content/20120109/KFHXNKV7HXV1I.shtml' title='圖文：上海遨問創投首席執行官周敏參與討論' class='videoNews'>圖文：上海遨問創投首席執行官周敏參與討論</a></li><li><label class='No04'></label><a href='/content/20120109/KFHXNKV82FULQ.shtml' title='圖文：英飛尼迪投資集團董事總經理胡斌參與討論' class='videoNews'>圖文：英飛尼迪投資集團董事總經理胡斌參與</a></li><li><label class='No05'></label><a href='/content/20120109/KFHXNKSHVCUB6.shtml' title='圖文：方正信息產業集團助理總裁孫國富發言' class='videoNews'>圖文：方正信息產業集團助理總裁孫國富發言</a></li>
+    </ol>
+</div>
+
+
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+
+
+<div class="contentBoxTitle menu-w100">
+    <ul class="menu">
+      <li id="newsCat_tab_2" class="selected">
+        <a href="#" onmouseover="javascript:switchTab('newsCat', 2, 3,'selected');">特殊分類</a>
+      </li>
+      <li id="newsCat_tab_1" class="">
+        <a href="#" onmouseover="javascript:switchTab('newsCat', 1, 3,'selected');">新聞分類</a>
+      </li>
+      <li id="newsCat_tab_3" class="">
+        <a href="#" onmouseover="javascript:switchTab('newsCat', 3, 3,'selected');">產業分類</a>
+      </li>
+    </ul>
+</div>
+<div class="contentBoxBody">
+    <ul id="newsCat_cnt_1" class="newsCategory" style="display:none;">
+      <li><a href="/headline/list.shtml">頭條</a></li>
+      <li><a href="/rollnews/list.shtml">總覽</a></li>
+	  <li><a href="/TWCN/list.shtml" traget="_blank">兩岸</a></li>
+	  <li><a href="/photolist/list.htm">圖片</a></li>
+	  <li><a href="/movielist/list.htm">影音</a></li>
+	  <li><a href="/tw_stock/list.shtml">台股</a></li>
+	  <li><a href="/eme/list.shtml">興櫃</a></li>
+      <li><a href="/pre/list.shtml">未上市</a></li>
+      <li><a href="/fund/list.shtml">基金</a></li>
+      <li><a href="/afund/list.shtml">A基金</a></li>
+      <li><a href="/cnyeshouse/list.shtml">房產</a></li>
+      <li><a href="/tw_fore/list.shtml">外資</a></li>
+      <li><a href="/us_stock/list.shtml">美股</a></li>
+      <li><a href="/hk_stock/list.shtml">港股</a></li>
+      <li><a href="/sh_stock/list.shtml">滬深股</a></li>
+      <li><a href="/wd_stock/list.shtml">國際股</a></li>
+      <li><a href="/macro/list.shtml">宏觀</a></li>
+      <li><a href="/forex/list.shtml">外匯</a></li>
+      <li><a href="/future/list.shtml">期貨</a></li>
+      <li><a href="/energry/list.shtml">能源</a></li>
+      <li><a href="/metal/list.shtml">金屬</a></li>
+      <li><a href="/gold/list.shtml">黃金</a></li>
+    </ul>
+    <ul id="newsCat_cnt_2" class="newsCategory" >
+      <li><a href="/headline_channel/list.shtml">頭條焦點</a></li>
+      <li><a href="/DPANAL/list.shtml">深度分析</a></li>
+      <li><a href="/talk/list.shtml">名人談話</a></li>
+      <li><a href="/FOCUS/list.shtml">國際聚焦</a></li>
+      <li><a href="/TWCN/list.shtml">兩岸新聞</a></li>
+      <li><a href="/photolist/list.htm">圖片新聞</a></li>
+      <li><a target="_blank" href="http://www.cnyes.com/fashion/overview/list.shtml">時尚新聞</a></li>
+      <li><a href="/funnews/list.shtml">寰宇趣談</a></li>
+      <li><a href="/ipo/list.shtml">IPO新聞</a></li>
+      <li><a href="/tw_money/list.shtml">理財新聞</a></li>
+      <li style="width:100px; text-align:left;"><a href="/MURMUR/list.shtml">鉅亨看世界</a></li>
+    </ul>
+    <ul id="newsCat_cnt_3" class="newsCategory" style="display:none;">
+      <li>
+        <a href="/security/list.shtml">證券</a>
+      </li>
+      <li>
+        <a href="/bank/list.shtml">銀行</a>
+      </li>
+      <li>
+        <a href="/insurance/list.shtml">保險</a>
+      </li>
+      <li><a href="/ene/list.shtml">能源</a></li>
+      <li><a href="/ceme/list.shtml">水泥</a></li>
+      <li><a href="/bio/list.shtml">生化</a></li>
+      <li><a href="/medi/list.shtml">醫藥</a></li>
+      <li><a href="/papper/list.shtml">造紙</a></li>
+      <li><a href="/plas/list.shtml">塑化</a></li>
+      <li><a href="/rubber/list.shtml">橡膠</a></li>
+      <li><a href="/foodin/list.shtml">食品農產</a></li>
+      <li><a href="/media/list.shtml">媒體</a></li>
+      <li><a href="/steel/list.shtml">鋼鐵</a></li>
+      <li><a href="/vehi/list.shtml">汽車</a></li>
+      <li><a href="/tele/list.shtml">電信</a></li>
+      <li><a href="/hote/list.shtml">飯店觀光</a></li>
+      <li><a href="/mobi/list.shtml">手機</a></li>
+      <li><a href="/photoelectric/list.shtml">光電</a></li>
+      <li><a href="/netcom/list.shtml">網通</a></li>
+      <li><a href="/shop/list.shtml">零售百貨</a></li>
+      <li><a href="/semic/list.shtml">半導體</a></li>
+      <li><a href="/[cloth]/list.shtml">紡織成衣</a></li>
+      <li><a href="/[air]/list.shtml">航空運輸</a></li>
+      <li><a href="/elec/list.shtml">電機電器</a></li>
+    </ul>
+</div>
+
+
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+
+
+
+<div class="ad_nsRT_cysAdP clearfix bgW">
+<dl>
+    
+</dl>
+</div>
+
+		<!-- 近期動態視窗 -->
+		<span class="areaBdr"></span>
+        <fb:like-box href="http://www.facebook.com/cnyes" width="300" show_faces="false" border_color="#cccccc" stream="false" header="false"></fb:like-box>
+        <fb:activity site="news.cnyes.com"  font="trebuchet ms" header="false" recommendations="true" width="300" height="265"></fb:activity>
+
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+
+
+<div class="contentBoxTitle menu-w100">
+    <h2 class="title">新聞互動</h2>
+    <ul class="menu">
+      <li id="newstalk_tab_2" class="selected">
+        <a href="/HotNewsTalk/list.shtml" onmouseover="javascript:switchTab('newstalk', 2, 2,'selected');">新聞評論</a>
+      </li>
+      <li id="newstalk_tab_1" class="">
+        <a target="_blank" href="http://blog.cnyes.com/" onmouseover="javascript:switchTab('newstalk', 1, 2,'selected');">Blog談新聞</a>
+      </li>
+    </ul>
+</div>
+<div class="contentBoxBody">
+    <ol id="newstalk_cnt_1" style="display:none;" class="rankList tabComment">
+      <li>
+      <li><label class='No01'></label><a target='_blank' href='http://blog.cnyes.com/My/20051021/article653764'  title='１／１７期貨市場統計數據＆留倉狀況 (期貨好運到)' class='videoNews'>１／１７期貨市場統計數據＆留倉狀況 (期貨</a></li><li><label class='No02'></label><a target='_blank' href='http://blog.cnyes.com/My/saiank/article652801'  title='謝票行情好出貨？外資賣超56億元 本土法人也砍40億元 (永豐期貨 營業員 洪士凱)' class='videoNews'>謝票行情好出貨？外資賣超56億元 本土法人</a></li><li><label class='No03'></label><a target='_blank' href='http://blog.cnyes.com/My/geowu/article652321'  title='免驚啦，修正而已！ annie (wu)' class='videoNews'>免驚啦，修正而已！ annie (wu)</a></li><li><label class='No04'></label><a target='_blank' href='http://blog.cnyes.com/My/kwan763/article651589'  title='吳永華:標普重挫歐元 風險厭惡情緒升溫 (kwan763)' class='videoNews'>吳永華:標普重挫歐元 風險厭惡情緒升溫 </a></li><li><label class='No05'></label><a target='_blank' href='http://blog.cnyes.com/My/cnyes.fund/article645629'  title='金磚四國扭轉劣勢 開年後漲幅超過4% 印度奪冠 (鉅亨基金博士  有問必答)' class='videoNews'>金磚四國扭轉劣勢 開年後漲幅超過4% 印</a></li>
+      </li>
+    </ol>
+    <ol id="newstalk_cnt_2" style="" class="topList_01 tabComment">
+      <li>
+      <li><label class='No01'></label><a href='/comment,20120113162536472945611.htm' title='大選前夕表態 王雪紅：我無法想像沒有九二共識的兩岸關係' class='videoNews'>大選前夕表態 王雪紅：我無法想像沒有九二</a></li><li><label class='No02'></label><a href='/comment,20120115172750027457710.htm' title='管理鴻海百萬大軍 郭台銘向動物園長請益！' class='videoNews'>管理鴻海百萬大軍 郭台銘向動物園長請益！</a></li><li><label class='No03'></label><a href='/comment,20120112145345556677310.htm' title='台股盤後—大選戰鼓頻催 多空膠著！護盤當避震墊 量縮只跌「1點」' class='videoNews'>台股盤後—大選戰鼓頻催 多空膠著！護盤當</a></li><li><label class='No04'></label><a href='/comment,20120112213933950725510.htm' title='彭博社：中美兩國共同認知 支持馬英九勝選' class='videoNews'>彭博社：中美兩國共同認知 支持馬英九勝選</a></li><li><label class='No05'></label><a href='/comment,20120113080059504617410.htm' title='蘋果或與HTC合作應對柯達專利訴訟' class='videoNews'>蘋果或與HTC合作應對柯達專利訴訟</a></li>
+      </li>
+    </ol>
+</div>
+
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+
+<div id="tabPage_page_5">
+    <div class="contentBoxTitle menu-w75">
+        <ul class="menu">
+        <li id="cnyesBlog_tab_1" class="selected"><a target="_blank" href="http://blog.cnyes.com/" onmouseover="javascript:switchTab('cnyesBlog', 1, 4,'selected');">熱門文章</a></li>
+        <li id="cnyesBlog_tab_2" class=""><a target="_blank" href="http://blog.cnyes.com/" onmouseover="javascript:switchTab('cnyesBlog', 2, 4,'selected');">最新發文</a></li>
+        <li id="cnyesBlog_tab_3" class=""><a target="_blank" href="http://blog.cnyes.com/" onmouseover="javascript:switchTab('cnyesBlog', 3, 4,'selected');">名人Blog</a></li>
+        <li id="cnyesBlog_tab_4" class=""><a target="_blank" href="http://blog.cnyes.com/" onmouseover="javascript:switchTab('cnyesBlog', 4, 4,'selected');">人氣Blog</a></li>
+        </ul>
+    </div>
+    <div class="contentBoxBody">
+    <ul id="cnyesBlog_cnt_1" style="display:;" class="list_txt12">
+        <li>【<a target='_blank' href='http://blog.cnyes.com/My/ckwm2/'>齊克用</a>】<a title='千萬別抱股過年？' target='_blank' href='http://blog.cnyes.com/My/ckwm2/article652314'>千萬別抱股過年？</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/sjy1097000/'>未來</a>】<a title='1/17日.盤前重點摘要……?' target='_blank' href='http://blog.cnyes.com/My/sjy1097000/article652313'>1/17日.盤前重點摘要……?</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/a590116/'>紅塵過客</a>】<a title='1/17 莊家果然是狩獵高手' target='_blank' href='http://blog.cnyes.com/My/a590116/article652315'>1/17 莊家果然是狩獵高手</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/geowu/'>wu</a>】<a title='免驚啦，修正而已！ annie' target='_blank' href='http://blog.cnyes.com/My/geowu/article652321'>免驚啦，修正而已！ annie</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/adamchi/'>豬羊牛熊(7)</a>】<a title='台股，短線整理(2011/1/17)' target='_blank' href='http://blog.cnyes.com/My/adamchi/article652311'>台股，短線整理(2011/1/17)</a></li>
+    </ul>
+    <ul id="cnyesBlog_cnt_2" style="display:none;" class="list_txt12">
+        <li>【<a target='_blank' href='http://blog.cnyes.com/My/jeff0989283862/'>大昌期權天后 洪紫瑜</a>】<a title='哇塞！股票期權網路下單手續費真的省很多！！股票、期貨、選擇權網路下單…省很大！！' target='_blank' href='http://blog.cnyes.com/My/jeff0989283862/article653779'>哇塞！股票期權網路下單手續費真的省很多！！股票、期貨、選擇權網路下單…省很大！！</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/jo782400/'>大昌期貨~郭小靜</a>】<a title='大昌期貨~小靜 期貨 選擇權〈分析〉美國零售業成長緩慢一如去年 專家：關鍵是就業市場)) 大昌期貨~小靜 金融期貨 電子期貨 選擇權 證券手續費 大昌期貨~小靜' target='_blank' href='http://blog.cnyes.com/My/jo782400/article653777'>大昌期貨~小靜 期貨 選擇權〈分析〉美國零售業成長緩慢一如去年 專家：關鍵是就業市場)) 大昌期貨~小靜 金融期貨 電子期貨 選擇權 證券手續費 大昌期貨~小靜</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/jjjeff0989283862/'>小瑜</a>】<a title='請問哪一個證券or期貨商提供的選擇權 下單手續費低價、便宜且優惠？' target='_blank' href='http://blog.cnyes.com/My/jjjeff0989283862/article653775'>請問哪一個證券or期貨商提供的選擇權 下單手續費低價、便宜且優惠？</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/clark_tasi/'>Clark</a>】<a title='1/17盤後思考' target='_blank' href='http://blog.cnyes.com/My/clark_tasi/article653771'>1/17盤後思考</a></li>
+    </ul>
+    <div id="cnyesBlog_cnt_3" style="display:none;">
+        <div class='sCol'><div class='pics'><a href='http://blog.cnyes.com/My/FXCMAsia/' title='FXCM聚金匯神' target='_blank'><img src='http://blog.cnyes.com/My/FXCMAsia/20110317170509479000212211052.jpg' width='60' height='70' alt='' onerror="this.src='http://blog.cnyes.com/images/icon_default.gif'"  /></a></div><h5><a href='http://blog.cnyes.com/My/FXCMAsia/' title='FXCM聚金匯神' target='_blank'>FXCM聚金匯神</a></h5><p><a href='http://blog.cnyes.com/My/FXCMAsia/article653122' title='市场消化标普降级消息，不过欧元前景仍暗淡' target='_blank'>市场消化标普降级消息，不过欧元前景仍暗淡</a></p></div><div class='sCol'><div class='pics'><a href='http://blog.cnyes.com/My/invest-YCCHU/' title='無責任投資論壇' target='_blank'><img src='http://blog.cnyes.com/My/invest-YCCHU/20091205144800321625.jpg' width='60' height='70' alt='' onerror="this.src='http://blog.cnyes.com/images/icon_default.gif'"  /></a></div><h5><a href='http://blog.cnyes.com/My/invest-YCCHU/' title='無責任投資論壇' target='_blank'>無責任投資論壇</a></h5><p><a href='http://blog.cnyes.com/My/invest-YCCHU/article653633' title='標普維持台灣信評為「穩定」' target='_blank'>標普維持台灣信評為「穩定」</a></p></div><span class='clear'></span><ul class='list_txt12'><li>【<a target='_blank' href='http://blog.cnyes.com/My/JonathanD/'>Jonathan D A Moore</a>】<a title='The Original Debt-Pimp: Alan Greenspan' target='_blank' href='http://blog.cnyes.com/My/JonathanD/article652923'>The Original Debt-Pimp: Alan Greenspan</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/mrlu/'>呂宗耀-趨勢大師的投資周記</a>】<a title='受惠中國醫療支出 台股有亮公司' target='_blank' href='http://blog.cnyes.com/My/mrlu/article652907'>受惠中國醫療支出 台股有亮公司</a></li></ul>
+	</div>
+    <div id="cnyesBlog_cnt_4" style="display:none;">
+		<div class='sCol'><a href='http://blog.cnyes.com/My/YesFX/' title='外匯最前線' target='_blank'><img src='http://blog.cnyes.com/My/YesFX/20120111091037723375619067042.jpg' width='60' height='70' alt='' onerror="this.src='http://blog.cnyes.com/images/icon_default.gif'"  /></a><h5><a href='http://blog.cnyes.com/My/YesFX/' title='外匯最前線' target='_blank'>外匯最前線</a></h5><p><a href='http://blog.cnyes.com/My/YesFX/article652876' title='外匯最前線' target='_blank'>中國繼續全力撐盤中</a></p></div><div class='sCol'><a href='http://blog.cnyes.com/My/ckwm2/' title='齊克用' target='_blank'><img src='http://blog.cnyes.com/My/ckwm2/201008061404010662501615603725.jpg' width='60' height='70' alt='' onerror="this.src='http://blog.cnyes.com/images/icon_default.gif'"  /></a><h5><a href='http://blog.cnyes.com/My/ckwm2/' title='齊克用' target='_blank'>齊克用</a></h5><p><a href='http://blog.cnyes.com/My/ckwm2/article652314' title='齊克用' target='_blank'>千萬別抱股過年？</a></p></div><span class='clear'></span><ul class='list_txt12'><li>【<a target='_blank' href='http://blog.cnyes.com/My/sjy1097000/'>未來</a>】<a title='1/17日~ 盤後解析.高檔長黑K後的紅K孕育線?' target='_blank' href='http://blog.cnyes.com/My/sjy1097000/article653359'>1/17日~ 盤後解析.高檔長黑K後的紅K孕育線?</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/invest-YCCHU/'>無責任投資論壇</a>】<a title='標普維持台灣信評為「穩定」' target='_blank' href='http://blog.cnyes.com/My/invest-YCCHU/article653633'>標普維持台灣信評為「穩定」</a></li><li>【<a target='_blank' href='http://blog.cnyes.com/My/uzumi/'>SARA</a>】<a title='蘋果(Apple)和三星(Samsung)有意採用新的手機防水技術於iPhone 5及Galaxy產品上' target='_blank' href='http://blog.cnyes.com/My/uzumi/article653147'>蘋果(Apple)和三星(Samsung)有意採用新的手機防水技術於iPhone 5及Galaxy產品上</a></li></ul>
+	</div>
+    </div>
+</div>
+
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+
+<div id="tabPage_page_4">
+    <div class="contentBoxTitle menu-w75">
+        <ul class="menu">
+        <li id="cnyesBar_tab_1" class="selected"><a target="_blank" href="http://bar.cnyes.com/" onmouseover="javascript:switchTab('cnyesBar', 1, 4,'selected');">鉅亨吧</a></li>
+        <li id="cnyesBar_tab_2" class=""><a target="_blank" href="http://bar.cnyes.com/" onmouseover="javascript:switchTab('cnyesBar', 2, 4,'selected');">24小時排行</a></li>
+        <li id="cnyesBar_tab_3" class=""><a target="_blank" href="http://bar.cnyes.com/" onmouseover="javascript:switchTab('cnyesBar', 3, 4,'selected');">一週排行</a></li>
+        <li id="cnyesBar_tab_4" class=""><a target="_blank" href="http://bar.cnyes.com/" onmouseover="javascript:switchTab('cnyesBar', 4, 4,'selected');">TOP10</a></li>
+        </ul>
+    </div>
+    <div class="contentBoxBody">
+		<div id="cnyesBar_cnt_1" style="">
+			<div class="hotbars" style="height:0px;overflow:hidden;" >
+			<span class="blank9"></span>
+			<span class="areaBdr"></span>
+			</div>
+			<ul class="list_txt12">
+                <li>【<a href='http://bar.cnyes.com/showforum-33046.aspx' target='_blank'>黃頁吧</a>】<a title='大昌((全面電子e化、提升下單效率、降低成本支出' target='_blank' href='http://bar.cnyes.com/html//8CEA37A3E7E1DAE.shtml'>大昌((全面電子e化、提升下單效率、降低成本支出</a></li><li>【<a href='http://bar.cnyes.com/showforum-32633.aspx' target='_blank'>台股   明日大盤分析</a>】<a title='2012/1/18(星期三) 大盤分析' target='_blank' href='http://bar.cnyes.com/html/100101-302/8CEA369E1439598.shtml'>2012/1/18(星期三) 大盤分析</a></li><li>【<a href='http://bar.cnyes.com/showforum-16089.aspx' target='_blank'>聯邦銀</a>】<a title='聯邦銀行超級大爛股!' target='_blank' href='http://bar.cnyes.com/html/2838/8CEA367B3A99CD8.shtml'>聯邦銀行超級大爛股!</a></li><li>【<a href='http://bar.cnyes.com/showforum-33017.aspx' target='_blank'>上市上櫃吧</a>】<a title='台指期盤中免費看 1-17大賺百點關鍵竅門 大公開' target='_blank' href='http://bar.cnyes.com/html//8CEA3604F5F9752.shtml'>台指期盤中免費看 1-17大賺百點關鍵竅門 大公開</a></li>
+			</ul>
+		</div>
+		<ul id="cnyesBar_cnt_2" style="display:none;" class="list_txt12">
+		    <li>【<a href='http://bar.cnyes.com/showforum-33283.aspx' target='_blank'>力道資訊</a>】<a title='免費看1月16日短空大賺百點以上 台指操作三要點 : 0973 000 685' target='_blank' href='http://bar.cnyes.com/html/10010101-4/8CEA2503C5B3F78.shtml'>免費看1月16日短空大賺百點以上 台指操作三要點 : 0973 000 685</a></li><li>【<a href='http://bar.cnyes.com/showforum-33328.aspx' target='_blank'>太極能量</a>】<a title='@台指當沖1-16短空大賺百點以上 0973 000 685 一比就知輸贏 給我實戰 其餘免談' target='_blank' href='http://bar.cnyes.com/html/10010101-5/8CEA24FBFEE8698.shtml'>@台指當沖1-16短空大賺百點以上 0973 000 685 一比就知輸贏 給我實戰 其餘免談</a></li><li>【<a href='http://bar.cnyes.com/showforum-33296.aspx' target='_blank'>力晶科</a>】<a title='力晶的季線' target='_blank' href='http://bar.cnyes.com/html/10010101-4/8CEA25608D1C612.shtml'>力晶的季線</a></li><li>【<a href='http://bar.cnyes.com/showforum-33200.aspx' target='_blank'>★四方力道★</a>】<a title='1-16台指期貨當沖短空單大賺百點以上 你做對了ㄇ 一比就知輸贏 0973-000-685' target='_blank' href='http://bar.cnyes.com/html/10010101-4/8CEA2C29AB77C90.shtml'>1-16台指期貨當沖短空單大賺百點以上 你做對了ㄇ 一比就知輸贏 0973-000-685</a></li><li>【<a href='http://bar.cnyes.com/showforum-33017.aspx' target='_blank'>上市上櫃吧</a>】<a title='1-17台指大賺百點 關鍵賺錢密碼大公開分享看 0973-000-685 什麼最貴不準的最貴 一比就知輸贏' target='_blank' href='http://bar.cnyes.com/html//8CEA339562BA886.shtml'>1-17台指大賺百點 關鍵賺錢密碼大公開分享看 0973-000-685 什麼最貴不準的最貴 一比就知輸贏</a></li><li>【<a href='http://bar.cnyes.com/showforum-33028.aspx' target='_blank'>台股基金</a>】<a title='1-17台指當沖每天穩定獲利竅門大公開 免費看 0973-000-685' target='_blank' href='http://bar.cnyes.com/html//8CEA314F2E2F654.shtml'>1-17台指當沖每天穩定獲利竅門大公開 免費看 0973-000-685</a></li>
+		</ul>
+		<ul id="cnyesBar_cnt_3" style="display:none;" class="list_txt12">
+            <li>【<a href='http://bar.cnyes.com/showforum-33296.aspx' target='_blank'>力晶科</a>】<a title='DRAM廠積極轉型力晶紓困可望農曆年前過關' target='_blank' href='http://bar.cnyes.com/html/10010101-4/8CE9F2ABDBC4A18.shtml'>DRAM廠積極轉型力晶紓困可望農曆年前過關</a></li><li>【<a href='http://bar.cnyes.com/showforum-33283.aspx' target='_blank'>力道資訊</a>】<a title='1-13 台指期當沖09:00前就看出主力籌碼方向 你還在等開盤嗎 一比就知輸贏 0973-000-685' target='_blank' href='http://bar.cnyes.com/html/10010101-4/8CE9FF81CC44D12.shtml'>1-13 台指期當沖09:00前就看出主力籌碼方向 你還在等開盤嗎 一比就知輸贏 0973-000-685</a></li><li>【<a href='http://bar.cnyes.com/showforum-33200.aspx' target='_blank'>★四方力道★</a>】<a title='台指實戰盤中免費看 一比就知輸贏 0973 000 685' target='_blank' href='http://bar.cnyes.com/html/10010101-4/8CE9F1BE0F9B736.shtml'>台指實戰盤中免費看 一比就知輸贏 0973 000 685</a></li><li>【<a href='http://bar.cnyes.com/showforum-33329.aspx' target='_blank'>太極能量</a>】<a title='如何程式化交易一' target='_blank' href='http://bar.cnyes.com/html/10010101-5/8CEA0E786FAA735.shtml'>如何程式化交易一</a></li><li>【<a href='http://bar.cnyes.com/showforum-33017.aspx' target='_blank'>上市上櫃吧</a>】<a title='大 昌 期 貨~小圓(郭台銘：2012年經濟唯一確定是衰退！鴻海已「打3呆」因應)' target='_blank' href='http://bar.cnyes.com/html//8CE9D9EF534C62E.shtml'>大 昌 期 貨~小圓(郭台銘：2012年經濟唯一確定是衰退！鴻海已「打3呆」因應)</a></li><li>【<a href='http://bar.cnyes.com/showforum-33275.aspx' target='_blank'>金龍決策</a>】<a title='主力籌碼量能分析 每天盤中台指當沖免費看 一比就知輸贏 0973 000 685' target='_blank' href='http://bar.cnyes.com/html/10010101-4/8CE9F5803F147C2.shtml'>主力籌碼量能分析 每天盤中台指當沖免費看 一比就知輸贏 0973 000 685</a></li>
+		</ul>
+		<div id="cnyesBar_cnt_4" style="display:none;">
+            <li><div class='sCol'><ol class='hotbarList'><li><span class='left'><em>1</em><a class='cBlue' href='http://bar.cnyes.com/showforum-15340.aspx' target='_blank'>力晶</a></span><span class='right'>2820</span></li><li><li><span class='left'><em>2</em><a class='cBlue' href='http://bar.cnyes.com/showforum-33066.aspx' target='_blank'>國內期貨吧</a></span><span class='right'>1855</span></li><li><li><span class='left'><em>3</em><a class='cBlue' href='http://bar.cnyes.com/showforum-32155.aspx' target='_blank'>投資家日報</a></span><span class='right'>1318</span></li><li><li><span class='left'><em>4</em><a class='cBlue' href='http://bar.cnyes.com/showforum-1031.aspx' target='_blank'>台股吧</a></span><span class='right'>1129</span></li><li><li><span class='left'><em>5</em><a class='cBlue' href='http://bar.cnyes.com/showforum-33017.aspx' target='_blank'>上市上櫃吧</a></span><span class='right'>647</span></li><li></ol></div><div class='sCol'><ol class='hotbarList'><li><span class='left'><em>6</em><a class='cBlue' href='http://bar.cnyes.com/showforum-32499.aspx' target='_blank'>台指期</a></span><span class='right'>625</span></li><li><li><span class='left'><em>7</em><a class='cBlue' href='http://bar.cnyes.com/showforum-32633.aspx' target='_blank'>台股   明日大盤分析</a></span><span class='right'>621</span></li><li><li><span class='left'><em>8</em><a class='cBlue' href='http://bar.cnyes.com/showforum-33058.aspx' target='_blank'>台股吧</a></span><span class='right'>484</span></li><li><li><span class='left'><em>9</em><a class='cBlue' href='http://bar.cnyes.com/showforum-31979.aspx' target='_blank'>外匯</a></span><span class='right'>400</span></li><li><li><span class='left'><em>10</em><a class='cBlue' href='http://bar.cnyes.com/showforum-33046.aspx' target='_blank'>黃頁吧</a></span><span class='right'>399</span></li></ol></div>
+		</div>
+    </div>
+</div>
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+<div class="contentBoxTitle menu-w100">
+    <h2 class="title">兩岸雜誌</h2>
+    <ul class="menu">
+      <li id="chinayesMag_tab_1" class="selected">
+        <a target="_blank" href="http://mag.chinayes.com/" onmouseover="javascript:switchTab('chinayesMag', 1, 2,'selected');">台灣雜誌</a>
+      </li>
+      <li id="chinayesMag_tab_2" class="">
+        <a target="_blank" href="http://mag.chinayes.com/" onmouseover="javascript:switchTab('chinayesMag', 2, 2,'selected');">大陸雜誌</a>
+      </li>
+    </ul>
+</div>
+<div class="contentBoxBody">
+    <ul id="chinayesMag_cnt_1" style="" class="list_txt12">
+      <li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/M72/'>惟馨週報</a>】<a title='馬勝選信心增—週日來人小升 報廣量反彈' target='_blank' href='http://tw.mag.chinayes.com/Content/20120117/66a28edc288c46bdb7266cfe70ebf839.shtml'>馬勝選信心增—週日來人小升 報廣量反彈</a></li><li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/meirenji/'>大美人</a>】<a title='日本職人蒸氣美顏術' target='_blank' href='http://tw.mag.chinayes.com/Content/20120117/d2ed175395894f93990fe722b1473d88.shtml'>日本職人蒸氣美顏術</a></li><li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/M72/Series/20120117/'>惟馨週報</a>】<a title='馬勝選信心增—週日來人小升 報廣量反彈' target='_blank' href='http://tw.mag.chinayes.com/Content/20120117/66a28edc288c46bdb7266cfe70ebf839.shtml'>馬勝選信心增—週日來人小升 報廣量反彈</a></li><li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/dcz/Series/20120116/'>單車誌</a>】<a title='超跑新標竿 空氣動力學跑車大車拚' target='_blank' href='http://tw.mag.chinayes.com/Content/20120116/4143cb41580e49938fa8e1161ddd8c87.shtml'>超跑新標竿 空氣動力學跑車大車拚</a></li><li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/M46/Series/20120116/'>財訊</a>】<a title='投票前夕　李登輝會出什麼牌？' target='_blank' href='http://tw.mag.chinayes.com/Content/20120116/1536f1b8bf914d94af5d859619f0a516.shtml'>投票前夕　李登輝會出什麼牌？</a></li>
+    </ul>
+    <ul id="chinayesMag_cnt_2" style="display:none;" class="list_txt12">
+      <li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/M37/'>環球</a>】<a title='歐元：「全面崩盤」還是「浴火重生」' target='_blank' href='http://tw.mag.chinayes.com/Content/20120117/eb9a3760364e4315aa83b83279d230ba.shtml'>歐元：「全面崩盤」還是「浴火重生」</a></li><li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/M31/'>英才</a>】<a title='美國航空巨人倒下' target='_blank' href='http://tw.mag.chinayes.com/Content/20120104/9757e7d52b03404fae4360aa0c1ab89a.shtml'>美國航空巨人倒下</a></li><li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/M37/'>環球</a>】<a title='中東會陷入核競賽嗎' target='_blank' href='http://tw.mag.chinayes.com/Content/20120117/98eb02067bf1496e993e1e45552b8066.shtml'>中東會陷入核競賽嗎</a></li><li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/lasw/'>兩岸</a>】<a title='給家來一次升溫行動吧' target='_blank' href='http://tw.mag.chinayes.com/Content/20120116/943e789f05694e5bbec7783f40680532.shtml'>給家來一次升溫行動吧</a></li><li>【<a target='_blank' href='http://tw.mag.chinayes.com/Magazine/cyj/'>創業家</a>】<a title='張永琪的解脫' target='_blank' href='http://tw.mag.chinayes.com/Content/20120116/87441f77b39643e39753c6ebd70b9c7b.shtml'>張永琪的解脫</a></li>
+    </ul>
+</div>
+
+<span class="areaBdr"></span>
+
+<span class="blank6 blankW"></span>
+
+
+<div id="tabPage_page_7">
+    <div class="contentBoxTitle menu-w75">
+		<ul class="menu">
+        <li id="cnyesWinner_tab_1" class="selected"><a href='http://www.cnyes.com/personal/winneryes/' onmouseover="javascript:switchTab('cnyesWinner', 1, 4,'selected');">台股贏家</a></li>
+        <li id="cnyesWinner_tab_2" class=""><a href='http://www.cnyes.com/personal/winneryes_us/' onmouseover="javascript:switchTab('cnyesWinner', 2, 4,'selected');">美股贏家</a></li>
+        <li id="cnyesWinner_tab_3" class=""><a href='http://www.cnyes.com/personal/winneryes_cn/' onmouseover="javascript:switchTab('cnyesWinner', 3, 4,'selected');">滬深股贏家</a></li>
+        <li id="cnyesWinner_tab_4" class=""><a href='http://www.cnyes.com/personal/winneryes_hk/' onmouseover="javascript:switchTab('cnyesWinner', 4, 4,'selected');">港股贏家</a></li>
+        </ul>
+    </div>
+    <div class="contentBoxBody">
+    <div id="cnyesWinner_cnt_1" style="" class="stkwinner">
+		<table cellspacing="0" cellpadding="0" class="dataTable" id="twStkwinner">
+			<tr>
+				<th width="22%">強勢股</th>
+				<th width="24%" style="text-align:center;">強度</th>
+				<th width="16%" style="text-align:center;">績效%</th>
+				<th width="22%">弱勢股</th>
+				<th width="16%" style="text-align:center;">績效%</th>
+			</tr>
+            <tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=6286'>立錡</a></td><td class='r'>☆☆☆</td><td class='r'>21.29</td><td></td><td class='r'></td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=4526'>東台</a></td><td class='r'>☆☆</td><td class='r'>15.90</td><td></td><td class='r'></td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=3311'>閎暉</a></td><td class='r'>☆☆</td><td class='r'>15.36</td><td></td><td class='r'></td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=2450'>神腦</a></td><td class='r'>☆☆</td><td class='r'>15.08</td><td></td><td class='r'></td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=3044'>健鼎</a></td><td class='r'>☆☆</td><td class='r'>14.63</td><td></td><td class='r'></td></tr>
+		</table>
+		<p><a href='http://www.cnyes.com:80/personal/winneryes/page03.htm'>★年繳優惠送IPAD2</a>　<a href='http://www.cnyes.com/personal/winneryes/'>●開春股民拿好禮！</a></p>
+    </div>
+    <div id="cnyesWinner_cnt_2" style="display:none;" class="stkwinner">
+		<table cellspacing="0" cellpadding="0" class="dataTable" id="hkStkwinner">
+			<tr>
+				<th width="22%">強勢股</th>
+				<th width="24%" style="text-align:center;">強度</th>
+				<th width="16%" style="text-align:center;">績效%</th>
+				<th width="22%">弱勢股</th>
+				<th width="16%" style="text-align:center;">績效%</th>
+			</tr>
+            <tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=BVSN'>宏道資訊</a></td><td class='r'>☆☆☆☆</td><td class='r'>65.75</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=TRMD'>TRMD</a></td><td class='r'>17.95</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=REGN'>REGN</a></td><td class='r'>☆☆☆</td><td class='r'>39.76</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=COG'>COG</a></td><td class='r'>16.68</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=VIT'>VIT</a></td><td class='r'>☆☆☆</td><td class='r'>37.45</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=SWN'>SWN</a></td><td class='r'>12.49</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=SNTS'>SNTS</a></td><td class='r'>☆☆☆☆</td><td class='r'>33.53</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=EQT'>EQT公司</a></td><td class='r'>11.43</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=NPD'>海王星辰</a></td><td class='r'>☆☆☆</td><td class='r'>32.22</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=CHK'>CHK</a></td><td class='r'>10.08</td></tr>
+		</table>
+		<p><a href='http://www.cnyes.com/personal/winneryes_us/'>多空趨勢 強度 明日轉折 支撐壓力 財報自動分析</a></p>
+    </div>
+    <div id="cnyesWinner_cnt_3" style="display:none;" class="stkwinner">
+		<table cellspacing="0" cellpadding="0" class="dataTable" id="shStkwinner">
+			<tr>
+				<th width="22%">強勢股</th>
+				<th width="24%" style="text-align:center;">強度</th>
+				<th width="16%" style="text-align:center;">績效%</th>
+				<th width="22%">弱勢股</th>
+				<th width="16%" style="text-align:center;">績效%</th>
+			</tr>
+            <tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZH-600228'>昌九生化</a></td><td class='r'>☆☆</td><td class='r'>17.09</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZH-600132'>重慶啤酒</a></td><td class='r'>63.43</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZZ-000157'>中聯重科</a></td><td class='r'>☆☆</td><td class='r'>9.29</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZZ-002020'>京新藥業</a></td><td class='r'>39.47</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZZ-000603'>*ST威達</a></td><td class='r'>☆☆☆</td><td class='r'>8.21</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZZ-002239'>金飛達</a></td><td class='r'>38.00</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZH-600732'>上海新梅</a></td><td class='r'>☆☆</td><td class='r'>5.56</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZZ-002074'>東源電器</a></td><td class='r'>30.32</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZZ-000615'>湖北金環</a></td><td class='r'>☆☆</td><td class='r'>5.24</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=ZH-600302'>標準股份</a></td><td class='r'>28.71</td></tr>
+		</table>
+		<p><a href='http://www.cnyes.com/personal/winneryes_cn/'>多空趨勢 強度 明日轉折 支撐壓力 財報自動分析</a></p>
+    </div>
+    <div id="cnyesWinner_cnt_4" style="display:none;" class="stkwinner">
+		<table cellspacing="0" cellpadding="0" class="dataTable" id="usStkwinner">
+			<tr>
+				<th width="22%">強勢股</th>
+				<th width="24%" style="text-align:center;">強度</th>
+				<th width="16%" style="text-align:center;">績效%</th>
+				<th width="22%">弱勢股</th>
+				<th width="16%" style="text-align:center;">績效%</th>
+			</tr>
+            <tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-0616 '>永義實業</a></td><td class='r'>☆☆☆☆</td><td class='r'>82.76</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-3828'>明輝國際</a></td><td class='r'>28.43</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-8096 '>瑞豐石化</a></td><td class='r'>☆☆☆</td><td class='r'>34.78</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-0395 '>HK-0395 </a></td><td class='r'>15.79</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-1161 '>奧思集團</a></td><td class='r'>☆☆</td><td class='r'>31.71</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-0310 '>HK-0310 </a></td><td class='r'>15.62</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-8128 '>中國地能</a></td><td class='r'>☆☆☆</td><td class='r'>31.25</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-1177 '>HK-1177 </a></td><td class='r'>12.61</td></tr><tr><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-1211 '>比亞迪股份</a></td><td class='r'>☆☆☆</td><td class='r'>26.37</td><td><a target='_blank' href='http://b2b.cnyes.com/news/winner/cnyesDEMO1.asp?txtstkid=HK-1999'>敏華控股</a></td><td class='r'>8.28</td></tr>
+		</table>
+		<p><a href='http://www.cnyes.com/personal/winneryes_hk/'>多空趨勢 強度 明日轉折 支撐壓力 財報自動分析</a></p>
+    </div>
+    </div>
+</div>
+<span class="areaBdr"></span>
+<span class="blank9w"></span>
+
+
+
+<div id="tabPage_page_8" class="contentBox bulletinBox">
+    <div class="contentBoxTitle menu-w100">
+        <h2 class="title">公告板</h2>
+		<ul class="menu">
+        <li id="bulletinTab_tab_1" class="selected"><a href="http://www.cnyes.com/personal/membercenter/" onmouseover="javascript:switchTab('bulletinTab', 1, 2,'selected');">活動推薦</a></li>
+        <li id="bulletinTab_tab_2" class=""><a href="http://www.cnyes.com/personal/membercenter/" onmouseover="javascript:switchTab('bulletinTab', 2, 2,'selected');">鉅亨公告</a></li>
+        </ul>
+    </div>
+    <div class="contentBoxBody">
+    <ul id="bulletinTab_cnt_1" style="display:;" class="list_dot_txt12">
+        <li><a target='_blank' href='https://www.facebook.com/YESfashion?sk=app_167110672433'>按讚加入，搶ELLE隱藏版神秘限量好禮！</a></li><li><a target='_blank' href='http://www.fever38.com/promotion?promoid=40523'>內衣小蠻被誰帶回家?</a></li><li><a target='_blank' href='http://www.fever38.com/promotion?promoid=40525'>一個月免費宅修，還不按讚？</a></li><li><a target='_blank' href='https://www.facebook.com/cnYEShouse'>給個讚!房事交流請找【房產夢想家】</a></li><li><a target='_blank' href='http://www.cnyes.com/globalinvest/'>寰宇投資探訪之旅，邀您進入世界投資大門！</a></li>
+    </ul>
+
+    <ul id="bulletinTab_cnt_2" style="display:none;" class="list_dot_txt12">
+        <li><a target='_blank' href='http://www.cnyes.com/creditcard/Index.htm'>【卡U+】信用卡頻道全新上線_20120116</a></li><li><a target='_blank' href='http://www.facebook.com/ChinaYESmovie'>【FB 小Y看電影】和你一起看電影_2011...</a></li><li><a target='_blank' href='http://www.facebook.com/cnYESfund'>【FB 基金Fund世界】攜手投資全世界_2...</a></li><li><a target='_blank' href='http://www.facebook.com/cnYESstock'>【FB 翻紅吧！台股】台灣股民加油站_201...</a></li><li><a target='_blank' href='http://www.facebook.com/cnYEShouse'>【FB 房產夢想家】為夢想築巢真簡單_201...</a></li>
+    </ul>
+    </div>
+    
+</div>
+
+
+
+
+
+
+
+        
+<span class="areaBdr"></span>
+<span class="blank9"></span>
+<div class="">
+	<script type="text/javascript">
+		GA_googleFillSlot("GG_NEWS_rightdown_300_250");
+	</script>
+</div>
+<span class="blank9"></span>
+</div>
+                    <script type="text/javascript">
+	                    google_ad_channel = '1506107570'; //  your channel
+	                    cnyes_max_num_ads = '3';
+                    </script>
+                    <script type="text/javascript">
+	                    GA_googleFillSlot("GG_NEWSCONTENT");
+                    </script>
+		<script src="/_updowntest.aspx?ao=/comment,20120117151159252868510.htm" type="text/javascript" ></script>
+		<script src="/aboutnews.aspx?ao=/comment,20120117151159252868510.htm" type="text/javascript" ></script>
+		
+		<span class="clear"></span>
+		<span class="blank9"></span>
+		<span class="pageBdr"></span>
+
+	</div>
+	<span class="blank12"></span>
+	<div class=" footer">﻿
+<div class="topnav" style=" float:none;width:55px; margin:0 auto 8px auto;"><a href="#" title="置頂">TOP</a></div>
+
+
+<div class="clear"></div>
+
+<div style="background:url(http://www.cnyes.com/images/toplinebg.gif) no-repeat 0px 0px; height:2px;overflow:hidden; margin-bottom:8px;"></div>
+
+
+<div style="float:right; margin-top:10px; width:290px; height:60px;">
+    <a href="http://tw.chinayes.com/" target="_blank" title="Yes娛樂"><img src="http://chart.cnyes.com/images/yeselogo.jpg" width="64" height="65" alt="Yes娛樂" align="middle"/></a>
+    <a href="http://news.cnyes.com/Content/20100304/KC80RIYKULD9N.shtml?c=headline_sitehead" target="_blank"><img
+                src="http://chart.cnyes.com/images/2010Web100logo.gif" border="0" alt="2010年數位時代Web100榜單" width="100" height="54" align="middle"  /></a>
+</div>
+<p>
+    &copy; Copyright 2000-<script language="javascript" type="text/javascript">var now=new Date();document.write(now.getFullYear());</script>
+
+    cnYES.com. All rights reserved. 集團資源：<a href="http://www.cnyes.com/">鉅亨台北</a>｜<a href="http://cn.cnyes.com/">鉅亨上海</a>｜<a
+        href="http://tw.chinayes.com/">Yes娛樂</a>｜<a href="http://blog.cnyes.com/">鉅亨部落新世界</a>
+</p>
+<p>
+    <a href="http://www.cnyes.com/asp/abt/abt_about.asp" rel="nofollow">關於我們</a>｜<a href="http://www.cnyes.com/personal/membercenter/">會員中心</a>｜<a
+        href="http://www.cnyes.com/personal/cnyesfaq.asp?pagetype=index0" rel="nofollow">FAQ</a>｜<a href="http://www.cnyes.com/asp/index0contact.asp"
+            rel="nofollow">聯絡</a>｜<a href="http://www.cnyes.com/asp/abt/abt_cooperate.asp">合作</a>｜<a href="http://www.cnyes.com/service.htm"
+                rel="nofollow">服務條款</a>｜<a href="http://www.cnyes.com/announce.htm" rel="nofollow">著作權</a>｜<a href="http://www.cnyes.com/chn/promote/">產品&amp;服務</a>｜<a
+                    href="http://www.cnyes.com/chn/ad/ad.htm">廣告</a>｜<a href="http://www.cnyes.com/promote/error/contact.htm" 
+                        rel="nofollow">資訊聲明&amp;通報</a>｜<a href="http://www.cnyes.com/10/">十周年慶</a>
+</p>
+<p>
+    代表號：886-2-27588001 客服分機：666 <a href="mailto:services@cnyes.com <services@cnyes.com>">
+        聯絡客服</a> 法律顧問：惠國法律事務所 黃泰源律師
+</p>
+<!-- START Nielsen Online SiteCensus V6.0 --> 
+<!-- COPYRIGHT 2010 Nielsen Online --> 
+<script type="text/javascript" src="//secure-us.imrworldwide.com/v60.js"> 
+</script> 
+<script type="text/javascript"> 
+ var pvar = { cid: "tw-cnyes", content: "0", server: "secure-us" }; 
+ var feat = { surveys_enabled: 1 }; 
+ var trac = nol_t(pvar, feat); 
+ var _rsND = trac.getSchemeHost(); // For compatibility with v53 surveys 
+ var _rsCI = "tw-cnyes"; // For compatibility with v53 surveys 
+ trac.record().post().do_sample(); 
+</script> 
+<noscript> 
+ <div> 
+ <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=tw-cnyes&amp;cg=0&amp;cc=1&amp;ts=noscript" 
+ width="1" height="1" alt="" /> 
+ </div> 
+</noscript> 
+<!-- END Nielsen Online SiteCensus V6.0 --> 
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21465399-7']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+</div>
+
+
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js">
+  {lang: 'zh-TW'}
+</script>
+<div id="fb-root"></div>
+<script type="text/javascript" src="http://chart.cnyes.com/js/F8.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+

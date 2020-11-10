@@ -1,0 +1,744 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Bangalore hospital gets latest tech for treating cancer - Bangalore - DNA</title>
+    <meta name="description" content="HealthCare Global Enterprises Ltd
+(HCG) has introduced a new technology to treat cancer patients who require radiotherapy. " />
+    <link rel="stylesheet" href="http://static.dnaindia.com/include/global710.css" type="text/css" />
+  <script type="text/javascript" src="http://static.dnaindia.com/include/global710.js"></script>
+  <script type="text/javascript" src="http://static.dnaindia.com/include/script/jquery.js"></script>
+  <script type="text/javascript" src="http://static.dnaindia.com/include/script/thickbox.js"></script>
+  <link rel="stylesheet" href="http://static.dnaindia.com/include/style/thickbox.css" type="text/css" media="screen"/>
+  <script type="text/javascript" src="http://static.dnaindia.com/include/script/macmillandictionary.js"></script>
+  <script>
+    function body_onclick(){
+      class_hide('share_div');
+    }
+  </script>
+
+  <!-- GAM -->
+  <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+  </script>
+  <script type="text/javascript">
+    GS_googleAddAdSenseService("ca-pub-8331061652869281");
+    GS_googleEnableAllServices();
+  </script>
+  <script type="text/javascript">
+    GA_googleAddSlot("ca-pub-8331061652869281", "report_ml_200x200");
+    GA_googleAddSlot("ca-pub-8331061652869281", "report_mr_160x600");
+    GA_googleAddSlot("ca-pub-8331061652869281", "report_mr_336x280");
+  </script>
+  <script type="text/javascript">
+    GA_googleFetchAds();
+  </script>
+  <!-- GAM -->
+
+  <script>
+    function body_onclick(){
+      class_hide('share_div');
+    }
+    function  emailArticle(NewsID,CatID)
+    {
+      str_Newsid=NewsID
+      str_Category=CatID
+      str_URL="/emailthisarticle910.php?newsid="+str_Newsid+"&catid="+str_Category
+      if (screen.width > 800)
+      {
+        w1 = window.open(str_URL,"test","Top=5,left=0,height=600,width=800, scrollbars=yes")
+      }
+      else {
+        w1 = window.open(str_URL,"test","Top=5,left=0,height=500,width=600,scrollbars=yes")
+      }
+    }
+  </script>
+
+<script type="text/javascript">
+var voted = new Array();
+
+function answer(qtnno,opt){
+  if (voted[qtnno] == 1){
+  alert("No cheating!");
+  return false;
+  }
+  voted[qtnno] = 1;
+  //document.getElementById("ans"+qtnno).style.fontWeight = "Bold";
+  //opt.style.fontWeight = "Bold";
+  if(opt.value == 1){
+    if(!document.getElementById("ans-div-"+qtnno)){
+      document.getElementById("ans"+qtnno).style.color = "green";
+    }
+    if(document.getElementById("res-"+qtnno)){
+      document.getElementById("res-"+qtnno).innerHTML = "Right answer!"+"&nbsp;";
+    }
+  }
+  else{
+    if(!document.getElementById("ans-div-"+qtnno)){
+      document.getElementById("ans"+qtnno).style.color = "red";
+    }
+    if(document.getElementById("res-"+qtnno)){
+      correct_answer = document.getElementById("ans"+qtnno).innerHTML;
+      document.getElementById("res-"+qtnno).innerHTML = "Wrong answer!"+"&nbsp;";
+      document.getElementById("res-"+qtnno).innerHTML = correct_answer+" is the right answer."+"&nbsp;";
+    }
+  }
+  if(document.getElementById("info"+qtnno)){
+    document.getElementById("info"+qtnno).style.display = "block";
+  }
+  if(document.getElementById("ans-div-"+qtnno)){
+    document.getElementById("ans-div-"+qtnno).style.backgroundColor = "#eaeaea";
+  }
+}
+
+</script>
+
+  <style>
+
+    /*QUIZ*/
+    #quiz-main-div {width:85%;background-color1:#f0fff0;padding:10px;}
+    .item {margin-top:20px;}
+    .item input {margin-right:5px;}
+    .question-div {font-weight:bold;margin-bottom:10px;}
+    .ans-div {display:block;padding:0.5em;}
+    .res {float:left;font-weight:bold;}
+    .info {display:none;background:#eaeaea;padding:.5em;}
+
+    #div_compiled_by{display:none;}
+
+  p {margin-bottom:1em;}
+
+  </style>
+
+</head>
+
+<body onmouseup="body_onclick()" style="width:960px;margin:auto;">
+
+<!-- header starts -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+  <td valign="top">
+    <a href="/"><img src="http://cdn.dnaindia.com/images/710/logo-dna.gif" border="0" style="float:left;"></a>
+    <div style="float:right;">
+      <script type="text/javascript"><!--
+        e9 = new Object();
+          e9.size = "728x90";
+      //--></script>
+      <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/DnaIndiacomNew/ROS/tags.js"></script>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0" style="height:34px;margin-top:20px;padding1:20px;border-top:1px solid #dedede;border-bottom:1px solid #dedede;">
+    <tr>
+        <td valign="middle">
+          <div style="text-align:left;">
+          <div style="font-weight:bold;"><span>Follow us:</span>&nbsp;&nbsp;
+      <a href="/services/mobile" title="DNA on mobile"><img src="http://cdn.dnaindia.com/images/710/icon-mobile.gif"/></a>&nbsp;&nbsp;
+      <a href="http://www.dnaindia.com/redirect?http://www.facebook.com/dnaindia" target="facebook" rel="nofollow" title="DNA on Facebook"><img src="http://cdn.dnaindia.com/images/710/icon-facebook.gif" ></a>&nbsp;&nbsp;
+      <a href="http://www.dnaindia.com/redirect?http://twitter.com/dna" target="twit" rel="nofollow" title="DNA on twitter"><img src="http://cdn.dnaindia.com/images/710/icon-twitter.gif" ></a>&nbsp;&nbsp;
+      <a href="/services/rss" title="Get DNA RSS feeds"><img src="http://cdn.dnaindia.com/images/710/icon-rss.gif" ></a>&nbsp;&nbsp;
+      <a href="/services/newsletter" title="Get DNA newsletter"><img src="http://cdn.dnaindia.com/images/710/icon-newsletter.gif" ></a></div>
+      </div>
+    </td>
+    <td valign="middle">
+      <div style="text-align:right;font-size:11px;font-weight:bold;"><a href="http://www.dnaindia.com/redirect?http://epaper.dnaindia.com" target="epaper" style="color:#741642;text-decoration:none;">Today's Epaper</a> | <a href="/services/subscribe" style="color:#741642;text-decoration:none;">Subscribe to newspaper</a> </div>
+    </td>
+    </table>
+<script>
+function popupn(w,h,u,n){
+  popup=window.open(u,n,"width="+w+",height="+h+",toolbar=no,menubar=no,status=no,location=no,directories=no,scrollbars=no,resizable=yes");
+  popup.moveTo(200,200);
+}
+</script>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-top:7px;">
+    <tr>
+      <td height="36">
+        <style>
+          .menu-div{ background: url(http://cdn.dnaindia.com/images/710/nav-bg.gif) top repeat-x; width:100%; height:36px; overflow:hidden;}
+          ul.menu-ul{margin:0px; padding:0px; list-style:none; list-style-image:none; display:block; height:36px; overflow:hidden;}
+          ul.menu-ul li{float:left; padding-top:8px; height:36px; overflow:hidden; padding-left:7px; padding-right:7px; text-align:center;cursor:pointer;text-transform:uppercase;background: url(http://cdn.dnaindia.com/images/710/menu-purple-divider.jpg) 0% 20% no-repeat;}
+          ul.menu-ul li a{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#fff; text-decoration:none}
+          ul.menu-ul li.active{padding-left:5px; padding-right:5px;}
+                              ul.menu-ul li.active{background: url(http://cdn.dnaindia.com/images/710/nav-bg-active.gif) top no-repeat; width:58px;}
+                            ul.menu-ul li.active a{font:12px Arial, Helvetica, sans-serif; color:#000; line-height:16px; font-weight:bold;}
+        </style>
+        <div class="menu-div">
+                  <img src="http://cdn.dnaindia.com/images/710/menu-bg-left.gif" style="float:left;">
+                  <img src="http://cdn.dnaindia.com/images/710/menu-bg-right.gif" style="float:right;">
+                    <ul class="menu-ul">
+            <li style='background:none;'><a href="/">Home</a></li>
+            <li><a href="/analysis">Analysis</a></li>
+            <li><a href="/mumbai">Mumbai</a></li>
+            <li><a href="/india">India</a></li>
+            <li><a href="/world">World</a></li>
+            <li><a href="/money">Money</a></li>
+            <li><a href="/sport">Sport</a></li>
+            <li><a href="/entertainment">Entertainment</a></li>
+            <li><a href="/speakup">Speak Up</a></li>
+            <li><a href="/health">Health</a></li>
+            <li><a href="/scitech">Sci/Tech</a></li>
+            <li><a href="/academy">Academy</a></li>
+            <li><a href="/lifestyle">Lifestyle</a></li>
+            <li><a href="/authors">Authors</a></li>
+                      </ul>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td height="31" background="http://cdn.dnaindia.com/images/710/menu-yellow-grad-bg.jpg" valign="top" style="border:2px solid #fdaf17;border-top:0;">
+        <div style="width:62%;float:left;font-weight:bold;margin-left:16px;margin-top:5px;background-repeat:repeat-x;">
+        HOT TOPICS:&nbsp;&nbsp;
+                  <a href="/coverage/assembly-polls-2012" style="color:#741642;text-decoration:none;">ASSEMBLY POLLS 2012</a> |                         <a href="/coverage/gen-vk-singh" style="color:#741642;text-decoration:none;">GEN VK SINGH</a> |                         <a href="/coverage/anna-hazare" style="color:#741642;text-decoration:none;">ANNA HAZARE</a>                      </div>
+
+        <div style="width:35%;float:right;text-align:right;margin-right:6px;">
+        <!-- Google SiteSearch start -->
+          <div style="display:none"><form action="http://www.google.com/cse" id="cse-search-box"></div>
+            <input type="hidden" name="cx" value="partner-pub-8331061652869281:jrt9zf-p1ic" />
+            <input type="hidden" name="ie" value="ISO-8859-1" />
+            <input type="text" name="q" size="32" />
+            <input type="submit" name="sa" value="&nbsp;&nbsp;Search&nbsp;&nbsp;" style="font-family:arial;font-size:12px;height:23px;"/>
+          <div style="display:none"></form></div>
+          <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+        <!-- Google SiteSearch end -->
+        </div>
+      </td>
+    </tr>
+    </table>
+  </td>
+</tr>
+</table>
+
+<!-- header ends -->
+
+<div style="margin:8px 0 5px 0;">
+                  You are here: <b><a href="/" style="color:#000;">HOME</a></b> > <b><a href="/bangalore" style="color:#000;">BANGALORE</a></b> > Report        </div>
+
+<table cellpadding="0" cellspacing="0" width="100%" border="0">
+<tr>
+<td valign="top" width="630">
+  <table cellpadding="0" cellspacing="0" border="0" style="width:600px;margin-right:20px;" width="600">
+  <tr><td colspan="2" height="1" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line.gif);"></td></tr>
+  <tr>
+  <td valign="top" colspan="2">
+    <h1 class="article-title">Bangalore hospital gets latest tech for treating cancer</h1>
+  <div style="font-size:11px;margin-bottom:1em;">
+    Published: Tuesday, Jan 17, 2012, 9:57 IST   <br/>
+     By <b><a href="/authors/dna-correspondent" style="color:#731643;#000;">DNA Correspondent</a></b>     |     Place: Bangalore            </div>
+  </td></tr>
+  <tr><td colspan="2" height="1" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line.gif);"></td></tr>
+  <tr>
+  <td valign="top" width="450">
+
+    <table cellspacing="0" cellpadding="0" border="0" style="margin-right:20px;margin-top:10px;">
+    <!--tr><td height="1" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line.gif);"></td></tr-->
+    <tr>
+    <td style="padding-top:10px;">
+    <div id="content" style="font-size:12px;">
+
+  <!-- Photo check start -->
+    
+    
+
+<style>
+  .art_img_class {width:200px;background:#f0f0f0;margin-top:.5em;font-size:0.7em;display:none;}
+</style>
+<script>
+  art_imgs = 0;
+  cur_art_img = 1;
+
+  function prev(){
+    for (i=1;i<=art_imgs;i++){
+      document.getElementById("art_img_"+i).style.display = "none";
+    }
+    if(cur_art_img==1){
+      cur_art_img = art_imgs;
+    }else{
+      cur_art_img -= 1;
+    }
+    document.getElementById("art_img_"+cur_art_img).style.display = "block";
+  }
+
+  function next(){
+    for (i=1;i<=art_imgs;i++){
+      document.getElementById("art_img_"+i).style.display = "none";
+    }
+    if(cur_art_img==art_imgs){
+      cur_art_img = 1;
+    }else{
+      cur_art_img += 1;
+    }
+    document.getElementById("art_img_"+cur_art_img).style.display = "block";
+  }
+</script>
+
+      <!-- Photo check end -->
+
+    
+          <div style="float:left;margin:0 1em 1em 0;text-align:center;">
+
+    
+    <script type="text/javascript">
+      GA_googleFillSlot("report_ml_200x200");
+    </script>
+
+
+  </div>
+
+
+<p>HealthCare Global Enterprises Ltd <br />(HCG) has introduced a new technology to treat cancer patients who require radiotherapy. </p>
+
+<p>&ldquo;For the first time in Asia, we have introduced TrueBeam Technology in Ahmedabad and PreScision Artiste in Bangalore. Both these technologies will help in faster and effective treatment for patients,&rdquo; HCG chairman, Dr B S Ajaikumar, said.</p><p>&ldquo;TrueBeam can be used for all types of cancer requiring radiotherapy. It is specifically unique in delivering radiotherapy for its precision. It offers convenience for the patient by shortening treatment time,&rdquo; Dr Kumar Swamy, consultant, radiation oncologist, HCG, said.</p><p>TrueBeam and PreScision Artiste are two new therapies to treat cancer and use a re-engineered control system with a multitude of technical innovations to dynamically synchronise imaging, patient positioning, motion management, and treatment delivery.</p></p></p>
+</div>
+
+
+    </div>
+    </td>
+    </td>
+    </table>
+
+  </td>
+  <td valign="top" width="160">
+    <div style="margin-top:.8em;">
+      <a href="javascript:void()" onclick="toggle('share1')"><img src="http://cdn.dnaindia.com/images/710/icon-share.gif" border="0" title="Share"></a><div class="share_div" id="share1" style="position:absolute;display:none;background:#fff;border:1px solid #888;padding:5px;padding-left:5px;"><div style='text-align:center;'>
+    <div style='display:block;clear:both;text-align:center;'><table align='center' width='100%' cellspacing='0' cellpadding='0' border='0'><tr><td width='50%' align='left' valign='bottom' style='padding:10px;padding-top:5px;'><a name='fb_share' type='box_count' href='http://www.facebook.com/sharer.php'>Share</a><script src='http://static.ak.fbcdn.net/connect.php/js/FB.Share' type='text/javascript'></script><!--div id='fb-root'></div><script src='http://connect.facebook.net/en_US/all.js#xfbml=1'></script><fb:like href='http://www.dnaindia.com/bangalore/report_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572' send='false' layout='box_count' width='60' show_faces='false' font=''></fb:like--></td><td width='50%' align='right' valign='bottom' style='padding:10px;padding-top:5px;'><!--a target='tw' href='http://twitter.com/share' class='twitter-share-button' data-count='vertical'>Tweet</a><script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script--><a href='http://twitter.com/share' class='twitter-share-button' data-url='http://dnai.in/aq7g' data-counturl='http://www.dnaindia.com/bangalore/report_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572' data-text='Bangalore hospital gets latest tech for treating cancer' data-count='vertical' data-via='DNA'>Tweet</a><script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script></td></tr></table></div>
+    <a target='yb' href='http://buzz.yahoo.com/buzz?targetUrl=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-yahoo-buzz.ico' title='Yahoo Buzz'/></a>&nbsp;
+    <a target='gb' href='http://www.google.com/bookmarks/mark?op=add&bkmk=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572&title=Bangalore+hospital+gets+latest+tech+for+treating+cancer'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-google-bookmark.ico' title='Google'/></a>&nbsp;
+    <a target='di' href='http://www.digg.com/submit?url=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572&title=Bangalore+hospital+gets+latest+tech+for+treating+cancer'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-digg.ico' title='digg'/></a>&nbsp;
+    <a target='de' href='http://del.icio.us/post?url=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572&title=Bangalore+hospital+gets+latest+tech+for+treating+cancer'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-delicious.ico' title='Delicious'/></a>&nbsp;
+    <a target='re' href='http://reddit.com/submit?url=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572&title=Bangalore+hospital+gets+latest+tech+for+treating+cancer'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-reddit.ico' title='Reddit'/></a>
+    </div></div>&nbsp;&nbsp;&nbsp;
+      <img src="http://cdn.dnaindia.com/images/710/icon-dictionary.png" border="0" title="Dictionary: Double-click any word">&nbsp;&nbsp;&nbsp;
+      <a href="/print710.php?cid=1638572"><img src="http://cdn.dnaindia.com/images/710/icon-print.gif" border="0" title="Print"></a>&nbsp;&nbsp;&nbsp;
+      <a href="/email710.php?cid=1638572" href1="javascript:emailArticle(1638572,13);"><img src="http://cdn.dnaindia.com/images/710/icon-email.gif" border="0" title="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="javascript:void()" onclick="bookmark_page()"><img src="http://cdn.dnaindia.com/images/710/icon-bookmark.gif" border="0" title="Bookmark"></a>&nbsp;&nbsp;&nbsp;
+      <a href="javascript:void(0);" onclick="change_font_size('content','1');" title="Increase font size"><span style="font-size:20px;">+</span></a>&nbsp;&nbsp;&nbsp;
+      <a href="javascript:void(0);" onclick="change_font_size('content','-1');" title="Decrease font size"><span style="font-size:20px;">-</span></a>
+    </div>
+  <div>
+    <div style="height:15px;background:#762284;color:#fff;font-weight:bold;padding-left:5px;margin-top:10px;">Related links</div>
+    <ul class="list-art-rel">
+       <li><a href="http://www.dnaindia.com/bangalore/slideshow_how-a-man-looted-atm-with-a-matchstick_1638658">How a man looted ATM with a matchstick</a></li>
+             <li><a href="http://www.dnaindia.com/bangalore/report_railways-to-go-on-green-drive_1638655">Railways to go on green drive</a></li>
+             <li><a href="http://www.dnaindia.com/bangalore/report_jds-looks-up-to-nikhil-pooja-to-draw-youth_1638652">JD(S) looks up to Nikhil, Pooja to draw youth</a></li>
+             <li><a href="http://www.dnaindia.com/bangalore/report_40pct-of-karnataka-kids-in-class-3-4-cant-read-class-1-textbook_1638651">40% of Karnataka kids in Class 3, 4 can’t read Class 1 textbook</a></li>
+             <li><a href="http://www.dnaindia.com/bangalore/report_lok-ayukta-court-may-decide-on-vishwanaths-bail-plea-today_1638571">Lok Ayukta court may decide on Vishwanath’s bail plea today</a></li>
+           </ul>
+  </div>
+      
+  <div style="margin-top:1em;">
+    <script type="text/javascript">
+    google_ad_client = "pub-8331061652869281";
+    google_ad_width = 160;
+    google_ad_height = 90;
+    google_ad_format = "160x90_0ads_al_s";
+    google_color_border = "762284";
+    google_color_link = "741642";
+    </script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  </div>
+
+            <div style="height:15px;background:#762284;color:#fff;font-weight:bold;padding-left:5px;margin-top:10px;"><a href="/gallery" style="color:#fff;">Gallery</a></div>
+    <div style="background:#e2e2e2;text-align:center;padding:10px;_padding:5px;padding-bottom:5px;">
+                      <a href="http://www.dnaindia.com/bangalore/slideshow_how-a-man-looted-atm-with-a-matchstick_1638658" style="font-weight:bold;font-size:11px;color1:#000;"><img src="http://static.dnaindia.com/images/cache/1638658_155.jpg" id="/img/710/1638658_145.jpg" width="145" style="border:1px solid #777777;margin-bottom:2px;"><div>How a man looted ATM with a matchstick</div></a>
+                </div>
+      
+          </td>
+  </tr>
+  </table>
+
+
+
+    <div style='display:block;clear:both;text-align1:center;'>
+      <table align='left' width='200' cellspacing='0' cellpadding='0' border='0'>
+      <tr>
+      <td width='33%' align='left' valign='bottom' style='padding:10px;padding-top:5px;padding-left:0px;'>
+        <a name='fb_share' type='box_count' href='http://www.facebook.com/sharer.php'>Share</a><script src='http://static.ak.fbcdn.net/connect.php/js/FB.Share' type='text/javascript'></script>
+      </td>
+      <td width='34%' align='center' valign='bottom' style='padding:10px;padding-top:5px;'>
+	<a target='tw' href="https://twitter.com/share" class="twitter-share-button" data-url="http://dnai.in/aq7g" data-counturl="http://www.dnaindia.com/bangalore/report_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572" data-text="Bangalore hospital gets latest tech for treating cancer" data-count="vertical" data-via="DNA">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+      </td>
+      <td width='33%' align='right' valign='bottom' style='padding:10px;padding-top:5px;'>
+        <a target='gb' title="Post to Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="normal-count"></a><script type="text/javascript" src="http://www.google.com/buzz/api/button.js"></script>
+      </td>
+      </tr>
+      </table>
+    </div>
+
+
+
+    <table cellspacing="0" cellpadding="0" width="600" border="0" style="margin-top:10px;">
+        <tr>
+    <td height="30" valign="top">
+      <div class="share-bar-article">
+        <a href="#comments" style="color:#000;"><img src="http://cdn.dnaindia.com/images/710/icon-comment.gif" border="0">&nbsp;Comments</a>&nbsp;&nbsp;|&nbsp;
+        <a href="#comments" onclick1="javascript:show_comment('comment_box')" style="color:#000;">Post a comment</a>&nbsp;&nbsp;|&nbsp;
+        <a href="javascript:void()" onclick="toggle('share')" style="color:#000;"><img src="http://cdn.dnaindia.com/images/710/icon-share.gif" border="0">&nbsp;Share this article</a>&nbsp;&nbsp;|&nbsp;
+        <a href="/print710.php?cid=1638572" style="color:#000;"><img src="http://cdn.dnaindia.com/images/710/icon-print.gif" border="0">&nbsp;Print</a>&nbsp;&nbsp;|&nbsp;
+        <a href="/email710.php?cid=1638572" href1="javascript:emailArticle(1638572,13);" style="color:#000;"><img src="http://cdn.dnaindia.com/images/710/icon-email.gif" border="0">&nbsp;Email</a>
+      </div>
+                <div class="share_div" id="share" style="position:absolute;left:120px;display:none;background:#fff;border:1px solid #888;padding:5px;padding-left:5px;z-index:1000;">
+    <div style='text-align:center;'>
+    <div style='display:block;clear:both;text-align:center;'><table align='center' width='100%' cellspacing='0' cellpadding='0' border='0'><tr><td width='50%' align='left' valign='bottom' style='padding:10px;padding-top:5px;'><a name='fb_share' type='box_count' href='http://www.facebook.com/sharer.php'>Share</a><script src='http://static.ak.fbcdn.net/connect.php/js/FB.Share' type='text/javascript'></script><!--div id='fb-root'></div><script src='http://connect.facebook.net/en_US/all.js#xfbml=1'></script><fb:like href='http://www.dnaindia.com/bangalore/report_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572' send='false' layout='box_count' width='60' show_faces='false' font=''></fb:like--></td><td width='50%' align='right' valign='bottom' style='padding:10px;padding-top:5px;'><!--a target='tw' href='http://twitter.com/share' class='twitter-share-button' data-count='vertical'>Tweet</a><script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script--><a href='http://twitter.com/share' class='twitter-share-button' data-url='http://dnai.in/aq7g' data-counturl='http://www.dnaindia.com/bangalore/report_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572' data-text='Bangalore hospital gets latest tech for treating cancer' data-count='vertical' data-via='DNA'>Tweet</a><script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script></td></tr></table></div>
+    <a target='yb' href='http://buzz.yahoo.com/buzz?targetUrl=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-yahoo-buzz.ico' title='Yahoo Buzz'/></a>&nbsp;
+    <a target='gb' href='http://www.google.com/bookmarks/mark?op=add&bkmk=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572&title=Bangalore+hospital+gets+latest+tech+for+treating+cancer'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-google-bookmark.ico' title='Google'/></a>&nbsp;
+    <a target='di' href='http://www.digg.com/submit?url=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572&title=Bangalore+hospital+gets+latest+tech+for+treating+cancer'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-digg.ico' title='digg'/></a>&nbsp;
+    <a target='de' href='http://del.icio.us/post?url=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572&title=Bangalore+hospital+gets+latest+tech+for+treating+cancer'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-delicious.ico' title='Delicious'/></a>&nbsp;
+    <a target='re' href='http://reddit.com/submit?url=http%3A%2F%2Fwww.dnaindia.com%2Fbangalore%2Freport_bangalore-hospital-gets-latest-tech-for-treating-cancer_1638572&title=Bangalore+hospital+gets+latest+tech+for+treating+cancer'><img width='16' height='16' src='http://cdn.dnaindia.com/images/710/favicon-reddit.ico' title='Reddit'/></a>
+    </div>                </div>
+    </td>
+    </tr>
+    <tr><td height="1" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line.gif);"></td></tr>
+    <tr>
+    <td height="30" valign="top">
+      <div style="margin-top:.6em;">
+        <script type="text/javascript">
+        google_ad_client = "pub-8331061652869281";
+        google_ad_width = 468;
+        google_ad_height = 15;
+        google_ad_format = "468x15_0ads_al_s";
+        google_color_border = "762284";
+        google_color_link = "741642";
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+      </div>
+    </td>
+    <tr><td height="1" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line.gif);"></td></tr>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table cellpadding="0" cellspacing="0" width="600" border="0" style="margin-top:10px;">
+  <tr>
+  <td valign="top" width="46%" style="padding-bottom:5px;"><a href="/" style="color:#8f0000;#910000;font-size:14px;font-weight:bold;">Top stories on DNAIndia.com <span style="font-size:110%;">&#187;</span></a></td>
+  <td valign="top" width="2"></td>
+  <td valign="top" width="52%" style="padding-bottom:5px;"><a href="/popular" style="color:#8f0000;#910000;font-size:14px;font-weight:bold;">Popular content <span style="font-size:110%;">&#187;</span></a></td>
+  </tr>
+  <tr><td valign="top" colspan="3" height="1" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line.gif) repeat-x;"></td></tr>
+  <tr>
+  <td valign="top">
+    <ul class="list-art-pop">
+          <li><a href="http://www.dnaindia.com/india/report_congress-and-sp-playing-a-game-of-reservation-nitin-gadkari_1638708">Congress, SP playing a game of reservation: Nitin Gadkari</a></li>
+            <li><a href="http://www.dnaindia.com/blogs/post_stop-bashing-team-india-legends_1638539">Stop bashing Team India legends!</a></li>
+            <li><a href="http://www.dnaindia.com/india/report_govt-files-caveat-in-sc-on-petition-by-army-chief-on-age-row_1638686">Govt files caveat in SC on petition by Army chief on age row</a></li>
+            <li><a href="http://www.dnaindia.com/india/report_abu-salem-moves-tada-court-seeking-closure-of-trial_1638685">Abu Salem moves TADA court seeking closure of trial</a></li>
+            <li><a href="http://www.dnaindia.com/india/report_gujarat-hc-rejects-contempt-plea-against-narendra-modi_1638683">Gujarat HC rejects contempt plea against Narendra Modi</a></li>
+            <li><a href="http://www.dnaindia.com/world/report_gilani-given-last-lifeline-by-sc-to-end-stand-off-pakistani-media_1638682">Gilani given last lifeline by SC to end stand-off: Pakistani media</a></li>
+            <li><a href="http://www.dnaindia.com/bangalore/slideshow_how-a-man-looted-atm-with-a-matchstick_1638658">How a man looted ATM with a matchstick</a></li>
+            <li><a href="http://www.dnaindia.com/sport/report_we-have-let-the-nation-down-gautam-gambhir_1638678">We have let the nation down: Gautam Gambhir</a></li>
+            <li><a href="http://www.dnaindia.com/world/report_costa-concordia-toll-up-to-7-28-missing-as-captain-questioned_1638665">Costa Concordia: Toll up to 7, 28 missing as captain questioned</a></li>
+            <li><a href="http://www.dnaindia.com/lifestyle/review_food-review-cafe-by-the-beach-in-mumbai_1638681">Food review: Cafe by the Beach in Mumbai</a></li>
+          </ul>
+  </td>
+  <td valign="top" width="10" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line1.gif) repeat-y 55%;"></td>
+  <td valign="top" style="padding-left:5px;">
+    <div style="float:left;margin:5px;margin-left:0px;margin-top:10px;height:25px;clear:both;font-size:11px;">
+      <div class="art-pop-tab" style="color:#828282;">Most...</div>
+      <div id="pop-tab-v" class="art-pop-tab-active"><a href="javascript:void()" style="color:#000;" onclick="pop_tab('v');this.blur();">Viewed</a></div>
+      <div id="pop-tab-e" class="art-pop-tab"><a href="javascript:void()" style="color:#000;" onclick="pop_tab('e');this.blur();">Shared</a></div>
+      <div id="pop-tab-c" class="art-pop-tab" style="border-right:1px solid #acacac;"><a href="javascript:void()" style="color:#000;" onclick="pop_tab('c');this.blur();">Commented</a></div>
+    </div>
+
+    <div style="clear:both;width:100%;height:1px;border:1px solid #fff;"></div>
+
+    <script type="text/javascript">
+      function pop_tab(tab){
+        document.getElementById("pop-v").style.display='none';
+        change_class_id("pop-tab-v", "art-pop-tab");
+        document.getElementById("pop-e").style.display='none';
+        change_class_id("pop-tab-e", "art-pop-tab");
+        document.getElementById("pop-c").style.display='none';
+        change_class_id("pop-tab-c", "art-pop-tab");
+        document.getElementById("pop-"+tab).style.display='block';
+        change_class_id("pop-tab-"+tab, "art-pop-tab-active");
+      }
+    </script>
+
+    <div id="pop-v" style="display:block;">
+      <ul class="list-art-pop">
+              <li><a href="http://www.dnaindia.com/india/report_army-chief-age-row-a-battle-for-command-of-military_1638530">Army chief age row: A battle for command of military</a></li>
+                <li><a href="http://www.dnaindia.com/india/report_impossible-to-pre-screen-content-google-facebook_1638503">Impossible to pre-screen content: Google, Facebook</a></li>
+                <li><a href="http://www.dnaindia.com/scitech/report_european-probe-wraps-up-big-bang-survey_1638588">European probe wraps up 'Big Bang' survey</a></li>
+                <li><a href="http://www.dnaindia.com/india/report_varied-response-from-congress-on-army-chief-moving-court_1638437">Varied response from Congress on Army Chief moving court</a></li>
+                <li><a href="http://www.dnaindia.com/entertainment/report_george-clooney-steals-the-golden-globes_1638630">George Clooney steals the Golden Globes</a></li>
+                <li><a href="http://www.dnaindia.com/india/report_govt-lost-credibility-after-army-chief-dragged-it-to-court-bjp_1638477">Govt lost credibility after Army chief dragged it to court: BJP</a></li>
+                <li><a href="http://www.dnaindia.com/india/report_priyanka-gandhis-mission-fight-factionalism_1638533">Priyanka Gandhi’s mission: Fight factionalism </a></li>
+                <li><a href="http://www.dnaindia.com/india/report_costa-concordia-unlucky-indian-on-italian-ship-still-missing_1638512">Costa Concordia: ‘Unlucky’ Indian on Italian ship still missing</a></li>
+              </ul>
+    </div>
+
+    <div id="pop-e" style="display:none;">
+      <ul class="list-art-pop">
+              <li><a href="http://www.dnaindia.com/world/report_adolf-hitler-stole-idea-for-volkswagen-beetle-from-jewish-engineer_1638037">Adolf Hitler ‘stole idea for Volkswagen Beetle from Jewish engineer’</a></li>
+                <li><a href="http://www.dnaindia.com/analysis/column_kayani-has-eyes-set-on-bigger-afghan-game_1638036">Kayani has eyes set on bigger Afghan game</a></li>
+                <li><a href="http://www.dnaindia.com/mumbai/report_dna-investigations-deaths-confirm-cancer-risk-near-n-reactors_1637359"><i>DNA</i> investigations: Deaths confirm cancer risk near N-reactors</a></li>
+                <li><a href="http://www.dnaindia.com/money/interview_india-is-low-on-coffee-knowledge_1636017">'India is low on coffee knowledge'</a></li>
+                <li><a href="http://www.dnaindia.com/india/report_india-has-twice-the-number-of-underweight-children-than-sub-saharan-africa_1635844">India has twice the number of underweight children than sub-Saharan Africa</a></li>
+                <li><a href="http://www.dnaindia.com/india/report_govt-proposes-rs7-49-unit-tariff-for-delayed-solar-power-units_1637161">Govt proposes Rs7.49/unit tariff for delayed solar power units </a></li>
+                <li><a href="http://www.dnaindia.com/world/interview_malaysias-biggest-challenge-is-democracy_1637278">'Malaysia’s biggest challenge is democracy'</a></li>
+                <li><a href="http://www.dnaindia.com/scitech/report_jupiter-venus-mars-to-be-seen-in-the-dark-sky-from-tonight_1635809">Jupiter, Venus, Mars to be seen in the dark sky from tonight</a></li>
+              </ul>
+    </div>
+
+    <div id="pop-c" style="display:none;">
+      <ul class="list-art-pop">
+              <li><a href="http://www.dnaindia.com/india/report_ram-jethmalani-s-remarks-create-flutter-in-rajya-sabha-during-lokpal-debate_1631272">Ram Jethmalani's remarks create flutter in Rajya Sabha during Lokpal debate </a></li>
+                <li><a href="http://www.dnaindia.com/analysis/report_why-anna-wont-have-it-easy-in-mumbai_1630102">Why Anna won’t have it easy in Mumbai</a></li>
+                <li><a href="http://www.dnaindia.com/analysis/comment_why-anna-hazares-lokpal-show-flopped-in-mumbai_1631103">Why Anna Hazare’s Lokpal show flopped in Mumbai?</a></li>
+                <li><a href="http://www.dnaindia.com/india/report_nris-sing-anna-hazare-tune_1635159">NRIs sing Anna Hazare tune</a></li>
+                <li><a href="http://www.dnaindia.com/india/comment_comment-lokpal-is-still-a-long-haul-but-anna-damages-his-cause_1629634">Comment: Lokpal is still a long haul, but Anna damages his cause</a></li>
+                <li><a href="http://www.dnaindia.com/india/report_pil-wants-court-to-stop-hazare-iac-from-fasting_1630317">PIL wants court to stop Hazare, IAC from fasting</a></li>
+                <li><a href="http://www.dnaindia.com/analysis/column_anna-and-the-horse-traders_1629750">Anna and the horse-traders</a></li>
+                <li><a href="http://www.dnaindia.com/india/message-board_is-india-making-a-mountain-out-of-a-mole-hill-in-the-issue-of-russia-banning-the-bhagwad-gita_1628514">Is India making a mountain out of a mole hill in the issue of Russia banning <i>The Bhagwad Gita</i>?</a></li>
+              </ul>
+    </div>
+
+  </td>
+  </tr>
+  </table>
+<div class='cache_source' style='position:absolute;top:.5em;right:.5em;font-size:1em;color:#fff;'>C.</div>
+
+<div style="margin-right:25px;">
+<!-- comments include starts -->
+
+<div style="display:block;clear:both;margin-top:2em;">
+
+  <a name="comments"></a>
+
+  <table cellspacing="0" cellpadding="0" width="100%" border="0">
+    <tr><td height="1" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line.gif);"></td></tr>
+    <tr>
+    <td height="40" valign="middle">
+      <span style="font-size:22px;font-weight:bold;color:#000;">Comments</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:show_comment('comment_box')" style="font-size:12px;font-weight:bold;">Post a comment</a>
+    </td>
+    </tr>
+    <tr><td height="1" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line.gif);"></td></tr>
+  </table>
+
+	<script type="text/javascript">
+    function frame_auto_resize(id,extra){
+      var nh;
+      //var nw;
+      document.getElementById(id).height= "100px";
+      if(document.getElementById){
+        nh=document.getElementById(id).contentWindow.document .body.scrollHeight+extra;
+        //nw=document.getElementById(id).contentWindow.document .body.scrollWidth;
+      }
+      document.getElementById(id).height= (nh) + "px";
+      //document.getElementById(id).width= (nw) + "px";
+    }
+
+    function show_comment(){
+    cb = document.getElementById("comment_box");
+    cbf = document.getElementById("comment_box_frame");
+    if(cb.style.visibility=='visible')	{
+      cb.style.visibility='hidden';
+      cb.style.display='none';
+    }
+    else	{
+      //cbf.src="/comments_post_frame710.php?newsid=1638572&commentid=0";
+      cb.style.visibility='visible';
+      cb.style.display='block';
+     }
+    }
+	</script>
+
+	<div class="content" id="comment_box" style="visibility:visible;display:block;">
+		<iframe id="comment_box_frame" src="/comments_post_frame710.php?newsid=1638572&commentid=0" width="100%" height="220" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+	</div>
+
+  <div style="margin-right:0em;">
+    <iframe src="/comments_display_frame710.php?newsid=1638572" width="100%" id="comment_frame" marginheight="0" frameborder="0" scrolling="no" onload="frame_auto_resize('comment_frame',220);"></iframe>
+  </div>
+
+</div>
+
+<!-- comments include ends -->
+
+
+</div>
+
+</td>
+<td valign="top">
+  <table cellpadding="0" cellspacing="0" width="100%" border="0">
+  <tr>
+  <td valign="top" width="160">
+    <script type="text/javascript">
+      GA_googleFillSlot("report_mr_160x600");
+    </script>
+  </td>
+  <td valign="top" width="20" style="background1:url(http://cdn.dnaindia.com/images/710/dotted-line1.gif) repeat-y 50%;">
+  </td>
+  <td valign="top" width="160">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+          <div>
+      <div style="font-size:15px;color:#777777;font-weight:bold;border-bottom:4px solid #c9c9c9;padding-bottom:5px;">Speak Up <span style="font-size:110%;">&#187;</span></div>
+                  <div style="margin-top:5px;margin-bottom:10px;"><a href="http://www.dnaindia.com/lifestyle/report_reconnect-with-nature-and-rejuvenate-your-inner-being_1638711" style="font-weight:bold;color1:#000;">Reconnect with nature & rejuvenate your inner being</a></div>
+                </div>
+            
+          <div>
+      <div style="font-size:15px;color:#777777;font-weight:bold;border-bottom:4px solid #c9c9c9;padding-bottom:5px;">Interview <span style="font-size:110%;">&#187;</span></div>
+                      <div style="margin-top:5px;margin-bottom:10px;">
+							<a href="http://www.dnaindia.com/bangalore/interview_next-six-months-would-be-a-good-opportunity-for-home-buyers-aditya-verma_1637031" style="font-weight:bold;color1:#000;">Next six months would be a good opportunity for home buyers: Aditya Verma</a></div>
+            			    <div style="margin-top:10px;margin-bottom:15px;background-color:#ededed;border-bottom:1px dotted black;padding-bottom:5px;font-size:11px;text-align:right"> <a href="/interviews">View more interviews &#187;&nbsp;</a></div>
+    </div>
+
+    </div>
+                        <div>
+      <div style="font-size:15px;color:#777777;font-weight:bold;border-bottom:4px solid #c9c9c9;padding-bottom:5px;">Blogs <span style="font-size:110%;">&#187;</span></div>
+                      <div style="margin-top:5px;margin-bottom:10px;border:0px solid red">
+                                                <table cellspacing="0" cellpadding="0" border="0" align="right"><tr><td valign="top"><img src="http://static.dnaindia.com/images/710/blogger/9204_70.jpg" width="62" style="border:1px solid #999999;margin-right:5px;"></td></tr></table>
+        <a href="http://www.dnaindia.com/blogs/post_stop-bashing-team-india-legends_1638539" style="font-weight:bold;color1:#000;">Stop bashing Team India legends!</a><br/><br/>- <span style="font-size:.82em">Sriram Balasubramanian</span></div>
+                                        <div style="clear:both;margin-top:10px;margin-bottom:15px;background-color:#ededed;border-bottom:1px dotted black;padding:5px;font-size:11px;text-align:right"> <a href="/blogs">View more blogs &#187;&nbsp;</a></div>
+    </div>
+
+    <div>
+      <div style="font-size:15px;color:#777777;font-weight:bold;border-bottom:4px solid #c9c9c9;padding-bottom:5px;">Opinion <span style="font-size:110%;">&#187;</span></div>
+      			  <ul class="list-art-right">
+          				    <li><a href="http://www.dnaindia.com/analysis/comment_inflation-stays-firm-in-manufactures_1638497" style="font-size:12px;font-weight:bold;">Inflation stays firm in manufactures</a></li>
+            				    <li><a href="http://www.dnaindia.com/analysis/comment_hi-tech-low-cost-no-thought_1638521" style="font-size:12px;font-weight:bold;">Hi-tech, low cost, no thought </a></li>
+            				    <li><a href="http://www.dnaindia.com/analysis/comment_it-is-unfair-to-deny-effective-legal-aid-to-victims-of-crime_1638060" style="font-size:12px;font-weight:bold;">It is unfair to deny effective legal aid to victims of crime</a></li>
+            			  </ul>
+              </div>
+
+      
+<div class='cache_source' style='position:absolute;top:.5em;right:.5em;font-size:1em;color:#fff;'>C.</div>
+
+
+  </td>
+  </tr>
+  </table>
+
+        <div style="margin-top:1em;text-align:center">
+          <script type="text/javascript">
+                        GA_googleFillSlot("report_mr_336x280");
+          </script>
+        </div>
+
+</td>
+</tr>
+</table>
+
+
+<!-- footer starts -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-top:20px;">
+<tr><td colspan="3" height="1" style="background:url(http://cdn.dnaindia.com/images/710/dotted-line.gif)"></td></tr>
+<tr>
+<td align="center" style="padding-top:15px;">
+  <ul class="list-footer">
+    <li><a href="/about">About DNA</a></li> | 
+    <li><a href="/contact">Contact Us</a></li> | 
+    <li><a href="/services/advertise">Advertise with Us</a></li> | 
+    <li><a href="/services/subscribe">Subscription</a></li> | 
+    <li><a href="http://www.dnaindia.com/redirect?http://www.dnasyndication.com" rel="nofollow" target="dnasynd">Reprint Rights</a></li>
+  </ul>
+  <div style="margin:10px;font-size:11px;">&copy;2012 Diligent Media Corporation Ltd.</div>
+</td>
+</tr>
+</table>
+<!-- footer ends -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1626889-1";
+urchinTracker();
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "10476422" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=10476422&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<script>
+  if(get_cookie("ts")){
+    document.getElementById("content").style.fontSize= get_cookie("ts")+"px";
+  }
+  else{
+    document.getElementById("content").style.fontSize= "12px";
+  }
+</script>
+
+<script language="javascript" type="text/javascript">$(function() {setupDoubleClick('http://www.macmillandictionary.com/', 'british', null, false, true);});</script>
+
+</body>
+</html>
+
+
+
+<div class='cache_source' style='position:absolute;top:.5em;right:.5em;font-size:1em;color:#fff;'>C.2</div>
+

@@ -1,0 +1,808 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<title>Doktór zbada, wyleczy i doradzi - 9 stycznia 2012</title>
+<meta name="description" content="Sępoleńska przychodnia wciąż zyskuje pacjentów i sympatię - 9 stycznia 2012" />
+<meta name="keywords" content="Doktór, zbada, wyleczy, i, doradzi,Sępoleńska, przychodnia, wciąż, zyskuje, pacjentów, i, sympatię,9 stycznia 2012" />
+<meta name="og:title" content="Doktór zbada, wyleczy i doradzi" />
+<meta name="og:description" content="Sępoleńska przychodnia wciąż zyskuje pacjentów i sympatię" />
+<meta name="og:url" content="/apps/pbcs.dll/article?AID=/20120109/NASZDOKTOR01/794375778" />
+
+<meta name="og:image" content="http://www.pomorska.pl/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20120109&amp;Category=NASZDOKTOR01&amp;ArtNo=794375778&amp;Ref=AR&amp;border=0&amp;MaxW=200" />
+<link rel="image_src" href="http://www.pomorska.pl/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20120109&amp;Category=NASZDOKTOR01&amp;ArtNo=794375778&amp;Ref=AR&amp;border=0&amp;MaxW=200" />
+
+
+
+<meta name="robots" content="index,follow" />
+
+<meta name="language" content="pl" />
+<meta name="author" content="www.pomorska.pl" />
+<link href="/css/NASZDOKTOR/NASZDOKTOR.css" type="text/css" rel="stylesheet" />
+<link href="/css/NASZDOKTOR/NASZDOKTOR_article.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/js/jquery-1.4.3.js"></script>
+<script type="text/javascript" src="/js/jquery.preloader.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.5.custom.js"></script>
+<script type="text/javascript" src="/js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/jquery.pollminiajax.js"></script>
+<script type="text/javascript" src="/js/safe_email.js"></script>
+<script type="text/javascript" src="/js/charsets.js"></script>
+<script type="text/javascript" src="/js/jquery.smspolls.js"></script>
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=AIzaSyBHNp4rTI7PiNUw8J1rg-SVQcDfoh2Dv1k&amp;hl=pl" type="text/javascript"></script>
+<script type="text/javascript" src="/js/google_maps_v1.js"></script>
+<script type="text/javascript" src="/js/google_maps_groups_v1.js"></script>
+<script type="text/javascript" src="/js/jquery.ajaxmenu.js"></script>
+<script type="text/javascript" src="/js/google_swfobject.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+$(document).ready(function(){
+    // col300
+    $('#boxForum').tabs();
+    $('#boxMostRead').tabs();
+    $('#pollMini').pollmini("NASZDOKTOR01");
+    $("#boxGalleries ul").jcarousel({scroll: 3});
+    $("#boxGalleriesInternet ul").jcarousel({scroll: 3});
+    $("#boxVideos ul").jcarousel({scroll: 3});
+});
+// ]]>
+</script>
+<script type="text/javascript" src="/js/jquery.popupwindow.js"></script>
+<script type="text/javascript" src="/js/jquery.zoomarticletext.js"></script>
+<script type="text/javascript" src="/js/safe_email.js"></script>
+<script type="text/javascript" src="/js/google_swfobject.js"></script>
+<script type="text/javascript" src="/js/google_youtube.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+$(document).ready(function(){
+    $('a.wykop').attr("href","javascript:location.href='http://www.wykop.pl/dodaj?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title)+'&amp;desc='+encodeURIComponent(document.getSelection?document.getSelection():document.selection.createRange().text);");
+    $('a.rss').attr("href","/rss");
+    $('a.report').click(function(){
+        window.open('/apps/pbcs.dll/misc?URL=/templates/gen_report.pbs&link=http%3A%2F%2Fwww.pomorska.pl%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20120109%2FNASZDOKTOR01%2F794375778',"ShowProdWindow","menubars=0,scrollbars=1,resizable=1,height=380,width=300").focus(); return false;
+    });
+    $('a.tiplink').click(function(){
+        window.open('/apps/pbcs.dll/art_tips?Date=20120109&Category=NASZDOKTOR01&ArtNo=794375778&SiteData=PO&SectionCat=',"ShowProdWindow","menubars=0,scrollbars=1,resizable=1,height=380,width=300").focus(); return false;
+    });
+    $('a.print').click(function(){
+        window.open('/apps/pbcs.dll/article?AID=/20120109/NASZDOKTOR01/794375778&Template=printpicart',"Print").focus(); return false;
+    });
+    $('a.video').popupwindow("height:465,width:400,toolbar:0,scrollbars:0,status:0,resizable:0,left:50,top:50");
+    $('a.A1').zoomArticleText(11);
+    $('a.A2').zoomArticleText(12);
+    $('a.A3').zoomArticleText(14);
+    $('#articleVideo ul li a').click(function(){
+        showPlayer(0,$(this).attr("href"),0,270,230);
+        return false;
+    });
+});
+// ]]>
+</script>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="Plebiscyt Medyczny 2012" href="/apps/pbcs.dll/misc?url=/templates/rss_ovr.pbs&amp;channel=NASZDOKTOR&amp;mime=xml" />
+<!-- (C)2000-2011 Gemius SA - gemiusTraffic / ver 11.1 / nasz_doktor --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('10XrsON8SIE0zOKJr6PGAZRMXoyu9u9MTyQa0pAuDVj.W7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://mreg.hit.gemius.pl/xgemius.js"></script> 
+
+</head>
+<body id="naszdoktor01">
+    <div id="piano-root"></div>
+    <div id="topBg">
+    <div id="top">
+        <a id="topLogo" href="/apps/pbcs.dll/section?Category=NASZDOKTOR01">
+            <img src="/images/NASZDOKTOR/logo_serwisu.gif" alt="Plebiscyt Medyczny 2012" />
+        </a>
+        <div id="topPortal">
+            <span>Serwis jest częścią portalu</span>
+            <a href="/"><img src="/images/NASZDOKTOR/logo.gif" alt="portal regionalny" /></a>
+        </div>
+        <form method="get" action="/apps/pbcs.dll/search">
+            <fieldset>
+                <input type="text" value="" name="crit" class="inputText"/>
+                <input type="hidden" name="SearchCategory" value="NASZDOKTOR%" />
+                <input type="hidden" name="Category" value="NASZDOKTOR" />
+                <input type="hidden" name="daterange" value="20020101,20130410" />
+                <input type="hidden" name="IncludeNoDateArt" value="1" />
+                <input type="submit" value="znajdź kandydata" class="inputSubmit" />
+            </fieldset>
+        </form>
+    </div>
+</div>
+<div id="menuBg">
+    <div id="menu">
+            <ul class="sf-menu sf-navbar">
+                <li class="current"><a href="/apps/pbcs.dll/section?Category=NASZDOKTOR01">Strona główna</a>
+                    <ul>
+                        <li><a href="/apps/pbcs.dll/section?Category=naszdoktor05" id="naszdoktor01menu">Lekarz rodzinny</a></li>
+                        <li><a href="/apps/pbcs.dll/section?Category=naszdoktor07" id="naszdoktor02menu">Pielęgniarka</a></li>
+			<li><a href="/apps/pbcs.dll/section?Category=naszdoktor06" id="naszdoktor03menu">Położna</a></li>
+                        <li><a href="/apps/pbcs.dll/section?Category=naszdoktor08" id="naszdoktor04menu">Ratownik medyczny</a></li>
+			<li><a href="/apps/pbcs.dll/section?Category=naszdoktor09" id="naszdoktor05menu">Przychodnia</a></li>
+                    </ul>
+                </li>
+                <li><a href="/apps/pbcs.dll/article?AID=/99999999/NASZDOKTOR01/977226887">Jak zgłaszać</a>
+                <li><a href="/apps/pbcs.dll/article?AID=/99999999/NASZDOKTOR01/879203604">Regulamin</a>
+                <li><a href="/apps/pbcs.dll/article?AID=/99999999/NASZDOKTOR01/234431647">Nagrody</a>
+	        <li><a href="/apps/pbcs.dll/section?Category=ZDROWIE">Zdrowie</a></li>
+            </ul>
+    </div>
+</div>
+<div class="adholder_gora"></div>
+    <div id="wrapper">
+        <div id="col680">
+            <p id="sectionPath"><a href="/apps/pbcs.dll/section?Category=naszdoktor00">naszdoktor</a> 
+<!-- " -->
+<!-- " -->
+&raquo; <a href="/apps/pbcs.dll/section?Category=NASZDOKTOR01" id="sectionPathCurrent">Plebiscyt Medyczny 2012 - artykuły</a>
+</p>
+
+            <div class="adholder_belka1"></div>
+            <ul class="articleFunctions">
+<li><a href="#" class="tiplink"><img src="/images/NASZDOKTOR/articon_email.gif" width="22" height="12" alt="wyślij" title="wyślij znajomemu" /></a></li>
+<li><a href="#" class="print"><img src="/images/NASZDOKTOR/articon_print.gif" width="16" height="16" alt="wydrukuj" title="wydrukuj" /></a></li>
+<li><a href="#" class="report"><img src="/images/NASZDOKTOR/articon_report.gif" width="16" height="20" alt="zgłoś błąd" title="zgłoś błąd" /></a></li>
+<li><a href="http://www.egazety.pl/oferta/gazeta_pomorska,65,65.html" rel="nofollow"><img src="/images/NASZDOKTOR/articon_epaper.gif" width="39" height="13" alt="e-wydanie" title="e-wydanie" /></a></li>
+<li><a href="#" class="rss"><img src="/images/NASZDOKTOR/articon_rss.gif" width="17" height="17" alt="rss " title="kanał RSS" /></a></li>
+<li><a href="#articleComments"><img src="/images/NASZDOKTOR/articon_comment.gif" width="23" height="19" alt="forum" title="podyskutuj" /></a></li>
+<li><a href="#" class="wykop"><img src="/images/NASZDOKTOR/articon_wykop.gif" width="16" height="16" alt="wykop" title="wykop to" /></a></li>
+<li><a href="#" title="zmniejsz czcionkę" class="A1">A</a>
+<a href="#" title="czcionka standardowa" class="A2">A</a>
+<a href="#" title="powiększ czcionkę" class="A3">A</a></li>
+</ul>
+            
+<div id="article">
+<p id="articleDate">dodano: <span>9 stycznia 2012, 16:45</span></p>
+<p id="articleTags"><span>tagi:</span><a href="/apps/pbcs.dll/section?Category=TAGI01&amp;Keyword=plebiscyt_medyczny" title="plebiscyt medyczny">plebiscyt medyczny</a><a href="/apps/pbcs.dll/section?Category=TAGI01&amp;Keyword=przychodnia_s%EAp%F3lno" title="przychodnia sępólno">przychodnia sępólno</a></p>
+<h1>Doktór zbada, wyleczy i doradzi</h1>
+
+<p id="articleByline">
+
+
+    BARBARA ZYBAJŁO-NERKOWSKA
+
+</p>
+
+<p id="articleSummary">Sępoleńska przychodnia wciąż zyskuje pacjentów i sympatię</p>
+
+<div class="articlePicture">
+    <a class="picture" href="/apps/pbcs.dll/misc?url=/templates/zoom.pbs&amp;Site=PO&amp;Date=20120109&amp;Category=NASZDOKTOR01&amp;ArtNo=794375778&amp;Ref=AR"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20120109&amp;Category=NASZDOKTOR01&amp;ArtNo=794375778&amp;Ref=AR&amp;border=0&amp;MaxW=280" alt="Alina Knapik z &quot;Doktora&#8221;" title="W rejestracji spotkać można przemiłe panie pielęgniarki." /></a>
+    <p><b>Alina Knapik z "Doktora&#8221;</b> W rejestracji spotkać można przemiłe panie pielęgniarki.</p>
+    <p><span>(BARBARA ZYBAJŁO-NERKOWSKA)</span></p>
+</div>
+
+
+
+<p>Gabinety lekarskie przy ul. Hallera to znana na Krajnie marka. W ubiegłym roku docenili Państwo tę placówkę, bo właśnie ona zajęła pierwsze miejsce w kategorii przychodni przyjaznych pacjentowi. <br /> I do tego pacjenci "Doktora&#8221;, którym od lat kieruje Teresa Ruthendorf-Przewoska, z usług lekarzy mogą korzystać od godz. 7 do 19. <br /><br />Przychodnia działa też w soboty od godz. 8 do 12 i jest ewenementem, bo przeważnie pomoc lekarza rodzinnego uzyskać można tylko do godz. 18. <br />Wydłużenie godzin działania jest wyjątkowo dogodne dla pacjentów, bo teraz z pracy wychodzi się o różnych porach, a i choroba nie wybiera - źle można się poczuć przecież także o 18 czy w weekend.  - Godziny pracy to rzecz, która nas bardzo wyróżnia - podkreśla Maria Kiełbasińska, prezeska zarządu spółki "Doktór&#8221;. - Cały czas zyskujemy nowych pacjentów. Mamy też nowego pediatrę. <br /><br /> <b>Zobacz rankinki Plebiscytu Medycznego w kategoriach: <br /><a href="http://www.pomorska.pl/apps/pbcs.dll/section?Category=naszdoktor05">- lekarz</a><br /><a href="http://www.pomorska.pl/apps/pbcs.dll/section?Category=naszdoktor07">- pielęgniarka</a><br /><a href="http://www.pomorska.pl/apps/pbcs.dll/section?Category=naszdoktor06">- położna</a><br /><a href="http://www.pomorska.pl/apps/pbcs.dll/section?Category=naszdoktor08">- ratownik medyczny</a><br /><a href="http://www.pomorska.pl/apps/pbcs.dll/section?Category=naszdoktor09">- przychodnia </a><br /><a href="http://www.pomorska.pl/apps/pbcs.dll/section?Category=naszdoktor11">- apteka</a></b></p><div class="adholder_srodek1"></div><p>Maluchy w "Doktorze&#8221; od września leczy Piotr Galantowicz. A poza tym załoga to stali i sprawdzeni ludzie, którym pacjenci bez wahania powierzają swoje zdrowie. Jeszcze do niedawna na ul. Hallera zaglądali głównie mieszkańcy Sępólna, ale sytuacja się zmieniła i teraz przybywa pacjentów z okolicznych wsi. <br /> Doktór to nie tylko sprawdzona marka i stabilność, ale i wygoda, bo przy budynku jest winda, z której mogą skorzystać niepełnosprawni. Przychodnia położona jest w centrum miasta, a tuż przy niej ulokowała się apteka, więc z realizacją recept też nie ma problemu. <br /><br />W ubiegłym roku - dzięki Państwa głosom - Doktór otrzymał laury dla najlepszej przychodni. Także i w tym roku zgłosili Państwo tę placówkę do naszego plebiscytu, w którym w tym roku wybieramy nie tylko przychodnię czy aptekę przyjazną pacjentom, ale także lekarza, pielęgniarkę, położną i ratownika medycznego. Głosujemy telefonicznie, a koszt  jednego SMS-a to 1,23 zł.  Szczegóły i lista kandydatów na stronie www.pomorska.pl/medyczny oraz w środę w "Pomorskiej&#8221;.</p>
+
+
+
+
+
+<div id="articleConnections">
+    <p>Przeczytaj więcej</p>
+    <ul>
+    
+
+
+
+<li><a href="/apps/pbcs.dll/article?AID=/20120113/WLOCLAWEK01/929543906" title="Wandale zniszczyli windę niepełnosprawnej włocławianki">Wandale zniszczyli windę niepełnosprawnej włocławianki</a>
+<span>(13-01-2012)</span></li>
+
+
+
+
+<li><a href="/apps/pbcs.dll/article?AID=/20120111/NASZDOKTOR01/578929902" title="Po zmianach, w przychodni jak na froncie">Po zmianach, w przychodni jak na froncie</a>
+<span>(11-01-2012)</span></li>
+
+
+
+
+<li><a href="/apps/pbcs.dll/article?AID=/20120111/NASZDOKTOR01/107527281" title="Dlaczego Przychodnia &quot;Łomżyńska&#8221;?">Dlaczego Przychodnia "Łomżyńska&#8221;?</a>
+<span>(11-01-2012)</span></li>
+
+    
+    </ul>
+</div>
+
+</div>
+
+<script type="text/javascript">
+// ustaw wielkosc czcionki w artykule
+setArticleTextSize();
+$('a.picture').popupwindow("height:640,width:600,toolbar:0,scrollbars:1,status:0,resizable:1,left:50,top:50");
+</script>
+<!-- USTALENIE ZMIENNYCH DLA KOMENTARZY - VARIABLES FOR ARTICLE COMMENTS -->
+
+
+
+<!-- STATLIVE - STATYSTYKI ARTYKUŁÓW -->
+
+
+<script type="text/javascript" src="http://statystyki.mediaregionalne.pl/stats.php?artno=794375778&amp;category=naszdoktor01&amp;site=PO&amp;date=20120109&amp;title=Dokt%F3r%20zbada%2C%20wyleczy%20i%20doradzi"></script>
+            <ul class="articleFunctions">
+<li><a href="#" class="tiplink"><img src="/images/NASZDOKTOR/articon_email.gif" width="22" height="12" alt="wyślij" title="wyślij znajomemu" /></a></li>
+<li><a href="#" class="print"><img src="/images/NASZDOKTOR/articon_print.gif" width="16" height="16" alt="wydrukuj" title="wydrukuj" /></a></li>
+<li><a href="#" class="report"><img src="/images/NASZDOKTOR/articon_report.gif" width="16" height="20" alt="zgłoś błąd" title="zgłoś błąd" /></a></li>
+<li><a href="http://www.egazety.pl/oferta/gazeta_pomorska,65,65.html" rel="nofollow"><img src="/images/NASZDOKTOR/articon_epaper.gif" width="39" height="13" alt="e-wydanie" title="e-wydanie" /></a></li>
+<li><a href="#" class="rss"><img src="/images/NASZDOKTOR/articon_rss.gif" width="17" height="17" alt="rss " title="kanał RSS" /></a></li>
+<li><a href="#articleComments"><img src="/images/NASZDOKTOR/articon_comment.gif" width="23" height="19" alt="forum" title="podyskutuj" /></a></li>
+<li><a href="#" class="wykop"><img src="/images/NASZDOKTOR/articon_wykop.gif" width="16" height="16" alt="wykop" title="wykop to" /></a></li>
+<li><a href="#" title="zmniejsz czcionkę" class="A1">A</a>
+<a href="#" title="czcionka standardowa" class="A2">A</a>
+<a href="#" title="powiększ czcionkę" class="A3">A</a></li>
+</ul>
+            <div id="articleComments">
+    <h3>Forum</h3>
+    <ul>
+    <!-- remote --><li>
+<span><strong>coach factory outlet</strong> | dodano: 14 marca, 10:32</span>
+<p>
+<a href="http://forum.pomorska.pl/doktor-zbada-wyleczy-i-doradzi-t114537/page__view__findpost__p__997979" rel="nofollow">The [url=http://www.coachfactoryoutletsonlineus.com]coach factory outlet has been in business for many years. You can log in to find more information about its products and services.[url=http://www.coachfactoryoutletsonlineus.com]coach factory outlet online offer New Signature bags which is a the [...]</a>
+</p>
+</li>
+<li>
+<span><strong>coach outlet</strong> | dodano: 14 marca, 09:57</span>
+<p>
+<a href="http://forum.pomorska.pl/doktor-zbada-wyleczy-i-doradzi-t114537/page__view__findpost__p__997847" rel="nofollow">[url=http://www.coachoutleting.com]coach outlet handbags&#39;s special design and fashion is certainly and so eye-catching, I hope you are able to get much more attention towards the Cheap Coach Crossbody.The Bags that you can buy in [url=http://www.coachoutleting.com] tend to be affordable, feel [...]</a>
+</p>
+</li>
+<li>
+<span><strong>Anna</strong> | dodano: 27 stycznia, 18:01</span>
+<p>
+<a href="http://forum.pomorska.pl/doktor-zbada-wyleczy-i-doradzi-t114537/page__view__findpost__p__954762" rel="nofollow">Problemy ze zdrowiem? Czekasz na wizytę u specjalisty zbyt długo?  
+ SIGNUM oferuje dostęp do kompleksowej opieki medycznej. Szybko, komfortowo, solidnie, bez kolejek i niekończących się wydatków na lekarzy. 1000 placówek medycznych w całej Polsce. Dołącz do zadowolonych użytkowników [...]</a>
+</p>
+</li>
+<li id="articleCommentsAll">
+<a href="http://forum.pomorska.pl/doktor-zbada-wyleczy-i-doradzi-t114537/" title="Doktór zbada, wyleczy i doradzi">Wszystkie komentarze (6)</a>
+</li>
+
+    </ul>
+    <form action="http://forum.pomorska.pl/index.php?act=sxo_post&amp;do=new_post" method="post">
+    <fieldset>
+        <input type="hidden" name="category" value='NASZDOKTOR01'/>
+        <input type="hidden" name="sxoid" value='794375778' />
+        <input type="hidden" name="sxolink" value='/apps/pbcs.dll/article?AID=/20120109/NASZDOKTOR01/794375778' />
+        <input type="hidden" name="sxotitle" value='Doktór zbada, wyleczy i doradzi' />
+        <input type="submit" value="Dodaj komentarz &raquo;"/>
+    </fieldset>
+    </form>
+    <!-- remote --><!-- remote file is empty -->
+
+</div>
+        </div>
+        <div id="col300">
+            <div id="formMenu">
+<h3>Znajdź kandydata</h3>
+<form id="ajaxMenu" action="" method="get">
+<fieldset class="menu">
+</fieldset>
+<fieldset class="submit">
+<input id="submitMenu" type="submit" value="wybierz" />
+</fieldset>
+</form>
+<script type="text/javascript">
+// <![CDATA[
+$("#ajaxMenu").ajaxMenu({category:"NASZDOKTOR98"});
+// ]]>
+</script>
+</div>
+
+<div id="boxWebcam">
+    <p id="boxWebcamHolder">Box partnerzy</p>
+</div>
+<script type="text/javascript">
+var flashvars = {};
+var params = {"wmode": "opaque"};
+swfobject.embedSWF("/files/naszdoktor/partner.swf", "boxWebcamHolder", "300", "600", "9.0.0", "", flashvars, params);
+</script>
+<div id="boxMostRead" class="box300">
+    <h3>Najczęściej czytane</h3>
+    <ul id="boxMostReadTabs">
+        <li class="ui-tabs-selected"><a href="#mostReadList1">dzisiaj</a></li>
+        <li><a href="#mostReadList2">ostatni tydzień</a></li>
+        <li class="last"><a href="#mostReadList3">ostatni miesiąc</a></li>
+    </ul>
+    <div id="mostReadList1">
+        <ul>
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130409/SPORT04/130409260" title="Delecta Bydgoszcz przegrała z Jastrzębskim Węglem">Delecta Bydgoszcz przegrała z Jastrzębskim Węglem</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130409/SPORT99/130409229" title="Koncertowa gra Energi Manekina. Superliga nadal w Toruniu">Koncertowa gra Energi Manekina. Superliga nadal w Toruniu</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130408/WLOCLAWEK01/130409354" title="Kujawskie morsy pożegnały zimę [zobacz zdjęcia]">Kujawskie morsy pożegnały zimę [zobacz zdjęcia]</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130409/GRUDZIADZ01/130409246" title="Grudziądz. 5-letnia dziewczynka wbiegła pod policyjne auto. Jej matka była w domu... pijana">Grudziądz. 5-letnia dziewczynka wbiegła pod policyjne auto. Jej matka była w domu... pijana</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130409/GRUDZIADZ02/130409239" title="Powiat wąbrzeski. Pijany &quot;tatuś&#8221;  z trudem szedł, a niósł niemowlaka">Powiat wąbrzeski. Pijany "tatuś&#8221;  z trudem szedł, a niósł niemowlaka</a>
+</li>
+</ul>
+
+    </div>
+    <div id="mostReadList2" class="ui-tabs-hide">
+        <ul>
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130406/SPORT03/130409498" title="Brak zespołowości w Anwilu Włocławek i porażka w Zgorzelcu">Brak zespołowości w Anwilu Włocławek i porażka w Zgorzelcu</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130403/WLOCLAWEK01/130409877" title="Zima wiosną będzie nas słono kosztować. Czy we Włocławku zabraknie soli i piasku?">Zima wiosną będzie nas słono kosztować. Czy we Włocławku zabraknie soli i piasku?</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130404/WLOCLAWEK01/130409758" title="Operator monitoringu obserwuje sytuacje w kilkudziesięciu punktach Włocławka">Operator monitoringu obserwuje sytuacje w kilkudziesięciu punktach Włocławka</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130406/REGION/130409546" title="Fala powodziowa na Wiśle nadejdzie. Czy grozi nam powódź?">Fala powodziowa na Wiśle nadejdzie. Czy grozi nam powódź?</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130404/WLOCLAWEK01/130409772" title="Poseł oskarżył marszałek Kopacz, a teraz zaprzecza">Poseł oskarżył marszałek Kopacz, a teraz zaprzecza</a>
+</li>
+</ul>
+
+    </div>
+    <div id="mostReadList3" class="ui-tabs-hide">
+        <ul>
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130329/GALERIA10/130329087" title="Pierwsze numery IKP schodzą z taśmy w nowej drukarni na Wzgórzu Wolności">Pierwsze numery IKP schodzą z taśmy w nowej drukarni na Wzgórzu Wolności</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130330/PILKA80/130329062" title="Włocłavia w półfinale Pucharu Polski. Wygrana z Kujawianką 4:1 [wideo]">Włocłavia w półfinale Pucharu Polski. Wygrana z Kujawianką 4:1 [wideo]</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130329/WLOCLAWEK01/130329154" title="Uprawiał marihuanę w namiocie [zobacz zdjęcie i wideo]">Uprawiał marihuanę w namiocie [zobacz zdjęcie i wideo]</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130330/SPORT03/130339972" title="Wstyd Anwilu Włocławek! Porażka z osłabionym Asseco Prokomem [wideo, zdjęcia]">Wstyd Anwilu Włocławek! Porażka z osłabionym Asseco Prokomem [wideo, zdjęcia]</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130330/POMORSKA24/130339983" title="Most w Toruniu - jak wygląda budowa? [zdjęcia od Internauty]">Most w Toruniu - jak wygląda budowa? [zdjęcia od Internauty]</a>
+</li>
+</ul>
+
+    </div>
+    <div class="adholder_link"></div>
+</div>
+<div class="adholder_prawa1"></div>
+<div class="box300">
+    <h3>Artykuły</h3>
+    
+    <div class="adholder_link"></div>
+</div>
+<div id="boxGalleries" class="box300">
+    <h3><a href="/apps/pbcs.dll/section?Category=NASZDOKTOR02" title="Zdjęcia - Plebiscyt Medyczny 2012">Zdjęcia</a></h3>
+    
+
+<ul class="jcarousel-skin-box jcarousel-list">
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-1 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009989&amp;Ref=PH" title="Do Wąbrzeźna zagląda nieśmiało wiosna" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009989&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Do Wąbrzeźna zagląda nieśmiało wiosna" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009989&amp;Ref=PH" title="Do Wąbrzeźna zagląda nieśmiało wiosna">Do Wąbrzeźna zagląda nieśmiało wiosna</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-2 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009990&amp;Ref=PH" title="Torun Superliga Tenisa Stołowego KST Energa - GKS Gorzovia" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009990&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Torun Superliga Tenisa Stołowego KST Energa - GKS Gorzovia" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009990&amp;Ref=PH" title="Torun Superliga Tenisa Stołowego KST Energa - GKS Gorzovia">Torun Superliga Tenisa Stołowego KST Energa - GKS Gorzovia</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-3 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009993&amp;Ref=PH" title="Cysterna z gazem wpadła do rowu na DK 62" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009993&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Cysterna z gazem wpadła do rowu na DK 62" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009993&amp;Ref=PH" title="Cysterna z gazem wpadła do rowu na DK 62">Cysterna z gazem wpadła do rowu na DK 62</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-4 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009994&amp;Ref=PH" title="Toruń  Miedzynarodowy Dzień Teatru  - nagrody marszałka" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009994&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Toruń  Miedzynarodowy Dzień Teatru  - nagrody marszałka" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009994&amp;Ref=PH" title="Toruń  Miedzynarodowy Dzień Teatru  - nagrody marszałka">Toruń  Miedzynarodowy Dzień Teatru  - nagrody marszałka</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-5 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009995&amp;Ref=PH" title="Interwencja strażników miejskich w Bydgoszczy" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009995&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Interwencja strażników miejskich w Bydgoszczy" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009995&amp;Ref=PH" title="Interwencja strażników miejskich w Bydgoszczy">Interwencja strażników miejskich w Bydgoszczy</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-6 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009996&amp;Ref=PH" title="Wystawa Twarzą w Twarz w brodnickiej Bramie Chełmińskiej" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009996&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Wystawa Twarzą w Twarz w brodnickiej Bramie Chełmińskiej" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009996&amp;Ref=PH" title="Wystawa Twarzą w Twarz w brodnickiej Bramie Chełmińskiej">Wystawa Twarzą w Twarz w brodnickiej Bramie Chełmińskiej</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-7 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009997&amp;Ref=PH" title="Inowrocław. Odkopano fragmenty fundamentów synagogi" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009997&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Inowrocław. Odkopano fragmenty fundamentów synagogi" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009997&amp;Ref=PH" title="Inowrocław. Odkopano fragmenty fundamentów synagogi">Inowrocław. Odkopano fragmenty fundamentów synagogi</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-8 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009998&amp;Ref=PH" title="III Otwarte Mistrzostwa Polski Karate Shotokan NSKF Polska - Brodnica 2013" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009998&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="III Otwarte Mistrzostwa Polski Karate Shotokan NSKF Polska - Brodnica 2013" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130409&amp;Category=GALERIA&amp;ArtNo=409009998&amp;Ref=PH" title="III Otwarte Mistrzostwa Polski Karate Shotokan NSKF Polska - Brodnica 2013">III Otwarte Mistrzostwa Polski Karate Shotokan NSKF Polska - Brodnica 2013</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-9 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009986&amp;Ref=PH" title="Prawo Agaty -sceny kręcone w Bydgoszczy" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009986&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Prawo Agaty -sceny kręcone w Bydgoszczy" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009986&amp;Ref=PH" title="Prawo Agaty -sceny kręcone w Bydgoszczy">Prawo Agaty -sceny kręcone w Bydgoszczy</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-10 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009989&amp;Ref=PH" title="Osoby z regionu w 'Mam talent'" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009989&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Osoby z regionu w 'Mam talent'" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009989&amp;Ref=PH" title="Osoby z regionu w 'Mam talent'">Osoby z regionu w 'Mam talent'</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-11 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009990&amp;Ref=PH" title="Toruń  Budynek dawnych młynów Richtera" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009990&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Toruń  Budynek dawnych młynów Richtera" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009990&amp;Ref=PH" title="Toruń  Budynek dawnych młynów Richtera">Toruń  Budynek dawnych młynów Richtera</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-12 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009991&amp;Ref=PH" title="Kujawskie Morsy pożegnały zimę" class="image"><img src="/apps/pbcsi.dll/bilde?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009991&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Kujawskie Morsy pożegnały zimę" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=PO&amp;Date=20130408&amp;Category=GALERIA&amp;ArtNo=408009991&amp;Ref=PH" title="Kujawskie Morsy pożegnały zimę">Kujawskie Morsy pożegnały zimę</a>
+</li></ul>
+    <p class="more"><a href="/apps/pbcs.dll/section?Category=NASZDOKTOR02" title="Zdjęcia, fotogalerie" rel="nofollow">więcej &raquo;</a> | <script type="text/javascript">safeEmail('online','pomorska.pl','wyślij zdjęcie &raquo;');</script></p>
+</div>
+<div id="boxVideos" class="box300">
+    <h3><a href="/apps/pbcs.dll/section?Category=naszdoktor10" title="Wideo - Plebiscyt Medyczny 2012">Wideo</a></h3>
+<!-- remote to local --><!-- local --><ul class="jcarousel-skin-box jcarousel-list">
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=dHhffAuoxT0" title="Pierwszy trening żużlowców składywęgla.pl Polonii Bydgoszcz">
+<img src="http://i.ytimg.com/vi/dHhffAuoxT0/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=dHhffAuoxT0" title="Pierwszy trening żużlowców składywęgla.pl Polonii Bydgoszcz">Pierwszy trening żużlowców składywęgla.pl Polonii Bydgoszcz</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=AIbQlDfZVJA" title="Sparing Włocłavia - Orlęta Aleksandrów Kujawski 2:1">
+<img src="http://i.ytimg.com/vi/AIbQlDfZVJA/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=AIbQlDfZVJA" title="Sparing Włocłavia - Orlęta Aleksandrów Kujawski 2:1">Sparing Włocłavia - Orlęta Aleksandrów Kujawski 2:1</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=kHVmXNKoevY" title="Bydgoscy piłkarze po meczu Zawisza Bydgoszcz - Arka Gdynia">
+<img src="http://i.ytimg.com/vi/kHVmXNKoevY/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=kHVmXNKoevY" title="Bydgoscy piłkarze po meczu Zawisza Bydgoszcz - Arka Gdynia">Bydgoscy piłkarze po meczu Zawisza Bydgoszcz - Arka Gdynia</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=YNzoSst5EgU" title="Trener Jurij Szatałow po meczu Zawisza Bydgoszcz - Arka Gdynia">
+<img src="http://i.ytimg.com/vi/YNzoSst5EgU/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=YNzoSst5EgU" title="Trener Jurij Szatałow po meczu Zawisza Bydgoszcz - Arka Gdynia">Trener Jurij Szatałow po meczu Zawisza Bydgoszcz - Arka Gdynia</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=ANZsr9sk9Sc" title="TBL. Anwil Włocławek - Stelmet Zielona Góra 85:84. Konferencja prasowa (1)">
+<img src="http://i.ytimg.com/vi/ANZsr9sk9Sc/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=ANZsr9sk9Sc" title="TBL. Anwil Włocławek - Stelmet Zielona Góra 85:84. Konferencja prasowa (1)">TBL. Anwil Włocławek - Stelmet Zielona Góra 85:84. Konferencja prasowa (1)</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=ofxjC4DXKqI" title="TBL. Anwil Włocławek - Stelmet Zielona Góra 85:84. Konferencja prasowa (2)">
+<img src="http://i.ytimg.com/vi/ofxjC4DXKqI/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=ofxjC4DXKqI" title="TBL. Anwil Włocławek - Stelmet Zielona Góra 85:84. Konferencja prasowa (2)">TBL. Anwil Włocławek - Stelmet Zielona Góra 85:84. Konferencja prasowa (2)</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=9VI2xJYw0Wk" title="Poseł handluje prawdą">
+<img src="http://i.ytimg.com/vi/9VI2xJYw0Wk/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=9VI2xJYw0Wk" title="Poseł handluje prawdą">Poseł handluje prawdą</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=skoAzKFO5zw" title="Jaki był wasz pierwszy telefon komórkowy?">
+<img src="http://i.ytimg.com/vi/skoAzKFO5zw/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=skoAzKFO5zw" title="Jaki był wasz pierwszy telefon komórkowy?">Jaki był wasz pierwszy telefon komórkowy?</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=XxkCkXgjTmw" title="Milija Bogicević trenerem Anwilu w sezonie 2013/14">
+<img src="http://i.ytimg.com/vi/XxkCkXgjTmw/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=XxkCkXgjTmw" title="Milija Bogicević trenerem Anwilu w sezonie 2013/14">Milija Bogicević trenerem Anwilu w sezonie 2013/14</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=qypRBhvFQH4" title="Napad! 93-latka nie żyje">
+<img src="http://i.ytimg.com/vi/qypRBhvFQH4/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=qypRBhvFQH4" title="Napad! 93-latka nie żyje">Napad! 93-latka nie żyje</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=GleogMtEB7Q" title="Wypadek na Rondzie Jagiellonów w Bydgoszczy">
+<img src="http://i.ytimg.com/vi/GleogMtEB7Q/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=GleogMtEB7Q" title="Wypadek na Rondzie Jagiellonów w Bydgoszczy">Wypadek na Rondzie Jagiellonów w Bydgoszczy</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=WIDEO&amp;id=en-bA5eQYv4" title="Bramki z meczu Pucharu Polski Włocłavia - Kujawianka 4:1">
+<img src="http://i.ytimg.com/vi/en-bA5eQYv4/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=WIDEO&amp;id=en-bA5eQYv4" title="Bramki z meczu Pucharu Polski Włocłavia - Kujawianka 4:1">Bramki z meczu Pucharu Polski Włocłavia - Kujawianka 4:1</a>
+</li>
+</ul>
+
+    <p class="more"><a href="/apps/pbcs.dll/section?Category=naszdoktor10" title="wideo" rel="nofollow">więcej &raquo;</a> | <script type="text/javascript">safeEmail('online','pomorska.pl','wyślij film &raquo;');</script></p>
+</div>
+<div class="adholder_prawa2"></div>
+<div id="boxForum" class="box300">
+    <h3><a href="http://forum.pomorska.pl/zdrowie-i-uroda-f45/" title="forum">Forum</a></h3>
+    <ul id="boxForumTabsList">
+        <li class="ui-tabs-selected"><a href="#boxForumTabs1">Ostatnie</a></li>
+        <li class="last"><a href="#boxForumTabs2">Popularne</a></li>
+    </ul>
+    <div id="boxForumTabs1">
+        <!-- remote --><ul>
+<li><span>wczoraj, 15:08</span><a href="http://forum.pomorska.pl/kremy-przeciwzmarszkowe-naprawde-dzialaja-pod-jednym-warunkiem-t146677/">Kremy przeciwzmarszkowe naprawdę działają. Pod jednym warunkiem...</a></li>
+<li><span>wczoraj, 15:05</span><a href="http://forum.pomorska.pl/jak-wygladac-mlodziej-t133234/">Jak wyglądać młodziej ?</a></li>
+<li><span>wczoraj, 15:04</span><a href="http://forum.pomorska.pl/co-najlepsze-na-bol-stawow-t140616/">Co najlepsze na ból stawów?</a></li>
+<li><span>wczoraj, 15:00</span><a href="http://forum.pomorska.pl/e-papieros-warto-t140064/">E-papieros warto?</a></li>
+<li><span>wczoraj, 14:57</span><a href="http://forum.pomorska.pl/jak-wybrac-zdrowe-dobre-jajka-sa-na-to-sposoby-t146799/">Jak wybrać zdrowe, dobre jajka? Są na to sposoby</a></li>
+<li><span>wczoraj, 14:56</span><a href="http://forum.pomorska.pl/jakich-kosmetykow-uzywac-t137311/">Jakich kosmetyków używać</a></li>
+</ul>
+
+        <p class="more"><a href="http://forum.pomorska.pl/zdrowie-i-uroda-f45/" title="forum" rel="nofollow">więcej &raquo;</a></p>
+    </div>
+    <div id="boxForumTabs2" class="ui-tabs-hide">
+        <!-- remote --><ul>
+<li><span>[4]</span><a href="http://forum.pomorska.pl/jak-wybrac-zdrowe-dobre-jajka-sa-na-to-sposoby-t146799/">Jak wybrać zdrowe, dobre jajka? Są na to sposoby</a></li>
+<li><span>[2]</span><a href="http://forum.pomorska.pl/kremy-przeciwzmarszkowe-naprawde-dzialaja-pod-jednym-warunkiem-t146677/">Kremy przeciwzmarszkowe naprawdę działają. Pod jednym warunkiem...</a></li>
+<li><span>[2]</span><a href="http://forum.pomorska.pl/podatek-moze-dobic-szpitale-i-pacjentow-t145645/">Podatek może dobić szpitale. I pacjentów</a></li>
+<li><span>[2]</span><a href="http://forum.pomorska.pl/nowa-lista-lekow-refundowanych-wazna-od-1-marca-2013-t146189/">Nowa Lista Leków Refundowanych [ważna od 1 marca 2013]</a></li>
+<li><span>[1]</span><a href="http://forum.pomorska.pl/nfz-odrzuca-wiekszosc-wnioskow-o-finansowanie-indywidualnego-leczenia-pacjentow-t146323/">NFZ odrzuca większość wniosków o finansowanie indywidualnego leczenia pacjentów</a></li>
+<li><span>[1]</span><a href="http://forum.pomorska.pl/przedluzanie-wlosow-t145674/">Przedłużanie włosów</a></li>
+</ul>
+
+        <p class="more"><a href="http://forum.pomorska.pl/zdrowie-i-uroda-f45/" title="forum" rel="nofollow">więcej &raquo;</a></p>
+    </div>
+</div>
+<div id="boxPoll" class="box300">
+    <h3><a href="/apps/pbcs.dll/section?Category=SONDY" title="Sonda">Sonda</a></h3>
+    <script type="text/javascript">
+        var pollExists=false;
+    </script>
+    <div id="pollMini">Brak ankiety.</div>
+    <script type="text/javascript">
+        if (!pollExists) { $("#pollMini").preloader(); }
+    </script>
+</div>
+<div class="adholder_prawa4"></div>
+<div id="boxTags" class="box300">
+    <h3><a href="/apps/pbcs.dll/section?Category=tagi" title="Tagi">Tagi</a></h3>
+    <p>Przepraszamy, w tej chwili nie ma tagów.</p>
+</div>
+        </div>
+    </div>
+    <div class="adholder_pasek"></div>
+    <div class="adholder_dol"></div>
+    <div id="bottom">
+    <ul>
+        <li><a href="/apps/pbcs.dll/section?Category=KONTAKT">kontakt</a></li>
+        <li><a href="/apps/pbcs.dll/section?Category=REKLAMA">reklama</a></li>
+        <li><a href="/apps/pbcs.dll/section?Category=REDAKCJA">redakcja</a></li>
+    </ul>
+    <p>Wszelkie prawa zastrzeżone. Media Regionalne sp. z o.o. 2001-2013</p>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+var pianoVariables = {
+    service_id: "284",
+    mode: "bar_normal",
+    method_verify: true
+};
+var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+(function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';
+    var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+})();
+// ]]>
+</script>
+
+<script type="text/javascript" src="http://ad.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "new", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "ad.adocean.pl", id: "es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77"});
+</script><script type="text/javascript">
+$('.adholder_gora').attr('id','ado-7aVG8mM94q7G3mVDWUbZu3g4cu1ouX4NtbMgtzkVZL3.D7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.gora.naszdoktor */
+ado.placement({id: 'ado-7aVG8mM94q7G3mVDWUbZu3g4cu1ouX4NtbMgtzkVZL3.D7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_logosponsora').attr('id','ado-xbdGoYBE4grOp1Vwbg_.3mHCH2sPuq8ft7ZBFqMMoGP.T7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.logoSponsora.naszdoktor */
+ado.placement({id: 'ado-xbdGoYBE4grOp1Vwbg_.3mHCH2sPuq8ft7ZBFqMMoGP.T7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_lewa1').attr('id','ado-eEzwgv6E10DVYsepyUsfF4RL0mtSrD3ZfNB9PrxmtT3.17');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa1.naszdoktor */
+ado.placement({id: 'ado-eEzwgv6E10DVYsepyUsfF4RL0mtSrD3ZfNB9PrxmtT3.17', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_lewa2').attr('id','ado-jUWlVYMnTdoAq0_DYjm5kmtt4hjDFd47jXYg9tWZhDj.x7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa2.naszdoktor */
+ado.placement({id: 'ado-jUWlVYMnTdoAq0_DYjm5kmtt4hjDFd47jXYg9tWZhDj.x7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_lewa3').attr('id','ado-h.acHuzo7eHSpxRaSgwGkjW2UVj9PieCLNQtjHbq_Zr.K7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa3.naszdoktor */
+ado.placement({id: 'ado-h.acHuzo7eHSpxRaSgwGkjW2UVj9PieCLNQtjHbq_Zr.K7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_lewa4').attr('id','ado-dOMB.y0MbDNXzBFo8Anbyh7TQPU5pYcuk9OaOsLOe_v.h7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa4.naszdoktor */
+ado.placement({id: 'ado-dOMB.y0MbDNXzBFo8Anbyh7TQPU5pYcuk9OaOsLOe_v.h7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_lewa5').attr('id','ado-Nu08wKMO3agvv341q7D83Fa.zR4lnCdw6q5Fw18bk0v.37');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa5.naszdoktor */
+ado.placement({id: 'ado-Nu08wKMO3agvv341q7D83Fa.zR4lnCdw6q5Fw18bk0v.37', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_belka').attr('id','ado-q6PxkLeUDIyaCdJsOKpY1TxRUQ3efydwtb5ajBJkjZr.r7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.belka.naszdoktor */
+ado.placement({id: 'ado-q6PxkLeUDIyaCdJsOKpY1TxRUQ3efydwtb5ajBJkjZr.r7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_belka1').attr('id','ado-i7asvge9TcVamTP_AmAWUdBpLUjvcubGvOc4a1mrLVT.E7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.belka1.naszdoktor */
+ado.placement({id: 'ado-i7asvge9TcVamTP_AmAWUdBpLUjvcubGvOc4a1mrLVT.E7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_srodek1').attr('id','ado-kJE2ItvygsRJNhrFLRb8_sxyLUie7_ewBR91rwHLIwn.d7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.srodek1.naszdoktor */
+ado.placement({id: 'ado-kJE2ItvygsRJNhrFLRb8_sxyLUie7_ewBR91rwHLIwn.d7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_srodek2').attr('id','ado-e.0F..5E7ZBrg6.6ymaGWqE3rr7XjhuKpmGrWyftpZv.47');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.srodek2.naszdoktor */
+ado.placement({id: 'ado-e.0F..5E7ZBrg6.6ymaGWqE3rr7XjhuKpmGrWyftpZv.47', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_link').attr('id','ado-1Yj6KXCuQz50eS2bdn3BBHasIGf1L_OIiuDqK1klLqb.47');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.link.naszdoktor */
+ado.placement({id: 'ado-1Yj6KXCuQz50eS2bdn3BBHasIGf1L_OIiuDqK1klLqb.47', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_prawa1').attr('id','ado-lfo1R4MT3R0wGMCYNrCwFSSQH03iFq9OnGgErGwMTEP.07');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.prawa1.naszdoktor */
+ado.placement({id: 'ado-lfo1R4MT3R0wGMCYNrCwFSSQH03iFq9OnGgErGwMTEP.07', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_prawa2').attr('id','ado-NZKsDT.dTaDZgSlbot9c3RXa4hmFxt472lSG6w8InLT..7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.prawa2.naszdoktor */
+ado.placement({id: 'ado-NZKsDT.dTaDZgSlbot9c3RXa4hmFxt472lSG6w8InLT..7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_prawa3').attr('id','ado-1fhBL_L6vH1.NYF2Oz0hXQRU4WCSYMeb79maC_7i3X3.T7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.prawa3.naszdoktor */
+ado.placement({id: 'ado-1fhBL_L6vH1.NYF2Oz0hXQRU4WCSYMeb79maC_7i3X3.T7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_prawa4').attr('id','ado-FrU8viLd3XDPxzR_0a6w7uSszT3CACeAT5Ulmf_mUWX.J7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.prawa4.naszdoktor */
+ado.placement({id: 'ado-FrU8viLd3XDPxzR_0a6w7uSszT3CACeAT5Ulmf_mUWX.J7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_dol').attr('id','ado-n36bPVluSAbdL64gXP6QbHqZ3vYLyC9UagRxuOJw4Gv.I7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.dol.naszdoktor */
+ado.placement({id: 'ado-n36bPVluSAbdL64gXP6QbHqZ3vYLyC9UagRxuOJw4Gv.I7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_pasek').attr('id','ado-DLqQgb.rN0YwLe06G11yEwoY7z6bOM8fWnVRYyh_bsn.37');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.pasek.naszdoktor */
+ado.placement({id: 'ado-DLqQgb.rN0YwLe06G11yEwoY7z6bOM8fWnVRYyh_bsn.37', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_watermark').attr('id','ado-4wgMi1oc7Ycb8BQx0CaA7b8BE4ZJDvJU0MYWktGVOMD.i7');
+/* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.watermark.naszdoktor */
+ado.placement({id: 'ado-4wgMi1oc7Ycb8BQx0CaA7b8BE4ZJDvJU0MYWktGVOMD.i7', server: 'ad.adocean.pl' });
+</script>
+
+<!-- Begin comScore CMC v.1.0.1 --><script type='text/javascript'>// <![CDATA[function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'div><img src="'+u+'" height="1" width="1" alt="*"><'+'/div>');};sitestat("http://int.sitestat.com/mr/pomorska/s?styl_zycia.nasz_doktor.plebiscyt-medyczny-2012.plebiscyt-medyczny-2012-artykuly.artykul.doktor-zbada-wyleczy-i-doradzi-20120109&amp;mr_grupa=pr&amp;mr_serwis=pomorska&amp;mr_tematycznie=styl_zycia&amp;mr_oddzial=bydgoszcz");// ]]></script><noscript><div><img src="http://int.sitestat.com/mr/pomorska/s?styl_zycia.nasz_doktor.plebiscyt-medyczny-2012.plebiscyt-medyczny-2012-artykuly.artykul.doktor-zbada-wyleczy-i-doradzi-20120109&amp;mr_grupa=pr&amp;mr_serwis=pomorska&amp;mr_tematycznie=styl_zycia&amp;mr_oddzial=bydgoszcz" width="1" height="1" alt="" /></div></noscript><script type='text/javascript' src='/js/sitestat.js'></script><!-- End comScore CMC -->
+<script type="text/javascript" src="http://pliki.serwisyregionalne.pl/cookie/cookies-policy-min.js"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-637524-1']);
+_gaq.push(['_setDomainName', '.pomorska.pl']);
+_gaq.push(['_setVar', 'NASZDOKTOR']);
+_gaq.push(['_addOrganic', 'onet.pl', 'qt']);
+_gaq.push(['_addOrganic', 'szukaj.onet.pl', 'qt']);
+_gaq.push(['_addOrganic', 'katalog.onet.pl', 'qt']);
+_gaq.push(['_addOrganic', 'wp.pl', 'szukaj']);
+_gaq.push(['_addOrganic', 'szukaj.wp.pl', 'szukaj']);
+_gaq.push(['_addOrganic', 'netsprint.pl', 'q']);
+_gaq.push(['_addOrganic', 'google.interia.pl', 'q']);
+_gaq.push(['_addOrganic', 'gooru.pl', 'PHRASE']);
+_gaq.push(['_addOrganic', 'szukaj.gazeta.pl', 'slowo']);
+_gaq.push(['_addOrganic', 'szukaj2.o2.pl', 'qt']);
+_gaq.push(['_addOrganic', 'szukacz.pl', 'q']);
+_gaq.push(['_addOrganic', 'search.live.com', 'q']);
+_gaq.push(['_addOrganic', 'katalog.interia.pl', 'q']);
+_gaq.push(['_addOrganic', 'szukaj.wow.pl', 'q']);
+_gaq.push(['_addOrganic', 'szukaj.gery.pl', 'q']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+</body>
+</html>
+

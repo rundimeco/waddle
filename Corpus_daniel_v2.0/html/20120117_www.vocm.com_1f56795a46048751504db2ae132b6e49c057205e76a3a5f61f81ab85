@@ -1,0 +1,700 @@
+
+<html>
+<head>
+<title>VOCM.COM|Flu Vaccine Still Available  | Article</title>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<META NAME="description" Content="VOCM Newfoundland Radio, 590 VOCM, News, Local News, VOCM, Newfoundland, Labrador, 590, AM, Radio">
+<META NAME="keywords" Content="VOCM Newfoundland Radio, 590 VOCM, News, Local News, VOCM, Newfoundland, Labrador, 590, AM, Radio">
+<META NAME="ROBOTS" CONTENT="NOODP"> 
+<Meta Name="robots" Content="all">
+
+
+<LINK href="styles.css" rel="stylesheet" type="text/css">
+<link href="galleryview.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="jquery-1.3.1.min.js"></script>
+<script type="text/javascript" src="jquery.jclock.js"></script>
+<script type="text/javascript" src="jquery.cycle.min.js"></script> 
+<script type="text/javascript" src="jquery.galleryview-2.1.2.js"></script>
+<script type="text/javascript" src="jquery.timers-1.2.2.js"></script>
+<script type="text/javascript" src="jquery.easing.1.3.1.js"></script>
+
+  <script type="text/javascript">
+    $(function($) {
+
+      var optionsnl = {
+        timeNotation: '12h',
+        am_pm: true,
+        fontFamily: 'Verdana, Arial, Helvetica, sans-serif',
+        fontSize: '14px',
+        foreground: 'white',
+     	utc: true,
+        utcOffset: -3.5,
+	format: '%I:%M:%S %p' // 12-hour
+
+      }
+      $('#nltime').jclock(optionsnl);
+	  $('.slideshow').cycle({
+		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+	  
+	  	  $('.slideshow2').cycle({
+		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+	
+		$('#photos').galleryView({
+			panel_width: 250,
+			panel_height: 208,
+			frame_width: 60,
+			frame_height: 50,
+			nav_theme: 'images'
+		});
+		  
+
+    });
+	
+	$('#weatherday').click(function() {
+  			alert("clicked");
+		});
+	
+  </script>
+<script type="text/javascript" src="swfobject.js"></script>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function onw(URLtoOpen, windowName, windowFeatures) { newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
+-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Use one function for multiple text areas on a page -->
+<!-- Limit the number of characters per textarea -->
+<!-- Begin
+function textCounter(field,cntfield,maxlimit) {
+if (field.value.length > maxlimit) // if too long...trim it!
+field.value = field.value.substring(0, maxlimit);
+// otherwise, update 'characters left' counter
+else
+cntfield.value = maxlimit - field.value.length;
+}
+//  End -->
+</script>
+<link rel="shortcut icon" href="http://www.ncc.ca/favicon.ico">
+</head>
+</head>
+<body bgcolor="#070707" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="topbar">
+	<div id="topbarholder">
+        <div id="topbarleft">
+            <div id="weatherblock">
+            	<div id="weatherday">Tuesday</div>
+                <div id="weathericon"><img src="weather/smallimages/snowicon.jpg"></div>
+                <div id="weathertemp">-0.3&nbsp;&deg;C</div>
+                <p class="clear"></p>
+            </div>
+            <div id="timeblock">
+           	    <div id="nltimetext">NL Time: </div>
+            	<div id="nltime"> </div>
+                <p class="clear"></p>
+            </div>
+        </div>
+        <div id="topbarright">
+        	
+            <div id="makehomeblock">
+                <a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.vocm.com');" title="Make VOCM Your Homepage" border="0"><img src="images/homepagebutton.png" border="0"/></a>
+            </div>
+         
+            <div id="facebooklikeblock">
+					<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.vocm.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:70px; height:21px;" allowTransparency="true"></iframe>
+            </div>
+            
+            <div id="tweetblock">
+               <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.vocm.com/" data-text="Check out Vocm.com" data-count="horizontal" data-via="590VOCM" data-related="VOCMNEWS">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+            </div>
+             <p class="clear"></p>
+        </div>
+         <p class="clear"></p>
+      </div>
+</div>
+
+<Center>
+<table id="Table_01" width="1001" height="1238" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td rowspan="5" background="images/vocm_02.jpg" width="1" height="1144"></td>
+	<td colspan="3" width="999" height="140" id="vocmtopheader2011">
+		<table id="Table_01" width="999" height="140" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td  width="275" height="140">
+
+		  <a href="index.asp" border="0"> <img src="images/vocm-first-new-logo.png"   alt="VOCM"  border="0"></a>
+
+	</td>
+	<td width="724" height="140" id="topbanner">
+
+			<!--Top Banner Start -->
+<Center>
+	
+				<A href="bannertracker.asp?id=709" target="_blank" border=0><img src="thumbnails/260369_bense-banner.jpg" hspace="0" Vspace="0" border=0></a>
+
+			
+</Center>
+<!--Top Banner End -->
+
+	</td>
+</tr>
+</table>
+
+	</td>
+	<td rowspan="5" background="images/vocm_04.jpg" width="1" height="1144"></td>
+</tr>
+<tr>
+	<td colspan="3" width="999" height="26" background="images/vocm_05.jpg" bgcolor="#000000">
+	<!--Menu Start -->
+	&nbsp;&nbsp;&nbsp;
+	
+			<a href="index.asp" class="MenuTop" title="Home">Home</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="news.asp?mn=2"class="MenuTopOver"  title="All Stories">All Stories</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="http://www.investcom.com/"  class="MenuTop"  title="Financial" target="_Blank">Financial</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="sports.asp?mn=4" class="MenuTop" title="Sports">Sports</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="qotd.asp?mn=6" class="MenuTop" title="Question of The Day">Question of The Day</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="photogallery.asp?mn=7" class="MenuTop" title="Photos">Photos</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="videogallery.asp?mn=9" class="MenuTop" title="Videos">Videos</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="inside.asp?mn=8" class="MenuTop" title="Bios">Bios</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="inside.asp?mn=10" class="MenuTop" title="Shows">Shows</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="inside.asp?mn=11" class="MenuTop" title="Contests">Contests</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="blogs.asp?mn=14" class="MenuTop" title="Blogs">Blogs</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="inside.asp?mn=12" class="MenuTop" title="Links">Links</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="inside.asp?mn=15" class="MenuTop" title="Careers">Careers</a>
+	
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+			<a href="inside.asp?mn=13" class="MenuTop" title="Contact Us">Contact Us</a>
+	
+	<!--Menu End -->
+	</td>
+</tr>
+<tr>
+	<td colspan="3"  width="999" height="25" background="images/vocm_06.jpg" bgcolor="#44494d">&nbsp;</td>
+</tr>
+
+<tr>
+	<td  width="651" height="914" valign="top" bgcolor="#e6e6e8">
+		<BR>
+		<CENTER>
+		<table id="Table_01" width="647" height="909" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td width="4" height="4"><img src="images/content_01.jpg" width="4" height="4"></td>
+			<td width="638" height="4"><img src="images/content_02.jpg" width="638" height="4"></td>
+			<td  width="5" height="4"><img src="images/content_03.jpg" width="5" height="4"></td>
+		</tr>
+		<tr>
+			<td background="images/content_04.jpg" width="4" height="900">&nbsp;</td>
+			<td  width="638" height="900" bgcolor="#FFFFFF" valign="top">
+				<!--Content Banner Start-->
+<Table width="100%" cellpadding="3" cellspacing="0" border="0">
+<TR>
+	<TD height="60" width="470">
+	<!--Cont Banner Start -->
+	
+				<A href="bannertracker.asp?id=753" target="_blank" border=0><img src="thumbnails/947895_ecmb-content-2.jpg" hspace="0" Vspace="0" border=0></a>
+
+			
+	<!--Content Banner End -->
+	</TD>
+	<TD>
+    <div id="sharebox">
+    <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style ">
+        <a class="addthis_button_preferred_1"></a>
+        <a class="addthis_button_preferred_2"></a>
+        <a class="addthis_button_preferred_3"></a>
+        <a class="addthis_button_preferred_4"></a>
+        <a class="addthis_button_compact"></a>
+        <a class="addthis_counter addthis_bubble_style"></a>
+        </div>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=590vocm"></script>
+    <!-- AddThis Button END -->
+    </div>
+
+    	<!--
+		<Table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<TR>
+			<TD colspan="5"><CENTER><a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.vocm.com');"><img src="images/makehomepage.jpg" border="0"></A></CENTER></TD>
+		</TR>
+		<TR>
+			<TD valign="top" width="27" height="24" class="socialbox"><a href="http://explore.twitter.com/VOCMNEWS" target="blank"><img src="images/twittericon.jpg" alt="Follow vocm on Twitter" title="Follow vocm on Twitter" border="0"></a></TD>
+			<TD valign="top" width="27" height="24" class="socialbox"><img src="images/facebookicon.jpg" alt="Follow vocm on Facebook" title="Follow vocm on Facebook"></TD>
+			<TD valign="top" width="27" height="24" class="socialbox"><a href="http://www.youtube.com/user/VOCMNEWS" target="_blank"><img src="images/youtubeicon.jpg" alt="Follow vocm on Youtube" title="Follow vocm on Youtube" border="0"></a></TD>
+			<TD valign="top" width="27" height="24" class="socialbox"><a href="http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww%2Evocm%2Ecom%2Fnewsarticle%2Easp%3Fmn%3D2%26id%3D20124%26latest%3D1"  border="0"><img src="images/digg.jpg" alt="Digg this page" title="Digg this page" border="0"></a></TD>
+			<TD valign="top" width="27" height="24" class="socialbox"><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww%2Evocm%2Ecom%2Fnewsarticle%2Easp%3Fmn%3D2%26id%3D20124%26latest%3D1" border="0"><img src="images/stumbledicon.jpg" alt="Stumble it!" title="Stumble it!" border="0"></a></TD>
+		<TR>
+		</Table>
+        -->
+	</TD>
+</TR>
+</TABLE>
+<!--Content Banner End-->
+				<Table width="100%" cellpadding="1" cellspacing="0" border="0">
+				<TR>
+					<TD valign="top">
+					
+					
+					<!--Show Article Start-->
+						<Table width="100%" cellpadding="4" cellspacing="0" border="0">
+						<TR>
+							<TD  class="NewsHeader">
+								Flu Vaccine Still Available <br/>
+                                <span class="artdate">Tuesday&nbsp;,&nbsp;January&nbsp;17&nbsp;2012 </span><br/>
+								<table id="Table_01" width="100%" height="22" border="0" cellpadding="0" cellspacing="0">
+								<tr>
+									<td  width="126" height="22"  valign="top"><a href="sendtoafriend.asp?URL=http://www.vocm.com/newsarticle.asp?mn=2&id=20124&latest=1" target="_blank" border="0"><img src="images/newsextras_01.gif" width="126" height="22" border="0"></a></td>
+									<td  width="109" height="22" valign="top"><a href="printnewspage.asp?ID=20124" target="_blank" border="0"><img src="images/newsextras_02.gif" width="109" height="22" border="0"></a></td>
+									<TD valign="top" align="right">
+										
+												<a href="news.asp?mn=2&latest=1" border="0"><img src="images/backbuttonlatestnews.jpg" border="0"></a> 
+											
+										&nbsp;
+									</TD>
+								</tr>
+								</table>
+							</TD>
+						</TR>
+                        <TR>
+                        		<TD valign="top" colspan="2">
+                                					<!--NEW TAB MENU Start-->
+					<table id="Table_01" height="54" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td  width="128" height="47" valign="top"><Img src="images/overnewsmenu_01.gif"  width="128" height="47"></td>
+						
+						<td  width="130" height="47" valign="top"><a href="newsarticle.asp?mn=2&ID=20124&GetComments=1&latest=1" onMouseOver="image5.src='images/overnewsmenu_05.gif';" onMouseOut="image5.src='images/normalnewsmenu_05.gif';"><IMG name=image5 SRC="images/normalnewsmenu_05.gif" width="130" height="47" border=0 ALT="Comments"></a></td>
+						
+					</tr>
+					</table>
+					<img src="images/normalnewsmenu_06.gif" width="600" height="7">
+					<!--NEW TAB MENU End-->
+                                
+                                
+                                </TD>
+                         </TR>
+						<TR>
+							<TD valign="top" class="NewsDescription" colspan="2">
+							
+									<IMG SRC="sendbinary.asp?pic=987596_Needle 1.JPG&width=295"  class="newspic" align="left"  vspace="6" hspace="6"> 
+								<p>The Department of Health and Community Services is reminding residents that seasonal flu vaccinations are still available throughout the province. The free shots can be obtained through your family doctor or public health office. High-risk adults and children with chronic disease, persons in care and older than 60, aboriginal persons,&nbsp;health care workers, pregnant women, and poultry and swine industry workers are at increased risk for influenza.</p>
+<p>Chief Medical Officer, Dr. Faith Stratton, reminds all residents to clean, cover and contain when coughing or sneezing, in order to minimize infectious transmission.</p>
+							<BR><BR>
+						</TR>
+						</Table>
+					<!--Show Article End-->
+					
+                    
+                    
+                    <!-- ARticle ad-->
+                    
+                                        
+                    <!---Article AD-->
+                    
+					                    <center>
+                    	
+                       </center>
+                       <br/>
+				
+					<!--Latest Articles Start-->
+								<CENTER>
+								<table id="Table_01" width="90%"  border="0" cellpadding="0" cellspacing="0">
+								<tr><td colspan="3"  height="29" valign="top"><a href="/rss/rssfeed.rss?latest=1" target="_blank" border="0"><img src="images/newsbox_01large.jpg" height="29" border="0"></a></td></tr>
+								<tr>
+									<td background="images/newsbox_02.jpg" width="2" valign="top"><img src="images/newsbox_02.jpg" width="2"></td>
+									<td valign="top">
+										<table width="100%" cellpadding="0" cellspacing="0" border="0">
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=20122&latest=1" class="newslink">Early Morning Accident </a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=20118&latest=1" class="newslink">Man Facing Weapons Charge</a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=20123&latest=1" class="newslink">Dangerous Driver </a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=20101&latest=1" class="newslink">Drugs Seized </a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=20126&latest=1" class="newslink">Close Call!</a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=20121&latest=1" class="newslink">Corner Brook Facing Firefighters' Strike</a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=20124&latest=1" class="newslink">Flu Vaccine Still Available </a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=20125&latest=1" class="newslink">MHA Seeks Help for Students</a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=20104&latest=1" class="newslink">Woman Charged with Drug Trafficking</a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=20098&latest=1" class="newslink">Protest Line Can Stay</a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										</Table>
+									</td>
+									<td background="images/newsbox_04.jpg" width="2" valign="top"><img src="images/newsbox_04.jpg" width="2"></td>
+								</tr>
+								<tr><td colspan="3" valign="top" background="images/newsbox_05.jpg"><img src="images/newsbox_05.jpg" width="316" height="2"></td></tr>
+								</table>
+								</CENTER>
+								<BR><BR>
+					<!--Latest Articles End-->
+					</TD>
+				</TR>
+				</Table>
+			</td>
+			<td background="images/content_06.jpg" width="5" height="900">&nbsp;</td>
+		</tr>
+		<tr>
+			<td  width="4" height="5"><img src="images/content_07.jpg" width="4" height="5"></td>
+			<td width="638" height="5"><img src="images/content_08.jpg" width="638" height="5"></td>
+			<td width="5" height="5"><img src="images/content_09.jpg" width="5" height="5"></td>
+		</tr>
+		</table>
+		</Center>
+	</td>
+	<td width="2" height="914" valign="top"  bgcolor="#e6e6e8"><img src="images/vocm_08.jpg" width="2" height="914"></td>
+	<td  width="346" height="914" valign="top"  bgcolor="#e6e6e8">
+	<!--RightSide Start -->
+
+<center><a href="javascript:onw('mediaplayer/player.asp','','width=980,height=680,screenX=0,screenY=0,directories=0,fullscreen=0,location=0,menubar=0,scrollbars=0,status=0,toolbar=0')" target=_self  Alt="Click Here to Listen to Internet Radio Station Stream" title="Click Here to Listen to Internet Radio Station Stream"><img src="images/listenlivesmaller.jpg"  border="0" Alt="Click Here to Listen to Internet Radio Station Stream" title="Click Here to Listen to Internet Radio Station Stream"></a></center>
+<br/>
+
+<!-- Right Large Banner Start-->
+	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td align="center">	
+	
+				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="300" height="250">
+				<param name="movie" value="thumbnails/115281_DisplayAd-300x250.swf?clickTag=http://www.vocm.com/bannertracker.asp?id=770"><param name="quality" value="high"><param name="bgcolor" value="#ffffff" />
+				<embed src="thumbnails/115281_DisplayAd-300x250.swf?clickTag=http://www.vocm.com/bannertracker.asp?id=770" quality="high"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="250"></embed>
+				</object>
+                
+                
+             
+		</td>
+	</tr>
+	</table>
+<!--Right Large Banner END-->
+
+
+<!--REgion Banner Start-->
+
+
+<!--Region Banner End-->
+
+<!--BLOG START -->
+
+
+
+<!--BLOG END-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- Sub Menu Start-->
+	
+	<!--Sub menu END-->
+<br/>
+	<!--Weather Start-->
+<center>
+<table  width="330" height="121" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td colspan="3"  width="330" height="5" valign="top"><img src="images/RightBox_01.jpg" width="330" height="5"></td>
+</tr>
+<tr>
+	<td width="5" height="110" background="images/RightBox_02.jpg"></td>
+	<td width="320" height="110" bgcolor="#FFFFFF">
+		<TABLE Width="100%" Cellpadding="0" cellspacing="0" border="0">
+		<TR>
+			<TD valign="top" align="center">
+
+
+		<div id="flashcontent10011">
+ 				<a href="http://www.vocm.com/weather.asp"><b style="color:black;background-color:#ffff66">VOCM</b> weather</a>
+		</div>
+		<script type="text/javascript">
+  			 var so = new SWFObject("Flash/vocmweather.swf", "top", "180", "110", "8", "#FFFFFF");
+			 so.addParam("wmode", "transparent");
+  			 so.write("flashcontent10011");
+		</script>
+ 
+			</TD>
+			<TD valign="top" align="center">
+
+		
+				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="110" height="110">
+				<param name="movie" value="thumbnails/643683_jan2012-110x110.swf?clickTag=http://www.vocm.com/bannertracker.asp?id=376"><param name="quality" value="high"><param name="bgcolor" value="#ffffff" />
+				<embed src="thumbnails/643683_jan2012-110x110.swf?clickTag=http://www.vocm.com/bannertracker.asp?id=376" quality="high"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="110" height="110"></embed>
+				</object>
+
+			
+		</td>
+		</TR>
+		</TABLE>
+	</td>
+	<td background="images/RightBox_04.jpg" width="5" height="110"></td>
+</tr>
+<tr>
+	<td colspan="3" width="330" height="6"><img src="images/RightBox_05.jpg" width="330" height="6"></td>
+</tr>
+</table>
+</center>
+<br/>
+	<!--VOCM BANNER START-->
+
+
+
+<!--
+<table id="Table_01" width="330" height="121" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td width="165" height="121"><a href="http://www.vocmcares.com/" border="0" target="_blank"><img src="images/lilliesforlillie_01.jpg" width="165" height="121" border="0"></a></td>
+	<td width="165" height="121"><a href="http://www.lflhome.com" border="0" target="_blank"><img src="images/lilliesforlillie_02.jpg" width="165" height="121" border="0"></a></td>
+	</tr>
+</table>
+
+-->
+
+
+
+
+<!--
+<table id="Table_01" width="332" height="123" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<a href="http://www.vocmcares.com/" border="0"><img src="images/gardenofhope_01.jpg" width="166" height="123" border="0"></a></td>
+		<td>
+			<a href="https://nccsecure.ca/vocmcares/pledge/gardenofhope.asp" border="0"><img src="images/gardenofhope_02.jpg" width="166" height="123" border="0"></a></td>
+	</tr>
+</table>
+-->
+<!--VOCM BANNER END-->
+
+ 
+<!--Weather BANNER End -->
+<br/>
+    
+  	<!-- Right Static Banners Start-->
+	<Table width="100%" cellpadding="0" cellspacing="0" border="0">
+	
+		<TR>
+			<TD  align="center">	
+			
+				<a href="bannertracker.asp?id=666" target="_blank" border=0><img src="thumbnails/741599_btn-jan2012.gif" hspace="0" Vspace="0" border=0></a>
+			
+            <br/>     <br/>
+			</TD>
+		</TR>
+		
+	</Table>
+	<!--Right static Banner END-->  
+    <!--RIGHT ROTATING BANNER START -->
+      
+      <center>
+			<div class="slideshow2">
+            
+		<a href="bannertracker.asp?id=782" border="0"><img src="thumbnails/950106_cabin-party-contest-jan2012-tommy-hunter.jpg" hspace="0" Vspace="20" border="0"></a>
+          
+			</div>
+		</center>
+      
+
+
+    <!-- ROTATING BANNER END-->  
+
+    <CENTER>
+<a href="inside.asp?MN=17" border="0"  title="Go to Concerts page"><img src="images/concertsheader.jpg" border="0"></a>
+
+  <a href="inside.asp?mn=17&id=3937&cc=1" title="Tribute to the Legends of Country Music">
+     <img src="concerts/Big_428131_8TRACK-THUMB.jpg" border="0"/>  
+  </a>
+
+<a href="inside.asp?MN=17" border="0"  title="Go to Concerts page"><img src="images/concertsbtn.jpg" border="0"></a>
+</CENTER>
+    
+
+
+    <br/>
+	<!-- Right Static Banners Bottom Start-->
+	<Table width="100%" cellpadding="0" cellspacing="0" border="0">
+	
+		<TR>
+			<TD  align="center">	
+			
+				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="300" height="100">
+				<param name="movie" value="thumbnails/240484_listen-online-300x100-2.swf?clickTag=http://www.vocm.com/bannertracker.asp?id=659"><param name="quality" value="high"><param name="bgcolor" value="#ffffff" />
+				<embed src="thumbnails/240484_listen-online-300x100-2.swf?clickTag=http://www.vocm.com/bannertracker.asp?id=659" quality="high"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="100"></embed>
+				</object>
+
+			
+            <br/><br/>
+			</TD>
+		</TR>
+		
+	</Table>
+	<!--Right static Banner Bottom END-->  
+    
+
+
+
+
+
+
+<!--RightSide  End -->
+	</td>
+</tr>
+<tr>
+	<td colspan="3" background="images/vocm_10.jpg" width="999" height="39">
+	<!--Footer Start -->
+		<Table width=100% cellpadding=0 cellspacing=0 border=0>
+		<TR>
+			<TD align="center">
+			
+
+				<a class="Footer" href="index.asp?mn=1" title="Home">Home</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="news.asp?mn=2" title="All Stories">All Stories</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+				<a class="Footer" href="http://www.investcom.com/" title="Financial"  target="_Blank">Financial</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="sports.asp?mn=4" title="Sports">Sports</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="qotd.asp?mn=6" title="Question of The Day">Question of The Day</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="photogallery.asp?mn=7" title="Photos">Photos</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="videogallery.asp?mn=9" title="Videos">Videos</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=8" title="Bios">Bios</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=10" title="Shows">Shows</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=11" title="Contests">Contests</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="blogs.asp?mn=14" title="Blogs">Blogs</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=12" title="Links">Links</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=15" title="Careers">Careers</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=13" title="Contact Us">Contact Us</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=17" title="VOCM Concerts">VOCM Concerts</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=16" title="Contest Rules">Contest Rules</a>
+			
+<font color="#FFFFFF">&nbsp;|&nbsp;<a class="Footer" href="http://www.ncc.ca/privacy.asp" title="Privacy Policy"  target="_Blank">Privacy Policy</a>
+				<!--Cameratest-->
+               
+                <!--Cam Test-->
+			</TD>
+		</TR>
+		</Table>
+	<!--Footer End -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5437878-14");
+pageTracker._trackPageview();
+</script>
+
+	</td>
+</tr>
+
+
+</table>
+</Center>
+
+</body>
+</html>

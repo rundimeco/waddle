@@ -1,0 +1,367 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <title>Хирург убил пациентку, перепутав органы</title>
+<meta name="keywords" content="Новости Политика и право Происшествия и криминальная хроника Хирург убил пациентку, перепутав органы Хирург убил пациентку, перепутав органы"/>
+<meta name="description" content="Новости Политика и право Происшествия и криминальная хроника Хирург убил пациентку, перепутав органы"/>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="/rss" rel="alternate" type="application/rss+xml" title="Новости мира.com" />
+<script type="text/javascript" src="js/jquery-1.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+    	$('.nrun').crawlLine({crawElement:'.nmove'});
+	});
+</script>
+</head>
+<body>
+ <div class="sos" align="center">
+<div class="page">
+  <table cellpadding="0" cellspacing="0" class="toptable">
+    <tr>
+      <td width="%">&nbsp;</td>
+      <td class="col2" width="40"><img src="img/r1_c3.png" width="40" height="179" border="0" alt="Новости мира"/></td>
+      <td class="col3" width="970">
+      <div class="logo"><a href="http://novostimira.com"><img src="img/logo.png" alt="Новости мира" width="421" height="136" border="0" align="left"/></a>
+     <div align="right">
+<br/>
+<form action="search.php">
+    <input type="text" name="f_words" size="31" />
+    <input type="submit" name="sa" value="Найти новость" />
+    <img src="http://novostimira.com/img/rss.png" width="16" height="16" alt="RSS" border="0"> <a href='/rss'>RSS</a>
+</form>
+<p><div class='today0' align='right'><b>Cегодня:</b>&nbsp;&nbsp;Вторник, 17 Января 2012 года</div></p><p>
+<a href="http://segodnya.novostimira.com">мир сегодня</a> |
+<a href="http://moda.novostimira.com">мир моды</a> |
+<a href="http://show-biz.novostimira.com">шоу-бизнес</a> |
+<a href="http://auto.novostimira.com">автомир</a> |
+<a href="http://kino.novostimira.com">мир кино</a> |
+<a href="http://sport.novostimira.com">спорт</a> |
+<a href="http://recept.novostimira.com">мир кулинарии</a> |
+</p>
+
+<table border="0">
+<td width="%"> </td>
+<td>
+<p><p>
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_favorites"></a>
+<a class="addthis_button_print"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_vk"></a>
+<a class="addthis_button_odnoklassniki_ru"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_livejournal"></a>
+<a class="addthis_button_mymailru"></a>
+<a class="addthis_button_google"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+</td></table>
+
+</div>
+</div>
+      <div class="menu" align="center">
+ <a href='http://rss.novostimira.com'>Новости сегодня</a>
+ <a href='/news.html'>Важные новости</a>
+ <a href='/topnews.php'>Популярное</a>
+ <a href='/goods'>Товары</a>
+ <a href='/sotrudnichestvo'>Сотрудничество</a>
+ <a href='/partners.php'>Партнеры</a>
+ <a href='/reclama_na_saite.php'>Реклама</a>
+ <a href='/contacts.php'>Контакты</a>
+ <a href='#'></a>
+      </div>
+      </td>
+      <td class="col4" width="22"><img src="img/r1_c6.png" width="22" height="179" border="0" alt="Новости мира"/></td>
+      <td width="%">&nbsp;</td>
+    </tr>
+  </table><br/>
+  <table width="1050" border="0" cellspacing="3" cellpadding="3" align="center">
+    <tr>
+      <td width="200" valign="top">
+      <div class="col1head"></div>
+      <div class="col1content" align="center">
+      <h1>Разделы новостей</h1>
+      <ul>
+      <li class="menuitem"><a href="videonews.php"><strong class="menuitemred">Новости с ВИДЕО</strong></a></li>
+      <li class="menuitem"><a href="commentators_top.php">Последние комментарии</a></li>
+<li class='menuitem'><a title='Смотреть новости из раздела Бизнес и экономика' href='newsgroup_4.html'>Бизнес и экономика</a></li><li class='menuitem'><a title='Смотреть новости из раздела Здоровье и красота' href='newsgroup_6.html'>Здоровье и красота</a></li><li class='menuitem'><a title='Смотреть новости из раздела Кулинария' href='newsgroup_14.html'>Кулинария</a></li><li class='menuitem'><a title='Смотреть новости из раздела Культура' href='newsgroup_10.html'>Культура</a></li><li class='menuitem'><a title='Смотреть новости из раздела Мир автомобилей' href='newsgroup_15.html'>Мир автомобилей</a></li><li class='menuitem'><a title='Смотреть новости из раздела Наука и образование' href='newsgroup_12.html'>Наука и образование</a></li><li class='menuitem'><a title='Смотреть новости из раздела Он и она' href='newsgroup_19.html'>Он и она</a></li><li class='menuitem'><a title='Смотреть новости из раздела Политика и право' href='newsgroup_5.html'>Политика и право</a></li><li class='menuitem'><a title='Смотреть новости из раздела Пресс-релизы' href='newsgroup_22.html'>Пресс-релизы</a></li><li class='menuitem'><a title='Смотреть новости из раздела Путешествия и туризм' href='newsgroup_18.html'>Путешествия и туризм</a></li><li class='menuitem'><a title='Смотреть новости из раздела Развлечения' href='newsgroup_9.html'>Развлечения</a></li><li class='menuitem'><a title='Смотреть новости из раздела Спорт' href='newsgroup_7.html'>Спорт</a></li><li class='menuitem'><a title='Смотреть новости из раздела Шоу-бизнес' href='newsgroup_11.html'>Шоу-бизнес</a></li><li class='menuitem'><a title='Смотреть новости из раздела Новости' href='newsgroup_16.html'>Новости</a></li><li class='menuitem'><a title='Смотреть новости из раздела Новостной справочник' href='newsgroup_13.html'>Новостной справочник</a></li><li class='menuitem'><a title='Смотреть новости из раздела Онлайн-Кинотеатр' href='newsgroup_21.html'>Онлайн-Кинотеатр</a></li>      <li class="menuitem"><a href="tests.php">Интересные тесты</a></li>
+      <li class="menuitem"><a href="search_stat.php">Поисковая статистика</a></li>
+      <li class="menuitem"><a href="search.php"><strong class="menuitemred">Все новости мира...</strong></a></li>
+      <li class="menuitem"><a href="http://forum.novostimira.com">Форум</a></li>
+      </ul>
+      </div>
+      <div class="col1foot"></div>
+      <br/>
+      <div class="col1head"></div>
+      <div class="col1content" align="center">
+      <h1>Новости партнеров</h1>
+      <br/>
+<div id="NM40" style="text-align:center;display:none" atr40="40">
+    <a href="http://novostimira.com.ua/" target="_blank"><strong>Новости мира</strong></a>
+</div>
+<!-- before </body> -->
+<script type="text/javascript">
+    var el = document.getElementById('NM40');
+    if (el && el.getAttribute('atr40', 3)) {
+        el.setAttribute('atr40', '');
+        var dateNM = new Date();
+        var t = Math.floor(dateNM.getTime()/(1000*600));
+        var NMces=document.createElement('script');
+        NMces.type = 'text/javascript';
+        NMces.charset = 'Windows-1251';
+        NMces.src='http://n.novostimira.com.ua/40?v='+t;
+        el.parentNode.appendChild(NMces);
+    }
+</script>
+<br/><br/>
+</div>
+      <div class="col1foot"></div>
+      </td>
+      <td valign="top">
+<div class="nrun viewText" align="center">
+ <div class="bg"><div style="position: relative; width: 2836px; left: -1086.38px;" class="nmove"><p style="white-space: nowrap;"><b>2012-01-17 18:00:34</b> <a href="http://rss.novostimira.com/n_2047624.html">Марічка Падалко та Єгор Соболєв вперше вітали удома вертеп.</a></p><p style="white-space: nowrap;"><b>2012-01-17 18:00:00</b> <a href="http://rss.novostimira.com/n_2047632.html">Известные логотипы одной буквой.</a></p><p style="white-space: nowrap;"><b>2012-01-17 17:59:46</b> <a href="http://rss.novostimira.com/n_2047618.html">Збірна Голландії слідом за Францією може оселитися в Донецьку на Євро-2012.</a></p><p style="white-space: nowrap;"><b>2012-01-17 17:59:00</b> <a href="http://rss.novostimira.com/n_2047623.html">Патрисия Каас стала «Человеком года-2011» в Украине.</a></p><p style="white-space: nowrap;"><b>2012-01-17 17:58:36</b> <a href="http://rss.novostimira.com/n_2047625.html">Ландіку не судилося скоротати ув'язнення у компанії Тимошенко.</a></p></div></div>
+</div>
+ <div align="left">
+
+ <table width='700' border='0' cellpadding='5' cellspacing='1' align='center'>
+ <tr>
+ <td colspan='2' valign='top'>
+ <img src='SpryAssets/SpryMenuBarRight.gif' border='0'>&nbsp;<a href='news.html'><strong>Каталог&nbsp;новостей</strong></a>
+ &nbsp;<img src='SpryAssets/SpryMenuBarRight.gif' border='0'>&nbsp;<a href='news.php?act=shownews&categoryid=5'><strong>Политика и право</strong></a>
+ &nbsp;<img src='SpryAssets/SpryMenuBarRight.gif' border='0'>&nbsp;<a href='news.php?act=shownews&subcategoryid=66'><strong>Происшествия и криминальная хроника</strong></a>
+ </td>
+ </tr>
+ <tr class='gradient6' valign='top'>
+ <td valign='top'>
+ <table border='0' width='100%' cellpadding='2' cellspacing='2'>
+ <tr class='gradient6'><td width='100' align='left'>Новость</td><td><h2>Хирург убил пациентку, перепутав органы</h2></td></tr>
+ <tr class='gradient5'><td width='100' align='left'>Добавлено:</td><td>2012-01-15 14:40:09</td></tr>
+ <tr class='gradient6'><td width='100' align='left'>Автор:</td><td>Денис Дорошенко</td></tr></table><p><a href='gallery_14210.html'><img  hspace="5" height="170" border="0" align="left" width="170" vspace="10" src="http://novostimira.com.ua/userfiles/hira.jpg" alt="" / border='0'></a></p>
+<p style="text-align: justify;">&nbsp;Жертвой хирурга стала 77-летняя пациентка по имени Эми Френсис. Женщина погибла на операционном столе из-за ошибки хирурга, который вытащил у женщины печень, вместо пораженной раком почки. Данная операция предполагала минимум вмешательства.</p>
+<p style="text-align: justify;">&nbsp;Адам Картер, так зовут хирурга, который проводил операцию, признал свою ошибку и согласился, что смерть женщины наступила по его вине. Дело в том, что Картер позволил практиканту, который прежде не проводил подобные операции, удалить женщине больной орган.  Однако практикант долго колебался, и Картеру пришлось срочно его заменить, и именно в этот момент была сделана роковая ошибка, которая привела к смерти женщины. В результате, печень женщины просто разорвалась, и ее не удалось спасти. Все усилия врачей оказались напрасными.</p>
+<p style="text-align: justify;">&nbsp;Родственники погибшей оценили честную позицию сотрудников больницы и их попытки спасти женщину. Они надеются, что все останется позади и доктор Картер проведет еще не мало успешных операций.</p>
+<p style="text-align: justify;">&nbsp; По материалам: tsn.ua; Фото: cxid.info</p>&nbsp;
+ <div align='left'>
+ <ul class='ulcomment'>
+ <li><a title='Обсуждения новостей' href='comments.php?id=14210#comments'>Читать комментарии к статье...</a></li>
+ <li><a title='Комментировать новость' href='comments.php?id=14210#newcomments'>Оставить свой комментарий...</a></li>
+ <li>Добавить в закладки и поделиться с друзьями:</li>
+ </ul>
+ </div>
+ <div align='right' class='addthis_toolbox addthis_default_style addthis_32x32_style'>
+<a class='addthis_button_preferred_1'></a>
+<a class='addthis_button_preferred_2'></a>
+<a class='addthis_button_preferred_3'></a>
+<a class='addthis_button_preferred_4'></a>
+<a class='addthis_button_preferred_5'></a>
+<a class='addthis_button_preferred_6'></a>
+<a class='addthis_button_preferred_7'></a>
+<a class='addthis_button_preferred_8'></a>
+<a class='addthis_button_preferred_9'></a>
+<a class='addthis_button_preferred_10'></a>
+<a class='addthis_button_preferred_11'></a>
+<a class='addthis_button_preferred_12'></a>
+<a class='addthis_button_preferred_13'></a>
+<a class='addthis_button_preferred_14'></a>
+<a class='addthis_button_preferred_15'></a>
+<a class='addthis_button_preferred_16'></a>
+<a class='addthis_button_compact'></a>
+<a class='addthis_counter addthis_bubble_style'></a>
+</div> 
+ <h3>Смотрите также:</h3><p><div class='search2'><a title='Хирург Уго Чавеса заявил, что президенту осталось жить не бо...' href='http://novostimira.com/novosti_mira_10778.html'><img src='images/news/1318867339_910.jpg.jpeg' alt='Хирург Уго Чавеса заявил, что президенту осталось жить не более двух лет' align='left'></a>
+                    <a href='http://novostimira.com/novosti_mira_10778.html'><strong>Хирург Уго Чавеса заявил, что президенту осталось жить не бо...</strong></a><br><br />
+16 октября, хирург Сальвадор Наваррете, который занимался лечением президента Венесуэлы, Уго Чавеса, заявил, что  онкологическое заболевание, которое было обнаружена у него, не оставляет надежд на благополучный исход.<br />
+Как сообщает хирург, входивший в число приближенных врачей Чавеса и занимавшийся его лечением с 2005 года, президенту Венесуэлы осталось жить не более двух лет.<br />
+По информации, которой обладает Наваррете, у Чавеса опухоль в области таза, либо саркома, поэтому в лечении президента применяется столь агрессивная химиотерапия.<br />
+Также врач, не применил не сообщить о привычках и пов.....  <a href='http://novostimira.com/novosti_mira_10778.html'>Читать новость...</a></div></p><p><div class='search2'><a title='Известны предварительные итоги выборов-2010 в местные органы...' href='http://novostimira.com/novosti_mira_3550.html'><img src='images/news/1288597651_555.JPG.jpeg' alt='Известны предварительные итоги выборов-2010 в местные органы власти' align='left'></a>
+                    <a href='http://novostimira.com/novosti_mira_3550.html'><strong>Известны предварительные итоги выборов-2010 в местные органы...</strong></a><br>Выборы-2010 в местные <strong class='searchwhite2'>органы</strong> власти уже имеют результаты за данными, собранными украинской социологической компанией GfK. Они говорят о том, что БЮТ проиграла &quot;битву&quot; за умы и сердца украинцев также и на местном уровне. Во всяком случае, при голосовании в областные советы больше всего симпатий избирателей получила &quot;Партия регионов&quot; &ndash; 36,2 процента, а ее ближайший преследователь &ndash; &quot;Блок Юлии Тимошенко&quot; &ndash; только 13,1.<br />
+Следующие места распределились таким образом: 3-е место &ndash; &quot;Фронт изменений&quot; (6,8%), 4-е место &ndash; КПУ (5,9%), 5.....  <a href='http://novostimira.com/novosti_mira_3550.html'>Читать новость...</a></div></p><p><div class='search2'><a title='Кто убил Лору Палмер?...' href='http://novostimira.com/novosti_mira_907.html'><img src='images/news/1270822594_413.jpg.jpeg' alt='Кто убил Лору Палмер?' align='left'></a>
+                    <a href='http://novostimira.com/novosti_mira_907.html'><strong>Кто убил Лору Палмер?...</strong></a><br>Загадочному, мистическому и сюрреалистическому сериалу &quot;Твин Пикс&quot; (Twin Peaks) исполнилось 20 лет. 8 апреля 1990 года внимание телезрителей к экрану приковала пилотная серия фильма, которая длилась 2 часа. 33% зрительской аудитории посетили в тот вечер странный и, на первый взгляд, доброжелательный городок Твин Пикс. Режиссером сериала выступил легендарный Дэвид Линч, сценаристом - Марк Фрост.<br />
+Сюжет сериала кажется нам очень простым: в несуществующем городке Твин Пикс происходит зверское убийство школьницы Лоры Палмер. На место происшествия прибывает специальный агент Дейл Купер, к.....  <a href='http://novostimira.com/novosti_mira_907.html'>Читать новость...</a></div></p><p><div class='search2'><a title='Убил 77 человек, а жалко мышку…...' href='http://novostimira.com/novosti_mira_9951.html'><img src='images/news/1314006088_951.jpg.jpeg' alt='Убил 77 человек, а жалко мышку…' align='left'></a>
+                    <a href='http://novostimira.com/novosti_mira_9951.html'><strong>Убил 77 человек, а жалко мышку…...</strong></a><br><br />
+&nbsp;На последнем допросе норвежский террорист Андрес Брейвик, совершивший взрыв и стрельбу на острове сказал весьма неординарную фразу. Вследствие событий в Норвегии совершенных Андресом погибло 77 человек. Брейвик признался, что, готовясь к терактам, он случайно <strong class='searchwhite2'>убил</strong> мышку, вот ее ему и жалко. <br />
+&nbsp;Андрес признался, что мышка погибла под колесами его машины. Он ехал в деревню недалеко от норвежской столицы, для того чтобы собрать бомбу, и случайно наехал на грызуна. Как заявил источник в полиции, Брейвику безразличны погибшие люди, единственное, о чем он сожалеет, это о мышке, которую .....  <a href='http://novostimira.com/novosti_mira_9951.html'>Читать новость...</a></div></p><p><div class='search2'><a title='В Челябинске, парень убил свою беременную девушку...' href='http://novostimira.com/novosti_mira_12847.html'><img src='images/news/1323762096_393.jpg.jpeg' alt='В Челябинске, парень убил свою беременную девушку' align='left'></a>
+                    <a href='http://novostimira.com/novosti_mira_12847.html'><strong>В Челябинске, парень убил свою беременную девушку...</strong></a><br><br />
+&nbsp;Ужасный случай произошел в российском Челябинске. Молодой сатанист <strong class='searchwhite2'>убил</strong> свою 15-летнюю девушку, после того как узнал, что она беременна.<br />
+&nbsp;Инцидент произошел в поселке Озерное на прошлой неделе. Тело девушки, которые было расчленено на куски и замотано в шубу, было найдено на местной свалке.  Сообщается, что в ходе следствия было обнаружено, что парень, отрезав девушке голову, спрятал ее в морозилке, находившийся в общежитии.<br />
+&nbsp;Существует две возможные версии убийства. Согласно первой, парень <strong class='searchwhite2'>убил</strong> девушку, выполняя некий сатанический ритуал, а по второй, причина убийства была.....  <a href='http://novostimira.com/novosti_mira_12847.html'>Читать новость...</a></div></p><p><div class='search2'><a title='На Хмельнитчине подросток убил своего младшего брата...' href='http://novostimira.com/novosti_mira_13864.html'><img src='images/news/1325863934_653.jpg.jpeg' alt='На Хмельнитчине подросток убил своего младшего брата' align='left'></a>
+                    <a href='http://novostimira.com/novosti_mira_13864.html'><strong>На Хмельнитчине подросток убил своего младшего брата...</strong></a><br><br />
+&nbsp;Ужасный случай произошел в Теофипольском районе, который расположен в Хмельницкой области. 15-летний парень <strong class='searchwhite2'>убил</strong> своего младшего 7-летнего брата, перерезав ему горло.<br />
+&nbsp;Сообщается, что причиной инцидента стали постоянные ссоры между двумя братьями. Младший брат постоянно докучал старшему и отбирал у него велосипед и пульт от телевизора. Видимо старший брат не смог долго выдерживать поведение своего брата и это стало для него последней каплей.<br />
+&nbsp;Стоит отметить, что 15-летний парень является ребенком с особыми потребностями, так как он не говорит и не слышит с рождения. Кроме э.....  <a href='http://novostimira.com/novosti_mira_13864.html'>Читать новость...</a></div></p></td></tr></table></div><div id="GNM3" style="text-align:center;display:none" atr3="3">
+    <a href="http://novostimira.com.ua/" target="_blank"><strong>Новости мира</strong></a>
+</div>
+<!-- before </body> -->
+<script type="text/javascript">
+    var el = document.getElementById('GNM3');
+    if (el && el.getAttribute('atr3', 3)) {
+        el.setAttribute('atr3', '');
+        var dateNM = new Date();
+        var t = Math.floor(dateNM.getTime()/(1000*600));
+        var NMces=document.createElement('script');
+        NMces.type = 'text/javascript';
+        NMces.charset = 'Windows-1251';
+        NMces.src='http://g.novostimira.com.ua/l/3?v='+t;
+        el.parentNode.appendChild(NMces);
+    }
+</script>
+</td>
+      <td class="today" width="200" align="center">
+      <div class="col1head"></div>
+      <div class="col1content" align="center">
+      <h1>Рекламная сеть &laquo;Новости мира&raquo;</h1>
+      <br/>
+ <!-- aorta-net.com begin rb_12 -->
+<script type="text/javascript" ><!--
+document.write('<iframe width=\"200\" height=\"400\"  vspace=\"0\" \n'+ 
+'id=\"aorta_ads_frame_12\" \n'+
+'name=\"aorta_ads_frame_12\" \n'+
+'frameborder=\"0\" scrolling=\"no\" \n'+
+'hspace=\"0\" \n'+
+'marginheight=\"0\" marginwidth=\"0\" \n'+
+'src=\"http://ad.aorta-net.com:80/adrb?rb=12&f=33&rn='+Math.floor(Math.random()*1000000)+(new Date()).getTime()+'\" > \n'+
+'</iframe> \n');
+//--> 
+</script>
+<!-- aorta-net.com end rb_12 -->
+<div id="GNM2" style="text-align:center;display:none" atr2="2">
+    <a href="http://novostimira.com.ua/" target="_blank"><strong>Новости мира</strong></a>
+</div>
+<!-- before </body> -->
+<script type="text/javascript">
+    var el = document.getElementById('GNM2');
+    if (el && el.getAttribute('atr2', 3)) {
+        el.setAttribute('atr2', '');
+        var dateNM = new Date();
+        var t = Math.floor(dateNM.getTime()/(1000*600));
+        var NMces=document.createElement('script');
+        NMces.type = 'text/javascript';
+        NMces.charset = 'Windows-1251';
+        NMces.src='http://g.novostimira.com.ua/l/2?v='+t;
+        el.parentNode.appendChild(NMces);
+    }
+</script>
+      <br/>
+      </div>
+      <div class="col1foot"></div>
+      <br>
+      <div class="col1head"></div>
+      <div class="col1content" align="center">
+      <h1>Новости мира</h1>
+      <br/>
+<div id="NM38" style="text-align:center;display:none" atr38="38">
+    <a href="http://novostimira.com.ua/" target="_blank"><strong>Новости мира</strong></a>
+</div>
+<!-- before </body> -->
+<script type="text/javascript">
+    var el = document.getElementById('NM38');
+    if (el && el.getAttribute('atr38', 3)) {
+        el.setAttribute('atr38', '');
+        var dateNM = new Date();
+        var t = Math.floor(dateNM.getTime()/(1000*600));
+        var NMces=document.createElement('script');
+        NMces.type = 'text/javascript';
+        NMces.charset = 'Windows-1251';
+        NMces.src='http://n.novostimira.com.ua/38?v='+t;
+        el.parentNode.appendChild(NMces);
+    }
+</script>
+<br/><br/>
+      </div>
+     <div class="col1foot"></div>
+      </td>
+    </tr>
+  </table>
+<div class='footer'>
+Все права защищены - <a title="Новости мира" href="http://novostimira.com">&laquo;Новости мира&raquo;</a> © 2010-2012 • <a title='Создать сайт' href="http://vbs.com.ua">Создание сайта - vbs.com.ua</a>
+</div>
+<div align="center" class="counters">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<!--bigmir)net TOP 100-->
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:16849869,s:16849869,t:2,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[vstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<a href="http://www.bigmir.net/" target="_blank" onClick="img=new Image();img.src=&quot;http://www.bigmir.net/?cl=16849869&quot;;"><img src="http://c.bigmir.net/?'+bs.join('&')+'"  width="88" height="31" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100"></a>');
+//-->
+</script>
+<noscript>
+<a href="http://www.bigmir.net/" target="_blank"><img src="http://c.bigmir.net/?v16849869&s16849869&t2" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+<!--bigmir)net TOP 100-->
+<img src='http://stat.internal.com.ua/informers/' width='105' height='50' alt='Статистика показов новостных информеров портала &laquo;Новости Мира&raquo;' border='0'><!-- begin of Top100 logo -->
+<a href="http://top100.rambler.ru/home?id=2115262" target="_blank"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-darkblue2.gif" alt="Rambler's Top100" width="88" height="31" border="0" /></a>
+<!-- end of Top100 logo -->
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2115262"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?2115262" alt="" width="1" height="1" border="0"/></noscript>
+<!-- end of Top100 code -->
+<!--Openstat-->
+<span id="openstat2080839"></span>
+<script type="text/javascript">
+var openstat = { counter: 2080839, image: 5045, next: openstat };
+(function(d, t, p) {
+var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+})(document, "script", document.location.protocol);
+</script>
+<!--/Openstat-->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">//<![CDATA[
+var a='';js=10;d=document;
+try{a+=';r='+escape(d.referrer);}catch(e){}try{a+=';j='+navigator.javaEnabled();js=11;}catch(e){}
+try{s=screen;a+=';s='+s.width+'*'+s.height;a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;}catch(e){}
+try{if(typeof((new Array).push('t'))==="number")js=13;}catch(e){}
+try{d.write('<a href="http://top.mail.ru/jump?from=2057842"><img src="http://d6.c6.bf.a1.top.mail.ru/counter?id=2057842;t=243;js='+js+
+a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" style="border:0;" height="31" width="88" \/><\/a>');}catch(e){}//]]></script>
+<noscript><p><a href="http://top.mail.ru/jump?from=2057842"><img src="http://d6.c6.bf.a1.top.mail.ru/counter?js=na;id=2057842;t=243" 
+style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a></p></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<p>Использование текстов, фото и видеоматериалов, опубликованных на данном сайте, допускается при условии обязательного размещения гиперссылки на  сайт <b>novostimira.com</b></p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15528633-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ddbc10b21ee58ec"></script>
+</body>
+</html>
+
+
+ 

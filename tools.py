@@ -15,7 +15,11 @@ from trafilatura import extract
 from lxml import etree, html
 
 def apply_tool(tool, fic, mode):
-  str_text = read_utf8(fic)
+  try:
+    str_text = read_utf8(fic)
+  except:
+    print("Error with '{fic}', you may need to change the encoding to utf-8")
+    return [""]
   if tool == "BP3":
     list_paragraphs = get_paragraphs_BP3(str_text, mode)
   elif tool == "DRAG":
@@ -41,7 +45,7 @@ def apply_tool(tool, fic, mode):
     list_paragraphs = get_paragraphs_newsplease(str_text, mode)
   elif tool == "READABILITY":
     try:
-      text_det = Document(str_text).summary()
+      text_det = Document(str_text).summary(html_partial = True)
     except:
       text_det = ""
     list_paragraphs = re.split("\n", text_det)#TODO: clean this output ?

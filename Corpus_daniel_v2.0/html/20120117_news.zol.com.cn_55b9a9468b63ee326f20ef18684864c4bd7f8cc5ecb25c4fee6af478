@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>微软:Win8 ARM设备将无法安装运行Linux_行业新闻-中关村在线</title>
+<meta http-equiv="pragma" content="no-cache" />
+<meta content="all" name="robots" />
+<meta content="index, follow" name="googlebot" />
+<meta name="keywords" content="Win8,ARM,Linux"/>
+<meta name="description" content="1月17日消息，据科技网站Electronista报道，微软之前声称，Windows8PC最新引入的UEFI安全启动功能不会禁止安装运行Linux，但基于ARM芯片的Windows8设备可能就不是这样了。微软:Win8ARM设备将无法安装运行Linux(图片来。"/>
+
+<script>
+<!-- 
+var wide_screen_flag = 0;
+//-->
+</script><script>
+			<!--
+			if (screen.availWidth>"1149") {var wide_screen_flag = 1;}
+			var temp_doc_hardware_id = 0;
+			//-->
+			</script><link rel="alternate" type="application/rss+xml" title="新闻中心" href="http://rss.zol.com.cn/news.xml"><script language="javascript" src="http://p.zol-img.com.cn/news/detail.js"></script>
+<link href="http://icon.zol-img.com.cn/article/css/main.css?1" type="text/css" rel="stylesheet">
+<script>
+document.domain="zol.com.cn";
+<!-- 
+if (wide_screen_flag) { 
+document.write('<link href="http://icon.zol-img.com.cn/article/css/main_w.css?1" type="text/css" rel="stylesheet">');
+}
+//-->
+</script>
+<script language="JavaScript" src="http://icon.zol-img.com.cn/public/js/cookieswf.js?1" type="text/javascript"></script>
+<script language="javascript" src="http://icon.zol-img.com.cn/public/js/doc09_adj.js?2010"></script>
+<base target="_blank"/>
+</head>
+<body>
+
+<div class="div_body">
+  <script language="JavaScript" src="http://icon.zol-img.com.cn/public/js/web_head.js?2011" type="text/javascript"></script>
+    <div class="head_box mt10">
+    <div class="clearfix bodyW">
+        <div id="top_tl_ad" rel="coordinate" class="ad_1">
+            <script>write_ad("new_article_tonglan_ad");</script>
+        </div>
+      <div class="jrd">
+       <div class="dh_div">
+        <span class="tit_1">今日导读</span>
+        <ul class="dh_ul" id="coordinate">
+<li><a class="sub_manu" href="http://news.zol.com.cn/more/2_495.shtml" title ="厂商动态">[厂商]</a><a href="http://news.zol.com.cn/261/2611039.html" title="小巧多功能 世酷移动电源V2L闪耀曝光">小巧多功能 世酷移动电源V2L闪</a></li><li><a class="sub_manu" href="http://news.zol.com.cn/more/2_495.shtml" title ="业界">[业界]</a><a href="http://news.zol.com.cn/246/2460813.html" title="不用担心 创新和执行力比乔布斯更重要">不用担心 创新和执行力比乔布</a></li><li><a class="sub_manu">[其他]</a><a href="http://news.zol.com.cn/244/2445361.html" title="时候还未到 微软短期不会收购NOKIA">时候还未到 微软短期不会收购</a></li><li><a class="sub_manu" href="http://news.zol.com.cn/more/2_495.shtml" title ="厂商动态">[厂商]</a><a href="http://news.zol.com.cn/238/2384861.html" title="恒洲苹果授权店进驻中关村鼎好电子城">恒洲苹果授权店进驻中关村鼎好</a></li><li><a class="sub_manu">[其他]</a><a href="http://news.zol.com.cn/236/2360636.html" title="传PopCap10亿卖身 《植物大战僵尸》或将易主">传PopCap10亿卖身 《植物大战</a></li><li><a class="sub_manu">[其他]</a><a href="http://news.zol.com.cn/236/2360576.html" title="王建宙密会苹果COO 谈判引入新版iPhone">王建宙密会苹果COO 谈判引入新</a></li><li><a class="sub_manu">[其他]</a><a href="http://news.zol.com.cn/235/2358208.html" title="阿里巴巴雅虎软银联合声明：将尽早达成协议">阿里巴巴雅虎软银联合声明：将</a></li><li><a class="sub_manu">[其他]</a><a href="http://news.zol.com.cn/235/2358149.html" title="传新款iPhone 8月发布 曝新外观谍照 ">传新款iPhone 8月发布 曝新外</a></li><li><a class="sub_manu">[其他]</a><a href="http://news.zol.com.cn/235/2356010.html" title="传鲍尔默将在Windows 8发布后下课">传鲍尔默将在Windows 8发布后</a></li><li><a class="sub_manu">[其他]</a><a href="http://news.zol.com.cn/235/2354766.html" title="传iPhone5将配双LED闪光灯 或寻新供货商">传iPhone5将配双LED闪光灯 或</a></li><li><a class="sub_manu">[其他]</a><a href="http://news.zol.com.cn/235/2350972.html" title="土豆CEO与前妻官司和解 或失上市最佳时机">土豆CEO与前妻官司和解 或失上</a></li><li><a class="sub_manu">[其他]</a><a href="http://news.zol.com.cn/235/2350800.html" title="苹果暂缓多款新品上市 等待雄狮发力">苹果暂缓多款新品上市 等待雄</a></li>
+        </ul>
+       </div>
+      </div>
+      <!--end jrd-->
+    </div>
+    <script language="javascript" type="text/javascript">
+    if (wide_screen_flag) { 
+        var obj=document.getElementById('coordinate');
+        var result = obj.firstChild;
+        while(result){ 
+        	if(1==result.nodeType){
+        		var obj_a = result.firstChild;
+        		obj_a.style.display = 'inline';
+	        	var obj_b = obj_a.nextSibling;
+	        	obj_b.innerHTML = obj_b.title;
+        	}
+        	result = result.nextSibling;
+        }
+
+     }
+    adj_func_new11();
+    </script>
+    <div class="hot_tj clearfix"> <span class="tit_2">热点推荐</span>
+     <ul class="tj_r">
+      <li class="one_li"><script>write_ad("a2008_article_focu_text_ad1");</script></li>
+      <li><script>write_ad("a2008_article_focu_text_ad2");</script></li>
+      <li><script>write_ad("a2008_article_focu_text_ad3");</script></li>
+      <li><script>write_ad("a2008_article_focu_text_ad4");</script></li>
+      <li><script>write_ad("a2008_article_focu_text_ad5");</script></li>
+      </ul>
+      <!--end tj_r-->
+    </div>
+    <!--end hot_tj-->
+  </div>
+  <!--end head_box-->
+  <div class="header clearfix"><a href="http://news.zol.com.cn" class="logo" target="_self"><img src="http://icon.zol-img.com.cn/article/2011/logo/90.gif"  height="24" alt="新闻中心"/></a></div>
+  
+  <!--end header-->
+    <!--end nav_2-->
+  <div class="wrap clearfix">
+<div class="left" id="main_left">
+<div class="wrap_left wrap_left2">
+<div class="step"><a href="http://www.zol.com.cn/" target="_self">ZOL首页</a> > <a href="http://news.zol.com.cn/" target="_self">新闻中心</a> > <a href="http://news.zol.com.cn/more/2_1485.shtml" target="_self">行业新闻</a> > 微软:Win8 ARM设备将无法安装运行Linux</div>
+<div class="ad"></div>
+<div class="ad"></div>
+<!--end ad-->
+<div class="tit_t1 clearfix tc"><h1>微软:Win8 ARM设备将无法安装运行Linux</h1><br /><a href="http://www.zol.com.cn/" class="hei12">CBSi中国·ZOL</a> <em class="hui12">作者：</em><a href="http://service.zol.com.cn/doclist_90_1_1_%CB%EF%CE%B0.html">孙伟</a> <em class="hui12">责任编辑：</em>魏景芳 【编译】  2012年01月17日 17:40 <a href="#add_comment" id="arti_comm_num" target="_self">评论</a></div><!--end tit_1-->
+<div class="ad"><script>write_ad("news_article_ad1");</script></div>
+<!--end ad-->
+<div class="Al_12" id="cotent_idd">
+<div class="ad_in_content"><script>write_ad("news_article_ad");</script></div>
+<p style="text-indent:21.0pt;">1月17日消息，据科技网站Electronista报道，微软之前声称，Windows 8 PC最新引入的UEFI安全启动功能不会禁止安装运行Linux，但基于ARM芯片的Windows 8设备可能就不是这样了。</p>  <p style="text-align: center;"><br clear="all"  style="font-size:0;line-height:0"/><img width="500" height="333" alt="微软:Win8 ARM设备将无法安装运行Linux " align="no"  onclick="window.open('http://detail.zol.com.cn/picture_index_794/index7938623.shtml');" style="cursor:pointer;border:1px solid Black"  src="http://2f.zol-img.com.cn/product/79/623/ceyu9BTChVuo.jpg" /><br />微软:<a href="http://win8.zol.com.cn/" class="hui14_line"><font style="color:#333">Win8</font></a> ARM设备将无法安装运行Linux(图片来自Electronista)</p><p style="text-indent:21.0pt;">微软本周发布了一份Windows 8的硬件认证文件，其中一项关于Windows 8 UEFI安全启动功能的说明这样描述道：“在非ARM系统上，可通过固件设置提供禁用安全启动（Secure Boot）的服务，用户有权通过固件设置禁用安全启动。ARM系统不允许禁用安全启动”。</p>  <p style="text-indent:21.0pt;">也就是说，在非ARM系统上，可以禁用安全启动以安装其他系统，但是Windows 8 ARM设备却不能。这意味着基于ARM芯片的Windows 8设备将不能安装并运行任何第三方<a href="http://detail.zol.com.cn/os_index/subcate121_list_1.html" class="hui14_line"><font style="color:#333">操作系统</font></a>，包括Linux。</p>  <p>&#160; &#160; 对此，微软回应称：“我们当前无法回答这一问题，当前我们没有更多消息和大家分享。”&#160;</p></div>
+<script>var temp_doc_doc_id="2705315";var temp_doc_class_id="90";var temp_doc_sub_id="";var temp_doc_manu_id="";var temp_doc_hardware_id="";var temp_doc_hardware_info="<a href=\"\">[ 详细]</a><br><a href=\"\">文章</a><em>|</em><a href=\"\" class=\"temp_pro_picNum\">图片</a><em>|</em><a href=\"\" class=\"temp_pro_commNum\">点评</a><em>|</em><a href=\"\" class=\"temp_pro_bbsNum_1\">论坛</a>";</script><!--end Al_12-->
+<div class="yd_nr"><span class="clearfix"> <a href="http://service.zol.com.cn/doclist_90_1_1_%CB%EF%CE%B0.html" class="look_w">查看本文作者 孙伟 的其他文章>></a> </span><script language="javascript" type="text/javascript"  src="/include/relate_reading.php?document_id=2705315"></script></div><div class="xg_ser clearfix"> <form action="http://search.zol.com.cn/s/search.php" method="get">
+          <input type="text" class="text_1" name="keyword" value="请输入关键词">
+          <input type="submit" class="btn_1" value="">
+          </form></div><div class="sense">
+  <div class="sense_tit">看完本文后的感受：<a href="/top.html">文章感受排行&gt;&gt;</a></div>
+  <div class="sense_return"><a href="http://news.zol.com.cn/"><span></span>&lt;&lt;返回新闻中心首页</a></div>
+  <ul class="clearfix">
+    <li><a class="sense_ico1" onclick="update_doc_vote('2198xxCjxFG2bSYPflk9WsSmzHfNZgsk14X48V9sZwLQgfDP0Vg',1,'new_doc_vote')" title="投票">给力</a><em>(<span id="doc_vote_good">0</span>票)</em></li>
+    <li><a class="sense_ico2" onclick="update_doc_vote('2198xxCjxFG2bSYPflk9WsSmzHfNZgsk14X48V9sZwLQgfDP0Vg',5,'new_doc_vote')" title="投票">动心</a><em>(<span id="doc_vote_t5">0</span>票)</em></li>
+    <li><a class="sense_ico3" onclick="update_doc_vote('2198xxCjxFG2bSYPflk9WsSmzHfNZgsk14X48V9sZwLQgfDP0Vg',0,'new_doc_vote')" title="投票">废话</a><em>(<span id="doc_vote_bad">0</span>票)</em></li>
+    <li><a class="sense_ico4" onclick="update_doc_vote('2198xxCjxFG2bSYPflk9WsSmzHfNZgsk14X48V9sZwLQgfDP0Vg',6,'new_doc_vote')" title="投票">专业</a><em>(<span id="doc_vote_t6">0</span>票)</em></li>
+    <li><a class="sense_ico5" onclick="update_doc_vote('2198xxCjxFG2bSYPflk9WsSmzHfNZgsk14X48V9sZwLQgfDP0Vg',7,'new_doc_vote')" title="投票">标题党</a><em>(<span id="doc_vote_t7">0</span>票)</em></li>
+  </ul>
+</div><!--end g_s-->
+  
+<!--end wz_nav-->
+<div class="info_more" id="info_more"></div><div class="hot_c">
+			        <p><em class="n_1"></em><a title="将该文章分享到新浪微博" target="_self" href="javascript:repost(1);">新浪</a>
+			           <em class="n_2"></em><a title="将该文章分享到开心网"  target="_self" href="javascript:repost(4);">开心</a>
+			           <em class="n_3"></em><a title="将该文章分享到QQ空间"  target="_self" href="javascript:repost(8);">QQ空间</a>
+			           <em class="n_7"></em><a title="将该文章分享到搜狐微博"  target="_self" href="javascript:repost(2);">搜狐</a>
+			           <em class="n_5"></em><a title="将该文章分享到人人网"  target="_self" href="javascript:repost(5);">人人</a>
+			           <em class="n_6"></em><a title="将该文章分享到腾讯微博"  target="_self" href="javascript:repost(9);">腾讯</a>
+			           <em class="n_8"></em><a title="将该文章分享到网易微博"  target="_self" href="javascript:repost(7);">网易</a>
+			        </p><span>热词：<a href="http://sj.zol.com.cn/fruitninja/">水果忍者</a>&nbsp;&nbsp;<a href="http://mobile.zol.com.cn/manu_1434.shtml">魅族</a>&nbsp;&nbsp;<a href="http://sj.zol.com.cn/game/">手机游戏</a>&nbsp;&nbsp;</span>
+			     </div>  
+</div>
+<!--end wrap_left-->
+<div class="clearfix mt10" id="commentTopAd"><center><script type="text/javascript">/*文章页评论上640*60，创建于2011-6-30*/ var cpro_id = 'u524543';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script></center></div>
+<a name="add_comment"></a><iframe align="middle" src="" frameborder="0" width="670" height="556" scrolling="no" id="commentsiframe" class="mt10 doc_comment"></iframe><script>
+<!-- 
+document.getElementById("commentsiframe").src = "http://comments.zol.com.cn/iframe_comment_2011.php?pagesize=20&kindid=2&articleid=2705315&kuan="+ wide_screen_flag;
+//-->
+</script><script>write_ad("news_article_bottom_ad");</script>
+<div class="syzp mt10" style="overflow:hidden;"><div class="tit_7">视觉焦点</div><script type="text/javascript" language="JavaScript">
+zpro_n="3";
+zpro_width= wide_screen_flag ? "798" : "668";
+zpro_height="240";
+</script>
+<script src="http://sss.zol.com.cn/cgimp/zc.js" type="text/javascript" language="JavaScript"></script></div>  
+</div>
+<!--end left-->
+<div class="right" id="main_right">
+<div id="rightAdDiv1"><script>write_ad("new_article_right_ad");</script></div><div id="ProductInfo" class="mt10"></div>
+  <div id="rightAdDiv2"><script>write_ad("new_article_right_ad2");</script></div><div class="r_bd mt10 pb10">
+					        <div class="tit_5 tit_6">新闻中心行业新闻热点</div>
+					        <div class="ph_d"><span class="p_h">排行</span> <span class="b_t">文章标题</span><span class="p_l"> </span></div>
+					        <ul class="rank_ul2"><li ><span class="nu_1"></span><a href="http://news.zol.com.cn/269/2693292.html"  title ="iOS5.1代码显示下一代iPhone采用4核CPU">iOS5.1代码显示下一代iPhone采用4核CPU</a></li><li ><span class="nu_2"></span><a href="http://news.zol.com.cn/269/2699691.html"  title ="苹果官方宣布iPhone 4S停售 一周内无货">苹果官方宣布iPhone 4S停售 一周内无货</a></li><li ><span class="nu_3"></span><a href="http://news.zol.com.cn/269/2698922.html"  title ="微软LG签专利授权协议 70%安卓手机受制">微软LG签专利授权协议 70%安卓手机受制</a></li><li ><span class="nu_4"></span><a href="http://news.zol.com.cn/270/2703115.html"  title ="分析称iPhone 5三季度发布 支持LTE">分析称iPhone 5三季度发布 支持LTE</a></li><li ><span class="nu_5"></span><a href="http://news.zol.com.cn/269/2694514.html"  title ="中国联通：iPhone 4S周五零点正式开卖">中国联通：iPhone 4S周五零点正式开卖</a></li><li ><span class="nu_6"></span><a href="http://news.zol.com.cn/269/2694000.html"  title ="联想发布首款英特尔Atom智能手机K800">联想发布首款英特尔Atom智能手机K800</a></li><li ><span class="nu_7"></span><a href="http://news.zol.com.cn/269/2699601.html"  title ="谷歌欲扩张中国市场 引入AndroidMarket">谷歌欲扩张中国市场 引入AndroidMarket</a></li><li ><span class="nu_8"></span><a href="http://news.zol.com.cn/269/2698903.html"  title ="果粉抢购iPhone 4S 黄牛过多苹果停售">果粉抢购iPhone 4S 黄牛过多苹果停售</a></li><li ><span class="nu_9"></span><a href="http://news.zol.com.cn/269/2694304.html"  title ="最薄6mm 英特尔戴尔发布XPS 13超极本">最薄6mm 英特尔戴尔发布XPS 13超极本</a></li><li  class="lastli"><span class="nu_10"></span><a href="http://news.zol.com.cn/269/2694802.html"  title ="索尼副总裁：PlayStaion 3还能再战5年">索尼副总裁：PlayStaion 3还能再战5年</a></li></ul>
+					    </div><div id="rightAdDiv3"></div>  
+  <div class="r_bd mt10 temp_pro_merchant_show" style="display:none;">
+        <div class="tit_5 tit_6">ZOL推荐经销商</div>
+        <ul class="jxs_ul temp_pro_merchant">
+        </ul>
+      </div>    
+<!--end r_bd-->
+<div id="rightAdDiv4"><center>
+	
+<iframe src="http://img.zol-img.com/compare/ad/zol_shop/ZolAd_item.html" width="300" height="251" frameborder="0" scrolling="no"></iframe>
+		
+</center></div><div class="r_bd mt10 pb10"><div class="hotword"><a href="http://sj.zol.com.cn/ucweb/">UC浏览器</a><a href="http://xiazai.zol.com.cn/detail/33/327560.shtml">谷歌浏览器</a><a href="http://xiaomi.zol.com.cn/">小米手机</a><a href="http://sj.zol.com.cn/mobileqq/">手机qq</a><a href="http://youxi.zol.com.cn/pc/index4568.html">暗黑破坏神3</a><a href="http://gzshow.cheshi.com/">2011广州车展</a><a href="http://iphone4s.zol.com.cn/">联通iphone4s</a><a href="http://product.cheshi.com/bseries_1241/">byd s6</a><a href="http://product.cheshi.com/bseries_1241/">byd f0</a></div></div><div class="r_bd mt10 pb10"><div style="margin-top: 0pt;" class="tit_5 tit_6">热点推荐</div><script type="text/javascript" language="JavaScript">
+zpro_n="1";
+zpro_width="298";
+zpro_height="350";
+</script>
+<script src="http://sss.zol.com.cn/cgimp/zc.js" type="text/javascript" language="JavaScript"></script></div><div id="rightAdDiv5"></div><div id="rightAdDiv6"></div><script>write_ad("doc_new_bottom");</script><script>var zol_article_content_height = document.getElementById('cotent_idd').offsetHeight;</script>  
+</div>
+<!--end right-->
+  </div>
+  <!--end wrap-->
+</div>
+<!--end div_body-->
+<div class="div_body">
+<script language="JavaScript" type="text/javascript" src="http://icon.zol-img.com.cn/public/js/web_footc.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://icon.zol-img.com.cn/public/js/web_foot.js"></script>
+</div>
+</body>
+<script type="text/javascript" src="http://icon.zol-img.com.cn/all/js/pub56.js"></script>
+<script type="text/javascript" src="http://icon.zol-img.com.cn/article/js/main.js?1"></script>
+<script language="javascript" type="text/javascript" src="http://search.zol.com.cn/assess/get_hits_new.php?document_id=2705315"></script>
+<script src="http://dynamic.zol.com.cn/channel/data.php?c=b6f67ntAvPTMAq0F9SzIvwBWDRpgOcHPtjQ7oe7Ny7cS2Z9XIOAvGNs9U0g1JW%2FeeLa7"></script><script id="doc_vote"></script><script>update_doc_vote("bde1Zme2jpPJJItclVF5HpauAw/hAbyl1aJbnZqsb8UL+6A3Dx8",3,"new_doc_vote");</script><script src="http://dynamic.zol.com.cn/channel/dynamic.php?c=4722RVSBVF1CELM6ydcoPxMtpGGL%2FiAellGorGy4tTO18TWBU%2FWRNw"></script><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try { var pageTracker = _gat._getTracker("UA-5405767-33");  pageTracker._trackPageview(); }
+catch(err) {}</script>
+</html>

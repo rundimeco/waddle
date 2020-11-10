@@ -1,0 +1,805 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>满记甜品“芒果布丁”被查细菌超标 上海_新闻中心_解放牛网</title><meta name="robots" content="follow,index">
+<meta name="keywords" content="满记甜品“芒果布丁”被查细菌超标,上海"/>
+<meta name="description" content="满记甜品“芒果布丁”被查细菌超标"/>
+<link href="/style/global.css" rel="stylesheet" type="text/css" />
+<base target="_blank"/>
+<script type="text/javascript" src="/js/slidebox.js"></script>
+<script type="text/JavaScript" src="/js/jquery-1.3.2.js"></script>
+<script type="text/JavaScript" src="/js/my_msg.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<script type="text/javascript" src="/js/common_use.js"></script>
+<script type="text/JavaScript" src="/js/comment.js?path="></script>
+<script type="text/javascript" src="/js/friend.js"></script>
+<link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen" />
+<script type="text/JavaScript" src="/js/topic.js"></script>
+<script type="text/JavaScript">
+	function sendToFriend(title){
+		var url = window.location.href;
+		url = url.replace("&","*");
+		var gourl = '/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoSendToFriendPre&title='+title+'&url='+url
+		gourl=encodeURI(gourl);
+        gourl=encodeURI(gourl);
+		showIframe('发给朋友',gourl,480,300,true);
+	}
+	function showComments(id,pageNum) {
+		var page = "";
+		if(pageNum != null) {
+			page = "&pagelist.currentPage="+pageNum;
+		}
+		$("#comment").load('/MainServlet?go=JFDAILY_COMMENT_PG_CommentSearch&d'+new Date().getTime()+'&searchBean.relatedType=n&searchBean.relatedId='+id+page);
+		//$("#comment").load('/MainServlet?go=JFDAILY_COMMENT_PG_CommentSearch&searchBean.relatedType=n&searchBean.relatedId='+id+page);
+	}
+	
+	$(document).ready(function(){
+		$('#hrefCollect').click(function(){
+		
+			var aId='1';
+			$.ajax({
+				url: '/MainServlet?go=Tag_PG_FavoritesAdd',
+				type: 'post',
+				data: {'favorites.ownerId' : aId,'favorites.relatedType':'n','favorites.relatedId':'2504405','favorites.title':'满记甜品“芒果布丁”被查细菌超标','favorites.url':location.href,'isAjax':'1'},
+				error: function(){
+					showDialog(0);
+				},
+				success: function(msg){
+					if($.trim(msg)=="false")	
+						showDialogAcc('106','null');
+					else if($.trim(msg)=="login")	
+						showLogin();
+					else if($.trim(msg)=="exception")
+						//showMsg(0);				
+						showDialog('0');
+					else if($.trim(msg)=='true'){
+						//showMsg(1);
+						$('#addFav').html(parseInt($('#addFav').html())+1);
+						showDialogAcc('105','null');
+					}else{
+						var url=location.href;
+						var index=url.indexOf("http://");
+						index=url.indexOf("/",index+7);
+						url=url.substring(index+1,url.length);
+						location.href='/MainServlet?go=PUB_AUTH_PG_GoToLogin&url='+url;
+					}
+				}
+			});
+		});
+	});
+	
+	function digg(id, digg) {
+		if(!$.isReady){
+			return;
+		}
+		$.ajax({
+			url: '/MainServlet?go=Tag_PG_DiggAdd',
+			type: 'post',
+			data:{
+				'digg.relatedId' : id,
+				'digg.relatedType' : '1',
+				'digg.diggType' : digg
+				},
+			error: function(){
+				alert("顶出了问题！");
+			},
+			success: function(msg){
+				if($.trim(msg) == "false" || $.trim(msg)=="exception") {
+					showDialog(10);
+				} else {
+					if(digg == '1')
+						$('#diggNum').html(parseInt($('#diggNum').html())+1);
+					//showDialog(1);
+				}
+			}
+		});
+	}
+</script>
+<script type="text/JavaScript">
+try{
+top.document.title;
+}
+catch(e){
+top.location.href = self.location.href;
+} 
+
+//$(document).ready(function(){showFeedback();});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9252455-15']);
+  _gaq.push(['_setDomainName', '.jfdaily.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body onLoad="showFeedback();">
+<!--header-->
+
+
+
+<!-- main menu begin -->
+
+<div id="topbar"><div class="box">
+	<div class="m f-grey-12-n">
+		<a id="title_1" href="/" target="_blank">解放牛网首页</a>
+ 		| 
+		<span class='f-gren3-1224-b'><a id="title_2" href="/c/1_1_y.htm" target="_blank">新闻中心</a></span>
+        <a id="title_5" href="/c/topic.htm" target="_blank">专题</a>
+		<a id="title_4" href="/MainServlet?go=JFDAILY_TOPIC_PG_TopicIndex" target="_blank">牛选话题</a>
+		 |
+		<span class='f-gren3-1224-b'><a id="title_6" href="/MainServlet?go=JFDAILY_NEWHOME_PG_CommunityHome" target="_blank">放牛社区</a></span>
+		<a id="title_7" href="/c/cow.htm" target="_blank">我爱放牛</a>
+		<a id="title_8" href="/MainServlet?go=JFDAILY_MSG_PG_MessageIndex" target="_blank">牛人知道</a>
+		 |
+		<span class='f-gren3-1224-b'><a id="title_9" href="/MainServlet?go=jfdaily_stopick_pg_StockIndex" target="_blank">新闻涨停版</a></span>
+		 | <span class='f-gren3-1224-b'>定制</span>
+		 <a id="title_11" href="http://niuyou.jfdaily.com/" target="_blank">牛油</a>
+		 | 
+		<a id="title_13" href="/help/webmap.html#dzb" target="_blank">电子报</a>
+	</div>
+	
+	
+		 
+		  <div class="log f-grey-12-n" >
+		  	<iframe name="accountStatusFrame" id="accountStatusFrame" src="/app?m=changeAccountStatus"  width="270" height="25" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+		  </div>
+</div>
+</div>
+<!-- main menu end -->
+<!--header-->
+<div id="wrap">
+
+<!--ad-->
+<div class="ad">
+
+<script src="http://yinyong.jfdaily.com/adintrs/adintrs/data/script/adlocation_105/adlocation_105.js" IGNOREAPD="1"></script>
+
+</div>
+<!--ad-->
+
+<!--main-->
+<div id="Part">
+
+<div id="left">
+<!-- 
+<h2 class="A-s01"><span class="capimg
+"><img src="/images/blank.gif" width="115" height="30" /></span><span class="capname f-black-14-n">您所在的位置：<a href="/">首页</a> > <a href="/c/1_1_y.htm">新闻频道</a> > <a href="/c/244_1_1.htm">上海</a> > 正文</span></h2>	
+ -->
+
+<!--如果是分类新闻-->
+<h2 class="A-s01"><span class="capimg"><img src="/images/blank.gif" width="115" height="30" /></span><span class="capname f-black-14-n"><a href="/c/1_1_y.htm">专稿首页</a>|<a href="/c/1_1_r.htm">记者即时播报</a>|<a href="/c/241_1_1.htm">社会</a>|<a href="/c/242_1_1.htm">国际</a>|<a href="/c/243_1_1.htm">国内</a>|<a href="/c/244_1_1.htm">上海</a>|<a href="/c/22_1_1.htm">财经</a>|<a href="/c/361_1_1.htm">娱乐</a>|<a href="/c/362_1_1.htm">体育</a>|<a href="/c/363_1_1.htm">消费</a>|<a href="/c/364_1_1.htm">生活</a>|<a href="/c/441_1_1.htm">图片</a>|<a href='/c/video.htm'>视频</a></span></h2>
+<!--如果是分类新闻-->
+
+	<div class="abox article">
+    
+    <div class="f-black-1224">您所在的位置：<a href="/">首页</a> > <a href="/c/1_1_y.htm">本网专稿</a> > <a href="/c/244_1_1.htm">上海</a> > 正文</div>
+    
+    
+    
+	<h4></h4>
+	<h1>【记者即时播报】满记甜品“芒果布丁”被查细菌超标</h1>
+	<h4></h4>
+	<div class="ori">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td>发布者：<a href="/space/3376">陈鑫</a> 时间：2012-01-12 17:04:50 来源：解放牛网</td>
+				<td class="favor-ico">【<a href="#" id="hrefCollect" onClick="return false;">收藏</a>】[<span id="addFav">0</span>]</td>
+			</tr>
+		</table>
+	
+	【<a href="/MainServlet?go=JFDAILY_COMMENT_PG_NewsComment&relatedId=2504405&relatedType=n">评论<span id="spa_cmtCount">0</span></a> 
+	<a href="/MainServlet?go=JFDAILY_COMMENT_PG_NewsComment&relatedId=2504405&relatedType=n">查看</a>】
+	【<a href="#commentdiv" target="_self">我要评论</a>】
+	<!-- 【<a href="/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoSearch&searchBean.type=t&searchBean.relatedId=2504405">话题</a>】 -->
+	【<a target="_blank" href="/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoNew&relatedId=2504405&relatedType=n">发起话题</a>】</div>
+
+	
+	<div class="para">满记甜品&ldquo;芒果布丁&rdquo;被查细菌超标<br />
+沪上24家门店已全面停售问题产品<br />
+本报讯 （记者 陈鑫）<br />
+&nbsp;&nbsp;&nbsp; 满记甜品也因产品质量问题被曝光。日前，北京市质监局在对北京市食品生产企业监督抽查工作中发现，包括满记甜品在内的14家食品企业均发现不合格产品在市场销售，并要求不合格食品停止销售。满记甜品昨天回复本报表示，目前上海24家门店已全面停售问题产品，二次复检正在进行中，待报告出来后再行后续跟进。<br />
+　　满记甜品此次被检出的不合格产品为北京信恒合丰餐饮管理有限公司生产的规格为135g/块的芒果布丁，北京市质量技术监督局发现该产品菌落总数超标和大肠杆菌群均超标，其中大肠杆菌实测值达到930，为国家标准&le;300的3.1倍，超标2.1倍，菌落总数检测值为130000/克，超过国家标准最高限额的10000/克12倍。<br />
+&nbsp;&nbsp;&nbsp; 香港满记甜品集团是香港地区知名连锁品牌。专业生产，经营各类正统港式甜品，糖水及休闲类甜品。自2004年引入上海以来，依托上海快速发展的餐饮零售市场目前已经在上海开设了24家直营店，全国目前更是已经开设超过100家门店。那么，北京地区发现菌落超标的芒果布丁，上海是否还有销售呢？昨天下午，记者来到满记甜品港汇店，工作人员告诉记者芒果布丁的产品已经停售了，原因是刚接到厂方通知暂停销售，何时恢复不得而知。&ldquo;昨天刚停售的，厂方统一通知我们的，您可以选择其他产品。&rdquo;该工作人员说道。<br />
+&nbsp;&nbsp;&nbsp; 满记甜品上海公司的相关负责人叶小姐昨天接受记者采访时说，被查出问题的北京信恒合丰餐饮管理有限公司是满记甜品在北京的分公司，每个分公司在当地都有自己的中央厨房，所以在上海销售的产品和北京生产的产品没有任何关系，都是独立生产的。不过，在接到北京质监部门的检测报告后，满记甜品第一时间将全国所有门店的涉嫌问题产品&mdash;&mdash;芒果布丁停售，并在官方微博上致歉。&ldquo;本着负责任的态度，包括上海的24家门店内的所有该款产品都停售了，毕竟菌落超标发生的原因多种多样，与温度、湿度等都有关系，相信这是个别现象。&rdquo;叶小姐表示，目前已经将第二份问题产品的样品送交北京质监部门复检，等报告出来后再行后续跟进。<br /></div>
+
+<!--page-->
+
+<div class="dig-pages">
+
+	<div class="clearit"></div></div>
+
+<!--page-->
+
+<!--huati-->
+<div id="relatedTopic"></div>
+<script type="text/javascript">$("#relatedTopic").load("/message/topic_inc.jsp?d"+new Date().getTime(),{'articleId' : 2504405});</script>
+<!--huati-->
+
+<div class="author">本文栏目：<a href="/c/244_1_1.htm">上海</a> 
+作者：<a href="/space/3376/">陈鑫</a></div>
+
+
+
+
+
+<!--tool-->
+
+<div class="too">
+<ul>
+<li class="ico01" onClick="digg(2504405, '1');return false;" style="cursor: pointer;"><span id="diggNum">1</span></li>
+<li class="ico02" onClick="window.open('/MainServlet?go=BLOG_ARTICLE_PG_BlogArticleNew&id=2504405')" style="cursor: pointer;">写进博客</li>
+<li class="ico03" onClick="window.open('/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoNew&relatedId=2504405&relatedType=n')" style="cursor: pointer;">发起话题</li>
+<li class="ico04" onClick="window.open('/MainServlet?go=JFDAILY_MSG_PG_MessageNew&type=1&id=3376')" style="cursor: pointer;">提问作者</li>
+<!--<li class="ico06">
+<div class="arti_share_box">
+    <a style="cursor:pointer" onClick="divshow()">分享此文</a>
+    <div id="jf_share_win" class="popwin">
+        <UL class="f-grey-1220">
+            <LI><a style="cursor: pointer;" onClick="sendToFriend('满记甜品“芒果布丁”被查细菌超标')" class="share_mail_ico">发给朋友</a></LI>
+            <!-分享到开心网开始->
+          <LI><a style="cursor: pointer;" href="#" onClick="Sendkx(); return false;" class="share_kx_ico">分享到开心网</a></LI>
+            <!-分享到开心网结束->
+            <!-分享到google开始->
+           <LI><a  style="cursor: pointer;" rel="nofollow" href="#" onClick="void window.open('http://www.google.com/bookmarks/mark?op=edit&bkmk='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title),'google'); return false;" class="share_google_ico">分享到Google书签</a>
+            <!-分享到google结束-></LI>
+        </UL>
+        <img src="/images/close.jpg" onClick="divhide()" class="close">
+    </div>
+</div>
+</li>
+<div style="display:none;">
+	<form name="kaixin001_repaste" action="http://www.kaixin001.com/repaste/share.php" method="post" target="_blank">
+		<input type="hidden" name="rtitle" value="">
+		<input type="hidden" name="rcontent" value="">
+		<input type="hidden" name="rurl" value="">
+	</form>
+</div>-->
+<li class="ico07" onClick="window.open('/c/1_1_y.htm')" style="cursor: pointer;">新闻首页</li>
+</ul>
+</div>
+<!--tool-->
+<div class="clearit"></div>
+
+<!--share-->
+<div id="jf_share">
+<UL>
+<form target="_blank" method="post" action="http://www.kaixin001.com/repaste/share.php" name="kaixin001_repaste">
+	<input type="hidden" value="" name="rtitle">
+	<input type="hidden" value="" name="rcontent">
+	<input type="hidden" value="" name="rurl">
+</form>
+<li><a style="cursor: pointer;" href="#" onClick="Sendkx(); return false;" class="share_kx_ico">分享到开心网</a></li>
+
+<li><a style="cursor: pointer;" href="#" onClick="Sendqq(); return false;" class="share_qq_ico">分享到QQ微博</a></li>
+<li><a style="cursor: pointer;" href="#" onClick="Sendsina(); return false;" class="share_sina_ico">分享到新浪微博</a></li>
+<li><a style="cursor: pointer;" href="#" onClick="Sendren(); return false;" class="share_rr_ico">分享到人人网</a></li>
+<li><a style="cursor: pointer;" href="#" onClick="Sendtb(); return false;" class="share_tb_ico">分享到淘江湖</a></li>
+<li><a style="cursor: pointer;" href="#" onClick="Send163(); return false;" class="share_163_ico">分享到网易微博</a></li>
+</UL>
+<div class="clearit"></div>
+</div> 
+<!--share end-->
+
+
+<!--relate-->
+
+<div class="relate" id="relate">
+<ul id="T_Menu_02" class="f-black-1424-b">
+<li class="t"><a href="#" class="on" id="S_Menu_02_1">延展阅读</a></li>
+<li class="k f-1218"></li>	
+</ul>
+
+<div class="clearit"></div>
+<div class="cbox">
+	 <div id="S_Cont_02_1">
+	 <script type="text/JavaScript" src="/js/hlxgweb/rdlist.js"></script>
+	 </div>
+	 </div>
+</div>
+<!--relate-->
+<!--searchbox-->
+
+
+
+<link rel="stylesheet" type="text/css" href="/style/global.css" />
+
+<script type="text/JavaScript" src="/js/common_use.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen" />
+
+<script type="text/JavaScript">
+//非法字符过滤( or---->或,not_----->非,and ----->与 )
+
+// 过滤空格，实现java中的trim功能：
+String.prototype.trim=function(){
+	return this.replace(/(^\s*)|(\s*$)/g, "");
+}
+function judgeValue(SearchKey,isValid){       
+	var reExpression=/(%|\*|\+|\=|\-|\/|\?|\.|\。|\&|\:|\：)+/g;		
+	var x=reExpression.test(SearchKey);
+	if(isValid && x) {
+		alert("检索词中含有非法字符!");
+		$('#key').val('');
+	}
+	return x;
+}
+
+function submitSearchContentIt() {
+	var keyWords = $("#key").val();
+	// 去掉前后的空格：
+	keyWords = keyWords.trim();
+	if(keyWords=="") {
+		showDialog(99);
+		return false;
+	}
+	if(judgeValue(keyWords)) {
+		showDialog(997);
+		$('#keyWords').val('');
+		return false;
+	}
+	var searchwordTemp="";
+
+	var keywordsValueArray = keyWords.split(" ");
+	var sTemp="";
+	var element = "";
+	var j = 0;
+	for(var i=0;i<keywordsValueArray.length;i++) {
+		element = keywordsValueArray[i];
+		if(element=="" || element=="not" || element=="or" || element=="and" || element=="in"){
+			continue;
+		}
+		j++;
+		if(j==1){
+			sTemp = element;
+			continue;
+		}
+		sTemp = sTemp + " and " + element;
+	}
+	searchwordTemp = " doctitle =("+sTemp+") or contents =("+sTemp+") ";
+
+	var searchForm = document.getElementById("searchContentForm");
+	document.getElementById("word").value = searchwordTemp;
+	document.getElementById("id").value = "1121";
+	searchForm.action = "http://find.jfdaily.com/search_utf.asp";
+	searchForm.submit();
+}
+</script>
+<form id="searchContentForm" action="http://find.jfdaily.com/search_utf.asp" target="_blank" method="get" onsubmit="submitSearchContentIt();return false;"><input type="hidden" name="validateRequest" value="3ffe7bd28480985a4d4c8fc89171c646">
+<input type="hidden" name="searchword" id="word"/>
+<input type="hidden" name="channelid" id="id"/>
+<div class="c-searchbox">
+<span class="f-gren2-14" style="vertical-align: middle">查看更多相关新闻</span>
+<input type="text" style="width: 380px; vertical-align: middle" name="key" id="key"/>
+<a href="#" onclick="submitSearchContentIt();return false;" target="_blank"><img src="/images/i_search.gif" align="absmiddle" height="18"/></a>
+</div>
+</form>
+<br />
+<!--searchbox-->
+
+<!--pinglun 评论 -->
+
+<div name="commentbox" id="commentbox" class="commentbox">
+	<div class="bj-p10-p5">
+		<div id="comment"></div>
+		<script>showComments(2504405);</script>
+		<div class="clearit"></div>
+		
+		<input type="hidden" id="commentType" value="n"/>
+		<input type="hidden" id="parentId" value="-1"/>
+		<input type="hidden" id="relatedType" value="n"/>
+		<input type="hidden" id="relatedId" value="2504405"/>
+		<input type="hidden" id="columnId" value="244"/>
+		<input type="hidden" id="commentTitle" value=" "/>
+		<input type="hidden" id="relatedFp" value="3376" />
+		<div id="commentdiv">
+
+
+
+<div id="commentPannel"></div>
+<script>loadCommentPannel("","n");</script></div>
+		
+	</div>
+</div>
+
+<!--pinglun-->
+<!--warning-->
+
+<div class="warn f-grey2-14">本文版权归解放牛网所有，任何媒体、网站或个人未经本网协议授权不得转载、链接、转帖或以其他方式复制发布/发表。</div>
+
+<!--warning-->
+	</div>
+</div>
+<div id="right">
+	<!--订阅邮件报-->
+	<script>
+	  function sendMail(id){
+	  var email = /^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/;
+	  if(!email.exec(id)){
+	  alert("请输入正确的email地址");
+	  return false;
+	  }else
+	 
+	   window.open("http://niuyou.jfdaily.com/NewMediaClient/Register.aspx?email="+id,'','');
+	  }
+	</script>
+	<div class="rbox bj-p5">
+		<input type="text" id="search_id" class="inputstyle03" value="输入您的E-mail地址订阅牛油" size="35"/>
+		<a onclick='sendMail($("#search_id").val())'  class="f-b-org2-12">订阅</a>
+		<script>inputText($("#search_id"), "输入您的E-mail地址订阅牛油");</script>
+	</div>
+	<!--订阅邮件报-->
+   <script src="http://yinyong.jfdaily.com/adintrs/adintrs/data/script/adlocation_108/adlocation_108.js" IGNOREAPD="1"></script> 
+    
+	<!--发布者信息-->
+
+
+	
+
+
+
+
+
+
+
+
+
+<div class="rbox-a">
+<div class="in">
+<h2 class="Ch2-s03"><span class="capname jfico02 f-black-14-b">发布此文的牛人</span><span
+	class="capmore f-black-12-b"><a href="/MainServlet?go=PUB_AUTH_PG_WebAccountRegister">我要注册</a> | <a href="/MainServlet?go=PUB_AUTH_PG_GoToLogin">牛友登录</a></span></h2>
+<div class="bj-p10-p20">
+<div class="ImgTxt07">
+<div class="IT07_img"><img src="/jfimg/2009-42/710385.gif" style="cursor: pointer;" onclick="window.open('/space/3376/');"
+	width="75" height="75" /></div>
+
+<div class="IT07_txt">
+<div class="f-black-1222-b"><a href="/space/3376/">陈鑫</a><br />
+<div class="rank-t"><img src="/images/blank.gif" height="20" class="star02" title="活跃度"/><img src="/images/blank.gif" height="20" class="star003" title="活跃度"/></div>
+<br><span class="f-org-12">六级牛仔</span><br />
+积分:<span class="f-org-12">24510</span></div>
+</div>
+<div class="clearit"></div>
+<p class="f-black-1222-b">I时代 <span class="f-blue2-12"><a
+	href="/MainServlet?go=biztool_push_pg_CowBoysSearch">其他记者信息</a></span></p>
+<p class="f-black-1224">文章：<span class="f-org-12"><a href="/MainServlet?go=jfdaily_barn_pg_BarnSearch&userId=3376">2974</a></span>
+博客：<span class="f-org-12"><a href="/blog/3376/">5</a></span></p>
+<p class="f-black-1224">评论：<span class="f-org-12"><a href="/MainServlet?go=BLOG_COMMENT_PG_BolgoCommentSearch&accountId=3376&me=y">1</a></span>
+话题：<span class="f-org-12"><a href="/MainServlet?go=jfdaily_barn_pg_TopicSearch&flag=n&userId=3376">0</a></span></p>
+<p class="f-black-1224">圈子：<a href='/group/3/'>晨报社区</a>&nbsp; <a href="#" onclick="JoinCircleMessage(3)" target="_self">我也要加入</a><script type="text/javascript">
+function JoinCircleMessage(id){
+$("#joinCircleId").attr("value",id);
+$("#joinCircleForm").submit();
+}
+function refreshIt(){
+location.reload();
+}
+</script>
+<form id="joinCircleForm" name="joinCircleForm" method="post" action="/MainServlet?go=jfdaily_circle_pg_JoinCircle" target="hiddenFrame">
+<input type="hidden" id="joinCircleId" name="circleId" value="">
+</form><iframe id="hiddenFrame" name="hiddenFrame" style="display:none"></iframe></p>
+<div class="bj-sp5"></div>
+<div class="bj-center"><span class="f-b-org-12"><a href="#"
+	onclick="addFriend(3376);return false;">[加为好友]</a></span>
+<span class="f-b-org-12"><a
+	href="/MainServlet?go=JFDAILY_MSG_PG_MessageNew&type=1&id=3376">[我要提问]</a></span> <span
+	class="f-b-org-12"><a href="/space/3376/">[逛逛牛舍]</a></span></div>
+</div>
+<div class="clearit"></div>
+</div>
+</div>
+</div>
+
+
+	<!--发布者信息-->
+<!--***发布的更多牛文-->
+
+<div class="rbox"><h2 class="Ch2-s02 f-black-12-b"><span class="capname"><a href="/space/3376" class="f-blue-12-b">陈鑫</a>发布的更多牛文</span><span class="capmore f-grey-12"></span></h2>
+ <div class="bj-p10-p5 c-box"><ul class="f-grey-1220">
+
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2504405.htm" class="f-org-12" title="满记甜品“芒果布丁”被查细菌超标">满记甜品“芒果布丁”被查细菌超标</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2504402.htm" class="f-org-12" title="2011年在华开设200家新店">2011年在华开设200家新店</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2504401.htm" class="f-org-12" title="上海22台奥的斯自动扶梯从临时性监护转为常态运行">上海22台奥的斯自动扶梯从临时性监护转为常态运行</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2504400.htm" class="f-org-12" title="支付宝推企业支付“开放”方案">支付宝推企业支付“开放”方案</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2504399.htm" class="f-org-12" title="浦东机场春运效应开始显现">浦东机场春运效应开始显现</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2502927.htm" class="f-org-12" title="“康佳”等品牌室内加热器产品质量问题严重遭曝光">“康佳”等品牌室内加热器产品质量问题严重遭曝光</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2502925.htm" class="f-org-12" title="百亿备货&nbsp;&nbsp;国美引爆春节家电市场">百亿备货&nbsp;&nbsp;国美引爆春节家电市场</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2502924.htm" class="f-org-12" title="淘宝商城更名“天猫”暂无上市计划">淘宝商城更名“天猫”暂无上市计划</a></li>
+		
+</ul>
+<div class="line00-p5"></div>
+	<div class="bj-center"><span class="f-blue-12-b">我也要发表</span> <span class="f-b-org-12"><a href="/MainServlet?go=biztool_cms_pg_CowNewsAddPre&flag=f">[放牛]</a></span> <span class="f-b-org-12"><a href="/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoNew&relatedId=2504405&relatedType=n">[话题]</a></span> <span class="f-b-org-12"><a href="/MainServlet?go=BLOG_ARTICLE_PG_BlogArticleNew">[博客]</a></span></div>
+</div>
+</div>
+
+<!--***发布的更多牛文-->
+
+	<!-- ad -->
+	<div class="ad">
+<script src="http://yinyong.jfdaily.com/adintrs/adintrs/data/script/adlocation_100/adlocation_100.js"></script>
+	
+	
+	</div>
+	<!-- ad -->
+<!--本文栏目-->
+<!--本文栏目-->
+<div class="rbox bj-h-all">
+<h2 class="Ch2-s02">
+<div class="capname">
+<span class="f-black-12-b">本文栏目：</span>
+<span class="f-org-12">
+<a href="/c/1_1_y.htm">新闻频道</a>  |  <a href="/c/244_1_1.htm">上海</a>
+</span></div></h2>
+
+
+	<div class="bj-p5 c-box">
+	<div class="f-black-1222-b">关注本文的用户热荐栏目内容...</div>
+
+	<div class="line00-p5"></div>
+	<ul class="f-grey-1222">
+	 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2503803.htm" title="连报4天雨雪，为何至今不见雨？">连报4天雨雪，为何至今不见雨？</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶2</span>-->
+·<a href="/a/2503246.htm" title="韩正描绘心中的“理想政府”">韩正描绘心中的“理想政府”</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2503248.htm" title="创新不是政府管出来的，是放出来的">创新不是政府管出来的，是放出来的</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2503255.htm" title="上海生活垃圾人均处置量首减">上海生活垃圾人均处置量首减</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2503159.htm" title="缓解“停车难”可借香港经验">缓解“停车难”可借香港经验</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2501716.htm" title="毕加索中国大展温暖中告别上海">毕加索中国大展温暖中告别上海</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2500110.htm" title="履职为民促发展——2011年上海市人大常委会工作巡礼(图)">履职为民促发展——2011年上海市人大常委会工作巡礼(图)</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2499463.htm" title="新委员培训，姚明第一个到">新委员培训，姚明第一个到</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶6</span>-->
+·<a href="/a/2497502.htm" title="请给寂寞的中国馆班车一条出路">请给寂寞的中国馆班车一条出路</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2497373.htm" title="春运首日实名验票：即到即过(图)">春运首日实名验票：即到即过(图)</a></li>
+
+</ul></div>
+
+<div class="line00"></div>
+  <div class="bj-p10-p5">
+ 
+<div class="ImgTxt06">
+		 
+	
+		<div class="IT06_img"><a href="/a/2500110.htm"><img src="/jfimg/2012-02/4654821.jpg" width="120" height="90" border="0" /></a><span class="f-blue2-12"><a href="/a/2500110.htm" title="履职为民促发展——2011年上海市人大常委会工作巡礼(图)">履职为民促发展——2011年上海市人大常委会工作巡礼(图)</a></span></div>
+	     
+	
+		<div class="IT06_img"><a href="/a/2497373.htm"><img src="/jfimg/2012-02/4649449.jpg" width="120" height="90" border="0" /></a><span class="f-blue2-12"><a href="/a/2497373.htm" title="春运首日实名验票：即到即过(图)">春运首日实名验票：即到即过(图)</a></span></div>
+	    <div class="line00"></div>
+	      
+	
+		<div class="IT06_img"><a href="/a/2492694.htm"><img src="/jfimg/2012-01/4640678.jpg" width="120" height="90" border="0" /></a><span class="f-blue2-12"><a href="/a/2492694.htm" title="按下你的“心动上海”(图)">按下你的“心动上海”(图)</a></span></div>
+	     
+	
+		<div class="IT06_img"><a href="/a/2492648.htm"><img src="/jfimg/2012-01/4640634.jpg" width="120" height="90" border="0" /></a><span class="f-blue2-12"><a href="/a/2492648.htm" title="毕加索乳酪难下国人泡饭?(图)">毕加索乳酪难下国人泡饭?(图)</a></span></div>
+	    
+
+		  </div>
+  
+  </div>
+  
+  <div class="clearit"></div>
+</div>
+
+<!--本文栏目-->
+<!--对本文的评价-->
+<!--<div class="rbox">
+ <h2 class="Ch2-s02 f-black-12-b"><span class="capname">关注本文的用户热荐栏目内容...</span><span class="capmore f-grey-12"><a href="/c/244_1_1.htm">更多&gt;&gt;</a></span></h2>
+ -->
+
+
+  
+<!--</div>
+
+本文栏目-->
+
+<!--他们可能与你有同样的喜好-->
+<div class="rbox">
+<h2 class="Ch2-s02 f-black-12-b">
+<span class="capname">他们可能与你有同样的喜好</span>
+<span class="capmore f-grey-12"><a href="/MainServlet?go=PUB_AUTH_PG_WebAccountSearch">更多</a>&gt;&gt;</span>
+</h2>
+
+
+
+<div class="bj-p10-p5 a-favor">
+<ul class="f-blue-1216">
+
+<li><img src="/jfimg/2010-07/1319500.jpg" style="cursor: pointer;" onClick="window.open('/space/2301');" width="48" height="48"/><br/>
+	<a href="/space/2301">大大大眼</a></li>
+	
+<li><img src="/jfimg/2009-27/151316.jpg" style="cursor: pointer;" onClick="window.open('/space/2321');" width="48" height="48"/><br/>
+	<a href="/space/2321">Julia</a></li>
+	
+<li><img src="/jfimg/2009-27/145232.gif" style="cursor: pointer;" onClick="window.open('/space/2541');" width="48" height="48"/><br/>
+	<a href="/space/2541">6月</a></li>
+	
+<li><img src="/jfimg/user/photo/19/8241.jpg" style="cursor: pointer;" onClick="window.open('/space/1921');" width="48" height="48"/><br/>
+	<a href="/space/1921">fanfan</a></li>
+	
+<li><img src="/jfimg/user/photo/vest/056.jpg" style="cursor: pointer;" onClick="window.open('/space/3075');" width="48" height="48"/><br/>
+	<a href="/space/3075">我和柒</a></li>
+	
+<li><img src="/jfimg/2009-41/680266.jpg" style="cursor: pointer;" onClick="window.open('/space/2561');" width="48" height="48"/><br/>
+	<a href="/space/2561">正北</a></li>
+	
+<li><img src="/images/shed/jf-header.gif" style="cursor: pointer;" onClick="window.open('/space/2701');" width="48" height="48"/><br/>
+	<a href="/space/2701">yangwan</a></li>
+	
+<li><img src="/jfimg/2009-32/309280.jpg" style="cursor: pointer;" onClick="window.open('/space/2721');" width="48" height="48"/><br/>
+	<a href="/space/2721">涅磐</a></li>
+	
+</ul>
+<div class="clearit"></div>
+</div>
+</div>
+
+<!--他们可能与你有同样的喜好-->
+
+<!--相关新闻股-->
+<div class="rbox bj-h-all"><h2 class="Ch2-s02 f-black-12-b"><span class="capname">热门新闻股</span><span class="capmore f-grey-12"><a href="/MainServlet?go=jfdaily_stopick_pg_StockIndex">更多</a>&gt;&gt;</span></h2>
+<div class="">
+<div class="bj-sp5"></div>
+    <div class="bj-p5"><h1 class="f-black-1318-b"><a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6281">谢霆锋与张柏芝真的复合了吗？</a></h1><span class="btn00 btn04"><a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6281">详情</a></span>
+	  <div class="ImgTxt05">
+	    <div class="IT05-img"><img src="/jfimg/stock/6281_small.jpg" width="150" height="107" /></div>
+	    <div class="IT05-txt">现价:<span class="f-org-12">50</span><br/>发行:<span class="f-org-12">2012-01-04</span><br/> <span class="btn05"><a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6281&isSupport=true">看涨买入</a></span><br/><span class="btn05"><a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6281&isSupport=flase">投反对票</a></span></div>
+	  </div><div class="jn03">
+	  <div class="keylink f-blue-12"><a href="/help/help_htg.html">新闻股</a> <a href="/help/help_htg.html#ht07">如何下单</a> <a href="/help/help_htg.html#ht09">如何撤单</a> <a href="/help/help_htg.html#ht10">炒股窍门</a> <a href="/help/help_htg.html#ht03">牛币</a></div>
+	  <ul class="f-grey-12-n">
+	  	
+	  <li><span class="f-gren-12">WBSMZ</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6262" title="微博会全面实行实名制吗？">微博会全面实行实名制吗？</a>&nbsp;&nbsp;<span class="f-org-12">现价：50</span> </li>
+
+	   
+	  <li><span class="f-gren-12">HYBZ</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6241" title="上海会大规模实施公交车沪语报站吗？">上海会大规模实施公交车沪语报</a>&nbsp;&nbsp;<span class="f-org-12">现价：62</span> </li>
+
+	   
+	  <li><span class="f-gren-12">ZBJV</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6221" title="存款准备金率会连续下调吗？">存款准备金率会连续下调吗？</a>&nbsp;&nbsp;<span class="f-org-12">现价：40</span> </li>
+
+	   
+	  <li><span class="f-gren-12">CPDJ</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6201" title="上海车牌拍卖价还会连续下跌吗？">上海车牌拍卖价还会连续下跌吗</a>&nbsp;&nbsp;<span class="f-org-12">现价：49</span> </li>
+
+	   
+	  <li><span class="f-gren-12">LCPC</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6181" title="浙江绿城会成为中超的“雷曼兄弟”吗？">浙江绿城会成为中超的“雷曼兄</a>&nbsp;&nbsp;<span class="f-org-12">现价：41</span> </li>
+
+	   
+	  </ul>
+	  </div>
+    </div>
+</div>
+</div>
+
+<!--相关新闻股-->
+
+<!--专 题-->
+<div class="rbox"><h2 class="Ch2-s02 f-black-12-b"><span class="capname">专 题</span><span class="capmore f-grey-12"><a href="/c/topic.htm">更多&gt;&gt;</a></span></h2>
+
+
+  <div class="bj-p10-p5">  <div class="ImgTxt08">
+        <div class="IT08_img"><img src="/jfimg/2012-02/4661805.jpg" width="85" height="65" /></div>
+        
+          <div class="IT08_txt2"><h1 class="f-black-1218-b"><a href="http://zt.jfdaily.com/xwzt/news/2011/Z4r_70404/index.htm">2012年上海两会</a></h1>
+		  <p class="f-grey-1218">转型之路如何走得更顺畅，哪些非热点不该被忽视？市政协探索建言献策新方式</p>
+		</div>
+        </div>
+<div class="line00-p5"></div>
+ <div class="ImgTxt08">
+        <div class="IT08_img"><img src="/jfimg/2011-40/4321002.png" width="85" height="65" /></div>
+        
+          <div class="IT08_txt2"><h1 class="f-black-1218-b"><a href="http://zt.jfdaily.com/xwzt/news/2011/z3_69844/index.htm">记者新春走基层</a></h1>
+		  <p class="f-grey-1218">两位小姑娘坚守“春运售票大卖场”咨询台，每天站立9小时答疑挨骂手冻僵</p>
+		</div>
+        </div>
+<div class="line00-p5"></div>
+
+</div>
+</div>
+
+<!--专题-->
+
+
+</div>
+<div class="clearit"></div>
+</div>
+<!--main-->
+</div>
+<!--footer-->
+<!-- 简版尾 -->
+
+<div class="wrap">
+<div class="clearit bj-sp20"></div>
+
+ 
+ 
+<div class="f-black-12-n bj-grey-bordert-2 bj-p10-p5">
+  <div class="bj-center"> | <a href="http://old.jfdaily.com/others/jtap/200808/t20080805_335183.htm" target="_blank"><span class="f-black-12-n">集团视频</span></a> | <a href="http://old.jfdaily.com/2006/other/jiefang.pps" target="_blank"><span class="f-black-12-n">集团概况</span></a> | <a href="http://zt.jfdaily.com/others/z3_63584/index.htm" target="_blank">集团行风监督</a> | <a href="http://old.jfdaily.com/others/zhaopin/index.htm" target="_blank"><span class="f-black-12-n">集团招聘信息</span></a> | <a href="http://old.jfdaily.com/2007/other/caigou/index.htm" target="_blank"><span class="f-black-12-n">集团采购信息</span></a> | <a href="http://jiansuo.jfdaily.com" target="_blank"><span class="f-black-12-n">集团资料检索</span></a> | <span class="f-black-12-n"><a href="/help/ad_page.html" target="_blank">广告服务</a></span> |  <a href="/help/webmap.html" target="_blank"><span class="f-black-12-n">网站地图</span></a> | <br />
+    解放牛网 版权所有   未经许可不得转载 <img height="32" src="http://www.jfdaily.com/images/icp.gif" width="38" align="absmiddle">沪ICP证010099 <br/>
+    广播电视节目制作经营许可证 沪字第335号 信息网络传播视听节目许可证 0908329<br/>
+</div>
+</div></div>
+<div style="display: none"><script src="http://s14.cnzz.com/stat.php?id=2284402&web_id=2284402" language="JavaScript"></script></div>
+
+<!--footer-->
+
+
+
+
+
+
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-9252455-4");pageTracker._trackPageview();} catch(err) {}</script>
+</body>
+
+
+
+
+
+</html>

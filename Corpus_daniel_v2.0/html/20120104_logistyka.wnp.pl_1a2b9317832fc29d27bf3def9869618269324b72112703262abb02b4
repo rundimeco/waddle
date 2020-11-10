@@ -1,0 +1,1205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<title>Terminal 1 Lotnisku Chopina do generalnego remontu. wnp.pl | Serwis Logistyka. Transport, logistyka, firmy kurierskie.</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language" content="pl" />
+	<meta name="description" lang="pl" content="Wirtualny Nowy Przemysł - Serwis Logistyka. Logistyka: najnowsze technologie, wiadomości, artykułu z zakresu przemysłu naftowego i chemicznego. Zarządca Lotniska Chopina w Warszawie, Przedsiębiorstwo Porty Lotnicze, ogłosił przetarg na wybór generalnego wykonawcy przebudowy starej części terminala tego dworca." />
+	<meta name="keywords" lang="pl" content="logistyka, transport, przemysł, wirtualny, nowy przemysł, rynek energii, nowe technologie, portal, gospodarka, wiadomości, artykuły" />
+
+	<meta name="Author" content="AltumNet sp. z o.o." />
+	<meta name="Revisit-after" content="2 days" />
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="http://k.wnp.pl/images/favicon2.ico" />
+
+	<link rel="stylesheet" href="http://p.wnp.pl/css/i/wnp.css?v=73" type="text/css" />
+	<!--[if lt IE 8 ]><link rel="stylesheet" type="text/css" href="http://p.wnp.pl/css/i/ie.css?v=3" /><![endif]-->
+	<!--  notowania - ui jquery css -->
+	<link rel="stylesheet" href="http://p.wnp.pl/css/i/jquery-ui-1.8.16.custom.css?v=1" type="text/css" />
+	
+												<link rel="stylesheet" type="text/css" href="http://p.wnp.pl/css/i/_logistyka.css?v=6" />
+								
+		<script type="text/javascript" src="http://p.ptwp.pl/fs/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://p.wnp.pl/js/i/flowplayer-3.2.10.min.js"></script>
+<script type="text/javascript" src="http://p.wnp.pl/js/i/flowplayer.ipad.min.js"></script>
+<script type="text/javascript" src="http://p.wnp.pl/js/i/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://p.wnp.pl/js/i/scripts.js?h=14"></script>
+<!-- notowania -->
+<script type="text/javascript" src="http://p.wnp.pl/js/i/jquery.simplemodal-1.3.3.min.js"></script>
+<script type="text/javascript" src="http://p.wnp.pl/js/i/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="http://p.wnp.pl/js/i/jquery_duallistbox.js"></script>
+<script type="text/javascript" src="http://p.wnp.pl/js/i/notowania.js?h=4"></script>
+<script type="text/javascript" src="http://p.wnp.pl/js/i/slideshow.js?h=4"></script>
+<script type="text/javascript">
+<!--
+document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://s1.hit.stat24.com/_'+(new Date()).getTime()+'/script.js?id=zIflPXS7ETO4UnvPSL5KbXZG7Mn1aZCby8YHZKYeuNX.Q7/l=11"></'+'scr'+'ipt>');
+//-->
+</script><script type="text/javascript">
+<!-- (C)2005 Gemius SA - gemiusAudience  / wnp.pl 
+//-->
+<!--
+var pp_gemius_identifier = new String('bJFLyVw0EH9HhTIklLn8LLesTH4kxuvpVGOWluC11N..a7');
+//-->
+</script>
+<script type="text/javascript" src="http://idm.hit.gemius.pl/pp_gemius.js"></script>	<link rel="alternate" type="application/rss+xml" title="wnp.pl - Wiadomości gospodarcze" href="http://s1.hit.stat24.com/hitredir/id=ba06EQbE53RD57EdO0Hq4Jev7J9g1JCZAdVkANX_5JD.z7/url=www.wnp.pl/rss/serwis_rss.xml" />
+	<link rel="alternate" type="application/rss+xml" title="wnp.pl - Serwis Energetyka - Gaz" href="http://s1.hit.stat24.com/hitredir/id=ba06EQbE53RD57EdO0Hq4Jev7J9g1JCZAdVkANX_5JD.z7/url=www.wnp.pl/rss/serwis_rss_1.xml" />
+	<link rel="alternate" type="application/rss+xml" title="wnp.pl - Serwis Nafta - Chemia" href="http://s1.hit.stat24.com/hitredir/id=ba06EQbE53RD57EdO0Hq4Jev7J9g1JCZAdVkANX_5JD.z7/url=www.wnp.pl/rss/serwis_rss_2.xml" />
+	<link rel="alternate" type="application/rss+xml" title="wnp.pl - Serwis Hutnictwo" href="http://s1.hit.stat24.com/hitredir/id=ba06EQbE53RD57EdO0Hq4Jev7J9g1JCZAdVkANX_5JD.z7/url=www.wnp.pl/rss/serwis_rss_3.xml" />
+	<link rel="alternate" type="application/rss+xml" title="wnp.pl - Serwis Górnictwo" href="http://s1.hit.stat24.com/hitredir/id=ba06EQbE53RD57EdO0Hq4Jev7J9g1JCZAdVkANX_5JD.z7/url=www.wnp.pl/rss/serwis_rss_4.xml" />
+	<link rel="alternate" type="application/rss+xml" title="wnp.pl - Serwis Logistyka" href="http://s1.hit.stat24.com/hitredir/id=ba06EQbE53RD57EdO0Hq4Jev7J9g1JCZAdVkANX_5JD.z7/url=www.wnp.pl/rss/serwis_rss_5.xml" />
+	<link rel="alternate" type="application/rss+xml" title="wnp.pl - Serwis IT" href="http://s1.hit.stat24.com/hitredir/id=ba06EQbE53RD57EdO0Hq4Jev7J9g1JCZAdVkANX_5JD.z7/url=www.wnp.pl/rss/serwis_rss_6.xml" />	<meta property="og:image" content="http://p.ptwp.pl/fs/img/portals/wnp_fb_90x60.jpg" />
+	<meta property="og:title" content="Terminal 1 Lotnisku Chopina do generalnego remontu" />
+
+	<meta property="og:description" content="Zarządca Lotniska Chopina w Warszawie, Przedsiębiorstwo Porty Lotnicze, ogłosił przetarg na wybór generalnego wykonawcy przebudowy starej części terminala tego dworca." />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="wnp.pl" />
+<meta property="fb:admins" content="100002431297570" />
+
+
+</head>
+	<body id="logistyka">
+	<script type="text/javascript" src="/axnewsletter.js"></script>
+	<div id="topStrap">
+	<div class="content clearfix">
+		<div class="left clearfix">
+			<div class="bc">
+				Środa,&nbsp;10&nbsp;kwietnia&nbsp;2013&nbsp;r.
+			</div>
+			<div class="fright">
+				<div class="log">
+					<a href="http://www.ptwp.pl/newsletter/wnp-rejestracja.html">Załóż konto</a>
+				</div>
+				<div class="searchTop">
+					<div class="inpt clearfix">
+					<form action="http://www.wnp.pl/wyszukiwanie.html" method="get">
+						<fieldset>
+							<input class="inputS" name="szukaj" type="text" title="szukaj w portalu" value="" />
+							<input class="btn_sz" type="submit" value="" />
+						</fieldset>
+					</form>
+					</div>
+				</div>
+				
+			</div>		
+			
+		</div>
+		<div class="right"><a href="http://www.ptwp.pl/portal/wnp-logowanie.html">Zaloguj się</a></div>
+	</div>
+</div>
+
+
+
+<div id="cookie_bar_body" class="cookie_hide_x clearfix">
+	<div id="cookie_bar">
+		<a class="cookie_linkDo" href="http://www.wnp.pl/polityka-cookies/">PLIKI COOKIES: Stosujemy pliki cookies, aby ułatwić korzystanie z serwisu. <strong>Dowiedz się więcej &raquo;</strong></a>
+	</div>
+	<a class="cookie_linkX" id="cookie_x" href="javascript:void(0);">[ x ]</a>
+</div>
+
+
+
+
+	<div class="advA">
+
+
+
+
+<div id='bmone2n-184.11.1.1'></div>
+
+</div>
+	<div id="top" class="clearfix">
+<div class="logo"><a href="http://www.wnp.pl/"><img src="http://p.wnp.pl/images/i/logo_wnp.jpg" width="320" height="44" alt="portal www.wnp.pl" /></a></div>
+      			
+	<div class="squares">
+		<div class="ik1"><a href="http://www.wnp.pl/alerty.html" class="attip" title="Ekspresowe powiadomienia o nowych publikacjach na wybrany temat"></a></div>
+		<div class="ik2"><a href="http://m.wnp.pl/" class="attip" title="Mobilna wersja portalu"></a></div>
+		<div class="ik3"><a href="http://www.wnp.pl/wiadomosci_na_twojej_stronie.html" class="attip" title="Automatycznie aktualizowane boksy z informacjami portalu"></a></div>
+		<div class="ik4"><a href="http://www.wnp.pl/rss/" class="attip" title="Kanały informacyjne zawierające najnowsze publikacje portalu"></a></div>
+		<div class="ik5"><a href="http://www.wnp.pl/newsletter/" class="attip" title="Codzienny przegląd najważniejszych informacji"></a></div>
+		<div class="ik6"><a href="http://forum.wnp.pl/" class="attip" title="Dyskusje na tematy gospodarcze"></a></div>
+		<div class="ik7"><a href="http://www.wnp.pl/artykuly/" class="attip" title="Serwis specjalny Nowego Przemysłu"></a></div>
+	</div>
+	
+		
+	<div class="fright">
+	
+			
+					
+						
+						
+						
+			<img src="http://p.wnp.pl/images/i/partnerzy_portalu20130225.png" width="171" height="50" alt="partner portalu wnp.pl" usemap="#parnterp" />
+			<map name="parnterp" id="parnterport">
+				<area shape="rect" coords="0,0,171,50" href="http://www.wnp.pl/klik/biuletyn/edf|wnp20130301.xml?http://polska.edf.com/" title="polska.edf.com" alt="external" />
+			</map>
+
+		
+	</div>
+</div>
+	<div id="page">
+		<div class="menu2box">
+	<div class="menutop clearfix">
+		<ul class="menu1 clearfix">
+			<li class="home"><a href="http://www.wnp.pl/"></a></li>
+
+			<li class="msubs1" id="mfin">
+				<a class="smMtop" href="http://finanse.wnp.pl/">FINANSE</a>
+				<div class="menus">
+					<div class="smLeft">
+						<p>Najnowsze informacje w dziale Finanse:</p>
+						<ul>
+														<li><span>06:14</span> <a href="http://finanse.wnp.pl/wieden-chce-polaczyc-sie-z-warszawa,194857_1_0_0.html">Wiedeń chce połączyć się z Warszawą</a></li>
+														<li><span>05:58</span> <a href="http://finanse.wnp.pl/deregulacja-z-dziurami,194855_1_0_0.html">Deregulacja z dziurami</a></li>
+														<li><span>05:56</span> <a href="http://finanse.wnp.pl/amerykanie-karza-za-polskie-lapowki,194854_1_0_0.html">Amerykanie karzą za polskie łapówki</a></li>
+													</ul>
+					</div>
+					<div class="smCenter clearfix">
+						<p>Ważne:</p>
+						<a href="http://finanse.wnp.pl/premier-nadrabia-zaleglosci-w-afryce,194852_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/762/m120xd.jpg" width="120" height="80" alt=""/></a>
+						<a href="http://finanse.wnp.pl/premier-nadrabia-zaleglosci-w-afryce,194852_1_0_0.html" class="smFTitle">Premier nadrabia zaległości w Afryce</a>
+					</div>
+					<div class="smRight">
+						<p>Polecane w serwisie:</p>
+												<ul>
+														<li><span>&bull;</span>&nbsp;
+														<a href="http://finanse.wnp.pl/kursy_walut/">Waluty</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;														<a href="http://finanse.wnp.pl/gielda/futures/">Futures</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;														<a href="http://finanse.wnp.pl/akcje/">GPW</a>														</li>
+														<li><span>&bull;</span>&nbsp;
+														<a href="http://finanse.wnp.pl/gielda/indeksy/">Indeksy</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;														<a href="http://finanse.wnp.pl/newconnect/">New Connect</a>														</li>
+														<li><span>&bull;</span>&nbsp;
+														<a href="http://www.wnp.pl/gielda_wierzytelnosci/lista.html">Wierzytelności</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;														<a href="http://finanse.wnp.pl/fuzje-i-przejecia/">Fuzje i przejęcia</a>														</li>
+														<li><span>&bull;</span>&nbsp;
+														<a href="http://www.wnp.pl/katalog/298.html">Firmy z branży</a>														</li>
+													</ul>
+											</div>
+				</div>
+			</li>
+
+			<li class="msubs1" id="mpra">
+					<a class="smMtop" href="http://praca.wnp.pl/">PRACA</a>
+					<div class="menus">
+					<div class="smLeft">
+						<p>Najnowsze informacje w dziale Praca:</p>
+						<ul>
+														<li><span>05:58</span> <a href="http://praca.wnp.pl/deregulacja-z-dziurami,194855_1_0_0.html">Deregulacja z dziurami</a></li>
+														<li><span>Wto 18:22</span> <a href="http://praca.wnp.pl/handel-polsko-niemiecki-wciaz-na-rekordowym-poziomie,194832_1_0_0.html">Handel polsko-niemiecki wciąż na rekordowym poziomie</a></li>
+														<li><span>Wto 17:28</span> <a href="http://praca.wnp.pl/tusk-gwarantem-bezpiecznych-emerytur-jest-panstwo-i-zus,194824_1_0_0.html">Tusk: gwarantem bezpiecznych emerytur jest państwo i ZUS</a></li>
+													</ul>
+					</div>
+					<div class="smCenter clearfix">
+						<p>Ważne:</p>
+						<a href="http://praca.wnp.pl/czechy-i-polska-odkrywaja-sie-na-nowo,194848_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/761/m120xd.jpg" width="120" height="80" alt=""/></a>
+						<a href="http://praca.wnp.pl/czechy-i-polska-odkrywaja-sie-na-nowo,194848_1_0_0.html" class="smFTitle">Czechy i Polska odkrywają się na nowo</a>
+					</div>
+					<div class="smRight">
+						<p>Polecane w serwisie:</p>
+												<ul>
+														<li><span>&bull;</span>&nbsp;
+														<a href="http://praca.wnp.pl/oferta_pracy/lista.html">Oferty pracy</a>														</li>
+														<li><span>&bull;</span>&nbsp;
+														<a href="http://praca.wnp.pl/serwis-wynagrodzenia/">Wynagrodzenia</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;														<a href="http://www.wnp.pl/tematy_serwis/,1607_0_0.html">Emerytury</a>														</li>
+														<li><span>&bull;</span>&nbsp;
+														<a href="http://szkolenia.wnp.pl/">Szkolenia</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;														<a href="http://www.wnp.pl/tematy_serwis/,3734_0_0.html">Prawo pracy</a>														</li>
+														<li><span>&bull;</span>&nbsp;
+														<a href="http://www.wnp.pl/katalog/296.html">Firmy z branży</a>														</li>
+													</ul>
+											</div>
+				</div>
+			</li>
+
+			<li><a class="blue2" href="http://www.wnp.pl/konferencje/" id="mkon">KONFERENCJE</a></li>
+		</ul>
+		<ul class="menu3 clearfix">
+			<li class="sep">INNE SERWISY:</li>
+			<li><a class="blue2" href="http://www.portalsamorzadowy.pl/" rel="external">SAMORZĄD</a></li>
+			<li><a class="blue2" href="http://www.pulshr.pl/" rel="external">HR</a></li>
+			<li><a class="blue2" href="http://www.propertynews.pl/" rel="external">NIERUCHOMOŚCI</a></li>
+			<li><a class="blue2" href="http://www.portalspozywczy.pl/" rel="external">RYNEK SPOŻYWCZY</a></li>
+			<li><a class="blue2" href="http://www.dlahandlu.pl/" rel="external">HANDEL</a></li>
+			<li><a class="blue2" href="http://www.rynekzdrowia.pl/" rel="external">ZDROWIE</a></li>
+			<li><a class="blue2" href="http://www.farmer.pl/" rel="external">ROLNICTWO</a></li>
+		</ul>
+	</div>
+	<ul class="menu2 clearfix">
+
+		<li class="msubs" id="mene">
+			<a style="margin-left:5px" href="http://energetyka.wnp.pl/">ENERGETYKA</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale Energetyka:</p>
+					<ul>
+										<li><span>Wto 20:06</span> <a href="http://energetyka.wnp.pl/opolscy-poslowie-pis-i-sp-apeluja-ws-elektrowni-opole,194841_1_0_0.html">Opolscy posłowie PiS i SP apelują ws. Elektrowni Opole</a></li>
+										<li><span>Wto 18:05</span> <a href="http://energetyka.wnp.pl/rzad-ostrozny-wobec-inteligentnego-opomiarowania,194828_1_0_0.html">Rząd ostrożny wobec inteligentnego opomiarowania </a></li>
+										<li><span>Wto 18:02</span> <a href="http://energetyka.wnp.pl/greenpeace-krytykuje-rzad-za-wsparcie-dla-wspolspalania,194827_1_0_0.html">Greenpeace krytykuje rząd za wsparcie dla współspalania</a></li>
+										</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://energetyka.wnp.pl/rzad-i-pge-beda-szukac-innych-rozwiazan-niz-rozbudowa-opola,194834_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/760/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://energetyka.wnp.pl/rzad-i-pge-beda-szukac-innych-rozwiazan-niz-rozbudowa-opola,194834_1_0_0.html" class="smFTitle">Rząd i PGE będą szukać innych rozwiązań niż rozbudowa Opola</a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/polska_efektywna_energetycznie/">Efektywność energetyczna</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/odnawialne_zrodla_energii/">OZE</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://energetyka.wnp.pl/cieplownictwo/">Ciepłownictwo</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://energetyka.wnp.pl/energetyka_atomowa/">Atom</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://energetyka.wnp.pl/energetyka_gazowa/">Energetyka gazowa</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://energetyka.wnp.pl/elektrownie/">Elektrownie</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/katalog/209.html">Firmy z branży</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+		<li class="msubs" id="mgaz">
+			<a style="margin-left:5px" href="http://gazownictwo.wnp.pl/">GAZ</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale Gaz:</p>
+					<ul>
+										<li><span>06:21</span> <a href="http://gazownictwo.wnp.pl/gaz-system-tez-rozmawial-o-jamale-ii,194858_1_0_0.html">Gaz-System też rozmawiał o Jamale II</a></li>
+										<li><span>Wto 20:15</span> <a href="http://gazownictwo.wnp.pl/nord-stream-az-do-wielkiej-brytanii,194842_1_0_0.html">Nord Stream aż do Wielkiej Brytanii</a></li>
+										<li><span>Wto 13:30</span> <a href="http://gazownictwo.wnp.pl/w-gazie-trzeba-wiecej-pragmatyzmu,194786_1_0_0.html">W gazie trzeba więcej pragmatyzmu</a></li>
+										</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://gazownictwo.wnp.pl/premier-zleca-raport-ws-gazowego-memorandum-decyzje-pozniej,194816_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/754/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://gazownictwo.wnp.pl/premier-zleca-raport-ws-gazowego-memorandum-decyzje-pozniej,194816_1_0_0.html" class="smFTitle">Premier zleca raport ws. gazowego memorandum. Decyzje później</a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://gazownictwo.wnp.pl/gaz_lupkowy/">Gaz łupkowy</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/tematy_serwis/,1615_0_0.html">Emisje CO2</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://energetyka.wnp.pl/energetyka_gazowa/">Energetyka gazowa</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/polska_efektywna_energetycznie/">Efektywność energetyczna</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://energetyka.wnp.pl/notowania/tge/">TGE</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/katalog/223.html">Firmy z branży</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+		<li class="msubs" id="mgor">
+			<a style="margin-left:5px" href="http://gornictwo.wnp.pl/">GÓRNICTWO</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale Górnictwo:</p>
+					<ul>
+										<li><span>Wto 20:58</span> <a href="http://gornictwo.wnp.pl/strajk-ostrzegawczy-w-chilijskich-kopalniach-miedzi,194845_1_0_0.html">Strajk ostrzegawczy w chilijskich kopalniach miedzi</a></li>
+										<li><span>Wto 17:04</span> <a href="http://gornictwo.wnp.pl/pg-silesia-wydobedzie-w-tym-roku-ok-2-mln-ton-wegla,194817_1_0_0.html">PG Silesia wydobędzie w tym roku ok. 2 mln ton węgla</a></li>
+										<li><span>Wto 14:54</span> <a href="http://gornictwo.wnp.pl/gornictwo-moga-prywatyzowac-a-moze-i-konsolidowac,194501_1_0_0.html">Górnictwo: mogą prywatyzować, a może i konsolidować </a></li>
+										</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://gornictwo.wnp.pl/markowski-zniszcza-gornictwo-wraz-z-kooperantami,194856_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/764/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://gornictwo.wnp.pl/markowski-zniszcza-gornictwo-wraz-z-kooperantami,194856_1_0_0.html" class="smFTitle">Markowski: zniszczą górnictwo wraz z kooperantami</a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://gornictwo.wnp.pl/kopalnie/">Kopalnie</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/tematy_serwis/,1615_0_0.html">Emisje CO2</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://gornictwo.wnp.pl/notowania/ceny_wegla/">Ceny węgla</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/przetargi/lista.html">Przetargi</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://technika-gornicza.wnp.pl/">Technika górnicza</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://gornictwo.wnp.pl/kto-jest-kim/lista.html">Sylwetki</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/katalog/76.html">Firmy z branży</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+		<li class="msubs" id="mhut">
+			<a style="margin-left:5px" href="http://hutnictwo.wnp.pl/">HUTNICTWO</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale Hutnictwo:</p>
+					<ul>
+												<li><span>Wto 20:58</span> <a href="http://hutnictwo.wnp.pl/strajk-ostrzegawczy-w-chilijskich-kopalniach-miedzi,194845_1_0_0.html">Strajk ostrzegawczy w chilijskich kopalniach miedzi</a></li>
+												<li><span>Wto 19:16</span> <a href="http://hutnictwo.wnp.pl/hw-pietrzak-holding-kupi-w-wezwaniu-3-551-989-akcji-ferrum,194837_1_0_0.html">HW Pietrzak Holding kupi w wezwaniu 3.551.989 akcji Ferrum</a></li>
+												<li><span>Wto 17:44</span> <a href="http://hutnictwo.wnp.pl/gsg-towers-zbuduje-35-wiez-wiatrowych-dla-dunskiej-firmy,194826_1_0_0.html">GSG Towers zbuduje 35 wież wiatrowych dla duńskiej firmy</a></li>
+											</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://hutnictwo.wnp.pl/przemysl-stalowy-szuka-dodatkowych-zarobkow-w-motoryzacji,194811_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/753/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://hutnictwo.wnp.pl/przemysl-stalowy-szuka-dodatkowych-zarobkow-w-motoryzacji,194811_1_0_0.html" class="smFTitle">Przemysł stalowy szuka dodatkowych zarobków w motoryzacji</a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://spawalnictwo.wnp.pl/">Spawalnictwo</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://odlewnictwo.wnp.pl/">Odlewnictwo</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://hutnictwo.wnp.pl/notowania/indeks_cen_stali_puds/">Ceny stali</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/tematy_serwis/,1615_0_0.html">Emisje CO2</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/ranking/ranking_dystrybutorow_stali.html">Ranking dystrybutorów stali</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/katalog/79.html">Firmy z branży</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+		<li class="msubs" id="mnaf">
+			<a style="margin-left:5px" href="http://nafta.wnp.pl/">NAFTA</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale Nafta:</p>
+					<ul>
+													<li><span>Wto 18:15</span> <a href="http://nafta.wnp.pl/shell-chce-sprzedac-udzialy-w-ceska-rafinerska,194829_1_0_0.html">Shell chce sprzedać udziały w Ceska Rafinerska</a></li>
+													<li><span>Wto 17:17</span> <a href="http://nafta.wnp.pl/bp-ma-cztery-nowe-stacje-paliw,194821_1_0_0.html">BP ma cztery nowe stacje paliw</a></li>
+													<li><span>Wto 17:12</span> <a href="http://nafta.wnp.pl/polski-biznes-jedzie-z-premierem-do-nigerii-po-kontrakty,194819_1_0_0.html">Polski biznes jedzie z premierem do Nigerii po kontrakty</a></li>
+											</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://nafta.wnp.pl/protest-pracownikow-pkn-orlen-zwiazki-groza-strajkiem,194802_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/750/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://nafta.wnp.pl/protest-pracownikow-pkn-orlen-zwiazki-groza-strajkiem,194802_1_0_0.html" class="smFTitle">Protest pracowników PKN Orlen - związki grożą strajkiem</a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://nafta.wnp.pl/ceny_paliw/">Ceny paliw</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://nafta.wnp.pl/notowania/ceny_ropy/">Ceny ropy</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://nafta.wnp.pl/lpg/">LPG</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://nafta.wnp.pl/stacje_paliw/">Stacje paliw</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://nafta.wnp.pl/biopaliwa/">Biopaliwa</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://nafta.wnp.pl/upstream/">Upstream</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://nafta.wnp.pl/downstream/">Downstream</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://nafta.wnp.pl/kto-jest-kim/lista.html">Sylwetki</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/katalog/194.html">Firmy z branży</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+		<li class="msubs" id="mche">
+			<a style="margin-left:5px" href="http://chemia.wnp.pl/">CHEMIA</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale Chemia:</p>
+					<ul>
+												<li><span>Wto 11:40</span> <a href="http://chemia.wnp.pl/niemiecki-potentat-chemiczny-inwestuje-w-azji,194774_1_0_0.html">Niemiecki potentat chemiczny inwestuje w Azji</a></li>
+												<li><span>Pon 13:51</span> <a href="http://chemia.wnp.pl/waza-sie-gieldowe-losy-za-pulawy,194692_1_0_0.html">Ważą się giełdowe losy ZA Puławy</a></li>
+												<li><span>Pon 13:28</span> <a href="http://chemia.wnp.pl/orlen-lietuva-zwiekszy-produkcje-siarki-granulowanej,194690_1_0_0.html">Orlen Lietuva zwiększy produkcję siarki granulowanej</a></li>
+											</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://chemia.wnp.pl/za-pulaw-wyjda-z-gieldy-to-raczej-przesadzone,194810_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/751/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://chemia.wnp.pl/za-pulaw-wyjda-z-gieldy-to-raczej-przesadzone,194810_1_0_0.html" class="smFTitle">ZA Puław wyjdą z giełdy, to raczej przesądzone</a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://finanse.wnp.pl/gielda/indeksy/WIG-CHEMIA.html">Chemia na GPW</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://nafta.wnp.pl/notowania/ceny_ropy/">Ceny ropy</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/tematy_serwis/,1615_0_0.html">Emisje CO2</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/polska_efektywna_energetycznie/">Efektywność energetyczna</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://chemia.wnp.pl/kto-jest-kim/lista.html">Sylwetki</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/katalog/193.html">Firmy z branży</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+		<li class="msubs" id="mbud">
+			<a style="margin-left:5px" href="http://budownictwo.wnp.pl/">BUDOWNICTWO</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale Budownictwo:</p>
+					<ul>
+												<li><span>Wto 20:06</span> <a href="http://budownictwo.wnp.pl/opolscy-poslowie-pis-i-sp-apeluja-ws-elektrowni-opole,194841_1_0_0.html">Opolscy posłowie PiS i SP apelują ws. Elektrowni Opole</a></li>
+												<li><span>Wto 18:48</span> <a href="http://budownictwo.wnp.pl/rzad-i-pge-beda-szukac-innych-rozwiazan-niz-rozbudowa-opola,194834_1_0_0.html">Rząd i PGE będą szukać innych rozwiązań niż rozbudowa Opola</a></li>
+												<li><span>Wto 18:36</span> <a href="http://budownictwo.wnp.pl/mostostal-warszawa-ma-kontrakt-za-prawie-158-mln-zl,194833_1_0_0.html">Mostostal Warszawa ma kontrakt za prawie 158 mln zł</a></li>
+											</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://budownictwo.wnp.pl/cement-moze-zdrozec,194783_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/742/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://budownictwo.wnp.pl/cement-moze-zdrozec,194783_1_0_0.html" class="smFTitle">Cement może zdrożeć?</a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://finanse.wnp.pl/gielda/indeksy/WIG-BUDOW.html">WIG-BUDOW</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://finanse.wnp.pl/gielda/indeksy/WIG-DEWEL.html">WIG-DEWEL</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/tematy_serwis/,3456_0_0.html">PPP</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://budownictwo.wnp.pl/notowania/materialy-budowlane/">Ceny materiałów</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/nieruchomosci/">Nieruchomości</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/nieruchomosci_oferty/lista.html">Ogłoszenia</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/katalog/89.html">Firmy z branży</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+		<li class="msubs" id="mit">
+			<a style="margin-left:5px" href="http://it.wnp.pl/">IT</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale IT:</p>
+					<ul>
+												<li><span>Wto 19:19</span> <a href="http://it.wnp.pl/nsa-oddalil-skargi-kasacyjne-ws-rezerwacji-czestotliwosci-900-mhz-dla-p4-i-aero2,194838_1_0_0.html">NSA oddalił skargi kasacyjne ws. rezerwacji częstotliwości 900 MHz dla P4 i Aero2</a></li>
+												<li><span>Wto 14:52</span> <a href="http://it.wnp.pl/zagrozone-dane-w-urzadzeniach-mobilnych,194799_1_0_0.html">Zagrożone dane w urządzeniach mobilnych</a></li>
+												<li><span>Wto 14:50</span> <a href="http://it.wnp.pl/elektroniczny-sejf-z-polski-poufnosc-i-bezpieczenstwo-danych,194797_1_0_0.html">Elektroniczny sejf z Polski: poufność i bezpieczeństwo danych</a></li>
+											</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://it.wnp.pl/co-zastepuje-typowe-systemy-finansowo-ksiegowe,194750_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/727/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://it.wnp.pl/co-zastepuje-typowe-systemy-finansowo-ksiegowe,194750_1_0_0.html" class="smFTitle">Co zastępuje typowe systemy finansowo-księgowe? </a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://finanse.wnp.pl/gielda/indeksy/WIG-INFO.html">WIG-INFO</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://finanse.wnp.pl/gielda/indeksy/WIG-TELKO.html">WIG-TELKO</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://finanse.wnp.pl/gielda/indeksy/WIG-MEDIA.html">WIG-MEDIA</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://it.wnp.pl/najciekawsze_z_najlepszych/">Najciekawsze wdrożenia IT</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/parki_technologiczne/">Parki technologiczne</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/katalog/241.html">Firmy z branży</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+		<li id="mlog">
+			<a class="selected" style="margin-left:5px" href="http://logistyka.wnp.pl/">LOGISTYKA</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale Logistyka:</p>
+					<ul>
+												<li><span>05:25</span> <a href="http://logistyka.wnp.pl/zamknieto-dla-turystow-przejscie-graniczne-miedzy-chinami-i-korea-pln,194851_1_0_0.html">Zamknięto dla turystów przejście graniczne między Chinami i Koreą Płn.</a></li>
+												<li><span>05:24</span> <a href="http://logistyka.wnp.pl/senatorzy-przeciw-wymianie-praw-jazdy,194850_1_0_0.html">Senatorzy przeciw wymianie praw jazdy</a></li>
+												<li><span>Wto 22:05</span> <a href="http://logistyka.wnp.pl/polskie-porty-coraz-atrakcyjniejsze-dla-czechow,194733_1_0_0.html">Polskie porty coraz atrakcyjniejsze dla Czechów</a></li>
+											</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://logistyka.wnp.pl/przetarg-kolei-slaskich-czy-zbigniew-majcherek-zasluzyl-na-zaufanie,194853_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/763/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://logistyka.wnp.pl/przetarg-kolei-slaskich-czy-zbigniew-majcherek-zasluzyl-na-zaufanie,194853_1_0_0.html" class="smFTitle">Przetarg Kolei Śląskich: Czy Zbigniew Majcherek zasłużył na zaufanie? </a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://transport-kolejowy.wnp.pl/">Transport kolejowy</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://nafta.wnp.pl/ceny_paliw/">Ceny paliw</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://nafta.wnp.pl/stacje_paliw/">Stacje paliw</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/nieruchomosci/">Nieruchomości</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/katalog/249.html">Firmy z branży</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+		<li class="msubs" id="mmot">
+			<a style="margin-left:5px" href="http://motoryzacja.wnp.pl/">MOTORYZACJA</a>
+			<div class="menus">
+				<div class="smLeft">
+					<p>Najnowsze informacje w dziale Motoryzacja:</p>
+					<ul>
+												<li><span>07:34</span> <a href="http://motoryzacja.wnp.pl/rynek-jednosladow-kurczy-sie,194860_1_0_0.html">Rynek jednośladów kurczy się</a></li>
+												<li><span>05:24</span> <a href="http://motoryzacja.wnp.pl/senatorzy-przeciw-wymianie-praw-jazdy,194850_1_0_0.html">Senatorzy przeciw wymianie praw jazdy</a></li>
+												<li><span>Wto 17:29</span> <a href="http://motoryzacja.wnp.pl/ford-transit-courier-uzupelnia-rodzine-transita,194825_1_0_0.html">Ford Transit Courier uzupełnia rodzinę Transita</a></li>
+											</ul>
+				</div>
+				<div class="smCenter clearfix">
+					<p>Ważne:</p>
+					<a href="http://motoryzacja.wnp.pl/przemysl-stalowy-szuka-dodatkowych-zarobkow-w-motoryzacji,194811_1_0_0.html" class="smFoto"><img src="http://k.wnp.pl/i/070/753/m120xd.jpg" width="120" height="80" alt=""/></a>
+					<a href="http://motoryzacja.wnp.pl/przemysl-stalowy-szuka-dodatkowych-zarobkow-w-motoryzacji,194811_1_0_0.html" class="smFTitle">Przemysł stalowy szuka dodatkowych zarobków w motoryzacji</a>
+				</div>
+				<div class="smRight">
+					<p>Polecane w serwisie:</p>
+										<ul>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://nafta.wnp.pl/stacje_paliw/ceny_paliw_w_polsce/">Ceny paliw w Polsce</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://nafta.wnp.pl/ceny_paliw_europa/">Ceny paliw w Europie</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://nafta.wnp.pl/stacje_paliw/">Stacje paliw</a>&nbsp;&nbsp;<span>&bull;</span>&nbsp;												<a href="http://www.wnp.pl/katalog/261.html">Firmy z branży</a>												</li>
+												<li><span>&bull;</span>&nbsp;
+												<a href="http://www.wnp.pl/tematy_serwis/,15638_0_0.html">Technika motoryzacyjna</a>												</li>
+											</ul>
+									</div>
+			</div>
+		</li>
+
+	</ul>
+	
+		<div class="smWcentrum">
+		W CENTRUM UWAGI:
+				<a href="http://www.wnp.pl/tematy_serwis/,2231_0_0.html">INFRASTRUKTURA DROGOWA</a>
+				<a href="http://budownictwo.wnp.pl/inwestycje_kolejowe/">INFRASTRUKTURA KOLEJOWA</a>
+				<a href="http://www.wnp.pl/tematy_serwis/,2880_0_0.html">MAGAZYNY</a>
+				<a href="http://www.wnp.pl/tematy_serwis/,16978_0_0.html">PRZEWOZY TOWAROWE</a>
+				<a href="http://www.wnp.pl/tematy_serwis/,15632_0_0.html">PRZEWOZY PASAŻERSKIE</a>
+			</div>
+		
+</div>
+		
+				<div id="content" class="clearfix">
+
+			<div id="colLeft">
+																	<div class="border3B2 clearfix">
+		<ul class="breadCrumbs">
+	<li>&nbsp;&nbsp;<a href="http://www.wnp.pl/">wnp.pl</a>&nbsp;&nbsp;&raquo;</li>
+	<li><a href="http://logistyka.wnp.pl/">logistyka</a>&nbsp;&nbsp;&raquo;</li>	<li><a href="http://logistyka.wnp.pl/,0_1_3_0.html">Najnowsze wiadomości</a></li>
+</ul>		<ul class="functionButtons clearfix">
+			<li><a class="a1 fontSize" href="javascript:void(0);" rel="12"></a></li>
+			<li><a class="a2 fontSize" href="javascript:void(0);" rel="13"></a></li>
+			<li><a class="a3 fontSize" href="javascript:void(0);" rel="15"></a></li>
+			<li><a class="print" href="http://www.wnp.pl/drukuj/159293_1.html" rel="external">drukuj</a></li>
+			<li><a class="forward" href="mailto:?subject=Polecam tekst z Portalu WNP.PL&amp;body=Polecam tekst pod adresem: http://logistyka.wnp.pl/terminal-1-lotnisku-chopina-do-generalnego-remontu,159293_1_0_0.html">wyślij</a></li>
+					</ul>
+	</div>
+
+	<a name="contentTextTop"></a>
+	<div id="contentText" class="news">
+		<h2>Terminal 1 Lotnisku Chopina do generalnego remontu</h2>
+		
+					<div class="articleMenu clearfix">
+				<a id="aM1" class="tabs selected" href="javascript:void(0);">Artykuł</a>
+																							</div>
+				
+				
+		<div class="clearfix">
+			<div class="fbC"></div>
+					</div>
+		
+		<div class="signature">
+			Autor:&nbsp;&nbsp;wnp.pl (PS)&nbsp;&nbsp;|&nbsp;			04-01-2012 08:25
+			
+					</div>
+		<div class="head">
+			Zarządca Lotniska Chopina w Warszawie, Przedsiębiorstwo Porty Lotnicze, ogłosił przetarg na wybór generalnego wykonawcy przebudowy starej części terminala tego dworca.
+		</div>
+				
+		
+		<div id="taM1" style="display:block;">		
+									<div class="clearfix mbot">
+							</div>
+									
+			<div class="body clearfix">
+			
+				<p class="firstp">Jest to strefa AB, dawniej nazywana Terminalem 1. Zostanie ona zamknięta dla pasażerów tuż po zakończeniu UEFA EURO 2012.</p>				<!-- Belka B a.ptwp.pl -->
+<div class="advG">
+	<!--/* OpenX Javascript Tag v2.8.5 (Rich Media - Doubleclick) */-->
+	
+	<script type='text/javascript'><!--//<![CDATA[
+	   document.MAX_ct0 ='%c';
+	
+	   var m3_u = (location.protocol=='https:'?'https://a.ptwp.pl/delivery/ajs.php':'http://a.ptwp.pl/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=23");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+	       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+	   }
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script>
+	
+</div>
+
+				
+														<div class="lake">
+						<div class="mbot">
+							<!-- AddThis Button BEGIN -->
+							<div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+								<a class="addthis_button_facebook" title="Wyślij do Facebook"></a>
+								<a class="addthis_button_google" title="Wyślij do Google"></a>
+								<a class="addthis_button_wykop" title="Wyślij do Wykop"></a>
+								<a class="addthis_button_naszaklasa" title="Wyślij do Nasza-klasa"></a>
+								<a class="addthis_button_twitter" title="Wyślij do Twitter"></a>
+								<a class="addthis_button_blip" title="Wyślij do Blip"></a>
+								<a class="addthis_button_compact"></a>
+								<a class="addthis_counter addthis_bubble_style"></a>
+							</div>
+							<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e41073d2b0dded4"></script>
+							<!-- AddThis Button END -->
+							
+							<script type="text/javascript">
+							var addthis_config = {
+							     ui_language: "pl",
+							     services_expanded: "facebook,google,wykop,naszaklasa",
+							     services_compact: "facebook,google,wykop,naszaklasa,twitter,blip,linkedin,flaker,gmail,email"
+							}
+							
+							</script>
+							
+						</div>
+								
+												
+																		<div class="island">
+							<div class="sz">
+							<h3>ZOBACZ TAKŻE</h3>
+																									<div class="szF">
+										<a href="http://budownictwo.wnp.pl/krakow-airport-ma-inwestora-zastepczego-do-rozbudowy-portu,192979_1_0_0.html"><img src="http://k.wnp.pl/i/070/007/m200xd.jpg" alt="" /></a>
+										<p><a href="http://budownictwo.wnp.pl/krakow-airport-ma-inwestora-zastepczego-do-rozbudowy-portu,192979_1_0_0.html">Kraków Airport ma inwestora zastępczego do rozbudowy portu</a></p>
+									</div>
+																							
+								<ul>
+																	<li><span></span><a href="http://budownictwo.wnp.pl/budimex-ma-zlecenie-na-okeciu-za-ponad-100-mln-zl,194629_1_0_0.html">Budimex ma zlecenie na Okęciu za ponad 100 mln zł</a></li>
+																									<li><span></span><a href="http://www.wnp.pl/artykuly/lotniska-ida-w-gore,6343.html">Lotniska idą w górę</a></li>
+																	<li><span></span><a href="http://www.wnp.pl/artykuly/latanie-na-swoim,5659.html">Latanie na swoim</a></li>
+																</ul>
+							</div>
+						</div>
+												
+	
+											</div>
+										
+					
+										
+				<p class="firstp">Przeznaczony do modernizacji budynek terminala wybudowany został na początku lat 90. I ze względu na stan techniczny, wymaga gruntownego remontu. Przy tej okazji stara część zostanie całkowicie zintegrowana z nową częścią. <br /><br />Modernizacja d. Terminala 1 polegająca na jego przebudowie, rozbudowie oraz dostosowaniu do obowiązujących standardów obsługi: pasażerów, bagażu i bezpieczeństwa ruchu lotniczego. Zamówienie obejmuje także zaprojektowanie i wykonanie systemu obsługi bagażu, zintegrowanego z takim systemem w strefie T2 oraz budowę 60 m pieszego tunelu podziemnego, który połączy istniejącą stację kolejowej ze strefą T1 Terminala A.<br /><br />Po przebudowie cały Terminal A będzie stanowił jedną bryłę, całkowicie jednolitą pod względem architektonicznym, technicznym i funkcjonalnym. <br /><br />Otwarcie przebudowanej części terminala planowane jest na koniec 2014 r.<br /></p>							</div>
+
+						
+						
+			<div class="border3T p7t clearfix">
+				<div class="fbC">
+										<div class="fb">
+						<!--[if IE]>
+							<iframe src="http://www.facebook.com/plugins/like.php?locale=pl_PL&amp;href=http%3A%2F%2Flogistyka.wnp.pl%2Fterminal-1-lotnisku-chopina-do-generalnego-remontu%2C159293_1_0_0.html&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=dark&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:100px;height:25px" allowTransparency="true"></iframe>
+						<![endif]-->
+						<!--[if !IE]>-->
+							<object data="http://www.facebook.com/plugins/like.php?locale=pl_PL&amp;href=http%3A%2F%2Flogistyka.wnp.pl%2Fterminal-1-lotnisku-chopina-do-generalnego-remontu%2C159293_1_0_0.html&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=dark&amp;height=20" type="text/html" style="border:none; overflow:hidden;width:100px;height:20px"></object>
+						<!--<![endif]-->
+					</div>
+													
+					<div style="">
+						<!-- AddThis Button BEGIN -->
+						<div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+							<a class="addthis_button_facebook" title="Wyślij do Facebook"></a>
+							<a class="addthis_button_google" title="Wyślij do Google"></a>
+							<a class="addthis_button_wykop" title="Wyślij do Wykop"></a>
+							<a class="addthis_button_naszaklasa" title="Wyślij do Nasza-klasa"></a>
+							<a class="addthis_button_twitter" title="Wyślij do Twitter"></a>
+							<a class="addthis_button_blip" title="Wyślij do Blip"></a>
+							<a class="addthis_button_compact"></a>
+							<a class="addthis_counter addthis_bubble_style"></a>
+						</div>
+						<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e41073d2b0dded4"></script>
+						<!-- AddThis Button END -->
+						
+						<script type="text/javascript">
+						var addthis_config = {
+						     ui_language: "pl",
+						     services_expanded: "facebook,google,wykop,naszaklasa",
+						     services_compact: "facebook,google,wykop,naszaklasa,twitter,blip,linkedin,flaker,gmail,email"
+						}
+						
+						</script>
+						
+					</div>
+				</div>
+				<div class="part half clearfix">
+										<div id="commentOneC">
+	
+		<script type="text/javascript">
+		$(document).ready(function(){
+			get_forumax(159293,1,'Skomentuj (0)');
+		});
+		</script>
+	
+	<div id="axComForm"></div>
+</div>
+
+									</div>
+				
+			</div>
+		
+	
+	
+	
+					
+		
+		
+		
+		
+		
+							<div class="keywordsN">
+					<div class="keywordsNT clearfix">
+						<div class="fleft"><a href="http://www.wnp.pl/lista_tematy/">Słowa kluczowe</a> / <a href="http://www.wnp.pl/alerty.html">Alerty</a></div>
+						<div class="fright"><a href="http://www.wnp.pl/alerty.html">&raquo; Dowiedz się więcej o subskrybowaniu powiadomień</a></div>
+					</div>
+										
+											<div class="clearfix">
+							<div class="fleft half">
+																					<a class="alertRSS" href="http://www.wnp.pl/tematy_serwis/,2799_0_0.html">
+														lotniska
+							</a>							&nbsp;<a class="rssN" href="http://s1.hit.stat24.com/hitredir/id=ba06EQbE53RD57EdO0Hq4Jev7J9g1JCZAdVkANX_5JD.z7/url=http://www.wnp.pl/rss/serwis_rss_999_2799.xml">RSS</a>
+															&nbsp;<a class="alertN" href="https://www.ptwp.pl/alert/wnp-alert.html" title="zamów informacje z tematu: lotniska">ALERT</a>&nbsp;
+														<br />
+													</div>
+							<div class="fright half">
+																					<a class="alertRSS" href="http://www.wnp.pl/tematy_serwis/,3328_0_0.html">
+														Okęcie
+							</a>							&nbsp;<a class="rssN" href="http://s1.hit.stat24.com/hitredir/id=ba06EQbE53RD57EdO0Hq4Jev7J9g1JCZAdVkANX_5JD.z7/url=http://www.wnp.pl/rss/serwis_rss_999_3328.xml">RSS</a>
+															&nbsp;<a class="alertN" href="https://www.ptwp.pl/alert/wnp-alert.html" title="zamów informacje z tematu: Okęcie">ALERT</a>&nbsp;
+														<br />
+													</div>
+						</div>
+									</div>
+						
+						
+							<div class="recN m20top">
+					<div class="recTitleN"><a href="http://www.wnp.pl/">Najważniejsze informacje WNP.PL</a></div>
+					
+					<ul class="recItemN clearfix">
+												<li>
+							<a href="http://logistyka.wnp.pl/przetarg-kolei-slaskich-czy-zbigniew-majcherek-zasluzyl-na-zaufanie,194853_1_0_0.html"><img src="http://k.wnp.pl/i/070/763/m120xd.jpg" width="120" height="80" alt="" /></a>
+							<a href="http://logistyka.wnp.pl/przetarg-kolei-slaskich-czy-zbigniew-majcherek-zasluzyl-na-zaufanie,194853_1_0_0.html">Przetarg Kolei Śląskich: Czy Zbigniew Majcherek zasłużył na zaufanie? </a>
+						</li>
+												<li>
+							<a href="http://logistyka.wnp.pl/miazdzaca-kontrola-nik-w-pkp-polskie-linie-kolejowe,194746_1_0_0.html"><img src="http://k.wnp.pl/i/070/721/m120xd.jpg" width="120" height="80" alt="" /></a>
+							<a href="http://logistyka.wnp.pl/miazdzaca-kontrola-nik-w-pkp-polskie-linie-kolejowe,194746_1_0_0.html">Miażdżąca kontrola NIK w PKP Polskie Linie Kolejowe</a>
+						</li>
+												<li>
+							<a href="http://gornictwo.wnp.pl/markowski-zniszcza-gornictwo-wraz-z-kooperantami,194856_1_0_0.html"><img src="http://k.wnp.pl/i/070/764/m120xd.jpg" width="120" height="80" alt="" /></a>
+							<a href="http://gornictwo.wnp.pl/markowski-zniszcza-gornictwo-wraz-z-kooperantami,194856_1_0_0.html">Markowski: zniszczą górnictwo wraz z kooperantami</a>
+						</li>
+												<li class="last">
+							<a href="http://finanse.wnp.pl/premier-nadrabia-zaleglosci-w-afryce,194852_1_0_0.html"><img src="http://k.wnp.pl/i/070/762/m120xd.jpg" width="120" height="80" alt="" /></a>
+							<a href="http://finanse.wnp.pl/premier-nadrabia-zaleglosci-w-afryce,194852_1_0_0.html">Premier nadrabia zaległości w Afryce</a>
+						</li>
+											</ul>
+				</div>
+							
+					
+		
+		
+		
+		
+		
+		</div>		
+		
+				
+				
+				
+				
+					
+	</div>
+
+	
+
+												</div>
+			<div id="colRight">
+				 				<div class="partnerS">
+		
+		
+	
+	
+		
+		
+		
+		
+		
+		<div>
+		<div class="partnerSRotator clearfix">
+			<div class="title1"></div>
+			<ul class="clearfix">
+				<li class="show"><a href="http://www.wnp.pl/klik/biuletyn/pkpcargo|20130401.xml?http://www.pkp-cargo.pl/"><img src="http://p.wnp.pl/images/i/partners/pkpcargo.gif" width="170" height="59" alt="" /></a></li>
+			</ul>
+		</div>
+	</div>
+		
+		
+		
+		
+	
+	
+
+</div>
+
+
+
+								<div class="listBox">
+	<div class="title clearfix"><div class="te"></div>&nbsp;NAJWAŻNIEJSZE W BRANŻY</div>
+	
+				<div class="popFoto clearfix">
+			<a href="http://logistyka.wnp.pl/przetarg-kolei-slaskich-czy-zbigniew-majcherek-zasluzyl-na-zaufanie,194853_1_0_0.html"><img src="http://k.wnp.pl/i/070/763/m120xd.jpg" width="120" height="80" alt="" /></a>
+			<a href="http://logistyka.wnp.pl/przetarg-kolei-slaskich-czy-zbigniew-majcherek-zasluzyl-na-zaufanie,194853_1_0_0.html">Przetarg Kolei Śląskich: Czy Zbigniew Majcherek zasłużył na zaufanie?</a>
+		</div>
+			<div class="popFoto clearfix">
+			<a href="http://logistyka.wnp.pl/firmy-transportowe-ograniczaja-moce,194763_1_0_0.html"><img src="http://k.wnp.pl/i/070/733/m120xd.jpg" width="120" height="80" alt="" /></a>
+			<a href="http://logistyka.wnp.pl/firmy-transportowe-ograniczaja-moce,194763_1_0_0.html">Firmy transportowe ograniczają moce</a>
+		</div>
+			
+	<div class="pop2 clearfix">
+		<a id="pop2_one" class="tabs selected" href="javascript:void(0);">Ostatnio dodane</a>
+		<a id="pop2_two" class="tabs" href="javascript:void(0);">Najpopularniejsze</a>
+		<a id="pop2_three" class="tabs" href="javascript:void(0);">Komentowane</a>
+	</div>
+				
+	<div id="tpop2_one" style="display:block">
+		<div class="list33">
+							<p><strong>05:45</strong> <a href="http://logistyka.wnp.pl/przetarg-kolei-slaskich-czy-zbigniew-majcherek-zasluzyl-na-zaufanie,194853_1_0_0.html">Przetarg Kolei Śląskich: Czy Zbigniew Majcherek zasłużył na zaufanie?</a></p>
+							<p><strong>05:25</strong> <a href="http://logistyka.wnp.pl/zamknieto-dla-turystow-przejscie-graniczne-miedzy-chinami-i-korea-pln,194851_1_0_0.html">Zamknięto dla turystów przejście graniczne między Chinami i Koreą Płn.</a></p>
+							<p><strong>05:24</strong> <a href="http://logistyka.wnp.pl/senatorzy-przeciw-wymianie-praw-jazdy,194850_1_0_0.html">Senatorzy przeciw wymianie praw jazdy</a></p>
+							<p><strong>21:17 Wto</strong> <a href="http://logistyka.wnp.pl/oceaniczne-przewozy-kontenerowe-dotknely-dna,194847_1_0_0.html">Oceaniczne przewozy kontenerowe dotknęły dna</a></p>
+							<p><strong>20:28 Wto</strong> <a href="http://logistyka.wnp.pl/pociag-rzd-23-24-moskwa-paryz-teraz-rowniez-w-strasburgu,194843_1_0_0.html">Pociąg RŻD 23/24 Moskwa-Paryż teraz również w Strasburgu</a></p>
+							<p><strong>15:51 Wto</strong> <a href="http://logistyka.wnp.pl/samorzadowcy-z-woj-warminsko-mazurskiego-przeciw-zawieszeniu-linii-kolejowych,194805_1_0_0.html">Samorządowcy z woj. warmińsko-mazurskiego przeciw zawieszeniu linii kolejowych</a></p>
+							<p><strong>14:55 Wto</strong> <a href="http://logistyka.wnp.pl/sis-ii-system-informacji-o-przestepstwach-w-strefie-schengen,194800_1_0_0.html">SIS II - system informacji o przestępstwach w strefie Schengen</a></p>
+							<p><strong>14:47 Wto</strong> <a href="http://logistyka.wnp.pl/lot-ma-drugi-zastepczy-samolot-w-miejsce-dreamlinera,194796_1_0_0.html">LOT ma drugi zastępczy samolot w miejsce Dreamlinera</a></p>
+							<p><strong>13:54 Wto</strong> <a href="http://logistyka.wnp.pl/prezes-lotniska-w-lublinie-podroz-samolotem-to-standard,194790_1_0_0.html">Prezes lotniska w Lublinie: podróż samolotem to standard</a></p>
+							<p><strong>12:21 Wto</strong> <a href="http://logistyka.wnp.pl/niewielki-wzrost-liczby-pasazerow-na-lotnisku-we-wroclawiu,194778_1_0_0.html">Niewielki wzrost liczby pasażerów na lotnisku we Wrocławiu</a></p>
+					</div>
+	</div>
+	<div id="tpop2_two">
+		<div class="list33">
+							<p><strong>1.</strong> <a href="http://logistyka.wnp.pl/polska-specjalnosc-produkcja-wiroplatow,194048_1_0_0.html">Polska specjalność - produkcja wiropłatów</a></p>
+							<p><strong>2.</strong> <a href="http://logistyka.wnp.pl/strabag-jednak-jeszcze-nie-podpisal-kontraktu-na-odcinek-s8,194191_1_0_0.html">Strabag jednak jeszcze nie podpisał kontraktu na odcinek S8</a></p>
+							<p><strong>3.</strong> <a href="http://logistyka.wnp.pl/dziwny-kontrakt-kolei-slaskich,193772_1_0_0.html">Dziwny kontrakt Kolei Śląskich</a></p>
+							<p><strong>4.</strong> <a href="http://logistyka.wnp.pl/mostostal-warszawa-buduje-nasypy-ze-zuzytych-opon,193182_1_0_0.html">Mostostal Warszawa buduje nasypy ze zużytych opon</a></p>
+							<p><strong>5.</strong> <a href="http://logistyka.wnp.pl/przetarg-za-1-mld-zl-na-dokonczenie-odcinka-a4-rozstrzygniety,193718_1_0_0.html">Przetarg za 1 mld zł na dokończenie odcinka A4 rozstrzygnięty</a></p>
+							<p><strong>6.</strong> <a href="http://logistyka.wnp.pl/grupa-azoty-wejdzie-do-lot-u-by-odstraszyc-rosjan,194647_1_0_0.html">Grupa Azoty wejdzie do LOT-u, by odstraszyć Rosjan?</a></p>
+							<p><strong>7.</strong> <a href="http://logistyka.wnp.pl/autostrady-za-pol-ceny-czy-to-sie-moze-udac,193693_1_0_0.html">Autostrady za pół ceny - czy to się może udać?</a></p>
+							<p><strong>8.</strong> <a href="http://logistyka.wnp.pl/polimex-mostostal-znow-ma-wiecej-czasu-na-dokonczenie-s69,194534_1_0_0.html">Polimex-Mostostal znów ma więcej czasu na dokończenie S69</a></p>
+							<p><strong>9.</strong> <a href="http://logistyka.wnp.pl/w-2013-moga-ruszyc-przetargi-drogowe-za-32-1-mld-zl,193841_1_0_0.html">W 2013 mogą ruszyć przetargi drogowe za 32,1 mld zł</a></p>
+							<p><strong>10.</strong> <a href="http://logistyka.wnp.pl/wlosko-polskie-konsorcjum-z-umowami-na-dokonczenie-odcinkow-a1,194362_1_0_0.html">Włosko-polskie konsorcjum z umowami na dokończenie odcinków A1</a></p>
+					</div>
+	</div>
+	<div id="tpop2_three">
+		<div class="list33">
+							<p><strong>1.</strong> <a href="http://forum.wnp.pl/topic/137197-polskie-gornictwo-skazane-na-porazke/">Polskie górnictwo skazane na porażkę?</a></p>
+							<p><strong>2.</strong> <a href="http://forum.wnp.pl/topic/137298-gornictwo-moga-prywatyzowac-a-moze-i-konsolidowac/">Górnictwo: mogą prywatyzować, a może i konsolidować </a></p>
+							<p><strong>3.</strong> <a href="http://forum.wnp.pl/topic/137243-pge-coraz-blizej-wycofania-sie-z-budowy-blokow-w-opolu/">PGE coraz bliżej wycofania się z budowy bloków w Opolu?</a></p>
+							<p><strong>4.</strong> <a href="http://forum.wnp.pl/topic/137333-pge-zrezygnowala-z-budowy-nowych-blokow-w-opolu/">PGE zrezygnowała z budowy nowych bloków w Opolu</a></p>
+							<p><strong>5.</strong> <a href="http://forum.wnp.pl/topic/137424-zamknac-kopalnie-i-co-dalej/">Zamknąć kopalnie i co dalej?</a></p>
+							<p><strong>6.</strong> <a href="http://forum.wnp.pl/topic/137517-globalne-zidiocenie/">Globalne zidiocenie</a></p>
+							<p><strong>7.</strong> <a href="http://forum.wnp.pl/topic/137212-rosjanie-krok-po-kroku-zwiekszaja-udzialy-w-za-tarnow/">Rosjanie krok po kroku zwiększają udziały w ZA Tarnów?</a></p>
+							<p><strong>8.</strong> <a href="http://forum.wnp.pl/topic/137354-ekpert-fatalna-decyzja-pge-ws-blokow-el-opole/">Ekpert: fatalna decyzja PGE ws. bloków El. Opole</a></p>
+							<p><strong>9.</strong> <a href="http://forum.wnp.pl/topic/137331-zwiazkowcy-z-pulaw-spotkaja-sie-z-zarzadem-za-tarnow-ws-umowy-spolecznej/">Związkowcy z Puław spotkają się z zarządem ZA Tarnów ws. umowy społecznej</a></p>
+							<p><strong>10.</strong> <a href="http://forum.wnp.pl/topic/137268-rezygnacja-z-opola-dobra-dla-pge-negatywna-dla-wykonawcow/">Rezygnacja z Opola dobra dla PGE, negatywna dla wykonawców</a></p>
+					</div>
+	</div>
+</div>
+								<div class="advE">
+
+
+					<div id='bmone2n-184.11.2.2'>
+		</div>
+	</div>
+																								<div class="advC clearfix">
+<!-- button C a.ptwp.pl -->
+<!--/* OpenX Javascript Tag v2.8.5 (Rich Media - Doubleclick) */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='%c';
+
+   var m3_u = (location.protocol=='https:'?'https://a.ptwp.pl/delivery/ajs.php':'http://a.ptwp.pl/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=88");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</div>
+								<div class="listBox">
+	<div class="title clearfix">
+		<div class="fleft">
+			<div class="te"></div>
+			<a class="tt" href="http://forum.wnp.pl/">FORUM</a>
+		</div>
+	</div>
+	<div class="menuBranza">
+		<ul class="first clearfix">
+			<li>
+				<a class="mainT" href="javascript:void(0);">WYBIERZ SERWIS</a>
+				<ul class="second clearfix">
+					<li>
+						<a href="http://forum.wnp.pl/">WNP.PL</a>
+						<a href="http://forum.wnp.pl/forum/7-energetyka-gaz-gornictwo/">ENERGETYKA, GAZ GÓRNICTWO</a>
+						<a href="http://forum.wnp.pl/forum/8-hutnictwo-budownictwo/">HUTNICTWO, BUDOWNICTWO</a>
+						<a href="http://forum.wnp.pl/forum/9-nafta-chemia/">NAFTA, CHEMIA</a>
+						<a href="http://forum.wnp.pl/forum/10-logistyka-motoryzacja/">LOGISTYKA, MOTORYZACJA</a>
+						<a href="http://forum.wnp.pl/forum/11-it-telekomunikacja/">IT, TELEKOMUNIKACJA</a>
+						<a href="http://forum.wnp.pl/forum/12-finanse-prawo-praca/">FINANSE, PRAWO, PRACA</a>
+						<a href="http://forum.wnp.pl/forum/20-inne-branze/">INNE BRANŻE</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<div class="forumBox">
+		<a class="grayTitle" href="http://forum.wnp.pl/">WNP.PL</a>
+					<p><a href="http://forum.wnp.pl/topic/137571-protest-pracownikow-pkn-orlen-zwiazki-groza-strajkiem/">Protest pracowników PKN Orlen - związki grożą strajkiem</a></p>
+			<div class="tr"><a href="http://forum.wnp.pl/topic/137571-protest-pracownikow-pkn-orlen-zwiazki-groza-strajkiem/"><strong>Gość:</strong> JESTEM ZA PANOWIE TRZYMAJCIE SIE RAZEM !!! DACIE RADE !!!</a></div>
+					<p><a href="http://forum.wnp.pl/topic/137571-protest-pracownikow-pkn-orlen-zwiazki-groza-strajkiem/">Protest pracowników PKN Orlen - związki grożą strajkiem</a></p>
+			<div class="tr"><a href="http://forum.wnp.pl/topic/137571-protest-pracownikow-pkn-orlen-zwiazki-groza-strajkiem/"><strong>Orlen=Anwil:</strong> &quot;Syscyplina finansowa oraz optymalizacja kosztówm...</a></div>
+					<p><a href="http://forum.wnp.pl/topic/137517-globalne-zidiocenie/">Globalne zidiocenie</a></p>
+			<div class="tr"><a href="http://forum.wnp.pl/topic/137517-globalne-zidiocenie/"><strong>Gość:</strong> Kolejny mistrz riposty, który teraz wyciąga IPCC z kapelusza!...</a></div>
+					<p><a href="http://forum.wnp.pl/topic/137577-cement-moze-zdrozec/">Cement może zdrożeć?</a></p>
+			<div class="tr"><a href="http://forum.wnp.pl/topic/137577-cement-moze-zdrozec/"><strong>owo:</strong> Tak oto &quot;geniusze&quot; z UE niszczą resztki przemysłu! Nawet...</a></div>
+			</div>
+</div>
+												
+				<div class="advD clearfix">
+<!-- Button D a.ptwp.pl -->
+<!--/* OpenX Javascript Tag v2.8.5 (Rich Media - Doubleclick) */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='%c';
+
+   var m3_u = (location.protocol=='https:'?'https://a.ptwp.pl/delivery/ajs.php':'http://a.ptwp.pl/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=49");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</div>
+			</div>
+						<div id="sidebar">
+
+			</div>
+						
+		</div>
+	
+	</div>
+		<div id="footer">
+	<div class="fMenu clearfix">
+		<div class="col1">
+			<h1>Fakty i opinie</h1>
+			<ul>
+				<li><a href="http://www.wnp.pl/artykul/">Artykuły</a></li>
+				<li><a href="http://www.wnp.pl/galerie">Fotogalerie</a></li>
+				<li><a href="http://www.wnp.pl/konferencje/">Konferencje</a></li>
+				<li><a href="http://www.wnp.pl/artykuly/">Nowy Przemysł</a></li>
+				<li><a href="http://www.wnp.pl/informacje/,0_1_3_0.html">Polska i świat</a></li>
+				<li><a href="http://www.wnp.pl/puls-gospodarki/,0_1_3_0.html">Puls gospodarki</a></li>
+				<li><a href="http://www.wnp.pl/sondy.html">Sonda</a></li>
+				<li><a href="http://www.wnp.pl/wnp-tv/">wnp.pl TV</a></li>
+				<li><a href="http://www.wnp.pl/wiadomosci/">Wiadomości</a></li>
+			</ul>
+			
+			<h1>Notowania</h1>
+			<ul>
+				<li><a href="http://nafta.wnp.pl/ceny_paliw/">Ceny paliw</a></li>
+				<li><a href="http://finanse.wnp.pl/akcje/">Giełda</a></li>
+				<li><a href="http://finanse.wnp.pl/newconnect/">New Connect</a></li>
+				<li><a href="http://finanse.wnp.pl/kursy_walut/">Waluty</a></li>
+			</ul>
+		</div>
+		<div class="col2">
+			<h1>Branże</h1>
+			<ul>
+				<li><a href="http://energetyka.wnp.pl/">Energetyka</a></li>
+				<li><a href="http://gazownictwo.wnp.pl/">Gaz</a></li>
+				<li><a href="http://gornictwo.wnp.pl/">Górnictwo</a></li>
+				<li><a href="http://hutnictwo.wnp.pl/">Hutnictwo</a></li>
+				<li><a href="http://nafta.wnp.pl/">Nafta</a></li>
+				<li><a href="http://chemia.wnp.pl/">Chemia</a></li>
+				<li><a href="http://budownictwo.wnp.pl/">Budownictwo</a></li>
+				<li><a href="http://it.wnp.pl/">IT</a></li>
+				<li><a href="http://logistyka.wnp.pl/">Logistyka</a></li>
+				<li><a href="http://motoryzacja.wnp.pl/">Motoryzacja</a></li>
+				<li><a href="http://finanse.wnp.pl/">Finanse</a></li>
+				<li><a href="http://praca.wnp.pl/">Praca</a></li>
+			</ul>
+		</div>
+		<div class="col3">	
+			<h1>Serwisy tematyczne</h1>
+			<ul>
+				<li><a href="http://nafta.wnp.pl/biopaliwa/">Biopaliwa</a></li>
+				<li><a href="http://energetyka.wnp.pl/cieplownictwo/">Ciepłownictwo</a></li>
+				<li><a href="http://www.wnp.pl/czyste_technologie_weglowe/">Czyste technologie węglowe</a></li>
+				<li><a href="http://nafta.wnp.pl/downstream/">Downstream</a></li>
+				<li><a href="http://energetyka.wnp.pl/elektrocieplownie/">Elektrociepłownie</a></li>
+				<li><a href="http://energetyka.wnp.pl/elektrownie/">Elektrownie</a></li>
+				<li><a href="http://energetyka.wnp.pl/energetyka_atomowa/">Energetyka atomowa</a></li>
+				<li><a href="http://energetyka.wnp.pl/energetyka_gazowa/">Energetyka gazowa</a></li>
+				<li><a href="http://www.eecpoland.eu/">Europejski Kongres Gospodarczy</a></li>
+				<li><a href="http://finanse.wnp.pl/fuzje-i-przejecia/">Fuzje i przejęcia</a></li>
+				<li><a href="http://gazownictwo.wnp.pl/gaz_lupkowy/">Gaz łupkowy</a></li>
+				<li><a href="http://gazownictwo.wnp.pl/gaz_lpg/">Gaz płynny</a></li>
+				<li><a href="http://it.wnp.pl/innowacyjnosc_produkcji/">Innowacyjność produkcji</a></li>
+				<li><a href="http://praca.wnp.pl/inzynier-na-rynku-pracy/">Inżynier na rynku pracy</a></li>
+				<li><a href="http://www.wnp.pl/it_w_energetyce/">IT w Energetyce</a></li>
+				<li><a href="http://gornictwo.wnp.pl/kopalnie/">Kopalnie</a></li>
+				<li><a href="http://energetyka.wnp.pl/kotly_i_turbiny/">Kotły i turbiny</a></li>
+				<li><a href="http://nafta.wnp.pl/lpg/">LPG/CNG</a></li>
+								<li><a href="http://www.wnp.pl/nieruchomosci/">Nieruchomości</a></li>
+			</ul>
+		</div>
+		<div class="col4">
+			<ul>
+				<li><a href="http://odlewnictwo.wnp.pl/">Odlewnictwo</a></li>
+				<li><a href="http://www.wnp.pl/odnawialne_zrodla_energii/">Odnawialne źródła energii</a></li>
+				<li><a href="http://www.wnp.pl/parki_technologiczne/">Parki technologiczne</a></li>
+				<li><a href="http://www.wnp.pl/polska_efektywna_energetycznie/">Polska Efektywna Energetycznie</a></li>
+				<li>Relacje gospodarcze:
+					<br />&nbsp;&bull; <a href="http://www.wnp.pl/relacje-gospodarcze-slowacja-polska/">Polska-Słowacja</a>
+					<br />&nbsp;&bull; <a href="http://www.wnp.pl/relacje-gospodarcze-polska-wegry/">Polska-Węgry</a>
+									</li>
+				<li><a href="http://www.portalsamorzadowy.pl" title="samorząd, gospodarka komunalna, samorządy w sieci">Samorząd terytorialny</a></li>
+				<li><a href="http://spawalnictwo.wnp.pl/">Spawalnictwo</a></li>
+				<li><a href="http://nafta.wnp.pl/stacje_paliw/">Stacje paliw</a></li>
+				<li><a href="http://gazownictwo.wnp.pl/system_przesylowy_w_polsce/">System przesyłowy w Polsce</a></li>
+				<li><a href="http://technika-gornicza.wnp.pl/">Technika górnicza</a></li>
+				<li><a href="http://transport-kolejowy.wnp.pl/">Transport kolejowy</a></li>
+				<li><a href="http://nafta.wnp.pl/upstream/">Upstream</a></li>
+				<li><a href="http://it.wnp.pl/najciekawsze_z_najlepszych/">Wdrożenia IT</a></li>
+				<li><a href="http://www.wnp.pl/zakupy_dostawcy/">Zakupy/Dostawcy</a></li>
+				<li><a href="http://www.wnp.pl/zpp2013/">Zmieniamy Polski Przemysł</a></li>
+			</ul>
+		</div>
+		<div class="col5">
+			<h1>Wyszukiwarki</h1>
+			<ul>
+				<li><a href="http://www.wnp.pl/nieruchomosci_oferty/lista.html">Nieruchomości</a></li>
+				<li><a href="http://praca.wnp.pl/oferta_pracy/lista.html">Praca</a></li>
+				<li><a href="http://www.wnp.pl/gielda_wierzytelnosci/lista.html">Wierzytelności</a></li>
+				<li><a href="http://www.wnp.pl/katalog/">Katalog firm</a></li>
+				<li><a href="http://szkolenia.wnp.pl/szkolenie/lista.html">Szkolenia</a></li>
+				<li><a href="http://przetargi.wnp.pl/lista.html">Przetargi</a></li>
+				<li><a href="http://www.wnp.pl/oferty_komunikaty/">Komunikaty</a></li>
+				<li><a href="http://www.wnp.pl/oferty_maszyny/">Maszyny, pojazdy, usługi</a></li>
+				<li><a href="http://finanse.wnp.pl/akcje/szukaj.html">Profile spółek</a></li>
+			</ul>
+			
+			<h1>Konto użytkownika</h1>
+			<ul>
+				<li><a href="http://www.wnp.pl/korzysci/">Korzyści</a></li>
+				<li><a href="http://www.ptwp.pl/newsletter/wnp-edycja.html">Logowanie</a></li>
+				<li><a href="http://www.ptwp.pl/newsletter/wnp-rejestracja.html">Rejestracja</a></li>
+			</ul>
+		</div>
+		<div class="col6">
+			<h1>O nas</h1>
+			<ul>
+				<li><a href="http://www.wnp.pl/info.html?mode=ptwp">Grupa PTWP</a></li>
+				<li><a href="http://www.wnp.pl/info.html?mode=wnp">Korzystanie z serwisu</a></li>
+				<li><a href="http://www.wnp.pl/info.html?mode=polityka-prywatnosci">Polityka prywatności</a></li>
+				<li><a href="http://www.wnp.pl/polityka-cookies/">Polityka cookies</a></li>
+				<li><a href="http://www.wnp.pl/info.html?mode=kontakty">Kontakt</a></li>
+				<li><a href="http://www.wnp.pl/redakcja/">Redakcja portalu</a></li>
+				<li><a href="http://www.wnp.pl/info.html?mode=reklama">Reklama</a></li>
+			</ul>	
+			
+			<h1>Narzędzia i usługi</h1>
+			<ul>
+				<li><a href="http://www.wnp.pl/alerty.html">Alerty wnp.pl</a></li>
+				<li><a href="http://www.facebook.com/wnppl" rel="external">Facebook</a></li>
+				<li><a href="http://www.wnp.pl/mobile_informacje.html">m.wnp.pl</a></li>
+				<li><a href="http://www.wnp.pl/wiadomosci_na_twojej_stronie.html">Moduły informacji</a></li>
+				<li><a href="http://www.wnp.pl/newsletter/">Newsletter</a></li>
+				<li><a href="http://www.wnp.pl/rss/">RSS</a></li>
+				<li><a href="http://www.wnp.pl/lista_tematy/">Słowa kluczowe</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+	<div class="stopka">
+	<img src="http://p.wnp.pl/images/i/footer_2013.png" width="990" height="88" alt="portale Grupy PTWP" usemap="#map" />
+	<map id="grupaPTWP" name="map">
+		<area shape="rect" coords="4,1,104,84"  alt="Grupa PTWP" href="https://www.ptwp.pl/" />
+		<area shape="rect" coords="108,5,218,37"  alt="www.rynekzdrowia.pl" href="http://www.rynekzdrowia.pl/" />
+		<area shape="rect" coords="226,5,358,37"  alt="www.portalspozywczy.pl" href="http://www.portalspozywczy.pl/" />
+		<area shape="rect" coords="363,5,484,37"  alt="www.dlahandlu.pl" href="http://www.dlahandlu.pl/" />
+		<area shape="rect" coords="488,5,619,37"  alt="www.rynekaptek.pl" href="http://www.rynekaptek.pl/" />
+		<area shape="rect" coords="627,5,734,37"  alt="www.nasze-zyski.pl" href="http://www.nasze-zyski.pl/" />
+		<area shape="rect" coords="748,5,898,37"  alt="www.portalsamorzadowy.pl" href="http://www.portalsamorzadowy.pl/" />
+		<area shape="rect" coords="910,5,980,37"  alt="www.propertynews.pl" href="http://www.propertynews.pl/" />
+		<area shape="rect" coords="909,52,978,81"  alt="www.infodent24.pl" href="http://www.infodent24.pl/"  />
+		<area shape="rect" coords="797,52,901,81"  alt="www.pulshr.pl" href="http://www.pulshr.pl/" />
+		<area shape="rect" coords="710,52,794,81"  alt="Miesięcznik Farmer" href="http://www.farmer.pl/czasopismo-farmer/" />
+		<area shape="rect" coords="584,52,708,81"  alt="Miesięcznik Rynek Zdrowia" href="http://www.rynekzdrowia.pl/Rynek-Zdrowia/index.html" />
+		<area shape="rect" coords="469,52,581,81"  alt="Miesięcznik Rynek Spożywczy" href="http://www.portalspozywczy.pl/rynekspozywczy/" />
+		<area shape="rect" coords="380,52,465,81"  alt="Miesięcznik Nowy Przemysł" href="http://www.wnp.pl/artykuly/" />
+		<area shape="rect" coords="290,52,375,81"  alt="www.farmer.pl" href="http://www.farmer.pl/" />
+		<area shape="rect" coords="183,52,286,81"  alt="www.gieldarolna.pl" href="http://www.gieldarolna.pl/" />
+		<area shape="rect" coords="110,52,179,81"  alt="www.wnp.pl" href="http://www.wnp.pl/"/>	
+	</map>
+</div>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-210151-1']);
+  _gaq.push(['_setDomainName', 'wnp.pl']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!--
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-210151-1";
+urchinTracker();
+</script>
+--><script type='text/javascript' charset='iso-8859-2' src='http://go.idmnet.bbelements.com/bb/bb_one2n.js?1226582205'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+var bbkeywords=''; //fill in: 'key1;key2;..'
+bmone2n.addPosition('184.11.1.1','');
+bmone2n.addPosition('184.11.2.2','');
+bmone2n.getAd('go.idmnet.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'iso-8859-2');
+ /* ]]> */</script>
+<div id='bmone2t-184.11.1.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('184.11.1.1'); /* ]]> */</script></div>
+<div id='bmone2t-184.11.2.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('184.11.2.2'); /* ]]> */</script></div>
+
+<script type='text/javascript'>/* <![CDATA[ */
+bm12n_orig_onload = (window.onload) ? window.onload : null;
+function bm12n_onLoad() { bmone2n.moveAd();  if (bm12n_orig_onload) {bm12n_orig_onload();} }
+window.onload = bm12n_onLoad;
+/* ]]> */</script>
+
+
+<!-- stat24 clickMap -->
+<script type="text/javascript" src="http://s1.hit.stat24.com/xy.js?id=oqWVT7sp0TeDhs1fVSV3DpYTroDFLFuJfkqzaiZ84Zf.o7/align=center/type=absolute"></script>
+
+
+	</body>
+</html>

@@ -1,0 +1,606 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Подарок модельерам: костюм, делающий из молодых - стариков | Медицинский портал «Здоровье Украины»</title>
+<meta name="description" content="Исследователи из США разработали модель необычного костюма, который может служить своеобразной машиной времени. Надев его, даже 20-летний человек сможет ощутить все «прелести» старческого возраста. Однако курьезный костюм создан для серьезных целей." /> 
+<meta name="keywords" content="" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<!--[if IE 6]>
+<link href="/css/ie6.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/png_fix.js"></script>
+		<script>
+			DD_belatedPNG.fix('.png_bg, img');
+		</script>
+<![endif]--> 
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/css/ie.css" /><![endif]-->
+<!--[if IE 7]><link href="/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+<script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
+<script type="text/javascript" src="/js/slideViewer.js"></script>
+<script type="text/javascript" src="/js/timers.js"></script>
+<script type="text/javascript" src="/js/block-resize.js"></script>
+<script type="text/javascript" src="/js/jcarousel.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
+
+<script type="text/javascript">
+function togg_search()
+{$("#list").toggle(300);} 
+function togg_serv()
+{$("#server-list").toggle(300);}
+
+$(window).bind("load", function() { 
+$("div#slider-video").slideViewerPro({ 
+        thumbs: 2,  
+        thumbsPercentReduction: 100, 
+		thumbsHeight: 77,
+		thumbsWidth: 125,
+		picHeight: 175,
+		picWidth: 300,
+        galBorderWidth: 0, 
+        galBorderColor: "aqua", 
+        thumbsTopMargin: 5, 
+        thumbsRightMargin: 3, 
+        thumbsBorderWidth: 0, 
+        thumbsActiveBorderColor: "gold", 
+        thumbsActiveBorderOpacity: 0.8, 
+        thumbsBorderOpacity: 0, 
+        buttonsTextColor: "#707070", 
+        leftButtonInner: "<img src='/img/design/slider_button_left.jpg' alt='' />", 
+        rightButtonInner: "<img src='/img/design/slider_button_right.jpg' alt='' />", 
+        autoslide: true,  
+        typo: true
+        });     
+	}); 
+	
+$(function() {
+    $(".photo-slide").jCarouselLite({
+        btnNext: ".left-btn",
+        btnPrev: ".right-btn",
+		visible: 2,
+		auto: 4000
+    });
+});
+
+$(function(){
+  $("#tabs").tabs();
+});
+</script>
+
+<link rel="stylesheet" type="text/css" href="/css/paginator3000.css" />
+<script type="text/javascript" src="/js/paginator3000.js"></script>
+
+
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1451854-2']);
+  _gaq.push(['_setDomainName', '.health-ua.org']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+
+<body  >
+
+<!--bigmir)net TOP 100 Part 1-->
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16808571,s:16808571,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+//-->
+</script>
+<noscript><img src="http://c.bigmir.net/?v16808571&s16808571&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+<!--bigmir)net TOP 100 Part 1-->
+
+
+
+
+
+<div class="header-banner" style="background-color: #E6E6E6; padding-top: 5px;">
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://a8.health-ua.org/www/delivery/ajs.php':'http://a8.health-ua.org/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://a8.health-ua.org/www/delivery/ck.php?n=a96d009a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://a8.health-ua.org/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a96d009a' border='0' alt='' /></a></noscript>
+
+</div>
+
+
+<div id="container">
+	<ul id="tools-menu">
+		<li><a href="/" title="Медицинский портал «Здоровье Украины»">На главную</a></li>
+		<li class="last"><a href="/map.html" title="Карта портала">Карта портала</a></li>
+		<!--<li class="last"><a href="/contact.html" title="Написать нам">Написать нам</a></li>-->
+	</ul>
+	<ul id="top-menu">
+		<li class="left"></li>
+		<li><a href="/testy/" title="Тесты онлайн">Тесты онлайн</a></li>		
+		<!--<li><a href="#" title="">Работа</a></li>-->
+		<li class="last"><a href="/translate.html" title="Перевод текста онлайн">Перевод текста онлайн</a></li>
+		<li class="right"></li>
+	</ul>
+	<div>
+		<div id="wrap"> <a id="logo" href="/" title="Медицинский портал «Здоровье Украины»"><img src="/img/design/logo.jpg" alt="Медицинский портал «Здоровье Украины»" /></a> 
+		<div style="color: #FFFFFF;display: none;float: right;height: 77px;margin-top: 3px;text-decoration: none;width: 236px;">
+			
+			
+		</div>	
+			<div class="subportal-search-block" id="">
+				<div class="subportal-link">
+						<ul>
+							<li><a  href="http://nature.health-ua.org/" class="nature-btn" title="Природная медицина"><img src="/img/design/nature.png" /></a></li>
+							<li><a class="pediatriya-btn" href="http://deti.health-ua.org" title="Педиатрия">Педиатрия</a></li>
+							<li><a  href="http://menopause.health-ua.org/" title="Здоровье женщины после 40" ><img src="/img/design/btn.jpg" /></a></li>
+						</ul>
+				</div>
+				<div id="search-container">
+					<form id="cse-search-box" action="/search.html">
+						<input type="hidden" name="cx" value="001182428068395977759:v9nogexm5qw" />
+						<input type="hidden" name="cof" value="FORID:11" />
+						<input type="hidden" name="ie" value="UTF-8" />
+						<div class="rounded">
+							<div class="right">
+								<input class="button" type="submit" name="sa" value="Найти" />
+								<div class="switcher">
+									<div class="selector" onclick="togg_search()"></div>
+									<ul onclick="togg_search()" href="javascript:void(0);" id="list">
+										<li><a id="item1" href="javascript:void(0)" class="001182428068395977759:v9nogexm5qw" >Весь портал</a></li>
+										<li><a id="item2" href="javascript:void(0)" class="001182428068395977759:kjhcohrc5r0" >Новости</a></li>
+										<li><a id="item3" href="javascript:void(0)" class="001182428068395977759:cthxskqjdf0" >Консультация</a></li>
+										<li><a id="item4" href="javascript:void(0)" class="001182428068395977759:bwakphy6soq" >Видео</a></li>
+										<li><a id="item5" href="javascript:void(0)" class="001182428068395977759:8ljldiehpdm" >Статьи</a></li>
+										<li><a id="item6" href="javascript:void(0)" class="001182428068395977759:fmxfu0r3mqy" >Фото</a></li>
+										<li><a id="item7" href="javascript:void(0)" class="001182428068395977759:rkanm3ym14k" >Лекарства</a></li>
+									</ul>
+									<div onclick="togg_search()" class="search-place" id="place">Весь портал</div>
+								</div>
+							</div>
+							<div class="left">
+								<input name="q" id="search-field" type="text" value="Введите запрос" autocomplete="off" onFocus="if (this.value=='Введите запрос') this.value='';" onBlur="if (this.value=='') this.value='Введите запрос';" />
+							</div>
+						</div>
+					</form>
+					<script type="text/javascript" src="/js/gcse.js"></script>
+				</div>
+			</div>
+			<div id="main-menu">
+				<div class="main-menu-left"></div>
+				<ul>
+					<li><a href="/news/" title="Новости медицины">Новости</a></li>
+					<li><a href="/video/" title="Видео энциклопедия">Видео</a></li>
+					<li><a href="/faq/" title="Доступно о проблеме">Доступно о проблеме</a></li>
+					<li><a href="/hot/" title="Горячая тема">Горячая тема</a></li>
+					<li><a href="/photo/" title="Фото галерея">Фото</a></li>
+					<li><a href="/lekarstva/" title="Лекарственные средства">Лекарственные средства</a></li>
+					<li class="last"><a href="/law/" title="Правовая консультация">Правовая консультация</a></li>
+				</ul>
+				<div class="main-menu-right"></div>
+			</div>
+			
+			<ul id="breadcramps">
+				<li><a href="/" title="Медицинский портал «Здоровье Украины»">Главная</a></li>
+				<li><span>&raquo;</span></li>
+				<li><a href="/news/" title="Новости медицины">Новости медицины</a></li><li><span> &raquo; </span></li><li class="active">Подарок модельерам: костюм, делающий из молодых - стариков</li>
+				<li class="left"></li>
+			</ul>
+			
+			<div id="sidebar">
+				<div class="right-banner">
+					<div class="img-overflow" style="clear:both;">
+						<!--<div class="top_left"></div>
+						<div class="top_right"></div>-->
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://a8.health-ua.org/www/delivery/ajs.php':'http://a8.health-ua.org/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1&amp;charset=UTF-8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://a8.health-ua.org/www/delivery/ck.php?n=a32dbc2d&amp;cb=324' target='_blank'><img src='http://a8.health-ua.org/www/delivery/avw.php?zoneid=1&amp;charset=UTF-8&amp;cb=324&amp;n=a32dbc2d' border='0' alt='' /></a></noscript>
+
+						<!--<div class="bottom_right"></div>
+						<div class="bottom_left"></div>-->
+					</div>
+					
+					
+				</div>
+				<div class="block-end"></div>
+				
+<div style="border:1px solid #ccc;margin-bottom:15px;padding:5px;border-radius:5px;">
+	<p>
+	Машины <a rel="nofollow" href="http://avtosale.com.ua/car/Hyundai/">Hyundai</a> в Украине: актуальные цены, лучшая база 
+	авто.<br>
+	Киноафиша, новости, <a rel="nofollow" href="http://kino.ukr.net/films/">фильмы</a> на kino.ukr.net.<br>
+	Полная <a rel="nofollow" href="http://tvgid.ua/">телепрограмма</a> на все каналы.<br>
+	<a rel="nofollow" href="http://www.ukr.net/news/sport.html">Новости спорта</a> Украины и Мира на портале UKR.NET.<br>
+	</p>
+</div>
+
+				<div class="block-end"></div>
+					
+				
+					        <div class="news4site">
+          <h2><a href="/export.html" title="">Новости медицины и здоровья</a></h2>
+          для вашего сайта</div>
+        <h2 class="block-title block-title-new">Новости по теме</h2>
+        <div class="day-news">
+          <div class="overflow_r">
+            <h3><a href="/news/8574.html" title="Братьям больных раком простаты необходима диагностика">Братьям больных раком простаты необходима диагностика</a></h3>
+          </div>
+          <div class="overflow_r">
+            <h3><a href="/news/9902.html" title="Сомнительное «веление времени»: рассказывать о сексе в детских садах и младших классах">Сомнительное «веление времени»: рассказывать о сексе в детских садах и младших классах</a></h3>
+          </div>
+          <div class="overflow_r">
+            <h3><a href="/news/8368.html" title="Китайское растительное масло «из канализации»">Китайское растительное масло «из канализации»</a></h3>
+          </div>
+          <div class="overflow_r">
+            <h3><a href="/news/9292.html" title="В чем причина повышенной смертности молодежи от гриппа H1N1">В чем причина повышенной смертности молодежи от гриппа H1N1</a></h3>
+          </div>
+          <div class="overflow_r">
+            <h3><a href="/news/8827.html" title="Грибная охота может закончиться мучительной смертью">Грибная охота может закончиться мучительной смертью</a></h3>
+          </div>
+        </div>	
+
+<!-- redtram -->
+<div style="border:1px solid #ccc;border-radius:5px; padding:5px; margin-bottom:20px;">
+<h2 class="block-title block-title-new ">Новости партнеров</h2>
+<div id="rt-n-1441"></div>
+<script type="text/javascript" language="javascript" charset="UTF-8" src="http://js.ru.redtram.com/n4p/h/e/health-ua.org_1441.js"></script>
+</div>
+<!-- redtram end -->
+<div class="last-news">
+  <h2 class="block-title block-title-new ">Последние новости</h2>
+<div class="date">16:00 04 апреля 2013 г.</div>
+	<h2><a href="/news/14926.html" title="Маленькие люди с обликом Купидона не болеют раком и диабетом">Маленькие люди с обликом Купидона не болеют раком и диабетом</a></h2>
+<div class="date">15:00 04 апреля 2013 г.</div>
+	<h2><a href="/news/14925.html" title="Изобретено женское белье, защищающее от насильников">Изобретено женское белье, защищающее от насильников</a></h2>
+<div class="date">14:00 04 апреля 2013 г.</div>
+	<h2><a href="/news/14924.html" title="Западные спецслужбы ловят «научных» шпионов и контрабандистов микробов">Западные спецслужбы ловят «научных» шпионов и контрабандистов микробов</a></h2>
+<div class="date">13:00 04 апреля 2013 г.</div>
+	<h2><a href="/news/14923.html" title="Создан революционный метод радиотерапии рака без побочных эффектов">Создан революционный метод радиотерапии рака без побочных эффектов</a></h2>
+<div class="date">12:00 04 апреля 2013 г.</div>
+	<h2><a href="/news/14922.html" title="Метод «реанимации» донорских легких поможет спасти множество жизней">Метод «реанимации» донорских легких поможет спасти множество жизней</a></h2>
+
+</div>
+
+					
+				
+			
+			</div>
+			<div id="content">
+				<div class="container">
+<div id="consults">
+						<h1 class="block-title"><a href="/mc/" title="Медицинская консультация онлайн">Консультации</a></h1>
+						<div class="total">всего 123 880 консультаций</div>
+						<ul style="clear:both;">
+<li><a href="/mc/akusherstvo-ginekologiya-reproduktivnaya-medicina/" title="Акушерство, гинекология, репродуктивная медицина">Акушерство, гинекология, репродуктивная медицина</a></li>
+<li><a href="/mc/allergiya-immunitet/" title="Аллергия. Иммунитет">Аллергия. Иммунитет</a></li>
+<li><a href="/mc/varikoz-zabolevaniya-sosudov/" title="Варикоз">Варикоз</a></li>
+<li><a href="/mc/gastroenterologiya/" title="Гастроэнтерология">Гастроэнтерология</a></li>
+<li><a href="/mc/gepatologiya/" title="Гепатология">Гепатология</a></li>
+<li><a href="/mc/golovnaya-bol/" title="Головная боль">Головная боль</a></li>
+<li><a href="/mc/dermatologiya/" title="Дерматология">Дерматология</a></li>
+<li><a href="/mc/detskaya-i-podrostkovaya-ginekologiya/" title="Детская и подростковая гинекология">Детская и подростковая гинекология</a></li>
+<li><a href="/mc/izbytochnyj-ves-diety/" title="Избыточный вес. Диеты">Избыточный вес. Диеты</a></li>
+<li><a href="/mc/izzhoga-zheludochno-pischevodnyj-reflyuks/" title="Изжога. Желудочно-пищеводный рефлюкс">Изжога. Желудочно-пищеводный рефлюкс</a></li>
+<li><a href="/mc/infekcionnye-zabolevaniya/" title="Инфекционные заболевания">Инфекционные заболевания</a></li>
+<li><a href="/mc/kardiologiya/" title="Кардиология">Кардиология</a></li>
+<li><a href="/mc/kosmetologiya/" title="Косметология">Косметология</a></li>
+<li><a href="/mc/mammologiya/" title="Маммология">Маммология</a></li>
+<li><a href="/mc/meteochuvstvitelnost/" title="Метеочувствительность">Метеочувствительность</a></li>
+<li><a href="/mc/nevrologiya/" title="Неврология">Неврология</a></li>
+<li><a href="/mc/onkologiya/" title="Онкология">Онкология</a></li>
+<li><a href="/mc/otolaringologiya/" title="Отоларингология">Отоларингология</a></li>
+<li><a href="/mc/oftalmologiya/" title="Офтальмология">Офтальмология</a></li>
+<li><a href="/mc/privivki/" title="Прививки">Прививки</a></li>
+<li><a href="/mc/proktologiya/" title="Проктология">Проктология</a></li>
+<li><a href="/mc/pulmonologiya-ftiziatriya/" title="Пульмонология, фтизиатрия">Пульмонология, фтизиатрия</a></li>
+<li><a href="/mc/stomatologiya-zabolevaniya-polosti-rta/" title="Стоматология. Заболевания полости рта">Стоматология. Заболевания полости рта</a></li>
+<li><a href="/mc/stress-depressiya-psihologicheskoe-konsultirovanie/" title="Стресс. Депрессия. Психологическое консультирование">Стресс. Депрессия. Психологическое консультирование</a></li>
+<li><a href="/mc/travmatologiya-i-ortopediya/" title="Травматология и ортопедия">Травматология и ортопедия</a></li>
+<li><a href="/mc/urologiya-i-nefrologiya/" title="Урология и нефрология">Урология и нефрология</a></li>
+<li><a href="/mc/endokrinologiya-saharnyj-diabet/" title="Эндокринология. Сахарный диабет">Эндокринология. Сахарный диабет</a></li>
+</ul>
+						<div class="line"></div>
+					</div>
+					<div class='button'></div>
+				</div>
+							
+        <h1 class="block-title">Подарок модельерам: костюм, делающий из молодых - стариков</h1>
+		<div class="date" style="text-align: left; margin-bottom:10px; float: left;">04 января 2012 г.</div>
+        <div style="text-align: right; margin-bottom:10px; float: right;"><script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru"
+ data-yashareType="none" data-yashareQuickServices="gplus,yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,moikrug"></div> </div>
+		<div style="clear: both;"></div>
+        <div class="full-story">
+
+          <div class="img-overflow">
+            <div class="top_left"></div>
+            <div class="top_right"></div>
+			
+            <img src="/img/news/11831.jpg" width="250" height="175" alt="Подарок модельерам: костюм, делающий из молодых - стариков" title="Подарок модельерам: костюм, делающий из молодых - стариков" />
+			
+            <div class="bottom_right"></div>
+            <div class="bottom_left"></div>
+          </div>
+
+		  
+          <h4>Исследователи из США разработали модель необычного костюма, который может служить своеобразной машиной времени. Надев его, даже 20-летний человек сможет ощутить все «прелести» старческого возраста. Однако курьезный костюм создан для серьезных целей.</h4>
+          <div style="padding-top: 15px;"><p>До последнего времени рассказать о том, что чувствует старик, измученный характерными болезнями пожилого возраста, мог только человек, который сам страдает подобными недугами (подагра, артрит, диабет, нарушение мозгового кровообращения).</p>
+
+<p>Но благодаря изобретению ученых из Технологического института штата Массачусетс (Massachusetts Institute of Technology) теперь подобные ощущения смогут испытать и люди гораздо более молодого возраста.</p>
+
+<p>Костюм назвали красивым женским именем Агнес (AGNES), которое является англоязычной аббревиатурой полного названия нового «швейного изделия» – Age Gain Now Empathy System.</p>
+
+<p>Создавали Агнес для вполне утилитарных целей – надев такой костюм, люди, занимающиеся разработкой дизайна разных изделий (в том числе обычных костюмов и обуви), смогут пережить те же ощущения, что и пожилые люди – это поможет учитывать при разработке новых товаров также и потребности стариков.</p>
+
+<p>К костюму Агнес в комплекте идут специальные перчатки и такие же туфли.</p>
+
+<p>Обручи, вшитые в пиджак и брюки Агнес, ограничивают подвижность суставов, как это часто бывает у стариков. Особые перчатки ослабляют силу захвата рук и подвижность в лучезапястном суставе.</p>
+
+<p>А туфли сшиты таким образом, что даже молодой и тренированный человек, надев их, уже после первых шагов начинает терять равновесие. Прочные ленты, нашитые на шлем, который тоже идет в комплекте, ухудшают осанку.</p>
+
+<p>«Наш костюм поможет молодым дизайнерам разной продукции, рассчитанной на пожилых людей, полнее учитывать их потребности», – комментирует один из создателей необычного костюма Джозеф Кофлин (Joseph Coughlin).</p></div>
+          <div><a href="https://plus.google.com/106723157744425999240?rel=author" class="gplus">&copy; www.health-ua.org</a></div>
+		  
+		  
+          <div style="text-align:left; margin: 20px 0 0 0;"><script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru"
+ data-yashareType="none" data-yashareQuickServices="gplus,yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,moikrug"></div> </div>
+        </div>
+<!-- MarketGidNews Start -->
+<div id="MarketGid9759" class="news-block-magick more-about">
+  <center>
+      <img src="/img/design/new_preloder.gif" alt="preloader" width="32px" heigth="32px"/>
+  </center>
+</div>
+<!-- MarketGidNews End --> 
+        <div class="more-about">
+          <h2 class="block-title more_for_subject">Больше по теме</h2>
+          <div class="sub-block dostupno">
+            <div class="dostupno_title"><a href="/faq/" title="Доступно о проблеме">Доступно о проблеме:</a></div>
+            <h2><a href="/faq/urologiya-i-nefrologiya/13.html" title="Урогенитальный хламидиоз">Урогенитальный хламидиоз</a></h2>
+            <p>Урогенитальный хламидиоз нередко протекает бессимптомно, но его осложнения грозят серьезными проблемами со здоровьем. Узнайте, что является основанием для предположения о наличии хламидийной инфекции, как лечиться и не допустить повторного заражения.</p>
+            <a class="read-more" href="/faq/urologiya-i-nefrologiya/13.html" title="Урогенитальный хламидиоз">Читать дальше</a> </div>
+          <div class="sub-block hot">
+            <div class="dostupno_title"><a href="/hot/" title="Горячая тема">Горячая тема:</a></div>
+            <h2><a href="/hot/65.html" title="О чем расскажет капелька крови?">О чем расскажет капелька крови?</a></h2>
+            <p>Анализ крови вам сразу назначит любой врач, если вы обратитесь к нему за консультацией. Узнайте о том, что именно позволяет с достаточно большой точностью по показателям анализа крови определить состояние вашего здоровья</p>
+            <a class="read-more" href="/hot/65.html" title="Урогенитальный хламидиоз">Читать дальше</a> </div>
+          <div class="sub-block cons">
+            <div class="dostupno_title"><a href="/mc/" title="Медицинская консультация">Медицинская консультация:</a></div>
+            <h2><a href="/mc/infekcionnye-zabolevaniya/235/#199541" title="Уреаплазмоз">Уреаплазмоз</a></h2>
+            <p>Я жене не изменяю вообще,но она здала анализы и ей сказали что у неё уреплазмоз,год назад было тоже самое.конечно она говорит что я ей изменяю.может ли у меня появиться эта болезнь до женитьбы или нет 13 лет назад?и как он может появиться год назад?&#0133;</p>
+            <a class="read-more" href="/mc/infekcionnye-zabolevaniya/235/#199541" title="Уреаплазмоз">Читать дальше</a> </div>
+          <div class="video">
+            <div class="img-overflow">
+              <a href="/video/kosmetologiya-dermatologiya/763.html" title="Бородавки – почему от них следует избавляться"><div class="play-btn"></div></a>
+              <div class="top_left"></div>
+              <div class="top_right"></div>
+              <a href="/video/kosmetologiya-dermatologiya/763.html" title="Бородавки – почему от них следует избавляться"><img src="/img/video/preview/763.jpg" title="Бородавки – почему от них следует избавляться" alt="Бородавки – почему от них следует избавляться" /></a>
+              <div class="bottom_right"></div>
+              <div class="bottom_left"></div>
+            </div>
+            <div class="text">
+             <div class="dostupno_title"><a href="/video/" title="Медицинская видео энциклопедия">Видео:</a></div>
+              <h2><a href="/video/kosmetologiya-dermatologiya/763.html" title="Бородавки – почему от них следует избавляться">Бородавки – почему от них следует избавляться</a></h2>
+              <p><p>Среди многообразия различных новообразований кожи все бородавки за исключением старческих вызываются папилломавирусом человека. Вирус, проникнув в клетки поврежденной кожи, например, через царапину, может «дремать» в них неделями или месяцами. Снижение...</p>
+              <a class="read-more" href="/video/kosmetologiya-dermatologiya/763.html" title="Бородавки – почему от них следует избавляться">Смотреть</a></div>
+          </div>
+        </div>
+		</div>
+<div style="clear:both;"></div>		
+			
+			
+			<!--<div class="banner-bottom">
+				<div class="img-overflow">
+					<div class="top_left"></div>
+					<div class="top_right"></div>
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+<!--<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://a8.health-ua.org/www/delivery/ajs.php':'http://a8.health-ua.org/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=3&amp;charset=UTF-8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--><!--</script><noscript><a href='http://a8.health-ua.org/www/delivery/ck.php?n=a5529102&amp;cb=23' target='_blank'><img src='http://a8.health-ua.org/www/delivery/avw.php?zoneid=3&amp;charset=UTF-8&amp;cb=23&amp;n=a5529102' border='0' alt='' /></a></noscript>
+
+					<div class="bottom_right"></div>
+					<div class="bottom_left"></div>
+				</div>
+			</div>-->
+			<div id="footer">
+				<div class="right">
+					<div class="bottom_menu_title"><a href="/" title="Медицинский портал «Здоровье Украины»">Разделы портала</a></div>
+					<ul>
+						<li><a href="/news/" title="Новости медицины">Новости</a></li>
+						<li><a href="/video/" title="Видео энциклопедия">Видео</a></li>
+						<li><a href="/faq/" title="Доступно о проблеме">Доступно о проблеме</a></li>
+						<li><a href="/hot/" title="Горячая тема">Горячая тема</a></li>
+						<li><a href="/photo/" title="Фото галерея">Фото</a></li>
+						<li><a href="/lekarstva/" title="Лекарственные средства">Лекарственные средства</a></li>
+						<li><a href="/law/" title="Правовая консультация">Правовая консультация</a></li>
+						<li><a href="/testy/" title="Тесты онлайн">Тесты онлайн</a></li>
+						<li><a href="/translate.html" title="Перевод текста онлайн">Перевод текста онлайн</a></li>
+						<li><a href="/archives/" title="Архив изданий">Архив</a></li>
+						<li><a class="contact_us" href="/contact.html" rel="nofollow" title="Написать нам">Написать нам</a></li>
+					</ul>
+				</div>
+				<div class="left">
+					<div class="bottom_menu_title"><a href="/mc/" title="Медицинская консультация">Медицинская консультация онлайн</a></div>
+<ul>
+<li><a href="/mc/akusherstvo-ginekologiya-reproduktivnaya-medicina/" title="Акушерство, гинекология, репродуктивная медицина">Акушерство, гинекология, репродуктивная медицина</a></li>
+<li><a href="/mc/allergiya-immunitet/" title="Аллергия. Иммунитет">Аллергия. Иммунитет</a></li>
+<li><a href="/mc/varikoz-zabolevaniya-sosudov/" title="Варикоз">Варикоз</a></li>
+<li><a href="/mc/gastroenterologiya/" title="Гастроэнтерология">Гастроэнтерология</a></li>
+<li><a href="/mc/gepatologiya/" title="Гепатология">Гепатология</a></li>
+<li><a href="/mc/golovnaya-bol/" title="Головная боль">Головная боль</a></li>
+<li><a href="/mc/dermatologiya/" title="Дерматология">Дерматология</a></li>
+<li><a href="/mc/detskaya-i-podrostkovaya-ginekologiya/" title="Детская и подростковая гинекология">Детская и подростковая гинекология</a></li>
+<li><a href="/mc/izbytochnyj-ves-diety/" title="Избыточный вес. Диеты">Избыточный вес. Диеты</a></li>
+<li><a href="/mc/izzhoga-zheludochno-pischevodnyj-reflyuks/" title="Изжога. Желудочно-пищеводный рефлюкс">Изжога. Желудочно-пищеводный рефлюкс</a></li>
+<li><a href="/mc/infekcionnye-zabolevaniya/" title="Инфекционные заболевания">Инфекционные заболевания</a></li>
+<li><a href="/mc/kardiologiya/" title="Кардиология">Кардиология</a></li>
+<li><a href="/mc/kosmetologiya/" title="Косметология">Косметология</a></li>
+<li><a href="/mc/mammologiya/" title="Маммология">Маммология</a></li>
+<li><a href="/mc/meteochuvstvitelnost/" title="Метеочувствительность">Метеочувствительность</a></li>
+<li><a href="/mc/nevrologiya/" title="Неврология">Неврология</a></li>
+<li><a href="/mc/onkologiya/" title="Онкология">Онкология</a></li>
+<li><a href="/mc/otolaringologiya/" title="Отоларингология">Отоларингология</a></li>
+<li><a href="/mc/oftalmologiya/" title="Офтальмология">Офтальмология</a></li>
+<li><a href="/mc/privivki/" title="Прививки">Прививки</a></li>
+<li><a href="/mc/proktologiya/" title="Проктология">Проктология</a></li>
+<li><a href="/mc/pulmonologiya-ftiziatriya/" title="Пульмонология, фтизиатрия">Пульмонология, фтизиатрия</a></li>
+<li><a href="/mc/stomatologiya-zabolevaniya-polosti-rta/" title="Стоматология. Заболевания полости рта">Стоматология. Заболевания полости рта</a></li>
+<li><a href="/mc/stress-depressiya-psihologicheskoe-konsultirovanie/" title="Стресс. Депрессия. Психологическое консультирование">Стресс. Депрессия. Психологическое консультирование</a></li>
+<li><a href="/mc/travmatologiya-i-ortopediya/" title="Травматология и ортопедия">Травматология и ортопедия</a></li>
+<li><a href="/mc/urologiya-i-nefrologiya/" title="Урология и нефрология">Урология и нефрология</a></li>
+<li><a href="/mc/endokrinologiya-saharnyj-diabet/" title="Эндокринология. Сахарный диабет">Эндокринология. Сахарный диабет</a></li>
+</ul>					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="footer-info">
+		<div style="float:left;"><a rel="nofollow" class="terns" href="/disclaimer.html" title="Соглашение об использовании материалов медицинского портала «Здоровье Украины»">Условия использования</a>&nbsp; <a class="terns" href="https://plus.google.com/110451489334127311775" target="_blank" rel="publisher">Мы в Google+</a> © 2006 - 2013 Медицинский портал «Здоровье Украины»</div>
+		<a id="bottom-logo" href="/" title="Медицинский портал «Здоровье Украины»"><img src="/img/design/bottom_logo.jpg" alt="Медицинский портал «Здоровье Украины»" width="139" height="16" /></a>
+	</div>
+
+<div style="clear:both;"></div>
+<div style="float: right;">
+<!--bigmir)net TOP 100 Part 2-->
+<script type="text/javascript" language="javascript">
+<!--
+function BM_Draw(oBM_STAT){
+document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="font-family:Tahoma;font-size:10px;padding:0px;margin:0px;"><div style="width:7px;float:left;background:url(\'http://i.bigmir.net/cnt/samples/default/b56_left.gif\');height:17px;padding-top:2px;background-repeat:no-repeat;"></div><div style="float:left;background:url(\'http://i.bigmir.net/cnt/samples/default/b56_center.gif\');text-align:left;height:17px;padding-top:2px;background-repeat:repeat-x;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;">bigmir<span style="color:#ff0000;">)</span>net</a>&nbsp;&nbsp;<span style="color:#eca8aa;">хиты</span>&nbsp;<span style="color:#d44348;font:10px Tahoma;">'+oBM_STAT.hits+'</span>&nbsp;<span style="color:#eca8aa;">хосты</span>&nbsp;<span style="color:#d44348;font:10px Tahoma;">'+oBM_STAT.hosts+'</span></div><div style="width:7px;float: left;background:url(\'http://i.bigmir.net/cnt/samples/default/b56_right.gif\');height:17px;padding-top:2px;background-repeat:no-repeat;"></div></div></td></tr></table>');
+}
+//-->
+</script>
+<script type="text/javascript" language="javascript" src="http://c.bigmir.net/?s16808571&t0&l1&o1"></script>
+<noscript>
+<a href="http://www.bigmir.net/" target="_blank"><img src="http://c.bigmir.net/?v16808571&s16808571&t2&l1" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+<!--bigmir)net TOP 100 Part 2-->
+<!-- I.UA counter --><a href="http://www.i.ua/" target="_blank" onclick="this.href='http://i.ua/r.php?7180';" title="Rated by I.UA">
+<script type="text/javascript" language="javascript"><!--
+iS='<img src="http://r.i.ua/s?u7180&p213&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie="b=b; path=/";if(iD.cookie)iS+='&c1';
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++"&w"+screen.width+'&h'+screen.height;
+iT=iD.referrer.slice(7);iH=window.location.href.slice(7);
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7));
+iS+='&r'+escape(iH);
+iD.write(iS+'" border="0" width="160" height="19" />');
+//--></script></a><!-- End of I.UA counter -->
+</div>
+</div>
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter9686719 = new Ya.Metrika({id:9686719, enableAll: true, webvisor:true});
+        }
+        catch(e) { }
+    });
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/9686719" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- inforotor начало -->
+<!--<irBlock id="counter"></irBlock>
+<script src="http://inforotor.net/rotor/counter.js"></script>
+<script src="http://inforotor.net/rotor/informers.js"></script>
+<script src="http://175.inforotor.net/rotor/start.js?ver=1"></script>-->
+<!-- inforotor конец -->
+<div id="scrollTop" >
+	<img src="/img/design/top_scroll_2.png">
+</div>
+<!-- News Market Git -->
+<script type="text/javascript">
+    var MarketGidDate = new Date();
+    document.write('<scr'+'ipt type="text/javascript" '
+    +'src="http://jsn.dt00.net/h/e/health-ua.org.9759.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours()
+    + '" charset="utf-8" ></scr'+'ipt>');
+    </script>
+ <script type="text/javascript">
+    var MarketGidDate = new Date();
+    document.write('<scr'+'ipt type="text/javascript" '
+    +'src="http://jsn.dt00.net/h/e/health-ua.org.12594.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours()
+    + '" charset="utf-8" ></scr'+'ipt>');
+    </script>
+<!-- finish -->
+<!-- hit.ua -->
+<a href='http://hit.ua/?x=89030' target='_blank'>
+<script language="javascript" type="text/javascript"><!--
+Cd=document;Cr="&"+Math.random();Cp="&s=1";
+Cd.cookie="b=b";if(Cd.cookie)Cp+="&c=1";
+Cp+="&t="+(new Date()).getTimezoneOffset();
+if(self!=top)Cp+="&f=1";
+//--></script>
+<script language="javascript1.1" type="text/javascript"><!--
+if(navigator.javaEnabled())Cp+="&j=1";
+//--></script>
+<script language="javascript1.2" type="text/javascript"><!--
+if(typeof(screen)!='undefined')Cp+="&w="+screen.width+"&h="+
+screen.height+"&d="+(screen.colorDepth?screen.colorDepth:screen.pixelDepth);
+//--></script>
+<script language="javascript" type="text/javascript"><!--
+Cd.write("<img src='http://c.hit.ua/hit?i=89030&g=0&x=2"+Cp+Cr+
+"&r="+escape(Cd.referrer)+"&u="+escape(window.location.href)+
+"' border='0' wi"+"dth='1' he"+"ight='1'/>");
+//--></script></a>
+<!-- / hit.ua -->
+</body>
+</html>

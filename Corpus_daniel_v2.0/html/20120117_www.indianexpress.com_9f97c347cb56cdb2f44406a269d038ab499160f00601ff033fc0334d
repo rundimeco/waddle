@@ -1,0 +1,870 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">// <![CDATA[
+    var mobile = (/Series60|Nokia|SymbianOS|iphone|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
+ 
+    if (mobile) {
+	var url = window.location;
+	url = String(url);
+	var urllengthmin = url.length - 1;
+	urllength = url.length;
+	var strCheck = url.substring(urllengthmin,urllength);
+	if(strCheck == '/')
+	{
+		url = url.substring(0,urllengthmin);
+	}
+   	 var urlArray = url.split('/');
+     var arrayLength =  urlArray.length;
+     var id = urlArray[arrayLength-1];	
+   	 var headline = urlArray[arrayLength-2];		 
+     document.location = "http://m.indianexpress.com/news/"+headline+"/"+id+"/";
+
+	 //document.location = "http://m.indianexpress.com/story_mobile.php?storyid="+id;
+      //  window.stop();
+    }
+// ]]></script>
+<meta name="slurp" content="noindex, nofollow">
+<meta name="robots" content="noodp, noydir">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Eating from a red plate could help you to lose weight - Indian Express</title>
+<meta name="description" content="Eating from a red plate could help you to lose weight - Serving up meals on red plates or drinking from red cups cuts consumption by about 40 per cent, scientists have found." />
+<meta name="keywords" content="red plate, lose weight, avoid snacking, food news" />
+<meta name="Last-Modified" content=" Mon Jan 16 2012, 14:12 hrs"/>
+<link href="http://static.indianexpress.com/frontend/iep/css/head-foot.css" rel="stylesheet" type="text/css" />
+<link href="http://static.indianexpress.com/frontend/iep/css/style-story-iep.css" rel="stylesheet" type="text/css" />
+<link href="http://static.indianexpress.com/frontend/iep/css/ads-story.css" rel="stylesheet" type="text/css" />
+<link href="http://static.indianexpress.com/frontend/iep/css/mail.css" rel="stylesheet" type="text/css" />
+<link href="http://static.indianexpress.com/frontend/iep/css/ie-style.css" rel="stylesheet" type="text/css" />
+
+<!--<link href="http://static.indianexpress.com/frontend/iep/css/dropjs_Story.css" rel="stylesheet" type="text/css" />-->
+<script src="http://static.indianexpress.com/frontend/iep/js/tab.js" type="text/javascript"></script>
+<script src="http://static.indianexpress.com/frontend/iep/js/tab_rightop.js" type="text/javascript"></script>
+<script src="http://static.indianexpress.com/frontend/iep/js/tab_center.js" type="text/javascript"></script>
+<script src="http://static.indianexpress.com/frontend/iep/js/tab_center2.js" type="text/javascript"></script>
+<script src="http://static.indianexpress.com/frontend/iep/js/fontNew.js" type="text/javascript"></script>
+<script src="http://static.indianexpress.com/frontend/iep/js/validate_mail.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://static.indianexpress.com/frontend/iep/js/jquery.js"></script>
+<script type="text/javascript" src="http://static.indianexpress.com/frontend/iep/js/favorite.js"></script>
+
+
+<script src="http://static.indianexpress.com/frontend/iep/js/dropj_bottom_Img.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  var lastdiv='';
+
+  var frmdata="<div class='feedbackfrm'><div class='left_div'> </div>  <div class='discus_panel_head'>Write a Message</div>  <div class='discus_panel'>	<div id='comment_result'></div>      <FORM ACTION='javascript:void(0)' METHOD='post' NAME='frmcomment' CLASS='font' ID='frmcomment' onSubmit='insertCommet(900246)'><input type=hidden name=parent><INPUT TYPE='hidden' NAME='typ' VALUE='commentSubmit' />	<INPUT TYPE='hidden' NAME='storyId' VALUE='900246' />	<table border='0' align='center' cellpadding='0' cellspacing='3' style='font-size:11px;color:#585858;'>        <tr>          <td width='70px' height='20px'><div id='divname'>Name</div></td>          <td width='170px'><input name='name' type='text' class='textfild' id='name' />              <span style='color:#f00;'>*</span></td>          <td width='200px' rowspan='3' valign='top'><div id='divmessage'>Message</div>            <TEXTAREA NAME='comment' ROWS='3' cols='20' ID='textarea' class='textarea'></TEXTAREA><span style='color:#f00;'>*</span></td>        </tr>        <tr>          <td height='20px'><div id='divemail'>Email ID</div></td>          <td><INPUT NAME='email' TYPE='text' CLASS='textfild' ID='email' />              <span style='color:#f00; font'>*</span></td>        </tr>        <tr>          <td height='20px'><div id='divsubject'>Subject</div></td>          <td><INPUT NAME='subject' TYPE='text' CLASS='textfild' ID='subject' />              <span style='color:#f00; '>*</span></td>        </tr>      <!--   <tr>          <td>Country</td>          <td><input name='textfield4' type='text' class='textfild' />              <span style='color:#f00;'>*</span></td>          <td align='right'>Maximum characters allowed <span style='margin-right:10px;'>&nbsp; 1200 &nbsp;&nbsp;</span></td>        </tr> -->      </table>      <table width='100%' border='0' cellspacing='0' cellpadding='0'>        <tr>          <td colspan='2' class='terms'>TERMS OF USE:<br />           The views represented here are not endorsed by www.indianexpress.com. The person writing and submitting the comment is / are responsible for the content of comment. The comment should not have inflammatory, abusive, derogatory language or any language deemed unfit for publication. There will be time lag between the submission and publication of the comments. The website reserves the right to publish or reject any message. </td>        </tr>        <tr>          <td width='5%' align='left'><span>            <input type='checkbox' name='checkbox' value='checkbox' />          </span></td>          <td width='95%' class='terms'>&nbsp;&nbsp;I agree to the terms of use. </td>        </tr>      </table>      <div align='center'>     <input type=submit name='Submit' value='Submit'>       </div>    </FORM>  </div></div>";
+  var frmdataforward="<div class='feedbackfrm1'><div class='left_div'></div>  <div class='discus_panel_head'>Forward To Friend</div>  <div class='discus_panel'>	<div id='comment_result_forward'></div>      <FORM ACTION='' METHOD='post' NAME='frmcommentforward' CLASS='font' ID='frmcommentforward' onSubmit='return forwardLink();'>	<INPUT TYPE='hidden' NAME='link' VALUE='http://www.indianexpress.com/news/eating-from-a-red-plate-could-help-you-to-lose-weight/900246'/>	<table width='500' border='0' align='left' cellpadding='3' cellspacing='0' style='font-size:11px;color:#585858;'>        <tr>          <td width='35%' valign='top' style='padding-bottom:10px';><div id='divmynameforward'>Your Name</div></td>          <td width='65%' style='padding-bottom:10px';><input name='myname' type='text' class='textfild' id='myname' />              <span style='color:#f00;'>*</span>	  </td>        </tr>        <tr>          <td valign='top' style='padding-bottom:10px';><div id='divmyemailforward'>Your Email ID</div></td>          <td style='padding-bottom:10px';><INPUT NAME='myemail' TYPE='text' CLASS='textfild' ID='myemail' />              <span style='color:#f00; font'>*</span></td>        </tr>        <tr>          <td valign='top' style='padding-bottom:10px';><div id='divfriendsemailforward'>Friend's Email ID</div></td>          <td style='padding-bottom:10px';><INPUT NAME='friendsemail' TYPE='text' CLASS='textfild' ID='friendsemail' />              <span style='color:#f00; font'>*</span></td>        </tr>   <tr><td colspan='2' align='center' style='padding-bottom:10px';><input type=submit name='Submit' value='Submit'></td></tr>       </table>      <div align='center'>        <!-- <input name='image' type='image' src='http://static.expressindia.com/ie/story/images/buton_submit.gif' /> --> </div>    </FORM>  </div></div><BR><BR>";
+
+</script>
+<script>
+  function showdiv(val)
+  {
+    if (val == 1)
+    {
+      document.getElementById('subcontent').style.display="block";
+    }
+    if (val == 2)
+    {
+      document.getElementById('subcontent').style.display="none";
+      //return false;
+    }
+    if (val == 3)
+    {
+      document.getElementById('noikaMouseOver').style.display="block";
+    }	
+
+	if (val == 4)
+    {
+      document.getElementById('favorite').style.display="block";
+    }	
+
+	if (val == 5)
+    {
+      document.getElementById('favorite').style.display="none";
+    }
+
+  }
+
+  function hide(ele) {
+    var srcElement = document.getElementById(ele);     
+    srcElement.style.display= 'none';
+    //return false;
+  }
+
+</script>
+<script src="http://static.indianexpress.com/frontend/iep/js/commentNew.js" type="text/javascript"></script>
+ <!--
+<PageMap>
+    <DataObject type="date">
+      <Attribute name="displaydate" value="####DISPLAYDATE####"/>
+      <Attribute name="sdate" value="####SDATE####"/>
+    </DataObject>
+
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="####IMAGEPATH####"/>
+      <Attribute name="width" value="100"/>
+    </DataObject>
+  </PageMap>
+-->
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {parsetags: 'explicit'}
+</script>
+
+</head>
+  <body id="pg_height">
+ 
+
+<!-- for search -->
+<link href="https://plus.google.com/102297633798333626257/" rel="publisher" />
+
+<script src="http://static.indianexpress.com/frontend/iep/js/cookie.js" type="text/javascript"></script>
+<script src="http://static.indianexpress.com/frontend/iep/js/tooltip.js" type="text/javascript"></script>
+
+<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) {return;}
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=176383315772341";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<!-- facebook Code -->
+
+<!-- facebook Code -->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8738137" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+  
+  
+  function search_SendDataSearch()
+{
+	
+	var q=document.searchTop.q.value;
+	//alert(document.searchTop.stype.value);
+	if (document.searchTop.stype.value!="City")
+	{
+			if (q=="")
+			{
+				alert('Please Enter Search Value')
+				document.searchTop.q.focus();
+				window.status='Please Enter Search Value';
+				return false;
+			}
+	}
+	if (document.searchTop.stype.value=="indianexpress")
+	{
+		//document.searchTop.action="/search.php?q="+ q;
+		//document.searchTop.submit();
+		var searchText = q;
+		searchText = searchText.replace(/(<pre[\s\S]*?>[\s\S]*?<\/pre>)| {2,}/ig, ' ');
+		var splitText = searchText.split(' ');
+		if(splitText.length > 5)
+		{
+			alert("your search exceed max number of words limit");
+			return false
+		}
+		
+		var url = "/gsearch.php?cof=FORID%3A10&ie=ISO-8859-1&cx=partner-pub-9517772455344405%3Aw4l2qg-ta2o&q="+q+"&sort=date&hq=more%3Arecent4&sa=Search#1052"			
+		window.location.href=url;
+  }
+	if (document.searchTop.stype.value=="express")
+	{	
+		window.location.href="http://www.expressindia.com/gsearch.php?cof=FORID%3A10&ie=ISO-8859-1&cx=partner-pub-9517772455344405%3A7g933d4wd7i&q="+q+"&as_qdr=y5&sa=Search#1148";
+//	document.searchTop.action="/search.php?q="+ q;
+		//document.searchTop.submit();
+	}
+	else if (document.searchTop.stype.value=="web")
+	{
+	document.searchTop.action="http://www.indianexpress.com/gsearch.php?cx=partner-pub-9517772455344405%3Aoudczv-4zkx&cof=FORID%3A10&ie=ISO-8859-1&q="+ q + "&as_qdr=y5&sa=Search#";
+	document.searchTop.method="Post";
+	document.searchTop.submit();
+	}
+
+ else if (document.searchTop.stype.value=="screenindia")
+	{
+		var url = "http://www.screenindia.com/gsearch.php?cx=partner-pub-9517772455344405:6b8xsz-mz73&cof=FORID%3A10&ie=ISO-8859-1&q="+q+"&as_qdr=y5&sa=Search&type=screen"
+		window.location.href = url;
+	}
+	
+	else if (document.searchTop.stype.value=="shopping")
+	{		
+	
+			window.location.href="http://shopping.expressindia.com/index.php?page=tsearch&lexemes="+ q;
+	}
+
+	else if (document.searchTop.stype.value=="City")
+	{
+		//var name=document.searchTop.cityTop.value;	
+		document.searchTop.action="/citySearch.php";
+		document.searchTop.submit();
+	
+
+	}
+	
+return false;
+}
+
+  
+</script><noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8738137&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<div id="header_new">
+<div class="top_link">
+  <div class="signin_new" id='txtSignin'><strong><a href="/signin/">Sign In</a></strong> /<a href="/register/"> Register</a></div>
+  <!--<div class="rss_new"><a href="javascript:setHome()">Make This My Home Page</a>  |  <a href="/feedback/">Feedback</a></div>-->
+  <div class="search_new">
+    <form name="searchTop" method="get"><strong></strong>
+<input type="text" name="srch" id="SearchCitysrc" style="display:none;"/>
+      <select class="txt_body" name="city"  id="Searcitydisp" style="display:none"><option value="delhi">Delhi</option>
+        <option value="bangalore">Bangalore</option>
+        <option value="mumbai">Mumbai</option>
+        <option value="chennai">Chennai</option>
+        <option value="pune">Pune</option>
+        <option value="kolkata">Kolkata</option>
+        <option value="hyderabad">Hyderabad</option>
+        <option value="ahmedabad">Ahmedabad</option>
+        <option value="goa">Goa</option>
+        <option value="jaipur">Jaipur</option>
+      </select>
+      <input type="text" name="q" id="searchQval" style="display:block;" value="" />
+      <select name="stype" onchange="return citySelectSearch();"> 
+        <option value="indianexpress" selected="selected">IndianExpress</option>   
+        <option value="express">Expressindia</option>
+        <option value="web">Web</option>
+       <!-- <option value="City">City</option>  
+        <option value="shopping">Shopping</option> -->
+        <option value="screenindia">Screenindia</option> 
+      </select>	
+      
+      <strong>
+        
+      <input name="search" type="submit" value="search"  onClick="return search_SendDataSearch();" id="searchnormal"  style="display:block"/></strong>
+  <INPUT TYPE='HIDDEN' NAME='mod' VALUE='dsearch'/><INPUT TYPE='HIDDEN' NAME='onSubmit' VALUE='Submit' id="citySearchSubmit"/></form></div>
+
+<div class="w_links1">
+<div class="w_links2"><iframe allowtransparency="true" frameborder="0" scrolling="no"
+	  src="//platform.twitter.com/widgets/follow_button.html?screen_name=ietweet&show_count=false"
+	  style="width:135px; height:20px;"></iframe></div>
+ 	<div class="w_links3"><div class="fb-like" data-href="https://www.facebook.com/indianexpress" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false"></div></div>
+  </div>
+
+  <div class="clr_l"></div>
+  </div>
+    <div id="logo_box">
+    <div class="logo_new"><strong><script>document.write(dataStr)</script></strong><a href="/"><img src="http://static.indianexpress.com/frontend/iep/images/logo_new.gif" border="0" /></a></div>
+    
+    <div class="news_line_new"><ul>
+        <li class="current_new"><strong>News</strong></li>
+        <li class="current_arrow_new">
+        <a class="" href="/supplement/India/798/">India</a><b>|</b></li>
+        <li><a class="" href="/supplement/89">World</a><b>|</b></li>
+        <li><a class="" href="/supplement/Business/797/" >Business</a><b>|</b></li>
+        <li><a class="" href="/City/" >Cities</a><b>|</b></li>
+        <li><a class="" href="/Sports/">Sports</a><b>|</b></li>	
+        <li><a class="" href="/Showbiz/" >Showbiz</a><b>|</b></li>
+        <li><a class="" href="/LifeStyle-Health/" >Lifestyle</a><b>|</b></li>
+		 <li><a class="<!--IE Blogs-->" href="/Blog-IE/" >IE Blogs</a><b>|</b></li>
+        <li><a class="" href="/section/Technology/698/" >Technology</a><b>|</b></li>
+        <li><a class="" href="/Video/" >Videos</a><b>|</b></li>
+	 <li><a class="" href="/Picture-Gallery/" >Photos</a><b>|</b></li>
+        <li><a class="" href="/live-archives/" >Archives</a></li>
+    </ul></div>
+    
+	<div class="channels">
+	<strong>Channels</strong> 
+	<a target="_blank" href="http://www.ganeshaspeaks.com/?partnerName=expressindia" title="Astrology" rel="nofollow">Astrology</a> | <a href="http://www.indianexpress.com/fixtures" title="Cricket">Cricket </a> | <a target="_blank" href="http://tenders.expressindia.com/" title="Tenders">Tenders</a> | <a target="_blank" href="http://www.expressclassifieds.in/" title="Classified">Classified</a> | <a target="_blank" href="http://blogs.expressindia.com/" title="Reader Blogs">Reader Blogs</a><!--  | <a target="_blank" href="http://shopping.expressindia.com/" title="Shopping">Shopping</a>  -->| <a target="_blank" href="http://www.expressindia.com/eicomments.php" title="Reader Comments">Reader Comments</a> | <a target="_blank" href="http://www.indianexpress.com/formula1/" title="FORMULA 1">FORMULA 1</a> | <a target="_blank" href="http://www.jansatta.com/" title="Jansatta">Jansatta <img src="http://static.indianexpress.com/frontend/iep/images/New.gif" /></a><!-- | <a href="http://www.careerbuilder.co.in/IN/Default.aspx?lr=Int_inExpressindia&SiteID=Int_inExpressindia&cbRecursionCnt=1&cbsid=4edc23563a4c4ae4a79e139c36cfe91f-295345410-R3-4" title="Jobs">Jobs</a> | <a href="http://holidayrentals.indianexpress.com/">Vacation Rentals</a>| <a href="http://travel.expressindia.com/" title="Travel">Travel</a>-->
+</div>
+	
+	<div class="top_ad_728x90">
+<!--IFRAME CODE COMMENT DUE TO EXPANDABLE BANNER USE JAVA SCRIPT CODE-->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-9517772455344405");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-9517772455344405", "IE_Story_728x900");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!-- ca-pub-9517772455344405/IE_Story_728x900 -->
+<script type='text/javascript'>
+GA_googleFillSlot("IE_Story_728x900");
+</script>
+
+
+
+    </div>
+    <div class="clr_l"></div>
+  </div>
+  <div class="clr_l"></div>
+  <!-- breadcrum start-->
+  <div id="breadcrum_horo">
+    <div class="bredcrums"><strong>You are here: <a href="/">IE</a> » </strong> &nbsp; <a href="/news/eating-from-a-red-plate-could-help-you-to-lose-weight/900246/?utm_source=tangy&utm_medium=twitter&utm_campaign=food+ie">Story</a></div>
+    <div class="horo_new">
+      <ul>
+        <li><a href="http://epaper.indianexpress.com" ><img src="http://static.indianexpress.com/frontend/iep/images/icon_epaper.gif" align="absmiddle"  />Epaper</a></li>
+        <!--<li><a href="/Newsletter/" target='_blank'><img src="http://static.indianexpress.com/frontend/iep/images/icon_newsletter.gif" align="absmiddle" alt="Newsletter" />Newsletter</a></li>-->
+        <li><a href="/stocks.php"><img src="http://static.indianexpress.com/frontend/iep/images/icon_stock.gif" align="absmiddle"  />Stocks</a></li>
+	<li><a href="/supplement/"><img src="http://static.indianexpress.com/frontend/iep/images/red_icon.gif" align="absmiddle" />Today's Paper</a></li>
+        <li><a href="/weather.php"><img src="http://static.indianexpress.com/frontend/iep/images/icon_weather.gif" align="absmiddle" />Weather</a></li>
+        <li><a href="/astro.php"><img src="http://static.indianexpress.com/frontend/iep/images/icon_horoscope.gif" align="absmiddle"  />Horoscope</a></li>
+        
+		<li><a href='/rss/' target='_blank'><img title="The Indian Express RSS" alt="The Indian Express RSS" src="http://static.indianexpress.com/frontend/iep/images/rss.gif"></a></li> 
+	<li><a href='https://twitter.com/ietweet' target='_blank'><img title="Follow us on Twitter" alt="Follow us - The Indian Express Twitter" src="http://static.indianexpress.com/frontend/iep/images/twitter.jpg"></a></li>
+	<li><a href='http://www.facebook.com/indianexpress' target='_blank'><img title="Follow us on Facebook" alt="Follow us - The Indian Express Facebook" src='http://static.indianexpress.com/frontend/iep/images/facebk.jpg' /></a></li>
+	<li>  <a href="https://plus.google.com/102297633798333626257/?prsrc=3" target="_blank" style="text-decoration: none;"><img src="http://static.indianexpress.com/frontend/iep/images/g.jpg" alt="The Indian Express - Google +" width="16" height="16" style="border: 0;"/></a>  </li>
+		
+	</ul>
+    </div>
+  </div>
+  <!-- breadcrum End-->
+  <div class="clr_l"></div>
+</div>
+<!--End of Header-->
+<div class="clr"></div>
+<script src="http://static.indianexpress.com/frontend/iep/js/sign_in.js?rand=3202002" type="text/javascript"></script>
+<!--End of Header-->
+  <script language="javascript">
+    changeClass();
+  </script><!--End of Header-->
+  <div class="clr"></div>
+  
+  
+  <!--Right Content Ends-->
+   
+  <!--left content strats--><!-- content -->
+  <div id="content">
+  <h1 class="headstory">Eating from a red plate could help you to lose weight</h1>
+  <!--plus one starts-->
+	<div id="plusone3">
+	<g:plusone></g:plusone>
+	<script type="text/javascript">gapi.plusone.go("plusone1");</script>
+	<br />
+	<div align="right">
+	<a href="javascript:decreaseNewFontSize();"><img src="http://static.indianexpress.com/frontend/iep/images/textsmall.jpg" /></a> &nbsp;<a href="javascript:increaseNewFontSize();"><img src="http://static.indianexpress.com/frontend/iep/images/text-large.jpg" /></a>
+	</div>
+	</div>
+	<!--plus one ends-->
+  <div class="agencies"><div class="icons">
+  <div class="social2">
+		<div class="addthis_toolbox addthis_default_style ">
+		<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=pranjal26" class="addthis_button_compact">Share</a>
+		<span class="addthis_separator">|</span>    
+		<a class="addthis_button_twitter"></a>
+		<a class="addthis_button_facebook"></a>
+		<a class="addthis_button_googlebuzz"></a>
+		<a class="addthis_button_stumbleupon"></a>
+		<a class="addthis_button_email"></a>   
+		<a href="/story-print/900246/" class="prnt"><img border="0" title="Print" alt="Print" src="http://static.indianexpress.com/frontend/iep/images/print_icon.gif"/></a>
+		</div>
+		<script type="text/javascript">var addthis_config = {"data_track_clickback":false};</script>
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=pranjal26"></script>
+  </div>
+  </div><div class="datecont"> <a href="/columnist/agencies/">Agencies</a> : London, Mon Jan 16 2012, 14:12 hrs</div>
+</div>
+<div class="clear"></div>
+<div class="contentMidsmallstory">
+<div class="block"><img src="http://static.indianexpress.com/m-images/Mon Jan 16 2012, 14:12 hrs/M_Id_261912_Red_plate.jpg" alt="Red plate"  class="story" width="170" title="Red colour may encourage diners to avoid snacking as it is associated with danger, prohibition, stop."><br />
+<!--<div class="box_facebookNew"><span></span><iframe scrolling="no" frameborder="0" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Findianexpress&amp;width=170 &amp;colorscheme=light&amp;connections=0&amp;stream=false&amp;header=true&amp;height=72" style="border: medium none; background:#ebe9ea; overflow: hidden; width: 170px; height: 72px;" allowtransparency="true"></iframe> </div>-->
+
+<iframe scrolling="n"  height='1000' width='180' frameborder="0" src="http://www.indianexpress.com/moreFromIE.php" ></iframe>
+
+</div>
+</div>
+<div class="contentLeftbigstory"><p>Serving up meals on red plates or drinking from red cups cuts consumption by about 40 per cent, scientists have found.</p><p>German and Swiss academics behind the discovery say the colour red may encourage diners to avoid snacking because it is commonly associated with the idea of danger, prohibition and stop, a media report said.</p><p>They claim the discovery means the government and food industry could use red packaging on unhealthy foods as a deterrent  and could even use more red in pubs to prevent people drinking too much, they claimed.</p><p>In the study, 41 male students were asked to drink tea from cups marked with red or blue labels. They drank 44 per cent less from cups with red labels.</p><p>In the second part of the study, 109 people were given ten pretzels each on either a red, blue or white plate. Those with a red plate ate fewer pretzels.</p><p>Red may be associated with alarm or something primeval, said Ursula Arens, from the British Dietetic Association.</p><p>The results were published in the journal Appetite.</p>
+<br />
+<!--<div id="plusone4">
+<g:plusone></g:plusone>
+<script type="text/javascript">gapi.plusone.go("plusone2");</script>
+ </div>-->
+<!--plus one ends-->
+ <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like show_faces="false" width="500" action="recommend" font="verdana"></fb:like>
+	<div class="clear"></div>    
+	<br />
+	<div class="clear"></div>	
+ <span class="tags">Tags: <a href="javascript:keySub('red plate')">red plate</a>, <a href="javascript:keySub(' lose weight')"> lose weight</a>, <a href="javascript:keySub(' avoid snacking')"> avoid snacking</a>, <a href="javascript:keySub(' food news')"> food news</a> </span>
+<br />
+<div class="pagination3"><div class="icons">
+<div class="social2">
+<div class="addthis_toolbox addthis_default_style ">
+		<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=pranjal26" class="addthis_button_compact">Share</a>
+		<span class="addthis_separator">|</span>    
+		<a class="addthis_button_twitter"></a>
+		<a class="addthis_button_facebook"></a>
+		<a class="addthis_button_googlebuzz"></a>
+		<a class="addthis_button_stumbleupon"></a>
+		<a class="addthis_button_email"></a>   
+		</div>
+		<script type="text/javascript">var addthis_config = {"data_track_clickback":false};</script>
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=pranjal26"></script>
+</div>
+</div> <span class="nobold"></span><div class="clear"></div></div>
+<br /><!--google -->
+
+<div id="google_new">
+
+<strong><a href='http://www.google.com/url?ct=abg&q=http%3A//services.google.com/feedback/abg%3Furl%3Dhttp%3A//www.indianexpress.com/%26hl%3Den%26client%3Dca-pub-9517772455344405%26adU%3Dwww.JetAirways.com/Cheap_Tickets%26adT%3DJetAirways%25E2%2584%25A2%2BOfficial%2BSite%26adU%3DHDFC.HomeLoans.enhanz.in%26adT%3DHDFC%2BHome%2BLoans%26adU%3DXenonXT.TataMotors.com%26adT%3DThe%2BNew%2BTata%2BXenon%2BXT%26adU%3DMakeMyTrip.com/Cheap-Airfares%26adT%3DPune-Delhi%2BLow%2BAirfares%26done%3D1%26gl%3DIN' target='_blank'>Ads by Google</a></strong>
+<script language="JavaScript">
+function google_ad_request_done(google_ads) {
+var s = '';
+var i;
+if (google_ads.length == 0) {
+return;
+}
+if (google_ads[0].type=="text") {
+if (google_ads.length > 0) {
+s += "";
+for(i=0; i < google_ads.length; ++i) {
+
+s += '<a href="' + google_ads[i].url + '" target="_blank" ' +
+'onmouseout="window.status=\'\'" ' +
+'onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\'" ' +
+'>' +
+google_ads[i].line1 + '&nbsp; </a>'+
+'<b>'+google_ads[i].line2 +'&nbsp; '+google_ads[i].line3 + '</b>' +
+
+'<span><a href="' + google_ads[i].url + '" target="_blank" ' +
+'onmouseout="window.status=\'\'" ' +
+'onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\'" ' +
+'>'+google_ads[i].visible_url.substr(0,20) +'</span></a>';
+
+}
+}
+s += "";
+}
+
+document.write(s);
+return;
+}
+
+google_ad_client = "pub-9517772455344405";
+google_ad_output = 'js';
+google_max_num_ads = 2;
+google_ad_slot = "1801448143";
+google_ad_channel = "ies_300x250-text";
+google_adtest = 'off';
+google_safe = 'high';
+google_ad_section = 'ie_home_all';
+
+</script>
+
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+</div><div class="clear"></div>
+<br />
+
+<div class="clear"></div>
+<br />
+<div class="rightbg">
+<div class="blockprev"><a href="/news/up-polls-maya-drops-100-sitting-mlas-from-candidate-list/900245"><img alt="previous" src="http://static.indianexpress.com/frontend/iep/images/arprev.png"></a><span><a href="/news/up-polls-maya-drops-100-sitting-mlas-from-candidate-list/900245">Previous Story</a></span><br><a href="/news/up-polls-maya-drops-100-sitting-mlas-from-candidate-list/900245">UP polls: Maya drops 100 sitting MLAs from candidate list</a></div>
+<div class="blocknext"><a href="/news/india-all-set-to-lose-no-2-spot-in-test-ranking/900247"><img alt="Next" src="http://static.indianexpress.com/frontend/iep/images/arnext.png"></a><span><a href="/news/india-all-set-to-lose-no-2-spot-in-test-ranking/900247">Next Story</a></span><br><a href="/news/india-all-set-to-lose-no-2-spot-in-test-ranking/900247">India all set to lose No 2 spot in Test ranking</a></div>
+</div>
+<div class="clear"></div>
+<br />
+<h3 class="readcomm"><a rel="canonical" href="/comments/eating-from-a-red-plate-could-help-you-to-lose-weight/900246/" class="readcomhead">Reader's Comments(1)</a> | <a href="#postCom">Post a comment</a></h3>
+<div class="commenttext">
+<div class="commenttitle">How much more stupid can we get</div>
+<div class="linkright"><a href="javascript:con('div', 2930488)" id="active">Reply</a> | <a href="javascript:forward('div')">Forward</a></div><div class="name">conscience | 16-Jan-2012</div><br />This is the height of the ridiculous please......<span id="div" style="display:none;"></span></div>
+<br />
+<div class="postcomm">
+<h3 class="readcomm"><a name='postCom'>Post your Comment</a></h3>
+<div class="clr_l" id="divmessagemain"></div>
+<FORM  method="post" name="frmcommentmain" id="frmcommentmain" onSubmit="return insertCommetMain(900246, this);">
+        <INPUT TYPE="hidden" NAME="typ" VALUE="commentSubmit" />
+        <INPUT TYPE="hidden" NAME="storyId" VALUE="900246" />
+        <div class="horall"><div class="hordataNew" id="divnamemain">Name:</div>
+          <div class="hordata_r1"><input type="text" class="postcom1" name="name"  title="Please enter your name"/></div>
+          <div class="hormailNew"><span class="hordataNew" id="divemailmain">Email:</span></div>
+          <div class="hordata_r1"><input type="text" class="postcom1" name="email" title="Please enter your email"  /></div>
+        </div><div class="hordata" id="divsubjectmain">Title:</div><div class="hordata_rNew"><input type="text" class="postcom2" name="subject"  title="Please enter subject"/></div>
+        
+        <div align="left" class="maxchars" id="divcharlimitmain">Maximum characters allowed &nbsp; <input type="text" value="1000" name="charLimit" class="postcom1" readonly size="6" style="width:50px;"> &nbsp;&nbsp;</div>
+        
+        <div class="hordata" id="divcommentmain">Comment:</div><div class="hordata_r">
+          <textarea name="comment" rows="6" class="postcom3"   title="Please enter your comments" onkeyup="messCharCount(this.form)"></textarea>
+        </div>
+        		<div class="hormail" id="divcaptcha"><span class="hordataNew" id="divcaptha">Enter image text</span></div>
+         <div class="hordata_r1" style="width:300px; overflow:hidden"><input class="postcom1" type="text" id="txtInput" style="float:left; margin-right:10px; width:100px;"/> 
+		 
+		 <span id="captchaSource"> <img src="/captcha.php" alt="CAPTCHA" width="75" height="20"> </span> 
+		 <img src="http://static.indianexpress.com/frontend/iep/images/captchaRefresh.jpg" onclick="DrawCaptcha();" width="20" height="20" style="margin-left:10px; cursor:pointer;">
+ 		</div>
+        <div class="hordata_term"><div id='comment_result_main'></div>
+          <div class="termscom"><input type="checkbox" name="checkbox" value="checkbox"  />
+        I agree to the terms of use.</div>
+        <div class="linkright"><input type="Submit" value="Post comment" name="submit" /></div></div>
+      </form>
+
+</div>
+
+
+</div>
+
+
+
+  </div>
+  <!-- content --><!-- Comment Box Ends --> 
+  <!--End of left content--></div>
+
+  
+  <div id="content_right">
+    <!--Right Content Starts-->
+    <div class="rt_ad_300x250">
+    <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-9517772455344405");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-9517772455344405", "IE_S_1st_300x250");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!-- ca-pub-9517772455344405/IE_S_1st_300x250 -->
+<script type='text/javascript'>
+GA_googleFillSlot("IE_S_1st_300x250");
+</script>
+
+</div>
+ <div class="clr_l"></div>
+ <div class="box_facebookNew"> 
+<span></span>
+<iframe scrolling="no" frameborder="0" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Findianexpress&amp;width=298 &amp;colorscheme=light&amp;connections=0&amp;stream=false&amp;header=true&amp;height=62" style="border: medium none; background:#ebe9ea; overflow: hidden; width: 298px; height: 62px;" allowtransparency="true"></iframe> 
+</div>
+<!--<div style="padding: 0 0 5px 0"><a href="http://www.expresscomputeronline.com/technologysabha" target="_blank"><img src='http://static.indianexpress.com/frontend/iep/banner/tsabha-expressindia.gif' border='0' /></a></div>  -->
+<div class="clr_l"></div>
+ 
+<iframe src="http://www.indianexpress.com/ajax/latestNews.php" frameborder="0" width="300px" height="270px" scrolling="no"></iframe><!--End of Latest News Tab Section-->
+
+<div class="clr_l"></div>
+
+<div><a href="http://www.expressindia.com/rngf/" target="_blank" border="none"><img height="45" width="300" style="padding-top:5px;" src="http://static.indianexpress.com/frontend/iep/images/RNGF.jpg" border="0"> </a></div>
+
+<div class="clr_l"></div>
+
+  <div style="padding:5px 0;">	<embed src="http://static.indianexpress.com/frontend/iep/images/banner.swf" width="300" height="90">
+		</embed>
+		 
+  
+  </div> 
+
+<div class="clr_l"></div>
+
+<div class="rt_ad_300x250">
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-9517772455344405");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-9517772455344405", "IE_S_2nd_300x250");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!-- ca-pub-9517772455344405/IE_S_2nd_300x250 -->
+<script type='text/javascript'>
+GA_googleFillSlot("IE_S_2nd_300x250");
+</script></div>
+<div class="clr_l"></div>
+
+<div class="rt_ad_300x250">
+<iframe width="300" scrolling="no" height="250" frameborder="0" src="http://static.indianexpress.com/frontend/iep/banner/story3.html" marginheight="0" marginwidth="0"></iframe>
+   
+</div>
+
+<!--<div class="clr_l"></div>
+  
+    
+</div>  Shopping Ends-->
+ 
+
+<div class="clr_l"></div>
+
+
+<div class="rt_ad_300x250">
+    <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-9517772455344405");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-9517772455344405", "IE_S_4th_300x250");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!-- ca-pub-9517772455344405/IE_S_4th_300x250 -->
+<script type='text/javascript'>
+GA_googleFillSlot("IE_S_4th_300x250");
+</script>
+    
+</div>
+<div class="clr_l"></div>
+
+<div style="margin:0px 0px 5px 0px; float:left">
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-9517772455344405");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-9517772455344405", "IE_300x90_1st");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!-- IE_300x90_1st -->
+<script type='text/javascript'>
+GA_googleFillSlot("IE_300x90_1st");
+</script>
+</div>
+	
+
+  
+<div class="clr_l"></div>
+
+<!-- <div style="margin:0px 0px 5px 0px; float:left" >
+<iframe id='a9b0dbee' name='a9b0dbee' src='http://promo.expressindia.com/adsnew2.8.1/www/delivery/afr.php?zoneid=70&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;ct0=INSERT_CLICKURL_HERE' framespacing='0' frameborder='0' scrolling='no' width='300' height='90'><a href='http://promo.expressindia.com/adsnew2.8.1/www/delivery/ck.php?n=aab53f83&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://promo.expressindia.com/adsnew2.8.1/www/delivery/avw.php?zoneid=70&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aab53f83&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></iframe>
+
+</div>
+<div class="clr_l"></div>	 -->
+<div class="clr_l"></div>
+ 
+<!--<div class="clr_l"></div>	 -->
+
+
+<!--
+<div class="clr_l"></div>
+ <div style="width:300px; height:60px; margin:0 0 3px 0;">
+    <a href="/election-09/" target="_blank"><img src="http://static.indianexpress.com/frontend/iep/images/election_l_banner.jpg" border="0" /></a>
+ </div>
+ -->
+<!-- <div class="rt_ad1_300x90"><iframe width="300" scrolling="no" height="90" frameborder="0" src="http://static.indianexpress.com/frontend/iep/banner/saffola.html" marginheight="0" marginwidth="0"></iframe></div> -->
+
+<!-- cricket pickthescore 300x90 --> 
+<!--  <div style="width:300px; height:60px; margin:0 0 3px 0;">
+ <object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0' width='300' height='50'><param name='movie' value="http://static.indianexpress.com/frontend/iep/images/ipl_300x50.swf" /><param name='quality' value='high' /><embed src="http://static.indianexpress.com/frontend/iep/images/ipl_300x50.swf" width='300' height='50' quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash'></embed></object>
+ </div> -->
+
+
+<!--  <div class="rt_ad1_300x90"><iframe width="300" scrolling="no" height="90" frameborder="0" src="http://banners.expressindia.com/banner/ie/ies_300x90_2nd.html" marginheight="0" marginwidth="0"></iframe>
+</div> 
+<div class="clr_l"></div> -->
+
+<div style="width:300px; margin:0; padding:0; float:left; display:inline; ">
+    <!--BANNER 300X90 2UNIT BANNER-->
+    
+  
+  
+    <div style="float:left; width:120; margin:0; padding:0; display:inline;">
+        <!--google unit 120X600 -->
+<!--<script type="text/javascript"><!--
+google_ad_client = "pub-9517772455344405";
+/* 120x600, created 7/14/09 */
+google_ad_slot = "5146854773";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+<!--></script>
+<!--<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>-->
+   
+   <!--BANNER 120X600 START--> 
+    <!-- <iframe id='aa0362b0' name='aa0362b0' src='http://promo.expressindia.com/adsnew2.8.1/www/delivery/afr.php?
+            zoneid=26&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;ct0=INSERT_CLICKURL_HERE' framespacing='0' frameborder='no' 
+            scrolling='no' width='120' height='600'>
+      <a href='http://promo.expressindia.com/adsnew2.8.1/www/delivery/ck.php?n=a582f872&amp;
+         cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'>
+        <img src='http://promo.expressindia.com/adsnew2.8.1/www/delivery/avw.php?zoneid=26&amp;
+             cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a582f872&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' />
+      </a>
+    </iframe> -->
+    <!--BANNER 120X600 END--> 
+    
+    
+    </div>
+    
+    <!--/* OpenX Javascript Tag v2.6.4 * 160X600/-->
+  
+    <div style="float:left; width:160; margin:0; padding:0; display:inline;">
+        <!-- <iframe id='ab8bdf6e' name='ab8bdf6e' src='http://promo.expressindia.com/adsnew2.8.1/www/delivery/afr.php?zoneid=25&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='160' height='600' style="float:right; display:inline;" ><a href='http://promo.expressindia.com/adsnew2.8.1/www/delivery/ck.php?n=a268c1cf&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://promo.expressindia.com/adsnew2.8.1/www/delivery/avw.php?zoneid=25&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a268c1cf' border='0' alt='' /></a></iframe> -->
+    </div>
+</div>
+
+
+</div>
+
+
+    <!--Right Content Ends-->
+  </div>
+
+ 
+  <div id="footer"><!--Footer starts-->
+    <div id="groupsite"><!--Group Sites start-->	
+      <ul>
+		<li><strong>Group Sites : </strong></li>
+	
+		<li><a href="http://www.expressindia.com/" target="_blank">Express India</a> | </li>
+		<li><a href="http://www.financialexpress.com/" target="_blank">Financial Express</a> | </li>
+		<li><a href="http://www.screenindia.com/" target="_blank">Screen India</a> | </li>
+		<li><a href="http://www.loksatta.com/" target="_blank">Loksatta</a> | </li>
+		<li><a href="http://www.kashmirlive.com/" target="_blank">Kashmir Live</a> | </li>
+		<li><a href="http://www.exims.in/" target="_blank">Exims</a> | </li>
+		<li><a href="http://www.expresstowers.in/" target="_blank">Express Towers</a></li>
+	</ul>
+    </div><!--Group Sites Ends-->
+    
+    <div class="clr_l"></div>
+    
+    <div class="clr_l"></div>
+
+<div class="footer_left"> <a href="/privacy-policy/">Privacy Policy</a> | <a href="/feedback/">Feedback</a> | <a href="/Sitemap/">Site Map</a> |  <a href="/advertise-with-us/">Advertise With Us</a> | <a href="http://www.expressindia.com/news/expressgroup/" target="_blank">Express Group</a> | <a href="/contact-us/">Contact Us</a> | <a href="/subscribe/reg.php">Subscribe</a>
+  <div class="clr_l"></div>
+  <p>&copy; 2012 The Indian Express Limited. All rights reserved</p>
+</div>
+  <!-- <div class="footer_right ft_ad">
+  
+  <object width="468" height="60">
+
+<param name="movie" value="http://static.expressindia.com/frontend/iep/banner/media.swf">
+<embed src="http://static.expressindia.com/frontend/iep/banner/media.swf" width="468" height="60">
+</embed>
+</object>
+</div>   -->
+
+<!--POP UNDER CODE START-->
+
+<!--pop under serve from adsnew2.8.1 -->
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-9517772455344405");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-9517772455344405", "si_popunder_5X5");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION -->
+<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT si_popunder_5X5-->
+<script type="text/javascript">
+  GA_googleFillSlot("si_popunder_5X5");
+</script>
+<!-- END OF TAG FOR SLOT si_popunder_5X5-->
+
+
+
+<!--POP UNDER CODE END-->
+
+
+
+<!-- Google analytics starts indianexpress.com-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1403607-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+<!-- Google analytics ends -->
+
+<!--TOOLBAR CODE
+<script src='http://cdn.wibiya.com/Loaders/Loader_45710.js' type='text/javascript'></script>
+
+<script>
+        var t1=null;
+        var l1="Tooltip for line one";
+        function init()
+        {
+            t1 = new ToolTip("a",true,40);
+        }
+    </script>-->
+	<!-- To get the Rupee Symbol-->
+	<!--<script src="http://cdn.webrupee.com/js" type="text/javascript"></script>-->
+    <!-- To get the Rupee Symbol-->
+  </div><!-- End of Footer -->
+
+  <!-- Icon Style JS -->
+
+  <script language="javascript">
+    function show(ele) {
+      var srcElement = document.getElementById(ele);
+      if(srcElement != null) {
+        if(srcElement.style.display == "block") {
+          srcElement.style.display= 'none';
+        }
+        else {
+          srcElement.style.display='block';
+        }
+      }
+      //return false;
+    }
+  </script>
+  <script language="javascript">
+    function hide(ele) {
+      var srcElement = document.getElementById(ele);     
+      srcElement.style.display= 'none';
+      //return false;
+    }
+  </script>
+  <div id="icon-tab" style="display:none">
+    <div class="icontxt"><div class="iconsty">Printable Version</div></div>
+  </div>
+  <div id="icon-tab2" style="display:none">
+    <div class="icontxt2"><div class="iconsty">Mail This Article</div></div>
+
+  </div>
+  <div id="icon-tab3" style="display:none">
+    <div class="icontxt3"><div class="iconsty">Read Comments</div></div>
+  </div>
+  <div id="icon-tab4" style="display:none">
+    <div class="icontxt4"><div class="iconsty">In Depth Analysis</div></div>
+  </div>
+  <div id="icon-tab5" style="display:none">
+
+    <div class="icontxt5"><div class="iconsty">Add to favorites</div></div>
+  </div>
+  <script src="/hitCount.php?storyId=900246"></script>
+</body>
+
+</html>/html>ORYID####"></script>
+</body>
+
+</html>/html>

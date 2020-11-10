@@ -1,0 +1,951 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><!--B=false-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+
+
+
+
+
+
+
+<head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="pl">
+<title>Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B</title>
+
+
+		<META NAME="ROBOTS" CONTENT="NOARCHIVE">
+		<META NAME="GOOGLEBOT" CONTENT="NOARCHIVE">
+	
+
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+<meta property="og:type" content="article"/>
+
+
+
+
+<meta property="og:url" content="http://wyborcza.pl/leczyc/1,114653,10882947,Szczepionka_przeciwko_wirusowemu_zapaleniu_watroby.html"/>
+
+<meta property="og:title" content="Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B"/>
+
+<meta property="og:description" content="Czy Heparex jest szczepionką przeciw żółtaczce?"/>
+
+<meta property="og:image" content="" />
+ 	
+ 
+	
+<meta property="og:site_name" content="wyborcza.pl"/> 
+
+
+
+<META name="google-site-verification" content="ndHrHBfBczR9E/e2gPRLuP3N0bLbnkkhZKd/awuYWwQ=" />
+<meta name="Description" content="Czy Heparex jest szczepionką przeciw żółtaczce?">
+<meta name="Keywords" content="leczyć po ludzku, prawa pacjenta">
+
+
+
+
+<link rel="stylesheet" href="/css/globalshared.css" type="text/css">
+	<link rel="stylesheet" href="/css/leczyc/inc.css" type="text/css">
+	<link rel="stylesheet" href="/css/leczyc/lay1.css" type="text/css">
+	
+	<link rel="stylesheet" href="http://biv.gazeta.pl/css/leczyc/style1.css" type="text/css">
+<!-- for chartbeat --><script language="javascript">var now = new Date(2012, 0, 14, 22, 15, 58);</script>
+
+<link rel="shortcut icon" href="http://www.wyborcza.pl/aliasy/foto/wyborcza/favicon.ico">
+<script type="text/javascript" src="/info/cookie_profil.js"></script>
+
+<script type="text/javascript">
+
+var profileBan;
+if (typeof profileCookie != 'undefined'){
+	profileBan = profileCookie; 
+}else {
+	profileBan = null;
+}	
+
+var asParams;
+if (typeof asAdsParams != 'undefined' && asAdsParams != ''){
+	asParams = '&asParams=' + asAdsParams; 
+}else {
+	asParams = '';
+}
+document.write('<scr'+'ipt type="text/javascript" src="http://ad.adview.pl/ad/GetBan?dir=/leczyc/&jsp=23&dx=114653&t='+(new Date()).getTime()+'&p='+profileBan+asParams+'"><\/script>');
+
+document.write('<scr'+'ipt type="text/javascript" src="http://bi.adview.pl/info/ban/banFunc.js"><\/script>');
+</script>
+
+
+<script type="text/javascript">putBan(2);</script>
+
+
+
+
+<script type="text/javascript"><!--
+if (top.frames.length!=0) top.location=self.document.location;
+// --></script>
+
+
+	
+
+<!-- (C)2000-2006 Gemius SA - gemiusAudience  -->
+<script><!--
+    var pp_gemius_identifier = new String('.AtFXvf4dYJIyYb.OJjPdPU3.K5Rb1gs6Sg64frAqej.q7/arg=114653/sarg='+'|'+profileCookie);
+
+//--></script>
+<script src="http://www.gazeta.pl/info/http/xgemius.js"></script>
+
+
+	
+  <script type="text/javascript">
+	var _gaq = _gaq || [];
+	var utmgif = 'http://kropka.'+ window.location.hostname+'/__utm.gif';
+	_gaq.push(['_setAccount', 'UA-426268-1']);
+	_gaq.push(['_setCampaignCookieTimeout', 0]);
+	_gaq.push(['_setCustomVar',1,'nr_dzialu',114653,3]);
+	_gaq.push(['_setLocalGifPath',utmgif]);
+	_gaq.push(['_setLocalRemoteServerMode']);
+	_gaq.push(['_setAllowAnchor', true]); 
+	_gaq.push(['_trackPageview']);
+	(function() {
+	var ga = document.createElement('script');
+	ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +
+	'.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(ga, s);
+	})();
+  </script>
+
+  <script type="text/javascript">
+	(function() {
+	var tg = document.createElement('script');
+	tg.type = 'text/javascript';
+	tg.async = true;
+	tg.src = 'http://analytics.gazeta.pl/tg.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(tg, s);
+	})();
+  </script> 
+
+
+
+</head>
+
+
+
+<body>
+
+
+<!--[if IE]><script>(function(t) { for (var i = 0, l = t.length; i < l; i++) document.createElement(t[i]); })(['fb','og']);</script><![endif]-->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId  : null,
+      status : true, // check login status 
+      cookie : true, // enable cookies to allow the server to access the session
+      xfbml  : true,  // parse XFBML
+      channelUrl: 'http://bi.gazeta.pl/info/facebook/fbjs.html'
+    });
+  };
+
+  (function() {
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/pl_PL/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+ 
+
+<script type="text/javascript" src="http://pro.hit.gemius.pl/gstream.js"></script>
+
+<!-- new alert START -->
+ 
+
+
+
+
+
+
+        
+         <!--  -->
+         <!-- WI --> 
+        
+
+
+
+
+<!-- new alert END -->
+
+
+ 
+
+
+
+
+
+
+
+<!-- cpc:on -->
+
+    
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+<!--  CPC INC P1/P2-->
+
+	<script src="http://ad.gazeta.pl/cpc/CpcBanGetServlet?p=114653&xxArt=10882947&xxDiv=114653&img=true"></script>
+	 
+
+  <script type="text/javascript" src="/info/cpc/ecom_cpc_3.js"></script>
+
+<!-- cpc -->
+
+
+
+
+<script type="text/javascript">
+	var idPogoda="";
+</script>
+
+
+<script type="text/javascript">putBan(49);</script>
+    <div id="sW">
+      
+<!--CZAPECZKA - START -->
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+	
+	<div id="sWbgNew"><div class="Ww1"><div class="Ww1k1"><a href="http://www.gazeta.pl/0,0.html?utm_source=czapeczka&utm_medium=AutopromoCzp&utm_campaign=a_logoczapa" class="WtxtSpec">Gazeta.pl</a><a href="http://www.tokfm.pl/Tokfm/0,0.html" class="Wtxt">Tokfm.pl</a><a href="http://poczta.gazeta.pl/" class="Wtxt">Poczta</a><a href="http://forum.gazeta.pl/" class="Wtxt">Forum</a><a href="http://www.blox.pl/" class="Wtxt">Blogi</a><a href="http://wyborcza.pl/0,0.html" class="Wtxt">Wyborcza.pl</a></div><div class="Ww1k2"><a href="http://pogoda.gazeta.pl" class="WtxtSpec">Pogoda</a><a href="http://www.naprzerwie.pl" class="Wtxt">Gry</a><a href="http://www.sciagnij.pl" class="Wtxt">Programy</a></div><div class="clr"></div></div></div><!--winieta-czapeczka /htm/3970/n3970318.htm-->
+
+
+<!--CZAPECZKA - END -->
+
+
+
+
+<!-- period for dwr -->
+<script>
+var gazeta_pl = gazeta_pl || {};
+gazeta_pl.gameCenterRefresh = 0;
+</script>
+
+
+
+<!--/VAR - END -->
+	  <div id="banP1"><script type="text/javascript">putBan(1);</script></div>
+        <div id="sWlbg"><div class="Ww2"><map name="winieta"><area coords="0,0,171,61" shape="rect" href="http://wyborcza.pl/0,0.html"></map><img class="Wimg3" src="http://bi.gazeta.pl/im/6/7224/m7224246.gif" width="171" height="61" alt="" usemap=#winieta /><div class="Whtm"><h1><a href="0,0.html">Leczyć po ludzku</a></h1>
+
+<div class="partner">
+</div></div><div class="clr"></div></div></div><!--winieta /htm/7218/n7218280.htm-->
+
+        <!--iw5wyborcza:8134 23x3249681-->
+
+    </div><!--sW-->
+    <div id="sPP">
+	    
+            
+            
+
+
+
+
+
+            
+
+         
+			  <!-- tokfm_pozioma= -->
+
+        <div id="sS">
+			
+	        	
+	        	<!-- /aliasy/leczyc/goraStronySzeroko.htm -->
+	        
+            <div id="bg_blk">
+            <span class="kL">
+            
+                <p>
+				<a href="http://www.gazeta.pl">Gazeta.pl</a><small>&nbsp;&gt;</small>
+<a class="s" href="http://wyborcza.pl/leczyc/0,0.html">Leczyć po ludzku</a><span class=s><small>&nbsp;&gt;&nbsp;</small></span> <a class="s" href="http://wyborcza.pl/leczyc/0,114651.html">Lekarz odpowiada</a><span class=s><small>&nbsp;&gt;&nbsp;</small></span> <a class="s" href="http://wyborcza.pl/leczyc/0,114653.html">Pytania teksty</a>
+
+				</p>
+			
+			</span>
+                
+                
+                <!-- niezLucy -->
+                        <div id="dwf3">
+
+    <div id="banP91"><script type="text/javascript">putBan(91);</script></div>
+    <!-- home: http%3A%2F%2Fwyborcza.pl%2Fleczyc%2F1%2C114653%2C10882947%2CSzczepionka_przeciwko_wirusowemu_zapaleniu_watroby.html -->
+    
+    
+    <span class="nsk"><img src="/i/37/kreska_pion.gif" /></span>
+    <span class="ns fontArt">
+        <a alt="Rozmiar tekstu" title="Rozmiar tekstu" href="javascript:ts(tgs,'art2',0);ts(tgs2,'art',0);setCoo(0);" class="ns1">A</a>
+        <a alt="Rozmiar tekstu" title="Rozmiar tekstu" href="javascript:ts(tgs,'art2',1);ts(tgs2,'art',1);setCoo(1);" class="ns2">A</a>
+        <a alt="Rozmiar tekstu" title="Rozmiar tekstu" href="javascript:ts(tgs,'art2',2);ts(tgs2,'art',2);setCoo(2);" class="ns3">A</a>
+    </span>
+       
+
+    
+<div class="" id="sharer">
+  <a class="nk" id="share_link" href="http://nasza-klasa.pl/sledzik?shout=%20%20http%3A%2F%2Fwyborcza.pl%2Fleczyc%2F1%2C114653%2C10882947%2CSzczepionka_przeciwko_wirusowemu_zapaleniu_watroby.html"><span>Podziel się</span></a>
+  <ul>
+   <li class="first"><a class="facebook" href="javascript:pop('http://www.facebook.com/share.php?u=http%3A%2F%2Fwyborcza.pl%2Fleczyc%2F1%2C114653%2C10882947%2CSzczepionka_przeciwko_wirusowemu_zapaleniu_watroby.html',920,530)">Facebook</a></li>
+   <li><a class="wykop" href="javascript:wykopPop('http://www.wykop.pl/dodaj/link/url,','http%3A%2F%2Fwyborcza.pl%2Fleczyc%2F1%2C114653%2C10882947%2CSzczepionka_przeciwko_wirusowemu_zapaleniu_watroby.html',',title,,desc,',1000,800)">Wykop.pl</a></li>
+   <li><a class="nk"  href="javascript:pop('http://nasza-klasa.pl/sledzik?shout=%20%20http%3A%2F%2Fwyborcza.pl%2Fleczyc%2F1%2C114653%2C10882947%2CSzczepionka_przeciwko_wirusowemu_zapaleniu_watroby.html',1000,590)">Nasza Klasa</a></li>
+   <li><a class="polec" href="javascript:pop('http://gazeta.hit.gemius.pl/hitredir/id=dv0wDcepE4mF2ljldkAikqP8Dfa6Ig_cUZFNXs.y7QP..7/stparam=nmrsntlnfr/url=http://wyborcza.pl/leczyc/2029030,114653,10882947.html?b=1&x=10882947&d=0&utm_source=recommend&utm_medium=email&utm_campaign=recommend&home=http%3A%2F%2Fwyborcza.pl%2Fleczyc%2F1%2C114653%2C10882947%2CSzczepionka_przeciwko_wirusowemu_zapaleniu_watroby.html?utm_source=rozne&utm_medium=AutopromoInt&utm_content=link_polecznajomym110311&utm_campaign=a_polecznajomym110311',505,330)">Wyślij e-mailem</a></li>   
+  </ul>
+</div>
+<script type="text/javascript" src="http://bi.gazeta.pl/info/common/sharer.js"></script>
+  
+</div>
+                
+                
+                <span class="search"></span>
+                
+            </div>
+
+
+            <div id="banP56"><script type="text/javascript">putBan(56);</script></div>
+            <div class="clr"></div>
+            <div id="k12">
+                <div id="k1">
+
+<!-- google_ad_section_start(name=art, weight=high) -->
+
+                    <div id="k0">
+
+                        
+                        
+			 <h1> Szczepionka przeciwko wirusowemu zapaleniu wątroby typu B</h1>
+                        <h5 class="author">*</h5>
+                        <h6 class="date">2011-12-28, ostatnia aktualizacja 2011-12-28 19:40 </h6>
+
+
+
+
+	               </div><!--k0-->
+
+
+	               <div id="art">
+                        
+                            <h4> Czy Heparex jest szczepionką przeciw żółtaczce? </h4>
+                            <script language="JavaScript" type="text/javascript" src="/info/text.js" ></script>
+                            
+                            
+                            
+                                
+                                
+
+                                
+
+                                
+                            <div id="banP34"><script type="text/javascript">putBan(34);</script></div>
+                            
+                            <div id="art2">
+			    <!-- klucze: true |  | tak -->
+                                <!--stan = 0--><!--<ilosc_stron>1</ilosc_stron>--><div id="artykul">        Na polskim rynku nie ma szczepionki o&nbsp;tej nazwie. Jest natomiast zarejestrowana i&nbsp;stosowana szczepionka o&nbsp;nazwie <b>Hepavax-Gene TF, stosowana w&nbsp;celu uodpornienia przeciwko wirusowemu zapaleniu wątroby typu B. </b><br><br>        Szczepionka występuje w dwóch postaciach - przeznaczonej do podawania dzieciom do 15. roku życia i osobom, które ukończyły 15. rok życia. Różnica polega na odpowiednio mniejszej i większej zawartości tzw. antygenów, czyli substancji, których podanie powoduje wytworzenie w organizmie ochronnych przeciwciał. Podanie szczepionki zgodnie z zalecanym schematem, czyli w odstępie jednego i sześciu miesięcy od wykonania pierwszej dawki zapewnia długotrwałą ochronę. Szczepionkę Hepavax-Gene podaje się domięśniowo, w mięsień naramienny (starsze dzieci i dorośli) lub w przednioboczną część uda (noworodki, niemowlęta, małe dzieci).<br><br>        Pokrewne tematy: www.pediatria@mp.pl<br><br>        Odpowiedziała:<br><a href="http://poczet.mp.pl/poczet/show.html?id=9816" target="_blank">lek. med. Izabela Tarczoń </a><br>specjalista pediatrii, konsultant ds. szczepień ochronnych;<br>kierownik Specjalistycznej Poradni Medycznej "Przylądek Zdrowia", do niedawna starszy asystent w Poradni Konsultacyjnej dla Dzieci z Grup Wysokiego Ryzyka w WSSD im. św. Ludwika w <a href="http://krakow.gazeta.pl/krakow/0,0.html" class="external_link">Krakowie</a>;<br>autorka i współautorka publikowanych w czasopismach naukowych artykułów na temat chorób zakaźnych i szczepień, prelegentka na konferencjach i sympozjach medycznych <br><br>        <i>Piśmiennictwo:<br><br>        Szczepienia w praktyce lekarskiej - od sytuacji klinicznej do optymalnej decyzji. Część 3 - Szczepionki dostępne w Polsce. Medycyna Praktyczna, <a href="http://krakow.gazeta.pl/krakow/0,0.html" class="external_link">Kraków</a>, 2010<br><br>        Ulotka dla pacjenta Hepavax-Gene TF, Instytut Biotechnologii Surowic i Szczepionek BIOMED Spółka Akcyjna</i><br><br>        Odpowiedzi przygotowuje: Medycyna Praktyczna: lekarze pacjentom.</i><br><br> <img src=http://bi.gazeta.pl/im/0/9676/z9676420X.jpg"><br><br><b><p class="txt_upl"><a class="a1" href="http://wyborcza.pl/leczyc/0,114651.html">Wróć do serwisu |<a class="a1" href="http://wyborcza.pl/leczyc/1,114651,9592096,Zasady_korzystania_z_serwisu.html"> Przeczytaj regulamin</a></a></p></b></><br><br><!--g:n1--></div>
+
+
+
+                                <div id="Str">
+                                    
+                                </div>  
+                                
+                            </div><!--art2-->
+                            <!--mikroblog:  -->
+                            
+                        </div><!--art-->
+
+                        <div id="banP4"><script type="text/javascript">putBan(4);</script></div>
+
+                        
+                        			
+
+
+<!-- LP ile: 1,| service : leczyc,| zaj: 0 leczyc-->
+
+
+<!-- google_ad_section_end(name=art) -->
+
+						
+
+                        
+                                
+
+
+
+
+
+<ul id="articleToolbar">
+  
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+			
+			
+			 
+			 
+			
+			
+  <li class="atPrint"><a class="spr" href="javascript:pop('http://gazeta.hit.gemius.pl/hitredir/id=.FGV9fij5aWusN73iGG59dU7XkFNJXtUMEuuKIxVDe3.w7/stparam=whmjcwqqve/url=http://wyborcza.pl/leczyc/2029020,114653,10882947.html?sms_code=',960,600)" onMouseOver="window.status='Drukuj...'; return true" onMouseOut="window.status=''; return true" rel="nofollow">Drukuj</a></li>
+  
+			   
+  <li class="atFacebook">
+  
+
+
+
+<fb:like layout="button_count" show_faces="false" width="auto"  colorscheme="dark" ref="su"></fb:like>
+
+   </li>
+   
+  
+    <!-- .atVote -->
+  </ul> <!-- #articleToolbar -->
+                          <div id="article_toolbar">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- hideOpinion: nie-->
+	
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<div class="body">
+			<ul>
+			
+			</ul>
+			</div>
+		
+<div id="banP85"><script type="text/javascript">putBan(85);</script></div>
+
+                          </div>
+                        
+                        <div class="clr"></div>
+
+
+			<script type="text/javascript" language="JavaScript">
+<!--
+	var google_ad_client = 'ca-agora-pl_html';
+	var google_language = 'pl';
+	var google_gl = 'pl';
+	var google_encoding = 'utf8';
+	var google_safe = 'high';
+
+	var google_color_bg = 'FFFFFF';
+	var google_color_border = 'FFFFFF';
+	var google_color_line = 'FFFFFF';
+	var google_color_link = '334fdb';
+	var google_color_text = '000000';
+	var google_color_url = '008000';
+  // -->
+</script>
+
+			
+			
+			    <div id="banP62"><script type="text/javascript">putBan(62);</script></div>
+				<script type="text/javascript" src="http://ad.gazeta.pl/info/ban/62.js"></script>
+				<script type="text/javascript">
+				var noBan = "";
+				noBan = "false";
+				function getElementsByClassName(cn){
+  				var arr = new Array();
+  				var obj_art2=document.getElementById("artykul");
+  				if (obj_art2==null){
+				obj_art2=document.getElementById("art2");
+				}
+  				var els = obj_art2.getElementsByTagName("*");
+  				var exp= new RegExp("^(.* )?"+cn+"( .*)?$", "g");
+  				for (var i = 0; i < els.length; i++ ){
+   				if (exp.test(els[i].className)){
+     			 arr.push(els[i]);
+    			}
+  				}
+  				return arr;
+				}
+				var obj_art=document.getElementById("artykul");
+				if (obj_art==null){
+
+				obj_art=document.getElementById("art2");
+				}
+				var obj = null;
+				if(obj_art){
+				 	var br_art = obj_art.getElementsByTagName('br');
+				 	var txt_srodtytul_art = getElementsByClassName('txt_srodtytul');
+					var txt_pytanie_art   = getElementsByClassName('txt_pytanie');
+				 	var ban_div = document.createElement('div');
+
+				 	var ban = document.getElementById("banP62");
+
+				 	if(document.getElementById("banP62").innerHTML.length <= 51 || noBan.indexOf("true")!=-1){
+				 		is_ban = false;
+				 	}else{
+				 		is_ban = true;
+				 	}
+
+				 	ban_div.appendChild(ban);
+				 	if(txt_srodtytul_art.length > 3){
+						obj =txt_srodtytul_art[2];
+				 		obj.parentNode.insertBefore( ban_div, obj );
+					}else
+					if(txt_pytanie_art.length >3){
+				 		obj =txt_pytanie_art[2];
+				 		obj.parentNode.insertBefore( ban_div, obj );
+					}else
+				 	if(br_art.length>4){
+						obj =br_art[3];
+
+					 		if(obj.previousSibling.previousSibling.className == 'txt_srodtytul' )obj =br_art[5];
+					 		if(obj.previousSibling.previousSibling.className == 'txt_pytanie' )obj =br_art[5];
+
+					 		obj.parentNode.insertBefore( ban_div, obj.nextSibling );
+
+				 	}else{
+				 		obj_art.appendChild(ban);
+
+				 	}
+				}
+		    </script>
+		    
+
+		    
+		        
+			
+
+			
+			    
+	            <!-- /aliasy/leczyc/dolStrony.htm -->
+            
+
+         	
+			
+			
+
+            
+
+                <div class="clr"></div>
+                    </div><!--k1-->
+                    <div id="k2">
+
+
+                    
+                    	
+						
+
+						
+						
+							
+								
+			                    
+		                    
+	                    
+						
+
+						
+						
+						
+
+						
+	                    
+		                <div id="banP3"><script type="text/javascript">putBan(3);</script></div>
+	                    <div id="banP50"><script type="text/javascript">putBan(50);</script></div>
+	                    <div id="banP13"><script type="text/javascript">putBan(13);</script></div>
+	                    <div id="banP11"><script type="text/javascript">putBan(11);</script></div>
+	                    <div id="banP43"><script type="text/javascript">putBan(43);</script></div>
+	                    <div id="banP21"><script type="text/javascript">putBan(21);</script></div>
+	                    <div id="banP96"><script type="text/javascript">putBan(96);</script></div>
+                        <div id="banP97"><script type="text/javascript">putBan(97);</script></div>
+                        <div id="banP60"><script type="text/javascript">putBan(60);</script></div>
+	                    <div id="banP61"><script type="text/javascript">putBan(61);</script></div>
+	                    <div id="banP46"><script type="text/javascript">putBan(46);</script></div>
+				        <div id="banP88"><script type="text/javascript">putBan(88);</script></div>
+	                    
+						
+
+						
+						
+		                    <!-- (~MODSTART:24489:7646475) --><div class="mod mod_zr2"><div class="mod_inner"><div class="node node_body news_r n2 n3 n4 n6 size "><div class="node_inner node_inner_body news_r "><a rel="nofollow" title="" href="http://gazeta.hit.gemius.pl/hitredir/id=d6zlDY8YZcu8XPEVMm2e4eVDzbrFhudWV0mIRktfejX.m7/url=http://wyborcza.pl/1,75478,10963572,Mlodzi_trzy_razy_nic.html"><img title="" alt="" src="http://bi.gazeta.pl/im/4/10963/z10963774U.jpg"></a><h1 class="  " ><a href="http://gazeta.hit.gemius.pl/hitredir/id=d6zlDY8YZcu8XPEVMm2e4eVDzbrFhudWV0mIRktfejX.m7/url=http://wyborcza.pl/1,75478,10963572,Mlodzi_trzy_razy_nic.html" title="Młodzi trzy razy nic">Młodzi trzy razy nic</a></h1><p class="lead   ">Siedzą w domu, łapią depresję, a państwo traci na nich 23 mld zł rocznie. Kto to taki? NEET-si - młodzi ludzie, kt&oacute;rzy nie robią zupełnie nic. W Polsce jest ich 580 tys.
+</p></div></div><div class="node node_body news_r     size "><div class="node_inner node_inner_body news_r "><a rel="nofollow" title="" href="http://gazeta.hit.gemius.pl/hitredir/id=d6zlDY8YZcu8XPEVMm2e4eVDzbrFhudWV0mIRktfejX.m7/url=http://wyborcza.pl/1,75477,10963884,Gra_o_iranska_bombe.html"><img title="" alt="" src="http://bi.gazeta.pl/im/8/10963/z10963908U.jpg"></a><h1 class="  " ><a href="http://gazeta.hit.gemius.pl/hitredir/id=d6zlDY8YZcu8XPEVMm2e4eVDzbrFhudWV0mIRktfejX.m7/url=http://wyborcza.pl/1,75477,10963884,Gra_o_iranska_bombe.html" title="Gra o irańską bombę
+
+">Gra o irańską bombę
+
+</a></h1><p class="lead   ">Zamaskowani zab&oacute;jcy na motocyklach, wirusy komputerowe, eksplozje w gazociągach - wywiady USA i Izraela po cichu, ale skutecznie sabotują irański program atomowy
+</p><ul class="  " ><li class="first"><strong><a href="http://gazeta.hit.gemius.pl/hitredir/id=d6zlDY8YZcu8XPEVMm2e4eVDzbrFhudWV0mIRktfejX.m7/url=http://wyborcza.pl/1,75248,10963801,Birma_otwiera_wiezienia_i_czeka_na_nagrode.html" title="Birma otwiera więzienia i czeka na nagrodę">Birma otwiera więzienia i czeka na nagrodę</a></strong></li><li><strong><a href="http://gazeta.hit.gemius.pl/hitredir/id=d6zlDY8YZcu8XPEVMm2e4eVDzbrFhudWV0mIRktfejX.m7/url=http://wyborcza.pl/1,75248,10957422,Zycie_Tymoszenko_jest_zagrozone.html" title="Życie Tymoszenko jest zagrożone">Życie Tymoszenko jest zagrożone</a></strong></li><li><strong><a href="http://gazeta.hit.gemius.pl/hitredir/id=d6zlDY8YZcu8XPEVMm2e4eVDzbrFhudWV0mIRktfejX.m7/url=http://wyborcza.pl/1,75248,10956507,Tlumy_chetnych_do_pracy_w_policji__Kolejki_co_srode.html" title="Tłumy chętnych do pracy w policji">Tłumy chętnych do pracy w policji</a></strong></li><li><strong><a href="http://gazeta.hit.gemius.pl/hitredir/id=bPeVT0OXEWpdG0Qi.6db.rbt.qgkLKOD4b12h5Kom1b.B7/stparam=mjisqqdifc/url=http://wyborcza.pl/duzy_kadr/0,0.html" title="Najciekawsze zdjęcia z całego świata">Najciekawsze zdjęcia z całego świata</a></strong></li></ul></div></div><div class="node  n2     "><div class="node_inner  "><a title="" href="http://gazeta.hit.gemius.pl/hitredir/id=0nI7MiNtFBClQP.IC93J9fUHXmadVfsV.Un4C.uBUdj.w7/stparam=zhfrgtptcx/url=http://wyborcza.pl/alehistoria/0,0.html?utm_source=wyborczapl&utm_medium=AutopromoInt&utm_content=300x90_alehistoria130112&utm_campaign=a_alehistoria130112"><img alt="" src="http://bi.gazeta.pl/im/1/10958/m10958901.jpg"></a></div></div></div></div><!-- (~MODEND:24489:7646475) -->
+		                    <!-- /aliasy/leczyc/prawaSzpalta2.htm -->
+	                    
+						
+
+						
+						
+						
+
+						
+						
+						
+
+						
+	                    <script type="text/javascript">putBan(57);</script><!--EA-->
+						
+
+						
+						
+		                    <!-- (~MODSTART:24489:7646876) --><div class="mod mod_zr2"><div class="mod_inner"><div class="node node_body dodatki n2 n3 n4 n6 size "><div class="node_inner node_inner_body dodatki "><div class="node node_imgwrap  n2 n3 n4 n6 size "><div class="node_inner node_inner_imgwrap"><div class="node node_overlay  n2 n3 n4 n6 size "><div class="node_inner node_inner_overlay"></div></div></div></div><div class="node node_content      size "><div class="node_inner node_inner_content"><strong class="super size " ><a href="http://wyborcza.pl/0,95791.html" title="DODATKI I KOLEKCJE GAZETY WYBORCZEJ">DODATKI I KOLEKCJE GAZETY WYBORCZEJ</a></strong><a title="" href="http://wyborcza.pl/1,95793,10954159,Ale_historia_.html"><img title="" alt="" src="http://bi.gazeta.pl/im/8/10948/z10948028C.jpg"></a><p class="lead   "><a title="W poniedziałek z ''Gazetą'':" href="http://wyborcza.pl/1,95793,10954159,Ale_historia_.html">W poniedziałek z ''Gazetą'':</a></p><ul class=" size " ><li class="first"><strong class="lew" ><a href="http://wyborcza.pl/1,95793,10954159,Ale_historia_.html" title="Ale historia!">Ale historia!</a></strong></li><li><strong class="lew" >Gazeta Praca</strong></li><li><strong class="lew" >Gazeta Sport</strong></li></ul></div></div></div></div></div></div><!-- (~MODEND:24489:7646876) -->
+		                    <!-- /aliasy/leczyc/prawaSzpalta3.htm -->
+	                    
+						
+
+						
+						
+						
+
+						
+		            	<script type="text/javascript">
+		            		putCpcBan(0);
+		            		makeRequest(0);
+		                </script>
+						
+
+	                    
+
+						
+
+                    </div><!--k2-->
+
+                    <div class="clr"></div>
+                    <div id="k12b">
+					
+	                    
+	                    <!-- /aliasy/leczyc/dolStronySzeroko.htm -->
+                    
+                    </div>
+                </div><!--k12-->
+            </div><!--sS-->
+            <div class="clr"></div>
+            <div id="banP42"><script type="text/javascript">putBan(42);</script></div>
+                
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+    
+
+<!--plik=/aliasy/wyborcza/stopka.jsp-->
+
+
+
+<div id="sF">
+    <div class="clr"></div>
+    
+        
+        
+            <div id="sFt">
+                <span class="sFnospc">
+                    <a href="http://serwisy.gazeta.pl/onas/1,30467,2439505.html" rel="nofollow"><b>Copyright</b></a> &#169; <a class="sFag" href="http://www.agora.pl/" rel="nofollow"><b>Agora SA</b></a> &#8226; <a href="http://www.gazeta.pl/onas/" rel="nofollow">O nas</a> &#8226; <a href="http://staze.agora.pl" rel="nofollow">Staże u nas</a> &#8226; <a href="http://www.gazeta.pl/reklama/" rel="nofollow">Reklama</a> &#8226; <a href="http://serwisy.gazeta.pl/O_nas/1,111259,8856779,Ochrona_prywatnosci.html" rel="nofollow">Prywatność</a> &#8226; <a href="/leczyc/3660000,0.html">Wszystkie artykuły</a> &#8226; <a href="http://serwisy.gazeta.pl/O_nas/1,111259,8856780,Licencja_na_artykuly_publikowane_w_portalu_Gazeta_pl.html">Licencje</a>
+                </span>
+                &#160;
+                <span class="sFnospc">                
+                <a href="javascript:pop('http://wyborcza.pl/leczyc/2029030,114653.html?b=1&amp;x=10882947&amp;d=0&amp;utm_source=recommend&amp;utm_medium=email&amp;utm_campaign=recommend&amp;home=http%3A%2F%2Fwyborcza.pl%2Fleczyc%2F1%2C114653%2C10882947%2CSzczepionka_przeciwko_wirusowemu_zapaleniu_watroby.html',568,330)" rel="nofollow"><b>Poleć stronę</b></a>&nbsp;&nbsp;<span style="color:#fff">|</span>&nbsp;&nbsp;<a href="javascript:pop('http://serwisy.gazeta.pl/Pomoc/3372461,96478.html?sv=http%3A%2F%2Fwyborcza.pl%2Fleczyc%2F1%2C114653%2C10882947%2CSzczepionka_przeciwko_wirusowemu_zapaleniu_watroby.html',650,505)" rel="nofollow"><b>Zgłoś błąd</b></a>
+                </span>                
+            </div>
+            
+            
+            
+            <div id="sFb">
+                
+                    <div id="sFt"><div class="kL"><ul><li class="tyt">Polecamy:</li><li><a class="first bold" href="http://www.sport.pl/sport/0,0.html">Sport.pl</a></li><li><a class=" " href="http://serwisy.gazeta.pl/tokfm/0,0.html">Tok FM</a></li><li><a class=" " href="http://www.emetro.pl/emetro/0,0.html">Metro</a></li><li><a class=" " href="http://www.tuba.fm/">Radio Internetowe Tuba FM</a></li><li><a class=" " href="http://praca.gazetapraca.pl/0,0.html">Oferty pracy</a></li><li><a class=" " href="http://gazetapraca.pl/gazetapraca/0,97963.html">Dam pracę!</a></li><li><a class=" " href="http://dom.gazeta.pl/dom/0,0.html">Oferty nieruchomości</a></li><li><a class=" " href="http://wyborcza.pl/1,75402,6175314,Licencja_na_artykuly_publikowane_w_Serwisie_Wyborcza_pl.html">Licencja - cennik</a></li></ul><span class="ico_rss"><a rel="nofollow" href="http://serwisy.gazeta.pl/pub/rss/praca.xml">RSS</a></span></div><div class="kR"><strong><a rel="nofollow" href="javascript:pop('http://www.gazeta.pl/info/elementy/wyslij-polec-strone.jsp?tytul_strony=Pomoc+-+Forum+-+Gazeta.pl&sv='+escape(document.location),640,520)" class="first">Poleć stronę</a></strong><strong><a rel="nofollow" href="javascript:pop('http://serwisy.gazeta.pl/Pomoc/3372461,96478.html?sv='+escape(document.location),650,505)">Zgłoś błąd</a></strong></div><div class="clr"></div><div class="sFb_spc2"><a class="" rel="nofollow" href="http://serwisy.gazeta.pl/onas/1,30467,2439505.html"><b>Copyright</b></a> &copy; <a class="sFag" rel="nofollow" href="http://www.agora.pl/"><b>Agora SA</b></a> &bull; <a class="" rel="nofollow" href="http://www.gazeta.pl/onas/">O nas</a> &bull; <a class="" rel="nofollow" href="http://www.rosnijznami.pl">Staże w Gazeta.pl</a> &bull; <a class="" rel="nofollow" href="http://wyborcza.pl/reklamagw/0,0.html">Reklama w GW</a> &bull; <a class="" rel="nofollow" href="http://serwisy.gazeta.pl/reklama/0,0.html">Reklama on-line</a> &bull; <a class="" rel="nofollow" href="http://serwisy.gazeta.pl/onas/1,30467,775864.html">Prywatność</a> &bull; <a class="" href="http://wyborcza.pl/3660000,0.html">Wszystkie artykuły</a></div></div>
+                
+                                <a name="serwisy"></a><br />
+            </div>
+                 
+            
+            
+                        
+            
+        
+    
+</div>
+
+
+
+
+<!-- /proxy:footer  -->
+    <script language="javascript"><!--
+        function getCookie(name) {
+            var start = document.cookie.indexOf(name+"=");
+            var len = start+name.length+1;
+            if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+            if (start == -1) return null;
+            var end = document.cookie.indexOf(";",len);
+            if (end == -1) end = document.cookie.length;
+            return unescape(document.cookie.substring(len,end));
+        }
+        document.write('<'+'img src="http://p.gazeta.pl/?b=1&x=10882947&d=0&o=1&t='+(new Date()).getTime()+'&w=114653&u='+banCookie+'"'+'>');
+    //--></script>
+
+<!--sDir:/leczyc/,-->
+
+<script type="text/javascript" src="/info/pop.js"></script>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- tynt start -->
+<script type="text/javascript">tyntVariables = {"ap":"Wi\u0119cej... "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bqkgmUFd8r3Q_Vab7jrHtB&s=61&lang=pl"></script>
+<!-- tynt end --> 
+
+
+
+
+
+<!--gxdxr-->
+ 
+
+
+
+
+
+
+
+
+<script type="text/javascript">putBan(19);</script>
+<script type="text/javascript">putBan(41);</script>
+<script type="text/javascript">countBan(114653);</script>
+
+    </div><!--sPP-->
+    <br>
+
+    <script language="JavaScript">
+    if (startsz==0||startsz==1||startsz==2) { ts(tgs,'art2',startsz);ts(tgs2,'art',startsz); }
+    </script>
+    <script language="JavaScript">
+        var position = getCoo(document.cookie);
+        if (position != -1) {
+            ts(tgs,'art2', position);
+            ts(tgs2,'art', position);
+        }
+    </script>
+    <script type="text/javascript">putBan(94);</script>
+</body>
+</html>

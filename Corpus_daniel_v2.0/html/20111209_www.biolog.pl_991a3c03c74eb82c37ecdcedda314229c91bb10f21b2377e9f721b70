@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta http-equiv="Reply-to" content="redakcja@biolog.pl">
+<meta http-equiv="Content-Language" content="pl">
+<meta name="Robots" content="INDEX, FOLLOW, NOARCHIVE">
+<meta name="Description" content="
+	Meningokoki - bakterie Neisseria meningitidis - należą do najczęstszych przyczyn zapalenia opon m&oacute;zgowych. Mogą też wywołać sepsę &ndash; ...">
+<meta name="Author" content="BIOLOG.PL">
+<META NAME="KEYWORDS" CONTENT="przyrodnik, przyroda, ptasia grypa, biologia, biologii,roślina, rośliny, roślin, atlas, leksykon, zwierząt, drzew, krzewów, kwiatów, bank, zdjęć, galeria, psy, koty, testy, sprawdziany, matura 2010, maturalne, nauczyciela, awans, przyrodnicze, przyrodniczy, tapety, pulpity, ochrona środowiska, ochrony, ekologia, chemia, biologiczne, chemiczne, reakcje, genetyka, genetyczne, modyfikacje, gmo, biotechnologia, chemik, biotechnolog, fizyk, choroba, choroby, szalonych krów, leśnictwo, lasy państwowe, lasy polskie, zalesienie, ciekawostki, informacje, ze świata, nauki, nauka, interaktywne, forum, newsy, niusy, naukowe, syllabusy, sylabusy, ściągi, bryki, gotowce">
+<title>Meningokoki zagrażają także młodzieży</title>
+<link rel="stylesheet" type="text/css" href="css/krakow.css" media="screen,projection" />
+<link rel="stylesheet" type="text/css" href="css/print_krakow.css" media="print" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.biolog.pl/backend.php">
+<link rel="start" title="Strona główna" href="http://www.biolog.pl">
+<link rel="search" title="Wyszukiwarka" href="wyniki.html">
+<script type="text/javascript">
+function navi(gdzie)
+{
+if (gdzie != 0) {
+parent.location.href = 'http://korepetycje.biolog.pl/' + gdzie;
+}
+}
+</script>
+</head><body>
+
+
+
+<div id="toptabs">
+	<p>Nasze portale:
+	<a class="activetoptab" href="http://krakow.biolog.pl/">Kraków</a><span class="hide"> | </span>
+	<a class="toptab" href="http://www.lekopteka.pl">LEKOPTEKA</a><span class="hide"> | </span>
+	<a class="toptab" href="">Wrocław</a><span class="hide"> | </span>
+	<a class="toptab" href="">Poznań</a></p>
+</div>
+
+<div id="container">
+	<div id="logo">
+					<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td align="left" valign="middle" width="40%"><a href="http://www.biolog.pl/"><img src="http://www.biolog.pl/naukowy,portal,biolog.png" border="0" alt="BIOLOG" title="BIOLOG" /></a><div style="height: 3px"></div><h4>Medycyna</h4></td>
+	<td align="right" valign="top" width="60%"><!-- prawa strona obok logo -->
+
+<!-- reklama 468x60 -->
+<script language='JavaScript' type='text/javascript' src='http://e.biolog.pl/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://e.biolog.pl/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:2");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://e.biolog.pl/adclick.php?n=ab15adc1' target='_blank'><img src='http://e.biolog.pl/adview.php?what=zone:2&amp;n=ab15adc1' border='0' alt=''></a></noscript>
+
+<!-- reklama 468x60 -->
+
+				<!-- end prawa strona obok logo --></td>
+</tr>
+</table>
+
+	</div>
+
+	<div id="navitabs">
+		<h2 class="hide">Menu:</h2>
+		<a href="http://www.biolog.pl" title="Portal BIOLOG.PL" class="navitab">Strona główna</a><span class="hide"> | </span>
+		<a href="http://www.forum.biolog.pl" title="Największe polskie forum przyrodnicze i naukowe" class="navitab">Forum</a><span class="hide"> | </span>
+		<a href="http://korepetycje.biolog.pl" title="Baza ponad 20 tysięcy korepetytorów z każdego przedmiotu w szkole i na studiach" class="navitab">Korepetycje</a><span class="hide"> | </span>
+		<a href="http://matura.biolog.pl" title="Sekcja dla tegorocznych maturzystów" class="navitab">Matura</a><span class="hide"> | </span>
+		<a href="http://studia.biolog.pl" title="Kierunki studiów: biologia, biotechnologia, medycyna, weterynaria..." class="navitab">Kierunki studiów</a><span class="hide"> | </span>
+		<!-- <a href="http://www.biolog.pl/sciagi.html" title="Ściągi" class="navitab">Ściągi</a><span class="hide"> | </span> -->
+		<a href="http://www.biolog.pl/konkursy/" title="Baza konkursów" class="navitab">Konkursy</a><span class="hide"> | </span>
+		<a href="http://festiwalenauki.biolog.pl/" title="Katalog imprez naukowych: festynów, festiwali, nocy naukowców, festiwali fotografii przyrodniczej" class="navitab">Festiwale</a><span class="hide"> | </span>
+		<a class="navitab" href="http://www.biolog.pl/ksiazki.html">Książki</a><span class="hide"> | </span>
+		<a class="navitab" href="http://ksiegarnia.biolog.pl/">Księgarnia</a><span class="hide"> | </span>
+		<a class="navitab" href="http://fotografia.biolog.pl/">Foto</a><span class="hide"> | </span>
+		<a class="navitab" href="http://www.biolog.pl/filmy-przyrodnicze.html">Multi</a><span class="hide"> | </span>
+		<a class="navitab" href="http://praca.biolog.pl/">Praca</a><span class="hide"> | </span>
+		<a href="http://lab.biolog.pl/" name="Ogłoszenia laboratoryjne, sprzęt laboratoryjny" title="Ogłoszenia laboratoryjne, sprzęt laboratoryjny" class="navitab">LAB</a><span class="hide"> | </span>
+	</div>
+
+	<div id="desc" style="background:#505050 url(../jpg/front-ekologia.jpg) top left repeat-y;">
+		<div style="height: 15px"></div>
+	<div style="margin-left: 15px">
+		<form action="http://www.forum.biolog.pl/szukaj.php" id="searchbox_002297090555423402656:hahp0skmm58">  <input type="hidden" name="cx" value="002297090555423402656:hahp0skmm58" />  <input type="hidden" name="cof" value="FORID:11" />  <input type="text" name="q" size="25" />  <input type="submit" name="sa" value="Szukaj" /> <input type="hidden" name="cachewalker" value="1"></form> </div>
+	<div style="height: 15px"></div>
+	&nbsp;&nbsp; Bądź na bieżąco z wydarzeniami, subskrybuj kanały <a href="http://www.biolog.pl/backend.php" title="RSS"><img src="http://reklama.biolog.pl/rss.gif" alt="RSS" title="RSS" /></a><BR><small>&nbsp;&nbsp;&nbsp;&nbsp; Zobacz inne <a href="http://www.biolog.pl/nauka-9.html">kanały tematyczne RSS dziennika BIOLOG</a></small>
+	<div style="height: 15px"></div>
+	</div>
+
+<div id="pnavitabs"><a class="pnavitab" href="http://www.biolog.pl/content-7.html">Wiadomości</a><span class="hide"> | </span> <a class="pnavitab" href="http://biotechnologia.biolog.pl/">Biotechnologia</a><span class="hide"> | </span> <a class="pnavitab" href="http://www.biolog.pl/tematy-4.html">Botanika</a><span class="hide"> | </span> <a class="pnavitab" href="http://www.biolog.pl/tematy-11.html">Ciekawostki</a><span class="hide"> | </span> <a class="pnavitab" href="http://ekologia.biolog.pl/">Ekologia</a><span class="hide"> | </span> <a class="pnavitab" href="http://www.biolog.pl/tematy-10.html">Leśnictwo</a><span class="hide"> | </span> <a class="pnavitab" href="http://medycyna.biolog.pl/">Medycyna</a><span class="hide"> | </span> <a class="pnavitab" href="http://www.biolog.pl/tematy-12.html">Zoologia</a><span class="hide"> | </span> <a class="pnavitab" href="http://www.encyklopedia.biolog.pl/">Encyklopedia</a><span class="hide"> | </span> <a class="pnavitab" href="http://www.forum.biolog.pl/forum-chemiczne-vf178.htm"><span style="color: #FF0000">Forum chemiczne</span></a><span class="hide"> | </span> <a class="pnavitab" href="http://www.forum.biolog.pl/medycyna-i-zdrowie-vf18.htm"><span style="color: #FF0000">Forum medyczne</span></a><span class="hide"> | </span></div><div style="text-align: left">		<div style="height: 3px"></div>
+<div style="text-align: right"><a target="_blank" href="http://www.splywy.pl/">spływy kajakowe, kajaki, mazury</a></div>
+<div style="height: 3px"></div>
+
+<!-- baner 750px -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-1934533731590164";
+/* 728x90, www.biolog.pl */
+google_ad_slot = "3917179230";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<script src="http://www.biolog.pl/reklama/tpl.js" language="JavaScript" type="text/javascript">
+<!--
+document.write("")
+//-->
+</script></div>
+
+
+	<div id="main">
+
+<div style="height: 5px"></div>
+
+<p></p><h2>Meningokoki zagrażają także młodzieży</h2><p class="timestamp">2011-12-08 09:39:37&nbsp;&nbsp;&nbsp;<b><a href="http://www.biolog.pl/tematy-15.html" name="Medycyna" title="Medycyna">Medycyna</a></b></p><p><p>
+	Meningokoki - bakterie Neisseria meningitidis - należą do najczęstszych przyczyn zapalenia opon m&oacute;zgowych. Mogą też wywołać sepsę &ndash; przypomniała podczas spotkania konsultant krajowy w dziedzinie mikrobiologii lekarskiej, prof. Waleria Hryniewicz. Przebieg inwazyjnej choroby meningokowej (IChM) może być błyskawiczny i doprowadzić do śmierci w ciągu 24 godzin (przy sepsie meningokokowej aż 50 proc. pacjent&oacute;w umiera w ciągu 24 godzin od rozpoznania objaw&oacute;w). Zachorować może każdy, ale najbardziej narażone są małe dzieci, w drugiej kolejności młodzież.</p>
+</p><p>
+	IChM, a zwłaszcza sepsa, jest trudna do wykrycia we wczesnym stadium. Daje objawy typowe dla grypy czy przeziębienia - b&oacute;le głowy i mięśni, nudności, wymioty, osłabienie. W ciągu kr&oacute;tkiego czasu choroba może osiągać zaawansowane stadium, prowadząc do śmierci chorego lub bardzo poważnych konsekwencji - głuchoty, uszkodzenia m&oacute;zgu, amputacji kończyn.<br />
+	<br />
+	Jak przypomnieli eksperci, kilka lat temu w wojew&oacute;dztwie zachodniopomorskim wzrosła liczba zakażeń wywołanych przez meningokoki, a wskaźnik śmiertelności na skutek sepsy osiągnął 70 proc., czyli zmarło 7 na 10 chorych. Na świecie meningokoki wywołują zakażenia u około 500 000 os&oacute;b rocznie, z czego 5-10 proc. kończy się śmiercią chorego. To oznacza, że dziennie może umrzeć około 137 os&oacute;b.<br />
+	<br />
+	Meningokoki spokojnie żyją w nosie i gardle nosicieli - os&oacute;b, kt&oacute;re się na nie uodporniły. Gdy jednak nosiciele trafią do nowej społeczności - jak przy poborze do wojska, wyjeździe na urlop czy na studia, może dojść do dramatycznych zakażeń. Dlatego wiele kraj&oacute;w szczepi przeciwko meningokokom rekrut&oacute;w i wymaga szczepień od student&oacute;w czy uczestnik&oacute;w oboz&oacute;w młodzieżowych &ndash; powiedział pediatra i immunolog doktor Paweł Grzesiowski.<br />
+	<br />
+	Istnieje 12 odmian, (tzw. grup serologicznych) meningokok&oacute;w, ale ponad 90 proc. zakażeń wywołują bakterie pięciu grup: A, B, C, W-135 i Y. W naszym kraju dominują grupy B i C.<br />
+	<br />
+	W Polsce pokutuje przeświadczenie &ndash; m&oacute;wili specjaliści - że przeciwko meningokokom powinno się szczepić jedynie małe dzieci. Tymczasem, co czwarty młody człowiek (w wieku 11-23 lat) może być bezobjawowym nosicielem i zakażać osoby podatne. Sprzyja temu bujne życie towarzyskie, częsta zmiana środowisk, daleko posunięta tolerancja dla zasad higieny, przebywanie w dużych skupiskach ludzkich, podr&oacute;że zagraniczne i mobilność tej grupy. Szczyt zachorowań przypada na wiek 15-19 lat.<br />
+	<br />
+	Jak powiedziała dr Anna Skoczyńska z Zakładu Epidemiologii i Mikrobiologii Klinicznej Narodowego Instytutu Lek&oacute;w w Warszawie, o ile w Afryce choruje kilkaset os&oacute;b na każde 100 tys. mieszkańc&oacute;w, to w krajach uprzemysłowionych mniej więcej jedna na 100 tys. W roku 1987 oraz w 2000 w Arabii Saudyjskiej pielgrzymujący do Mekki muzułmanie zarazili się wzajemnie meningokokami i gdy wr&oacute;cili do domu doszło do zachorowań w wielu krajach. Dlatego obecnie pielgrzymi muszą przedstawić świadectwo szczepienia, by otrzymać saudyjska wizę.<br />
+	<br />
+	Prof. Hryniewicz przywołała przypadek, z kt&oacute;rym zetknęła się w czasie własnej praktyki - osobiście zbadała dziecko nie znajdując niepokojących objaw&oacute;w i poleciła matce zgłosić się z nim za cztery godziny na izbę przyjęć. Po tych czterech godzinach pojawiła się typowa dla sepsy wysypka. Nagle występująca ciemna wysypka powinna skłaniać pacjent&oacute;w lub ich opiekun&oacute;w do natychmiastowego szukania pomocy lekarskiej &ndash; radzili w środę eksperci. Zwłaszcza, gdy występuje tzw. objaw szklanki - wysypka na przyciśniętej przezroczystym, przedmiotem sk&oacute;rze nie blednie. Niestety, niekt&oacute;re zachorowania przebiegają bez wysypki.<br />
+	<br />
+	Prof. Teresa Jackowska z Kliniki Pediatrii Centrum Medycznego Kształcenia Podyplomowego w Warszawie przedstawiła wyniki badań, z kt&oacute;rych wynikało, że 80 proc. badanych sepsę kojarzy tylko z bakteriami pneumokoka, a aż 84 proc. nie wie, że opr&oacute;cz najmłodszych dzieci, r&oacute;wnież młodzież jest istotną grupą obarczoną ryzykiem infekcji Neisseria meningitidis.<br />
+	<br />
+	Tymczasem w klasyfikacji Światowej Organizacji Zdrowia (WHO) określającej znaczenie chor&oacute;b, kt&oacute;rym można zapobiegać poprzez szczepienia, infekcje meningokokowe serogrupami A, C, W-135 i Y zostały uznane za &bdquo;high priorities&rdquo;, razem z cholerą, HPV, grypą i zakażeniami rotawirusowymi.<br />
+	<br />
+	WHO rekomenduje wprowadzenie szczepień przeciw Neisseria meningitidis do program&oacute;w szczepień obowiązkowych lub szczepienie zdefiniowanych grup ryzyka w krajach o najmniejszej zapadalności na inwazyjną chorobę meningokokową. Europejskie Centrum Kontroli Chor&oacute;b ECDC uczyniło swoim priorytetem zadanie szerzenia wiedzy o programach szczepień przeznaczonych dla młodzieży i os&oacute;b dorosłych.<br />
+	<br />
+	W Polsce i na świecie dostępnych jest kilka rodzaj&oacute;w szczepionek przeciw meningokokom. Szczepionki starszego typu tzw. polisacharydowe, mono (przeciw serogrupie C) i wielowalentne (chroniące kilkoma serogrupami bakterii) przestają być zalecane z uwagi na swoją niższą skuteczność (immunogenność), kr&oacute;tką <a href="http://www.lekopteka.pl/24-pamiec-koncentracja-nauka">pamięć</a> immunologiczną (kr&oacute;tkotrwałą ochronę) i brak efektu eliminacji nosicielstwa.<br />
+	<br />
+	Eksperci zalecają tzw. szczepionki skoniugowane, mono (przeciw serogrupie C) lub wielowalentne (przeciw kilku serogrupom), oferujące ochronę skuteczną, trwałą i eliminująca nosicielstwo. Najbardziej uniwersalną ze szczepionek skoniugowanych, chroniącą przed największą liczbą serotyp&oacute;w jest czterowalentna szczepionka skoniugowana, przeciw serogrupom A, C, Y i W-135.<br />
+	<br />
+	Szczepieniom przeciwko meningokokom C powinny być poddane niemowlęta, dzieci, młodzież i młodzi dorośli (do 25. roku życia), oraz osoby w każdym wieku z zaburzeniami odporności oraz narażone na zachorowanie w wyniku zawodowego bezpośredniego kontaktu z chorymi lub meningokokami (pracownicy laboratori&oacute;w mikrobiologicznych oraz lekarze i pielęgniarki).<br />
+	<br />
+	Czterowalentna szczepionka skoniugowana ACW-135Y może być podawana jako szczepienie pierwotne u dzieci i młodzieży powyżej 10. roku życia (od 11 lat), ale r&oacute;wnież jako dawka przypominająca (od 11 lat) w celu zabezpieczenia nie tylko przeciwko serogrupie C, ale także A, W-135, Y. Poza tym szczepionka jest zalecana osobom podr&oacute;żującym w celach turystycznych i zawodowych w rejony endemiczne zakażeń wywoływanych przez meningokoki A,C,W-135,Y. Szczepionka jest zalecana uczniom i studentom podejmującym naukę w USA. Szczepieni powinni być żołnierze biorący udział w wojskowych misjach na terenie Afryki i Azji.<br />
+	<br />
+	Jak przypomniano w środę, aktualnie szczepienia przeciw Neisseria meningitidis są finansowane z budżetu państwa tylko w przypadku szczepienia os&oacute;b szczeg&oacute;lnie narażonych na zakażenie, a więc przede wszystkim w przypadku wystąpienia lokalnych ognisk epidemicznych. Pozostałe szczepienia są tylko zalecane.<br />
+	<br />
+	<a href="http://www.naukawpolsce.pap.pl">PAP - Nauka w Polsce</a></p>
+<p></p><div style="text-align: center"><div style="height: 8px"></div><script type="text/javascript"><!--
+google_ad_client = "pub-1934533731590164";
+/* 468x60, utworzono 08-02-15 pod newsem biolog */
+google_ad_slot = "4651195741";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><div style="height: 8px"></div></div>
+</span>
+
+<br><br><br><img src="http://reklama.biolog.pl/img/i365/forum.png" border="0" alt="Komentarze" /> <span style="font-size: 9pt"><a name="komentarze"></a><b><span style="font-size: 14pt">KOMENTARZE</span></b></span><br>Zapraszamy też do dyskusji na największym polskim <b><a href="http://www.forum.biolog.pl/ekologia-i-ochrona-rodowiska-vf2.htm"><u>forum ekologiczne</u></a></b><br><br>
+<br><br>
+<form action="http://www.biolog.pl/komentarz.php" method="post" enctype="application/x-www-form-urlencoded" accept-charset="utf-8">
+
+	<table style="BORDER-COLLAPSE: collapse" bordercolor="#111111" cellpadding="3" border="0" width="507">
+
+		
+		<tr>
+
+			<td height="22" width="157">Twoje imię lub nick&nbsp;
+
+			</td>
+
+			<td height="22" width="338" class="style2">
+
+			<input class="box" maxlength="50" size="18" name="uzytkownik" tabindex="2"></td>
+
+		</tr>
+		<tr>
+			<td colspan="2" height="228">Twój komentarz<br>
+			 <textarea class="boxbig" name="tresc" rows="10" wrap="physical" cols="60" tabindex="4"></textarea><br>
+
+			</p>
+
+			</td>
+
+		</tr>
+	  <tr>
+			<td height="61" colspan="2"><center>
+
+		<input type="hidden" name="id" value="{item_id}">
+<input type="hidden" name="sumakontrolna" value="49384">
+<input type="hidden" name="login" value="ł">
+<input type="hidden" name="tytul" value="dfdfdf">
+			<input class="box" type="submit" value="Wyślij" name="rev_submit" tabindex="8">
+
+			</center></td>
+		</tr>
+	</table>
+<input type="hidden" name="cachewalker" value="1"></form>
+
+
+<br><br><br><br>
+<h2>Ostatnie wiadomości</h2>
+
+
+<p><a href="http://www.biolog.pl/article49384.html"><b>Meningokoki zagrażają także młodzieży</b></a></p><p><a href="http://www.biolog.pl/article49382.html"><b>Genetyczna skłonność do spania</b></a></p><p><a href="http://www.biolog.pl/article49380.html"><b>Nowe metody szkolenia lekarzy w Śląskim Centrum Chorób Serca</b></a></p><p><a href="http://www.biolog.pl/article49378.html"><b>Porost Roccella fuciformis pogromcą alzheimera</b></a></p><p><a href="http://www.biolog.pl/article49377.html"><b>2-deoksyglukoza szkodliwa dla komórek rakowych</b></a></p><p><a href="http://www.biolog.pl/article49373.html"><b>Spożywanie polifenoli zawartych w skórce jabłka hamuje chorobę zapalną jelit</b></a></p><p><a href="http://www.biolog.pl/article49367.html"><b>Ryzyko raka skóry u mężczyzn związane z niższym poziomem przeciwutleniacza</b></a></p>
+		
+ 
+
+
+
+<p></p>		
+  	</div>
+
+	<div id="sidebar">
+<!--
+	<div style="margin-left: 25px">
+		<h3>Twój portal BIOLOG.PL:</h3>
+		<ul class="sidelink">
+			<li><a href="dodaj_news.php">Dodaj artykuł, news</a></li>
+			<li><a href="http://krakow.biolog.pl/dodaj-kurs.php">Dodaj szkolenie, kurs</a></li>
+		</ul>
+	</div>
+	<p></p>
+-->
+<div style="height: 5px"></div>
+<script language='JavaScript' type='text/javascript' src='http://e.biolog.pl/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://e.biolog.pl/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:11&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://e.biolog.pl/adclick.php?n=a85ee341' target='_blank'><img src='http://e.biolog.pl/adview.php?what=zone:11&amp;n=a85ee341' border='0' alt=''></a></noscript>
+
+<div style="height: 10px"></div>
+<script language='JavaScript' type='text/javascript' src='http://e.biolog.pl/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://e.biolog.pl/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:13");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://e.biolog.pl/adclick.php?n=a1204df8' target='_blank'><img src='http://e.biolog.pl/adview.php?what=zone:13&amp;n=a1204df8' border='0' alt=''></a></noscript>
+
+
+<div style="height: 10px"></div>
+
+<!-- YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY -->
+<b>Aktualności</b>
+<div ><p class="menu_odsylacze">&nbsp;&#8226;&nbsp;<a href="http://www.biolog.pl/article49386.html" title="Noc Biologów 2011">Noc Biologów 2011</a><br>&nbsp;&#8226;&nbsp;<a href="http://www.biolog.pl/article49385.html" title="Polscy naukowcy mogą ubiegać się o granty Stowarzyszenia National Geographic">Polscy naukowcy mogą ubiegać się o granty Stowarzyszenia National Geographic</a><br>&nbsp;&#8226;&nbsp;<a href="http://www.biolog.pl/article49384.html" title="Meningokoki zagrażają także młodzieży">Meningokoki zagrażają także młodzieży</a><br>&nbsp;&#8226;&nbsp;<a href="http://www.biolog.pl/article49383.html" title="W Warszawie wręczono Nagrody Fundacji na rzecz Nauki Polskiej">W Warszawie wręczono Nagrody Fundacji na rzecz Nauki Polskiej</a><br>&nbsp;&#8226;&nbsp;<a href="http://www.biolog.pl/article49382.html" title="Genetyczna skłonność do spania">Genetyczna skłonność do spania</a><br>&nbsp;&#8226;&nbsp;<a href="http://www.biolog.pl/article49381.html" title="Tropikalne ryby radzą sobie z ociepleniem klimatu">Tropikalne ryby radzą sobie z ociepleniem klimatu</a><br>&nbsp;&#8226;&nbsp;<a href="http://www.biolog.pl/article49380.html" title="Nowe metody szkolenia lekarzy w Śląskim Centrum Chorób Serca">Nowe metody szkolenia lekarzy w Śląskim Centrum Chorób Serca</a><br>&nbsp;&#8226;&nbsp;<a href="http://www.biolog.pl/article49379.html" title="Belgica antarctica - antarktyczny owad">Belgica antarctica - antarktyczny owad</a><br>	</p></div>
+
+<div style="height: 10px"></div>
+		<p></p><h3>Książki do matury 2011:</h3>
+		 
+			
+			<div style="height: 5px"></div>
+			<div style="text-align: center;"> 
+				<a href="http://ksiegarnia.biolog.pl/ksiazki_audio/biologia_-_anatomia_i_fizjologia_roslin_p3250.xml" title="Biologia - Anatomia i Fizjologia Roślin"><img src="http://ksiegarnia.biolog.pl/oimg?p=3250&t=3" border="0" alt="Biologia - Anatomia i Fizjologia Roślin" title="Biologia - Anatomia i Fizjologia Roślin"> </a><a href="http://ksiegarnia.biolog.pl/ksiazki_audio/biologia_-_czlowiek__budowa_ukladu_nerwowego__rozmnazanie_p3256.xml" title="Biologia - Człowiek. Budowa Układu Nerwowego. Rozmnażanie"> 
+				<img src="http://ksiegarnia.biolog.pl/oimg?p=3256&t=3" border="0" alt="Biologia - Człowiek. Budowa Układu Nerwowego. Rozmnażanie" title="Biologia - Człowiek. Budowa Układu Nerwowego. Rozmnażanie"></a><br><a href="http://ksiegarnia.biolog.pl/ksiazki_audio/biologia_-_genetyka_p3257.xml" title="Biologia - Genetyka"><img src="http://ksiegarnia.biolog.pl/oimg?p=3257&t=3" border="0" alt="Biologia - Genetyka" title="Biologia - Genetyka"></a> <a href="http://ksiegarnia.biolog.pl/ksiazki_audio/biologia_-_czlowiek__uklady__wydalniczy_i_hormonalny__narzady_zmyslow__budowa_i_dzialanie_neuronu__transport_gazow_p3255.xml" title="Biologia - Człowiek. Układy: Wydalniczy i Hormonalny. Narządy Zmysłów. Budowa i Działanie Neuronu. Transport Gazów"><img src="http://ksiegarnia.biolog.pl/oimg?p=3255&t=3" border="0" alt="Biologia - Człowiek" title="Biologia - Człowiek"></a> 
+			</div> 
+			<div style="text-align: center;"> 
+			<small><b>Cena: 5,00 zł</b></small> 
+			</div> 
+
+			
+ <div style="height: 10px"></div>				
+<script language='JavaScript' type='text/javascript' src='http://e.biolog.pl/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://e.biolog.pl/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:12");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://e.biolog.pl/adclick.php?n=a54239ff' target='_blank'><img src='http://e.biolog.pl/adview.php?what=zone:12&amp;n=a54239ff' border='0' alt=''></a></noscript>		
+			
+<div style="height: 10px"></div>
+<a href="http://www.biolog.pl/content-114.html" title="atlas owoców egzotycznych"><img src="http://reklama.biolog.pl/img/owoce,egzotyczne.jpg" border="0" alt="owoce egzotyczne" title="owoce egzotyczne"></a>		
+
+
+		<p></p><h3>Zobacz też:</h3>
+		<ul>
+			<li><a href="http://korepetycje.biolog.pl/zadania-domowe.html">Zadania domowe - baza korepetytorów rozwiązujących zadania</a></li>
+			<li><a href="http://www.forum.biolog.pl/zadania-domowe-z-biologii-vf192.htm">Zadania domowe z biologii</a></li>
+		</ul>
+		
+
+		
+		
+		
+	</div>
+    
+	<div id="footer">
+ <div style="text-align: center"><a href="http://www.stero.pl" title="Mazury Mazowsza">spływy Pilica</a></div>	
+	<div style="text-align: center"><span style="font-size: 9pt;"><b>W SERWISIE</b>:
+	<a href="http://www.biolog.pl/content-98.html">Klonowanie</a>,
+	<a href="http://www.biolog.pl/content-99.html">Komórki macierzyste</a>,
+	<a href="http://www.biolog.pl/content-79.html">GMO</a>,
+	<a href="http://www.biolog.pl/content-100.html">Genetyka</a>,
+	<a href="http://www.encyklopedia.biolog.pl/">Nauka</a>, Krzewy i
+	<a href="http://www.biolog.pl/content-113.html">drzewa</a>,
+	<a href="http://www.biolog.pl/article48959.html">kursy dla maturzystów</a>,
+	<a href="http://www.biolog.pl/content-114.html">owoce 
+	tropikalne</a> <a href="http://www.biolog.pl/nauka-7.html">1</a>
+	<a href="http://www.biolog.pl/nauka-43.html">2</a>
+	<a href="http://www.biolog.pl/tagi/bionotatki">3</a>
+	<a href="http://www.biolog.pl/article5504.html">mikrobiologia</a>
+	<a href="http://www.biolog.pl/tagi/świńska%20grypa">świńska grypa</a>
+	<a href="http://www.biolog.pl/tagi/edukacja">edukacja</a>
+	<a href="http://www.biolog.pl/tagi/mikroskopy">mikroskopy</a>
+	<a href="http://studia.biolog.pl/neurobiologia.html">neurobiologia</a>,
+	<a href="http://www.biolog.pl/festiwal,nauki,w,krakowie.html">festiwal nauki w Krakowie</a> <br>
+	<a href="http://www.oleander.pl" name="Najtańsze nasiona tropikalne, egzotyczne sadzonki, nasiona warzyw, drzewa" target="_blank">
+	nasiona i sadzonki tropikalne</a><br>
+	</div>
+
+		<p><strong>&copy; 2011 <a href="http://www.biolog.pl">Ogólnopolski Dziennik "BIOLOG"</a></strong>  <a href="http://www.biolog.pl/content-2.html">Redakcja</a> | <a href="http://reklama.biolog.pl/">REKLAMA</a> | <a href="http://www.biolog.pl/patronat-medialny.php" title="Patronat medialny">Patronat medialny</a> | <a href="http://www.forum.biolog.pl/regulamin-forum-biolog-pl-vt63.htm">Regulamin, ochrona prywatności</a></p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-730313-1");
+pageTracker._setDomainName(".biolog.pl");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+
+</html>

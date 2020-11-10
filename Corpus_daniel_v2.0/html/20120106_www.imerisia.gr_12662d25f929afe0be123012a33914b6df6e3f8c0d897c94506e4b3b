@@ -1,0 +1,1179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  xmlns:og="http://opengraphprotocol.org/schema/"  xmlns:fb="http://www.facebook.com/2008/fbml" >
+<head>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+
+<title>Ο Κολόμβος έφερε τη... σύφιλη στην Ευρώπη | ειδησεις , επιστημη  | Ημερησία</title>
+<meta name="keywords" CONTENT="ειδησεις , επιστημη   , Ο Κολόμβος έφερε τη... σύφιλη στην Ευρώπη" />
+<meta name="description" CONTENT="30/12/2011 - Ο Κολόμβος έφερε τη... σύφιλη στην Ευρώπη -  - ειδησεις , επιστημη  - Ημερησία" />
+<meta name="revisit-after" content="60 days" />
+<meta name="abstract" content="ειδησεις , επιστημη " />
+
+<meta name="robots" content="index, follow" />
+<meta name="document-classification" content="internet" />
+<meta name="document-type" content="Public" />
+<meta name="document-rating" content="Safe for Kids" />
+<meta name="document-distribution" content="Global" />
+<meta http-equiv="pics-label" content="(pics-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "http://new.e-go.gr" r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://new.e-go.gr" r (n 0 s 0 v 0 l 0))" />
+
+<meta name="author" content="e-go.gr , Pegasus Interactive" />
+<meta name="copyright" content="Pegasus Interactive" />
+<meta name="document-state" content="Dynamic" />
+<meta name="Publisher" content="Pegasus Interactive , http://www.pegasus.gr " />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+<link rel="icon" href="favicon.ico" type="image/x-icon"><link rel="stylesheet" href="style.css" type="text/css"/><link rel="stylesheet" href="article.css" type="text/css"/>
+<!-- OG meta tags -->
+<meta property="og:site_name" content="Ημερησία"/>
+<meta property="og:url" content="http://www.imerisia.gr/article.asp?catid=26514&subid=2&pubid=112794359"/>
+<meta property="og:title" content="Ημερησία - Ο Κολόμβος έφερε τη... σύφιλη στην Ευρώπη "/>
+<meta property="og:description" content="  "/>
+
+     <meta property="og:image" content="http://engine.feed.gr/?catid=26514&imgid=43330429&srcid=1061&type=12634"/>
+     
+<meta property="og:email" content="info@e-go.gr" />
+<meta property="og:language" content="el , english" />
+
+
+
+
+    
+
+
+
+<!-- Facebook meta tags -->
+<meta property="fb:app_id" content="463912240302912"/>
+<!-- End of Facebook meta tags -->
+
+
+<!-- Script 4 twitt this button -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<!-- End of Script 4 twitt this button -->
+<!--[if IE]>
+    <link rel="stylesheet" href='ieonly.css' type="text/css" />
+<![endif]-->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/JSFCommunicator.js"></script><script src="iepatch.js"></script><script src="js/ajax.asp" type="text/javascript"></script><script type="text/javascript">setAsyncElementLoading();</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/hoverIntent.js"></script>
+<script type="text/javascript" language="javascript" src="js/jquery.dropdown.js"></script>
+<script type="text/javascript" src="js/jquery.accordion.js"></script>
+<script src="js/picbox.js" type="text/javascript"></script>
+<link rel="stylesheet" href="css/picbox.css" type="text/css" media="screen"/>
+
+<script src="scripts/carousel.js" type="text/javascript"></script>
+<script  src="js/css3-mediaqueries.js"></script>
+<script type="text/javascript" language="javascript">
+function init() {
+      for (var b=0; b<1; b++){
+      MAINNEWS.Media.Dtk.CarouselMgr.init("dtk-car-"+b,{pageClassName:'dtk-list',pageTagName:'ul'});
+      }
+} 
+window.onload = init;
+</script>
+<link rel="stylesheet" href="jquery-ui-1.8.21.custom.css" type="text/css" />
+<script type="text/javascript"><!--
+  var myY;
+  var quoteInt;
+  var nDelta;
+  var oScroll;
+  var nGlobaldocΥPos=0;
+  function quoteScroll() {
+  
+    oScroll.scrollTop=myY;
+    myY=myY+nDelta;
+    
+    if (myY<0 && nDelta<0) {
+          myY=oScroll.scrollHeight-270;
+    }
+
+    if ( myY>(oScroll.scrollHeight-270) && nDelta==1) {
+          refreshElementRT();
+    } else if ( myY>(oScroll.scrollHeight-270) && nDelta>0) {
+          myY=0;
+    }  
+  }
+  
+  function stopScroll() {
+    clearInterval(quoteInt);
+  }
+    function startScroll(nYPos,nDeltaIni) {
+    oScroll=document.getElementById("boxaki");
+
+    if (nYPos==null) {
+      myY=oScroll.scrollTop;
+    } else {
+      myY=nYPos;
+    }
+    
+    if (nDeltaIni!=null) {
+      setSpeed(nDeltaIni);
+    }
+ 
+    if (quoteInt!=null) {
+      stopScroll();
+    }  
+    quoteInt=setInterval("quoteScroll();" , 17) ;
+  }
+  function setSpeed(nSpeedIni) {
+    
+    nDelta=nSpeedIni;
+  }
+  function resetSpeed() {
+    nDelta=1;
+  }
+  function jumpQuote(cLetter) {
+    stopScroll();
+    var ndocΥPos=document.documentElement.scrollTop;
+    document.location.hash='STOCKSRT_' + cLetter;
+    document.documentElement.scrollTop=ndocΥPos;
+    oScroll.scrollTop=oScroll.scrollTop-100;
+    startScroll();
+  }
+  function refreshElementRT(bStorePos) {
+   if (bStorePos==null) {
+     bStorePos=false;
+   }
+   if (bStorePos) {
+      nGlobaldocΥPos=oScroll.scrollTop;
+   } else {
+      nGlobaldocΥPos=0;
+   }
+    nDelta=0;
+    reloadPrototypeElementGroups('ASERT','catid=26514');
+  }
+--></script>
+<script>
+var counterplus = 0;
+var countermin = 0; 
+function increaseFont()
+{
+if(counterplus<3){
+$('#arttext').each(function(){
+var oldf = parseInt( jQuery(this).css('font-size') );
+var oldl = parseInt( jQuery(this).css('line-height') );
+$(this).css({
+'font-size' : oldf + 2 + 'px',
+'line-height' : oldl + 2 + 'px'
+});
+});
+ counterplus++;
+ countermin++;
+}
+
+}
+ 
+function decreaseFont()
+{
+if(countermin>-2){
+$('#arttext').each(function(){
+var oldf = parseFloat( jQuery(this).css('font-size') );
+var oldl = parseFloat( jQuery(this).css('line-height') );
+$(this).css({
+'font-size' : oldf - 2 + 'px',
+'line-height' : oldl - 2 + 'px'
+});
+});
+ counterplus--;
+ countermin--;
+}
+}
+</script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300&subset=latin,greek-ext,greek' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="footer.css" type="text/css"/>
+</head>
+<body>
+
+        <!-- FB CONNECT -->
+        <div id="fb-root"></div>
+        <script>
+            window.fbAsyncInit = function () {
+                FB.init({
+                    appId: '463912240302912',
+                    status: true,
+                    // check login status 
+                    cookie: true,
+                    // enable cookies to allow the server to access the session 
+                    xfbml: true // parse XFBML 
+                });
+            };
+            (function () {
+                var e = document.createElement('script');
+                e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+                e.async = true;
+                document.getElementById('fb-root').appendChild(e);
+           }());
+        </script>
+        <!-- FB CONNECT END-->
+
+
+
+<center>
+<div class="swrapper">
+
+
+
+<div id="hometopmenu"><div id="topmenu_2">
+<div class="network">
+<p class="logobut"><div id="egonav">
+<ul><li style="cursor:default;" -->
+<!--a href="http://stats.e-go.gr/rx.asp?nWebSrvID=110000&nCatID=1&nLevelid=1&target=http://new.e-go.gr" --> <img src="images/logonetwork.gif" border="0" /><!--/a -->
+</li></ul></div>
+</p>
+<p class="sites1" style="margin-top: 3px;"> 
+<a href="http://www.ethnos.gr">ΕΘΝΟΣ</a> | 
+<a href="http://www.imerisia.gr">ΗΜΕΡΗΣΙΑ</a> | 
+<a href="http://www.sentragoal.gr">SENTRAGOAL</a> | 
+<a href="http://www.e-go.gr">E-GO</a> |
+<a href="http://www.cinemag.gr">ΣΙΝΕΜΑ</a> | 
+<a href="http://www.idanikospiti.gr">ΙΔΑΝΙΚΟ ΣΠΙΤΙ</a> |
+<a href="http://www.sporty.gr">SPORTY</a> |
+<a href="http://www.womenonly.gr/summary.asp?catid=13388">ΑΣΤΡΑ & ΟΡΑΜΑ</a> |
+<a href="http://www.wmotors.gr">WHEELS & MOTORS</a> | 
+<a href="http://www.womenonly.gr">WOMENONLY.GR</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=23958">COOK BOOK</a> |
+<a href="http://www.elle.gr">ELLE</a> 
+<br />
+<a href="http://www.ethnos.gr/ethnosport">ΕΘΝΟΣΠΟΡ</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=23508">TV ΕΘΝΟΣ</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=22820">ΚΥΝΗΓΙ</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=22821">ΨΑΡΕΜΑ & ΦΟΥΣΚΩΤΟ</a> |
+<a href="http://www.dealmyday.gr">DEAL MY DAY</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=24300">ΥΓΕΙΑ</a>&nbsp; |
+<a href="http://www.ethnos.gr/entheta.asp?catid=23513">ΤΑΞΙΔΙ</a> | &nbsp;
+<a href="http://www.ethnos.gr/entheta.asp?catid=23343">ΣΥΝΤΑΞΕΙΣ</a> |
+<a href="http://www.ethnos.gr/entheta.asp?catid=23353">ΕΠΑΓΓΕΛΜΑΤΙΚΕΣ ΕΥΚΑΙΡΙΕΣ</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=22813">ΕΡΓΑΣΙΑ</a>&nbsp; | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=22814">ΠΑΙΔΕΙΑ</a> 
+
+ 
+</p></div></div></div>
+
+<div class="clear"></div><div class="socialouter">
+<div class="socialouterin">
+<a href="http://www.facebook.com/imerisia.gr" target="_blank"><img src="images/facebook.png" border="0" /></a>
+<a href="https://twitter.com/imerisiagr" target="_blank"><img src="images/twitter.png" border="0" /></a>
+</div>
+</div>
+<center><div class="topbanners"><div class="ban72890"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=20&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=20&dfl=yes&js=no" border="0" width="728" height="90" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|20/728x90"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div></div></center>
+<div class="header">
+  <div class="date">Πέμπτη<br />11 Απριλίου 2013 </div>
+  <div class="weather"></div>
+  <div class="logo"><a href="default.asp?catid=26496" target="_top"><img src="images/logo.gif" border="0" alt="Ημερησία" /></a></div>
+  <a class="iheartgr" href="summary.asp?catid=29792"><img src="images/gr_flag_01.png" alt="ΑΓΑΠΩ ΤΗΝ ΕΛΛΑΔΑ, ΑΓΟΡΑΖΩ ΕΛΛΗΝΙΚΑ">
+    <span>ΑΓΑΠΩ<br>ΤΗΝ ΕΛΛΑΔΑ</span>ΑΓΟΡΑΖΩ ΕΛΛΗΝΙΚΑ
+  </a>
+  <!-- div class="xaa"><RENDER AJAX SIM PLE/><script>var intervalAJAXGLOBALINDEX=setInterval( "reloadPrototypeElementGroups('AJAXGLOBALINDEX','')", 30000);</script></div -->
+  <!-- div class="summer"><a href="r.asp?catid=27911"><img src="images/summer.jpg" border="0" /></a></div -->
+  <div class="clear"></div>
+  <div class="menu"><ul><li class="homelink"><a href="default.asp"><img src="images/home.png" border="0" /></a></li><li><a href="summary.asp?catid=30256">ΝΕΑ ΣΕ 10''</a></li><li class="active"><a href="summary.asp?catid=26509">ΕΙΔΗΣΕΙΣ</a><ul class="cat1"><li><a href="summary.asp?catid=26509">ΠΟΛΙΤΙΚΗ</a></li><li><a href="summary.asp?catid=26510">ΚΟΙΝΩΝΙΑ</a></li><li><a href="summary.asp?catid=26511">ΚΟΣΜΟΣ</a></li><li><a href="summary.asp?catid=30029">ΑΘΛΗΤΙΣΜΟΣ</a></li><li><a href="summary.asp?catid=26513">ΠΟΛΙΤΙΣΜΟΣ</a></li><li><a href="summary.asp?catid=27766">SHOW BUSINESS</a></li><li class="active"><a href="summary.asp?catid=26514">ΕΠΙΣΤΗΜΗ</a></li><li><a href="summary.asp?catid=26515">ΠΕΡΙΒΑΛΛΟΝ</a></li><li><a href="summary.asp?catid=27359">MEDIA</a></li><li><a href="summary.asp?catid=27682">ΔΕΛΤΙΑ ΤΥΠΟΥ</a></li><li><a href="summary.asp?catid=27683">PHOTO NEWS</a></li></ul></li><li><a href="summary.asp?catid=26516">ΟΙΚΟΝΟΜΙΑ</a><ul class="cat1"><li><a href="summary.asp?catid=26516">ΕΛΛΑΔΑ</a></li><li><a href="summary.asp?catid=26517">ΕΥΡΩΠΗ</a></li><li><a href="summary.asp?catid=26518">ΚΟΣΜΟΣ</a></li></ul></li><li><a href="summary.asp?catid=26519">ΕΠΙΧΕΙΡΗΣΕΙΣ</a><ul class="cat1"><li><a href="summary.asp?catid=26519">ΕΛΛΗΝΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ</a></li><li><a href="summary.asp?catid=26520">ΞΕΝΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ</a></li><li><a href="summary.asp?catid=26521">ΤΡΑΠΕΖΕΣ</a></li><li><a href="summary.asp?catid=26522">ΤΗΛΕΠΙΚΟΙΝΩΝΙΕΣ</a></li><li><a href="summary.asp?catid=26523">ΕΝΕΡΓΕΙΑ</a></li><li><a href="summary.asp?catid=26524">ΒΙΟΜΗΧΑΝΙΑ</a></li><li><a href="summary.asp?catid=26525">ΕΜΠΟΡΙΟ</a></li><li><a href="summary.asp?catid=26526">ΝΑΥΤΙΛΙΑ</a></li><li><a href="summary.asp?catid=26527">ΤΟΥΡΙΣΜΟΣ</a></li></ul></li><li><a href="summary.asp?catid=26501">ΑΠΟΨΕΙΣ</a></li><li><a href="summary.asp?catid=26502">ΧΡΗΜΑΤΙΣΤΗΡΙΟ</a><ul class="cat1"><li><a href="summary.asp?catid=30414">ΤΕΧΝΙΚΕΣ ΑΝΑΛΥΣΕΙΣ</a></li><li><a href="article.asp?catid=26535">ΚΑΓΚΕΛΑΡΙΟΣ</a></li><li><a href="article.asp?catid=26966">ΚΑΓΚΕΛΑΡΙΟΣ ONLINE</a></li><li><a href="summary.asp?catid=27722">5 ΧΡΗΜΑΤΙΣΤΕΣ</a></li><li><a href="summary.asp?catid=27775">STOCK STORIES</a></li><li><a href="quotes.asp?catid=26538">ΕΙΚΟΝΑ  ΑΓΟΡΑΣ</a></li><li><a href="quotes.asp?catid=26541">ΜΕΤΟΧΕΣ ΟΝΟΜΑΣΤΙΚΑ</a></li><li><a href="quotes.asp?catid=26540">ΜΕΤΟΧΕΣ ΑΝΑ ΚΛΑΔΟ</a></li><li><a href="quotes.asp?catid=26539">ΜΕΤΟΧΕΣ ΑΝΑ ΔΕΙΚΤΗ</a></li><li><a href="summary.asp?catid=26555">ΑΝΑΚΟΙΝΩΣΕΙΣ Χ.Α.</a></li><li><a href="quotes.asp?catid=26503">ΞΕΝΑ ΧΡΗΜΑΤΙΣΤΗΡΙΑ</a></li></ul></li><li><a href="summary.asp?catid=27686">ΦΟΡΟΛΟΓΙΚΑ</a><ul class="cat1"><li><a href="summary.asp?catid=27686">ΡΕΠΟΡΤΑΖ</a></li><li><a href="summary.asp?catid=27197">ΕΡΕΥΝΕΣ</a></li></ul></li><li><a href="summary.asp?catid=27199">ΣΤΗΛΕΣ</a><ul class="cat1"><li><a href="summary.asp?catid=30980">START UP MADE IN GREECE</a></li><li><a href="summary.asp?catid=28055">SUCCESS STORIES</a></li><li><a href="summary.asp?catid=27199">ΑΥΤΟΚΙΝΗΤΑ</a></li><li><a href="summary.asp?catid=27198">ΑΚΙΝΗΤΑ</a></li><li><a href="summary.asp?catid=27083">ΠΕΡΙΣΚΟΠΙΟ</a></li><li><a href="summary.asp?catid=27201">ΥΓΕΙΑ</a></li><li><a href="summary.asp?catid=27200">ΤΕΧΝΟΛΟΓΙΑ</a></li></ul></li><li><a href="summary.asp?catid=27711">LIFE STYLE</a><ul class="cat1"><li><a href="summary.asp?catid=27712">GOODLIFE</a><ul class="cat2"><li><a href="summary.asp?catid=27712">FOOD & DRINK</a></li><li><a href="summary.asp?catid=27713">TRAVEL</a></li><li><a href="http://www.e-go.gr/wmotors/r.asp?catid=15645">ΑΥΤΟΚΙΝΗΤΟ</a></li><li><a href="summary.asp?catid=27715">YACHTING</a></li><li><a href="summary.asp?catid=27716">CHRONO</a></li></ul></li><li><a href="summary.asp?catid=27719">STYLE & SHOPPING</a><ul class="cat2"><li><a href="summary.asp?catid=27719">STYLE</a></li><li><a href="summary.asp?catid=27718">ΜΟΔΑ</a></li><li><a href="summary.asp?catid=27720">ΑΓΟΡΑ</a></li></ul></li><li><a href="summary.asp?catid=27721">CULTURE</a></li><li><a href="summary.asp?catid=27723">ΒΙΒΛΙΟ</a></li><li><a href="summary.asp?catid=27724">ΘΕΜΑΤΑ</a></li><li><a href="summary.asp?catid=27725">STAR SYSTEM</a></li><li><a href="summary.asp?catid=27727">LUXURY</a></li></ul></li><li><a href="article.asp?catid=27279">ΥΠΗΡΕΣΙΕΣ</a><ul class="cat1"><li><a href="article.asp?catid=27279">ΕΦΗΜΕΡΙΔΕΣ</a><ul class="cat2"><li><a href="article.asp?catid=27281">ΗΜΕΡΗΣΙΑ</a></li></ul></li><li><a href="user.asp?catid=27143">NEWSLETTER</a></li><li><a href="article.asp?catid=27690">ΣΥΝΔΡΟΜΗΤΙΚΗ ΗΛΕΚΤΡΟΝΙΚΗ ΕΚΔΟΣΗ</a></li><li><a href="summary.asp?catid=27911">ΔΙΑΚΟΠΕΣ</a></li></ul></li><div class="clear"></div></ul><div class="search_btn"><img src="images/search_btn.gif" title="<br />κάντε κλικ για <b>αναζήτηση</b>" border="0" /></div></div>
+  <div class="clear"></div>
+</div>
+<div class="searchbar">
+
+<script>
+function updateFormActionMain(){
+ document.getElementById("googlesearch").action = "summary.asp";
+ document.getElementById("catid").value  = "27746";
+}
+function updateFormActionOption(){
+ document.getElementById("googlesearch").action = "quotes.asp";
+ document.getElementById("catid").value = "27132";
+}
+function updateFormActionFile() {
+ document.getElementById("googlesearch").action = "summary.asp";
+ document.getElementById("catid").value = "27747";
+}
+</script>
+
+<!-- SiteSearch Google -->
+<div class="googlebox">
+
+<form method="get" action="summary.asp" target="_top" id="googlesearch">
+<table border="0"  cellpadding="0" cellspacing="0" align=right>
+
+<tr>
+<td nowrap="nowrap" align="left">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<input class="radiobtn" type="radio" name="sitesearch" value="" checked id="ss1" onclick="updateFormActionMain()"></input>
+<label for="ss1" title="Search ">no Value for ARTICLE_NOT_FOUND</label></td>
+<td>
+<input class="radiobtn" type="radio" name="sitesearch" value="" id="ss2" onclick="updateFormActionFile()"></input>
+<label for="ss0" title="Search Archives">Αρχείο</label></td>
+<td>
+<input class="radiobtn" type="radio" name="sitesearch" value="" id="ss0" onclick="updateFormActionOption()"></input>
+<label for="ss0" title="Search the Web">Μετοχές</label></td>
+</tr>
+</table>
+</td>
+
+<td rowspan="2" class="glogo"><img src="images/google_logo.gif" border="0" /></td> 
+<td><h1>ΑΝΑΖΗΤΗΣΗ</h1></td>
+<td nowrap="nowrap">
+
+<input type="hidden" name="domains" value=""></input> <!-- TITLE -->
+<label for="sbi" style="display: none">Enter your search terms</label>
+<input class="ginput" type="text" name="q" size="31" maxlength="255" value="" id="sbi"></input>
+<label for="sbb" style="display: none">Submit search form</label>
+<input class="gsubmit" type="submit" name="sa" value="ΑΝΑΖΗΤΗΣΗ" id="sbb"></input>
+<input type="hidden" name="client" value=""></input> <!-- SUBTITLE -->
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="channel" value=""></input> <!-- SUPERTITLE -->
+<input type="hidden" name="ie" value="utf-8"></input>
+<input type="hidden" name="oe" value="utf-8"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:11"></input>
+<input type="hidden" name="hl" value="el"></input>
+<input type="hidden" name="catid" id="catid" value=""></input> <!-- SUMMARY -->
+</td>
+</tr>
+<script>
+ if (document.getElementById('ss1')!= null ) {
+     document.getElementById('ss1').checked =true;
+     if ('ss1'=='ss2') {
+          updateFormActionMetoxes();
+     }
+     if ('ss1'=='ss0') {
+          updateFormActionFile();
+     }
+ }
+</script>
+
+</table>
+</form>
+</div>
+<!-- SiteSearch Google --></div>
+
+
+<script>
+$(document).ready(function() {
+$(".search_btn").click(function () {
+      var status = $(".searchbar").css("display");
+      if(status == "block"){
+           $(".searchbar").css("display","none");
+           $("div.menu").css("marginBottom","0px");
+      }else{
+           $(".searchbar").css("display","block");      
+           $("div.menu").css("marginBottom","0px");
+      }
+});
+});
+</script>
+
+
+<div class="pencilad"><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D30276%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Eethnos%252Egr%252Farticle%252Easp%253Fcatid%253D22768%2526subid%253D2%2526pubid%253D63737709%26npubid%3D129291481'));"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130326/low/pegasus_LARGE_t_237761_54180181.JPG" border="0" /></a></div>
+<div class="container">
+    <div class="leftcol"><div class="catpath"><h6>ΒΡΙΣΚΕΣΤΕ ΕΔΩ: <a href="summary.asp?catid=26509">ΕΙΔΗΣΕΙΣ</a> > <a href="summary.asp?catid=26514">ΕΠΙΣΤΗΜΗ</a></h6></div><div class="toolsleft">
+  <div class="date">ΗΜΕΡΗΣΙΑ On Line<br />"Η" Online 30/12/2011 10:42</div>
+  <div class="artbuttons">
+
+  <table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+   <td><a href="javascript:void(0);" onclick="increaseFont()" id="plustext"><img src="images/Nfont2_b.gif" alt="Μεγαλύτερα Γράμματα" border="0"></a><a href="javascript:void(0);" onclick="decreaseFont()" id="minustext"><img src="images/Nfont2_s.gif" alt="Μικρότερα Γράμματα" border="0"></a> Μέγεθος γραμμάτων</td>
+</tr><tr>
+  <td class='toolsclear'>
+<span class="mailspan"><a href="#" onclick="window.open('mailto.asp?catid=26514&subid=12&pubid=112794359', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">
+<img src="images/Nmailto2.gif" alt="mail to" border="0">
+</a><a href="#" onclick="window.open('mailto.asp?catid=26514&subid=12&pubid=112794359', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">Email</a>
+ </span>
+
+<span><a href="#" onclick="window.open('v5general2print.asp?catid=26514&subid=20110&pubid=112794359', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+<img src="images/Ntoprint2.gif" border=0 alt="Εκτυπώστε το Αρθρο">
+</a>
+ <a href="#" onclick="window.open('v5general2print.asp?catid=26514&subid=20110&pubid=112794359', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+Εκτύπωση</a></span>
+</td>
+  </tr>
+<tr>
+<td><div>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.imerisia.gr/article%2Easp%3Fcatid%3D26514%26subid%3D2%26pubid%3D112794359&layout=button_count&show_faces=false&width=150&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></div></td>
+  </tr>
+<tr>
+<td class="twittertd">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</td>
+</tr>
+</table>
+
+</div>
+  <div class="divider"></div>
+
+<div class="clear"></div>
+<div class="reletedleft">
+<div class="relart2">
+
+<h6>ΠΡΩΤΗ ΕΙΔΗΣΗ ΤΩΡΑ</h6>
+<ul><li><a href="article.asp?catid=26517&subid=2&pubid=113024847"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130323/engine/newego_LARGE_t_1101_54178510_type11455.jpg" border="0" /></a><h2><a href="article.asp?catid=26517&subid=2&pubid=113024847">ΤΙΜΩΡΙΑ ΣΤΙΣ «ΠΡΟΒΛΗΜΑΤΙΚΕΣ» ΤΡΑΠΕΖΕΣ</a></h2><h3><a href="article.asp?catid=26517&subid=2&pubid=113024847">Πρόταση - σοκ για «κούρεμα» καταθέσεων άνω των 100.000 ευρώ</a> <span class="date">10/4</span></h3></li></ul>
+</div></div>
+
+<div class="clear"></div>
+<div class="divider"></div>
+<div class="clear"></div>
+<SOURCE/>
+<div class="reletedleft"><div class="clear"></div>
+<div class="relart">
+<h6>ΣΧΕΤΙΚΕΣ ΔΗΜΟΣΙΕΥΣΕΙΣ</h6>
+<ul><li><a href="article.asp?catid=26514&subid=2&pubid=112793624"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20120615/engine/assets_LARGE_t_942_43329750_type11455.jpg" border="0" /></a><h2><a href="article.asp?catid=26514&subid=2&pubid=112793624"></a></h2><h3><a href="article.asp?catid=26514&subid=2&pubid=112793624">Οι ανακαλύψεις της Αστρονομίας το 2011</a> <span class="date">29/12/2011 7:29</span></h3></li><li><a href="article.asp?catid=26514&subid=2&pubid=112794264"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20120614/engine/imerisia_LARGE_t_1061_43330449_type11455.jpg" border="0" /></a><h2><a href="article.asp?catid=26514&subid=2&pubid=112794264"></a></h2><h3><a href="article.asp?catid=26514&subid=2&pubid=112794264">Στέφεν Χόκινγκ: Ζητά να προσλάβει τεχνικό βοηθό για τη συνθετική φωνή του </a> <span class="date">30/12/2011 11:14</span></h3></li><li><a href="article.asp?catid=26514&subid=2&pubid=112792991"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20120615/engine/2011122800381_145998991_type11455.jpg" border="0" /></a><h2><a href="article.asp?catid=26514&subid=2&pubid=112792991"></a></h2><h3><a href="article.asp?catid=26514&subid=2&pubid=112792991">Τα κορυφαία επιστημονικά γεγονότα του 2011
+
+</a> <span class="date">28/12/2011 7:33</span></h3></li></ul></div></div><div id="prototype_26077">
+<div class="restarts"><h6>ΔΙΑΒΑΣΤΕ ΑΚΟΜΑ</h6><ul><li><a href="article.asp?catid=26514&subid=2&pubid=113024743">Πέθανε ο «πατέρας» των «παιδιών του σωλήνα»</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=26514&subid=2&pubid=113024672">Higgs: Σταματήστε να το αποκαλείτε «Σωματίδιο του Θεού»</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=26514&subid=2&pubid=113024074">Η κρίση έδιωξε 120.000 νέους επιστήμονες από την Ελλάδα!</a> <span class="pubdate">9/4</span></li><li><a href="article.asp?catid=26514&subid=2&pubid=113023209">Οι καλύτερες εικόνες της Γης σε 2,5 λεπτά
+</a> <span class="pubdate">8/4</span></li><li><a href="article.asp?catid=26514&subid=2&pubid=113023232">Νέα αποστολή της NASA για αναζήτηση άγνωστων πλανητών </a> <span class="pubdate">8/4</span></li><li><a href="article.asp?catid=26514&subid=2&pubid=113022146">Κρυμμένη προσευχή στο αρχαιοελληνικό αλφάβητο</a> <span class="pubdate">6/4</span></li><li><a href="article.asp?catid=26514&subid=2&pubid=113021630">«Διαβάζουν» τα ανθρώπινα όνειρα με χρήση υπολογιστή</a> <span class="pubdate">6/4</span></li><li><a href="article.asp?catid=26514&subid=2&pubid=113020366">Σχέδιο από το Διάστημα για την Καλαμάτα</a> <span class="pubdate">3/4</span></li><li><a href="article.asp?catid=26514&subid=2&pubid=113020383">Ιστορική ανακάλυψη: Νεάντερταλ ζούσαν στην Μάνη!!</a> <span class="pubdate">3/4</span></li><li><a href="article.asp?catid=26514&subid=2&pubid=113021452">Πλησιάζουν το μυστήριο της σκοτεινής ύλης στο Σύμπαν</a> <span class="pubdate">5/4</span></li></ul></div>
+<div class="clear"></div><div class="pag"><table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="images/arrow_prev_off.gif" border="0" /></td> <td><span class="link"><a href="JAVASCRIPT:reloadPrototypeElement('26077','catid=26514&subid=2&pubid=112794359&page1=1')"><b>1</b></a></span><span class="link"><a href="JAVASCRIPT:reloadPrototypeElement('26077','catid=26514&subid=2&pubid=112794359&page1=2')">2</a></span><span class="link"><a href="JAVASCRIPT:reloadPrototypeElement('26077','catid=26514&subid=2&pubid=112794359&page1=3')">3</a></span></td> <td><a href="JAVASCRIPT:reloadPrototypeElement('26077','catid=26514&subid=2&pubid=112794359&page1=2')"><img src="images/arrow_next_on.gif" border="0" /></a></td></tr></table></div>
+</div><script>addPrototypeElement('26077','AJAXREST','incl/vRestArticlesAjax_26077.asp','pageid=728&catid=26514&subid=2&pubid=112794359&catidlocal=26514&subidlocal=2',false,'');</script>
+<br><br><center><div class="ban120300"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=23&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=23&dfl=yes&js=no" border="0" width="120" height="600" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|23/120x600"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div><div class="banbottom"></div></center>
+</div>
+
+<div id="arttext" class="text">
+
+<h5></h5>
+<h1>Ο Κολόμβος έφερε τη... σύφιλη στην Ευρώπη</h1>
+<div class="PHOTOmain"><a href="http://content-mcdn.imerisia.gr/filesystem/images/20111230/low/imerisia_LARGE_t_1061_43330429.JPG" rel="lightbox-group1" title=""><img src="http://content-mcdn.imerisia.gr/filesystem/images/20120615/engine/imerisia_LARGE_t_1061_43330429_type12128.jpg"  border="0" alt="Ο Κολόμβος έφερε τη... σύφιλη στην Ευρώπη" /></a></div>  <p>	<strong>Εδώ και χρόνια συνεχίζεται η διαμάχη αν πράγματι ο Χριστόφορος Κολόμβος είναι υπεύθυνος για την άφιξη της σύφιλης, μιας από τις πρώτες παγκόσμιες ασθένειες, στην ευρωπαϊκή ήπειρο.</strong></p>  <p>	Μετά την ανακάλυψη της Αμερικής τον 15ο αιώνα, η φήμη του διάσημου ερευνητή κηλιδώθηκε, επειδή κατηγορήθηκε ότι μετέφερε με τα πλοία του και τους ναυτικούς του την τρομερή αφροδίσια νόσο στην Ευρώπη. Νεότεροι όμως ερευνητές παρουσίασαν στοιχεία ότι η σύφιλη υπήρχε ήδη στη &quot;γηραιά&quot; ήπειρο, προτού ο Κολόμβος επιστρέψει στην Ισπανία το 1493. Αλλά μια νέα αμερικανική έρευνα έρχεται να... αποκαταστήσει την τάξη, επαναφέροντας, με νέα στοιχεία, την ορθότητα των παλαιότερων κατηγοριών.</p> <p>	Οι ερευνητές, με επικεφαλής τον βιολόγο-αρχαιολόγο Τζορτζ Αρμελάγκος του πανεπιστημίου Έμορι και την Κριστίν Χάρπερ του πανεπιστημίου Κολούμπια, που δημοσίευσαν τη σχετική μελέτη στο αμερικανικό περιοδικό ανθρωπολογίας &quot;American Journal of Physical Anthropology&quot;, σύμφωνα με τη βρετανική &quot;Ντέιλι Μέιλ&quot; και το &quot;Scientific American&quot;, θεωρούν ότι οι συνολικά 54 μελέτες που αθωώνουν τον Κολόμβο, είναι λανθασμένες. «Δεν υπάρχουν πραγματικά καλές ενδείξεις ούτε για ένα περιστατικό σύφιλης στην Ευρώπη πριν το 1492», δήλωσε ο Τζ. Αρμελάγκος.</p> <p>	Η σύφιλη, που σήμερα πια θεραπεύεται με αντιβιοτικά, προκαλείται από το βακτήριο της ωχράς σπειροχαίτης και στα παλιά χρόνια ήταν συχνά θανατηφόρα, πλήττοντας διάφορα μέρη και όργανα του σώματος (κεφάλι, καρδιά, εγκέφαλο, οστά, μάτια κ.α.), σπέρνοντας τον τρόμο στους κατοίκους των ευρωπαϊκών πόλεων. Τα πρώτα καταγεγραμμένα περιστατικά της σεξουαλικά μεταδιδόμενης νόσου, που πήραν μορφή επιδημίας, συνέβησαν το 1495, δηλαδή τρία χρόνια μετά το πρώτο ταξίδι του Κολόμβου στην Αμερική, κι έκτοτε οι ειδικοί ερίζουν για την προέλευσή της.</p><p>	Αρκετοί ερευνητές υποστήριξαν ότι, λόγω της έλλειψης επαρκών γνώσεων, οι γιατροί του Μεσαίωνα και της Αναγέννησης αδυνατούσαν να ξεχωρίσουν τα συμπτώματα της σύφιλης από άλλες σοβαρές μολυσματικές παθήσεις (π.χ. τη λέπρα) και πιστεύουν ότι η νόσος πρέπει να υπήρχε στην Ευρώπη αρκετά χρόνια πριν την φέρει ο Κολόμβος. Ως επιχείρημα προβάλλουν 50 περίπου σκελετούς από την προ Κολόμβου Ευρώπη, οι οποίοι φαίνονται να φέρουν σημάδια χρόνιων συφιλιδικών αλλοιώσεων.</p><p>	Όμως η νέα μελέτη δεν θεωρεί κανένα από αυτά τα στοιχεία ως πλήρως αξιόπιστο. Όπως αναφέρουν οι ερευνητές, μελέτησαν εξονυχιστικά κάθε μία από τις 54 δημοσιευμένες μελέτες που δεν θεωρεί υπεύθυνο τον Κολόμβο και κατέληξαν στο συμπέρασμα ότι σε αυτές δεν υπάρχει ούτε μια αποδεδειγμένη, πέρα από κάθε αμφιβολία, περίπτωση σύφιλης που να χρονολογείται πριν το επικό ταξίδι του μεγάλου εξερευνητή. Οι αμερικανοί ανθρωπολόγοι και βιολόγοι διαπιστώνουν διάφορες ελλείψεις στις προηγούμενες &quot;αθωωτικές&quot; έρευνες, όπως ανεπαρκείς διαγνώσεις της νόσου, αναξιόπιστες τεχνικές χρονολόγησης και ανύπαρκτές ή κακής ποιότητας αποδεικτικές φωτογραφήσεις των επίμαχων σκελετών.<br />	<br />	Μεταξύ άλλων, αναφέρουν ότι ακόμα και στις περιπτώσεις που κάποιος σκελετός φέρει σίγουρα σημάδια σύφιλης, η χρονολόγησή του με την μέθοδο του ραδιο-άνθρακα πάσχει, επειδή οι σκελετοί βρέθηκαν σε παραθαλάσσιες τοποθεσίες. Αυτό σημαίνει ότι, όσο ζούσαν, τα πιθανά θύματα της νόσου θα είχαν φάει πολλά θαλασσινά, τα οποία όμως περιέχουν ίχνη άνθρακα ηλικίας πολλών χιλιάδων ετών, με συνέπεια να είναι πολύ πιθανή η παραπλάνηση της χρονολόγησης.<br />  	<br />	Για την πρωτότυπη επιστημονική εργασία (με συνδρομή) στη διεύθυνση: http://onlinelibrary.wiley.com/doi/10.1002/ajpa.21613/abstract</p><p>	Πηγή: ΑΠΕ-ΜΠΕ</p>
+<br />
+
+<div class="belowArticle"><table border="0" cellpadding="1" cellspacing="0" align="center">
+ <tr >
+  <td>
+
+
+
+   <span><a href="#" onclick="window.open('v5general2print.asp?catid=26514&subid=20110&pubid=112794359', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+<img src="images/Ntoprint2.gif" border=0 alt="Εκτυπώστε το Αρθρο">
+</a></td><td>
+ <a href="#" onclick="window.open('v5general2print.asp?catid=26514&subid=20110&pubid=112794359', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+Εκτύπωση </a></span>
+  </td>
+  <td>
+   <span class="mailspan"><a href="#" onclick="window.open('mailto.asp?catid=26514&subid=12&pubid=112794359', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">
+    <img src="images/Nmailto2.gif" alt="mail to" border="0">
+</a></td><td><a href="#" onclick="window.open('mailto.asp?catid=26514&subid=12&pubid=112794359', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">Email</a>
+ </span>
+
+
+</td>
+<td><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.imerisia.gr/article%2Easp%3Fcatid%3D26514%26subid%3D2%26pubid%3D112794359&layout=button_count&show_faces=false&width=120&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe></td>
+<td class="twittertd">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="imerisia_gr">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</td>
+</td>
+<td>
+<!-- a onmouseover="ReverseContentDisplay('contactHoverBox'); return true;" href="javascript:ReverseContentDisplay('contactHoverBox')">
+<img src="images/contact.gif" border=0 alt="Επικοινωνία"></a></td><td><a onmouseover="ReverseContentDisplay('contactHoverBox'); return true;" href="javascript:ReverseContentDisplay('contactHoverBox')">
+Επικοινωνία</a -->
+</td>
+</tr>
+</table>
+</div>
+<div id="contactHoverBox">
+<img src="images/ethnosContactBoxArrow.jpg" /><div class="wline"></div>
+<div id="HoverBoxborder">
+<h1>ΕΠΙΚΟΙΝΩΝΙΑ</h1>
+<table border="0" cellpadding="0" cellspacing="8">
+<tr><td valign="top">
+Απόκτηση παλαιότερων τευχών, φύλλων & προσφορών <a href="mailto:chrisoulam@pegasus.gr">chrisoulam@pegasus.gr</a>
+</td>
+<td valign="top">Πληροφορίες για διαφήμιση στην έντυπη έκδοση <a href="mailto:pzante@pegasus.gr">pzante@pegasus.gr</a>
+</td>
+</tr><tr>
+<td valign="top">Αποστολή βιογραφικών <a href="mailto:emavroudi@pegasus.gr">emavroudi@pegasus.gr</a></td>
+<td valign="top">Πληροφορίες για διαφήμιση στην ηλεκτρονική έκδοση <a href="mailto:advertising@pegasusinteractive.gr">advertising@pegasusinteractive.gr</a></td>
+</tr></table>
+</div>
+</div>
+
+</div>
+
+
+
+<div class="text" style="float:right; width: 486px;">
+
+<!------------ GALLERY ----------------->
+<div style="margin:10px auto;"><link rel="stylesheet" type="text/css" href="imerisiadstyles.css" />
+<script language="JavaScript">
+var google_adnum = 0;
+function google_ad_request_done(google_ads) {
+var s = '';
+var i;
+if (google_ads.length == 0) {
+return;
+}
+if (google_ads[0].type == "image") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br> <a href="' + 
+google_ads[0].url + '" target="_top" title="go to ' + 
+google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + 
+google_ads[0].visible_url + '\';return true"><img border="0" src="' + 
+google_ads[0].image_url + '"width="' + 
+google_ads[0].image_width + '"height="' + 
+google_ads[0].image_height + '"></a>';
+} else if (google_ads[0].type == "html") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' + 
+google_ads[0].snippet;
+} else {
+if (google_ads.length == 1) {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Διαφημίσεις Google</a> <a style="text-decoration:none" href="' + 
+google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[0].visible_url + '\';return true"> <span style="text-decoration:underline;font-size:20pt"> <b>' + 
+google_ads[0].line1 + '</b><br></span></a> <span style="color:#000000; font-size:16pt">' +
+google_ads[0].line2 + ' ' +
+google_ads[0].line3 + '<br></span> <a style="color:#008000;font-size:44pt;text-decoration:none" href="' + 
+google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[0].visible_url + '\';return true"><span>' + 
+google_ads[0].visible_url + '</span></a><br>';
+} else if (google_ads.length > 1) {
+s += "<table id=\"imerisiagads\" cellspacing=\"0\" cellpadding=\"0\">"; 
+s += "  <tr>";
+s += "    <td id=\"head\">";
+s += '<a href=\"' + google_info.feedback_url + '\">Διαφημίσεις Google</a>'  
+s += " <\/td>";
+s += "  <\/tr>";
+s += "  <tr>";
+s += "    <td>";
+for(i = 0; i < google_ads.length; ++i) {
+s += '<br><a id=\"title\" target="_blank" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true"> <span>' + 
+google_ads[i].line1 + '</span></a> <br/><span>' +
+google_ads[i].line2 + '</span><br/> <a id=\"adlink\" target="_blank" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true"><span>' + 
+google_ads[i].visible_url + '</span></a><br>';
+}
+s += "    <\/td>";
+s += "  <\/tr>";
+s += "<\/table>";
+}}
+if (google_ads[0].bidtype == "CPC") {
+google_adnum = google_adnum + google_ads.length;
+}
+document.write(s);
+return;
+}
+google_ad_client = 'pub-9628004899418467';
+google_ad_channel = '7565718000';
+google_ad_output = 'js';
+google_max_num_ads = '4';
+google_ad_type = 'text';
+google_feedback = 'on';
+google_encoding = 'UTF-8';
+google_adtest = 'off';
+google_language = 'el';
+</script>
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="clear"></div>
+<div class="forum"></div>
+
+
+
+<div class="clear"></div>
+
+<!--No Elements for : 100005--><div id="prototype_27356_17"><div class="bp">
+<div class="rightbox">
+<div class="tit100 isnotcurrentcategory"><a href="summary.asp?catid=30256">NEA ΣΕ 10''</a></div>
+<div class="tit100 iscurrentcategory"><a href="summary.asp?catid=30256">NEWSROOM</a></div><div class="tit100 isnotcurrentcategory"><a href="JAVASCRIPT:reloadPrototypeElementGroups('NEWS.INITIAL','catid=27769')">ΟΙΚΟΝΟΜΙΑ</a></div><div class="tit100 isnotcurrentcategory"><a href="JAVASCRIPT:reloadPrototypeElementGroups('NEWS.INITIAL','catid=27768')">ΕΠΙΧΕΙΡΗΣΕΙΣ</a></div>
+<div class="newswire"><div class="ltitle"><span class="ldate">9:12</span> <a href="article.asp?catid=26510&subid=2&pubid=113024948">100 κουκουλοφόροι κυνήγησαν τον Μπέο</a></div><div class="ltitle"><span class="ldate">9:06</span> <a href="article.asp?catid=26510&subid=2&pubid=113024947">Πάτρα: Επίθεση στο δήμαρχο με μπουκάλια και καφέδες. Διεκόπη η συνεδρίαση του ΔΣ</a></div><div class="ltitle"><span class="ldate">9:01</span> <a href="article.asp?catid=27937&subid=2&pubid=113025084">Μαζική και ανελέητη επίθεση στους φοροφυγάδες. Αυτοί έχουν λεφτά</a></div><div class="ltitle"><span class="ldate">8:56</span> <a href="article.asp?catid=26509&subid=2&pubid=113025083">Ξεκινά με απουσίες το 19ο συνέδριο του ΚΚΕ
+</a></div><div class="ltitle"><span class="ldate">8:53</span> <a href="article.asp?catid=26513&subid=2&pubid=113025082">Κλειστό το Λούβρο λόγω... πορτοφολάδων</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26517&subid=2&pubid=113024939">«Κίτρινη κάρτα» για τη Γαλλία
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26517&subid=2&pubid=113024937">Υφεση 8,7% στην Κύπρο «βλέπει» φέτος η τρόικα
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26517&subid=2&pubid=113024938">«Κούρεμα» σε διατραπεζικά δάνεια;
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26517&subid=2&pubid=113024940">Προς νέο ρεκόρ οδεύει το δημόσιο χρέος της Ιταλίας
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26517&subid=2&pubid=113024922">Τέλος στο τραπεζικό απόρρητο του Λουξεμβούργου
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26517&subid=2&pubid=113024921">«Τρύπα» 8 δισ. στις τράπεζες της Πορτογαλίας
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26516&subid=2&pubid=113024931">Με διαδικασίες-εξπρές η αποχώρηση των επίορκων
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26516&subid=2&pubid=113024932">«Οι καταθέσεις στην Ελλάδα είναι απολύτως προστατευμένες»
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26516&subid=2&pubid=113024935">Πρωτογενές πλεόνασμα 508 εκατ.
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26516&subid=2&pubid=113025047">Μείωση έως 250 εκατ. σε δαπάνες για κρατικές προμήθειες
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26516&subid=2&pubid=113024936">Στο 6% του ΑΕΠ το έλλειμμα το 2012
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26521&subid=2&pubid=113024933">Oι όροι αύξησης κεφαλαίου της ΕΤΕ</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26526&subid=2&pubid=113025040">Ανταλλαγή ναυτικών μεταξύ Ελλάδας - Κίνας
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26526&subid=2&pubid=113025041">Θετικές προσδοκίες στο ξηρό φορτίο
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26526&subid=2&pubid=113025043">Συνέδριο για τη ναυτιλία</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26526&subid=2&pubid=113025044">Λαθρεμπόριο καυσίμων</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26527&subid=2&pubid=113025042">Κρουαζιέρα από την BSF</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=27199&subid=2&pubid=113025045">Τσουχτερά πρόστιμα για οδηγούς χωρίς δίπλωμα
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26516&subid=2&pubid=113024930">Μετά το Eurogroup η εκταμίευση της δόσης των 8,8 δισ.
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=27688&subid=2&pubid=113024929">Αιφνιδιασμοί</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=27775&subid=2&pubid=113025049">11/04/2013</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26535&subid=2&pubid=113025050">Μετοχές: Υπέρ & κατά </a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113024928">Ακροβατούν σε τεντωμένο σχοινί για την πώληση του ΟΠΑΠ
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025030">Ισχυρό επενδυτικό ενδιαφέρον για τα πετρέλαια στην Ελλάδα</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025031">Ανακωχή των αντιμαχόμενων πλευρών
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025032">Εκδοση ομολογιακού 3 εκατ. ευρώ
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025033">Σχέδια για νέα καταστήματα Brooks Brothers
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025034">Υστατη προσπάθεια σωτηρίας για τις Κυπριακές Αερογραμμές
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025035">Η Siemens «βλέπει» Κυκλάδες
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025036">Νέα υπηρεσία για την επίλυση της γραφειοκρατίας
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025037">Χρονιά ανάκαμψης το 2013
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025039">Ξεκινά η κατασκευή μονάδας της Vivartia στο Αμπού Ντάμπι
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025038">Σε Aκτωρ - Alstom Transport το Θριάσιο
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113025029">Μειώνεται η εγγυητική για ΔΕΠΑ
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26502&subid=2&pubid=113024934">Θετικές εξελίξεις για τις τράπεζες προεξοφλεί το Χ.Α.
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26502&subid=2&pubid=113024923">Σε νέα ιστορικά υψηλά Dow Jones και S&P 500
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26518&subid=2&pubid=113024925">ΟΟΣΑ: Η Ινδία χάνει το τρένο της ανάπτυξης
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26518&subid=2&pubid=113024926">Μειωμένη η ζήτηση για πετρέλαιο λόγω Κύπρου</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26518&subid=2&pubid=113024927">Απαισιόδοξη για τον χρυσό η Goldman Sachs
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26502&subid=2&pubid=113025048">Νέα εκτίναξη του τραπεζικού κλάδου
+
+</a></div><div class="ltitle"><span class="ldate">8:00</span> <a href="article.asp?catid=26518&subid=2&pubid=113024924">Φόροι στους πλούσιους και μείωση δαπανών
+
+</a></div><div class="ltitle"><span class="ldate">1:43</span> <a href="article.asp?catid=27199&subid=2&pubid=113024843">ΙΧ και Μοτό: Πρόστιμο 200 ευρώ σε όσους δεν έχουν δίπλωμα οδήγησης</a></div><div class="ltitle"><span class="ldate">0:47</span> <a href="article.asp?catid=26517&subid=2&pubid=113024855">Βόμβα: Μετέφεραν στο εξωτερικό χρήματα η κόρη του Αναστασιάδη και ο Μ. Σαρρής;</a></div><div class="ltitle"><span class="ldate">23:45</span> <a href="quotes.asp?catid=26558&subid=2&pubid=113024852">Νέο ιστορικό ρεκόρ για Dow Jones και S&P 500</a></div><div class="ltitle"><span class="ldate">23:42</span> <a href="article.asp?catid=26516&subid=2&pubid=113024784">Στη φυλακή γιατί εισέπρατταν τις συντάξεις πεθαμένων</a></div><div class="ltitle"><span class="ldate">23:32</span> <a href="article.asp?catid=26510&subid=2&pubid=113024851">Στυγερό έγκλημα: 25χρονος κτηνοτρόφος έσφαξε φοιτήτρια</a></div><div class="ltitle"><span class="ldate">23:26</span> <a href="article.asp?catid=26509&subid=2&pubid=113024849">Ευρ. Στυλιανίδης: Ιδιωτικά ΑΕΙ και εκλογές κάθε πέντε χρόνια</a></div><div class="ltitle"><span class="ldate">23:19</span> <a href="article.asp?catid=26517&subid=2&pubid=113024847">Πρόταση - σοκ για «κούρεμα» καταθέσεων άνω των 100.000 ευρώ</a></div><div class="ltitle"><span class="ldate">22:43</span> <a href="article.asp?catid=26510&subid=2&pubid=113024846">Γ. Καρούζος: Δεν ξέρω τίποτε για τις off shore</a></div><div class="ltitle"><span class="ldate">22:32</span> <a href="article.asp?catid=26511&subid=2&pubid=113024845">Απολύσεις 40-50 χιλιάδων υπαλλήλων στο Πεντάγωνο</a></div><div class="ltitle"><span class="ldate">22:24</span> <a href="article.asp?catid=26510&subid=2&pubid=113024783">Ενα εκατομμύριο στο Λαχείο στην Ξάνθη</a></div><div class="ltitle"><span class="ldate">22:21</span> <a href="article.asp?catid=26510&subid=2&pubid=113024782">Επτά συλλήψεις για τα επεισόδια στο Πανεπιστήμιο Πειραιά</a></div><div class="ltitle"><span class="ldate">22:00</span> <a href="article.asp?catid=26519&subid=2&pubid=113024780">Ενδιαφέρον για έργα της ΔΕΗ, εκφράζει η Siemens</a></div><div class="ltitle"><span class="ldate">21:34</span> <a href="article.asp?catid=26516&subid=2&pubid=113024841">Στο 6% αντί 6,6% το έλλειμμα του 2012</a></div><div class="ltitle"><span class="ldate">21:34</span> <a href="article.asp?catid=26518&subid=2&pubid=113024840">Προϋπολογισμός «συμβιβασμού» στις ΗΠΑ</a></div><div class="ltitle"><span class="ldate">21:26</span> <a href="article.asp?catid=26517&subid=2&pubid=113024779">Αναβάθμιση της Κύπρου από την S&P λόγω Μνημονίου</a></div><div class="ltitle"><span class="ldate">21:22</span> <a href="article.asp?catid=26510&subid=2&pubid=113024839">Αναβάλλουν τις θεραπείες τους επειδή είναι πανάκριβα τα φάρμακα!</a></div><div class="ltitle"><span class="ldate">21:12</span> <a href="article.asp?catid=26517&subid=2&pubid=113024778">Την επόμενη εβδομάδα στην Μπούντεσταγκ το κυπριακό πακέτο</a></div><div class="ltitle"><span class="ldate">21:06</span> <a href="article.asp?catid=27198&subid=2&pubid=113024838">Με παραστατικά όλες οι δαπάνες των κοινοχρήστων</a></div><div class="ltitle"><span class="ldate">20:50</span> <a href="article.asp?catid=26517&subid=2&pubid=113024776">Λαγκάρντ: Ανακεφαλαιοποίηση - αναδιάρθρωση ή κλείσιμο για τις προβληματικές τράπεζες</a></div><div class="ltitle"><span class="ldate">20:37</span> <a href="article.asp?catid=26502&subid=2&pubid=113024837">Ράλι made in USA στα ευρωπαϊκά χρηματιστήρια</a></div><div class="ltitle"><span class="ldate">20:30</span> <a href="article.asp?catid=26511&subid=2&pubid=113024836">ΗΠΑ: Πολιτικός συμβιβασμός για την οπλοκατοχή</a></div><div class="ltitle"><span class="ldate">20:27</span> <a href="article.asp?catid=26509&subid=2&pubid=113024835">Επίσημη κλήτευση Παπανδρέου αποφάσισε η Προανακριτική</a></div><div class="ltitle"><span class="ldate">20:23</span> <a href="article.asp?catid=26515&subid=2&pubid=113024775">«Πράσινο» από ΣτΕ στο νέο γήπεδο του ΠΑΟ</a></div><div class="ltitle"><span class="ldate">20:20</span> <a href="article.asp?catid=26517&subid=2&pubid=113024774">Κύπρος: Παραμένει στη θέση του ο παυθείς υποδιοικητής της Κεντρικής Τράπεζας</a></div><div class="ltitle"><span class="ldate">20:08</span> <a href="article.asp?catid=12565&subid=2&pubid=113024771">ΟΠΑΠ: «Πράσινο» από το ΔΣ για την υπογραφή της σύμβασης με Intralot</a></div><div class="ltitle"><span class="ldate">20:03</span> <a href="article.asp?catid=26511&subid=2&pubid=113024834">Ολλανδία: Ψάχνουν ίχνη αλόγου σε 50.000 τόνους μοσχαρίσιου κρέατος</a></div><div class="ltitle"><span class="ldate">19:57</span> <a href="article.asp?catid=26516&subid=2&pubid=113024769">Ηλεκτρονικοί και on line οι διαγωνισμοί στο Δημόσιο</a></div><div class="ltitle"><span class="ldate">19:55</span> <a href="article.asp?catid=26517&subid=2&pubid=113024832">"Κούρεμα"  καταθέσεων στις προβληματικές τράπεζες μετά το 2015</a></div><div class="ltitle"><span class="ldate">19:53</span> <a href="article.asp?catid=26518&subid=2&pubid=113024831">Σημάδια βελτίωσης της παγκόσμιας οικονομίας διακρίνει η Κρ. Λαγκάρντ</a></div><div class="ltitle"><span class="ldate">19:46</span> <a href="article.asp?catid=26517&subid=2&pubid=113024768">Άσμουσεν: Η ΕΚΤ δεν μπορεί να λύσει όλα τα προβλήματα</a></div><div class="ltitle"><span class="ldate">19:44</span> <a href="article.asp?catid=26518&subid=2&pubid=113024767">ΟΠΕΚ: Κατεβάζει τον πήχη της ζήτησης πετρελαίου</a></div><div class="ltitle"><span class="ldate">19:41</span> <a href="article.asp?catid=26517&subid=2&pubid=113024766">Αναβάθμιση προοπτικών Κύπρου από S&P</a></div><div class="ltitle"><span class="ldate">19:18</span> <a href="article.asp?catid=26510&subid=2&pubid=113024830">Eκβίαζαν επιχειρηματία με... «γνωριμίες» στο ΣΔΟΕ</a></div><div class="ltitle"><span class="ldate">19:14</span> <a href="article.asp?catid=26511&subid=2&pubid=113024765">Κατεβαίνει στις δημοτικές εκλογές στη Ρώμη η Τσιτσιολίνα</a></div><div class="ltitle"><span class="ldate">19:09</span> <a href="article.asp?catid=26511&subid=2&pubid=113024829">Πρώην γκαλερίστας συνέλαβε ληστή και... του πρόσφερε εργασία</a></div><div class="ltitle"><span class="ldate">19:06</span> <a href="article.asp?catid=26517&subid=2&pubid=113024728">Η Κύπρος πουλάει αποθέματα χρυσού</a></div><div class="ltitle"><span class="ldate">19:03</span> <a href="article.asp?catid=26511&subid=2&pubid=113024764">Τουρκία: Ξεκίνησε η δίκη 72 συνδικαλιστών που κατηγορούνται για δεσμούς με το ΡΚΚ</a></div><div class="ltitle"><span class="ldate">18:58</span> <a href="article.asp?catid=12572&subid=2&pubid=113024760">Εθνική Τράπεζα: «Πράσινο φως» από ΤΧΣ για την ΑΜΚ</a></div><div class="ltitle"><span class="ldate">18:47</span> <a href="article.asp?catid=26502&subid=2&pubid=113024727">Χρηματιστήριο: Τραπεζικά κέρδη 200% μέσα σε τρεις ημέρες!</a></div><div class="ltitle"><span class="ldate">18:30</span> <a href="article.asp?catid=30980&subid=2&pubid=113024725">Qrator: Ελληνική εφαρμογή για το iPhone</a></div><div class="ltitle"><span class="ldate">18:28</span> <a href="article.asp?catid=26502&subid=2&pubid=113024724">Ολοταχώς προς νέα ρεκόρ η Wall Street</a></div><div class="ltitle"><span class="ldate">18:18</span> <a href="article.asp?catid=26509&subid=2&pubid=113024759">Μετά το Eurogroup η κατάληξη των διαπραγματεύσεων με την τρόικα</a></div><div class="ltitle"><span class="ldate">17:58</span> <a href="article.asp?catid=26517&subid=2&pubid=113024757">Ο πλούτος στη Γερμανία είναι άνισα κατανεμημένος, λέει η Societe Generale</a></div><div class="ltitle"><span class="ldate">17:56</span> <a href="article.asp?catid=26510&subid=2&pubid=113024723">Καναδάς: Πρόγραμμα για ευρωπαίους φοιτητές διάρκειας 4 εβδομάδων</a></div><div class="ltitle"><span class="ldate">17:53</span> <a href="article.asp?catid=26509&subid=2&pubid=113024722">Ψηφίστηκε η ρύθμιση για τα δάνεια σε ΝΔ - ΠΑΣΟΚ</a></div><div class="ltitle"><span class="ldate">17:37</span> <a href="article.asp?catid=26510&subid=2&pubid=113024753">ΣΔΟΕ: Ηταν ανεπάγγελτος αλλά είχε 12 πλάκες χρυσού!</a></div><div class="ltitle"><span class="ldate">17:37</span> <a href="article.asp?catid=26522&subid=2&pubid=113024754">Cyta Ελλάδος: Δωρεάν κλήσεις μεταξύ Ελλάδας - Κύπρου</a></div><div class="ltitle"><span class="ldate">17:30</span> <a href="article.asp?catid=26509&subid=2&pubid=113024513">Αφήνει το τιμόνι του ΚΚΕ η Αλέκα Παπαρήγα;</a></div><div class="ltitle"><span class="ldate">17:29</span> <a href="article.asp?catid=12612&subid=2&pubid=113024750">ΔΕΗ: Μείωση τιμής-στόχου από την Goldman Sachs</a></div><div class="ltitle"><span class="ldate">17:25</span> <a href="article.asp?catid=26510&subid=2&pubid=113024749">'Όχι' στο άνοιγμα των καταστημάτων τις Κυριακές λέει η ΕΣΕΕ</a></div><div class="ltitle"><span class="ldate">17:23</span> <a href="article.asp?catid=26521&subid=2&pubid=113024719">ΟΤΟΕ: Μην τολμήσετε να υπονομεύσετε τις ΑΜΚ ΕΘνικής - Eurobank</a></div><div class="ltitle"><span class="ldate">17:14</span> <a href="article.asp?catid=26510&subid=2&pubid=113024748">ΓΣΕΕ: 24ωρη απεργία την Πρωτομαγιά</a></div><div class="ltitle"><span class="ldate">17:13</span> <a href="article.asp?catid=26509&subid=2&pubid=113024716">ΣΥΡΙΖΑ: «Καταστροφικές οι συνέπειες από τις παλινωδίες και την υποταγή στην τρόικα» </a></div><div class="ltitle"><span class="ldate">17:06</span> <a href="article.asp?catid=26517&subid=2&pubid=113024714">Λαγκάρντ: "Τελειώστε τη δουλειά σας για να θωρακιστεί η οικονομία!"</a></div></div>
+</div><center><a href="http://www.nbg.gr" target="_blank"><img src="images/img_ethniki2.gif" border="0" /></a></center>
+</div></div><script>addPrototypeElement('27356_17','NEWS','incl/100news_27356.asp','pageid=728&catid=26516&subid=2&catidlocal=30256&subidlocal=2',false,'');</script><div class="epiloges"><h6>OIKONOMIA</h6><div></div>
+<ul><li><h3><b>ΜΑΡΑΘΩΝΙΕΣ ΣΥΣΚΕΨΕΙΣ ΕΩΣ ΑΡΓΑ ΤΟ ΒΡΑΔΥ</b> <a href="article.asp?catid=26516&subid=2&pubid=113024930">Μετά το Eurogroup η εκταμίευση της δόσης των 8,8 δισ.
+
+</a> <span class="more">"Η" 11/4</span></h3></li><li><h3><b>ΡΥΘΜΙΣΗ ΓΙΑ ΤΑ ΠΕΙΘΑΡΧΙΚΑ</b> <a href="article.asp?catid=26516&subid=2&pubid=113024931">Με διαδικασίες-εξπρές η αποχώρηση των επίορκων
+
+</a> <span class="more">"Η" 11/4</span></h3></li><li><h3><b>ΚΑΤΗΓΟΡΗΜΑΤΙΚΗ ΔΗΛΩΣΗ ΠΡΟΒΟΠΟΥΛΟΥ</b> <a href="article.asp?catid=26516&subid=2&pubid=113024932">«Οι καταθέσεις στην Ελλάδα είναι απολύτως προστατευμένες»
+
+</a> <span class="more">"Η" 11/4</span></h3></li><li><h3><b>ΣΤΟ ΠΡΩΤΟ ΤΡΙΜΗΝΟ</b> <a href="article.asp?catid=26516&subid=2&pubid=113024935">Πρωτογενές πλεόνασμα 508 εκατ.
+
+</a> <span class="more">"Η" 11/4</span></h3></li><li><h3><b>ΠΡΟΥΠΟΛΟΓΙΣΜΟΣ 2014</b> <a href="article.asp?catid=26518&subid=2&pubid=113024737">Στο στόχαστρο του Μπ. Ομπάμα το ... πορτοφόλι των Αμερικανών Κροίσων</a> <span class="more">"Η" Online 10/4 16:22</span></h3></li><li><h3><b>Γ. ΜΑΥΡΑΓΑΝΗΣ</b> <a href="article.asp?catid=26516&subid=2&pubid=113024710">Αυξημένα τα έσοδα από το πετρέλαιο θέρμανσης</a> <span class="more">"Η" Online 10/4 16:53</span></h3></li><li><h3><b>Οριστικοποιήθηκε το Μνημόνιο - Αρχές Μαΐου η πρώτη δόση του δανείου</b> <a href="article.asp?catid=26517&subid=2&pubid=113024937">Υφεση 8,7% στην Κύπρο «βλέπει» φέτος η τρόικα
+
+</a> <span class="more">"Η" 11/4</span></h3></li><li><h3><b>ΜΕΛΕΤΗ</b> <a href="article.asp?catid=26517&subid=2&pubid=113024402">EKT: Οι Κύπριοι τρεις φορές πλουσιότεροι των Γερμανών</a> <span class="more">"Η" Online 10/4 07:16</span></h3></li><li><h3><b>Η ΘΕΣΗ ΤΟΥ ΔΝΤ</b> <a href="article.asp?catid=26517&subid=2&pubid=113024776">Λαγκάρντ: Ανακεφαλαιοποίηση - αναδιάρθρωση ή κλείσιμο για τις προβληματικές τράπεζες</a> <span class="more">"Η" Online 10/4 20:50</span></h3></li><li><h3><b>ΣΥΜΒΟΥΛΙΟ ΤΗΣ ΕΠΙΚΡΑΤΕΙΑΣ</b> <a href="article.asp?catid=26516&subid=2&pubid=113024461">Αποζημίωση-μαμούθ, 12 εκατ. ευρώ, από το Δημόσιο σε κοινοπραξία</a> <span class="more">"Η" Online 10/4 07:54</span></h3></li></ul>
+<div class="homore"><a href="summary.asp?catid=27755">διαβάστε όλα τα άρθρα</a></div>
+</div>
+<div class="wline"></div>
+
+<div class="clear"></div>
+<div class="tabsbot"></div>
+<!--No Elements for : 60000-->
+</div>
+
+
+
+<div class="adsbox">
+<h1>ΔΙΑΦΗΜΙΣΕΙΣ</h1>
+<a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D27537%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fad%252Demea%252Edoubleclick%252Enet%252Fclk%253B267125442%253B92996032%253Bm%253Bpc%253D%255BTPAS%255FID%255D%26npubid%3D445234'));"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20120517/engine/pegasus_LARGE_t_1061_43380099_type12474.jpg" border="0" align="left"></a> <div class="adstitle"><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D27537%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fad%252Demea%252Edoubleclick%252Enet%252Fclk%253B267125442%253B92996032%253Bm%253Bpc%253D%255BTPAS%255FID%255D%26npubid%3D445234'));">21 Χρηματιστήρια Μετοχών και Παραγώγων, 145 Ισοτιμίες, CFDs Ελληνικών Μετοχών Δωρεάν Δοκιμαστική Πλατφόρμα! </a><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D27537%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fad%252Demea%252Edoubleclick%252Enet%252Fclk%253B267125442%253B92996032%253Bm%253Bpc%253D%255BTPAS%255FID%255D%26npubid%3D445234'));"></a></div>
+<div class="clear"></div></div>
+</div>
+    <div class="rightcol">
+<div class="rightbox"><h5>TOP STORIES</h5>
+<div class="xorigos">
+<ul>
+<li><a href="article.asp?catid=26517&subid=2&pubid=113024847">Πρόταση - σοκ για «κούρεμα» καταθέσεων άνω των 100.000 ευρώ</a> <img src="images/hasnotvideo.gif" border="0"/></li><li><a href="article.asp?catid=27198&subid=2&pubid=113024463">Νέες αντικειμενικές ακινήτων: Πού αυξάνονται και πού μειώνονται
+
+</a> <img src="images/hasnotvideo.gif" border="0"/></li><li><a href="article.asp?catid=27686&subid=2&pubid=113020969">Τόκοι καταθέσεων και μερίσματα δηλώνονται υποχρεωτικά στην εφορία 
+</a> <img src="images/hasnotvideo.gif" border="0"/></li><li><a href="article.asp?catid=26516&subid=2&pubid=113024930">Μετά το Eurogroup η εκταμίευση της δόσης των 8,8 δισ.
+
+</a> <img src="images/hasnotvideo.gif" border="0"/></li><li><a href="article.asp?catid=30980&subid=2&pubid=113024725">Qrator: Ελληνική εφαρμογή για το iPhone</a> <img src="images/hasnotvideo.gif" border="0"/></li><li><a href="article.asp?catid=26510&subid=2&pubid=113024753">ΣΔΟΕ: Ηταν ανεπάγγελτος αλλά είχε 12 πλάκες χρυσού!</a> <img src="images/hasnotvideo.gif" border="0"/></li><li><a href="article.asp?catid=26516&subid=2&pubid=113024930">Μετά το Eurogroup η εκταμίευση της δόσης των 8,8 δισ.
+
+</a> <img src="images/hasnotvideo.gif" border="0"/></li><li><a href="article.asp?catid=26516&subid=2&pubid=113024931">Με διαδικασίες-εξπρές η αποχώρηση των επίορκων
+
+</a> <img src="images/hasnotvideo.gif" border="0"/></li><li><a href="article.asp?catid=26502&subid=2&pubid=113025048">Νέα εκτίναξη του τραπεζικού κλάδου
+
+</a> <img src="images/hasnotvideo.gif" border="0"/></li><li><a href="article.asp?catid=26509&subid=2&pubid=113024698">Δ. Ψωμιάδης: «Που είναι τα λεφτά που κλέψαμε, ρε κερατάδες;»</a> <img src="images/hasnotvideo.gif" border="0"/></li></ul>
+</div>
+<center><a href="http://www.ellaktor.gr" target="_blank"><img src="images/top_stories_xorhgia2.gif" border="0" /></a></center>
+</div><div class="banner300250"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=25&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=25&dfl=yes&js=no" border="0" width="300" height="250" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|25/300x250"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div><div class="banbottom"></div><div id="prototype_110"></div><script>addPrototypeElement('110','ASERT','incl/realtimestocks_25530.asp','pageid=727&catid=26496&catidlocal=26496&ajaxid=25530&ajaxgroup=ASERT');</script><div class="xrims">
+<h5>ΧΡΗΜΑΤΙΣΤΗΡΙΟ ΤΕΛΕΥΤΑΙΑ ΝΕΑ</h5><ul><li><a href="article.asp?catid=26502&subid=2&pubid=113025048"><b>Νέα εκτίναξη του τραπεζικού κλάδου
+
+</b></a></li><li><a href="article.asp?catid=26502&subid=2&pubid=113024934"><b>Θετικές εξελίξεις για τις τράπεζες προεξοφλεί το Χ.Α.
+
+</b></a></li><li><a href="article.asp?catid=26502&subid=2&pubid=113024923"><b>Σε νέα ιστορικά υψηλά Dow Jones και S&P 500
+
+</b></a></li></ul>
+</div><div class="rightbox"><a href="r.asp?catid=27732"><img src="images/btn_5xrim.gif" border="0" /></a></div>
+
+<div class="rightbox"><a href="r.asp?catid=27732"><img src="images/btn_5xrim_stocks.gif" border="0" /></a></div><div class="rightbox"><a href="r.asp?catid=27143"><img src="images/btn_newsletter.gif" border="0" /></a></div><div class="rightbox"><h5>ethnos.gr | ΕΠΙΛΟΓΗ</h5>
+<div class="scrollingdiv">
+<ul><li><span class="more">«E» 11/4</span> <a href="http://www.ethnos.gr/r.asp?catid=22945&subid=2&pubid=63810938">Aπολύσεις αλλιώς δεν παίρνετε τη δόση</a><img src="images/hasnotvideo.gif" border="0"/></li><li><span class="more">«E» 11/4</span> <a href="http://www.ethnos.gr/r.asp?catid=22945&subid=2&pubid=63811010">Πέφτει στο 10% η έκπτωση για το χαράτσι</a><img src="images/hasnotvideo.gif" border="0"/></li><li><span class="more">«E» 11/4</span> <a href="http://www.ethnos.gr/r.asp?catid=22945&subid=2&pubid=63811008">Ασπίδα τα 50 δισ. για τις καταθέσεις</a><img src="images/hasnotvideo.gif" border="0"/></li><li><span class="more">«E» 11/4</span> <a href="http://www.ethnos.gr/r.asp?catid=22945&subid=2&pubid=63811011">Η Αλέκα ανοίγει τα χαρτιά της για τη διαδοχή</a><img src="images/hasnotvideo.gif" border="0"/></li><li><span class="more">Συντάξεις 11/4</span> <a href="http://www.ethnos.gr/r.asp?catid=22945&subid=2&pubid=63810930">Αμεση πρόσβαση στην έξοδο για 400.000 ασφαλισμένους
+
+</a><img src="images/hasnotvideo.gif" border="0"/></li><li><span class="more">ΥΓΕΙΑ 11/4</span> <a href="http://www.ethnos.gr/r.asp?catid=22945&subid=2&pubid=63810929">Tα πρώτα σημάδια της νόσου Πάρκινσον
+
+</a><img src="images/hasnotvideo.gif" border="0"/></li><li><span class="more">19:55 14/11/2012</span> <a href="http://www.ethnos.gr/r.asp?catid=22945&subid=2&pubid=63799388">ΚΕΡΔΙΣΤΕ 10€ με το ΕΘΝΟΣ ΤΗΣ ΚΥΡΙΑΚΗΣ και τον ΒΕΡΟΠΟΥΛΟ</a><img src="images/hasnotvideo.gif" border="0"/></li></ul>
+</div>
+</div><div class="clear"></div>
+<table cellpadding=0 cellspacing=0 class="advright" border="0">
+
+<tr><td colspan="2" class="second"><img src="images/advs_right.jpg" class="advstitle"></td></tr>
+<tr><td valign="middle"><div class="protaseis"><div class="advl"><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D26757%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Edealmyday%252Egr%252Fdiagonismos%252Ephp%253Futm%255Fsource%253Dimerisia%2526utm%255Fmedium%253Dtextlink%2526utm%255Fterm%253Dcontest%2526utm%255Fcampaign%253Ddealmyday%26npubid%3D64255147'));"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130402/low/pegasus_LARGE_t_1061_43514268.JPG" border="0"></a></div> <div class="advr"><h1><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D26757%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Edealmyday%252Egr%252Fdiagonismos%252Ephp%253Futm%255Fsource%253Dimerisia%2526utm%255Fmedium%253Dtextlink%2526utm%255Fterm%253Dcontest%2526utm%255Fcampaign%253Ddealmyday%26npubid%3D64255147'));"></a></h1><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D26757%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Edealmyday%252Egr%252Fdiagonismos%252Ephp%253Futm%255Fsource%253Dimerisia%2526utm%255Fmedium%253Dtextlink%2526utm%255Fterm%253Dcontest%2526utm%255Fcampaign%253Ddealmyday%26npubid%3D64255147'));"><center> 	<b>Deal my Day:</b> Κάντε τις αγορές σας και μπείτε δωρεάν στην κλήρωση για να κερδίσετε πλούσια δώρα!</center></a><h2><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D26757%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Edealmyday%252Egr%252Fdiagonismos%252Ephp%253Futm%255Fsource%253Dimerisia%2526utm%255Fmedium%253Dtextlink%2526utm%255Fterm%253Dcontest%2526utm%255Fcampaign%253Ddealmyday%26npubid%3D64255147'));"></a></h2><div class="clear"></div></div><div class="clear"></div></div><div class="protaseisbot"></div></td></tr><tr><td colspan="2" class="brsep"><br /></td></tr><tr><td valign="middle"><div class="protaseis"><div class="advl"><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D26757%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fad%252Demea%252Edoubleclick%252Enet%252Fclk%253B267125442%253B92996037%253Br%253Bpc%253D%255BTPAS%255FID%255D%26npubid%3D2587196'));"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20100222/low/pegasus_LARGE_t_1061_15784776.JPG" border="0"></a></div> <div class="advr"><h1><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D26757%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fad%252Demea%252Edoubleclick%252Enet%252Fclk%253B267125442%253B92996037%253Br%253Bpc%253D%255BTPAS%255FID%255D%26npubid%3D2587196'));"></a></h1><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D26757%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fad%252Demea%252Edoubleclick%252Enet%252Fclk%253B267125442%253B92996037%253Br%253Bpc%253D%255BTPAS%255FID%255D%26npubid%3D2587196'));"><center> 	21 Χρηματιστήρια Μετοχών και Παραγώγων, 145 Ισοτιμίες, CFDs Ελληνικών Μετοχών Δωρεάν Δοκιμαστική Πλατφόρμα!</center></a><h2><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D26757%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fad%252Demea%252Edoubleclick%252Enet%252Fclk%253B267125442%253B92996037%253Br%253Bpc%253D%255BTPAS%255FID%255D%26npubid%3D2587196'));"></a></h2><div class="clear"></div></div><div class="clear"></div></div><div class="protaseisbot"></div></td></tr>
+<tr><td colspan="2" class="secondban"><div class="banart300II"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=77&amp;dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=77&amp;dfl=yes&amp;js=no" border="0" width="300" height="250" alt="" /><br /></a>
+</noscript>
+<script language="javascript" type="text/javascript">
+rnd = Math.floor(Math.random()*900000)+100;
+now = parseInt((new Date()).getTime());
+burst="?"+rnd+":?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|77/300x250"+burst+"/\">");
+document.write("</sc"+"ript>");
+</script>
+<!-- end AdMan code --></div><br/>
+<center>
+<iframe src="http://www.e-go.gr/v5egofeediframe.asp?catid=23934&subid=1" width="300" height="420" frameborder="0" scrolling="no"></iframe>
+</center><div style="margin:10px auto;"><link rel="stylesheet" type="text/css" href="imerisiadstyles300.css" />
+<script language="JavaScript">
+var google_adnum = 0;
+function google_ad_request_done(google_ads) {
+var s = '';
+var i;
+if (google_ads.length == 0) {
+return;
+}
+if (google_ads[0].type == "image") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br> <a href="' + 
+google_ads[0].url + '" target="_top" title="go to ' + 
+google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + 
+google_ads[0].visible_url + '\';return true"><img border="0" src="' + 
+google_ads[0].image_url + '"width="' + 
+google_ads[0].image_width + '"height="' + 
+google_ads[0].image_height + '"></a>';
+} else if (google_ads[0].type == "html") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Διαφημίσεις Google</a><br>' + 
+google_ads[0].snippet;
+} else {
+if (google_ads.length == 1) {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a> <a style="text-decoration:none" href="' + 
+google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[0].visible_url + '\';return true"> <span style="text-decoration:underline;font-size:20pt"> <b>' + 
+google_ads[0].line1 + '</b><br></span></a> <span style="color:#000000; font-size:16pt">' +
+google_ads[0].line2 + ' ' +
+google_ads[0].line3 + '<br></span> <a style="color:#008000;font-size:44pt;text-decoration:none" href="' + 
+google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[0].visible_url + '\';return true"><span>' + 
+google_ads[0].visible_url + '</span></a><br>';
+} else if (google_ads.length > 1) {
+s += "<table id=\"ga_imerisiagads\" cellspacing=\"0\" cellpadding=\"0\">"; 
+s += "  <tr>";
+s += "    <td id=\"ga_head\">";
+s += '<a href=\"' + google_info.feedback_url + '\">Διαφημίσεις Google</a>'  
+s += " <\/td>";
+s += "  <\/tr>";
+s += "  <tr>";
+s += "    <td>";
+for(i = 0; i < google_ads.length; ++i) {
+s += '<br><a id=\"ga_title\" target="_blank" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true"> <span>' + 
+google_ads[i].line1 + '</span></a> <br/><span>' +
+google_ads[i].line2 + '</span><br/> <a id=\"ga_adlink\" target="_blank" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true"><span>' + 
+google_ads[i].visible_url + '</span></a><br>';
+}
+s += "    <\/td>";
+s += "  <\/tr>";
+s += "<\/table>";
+}}
+if (google_ads[0].bidtype == "CPC") {
+google_adnum = google_adnum + google_ads.length;
+}
+document.write(s);
+return;
+}
+google_ad_client = 'pub-9628004899418467';
+google_ad_channel = '4612251601';
+google_ad_output = 'js';
+google_max_num_ads = '4';
+google_ad_type = 'text';
+google_feedback = 'on';
+google_encoding = 'UTF-8';
+google_adtest = 'off';
+google_language = 'el';
+</script>
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></td></tr>
+</table><div class="clear"></div><div class="titles"><a href="summary.asp?catid=27083"><img src="images/periskopio.gif" border="0" /></a></div><div class="themaimeras"><h5>ΠΕΡΙΣΚΟΠΙΟ</h5><h1><a href="article.asp?catid=26516&subid=2&pubid=112925321">Οταν το ψηφιακό χρήμα καταργεί τις τράπεζες...</a></h1><h2> 	Στη φυσική του μορφή, ως κέρματα και χαρτονομίσματα, το χρήμα «πεθαίνει», καθώς είναι απλώς ζήτημα χρόνου η πλήρης και ολοκληρωτική αντικατάστασή του από αποκλειστικά και μόνο ηλεκτρονικές πληρωμές....</h2><div class="moreart"><h3><a href="article.asp?catid=26510&subid=2&pubid=102955157">Θα μας σώσει το ψηφιακό νόμισμα;
+
+</a></h3><h3><a href="article.asp?catid=26516&subid=2&pubid=113019638">Μετ' εμποδίων το «ζεστό χρήμα» στην αγορά
+
+</a></h3><h3><a href="article.asp?catid=26518&subid=2&pubid=113017656">«ΒitCoin», το πιο ακριβό νόμισμα στον κόσμο</a></h3><h3><a href="article.asp?catid=26516&subid=2&pubid=112800990">Η σωτήρια λύση (;) του «ψηφιακού ευρώ» 
+
+</a></h3><h3><a href="article.asp?catid=26509&subid=2&pubid=28521152">Πολιτισμική νάρκη στη σταθερότητα του ευρώ
+
+</a></h3></div><div class="clear"></div></div><div class="wline"></div><div class="titles"><a href="summary.asp?catid=27066"><img src="images/geliografia.gif" border="0" /></a></div>
+<div class="epikentro"><h3>ΓΕΛΟΙΟΓΡΑΦΙΑ</h3><center><a href="summary.asp?catid=27066&subid=2&pubid=113024529"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130410/engine/assets_LARGE_t_942_43518386_type11583.jpg" border="0" /></a></center></div><div class="xrisimabox">
+<h3>ΧΡΗΣΙΜΑ ΤΗΛΕΦΩΝΑ</h3>
+<div id="accordion_use" class="tabakia_use">
+<h1>
+	Αμεσης βοήθειας</h1>
+<div>
+	Αμεση Δράση Αστυνομίας: 100<br />
+	Αμεση Δράση Λιμενικού: 108<br />
+	Πυροσβεστική: 199<br />
+	Τροχαία Αττικής: 2105230101 &amp; 110-155<br />
+	Τροχαία Aθηνών: 2105230111<br />
+	Τροχαία Πειραιώς: 2104113832<br />
+	Δασική Υπηρεία: 191<br />
+	Τουριστική Αστυνομία: 171<br />
+	Κέντρο Αμεσης Βοήθειας: 166<br />
+	Εφημερεύοντες Γιατροί: 1434<br />
+	Εφημ/ντα Νοσοκομεία: 1434<br />
+	Φαρμακεία: 1434<br />
+	Δηλητηριάσεως: 2107793777<br />
+	Σταθ. Α&#39; Βοηθ. ΙΚΑ: 184, 2106467811<br />
+	Υπ. Υγείας: 2105223246<br />
+	Υπ. Πρόνοιας: 2105225079<br />
+	Αγορανομία: 2103217056<br />
+	Yπ. Δίωξης Ναρκωτικών: 109</div>
+<h1>
+	Bλάβες</h1>
+<div>
+	ΕΥΔΑΠ: 1022<br />
+	ΔΕΗ (Αθήνα): 1253<br />
+	ΔΕΗ (Πειραιά): 1254<br />
+	Βλάβες ΟΤΕ: 121</div>
+<h1>
+	Δημόσιες υπηρεσίες</h1>
+<div>
+	ΙΝΚΑ: 1721-2103633976<br />
+	ΤΕΒΕ: 2105285500<br />
+	ΟΑΕΔ: 2109989000<br />
+	ΟΓΑ: 2103322100<br />
+	ΚΕΠ: 1564<br />
+	Υπηρεσία «ΚΛΕΙΣΘΕΝΗΣ» 1502<br />
+	Υπ. Ανάπτυξης: 1520<br />
+	Γενική Γραμματεία Καταναλωτή: 1520<br />
+	Προεδρία Δημοκρατίας: 2107283111<br />
+	Boυλή των Ελλήνων: 2103707000<br />
+	Δήμος Αθηναίων: 2105277000<br />
+	Δήμος Πειραιώς: 2104194000</div>
+<h1>
+	Συγκοινωνίες</h1>
+<div>
+	Λιμεναρχείο Πειραιά: 2104147800/4172675<br />
+	Λιμεναρχείο Ραφήνας: 22940/28888<br />
+	Λιμεναρχείο Λαυρίου: 22920/25249<br />
+	Λιμεναρχείο Αγ. Κων/νου: 22350/31759<br />
+	Πλοία Αργοσαρωνικού: 2104593162<br />
+	Πλοία εσωτερικού: 2104593000<br />
+	Πλοία εξωτερικού: 2104530974<br />
+	Ολυμπιακή κρατήσεις: 2109666666<br />
+	Αegean Αirlines: 8011120000 (από κινητό 210-6261000)<br />
+	Αεροδρόμιο «Ελ. Βενιζέλος»: 3530000<br />
+	Τρένα ΟΣΕ: 2105297777<br />
+	Δρομολόγια τρένων εξωτερικού: 147<br />
+	Λεωφορεία στ. Κηφισού: 2105124910<br />
+	Λεωφορεία. στ. Λιοσίων: 2108317179-8317153<br />
+	Μέσα Μαζικής Μεταφοράς: 185</div>
+<h1>
+	Κοινωνικές υπηρεσίες</h1>
+<div>
+	Τηλεφωνικό κέντρο για ραντεβού ΙΚΑ: 184<br />
+	Τηλεφωνική Γραμμή ΑΙDS: 2107222222<br />
+	Συμβουλευτικοί σταθμοί ΑΙDS: 2107239945<br />
+	SOS Γιατροί: 1016<br />
+	ΟΚΑΝΑ: 2108898200<br />
+	Γραμμή Απεξάρτησης: 2103617089<br />
+	Κέντρο Αιμοδοσίας: 2108257425<br />
+	Γιατροί χωρίς σύνορα: 2105200500, 8213704<br />
+	Γιατροί του Κόσμου: 2106440400, 8233653<br />
+	Κέντρο κακοποιημένων γυναικών: 2105244657<br />
+	Γραμματεία ισότητας: 2103315291<br />
+	Γραμμή ζωής SΟS: 175<br />
+	Χαμόγελο του Παιδιού: 1056<br />
+	Ελληνικός Ερυθρός Σταυρός: 2103613848<br />
+	Κέντρο εξυπηρέτησης κωφών: 2108815555<br />
+	Κτηνιατρική κλινική: 2109813604, 3625644<br />
+	Τηλεφωνικό κέντρο για λακκούβες: 1521<br />
+	Η γραμμή του δημότη: 195</div>
+<h1>
+	Διάφορα</h1>
+<div>
+	Δελτίο καιρού: 1448<br />
+	ΟΠΑΠ: 2105798000<br />
+	Ο.Δ.Ι.Ε.: 2299081000</div>
+<h1>
+	ΘΕΣΣΑΛΟΝΙΚΗ</h1>
+<div>
+	Αμεση Δράση: 100<br />
+	Στρατονομία: 2310270845<br />
+	Πυροσβεστική: 199<br />
+	Λιμενικό: 2310531505<br />
+	Κέντρο Αμ. Βοήθειας: 166<br />
+	Διανυκτερεύοντα Φαρμακεία: 1434<br />
+	Οδική βοήθεια: 104<br />
+	Βλάβες ΔΕΗ: 2310729752<br />
+	Βλάβες Υδρευσης: 2310207345<br />
+	ΟΣΕ Τρένα: 2310517517, 517518<br />
+	Υπεραστικά Λεωφορεία: 142<br />
+	Δελτίο Καιρού: 149<br />
+	Υπουργείο Μακεδονίας - Θράκης: 2310379000<br />
+	Νομαρχία: 2310428536<br />
+	Δημαρχείο: 238321<br />
+	Πανεπιστήμιο: 2310996000<br />
+	Εισαγγελία: 2310520235</div>
+
+</div>
+</div>
+<script>
+	
+jQuery('#accordion_use').accordion({ header: 'h1',autoHeight:false,selectedClass:'active',collapsible: true,
+      active: false});
+</script>
+</div>
+    <div class="wline"></div>
+    <div class="lifestyle">
+<h2>LIFESTYLE</h2>
+
+<ul>
+<li><h5><a href="summary.asp?catid=27711">GOODLIFE</a></h5><div class="sum"><h3><a href="article.asp?catid=27711&subid=2&pubid=112978923">Δίνοντας ζωή στη γεύση
+
+</a></h3><a href="article.asp?catid=27711&subid=2&pubid=112978923"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130410/engine/assets_LARGE_t_1461_43475502_type11940.jpg" border="0" /></a><h4> 	Εμπνευστής, δημιουργός και ιδιοκτήτης ενός ομίλου με τα καλύτερα εστιατόρια</h4></div><hr><div class="sum"><h3><a href="article.asp?catid=27711&subid=2&pubid=112969851">Αποκλειστικότητα </a></h3><a href="article.asp?catid=27711&subid=2&pubid=112969851"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130313/engine/assets_LARGE_t_1465_43466587_type11940.jpg" border="0" /></a><h4> 	Αν σκεφτεί κανείς πως το λιοντάρι είναι το σύμβολο του οίκου Chivas, η</h4></div></li>
+<li><h5><a href="summary.asp?catid=27719">STYLE</a></h5><div class="sum"><h3><a href="article.asp?catid=27719&subid=2&pubid=112978911">The Talk </a></h3><a href="article.asp?catid=27719&subid=2&pubid=112978911"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130329/engine/assets_LARGE_t_1461_43475496_type11940.jpg" border="0" /></a><h4> 	Οταν βάζεις στο ίδιο τραπέζι τους εκπροσώπους δύο κορυφαίων οίκων μόδας της</h4></div><hr><div class="sum"><h3><a href="article.asp?catid=27719&subid=2&pubid=112978317">Deja vu</a></h3><a href="article.asp?catid=27719&subid=2&pubid=112978317"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130313/engine/assets_LARGE_t_1461_43475005_type11940.jpg" border="0" /></a><h4> 	Για τις τάσεις της κομμωτικής και ό,τι νέο κυκλοφορεί ή θα κυκλοφορήσει,</h4></div></li>
+<li><h5><a href="summary.asp?catid=27727">LUXURY</a></h5><div class="sum"><h3><a href="article.asp?catid=27727&subid=2&pubid=113023703">Σπορτίφ... πολυτέλεια</a></h3><a href="article.asp?catid=27727&subid=2&pubid=113023703"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130409/engine/imerisia_LARGE_t_1061_43517680_type11940.jpg" border="0" /></a><h4> 	Με τις πωλήσεις να δείχνουν ότι οι καταναλωτές προτιμάνε όλο και περισσότερο</h4></div><hr><div class="sum"><h3><a href="article.asp?catid=27727&subid=2&pubid=113023888">Με αγωνιστικό... DNA</a></h3><a href="article.asp?catid=27727&subid=2&pubid=113023888"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130409/engine/imerisia_LARGE_t_1061_43517796_type11940.jpg" border="0" /></a><h4> 	Η Νissan επιστρατεύει τον καταξιωμένο αγωνιστικό της οίκο, προκειμένου να</h4></div></li>
+<li><h5><a href="summary.asp?catid=27723">ΒΙΒΛΙΟ</a></h5><div class="sum"><h3><a href="article.asp?catid=27723&subid=2&pubid=113021072">Πριν το τέλος </a></h3><a href="article.asp?catid=27723&subid=2&pubid=113021072"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130404/engine/imerisia_LARGE_t_1061_43515184_type11940.jpg" border="0" /></a><h4> 	Η πορεία του προκλητικού δημοσιογράφου και διανοούμενου προς</h4></div><hr><div class="sum"><h3><a href="article.asp?catid=27723&subid=2&pubid=113017522">Εγχειρίδιο κινηματογραφικής ανυπακοής</a></h3><a href="article.asp?catid=27723&subid=2&pubid=113017522"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130329/engine/imerisia_LARGE_t_1061_43512508_type11940.jpg" border="0" /></a><h4> 	<strong>του ΓΙΑΝΝΗ ΤΡΙΑΝΤΑΦΥΛΛΟΥ</strong>  	Ηθοποιός, σκηνοθέτης</h4></div></li>
+<li><h5><a href="summary.asp?catid=27725">STAR SYSTEM</a></h5><div class="sum"><h3><a href="summary.asp?catid=27725&subid=2&pubid=113024567">Μαριόν Κοτιγιάρ: Μια Γαλλίδα θεά...</a></h3><a href="summary.asp?catid=27725&subid=2&pubid=113024567"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130410/engine/imerisia_LARGE_t_1061_43518398_type11940.jpg" border="0" /></a><h4> 	Είναι η σύγχρονη, απόλυτη θεά του γαλλικού κινηματογράφου.  	Αισθησιακή</h4></div><hr><div class="sum"><h3><a href="summary.asp?catid=27725&subid=2&pubid=113023705">Το σέξι μοντέλο που αποπλάνησε 15χρονο!</a></h3><a href="summary.asp?catid=27725&subid=2&pubid=113023705"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130409/engine/imerisia_LARGE_t_1061_43517793_type11940.jpg" border="0" /></a><h4> 	Πρώην Μις Χιλή, πανελίστρια και μοντέλο στην Αργεντινή. Τι ανάγκη είχε και</h4></div></li>
+<li class="li6"><h5><a href="summary.asp?catid=27721">CULTURE</a></h5><div class="sum"><h3><a href="article.asp?catid=27721&subid=2&pubid=112978920">Οταν δεν υποκρίνεται (κατ’ επάγγελμα)
+
+</a></h3><a href="article.asp?catid=27721&subid=2&pubid=112978920"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130404/engine/assets_LARGE_t_1461_43475500_type11940.jpg" border="0" /></a><h4> 	Νέα, ανερχόμενη, όμορφη ηθοποιός ψάχνει και βρίσκει λύσεις για την</h4></div><hr><div class="sum"><h3><a href="article.asp?catid=27721&subid=2&pubid=112978393">Η δική τους περιουσία</a></h3><a href="article.asp?catid=27721&subid=2&pubid=112978393"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130321/engine/assets_LARGE_t_1461_43474903_type11940.jpg" border="0" /></a><h4> 	Γίνονται θαύματα σε αυτή τη χώρα; Οι Freaky Fortune απαντούν θετικά: πριν</h4></div></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="footerbot"><div id="carouselmain">
+<div class="dtk-carousel" id="dtk-car-0">
+    <h5>ΕΠΙΛΟΓΕΣ</h5>
+    <div class="scrollbody">
+        <div class="scrollpages">
+            <div class="double">
+                <ul class="dtk-list">
+                    <li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=26510">ΚΟΙΝΩΝΙΑ</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=26510&subid=2&pubid=113024744"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130411/engine/newego_LARGE_t_1101_54187154_type11535.jpg" /></a>        </div>        <h1><a href="article.asp?catid=26510&subid=2&pubid=113024744">ΕΛ.ΑΣ.: Αναστέλλεται η λειτουργία του Α.Τ. Ιερισσού<img src="images/hasnotvideo.gif"/></a></h1>    </div></li><li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=26509">ΠΟΛΙΤΙΚΗ</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=26509&subid=2&pubid=113024732"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130411/engine/newego_LARGE_t_1101_54151499_type11535.jpg" /></a>        </div>        <h1><a href="article.asp?catid=26509&subid=2&pubid=113024732">Συνάντηση Κουβέλη - Μανιτάκη με φόντο τις απολύσεις στο Δημόσιο<img src="images/hasnotvideo.gif"/></a></h1>    </div></li><li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=27686">ΡΕΠΟΡΤΑΖ</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=27686&subid=2&pubid=113020887"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130410/engine/assets_LARGE_t_942_43515065_type11535.jpg" /></a>        </div>        <h1><a href="article.asp?catid=27686&subid=2&pubid=113020887">Προσοχή! Δέκα παγίδες στη νέα φορολογική δήλωση
+
+<img src="images/hasnotvideo.gif"/></a></h1>    </div></li><li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=28055">SUCCESS STORIES</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=28055&subid=2&pubid=113013100"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130410/engine/assets_LARGE_t_942_43508106_type11535.jpg" /></a>        </div>        <h1><a href="article.asp?catid=28055&subid=2&pubid=113013100">Επένδυση 2 εκατ. ευρώ στο Πήλι της Εύβοιας για Superfoods<img src="images/hasnotvideo.gif"/></a></h1>    </div></li><li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=27201">ΥΓΕΙΑ</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=27201&subid=2&pubid=113023686"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130410/engine/newego_LARGE_t_1101_47089577_type11535.jpg" /></a>        </div>        <h1><a href="article.asp?catid=27201&subid=2&pubid=113023686">Βρέθηκε το γονίδιο της πιο επιθετικής μορφής καρκίνου του προστάτη
+
+<img src="images/hasnotvideo.gif"/></a></h1>    </div></li>
+                </ul>
+                <ul class="dtk-list">
+                    <li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=26515">ΠΕΡΙΒΑΛΛΟΝ</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=26515&subid=2&pubid=113023811"><img src="images/no_p_rel.gif" /></a>        </div>        <h1><a href="article.asp?catid=26515&subid=2&pubid=113023811">Στις τελευταίες θέσεις η Ελλάδα στην ανακύκλωση
+
+<img src="images/hasnotvideo.gif"/></a></h1>    </div></li><li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=27199">ΑΥΤΟΚΙΝΗΤΑ</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=27199&subid=2&pubid=113021482"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130411/engine/imerisia_LARGE_t_1061_43515666_type11535.jpg" /></a>        </div>        <h1><a href="article.asp?catid=27199&subid=2&pubid=113021482">Υβριδική πολυτέλεια με μηδενικά Τέλη Κυκλοφορίας!<img src="images/hasnotvideo.gif"/></a></h1>    </div></li><li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=27198">ΑΚΙΝΗΤΑ</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=27198&subid=2&pubid=113023531"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130410/engine/assets_LARGE_t_420_54065814_type11535.jpg" /></a>        </div>        <h1><a href="article.asp?catid=27198&subid=2&pubid=113023531">Δραματική έκκληση κατασκευαστών κτιρίων για την οικοδομή<img src="images/hasnotvideo.gif"/></a></h1>    </div></li><li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=26514">ΕΠΙΣΤΗΜΗ</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=26514&subid=2&pubid=113022146"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130410/engine/imerisia_LARGE_t_1061_43516065_type11535.jpg" /></a>        </div>        <h1><a href="article.asp?catid=26514&subid=2&pubid=113022146">Κρυμμένη προσευχή στο αρχαιοελληνικό αλφάβητο<img src="images/hasnotvideo.gif"/></a></h1>    </div></li><li class="dtk-item">    <div>        <h2><a href="summary.asp?catid=26519">ΕΛΛΗΝΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ</a></h2>        <div class="mainphoto">            <a href="article.asp?catid=26519&subid=2&pubid=113025029"><img src="http://content-mcdn.imerisia.gr/filesystem/images/20130411/engine/assets_LARGE_t_420_54171611_type11535.jpg" /></a>        </div>        <h1><a href="article.asp?catid=26519&subid=2&pubid=113025029">Μειώνεται η εγγυητική για ΔΕΠΑ
+
+<img src="images/hasnotvideo.gif"/></a></h1>    </div></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="clear"></div><div class="sitemap"><table cellpadding="0" cellspacing="0">
+<tr><td valign="top" class="map"><h3>SITEMAP</h3><ul><li class="m1"><a href="summary.asp?catid=30256">ΝΕΑ ΣΕ 10''</a></li><li class="m2"><a href="summary.asp?catid=26509">ΕΙΔΗΣΕΙΣ</a><ul><li><a href="summary.asp?catid=26509">ΠΟΛΙΤΙΚΗ</a></li><li><a href="summary.asp?catid=26510">ΚΟΙΝΩΝΙΑ</a></li><li><a href="summary.asp?catid=26511">ΚΟΣΜΟΣ</a></li><li><a href="summary.asp?catid=30029">ΑΘΛΗΤΙΣΜΟΣ</a></li><li><a href="summary.asp?catid=26513">ΠΟΛΙΤΙΣΜΟΣ</a></li><li><a href="summary.asp?catid=27766">SHOW BUSINESS</a></li><li><a href="summary.asp?catid=26514">ΕΠΙΣΤΗΜΗ</a></li><li><a href="summary.asp?catid=26515">ΠΕΡΙΒΑΛΛΟΝ</a></li><li><a href="summary.asp?catid=27359">MEDIA</a></li><li><a href="summary.asp?catid=27682">ΔΕΛΤΙΑ ΤΥΠΟΥ</a></li><li><a href="summary.asp?catid=27683">PHOTO NEWS</a></li></ul></li><li class="m3"><a href="summary.asp?catid=26516">ΟΙΚΟΝΟΜΙΑ</a><ul><li><a href="summary.asp?catid=26516">ΕΛΛΑΔΑ</a></li><li><a href="summary.asp?catid=26517">ΕΥΡΩΠΗ</a></li><li><a href="summary.asp?catid=26518">ΚΟΣΜΟΣ</a></li></ul></li><li class="m4"><a href="summary.asp?catid=26519">ΕΠΙΧΕΙΡΗΣΕΙΣ</a><ul><li><a href="summary.asp?catid=26519">ΕΛΛΗΝΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ</a></li><li><a href="summary.asp?catid=26520">ΞΕΝΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ</a></li><li><a href="summary.asp?catid=26521">ΤΡΑΠΕΖΕΣ</a></li><li><a href="summary.asp?catid=26522">ΤΗΛΕΠΙΚΟΙΝΩΝΙΕΣ</a></li><li><a href="summary.asp?catid=26523">ΕΝΕΡΓΕΙΑ</a></li><li><a href="summary.asp?catid=26524">ΒΙΟΜΗΧΑΝΙΑ</a></li><li><a href="summary.asp?catid=26525">ΕΜΠΟΡΙΟ</a></li><li><a href="summary.asp?catid=26526">ΝΑΥΤΙΛΙΑ</a></li><li><a href="summary.asp?catid=26527">ΤΟΥΡΙΣΜΟΣ</a></li></ul></li><li class="m5"><a href="summary.asp?catid=26501">ΑΠΟΨΕΙΣ</a></li><li class="m6"><a href="summary.asp?catid=26502">ΧΡΗΜΑΤΙΣΤΗΡΙΟ</a><ul><li><a href="summary.asp?catid=30414">ΤΕΧΝΙΚΕΣ ΑΝΑΛΥΣΕΙΣ</a></li><li><a href="article.asp?catid=26535">ΚΑΓΚΕΛΑΡΙΟΣ</a></li><li><a href="article.asp?catid=26966">ΚΑΓΚΕΛΑΡΙΟΣ ONLINE</a></li><li><a href="summary.asp?catid=27722">5 ΧΡΗΜΑΤΙΣΤΕΣ</a></li><li><a href="summary.asp?catid=27775">STOCK STORIES</a></li><li><a href="quotes.asp?catid=26538">ΕΙΚΟΝΑ  ΑΓΟΡΑΣ</a></li><li><a href="quotes.asp?catid=26541">ΜΕΤΟΧΕΣ ΟΝΟΜΑΣΤΙΚΑ</a></li><li><a href="quotes.asp?catid=26540">ΜΕΤΟΧΕΣ ΑΝΑ ΚΛΑΔΟ</a></li><li><a href="quotes.asp?catid=26539">ΜΕΤΟΧΕΣ ΑΝΑ ΔΕΙΚΤΗ</a></li><li><a href="summary.asp?catid=26555">ΑΝΑΚΟΙΝΩΣΕΙΣ Χ.Α.</a></li><li><a href="quotes.asp?catid=26503">ΞΕΝΑ ΧΡΗΜΑΤΙΣΤΗΡΙΑ</a></li></ul></li><li class="m7"><a href="summary.asp?catid=27686">ΦΟΡΟΛΟΓΙΚΑ</a><ul><li><a href="summary.asp?catid=27686">ΡΕΠΟΡΤΑΖ</a></li><li><a href="summary.asp?catid=27197">ΕΡΕΥΝΕΣ</a></li></ul></li><li class="m8"><a href="summary.asp?catid=27199">ΣΤΗΛΕΣ</a><ul><li><a href="summary.asp?catid=30980">START UP MADE IN GREECE</a></li><li><a href="summary.asp?catid=28055">SUCCESS STORIES</a></li><li><a href="summary.asp?catid=27199">ΑΥΤΟΚΙΝΗΤΑ</a></li><li><a href="summary.asp?catid=27198">ΑΚΙΝΗΤΑ</a></li><li><a href="summary.asp?catid=27083">ΠΕΡΙΣΚΟΠΙΟ</a></li><li><a href="summary.asp?catid=27201">ΥΓΕΙΑ</a></li><li><a href="summary.asp?catid=27200">ΤΕΧΝΟΛΟΓΙΑ</a></li></ul></li><li class="m9"><a href="summary.asp?catid=27711">LIFE STYLE</a><ul><li><a href="summary.asp?catid=27712">GOODLIFE</a></li><li><a href="summary.asp?catid=27719">STYLE & SHOPPING</a></li><li><a href="summary.asp?catid=27721">CULTURE</a></li><li><a href="summary.asp?catid=27723">ΒΙΒΛΙΟ</a></li><li><a href="summary.asp?catid=27724">ΘΕΜΑΤΑ</a></li><li><a href="summary.asp?catid=27725">STAR SYSTEM</a></li><li><a href="summary.asp?catid=27727">LUXURY</a></li></ul></li><li class="m10"><a href="article.asp?catid=27279">ΥΠΗΡΕΣΙΕΣ</a><ul><li><a href="article.asp?catid=27279">ΕΦΗΜΕΡΙΔΕΣ</a></li><li><a href="user.asp?catid=27143">NEWSLETTER</a></li><li><a href="article.asp?catid=27690">ΣΥΝΔΡΟΜΗΤΙΚΗ ΗΛΕΚΤΡΟΝΙΚΗ ΕΚΔΟΣΗ</a></li><li><a href="summary.asp?catid=27911">ΔΙΑΚΟΠΕΣ</a></li></ul></li></ul></td>
+</tr></table></div></div></div>
+<div class="footer"><center>
+<div class="footer2">
+<img src="images/footer/network.gif" border="0" width="980" height="49" />
+<div class="clear"></div>
+<div class="toplinks1">
+<div class="toplogo"><a href="http://www.ethnos.gr" target="_blank"><img src="images/footer/ethnos.gif" border="0" /></a></div>
+<ul>
+<li>Επικαιρότητα: <a href="http://www.ethnos.gr/summary.asp?catid=22767" target="_blank">Πολιτική</a>, 
+<a href="http://www.ethnos.gr/summary.asp?catid=22768" target="_blank" />Κοινωνία</a>, 
+<a href="http://www.ethnos.gr/summary.asp?catid=22770" target="_blank" />Οικονομία</a>, 
+<a href="http://www.ethnos.gr/summary.asp?catid=22769" target="_blank" />Διεθνή</a>, 
+<a href="http://www.ethnos.gr/summary3.asp?catid=22784" target="_blank" />Πολιτισμός</a>.</li>
+<li><a href="http://www.ethnos.gr/summary.asp?catid=22782" target="_blank" />Αρθρογραφία</a>.</li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23555" target="_blank" />Ένθετα</a>, 
+<a href="http://www.ethnos.gr/entheta.asp?catid=23508" target="_blank" />TV Εθνος</a>, 
+<a href="http://www.ethnos.gr/summary.asp?catid=23656" target="_blank" />Χρήσιμα</a>.</li>
+<li class="more"><a href="http://www.ethnos.gr" target="_blank">Περισσότερα στο www.ethnos.gr</a></li>
+</ul>
+</div>
+
+<div class="toplinks1">
+<div class="toplogo"><a href="http://www.elle.gr" target="_blank"><img src="images/footer/elle_big.gif" border="0" /></a></div>
+<ul>
+<li><a href="http://www.elle.gr/summarytwo.asp?catid=24048" target="_blank">Μόδα</a>, 
+<a href="http://www.elle.gr/summarytwo.asp?catid=24053" target="_blank" />Ομορφιά</a>, 
+<a href="http://www.elle.gr/summarytwo.asp?catid=24049" target="_blank" />Υπέροχο Κορμί</a>.</li>
+<li><a href="http://www.elle.gr/summarytwo.asp?catid=24057" target="_blank">Κουζίνα</a>,
+<a href="http://www.elle.gr/summarytwo.asp?catid=24056" target="_blank" />Elle Deco</a>.</li>
+<li><a href="http://www.elle.gr/summarytwo.asp?catid=24056" target="_blank" />Διαγωνισμοί</a>.</li>
+<li class="more"><a href="http://www.elle.gr" target="_blank">Περισσότερα στο www.elle.gr</a></li>
+</ul>
+</div>
+
+<div class="toplinks1">
+<div class="toplogo"><a href="http://www.sentragoal.gr" target="_blank"><img src="images/footer/sentragoal.gif" border="0" /></a></div>
+<ul>
+<li>Ποδόσφαιρο: <a href="http://www.sentragoal.gr/summary.asp?catid=10475" target="_blank">Ελλάδα</a> & 
+<a href="http://www.sentragoal.gr/summary.asp?catid=10520" target="_blank">Διεθνή</a>.</li>
+<li><a href="http://www.sentragoal.gr/summary.asp?catid=10511" target="_blank">Μπάσκετ</a>, 
+<a href="http://www.sentragoal.gr/summary.asp?catid=10550" target="_blank">Βόλεϊ</a> και 
+<a href="http://www.sentragoal.gr/summary.asp?catid=10476" target="_blank">άλλα σπορ</a>.</li>
+<li><a href="http://www.dailybet.gr" target="_blank">DailyBet</a> & <a href="http://www.sentragoal.gr/summary.asp?catid=16606" target="_blank">Παρασκήνια</a>.</li>
+<li class="more"><a href="http://www.sentragoal.gr" target="_blank">Περισσότερα στο www.sentragoal.gr</a></li>
+</ul>
+</div>
+
+<div class="toplinks2">
+<div class="toplogo"><a href="http://www.e-go.gr" target="_blank"><img src="images/footer/e-go.gif" border="0" /></a></div>
+<ul>
+<li><a href="http://www.e-go.gr/news/default.asp" target="_blank">Ειδήσεις</a> για την 
+<a href="http://www.e-go.gr/news/summary.asp?catid=17826" target="_blank">Ελλάδα</a> και τον 
+<a href="http://www.e-go.gr/news/summary.asp?catid=17827" target="_blank">κόσμο</a>.</li>
+<li><a href="http://www.e-go.gr/timeouthome" target="_blank">Ενημέρωση & Ψυχαγωγία</a>.</li>
+<li><a href="http://www.womenonly.gr" target="_blank">Lifestyle</a>, 
+<a href="http://www.womenonly.gr/summary.asp?catid=15298&tag=10800" target="_blank">μόδα</a>, <a href="" target="_blank">ομορφιά</a>, 
+<a href=""http://www.womenonly.gr/summary.asp?catid=13388&tag=9927 target="_blank">αστρολογία</a>.</li>
+<li class="more"><a href="http://www.e-go.gr" target="_blank">Περισσότερα στο www.e-go.gr</a></li>
+</ul>
+</div>
+
+<div class="clear"></div>
+
+<div class="footerlogos">
+<ul>
+<li><a href="http://www.cinemag.gr" target="_blank"><img src="images/footer/cinema.gif" border="0" /></a></li>
+<li><a href="http://www.e-go.gr/idanikospiti" target="_blank"><img src="images/footer/idanikospiti.gif" border="0" /></a></li>
+<li><a href="http://www.sporty.gr" target="_blank"><img src="images/footer/sporty.gif" border="0" /></a></li>
+<li><a href="http://www.womenonly.gr/summary.asp?catid=13388&tag=9927" target="_blank"><img src="images/footer/astraorama.gif" border="0" /></a></li>
+<li><a href="http://www.e-go.gr/wmotors" target="_blank"><img src="images/footer/wmotors.gif" border="0" /></a></li>
+<li><a href="http://www.womenonly.gr" target="_blank"><img src="images/footer/womenonly.gif" border="0" /></a></li>
+<li><a href="http://www.elle.gr" target="_blank"><img src="images/footer/elle.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/ethnosport" target="_blank"><img src="images/footer/ethnosport.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23508"><img src="images/footer/tvethnos.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22820"><img src="images/footer/kynigi.gif" border="0" /></a></li>
+</ul>
+<div class="clear"></div>
+<ul class="enthetalogos">
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23958"><img src="images/footer/cook.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23309"><img src="images/footer/reportaz.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23513"><img src="images/footer/taxidi.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23343"><img src="images/footer/syntaxeis.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23353"><img src="images/footer/efkairies.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22813"><img src="images/footer/ergasia.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22814"><img src="images/footer/paideia.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=24300"><img src="images/footer/ygeia.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22821"><img src="images/footer/psarema.gif" border="0" /></a></li>
+</ul>
+</div>
+</div>
+
+</center>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+ var pvar = { cid: "gr-pegasus", content: "0", server: "secure-uk" };
+ var feat = { surveys_enabled: 1, sample_rate: 0.05 };
+ var trac = nol_t(pvar, feat);
+ var _rsND = trac.getSchemeHost(); // For compatibility with v53 surveys
+ var _rsCI = "gr-pegasus"; // For compatibility with v53 surveys
+ trac.record().post().do_sample();
+</script>
+<noscript>
+ <div>
+ <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=gr-pegasus&cg=0&cc=1&ts=noscript"
+ width="1" height="1" alt="" />
+ </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 --></div>
+<table cellspacing="0" cellpadding="0" border="0" valign="top">
+    <tr>
+        <td>
+            <script language=JavaScript>
+                cookie_rnd = Math.floor(Math.random() * 900000000000) + 100000000000;
+                cookie_url = 'http://stats.e-go.gr/?nWebSrvID=100271&nCatID=26514&nStampRightID=&nLevelid=2&nPubID=112794359&nServID=' + '&nocache=' + cookie_rnd;
+                document.write('<img src="' + cookie_url + '" border=0 width=1 height=1>');
+            </script>
+        </td>
+        </td>
+</table><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct="UA-1074537-4";
+urchinTracker();
+</script><script>
+//debugging bottom scroller bug when article skin availiable on page
+$(".scrollpages").css( "width","980px" );
+</script>
+
+
+</center>
+<style>
+.container, hometopmenu, .ban72890 {background-color:#fff;} .scrollpages {width:980px;}
+.sw{ position: fixed; top:0; left: 0pt; z-index: 999; width: 100%; overflow: hidden; visibility:hidden; height:1000px; }  .sls{ background: #eee9d6 url(http://media2.feed.gr/filesystem/images/20130402/low/pegasus_LARGE_t_1061_43514089.JPG) no-repeat top right; position: fixed;visibility: visible; left: 50%; margin-left: -1141px; margin-right: 0pt;  overflow:hidden; z-index:20000; width:640px }
+.sls a{ overflow:hidden;} .sls img {float:right;}
+.srs{ background: #eee9d6 url(http://media2.feed.gr/filesystem/images/20130402/low/pegasus_LARGE_t_1061_43514090.JPG) no-repeat top left;position: absolute; visibility: visible; left: 50%; margin-left: 500px; margin-right: 0pt;width:640px;}
+/* greater 1280px */
+@media only screen and (min-width: 1281px) {
+#track_image                 {background:url(http://ad-emea.doubleclick.net/imp;v1;f;269598087;0-0;0;95674923;1|1;53271318|53198157|1;;cs=p;%3fhttp://ad.gr.doubleclick.net/dot.gif?nocache=3305947);}}
+</style>
+<div class="sw">
+<div class="sls">
+<a href="http://ad-emea.doubleclick.net/click;h=v2|4077|0|0|%2a|z;269598087;0-0;0;95674923;31-1|1;53271318|53198157|1;;%3fhttps://www.anytimeonline.gr/car-insurance-calculation" target="_blank">
+<img border="0" height="1000"src="images/spacer.gif" width="640" />
+</a></div>
+<div class="srs">
+<a href="http://ad-emea.doubleclick.net/click;h=v2|4077|0|0|%2a|z;269598087;0-0;0;95674923;31-1|1;53271318|53198157|1;;%3fhttps://www.anytimeonline.gr/car-insurance-calculation" target="_blank">
+<img border="0" height="1000" src="images/spacer.gif" width="640" /></a>
+</div>
+<div id="track_image"></div>
+</div>
+</body>
+</html>

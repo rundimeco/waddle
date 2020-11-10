@@ -1,0 +1,335 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>批判“天价年薪”不是仇富 而是维系正义_采财网</title>
+<meta content="批判“天价年薪”不是仇富 而是维系正义," name="description">
+<meta content="批判,天价,年薪,不是,仇富,而是,维系,正义,深圳,史上,最牛,工资,属实,科级,年薪,35万
+," name="keywords">
+<link href="/css/common.css" rel="stylesheet" type="text/css" />
+<link href="/css/article.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/jquery-1.6.2.js"></script>
+<script>
+var jQ=$;
+</script>
+<script src="/js/ajax_search_nickname.js" type="text/javascript"></script>
+<script src="/js/nickname_email.js" type="text/javascript"></script>
+<script  type="text/javascript" src="/js/common.js"></script>
+<script  type="text/javascript" src="/js/flash.js"></script>
+<script type="text/javascript" src="/js/jquery.pngFix.pack.js" ></script>
+<script type="text/javascript" src="/configuration/js/Prototype.js"></script>
+<script type="text/javascript" src="/configuration/js/jspublic.js"></script>
+<link href="/sysImages/CSS/PagesCSS.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<!--最顶部导航-->
+<div class="cTop">
+<div id="Div_UserInfo55880">正在加载中...
+</div>
+<script type="text/javascript">
+var hiddenValues;
+function getLoginForm()
+{
+      var Action='Type=getLoginForm&RandNum=55880&LoginP=true&FormCSS=txtCtop&LoginCSS=btnCtop&RegCSS=aCtop&PassCSS=aCtop&StyleID=';
+      var options={ 
+                  method:'get', 
+                  parameters:Action, 
+                  onComplete:function(transport) 
+                  { 
+                      var returnvalue=transport.responseText; 
+                      if (returnvalue.indexOf("??")>-1) 
+                          alert('未知错误!请联系系统管理员'); 
+                      else 
+                          document.getElementById("Div_UserInfo55880").innerHTML=returnvalue; 
+                   } 
+                   }; 
+      new  Ajax.Request('/user/UserLoginajax.aspx?no-cache='+Math.random(),options);
+}
+function LoginSubmit(obj)
+{
+      if(obj.UserNum.value==""){alert('帐号不能为空');return false;}
+      if(obj.UserPwd.value==""){alert('密码不能为空');return false;}
+      var Action='UserNum='+escape(obj.UserNum.value)+'&UserPwd='+escape(obj.UserPwd.value)+'&Type=Login&RandNum=55880&LoginP=true&StyleID=';
+      var options={ 
+                  method:'get', 
+                  parameters:Action, 
+                  onComplete:function(transport) 
+                  { 
+                      var returnvalue=transport.responseText; 
+                      var returnvaluearr=returnvalue.split('$$$'); 
+                      if (returnvaluearr[0]=="ERR") 
+                          alert(returnvaluearr[1]); 
+                      else 
+                          document.getElementById("Div_UserInfo55880").innerHTML=returnvaluearr[1]; 
+                   } 
+                   }; 
+      new  Ajax.Request('/user/UserLoginajax.aspx?no-cache='+Math.random(),options);
+}
+function LoginOut()
+{
+      var Action='Type=LoginOut&LoginP=true&StyleID=';
+      var options={ 
+                  method:'get', 
+                  parameters:Action, 
+                  onComplete:function(transport) 
+                  { 
+                      var returnvalue=transport.responseText; 
+                      if (returnvalue.indexOf("??")>-1) 
+                          alert('未知错误!请联系管理员'); 
+                      else 
+                          document.getElementById("Div_UserInfo55880").innerHTML=returnvalue; 
+                   } 
+                   }; 
+      new  Ajax.Request('/user/UserLoginajax.aspx?no-cache='+Math.random(),options);
+}
+getLoginForm();
+</script>
+
+</div>
+<!--采财导航-->
+<script type="text/javascript" src="/jsfiles/sysjs/topnav.js"></script>
+<div class="space8"></div>
+<!-- banner -->
+<div class="GG960X90"><script language="javascript" src="/jsfiles/caicaigg/show.aspx?ID=920545062166867"></script></div>
+<div class="space8"></div>
+<!--logo-->
+<ul class="cLogo">
+  <li class="liLogo">&nbsp;<a href="http://www.caicai98.com" target="_blank"><img src="/images/caicai_logo_tom.gif" height="70" alt="采财网"/></a></li>
+  	<script type="text/javascript" src="/jsfiles/js/sys_95.js"></script>
+</ul>
+<div class="space8"></div>
+<!--快讯搜索-->
+<div class="cTapNew">
+  <div class="f_stocksearch_right">
+    <div id="m21">
+      <div class="m22andm23">
+        <div id="m22">
+          <p> 
+            <script type="text/javascript" src="/jsfiles/js/fontscroll.js"></script></p>
+        </div>
+        <div id="m23">
+          <p> 
+           </p>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+                                            var speed=40;
+                                            var demok2=document.getElementById("m23");
+                                            var demok1=document.getElementById("m22");
+                                            var demok=document.getElementById("m21");
+                                            demok2.innerHTML=demok1.innerHTML;
+                                        function Marquee(){
+                                             if(demok2.offsetWidth-demok.scrollLeft<=0){
+                                                   demok.scrollLeft=0;
+                                               }
+                                               else{ 
+                                                   demok.scrollLeft++;
+                                               }
+                                        }
+                                        var MyMar=setInterval(Marquee,speed);
+                                        demok.onmouseover=function() {clearInterval(MyMar)};
+                                        demok.onmouseout=function() {MyMar=setInterval(Marquee,speed)};
+                        </script> 
+  </div>
+  <div class="f_stocksearch_left">
+ <div class="search_out" style="position: relative; z-index: 101">
+ <form onsubmit="return linkLogHome()" target="_blank" action="/quotes/Stock.html" method="get">       	
+<label>股票查询</label>            
+<input name="scd" type="text" autocomplete="off" onkeyup="keydowncode();" 
+                                    value="请输入股票代码或名称" onblur="if (value ==''){value=this.defaultValue};lostfocus();"
+                                    onfocus="if (value =='请输入股票代码或名称'){value =''};" oninput="changefocus()"
+                                    onpropertychange="changefocus()"  class="stockcodetext tips" size="100" id="txtCode"  /> 
+          
+<input type="submit" class="searchstockbtn" id="sbtSearchGo" value="查询"/>        
+</form>
+<div class="suggestionList" id="autoSuggestionsList" style="left:80px;">
+<p class="load">
+     <img src="/images/loading.gif" /></p>
+</div>
+<input type="hidden" value="" id="hid" />
+<input type="hidden" value="" id="hindex" /> 
+</div>
+  </div>
+</div>
+<div class="space8">
+<!-- 点击 -->
+<span id="click_595750697591"></span><script language="javascript" type="text/javascript">pubajax('/click.aspx','id=595750697591','click_595750697591');</script>
+</div>
+<!--面包屑-->
+<div class="cMianBao"><a href="/">首页</a> >> 推荐 >> 正文</div>
+<!--文章页主体-->
+<div class="cArticle">
+  <div class="cLA">
+    <script src="/js/lz/ny_left.js" type="text/javascript"></script>
+    <div class="cASHOW">
+        <p class="cc_sd_title">批判“天价年薪”不是仇富 而是维系正义</p><div class="titBar"><div class="info">时间 <span class="pubTime">2012-1-12 17:58:00</span><span class="where"> 来源 采财网 廖泽凌</span> </div></div><div class="line"></div><div class="space35"></div><div id="cc_main_article"><p style="text-indent: 2em"><embed menu="true" type="application/x-shockwave-flash" loop="false" play="false" height="390" width="480" src="http://himg2.huanqiu.com/attachment2010/vimages/v/website.swf?videoID=20120111132007&amp;from=zhuantie"></embed></p><p style="text-indent: 2em"><strong>简介：</strong><st1:chsdate w:st="on" year="2010" month="12" day="22" islunardate="False" isrocdate="False">2010年12月22日</st1:chsdate>，&ldquo;史上最牛工资&rdquo;网帖在各大网站流传，据帖子内容称，&ldquo;深圳市住宅租赁管理服务中心现有各类员工共65名，而该中心全年人员工资1913万元，人均年薪近30万元，年薪最高的68万元，最低25万元，远远高于深圳市同级公务员和其他事业单位的收入。这还不包括其他发放的实物以及现金等。&rdquo;</p><p style="text-indent: 2em">据悉国家审计署已完成对该机构&ldquo;史上最牛工资&rdquo;的审议，对相关情况予以了证实。</p><p style="text-indent: 2em">据审计报告显示，该中心2009年和2010年分别发放税前薪酬总额1965.57万元和1834.33万元，人均32.76万元和30.57万元。其中，最低22.93万元、最高74万元。</p><p style="text-indent: 2em">该中心的收入来源构成，主要包括按照不超过2%的固定比例从政府物业租金收入中计提的业务费、维修费以及&ldquo;自有物业&rdquo;收入，预算总收入与披露相合。</p><p style="text-indent: 2em">报告还特别指出，&ldquo;因地方财政及国土房产主管部门未对深圳租赁中心&lsquo;自有物业&rsquo;进行资产清查和产权认定，导致应作为国有资产管理的所谓&lsquo;自有物业收入变成了该租赁中心为员工发放高工资、高福利的来源。&rdquo;</p><p style="text-indent: 2em">昨日，深圳市住建局回应称，深圳市住宅租赁管理服务中心员工高薪情况已在去年全部整改，目前年薪比之前在编人员低了45.5%。</p><p style="text-indent: 2em"><strong>点评：</strong>深圳市住宅租赁管理服务中心的&ldquo;天价工资&rdquo;之所以能引起如此大的轰动效应的原因是其中涉及到两个最为敏感的关键词：一是公务员，二是高工资；而其中最为重要的还是&ldquo;公务员&rdquo;这三个字。回想一下，之前曝出&ldquo;一汽大众发放27个月的年终奖&rdquo;的时候，虽然同样的高收入，但引发的效应也不过是羡慕嫉妒声一片。</p><p style="text-indent: 2em">所以有人就说，此次的&ldquo;天价工资&rdquo;倘若是放在一般的民营或外资企业而言，引发效应估计不过也就是一片羡慕和嫉妒，然后是对行业、企业发展的探讨罢了，但此次舆论的导向却多为激烈的批判，有的说是&ldquo;集体贪污&rdquo;，有的说是&ldquo;瓜分国有资产&rdquo;，明显是过激了。也有人评论说&ldquo;在深圳市中心，25万的税前年薪勉强生活过得去而已，仅是房价都比其他城市高，消费自然不低，贷款买房，买车，再养个孩子，幸运的话养一对父母，不幸就得养四位老者。东减西扣，更本存不下什么钱的。很简单的，在东门停两三个小时的车就要百元以上的停车费了，其他城市根本不用，我不是公务员，家人也都跟政府扯不上关系的，但还是能理解的。&rdquo;</p><p style="text-indent: 2em">笔者认为，媒体舆论的导向虽然言辞激烈，但不乏道理。因为该企业是&ldquo;国有企事业单位&rdquo;，所涉及的是&ldquo;国有资产&rdquo;。</p><p style="text-indent: 2em">首先，高收入并不是坏事，可是&ldquo;君子爱财取之有道&rdquo;。深圳住宅租赁管理服务中心&ldquo;天价工资&rdquo;错的根源在于来源不对。</p><p style="text-indent: 2em">审计报告指出：&ldquo;因地方财政及国土房产主管部门未对深圳租赁中心&lsquo;自有物业&rsquo;进行资产清查和产权认定，导致应作为国有资产管理的所谓&lsquo;自有物业收入变成了该租赁中心为员工发放高工资、高福利的来源。&rdquo;</p><p style="text-indent: 2em">众所周知，国有资产本是全民所有，在未得到公众授权许可的前提下，将公共财富用于单位员工的工资福利发放，将&ldquo;国有资产&rdquo;纳入为&ldquo;自有物业&rdquo;，换句话说，就是该中心通过占用政府垄断的公共资源给中心员工发放高额工资。说其为&ldquo;集体贪污&rdquo;也是不为过的。</p><p style="text-indent: 2em">其次是垄断性企业的监管问题。在中国，涉及垄断行业的企业几乎都是国有大型企业，例如石油行业的三桶油（中石油、中石化、中海油），电信行业的三巨头（中国移动、中国联通、中国电信）、电力、水力等，也恰恰是这些企业才最经常和&ldquo;天价报酬&rdquo;挂上钩。</p><p style="text-indent: 2em">都知道事业单位和公务员福利待遇好，这个&ldquo;好&rdquo;主要体现在隐形上，像深圳住宅租赁管理服务中心这样将天价工资做到账面上的，还是少之又少。主任层级(处级)、科级及一般员工年均税前薪酬发放额分别为63.53万元、35.87万元和27.27万元，其中，最低22.93万元、最高74万元(中心主任)。如此工资，着实让人羡慕得直流口水。</p><p style="text-indent: 2em">深圳住宅租赁管理服务中心的&ldquo;天价工资&rdquo;为我们打开了一扇门。从这扇门中可以看到，垄断性国企，仗着是自收自支的事业单位，逃脱了监管之网，他们可以光明正大地发放天价工资。</p><p style="text-indent: 2em">此次的事件对于社会是幸运的也是悲剧的，对于深圳住宅租赁管理服务中心来说却是一时触了霉头。</p><p style="text-indent: 2em">设想，如果没有网友曝光的那则《史上最高公务员工资》网帖的热传，该中心的&ldquo;天价工资&rdquo;只怕还要继续下去。曝光了，姑且得到了整改，但是在整改过后呢？该现象是否还会死灰复燃呢？或者根本就是相关的部门迫于舆论压力走走过场，做做形式，待到波澜平复之后再以其他名义补充回来呢？</p><p style="text-indent: 2em">透过&ldquo;天价薪酬&rdquo;这扇门，我们也不得不继续追问，还有多少不正当的高收入部门没有被曝光出来的。</p><p style="text-indent: 2em">最后，是政府对此事的处理态度问题。自<st1:chsdate w:st="on" year="2010" month="12" day="22" islunardate="False" isrocdate="False">2010年12月22日</st1:chsdate>，该事件被曝光至今已将近一年又一个月。但是，除了审计部门出个调查报告、当地住建部门说将该中心员工的薪资恢复到正常水平、把其主任从市财政领取的2万元收回之外，并无其他举措，该中心未出现人事变动，涉事人员毫发无伤。</p><p style="text-indent: 2em">更可悲的是，扒掉该中心&ldquo;天价年薪&rdquo;的外衣，呈现在我们面前的，不是有人勤奋致富，而是明显利益输送，是明显地侵占国有资产。这些，都是明显违反法律规定的，但是相关监管部门却选择了&ldquo;无视&rdquo;，以往最常用的&ldquo;彻查&rdquo;、&ldquo;处分&rdquo;之类的措辞在这里根本都没用上，颇有耀武扬威的韵味（审计报告结合处理结果，给人的感觉就是喊一句：对，我们就是瓜分集体资产了，就是集体贪污了，但你又能耐我何呢？）。</p><p style="text-indent: 2em">如果说，事业单位天价年薪所触动的是国人对社会分配日益悬殊、贫富差距逐日增大的不满，那么，花一年多的时间，才得到国家审计署对此类事情的调查报告；而无数国人的质疑，还有国家的法律、法规，甚至是政策、纪律，对于此事的处理，竟然是连&ldquo;罚酒三杯&rdquo;都不如，如此现实，让人情何以堪！</p><p style="text-indent: 2em">批判深圳市住宅租赁管理服务中心的&ldquo;天价年薪&rdquo;不是仇富，而是对社会公平与正义的维系。谁都渴望富裕，但&ldquo;君子爱财，取之有道&rdquo;，财富的取得，应当遵守法律，绝不能破坏正常的社会秩序。</p><p style="TEXT-INDENT: 2em"><!--end-news-zxy--><br></p><script type="text/javascript" src="/js/baidushare.js"></script><p class="editor">责任编辑：廖泽凌</p></div><div class="clientShare"><div class="cSptitle">目前共有网友发表：<b class="red"><a href="/Comment.aspx?CommentType=getlist&id=595750697591&ChID=0" target="_blank"><span id="gCount5957506975913931"></span>(点击查看)</a>
+<script language="javascript" type="text/javascript">pubajax('/comment.aspx','id=595750697591&commCount=1&ChID=0&Today=1','gCount5957506975913931');</script></b>条评论。</div><a name="commList"></a><div id="Div_CommentForm"><img src="/sysimages/folder/loading.gif" border="0" />评论表单加载中...</div>
+<script language="javascript" type="text/javascript">
+function GetAddCommentForm()
+{
+   var Action='id=595750697591&ChID=0&CommentType=GetAddCommentForm';   var options={ 
+                  method:'get', 
+                  parameters:Action, 
+                  onComplete:function(transport) 
+                  { 
+                      var returnvalue=transport.responseText; 
+                      var arrreturnvalue=returnvalue.split('$$$'); 
+                      if (arrreturnvalue[0]=="ERR") 
+                          document.getElementById("Div_CommentForm").innerHTML='加载评论表单失败!'; 
+                      else 
+                          document.getElementById("Div_CommentForm").innerHTML=arrreturnvalue[1]; 
+                  } 
+               }; 
+   new  Ajax.Request('/comment.aspx?no-cache='+Math.random(),options);
+}
+GetAddCommentForm();
+function CommandSubmit(obj)
+{
+    if(obj.UserNum.value=="")
+    {
+        alert('帐号不能为空');
+        return false;
+    }
+    if(obj.Content.value=="")
+    {
+        alert('评论内容不能为空');
+        return false;
+    }
+    var r = obj.commtype; 
+    var commtypevalue = '2'; 
+    for(var i=0;i<r.length;i++) 
+    {
+        if(r[i].checked)
+           commtypevalue=r[i].value;
+    }
+    var Action='CommentType=AddComment&UserNum='+escape(obj.UserNum.value)+'&UserPwd='+escape(obj.UserPwd.value)+'&commtype='+escape(commtypevalue)+'&Content='+escape(obj.Content.value)+'&IsQID='+escape(obj.IsQID.value)+'&id=595750697591';
+    var options={ 
+                    method:'get', 
+                    parameters:Action, 
+                    onComplete:function(transport) 
+                    { 
+                        var returnvalue=transport.responseText; 
+                        var arrreturnvalue=returnvalue.split('$$$'); 
+                        if (arrreturnvalue[0]=="ERR") 
+                        { 
+                           alert(arrreturnvalue[1]); 
+                           GetAddCommentForm(); 
+                        } 
+                        else 
+                        { 
+                           alert('发表评论成功!'); 
+                           document.getElementById("Div_CommentList").innerHTML=arrreturnvalue[1]; 
+                           GetAddCommentForm(); 
+                        } 
+                    } 
+                 }; 
+     new  Ajax.Request('/comment.aspx?no-cache='+Math.random(),options); 
+} 
+function CommentLoginOut()
+{
+    var Action='CommentType=LoginOut';
+    var options={ 
+                  method:'get', 
+                  parameters:Action, 
+                  onComplete:function(transport) 
+                  { 
+                      var returnvalue=transport.responseText; 
+                      var arrreturnvalue=returnvalue.split('$$$'); 
+                      if (arrreturnvalue[0]=="ERR") 
+                          alert('未知错误!'); 
+                      else 
+                          document.getElementById("Div_CommentForm").innerHTML=arrreturnvalue[1]; 
+                   } 
+                 }; 
+      new  Ajax.Request('/comment.aspx?no-cache='+Math.random(),options);
+}
+</script>
+</div>
+    </div>
+    <div class="space8"></div>
+    <div class="GG656X90"><script language="javascript" src="/jsfiles/caicaigg/show.aspx?ID=919668673112730"></script></div>
+    <div class="space8"></div>
+    <div class="GG656X90" style="height:60px;">
+   <script src="/js/conleft_bottom.js" type="text/javascript"></script>
+   </div>
+    <div class="space8"></div>
+   	<iframe src="/html/content/jctj.html" width="656px" height="293px" frameborder="no" scrolling="no"></iframe>
+    <div class="space8"></div>
+    <div class="cNewReport">
+    	<div class="cBannerLong"><p>最新报道</p></div>
+        <ul class="gggz_list">
+        <script type="text/javascript" src="/jsfiles/js/zxbd.js"></script>
+        </ul>
+    </div>
+  </div>
+  <div class="cRA">
+<script src="/js/lz/ny_right.js" type="text/javascript"></script>
+   <div class="space8"></div>
+<script src="/js/weibo.js" type="text/javascript"></script>
+   <div class="space8"></div>
+  	<div class="GG300X250"><script language="javascript" src="/jsfiles/caicaigg/show.aspx?ID=151984761285458"></script></div>
+    <div class="space8"></div>
+    <div class="ztshow">
+    	<div class="cBannerLong"><p>精彩专题</p></div>
+        		<div class="text-s2 jrj-floatfix">
+                <script type="text/javascript" src="/jsfiles/js/rdztpic.js"></script>
+                              
+           
+                </div>
+        		<ul class="l1 l1-1" id="ztcontent">
+                      <script type="text/javascript" src="/jsfiles/js/rdztlist.js"></script>
+                      
+				</ul>
+               
+    	</div>
+    <div class="space8"></div>
+    <div class="hotnew">
+            <div class="cBannerLong"><p>热点新闻</p></div>
+             <ul class="cjrw_ul">
+            	 <script type="text/javascript" src="/jsfiles/js/rdxwpic.js"></script>
+            </ul>
+            <ul class="l1 l1-1">
+                            <script type="text/javascript" src="/jsfiles/js/rdxwlist.js"></script>
+				</ul>
+      </div>
+    <div class="space8"></div>
+    <div class="GG300X125"><script language="javascript" src="/jsfiles/caicaigg/show.aspx?ID=676618172615779"></script></div>
+    <script src="/js/lz/sogou.js" type="text/javascript"></script>
+    <div class="space8"></div>
+    <div class="hotnew" style="height:258px;">
+            <div class="cBannerLong"><p>24小时点击排行</p></div>
+            <div class="table24">
+            	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <script type="text/javascript" src="/jsfiles/js/djpm.js"></script>
+                       </table>
+            </div>
+    </div>
+    <div class="space8"></div>
+    <div class="hotnew">
+            <div class="cBannerLong"><p>财经人物</p></div>
+            <ul class="cjrw_ul">
+            	  <script type="text/javascript" src="/jsfiles/js/cjrw.js"></script>
+            </ul>
+   </div>
+   <div class="space8"></div>
+   <div class="hotnew" style="height:255px;">
+   <script src="/js/cjrw_bottom.js" type="text/javascript"></script>
+   </div>
+  </div>
+</div>
+<div class="space8"></div>
+<!-- bottom nav -->
+<div class="cNav3">
+<script type="text/javascript" src="/jsfiles/sysjs/footernav.js"></script>
+</div>
+<div class="space8"></div>
+<!--Footer-->
+<script type="text/javascript" src="/jsfiles/sysjs/footer.js"></script>
+<div class="space8"></div>
+<div class="space8"></div>
+<div class="space8"></div>
+<script src="/js/dl_middle.js" type="text/javascript"></script>
+</body>
+</html>
+

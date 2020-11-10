@@ -1,0 +1,870 @@
+<html><head>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+ <title>世界新聞網-北美華文新聞、華商資訊 - 打工起家 重慶男子 蓋35洋房送村民</title> 
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta property="og:title" content="打工起家 重慶男子 蓋35洋房送村民 - 重慶30多歲男子高強在外工作多年，出資1000萬元在老家修建15棟、35戶小洋樓，送給5組村民。在昨日，長壽區石堰鎮興莊村5組蘇家祠堂鞭炮齊鳴，在歌聲陣陣中舉行入住儀式，35戶村民幸福住進新房。高強表示，下一步將再捐1000萬元，幫助村民發展產業致富。
+
+據了解，高強捐建的強..."/>
+ <meta property="og:type" content="article"/>
+   <meta property="og:image" content="http://assets.matchbin.com/sites/358/thumbs/132678497233382012011715213215_10828.jpg"/>
+
+  <meta name="keywords" content="新聞,世界日報,世界新聞網,北美,中文報紙,華文網站,新聞網站,社區網站,華人社區,Chinese, Newspaper" /> 
+     <meta name="description" content="打工起家 重慶男子 蓋35洋房送村民 - 重慶30多歲男子高強在外工作多年，出資1000萬元在老家修建15棟、35戶小洋樓，送給5組村民。在昨日，長壽區石堰鎮興莊村5組蘇家祠堂鞭炮齊鳴，在歌聲陣陣中舉行入住儀式，35戶村民幸福住進新房。高強表示，下一步將再捐1000萬元，幫助村民發展產業致富。
+
+據了解，高強捐建的強..."> 
+<link id="default_facebook_image" rel="image_src" href="http://assets.matchbin.com/sites/358/thumbs/132678497233382012011715213215_10828.jpg" />
+
+
+<link href="http://assets.matchbin.com/templates/publication_pods/stylesheets/global-cssball.css" media="all" rel="stylesheet" type="text/css" />            <link href="http://assets.matchbin.com/sites/358/stylesheets/worldjournal.com.css" media="all" rel="stylesheet" type="text/css" />
+
+
+<style>
+.wjlogo3 {float:left;height:90px;margin:1px;width:256px;}
+.bleader {float:right;height:90px;margin:1px;width:728px;}
+</style>
+<script type="text/javascript" charset="utf-8" src="http://assets.matchbin.com/javascripts/jsball.js"></script>
+<div id="content_container" align="left">	<div>
+	<script>
+function toggleSearch(which) {
+$A($('pt1_search_element_bar').childNodes).each(function(element) {
+if(element.tagName == 'DIV') {element.style.display = 'none'} })
+
+if ($('pt1_search_'+which)) {$('pt1_search_'+which).style.display='block'
+} else { $('pt1_search_content').style.display = 'block' }
+
+$('pt1_search_element_select').style.display = 'block'
+$('pt1_search_dropdown').value = which
+}
+
+function initSearch() {
+var pages = [
+/* Default page */
+[/\/$/, 'content'],
+/* Others */
+[/\/news/, 'content'],
+[/\/results_content/, 'content'],
+[/\/events/, 'events'],
+[/klass=event/, 'events'],
+[/klass=profile/, 'profiles'],
+[/\/my_profiles/, 'profiles'],
+[/\/full/, 'content']]
+
+var which_search = 'content'
+pages.each(function(element) {if(document.URL.search(element[0]) != -1) { which_search = element[1] }})
+toggleSearch(which_search)
+initMenu()
+}
+
+function toggleMenu(which) {
+	$A($('pt1_main_menu').childNodes).each(function(element) {
+	if(element.className == 'pt1_item_active') {element.className = 'pt1_item'}})
+	$A($('pt1_sub_menu').childNodes).each(function(element) {
+	if(element.className == 'pt1_menu_group') {element.style.display = 'none'}})
+	$(which).className = 'pt1_item_active'
+	$(which + '_group').style.display = 'block'
+}
+
+function initMenu() {
+var pages = [
+/* Default page */
+[/\/$/, 'home'],
+/* Others */
+[/\/about_us/, 'home'],
+[/\/account/, 'home'],
+[/\/ad_details/, 'home'],
+[/\/books/, 'shop'],
+[/\/catalogue/, 'publication'],
+[/\/chat/, 'my_content'],
+[/\/clone_ad/, 'classifieds'],
+[/\/epaperFAQ/, 'epaper'],
+[/\/epaperv2FAQ/, 'epaper'],
+[/\/contact_us/, 'home'],
+[/\/edit_fob_profile/, 'my_content'],
+[/\/edit_profile/, 'my_content'],
+[/\/afternoon_news/, 'home'],
+[/\/poll_result/, 'home'],
+[/\/login/, 'home'],
+[/\/matchbin/, 'publication'],
+[/\/matchbinfaq/, 'publication'],
+[/\/my_.*/, 'home'],
+[/\/news_obituaries/, 'home'],
+[/\/respond/, 'classifieds'],
+[/\/results/, 'classifieds'],
+[/\/results_content/, 'home'],
+[/\/signup/, 'home'],
+[/\/support/, 'publication'],
+[/\/upgrade/, 'publication'],
+[/\/welcome/, 'home']]
+
+var which_page = 'home'
+pages.each(function(element) {if(document.URL.search(element[0]) != -1) { which_page = element[1]}})
+toggleMenu('main_menu_' + which_page)
+
+$A($('pt1_main_menu').childNodes).each(function(element) {
+	if(element.className == 'pt1_item' || element.className == 'pt1_item_active') {
+	element.onmouseover = function() {toggleMenu(element.id)}}
+})
+}
+</script>
+</div>
+</div>
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-8009660331917757");GS_googleEnableAllServices();</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-8009660331917757","News_B_Leader_728x90");
+GA_googleAddSlot("ca-pub-8009660331917757","NewsB_std1_468x60");
+GA_googleAddSlot("ca-pub-8009660331917757","NewsB_std2_468x60");
+GA_googleAddSlot("ca-pub-8009660331917757","wjnews_ltxt_330x20");
+GA_googleAddSlot("ca-pub-8009660331917757","wjnews_rtxt_330x20");
+GA_googleAddSlot("ca-pub-8009660331917757","NewsB_box_300x250");
+GA_googleAddSlot("ca-pub-8009660331917757","NewsB_box2_300x250");
+GA_googleAddSlot("ca-pub-8009660331917757","NewsB_box3_300x250");
+GA_googleAddSlot("ca-pub-8009660331917757", "News_B_Bar_1");
+GA_googleAddSlot("ca-pub-8009660331917757", "News_B_Bar_2");
+GA_googleAddSlot("ca-pub-8009660331917757", "News_B_Bar_3");
+GA_googleAddSlot("ca-pub-8009660331917757", "News_B_Bar_4");
+GA_googleAddSlot("ca-pub-8009660331917757", "News_B_Bar_5");
+GA_googleAddSlot("ca-pub-8009660331917757", "News_B_Bar_6");
+</script>
+<script type="text/javascript">GA_googleFetchAds();</script>
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://analytics.matchbin.com/javascripts/analytics.js?v=2"></script><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script></head>
+<body onLoad="initSearch()">
+<div id="wjbody"><div id="pt1_page">
+<div id="pt1_header">
+
+<!-- Old logo  -->
+<div class="wjlogo3"><a href="/35years"><img src="/sites/358/assets/wj_logo_35years.gif"></a></div>
+<!-- Old logo  -->
+
+<div class="bleader"><script type="text/javascript">GA_googleFillSlot("News_B_Leader_728x90");</script></div>
+
+
+<div id="content_menu_news_container" align="left">	<div>
+	<div id="pt1_menu">
+<div id="pt1_main_menu">
+<div id="main_menu_home" class="pt1_item"><a href="http://www.worldjournal.com">新聞網</a></div>
+<div id="main_menu_epaper" class="pt1_item"><a href="http://www.worldjournal.com/epaper">ePaper</a></div>
+<div id="main_menu_class" class="pt1_item"><a href="http://classifieds.worldjournal.com">分類</a></div>
+<div id="main_menu_yp" class="pt1_item"><a href="http://yp.worldjournal.com">黃頁</a></div>
+<div id="main_menu_blog" class="pt1_item"><a href="http://www.worldjournal.com/socialmedia">社群</a></div>
+<div id="main_menu_shop" class="pt1_item"><a href="http://www.worldjournal.com/shopping">購物</a></div>
+
+<div id="pt1_search_controls"><div id="pt1_search_bar_ajax_container"><div id="content_container" align="left">	<div>
+	<div id="pt1_search_element_select">
+<select id="pt1_search_dropdown" onChange="toggleSearch(this.value)">
+<option value="content">新聞</option>
+</select>
+</div>
+
+<div id="pt1_search_element_bar">
+<div id="pt1_search_content" style="display: none;">
+<div id="search_content_container" align="left"><form action="/pages/results_content/search_content" id="search_content_form" method="post"><input class="searchBarStringField" id="string" name="string" size="20" type="text" value="" />
+	<input name="commit" type="submit" value="搜尋" />
+</form></div>
+</div>
+</div>
+</div>
+</div></div></div>
+<div id="pt1_login_controls"><div id="user_menu_container" align="left"><div class="userMenu">
+  <ul id="user_menu_login_list">
+    	<li id="sign_in"><a href="/pages/login/?">註冊/登入</a></li>
+
+  </ul>
+</div>
+
+</div></div><div class="newline"> </div>
+</div>
+
+<div id="pt1_sub_menu">
+<div id="main_menu_home_group" class="pt1_menu_group" style="display:none;">
+<div class="pt1_item"><a href="http://ny.worldjournal.com">紐約</a></div>
+<div class="pt1_item"><a href="http://sf.worldjournal.com">舊金山</a></div>
+<div class="pt1_item"><a href="http://la.worldjournal.com">洛杉磯</a></div>
+<div class="pt1_item"><a href="http://van.worldjournal.com">溫哥華</a></div>
+<div class="pt1_item"><a href="http://tor.worldjournal.com">多倫多</a></div>
+<div class="pt1_item"><a href="http://www.worldjournal.com/wjnjpa">新澤西/賓州</a></div>
+<div class="pt1_item"><a href="http://www.worldjournal.com/wjma">波士頓</a></div>
+<div class="pt1_item"><a href="http://www.worldjournal.com/wjil">芝加哥</a></div>
+<div class="pt1_item"><a href="http://www.worldjournal.com/wjdc">大華府</a></div>
+<div class="pt1_item"><a href="http://www.worldjournal.com/wjgafl">亞特蘭大/佛州</a></div>
+<div class="pt1_item"><a href="http://la.worldjournal.com/wjtx">休士頓/達拉斯</a></div>
+<div class="pt1_item"><a href="http://la.worldjournal.com/wjvegas">賭城</a></div>
+<div class="pt1_item"><a href="http://la.worldjournal.com/wjsd">聖地牙哥</a></div>
+<div class="pt1_item"><a href="http://sf.worldjournal.com/wjwahi">西雅圖/夏威夷</a></div>
+</div>
+
+<div id="main_menu_epaper_group" class="pt1_menu_group" style="display:none;">
+<div class="pt1_item"><a title="New York" href="http://epaper.worldjournal.com/v2land/ny2.html">紐約</a></div>
+<div class="pt1_item"><a title="California: San Francisco" href="http://epaper.worldjournal.com/v2land/sf2.html">舊金山</a></div>
+<div class="pt1_item"><a title="California: Los Angeles" href="http://epaper.worldjournal.com/v2land/la2.html">洛杉磯</a></div>
+<div class="pt1_item"><a title="Vancouver" href="http://epaper.worldjournal.com/v2land/van2.html">溫哥華</a></div>
+<div class="pt1_item"><a title="Toronto" href="http://epaper.worldjournal.com/v2land/tor2.html">多倫多</a></div>
+<div class="pt1_item"><a title="New Jersey & Pennsylvania" href="http://epaper.worldjournal.com/v2land/nj2.html">新澤西&amp;賓州</a></div>
+<div class="pt1_item"><a title="Massachusetts" href="http://epaper.worldjournal.com/v2land/bo2.html">波士頓</a></div>
+<div class="pt1_item"><a title="Illinois" href="http://epaper.worldjournal.com/v2land/il2.html">芝加哥</a></div>
+<div class="pt1_item"><a title="Washington DC" href="http://epaper.worldjournal.com/v2land/dc2.html">大華府</a></div>
+<div class="pt1_item"><a title="Georgia & Florida" href="http://epaper.worldjournal.com/v2land/ga2.html">亞特蘭大&amp;佛州</a></div>
+<div class="pt1_item"><a title="Texas: Houston & Dallas" href="http://epaper.worldjournal.com/v2land/tx2.html">休士頓&amp;達拉斯</a></div>
+<div class="pt1_item"><a title="Seattle & Hawaii" href="http://epaper.worldjournal.com/v2land/wahi2.html">西雅圖&amp;夏威夷</a></div>
+</div>
+
+<div id="main_menu_class_group" class="pt1_menu_group" style="display:none;">
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?NY">紐約</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?SF">舊金山</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?LA">洛杉磯</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?NJ">新澤西</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?MA">波士頓</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?IL">芝加哥</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?DC">大華府</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?GA">亞特蘭大</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?FL">佛州</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?TOR">多倫多</a></div>
+<div class="pt1_item"><a href="http://classifieds.worldjournal.com/AdSearch2007/StatePreSel.htm?VAN">溫哥華</a></div>
+</div>
+
+<div id="main_menu_yp_group" class="pt1_menu_group" style="display:none;">
+<div class="pt1_item"><a href="http://nyyp.worldjournal.com">紐約</a></div>
+<div class="pt1_item"><a href="http://sfyp.worldjournal.com">舊金山</a></div>
+<div class="pt1_item"><a href="http://layp.worldjournal.com">洛杉磯</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/tor">多倫多</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/van">溫哥華</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/boston">波士頓</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/ypnj">新澤西</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/yppa">費城</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/chicago">芝加哥</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/midwest">中西部</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/ypdc">大華府</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/ypga">亞特蘭大</a></div>
+<div class="pt1_item"><a href="http://yp.worldjournal.com/ypfl">奧蘭多</a></div>
+</div>
+
+<div id="main_menu_blog_group" class="pt1_menu_group" style="display:none;">
+<div class="pt1_item"><a href="http://blog.worldjournal.com">世界部落格</a></div>
+<div class="pt1_item"><a href="http://www.facebook.com/worldjournalnews">世報臉書</a></div>
+<div class="pt1_item"><a href="http://www.facebook.com/sfworldjournal">舊金山臉書</a></div>
+<div class="pt1_item"><a href="http://www.facebook.com/laworldjournal">洛杉磯臉書</a></div>
+<div class="pt1_item"><a href="http://www.facebook.com/wjvancouver">溫哥華臉書</a></div>
+<div class="pt1_item"><a href="http://www.youtube.com/worldjournalnews">世報YouTube</a></div>
+</div>
+
+<div id="main_menu_shop_group" class="pt1_menu_group" style="display:none;">
+<div class="pt1_item"><a href="http://www.wjtobuy.com">圖百網</a></div>
+<div class="pt1_item"><a href="http://www.wjbookny.com">世界書局購物網</a></div>
+</div>
+
+</div><div class="newline"></div>
+
+<div id="wj_sub_menu3" class="barTall">
+<div class="p_item"><a href="http://www.worldjournal.com">回首頁</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/wjpeople">北美華人</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/aUS">美國</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/aChina">大陸</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/aTaiwan">台灣</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/aHK">香港</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/aInternational">國際</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/aEntertainment">影藝</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/aFinance">財經</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/wjconsumer">消費理財</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/aSports">體育</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/bTech">科技</a></div>
+<!--
+<div class="p_item"><a href="http://www.worldjournal.com/wjhottopics">話題</a></div>
+<div class="p_item"><a href="http://www.worldjournal.com/wjpoll">民調</a></div>
+-->
+<div class="p_item"><a href="http://www.worldjournal.com/wjforum">時事論壇</a></div>
+<div class="p_item2"><a href="http://www.worldjournal.com/wjhealth">醫藥</a></div>
+<div class="p_item2"><a href="http://www.worldjournal.com/wjlaw">法律</a></div>
+<div class="p_item2"><a href="http://www.worldjournal.com/wjlit">藝文</a></div>
+<div class="p_item2"><a href="http://www.worldjournal.com/wjliving">生活</a></div>
+<div class="p_item2"><a href="http://www.worldjournal.com/weekly">周刊</a></div>
+<div class="p_item2"><a href="http://www.worldjournal.com/wjtravel">旅遊</font></a></div>
+<div class="p_item2"><a href="http://www.worldjournal.com/wjcast"><font color="#A4FF9F">播fun室</font></a></div>
+<div class="p_item2"><a href="http://www.worldjournal.com/wjenglishnews"><font color="#A4FF9F">English</font></a></div>
+
+</div><div class="newline"></div>
+
+</div>
+</div>
+</div><script>initMenu();</script></div>
+
+<div id="pt1_content_container"><style>
+div.comment{border-color:#cDcCcC;
+border-style:solid;padding:4px;background:#FFFFFF;
+border-width:1px;margin:2px 0;}
+div.spacer {display:none;}
+.related_content h2{font-weight:normal;}
+.related_content .wjbigtitle{font-size:small;font-weight:normal;display:inline;}
+.related_content .wjbigredtitle{font-size:small;font-weight:normal;display:inline;}
+.epaper {text-align:center;padding-bottom: 10px;}
+div.pad {width:630px;margin-left:1px;_margin-left:5px;padding:1px;}
+.pad, .pad p {font-size:12px;line-height:125%;max-height:200px;overflow:hidden;_height: expression(this.scrollHeight>200 ? "200px":"auto");padding:0px;}
+.story_item .story_item_content {_padding-top:3px;font-size:16px;line-height:140%;clear:both;letter-spacing:1px;}
+.story_item_content h2 {font-size:12px;color:#22e;}
+</style>
+
+<div id="pt1_full_story"><div id="wj_main">
+<div class="wj_pane"><div class="wj_pane_body">
+<div id="push_iNews_container" align="left">  <div style="" class="full_story">
+    <div class="even">
+        <meta name="title" content="打工起家 重慶男子 蓋35洋房送村民" />
+<meta name="description" content="重慶30多歲男子高強在外工作多年，出資1000萬元在老家修建15棟、35戶小洋樓，送給5組村民。在昨日，長壽區石堰鎮興莊村5組蘇家祠堂鞭炮齊鳴，在歌聲陣陣中舉行入住儀式，35戶村民幸福住進新房。高強表示，下一步將再捐1000萬元，幫助村民發展產業致富。  據了解，高強捐建的強農園已更名強惠園，一排排依山而建、青瓦白牆的小洋樓非常醒目，家家戶戶連著寬闊的步道和梯坎。昨日上午，強惠園舉行簡單的入住儀式。35戶村民從長壽區、鎮領導幹部及高強手中接過鑰匙。從此，小洋房產權就歸他們所有。  人民日報報導，89歲的汪習珍隨著兒子分到一戶，老人拄著拐杖站在門外仔細端詳著自家的小洋房。「做夢都沒想到這輩子還能住新房。」汪婆婆說，她家老房子是新中國成立初...">
+<div class="" style=""><!-- article -->
+     <div class="story_item">
+	<div class="hnews hentry item">
+                
+		<div class="story_item_headline entry-title">打工起家 重慶男子 蓋35洋房送村民</div>
+		<div class="story_item_info">
+			
+        <div class="story_item_author" >
+          
+          <span class="author vcard">
+            <span class="fn">大陸新聞組北京17日電</span>
+          </span>
+          
+          <span class="source-org vcard" style="display: none;">
+            <span class="org fn">世界新聞網 北美華文新聞、華商資訊</span>
+          </span>
+        </div>
+      
+			<div class="signature_line"><span title="2012-01-17T06:00:00Z" class="story_item_date updated">January 17, 2012 06:00 AM</span>&nbsp;|&nbsp;151&nbsp;次&nbsp;|&nbsp;0&nbsp;<a href="/pages/full_news/push?article-%E6%89%93%E5%B7%A5%E8%B5%B7%E5%AE%B6+%E9%87%8D%E6%85%B6%E7%94%B7%E5%AD%90+%E8%93%8B35%E6%B4%8B%E6%88%BF%E9%80%81%E6%9D%91%E6%B0%91%20&id=17192280&instance=iNews#comments_17192280"><img alt="0 評論" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/comments-icon.gif" title="0 評論" /></a>&nbsp;|&nbsp;<span id="number_recommendations_17192280" class="number_recommendations">0</span>&nbsp;<a href="#1" id="recommend_link_17192280" onclick="Element.remove('recommend_link_17192280'); new Ajax.Request('/community/content/recommend/17192280', {asynchronous:true, evalScripts:true}); return false;"><img alt="0 推薦" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/thumbs-up-icon.gif" title="0 推薦" /></a>&nbsp;|&nbsp;<a href="#1" onclick="$j.facebox({ajax: '/community/content/email_friend_pane/17192280'}); return false;"><span style="position: relative;"><img alt="電郵給朋友" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/email-this.gif" title="電郵給朋友" /></span></a>&nbsp;|&nbsp;<span><a href="/printer_friendly/17192280" target="_blank"><img alt="打印" class="dont_touch_me" src="http://d2uh5w9wm14i0w.cloudfront.net/images/print_icon.gif" title="打印" /></a></span><span id="email_content_message_17192280" class="signature_email_message"></span></div>
+
+
+      
+
+		</div>
+                <div class="story_item_content entry-content">
+	
+      <div  style="float: left;">
+	<div class="story_item_images">
+       	  <a style="display:none;" href='http://assets.matchbin.com/sites/358/assets/132678497233382012011715213215_10828.jpg' title='高強出資1000萬修建樓房給老家村民們住。(取材自重慶晚報)
+
+' rel='lightbox[parent17192280]'> </a>
+
+<a style="display:none;" href='http://assets.matchbin.com/sites/358/assets/132678497353262012011715213316_10828.jpg' title='村民們16日在已經竣工的院壩裡擺起流水席慶祝喬遷新居。(取材自重慶晚報)
+
+' rel='lightbox[parent17192280]'> </a>
+
+  <div class="simple-slideshow-container">
+    <div class="slideshow-image-wrapper">
+      <img id="slideshow-image-17192280" class="image_img slideshow_image" src="http://assets.matchbin.com/sites/358/assets/132678497233382012011715213215_10828.jpg" />
+    </div>
+    <div class="simple-slideshow-nav-container">
+      <a href="#" id="simple-slideshow-play-17192280">播放</a> |
+      <a href="#" id="simple-slideshow-stop-17192280">暫停</a> |
+      <a href="#" id="simple-slideshow-prev-17192280"><< 上一頁</a> |
+      <a href="#" id="simple-slideshow-next-17192280">下一頁 >></a>
+    </div>
+    <div class="image_caption image_count" id="slideshow-details-container-17192280">圖片 1 / 2</div>
+    <div class="image_caption" id="slideshow-caption-container-17192280">高強出資1000萬修建樓房給老家村民們住。(取材自重慶晚報)
+
+</div>
+  </div>
+<script>
+  new SimpleSlideshow(Object.extend({
+    image: $('slideshow-image-17192280'),
+    playButton: "simple-slideshow-play-17192280",
+    stopButton: "simple-slideshow-stop-17192280",
+    prevButton: "simple-slideshow-prev-17192280",
+    nextButton: "simple-slideshow-next-17192280",
+    viewInterval: 6000,
+    autoplay: false,
+    imageGroup: 'lightbox[parent17192280]',
+    captionContainer: 'slideshow-caption-container-17192280',
+    detailsContainer: 'slideshow-details-container-17192280',
+    imageText: '圖片',
+    ofText: '/'
+  }));
+</script>
+
+
+          <div class="newline"> </div>
+	</div>
+          <div class="newline"> </div>
+</div>
+	重慶30多歲男子高強在外工作多年，出資1000萬元在老家修建15棟、35戶小洋樓，送給5組村民。在昨日，長壽區石堰鎮興莊村5組蘇家祠堂鞭炮齊鳴，在歌聲陣陣中舉行入住儀式，35戶村民幸福住進新房。高強表示，下一步將再捐1000萬元，幫助村民發展產業致富。<p>據了解，高強捐建的強農園已更名強惠園，一排排依山而建、青瓦白牆的小洋樓非常醒目，家家戶戶連著寬闊的步道和梯坎。昨日上午，強惠園舉行簡單的入住儀式。35戶村民從長壽區、鎮領導幹部及高強手中接過鑰匙。從此，小洋房產權就歸他們所有。<p>人民日報報導，89歲的汪習珍隨著兒子分到一戶，老人拄著拐杖站在門外仔細端詳著自家的小洋房。「做夢都沒想到這輩子還能住新房。」汪婆婆說，她家老房子是新中國成立初分的地主家的木板房，60多年了，用稀泥和篾莢補漏，一間堂屋隔成兩間，一間給兒子、兒媳住，一間留給她和兩個孫女。老人說，這輩子一直想修房，可惜沒錢，是高強圓了她的新房夢。<p>另據重慶晚報報導，興莊村黨支部書記劉國瑞稱，這35戶村民分屬高、吳、王、蘇、楊、陳六個姓氏，並無高強本姓一家或親戚，鎮村幹部更沒有在其中。<p>興莊村黨支部書記劉國瑞稱，35戶村民住進小洋房後，下一步將結合宅基地復耕，採取農戶以土地、資金各占50%入股，組建專業合作社或農業公司，再選舉有管理能力的村民參與管理，集中土地、資金、人力發展種養業。對此，高強表示將再捐1000萬元幫助發展產業。高強說，他和家人將不會參與產業的具體經營管理，更不會在其中分紅。<p>報導指出，入住儀式上，高強拒絕上台發言。高強向來低調，去年4月27日，他捐建洋房的事披露後，他便拒絕媒體的進一步採訪。河北省四川商會常務副會長、石家莊市政協委員楊旭稱，高強在石家莊也資助過不少貧困兒童，汶川地震後還親赴災區抗震救災，但他從不邀請記者採訪，更拒絕上報上電視。<p>談起捐建小洋房的來歷，高強僅私下表示，2010年時，他在主城打算購買一套別墅，結果要花1000多萬元。高強說，花1000多萬元供一家幾個人住，要是在老家這筆錢可以為全組的村民蓋房子，最後就決定為村民捐建房子。			
+        <div class="newline"> </div>
+</div>
+
+		
+      <span id="copyright-container" style="display:none;">
+        <a rel="item-license" id="site_footer_container" href="#site_footer_container">Copyright 2012 世界新聞網-北美華文新聞、華商資訊. All rights reserved.</a>
+      </span>
+      
+	</div>
+	
+	
+	
+     </div>
+</div>
+
+    </div>
+      
+
+  </div>
+</div>
+<div id="content_container" align="left">	<div>
+	<div class="addthis_toolbox addthis_default_style">
+<div style="float:left"><g:plusone size="medium"></g:plusone></div>
+<a href="http://addthis.com/bookmark.php?v=250&amp;username=wjnybusiness" class="addthis_button_compact">分享</a>
+<span class="addthis_separator">|</span>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_gmail"></a>
+<a class="addthis_button_print"></a>
+<a class="addthis_button_favorites"></a>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_myspace"></a>
+<a class="addthis_button_plurk"></a>
+<a class="addthis_button_stumbleupon"></a>
+<span class="addthis_separator"> </span>
+<a class="addthis_button_facebook_like"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=wjnybusiness"></script>
+<script type="text/javascript">var addthis_config = {data_track_clickback: true}</script>
+
+</div>
+</div>
+</div></div>
+
+<div class="epaper">綜覽世界全局，觀看全真的<a href="http://epaper.worldjournal.com">世界日報電子報(ePaper)</a></div>
+
+<div>
+<div align="center"><div class="b46860"><script type="text/javascript">GA_googleFillSlot("NewsB_std1_468x60");</script></div></div>
+</div>
+
+<iframe id='sfFrame' frameborder='0' scrolling='no' width='665' height='270' src="http://www.worldjournal.com/pages/top_recommanded"></iframe>
+<div class="wj_pane"><div class="wj_pane_body"><div id="push_container" align="left">  <div style="" class="">
+    <div class="even">
+        <div class="" style="">
+        <div class="story_item">
+                <script type="text/javascript" language="javascript">
+  function updateChars(dom_id, remaining_chars_dom_id, max_length) {
+
+    var message_text = $(dom_id).value;
+    var remaining_characters = max_length - message_text.length;
+    if (remaining_characters < 0) {
+      message_text = message_text.substring(0, max_length);
+      $(dom_id).value = message_text;
+      remaining_characters = max_length - message_text.length;
+    }
+
+    $(remaining_chars_dom_id).innerHTML = remaining_characters;
+  }
+
+  function cancelAddComment(element) {
+    var parentElement = $(element).up('.comment_add');
+    parentElement.childElements()[0].remove();
+    parentElement.hide();
+  }
+
+  function removeComment(element) {
+    $(element).up('.comment').hide();
+  }
+</script>
+
+<div class="spacer"> </div>
+<div id="comments_container">
+  <a name="comments_17192280"></a>
+  <style type="text/css">
+
+#pt1_full_story #comments_container {
+  width:95%;
+}
+
+div#comments_container {
+  background:#F6F5F5 none repeat scroll 0%;
+  border:1px solid #DADADA;
+  margin-bottom:10px;
+  min-height:60px;
+  _height:60px;
+  padding:15px 2.5%;
+  width:95%;
+}
+
+.comment_header {
+  border: 1px;
+  border-color: #ddd;
+  background: #3C3C3C url('/images/arrow-notch.png') left center no-repeat;
+  color: #fff;
+  padding: 4px;
+  overflow: auto;
+  margin: 0 0 15px 0;
+}
+
+.comment_title {
+  float: left;
+  font-size: 17px;
+  margin: 0 4px 0 9px;
+}
+
+.comment_count {
+  font-size: 12px;
+  float: left;
+  padding-top: 1px;
+}
+
+.comment_post_link {
+  float: right;
+}
+
+.comment_post_link { 
+  float: right;
+  font-size: 14px;
+  margin-right: 8px;
+}
+
+.comment_post_link a, .comment_post_link a:visited { 
+  color: #fff;
+}
+
+.comment_add {
+  background: #FFFFFF none repeat scroll 0%;
+  border-color:#EDECEC #EDECEC #EDECEC #C1C1C1;
+  border-style:solid solid solid dotted;
+  border-width:1px;
+  padding: 15px;
+  margin: 0 0 20px 0;
+}
+
+div.comment {
+  background: #FFFFFF none repeat scroll 0%;
+  border-color:#EDECEC #EDECEC #EDECEC #C1C1C1;
+  border-style:solid solid solid dotted;
+  border-width:1px;
+  padding: 15px;
+  margin: 0 0 15px 0;
+}
+
+div.comment_reply {
+  margin-left: 30px;  
+}
+
+.comment_head {
+}
+
+.comment_author {
+  font-weight: bold; 
+  float:left;
+  font-size: 14px;
+}
+
+.comment_author a, .comment_author a:visited  {
+  color: #3C3C3C;
+}
+
+.comment_author_time_separator {
+   float:left;
+   padding: 0 7px;
+   color: #bbb;
+   font-size: 12px;
+}
+
+.comment_time {
+  float: left;
+  color: #777;
+  font-size: 11px;
+  padding-top: 1px;
+}
+
+.comment_body {
+  padding: 10px 0;
+  font-size: 13px;
+}
+
+.comment_foot {
+  margin-top: 5px;
+}
+
+.comment_reply_link {
+  float: left;  
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.comment_abuse {
+  float: right;  
+  font-size: 12px;
+}
+
+.comment_abuse a, .comment_abuse a:visited {
+  color: #c53949;
+}
+
+.comment_field_label {
+  font-weight: bold; 
+  font-size: 13px;
+  padding: 3px;
+}
+
+.comment_field {
+  padding-bottom: 10px;
+}
+
+.comment_field_char_count {
+  padding: 2px;
+  font-size: 12px;
+  font-weight: bold;  
+}
+
+.comment_field_bottom {
+  position: relative;
+  min-height: 170px;
+}
+
+.comment_field_captcha {
+  float: left;
+}
+
+.comment_field_buttons {
+  float: right;
+  position: absolute; 
+  right: 0;
+  bottom: 0;
+  width: 180p x;
+}
+
+.comment_notice {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.comment_none {
+  padding-bottom: 20px;
+}
+
+.comment_more {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.comment_errors {
+  font-size: 13px;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.comment_remove_link_separator {
+  padding: 0 5px;
+  color: #bbb;
+}
+
+.ui-form-field-instructions-short {
+  color: #888;
+  font-style: italic;
+  font-size: 11px;
+}
+
+</style>
+
+<script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+
+<div class="comment_header">
+  <a name="cb_post_comment_17192280"></a>
+  <div class="comment_title"> Comments</div>
+    <div class="comment_count">(0)</div>
+  <div class='comment_post_link'>
+    <a href="#" onClick="new Ajax.Updater('comment_17192280_add', '/community/content/show_comment_add?comment_character_limit=300&content_instance=17192280&secure_comments=true', {asynchronous:true, evalScripts:true});
+        window.location.hash = 'cb_post_comment_17192280'; $('comment_17192280_add').show(); return false;" >
+      <img alt="Comments-icon" src="http://assets.matchbin.com/images/comments-icon.png" />
+      Post a Comment
+    </a>
+  </div>
+</div>
+
+
+
+<div id="comment_17192280_add" class="comment_add" style='display: none;'>
+  
+</div>
+
+<div id="comments_0.968462430935584">
+</div>
+
+
+  <div class="comment">
+    <div class="comment_head comment_none">
+      <div class="comment_author" > 
+        No Comments Yet
+      </div>
+    </div>
+  </div>
+
+</div>
+
+        </div>
+</div>
+
+    </div>
+      
+
+  </div>
+</div></div></div>
+<div id="content_container" align="left">	<div>
+	<div style="margin:-18px 10px 5px;font-size:12px;padding:6px;line-height:120%;background:#F6F5F5;border:1px solid #ccc;clear:both;"><div>&bull;所有留言為網友自行上載發布，不代表本網站立場，並適用於<a href="http://www.worldjournal.com/tos" target="_new">本網站服務條款</a>，本網站保留刪除權。</div><div>&bull;留言與回覆討論不得有違法或侵害他人權益之言論，違者應自負法律責任。</div><div>&bull;凡「內容」重複張貼、無意義、與原文無關、明知不實、情緒謾罵之言論；凡「標題」涉及謾罵、髒話穢言、侵害他人權利，經網友檢舉或本網站發現，世界新聞網有權逕予刪除。不同意上述規範者，請勿張貼文章。</div></div>
+
+</div>
+</div>
+
+<div align="center"><div class="b46860"><script type="text/javascript">GA_googleFillSlot("NewsB_std2_468x60");</script></div></div>
+
+</div>
+<div id="wj_right">
+
+<div class="wjpad5pane">
+<div class="b300250"><script type="text/javascript">GA_googleFillSlot("NewsB_box_300x250");</script></div>
+<div class="b300250"><script type="text/javascript">GA_googleFillSlot("NewsB_box2_300x250");</script></div>
+<div class="b300250"><script type="text/javascript">GA_googleFillSlot("NewsB_box3_300x250");</script></div>
+</div><div class="newline"></div>
+</div></div>
+<div class="newline"></div>
+<div class="wj_footer"><div id="content_container" align="left">	<div>
+	<div align="center" class="fontMedium">服務：
+<!--<a href="http://www.worldjournal.com/promo">活動</a>-->
+<a href="http://www.worldjournal.com/sub-paper">訂報</a>
+　<a href="http://www.worldjournal.com/contribution">投稿</a>
+　<a href="http://www.worldjournal.com/about_us">關於我們</a>
+　<a href="http://www.worldjournal.com/contact_us">與我們聯絡</a>
+　<a href="http://www.worldjournal.com/epaper">ePaper</a>
+　<a href="http://blog.worldjournal.com">部落格</a>
+　<a href="http://yp.worldjournal.com">黃頁網</a>
+　<a href="http://classifieds.worldjournal.com">分類網</a>
+　<a href="http://www.wjads.com/pr/wjhiring/ny_editor.htm">工作機會</a>
+　廣告價目：<a href="http://www.worldjournal.com/wjad">報紙</a></div>
+<div align="center" class="fontMedium"><b>Service：</b>
+<a href="http://www.worldjournal.com/sub-paper">Subscription</a>
+　<a href="http://www.worldjournal.com/about_us-e">About Us</a>
+　<a href="http://www.worldjournal.com/contact_us-e">Contact Us</a>
+　<b>Ad Rates：</b><a href="http://www.worldjournal.com/wjad_e">Print</a>
+</div>
+<div align="center" class="fontSmall">世界新聞網版權所有，轉載必究 <a href="/pages/privacy" target="_new">隱私權政策</a> 
+All Rights Reserved. &copy;2011 <a href="http://www.worldjournal.com">worldjournal.com</a> Software &copy;2011 <a href="/pages/matchbin">Matchbin, Inc.</a></div>
+</div>
+</div></div></div>
+</div><div class="newline"></div></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var wjpgTracker = _gat._getTracker("UA-1278730-1");
+wjpgTracker._setDomainName(".worldjournal.com");
+wjpgTracker._setAllowHash(false);
+wjpgTracker._trackPageview();
+} catch(err) {}
+</script>
+
+<script type="text/javascript">
+var _sf_async_config={uid:10591,domain:"worldjournal.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+<script type="text/javascript">
+  if (typeof(_gat) == 'undefined') {
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  }
+</script>
+<script type="text/javascript">
+
+try {
+  var matchbinPageTracker = _gat._getTracker("UA-2581399-1");
+  matchbinPageTracker._setAllowHash(false);
+  matchbinPageTracker._trackPageview();
+} catch(e) {
+  
+}
+
+try {
+
+matchbinReloadAds = function() {
+  var allFrames = $$('iframe');
+  for (var i = 0; i < allFrames.length; i++) {
+    try {
+      var frame = allFrames[i];
+      //change the src of the iframe to reload ad 
+      var src = frame.src;
+      var new_src = src.replace(/&random_for_refresh.*$/, '') + "&random_for_refresh=" + Math.random();
+
+      if (!src.match(/ads.matchbin.com/)) {
+        next;
+      }
+
+      if (Prototype.Browser.IE) {
+        //replace the iframe to avoid browser history problems
+        var new_iframe = frame.cloneNode(true);
+        //new_iframe.id = '';
+        var new_src = src.replace(/&random_for_refresh.*$/, '') + "&random_for_refresh=" + Math.random();
+        new_iframe.src = new_src;
+        //prevent flicker when ads are refreshed
+        if (parseInt(navigator.userAgent.substring(navigator.userAgent.indexOf("MSIE")+5)) >= 8) {
+          $(new_iframe).observe('load', (function(event) {
+            new_iframe.style.visibility = '';
+            new_iframe.style.position = '';
+            new_iframe.stopObserving();
+            if (frame.parentNode) {
+              frame.parentNode.replaceChild(new_iframe, frame);
+            }
+            new_iframe.id = frame.id;
+          }).bind(this));
+          new_iframe.style.visibility = 'hidden';
+          new_iframe.style.position = 'absolute';
+          frame.parentNode.appendChild(new_iframe);
+        } else {
+          frame.parentNode.replaceChild(new_iframe, frame);
+          frame.parentNode.removeChild(frame);
+        }
+      } else {
+        frame.src = new_src;
+      }
+    } catch (e) {
+      
+    }
+  }
+}
+
+matchbinAjaxHook = (function(url) {
+  try {
+    if (url && url.match && url.match(/pages|default|comment/) && !url.match(/account|noreload|ad_frame/)) {
+      matchbinPageTracker._trackPageview(url);
+      if (window.pageTracker) {
+        window.pageTracker._trackPageview(url);
+      }
+      if (typeof(window.ajaxAnalyticsHook) == 'function') {
+        window.ajaxAnalyticsHook(url);
+      }
+      matchbinReloadAds();
+    }
+  } catch (e) {
+    
+  }
+}).bind(this);
+} catch(e) {
+  
+}
+</script>
+<script type="text/javascript">
+var showTynt = (("ht" + "tp:") == document.location.protocol);
+if (showTynt) {
+  var tyntVariables = {"ap":"Read more: "};
+  document.write(unescape("%3Cscript src='ht" + "tp://tcr.tynt.com/javascripts/Tracer.js?user=d56qUQzfGr34Onadbi-bpO&amp;su=0&amp;st=1' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+</body></html>

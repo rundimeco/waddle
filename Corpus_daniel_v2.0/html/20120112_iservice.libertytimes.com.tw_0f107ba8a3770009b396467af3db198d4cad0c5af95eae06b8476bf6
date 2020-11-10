@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>天冷抵抗力弱  齒源膿瘍患者多 - 自由電子報 即時新聞</title>
+<meta name="title" content="天冷抵抗力弱  齒源膿瘍患者多 - 自由電子報 即時新聞" />
+<meta name="description" content="〔中央社〕天冷溫差大，醫院牙科門診最近增加許多罹患齒源性膿瘍的患者；牙醫師表示，可能因身體抵抗力減弱且感冒者增多，有多名患者感染齒源性膿瘍未立即治療，引發顏面蜂" />
+<link rel="image_src" type="image/jpeg" href="http://www.libertytimes.com.tw/2008/images/img_auto/005/logo_new.gif" />
+<script type="text/javascript" src="/Js/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/Js/adopen.js"></script>
+<link rel="stylesheet" href="liveNews3.css?1">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2887146-9']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript">
+function setCookie(adjstr) 
+{　
+   nameValue=escape(adjstr + "$A#");
+　 document.cookie="ID=" + nameValue + ";";
+}
+
+function adjustFont(str)
+{
+	if (str == "big")
+	{
+		$('#newsti').attr('className',"news_title_big");
+		$('#newsc').attr('className',"news_content_big");
+		setCookie(str);
+	}
+	else if (str == "small")
+	{
+		$('#newsti').attr('className',"news_title");
+		$('#newsc').attr('className',"news_content");
+		setCookie(str);
+	}
+}
+
+window.onload = function ()
+{
+	cookieStr=unescape(document.cookie);
+	beginPos=cookieStr.indexOf("ID");
+	endPos=cookieStr.indexOf("$A#");
+
+	if (beginPos != -1)
+	{
+		IDname=cookieStr.substring( (beginPos +3) , endPos);
+		adjustFont(IDname);
+	}
+}
+</script>
+
+</head>
+<body>
+<div class="main">
+
+<div id="header">
+
+<a href="http://www.libertytimes.com.tw"><img src="images/logo01.gif" id="logo01" /></a>
+<div id="nav"><a href="http://iservice.libertytimes.com.tw/inform/complain_1.php?type=3" target="_blank">建議我們</a>│ <a href="http://www.libertytimes.com.tw/Service/ad.htm" target="_blank">廣告刊登</a>│ <a href="http://www.libertytimes.com.tw/2007/new/other/service/order.htm" target="_blank">訂報服務</a>│ <a href="http://www.libertytimes.com.tw/Service/recruit.htm" target="_blank">自由徵才</a>│ <a href="http://blog.libertytimes.com.tw/" target="_blank">Blog</a></div>
+<div class="ad"><script src="http://www.libertytimes.com.tw/js/ajs/BindexA03.js"></script></div>
+<hr />
+
+</div>
+
+<div id="news_block">	  <div id="breadcrumb">
+        <span style="float:left"><a href="http://www.libertytimes.com.tw">自由電子報</a> &gt; <a href="./">即時新聞總覽</a> &gt; <a href="list.php?type=%E7%94%9F%E6%B4%BB">生活</a></span>
+        <span style="float:right">2012年1月12日‧星期四</span>
+	  </div>
+      <div id="nav_live">
+        <div id="type_link"> <a href="list.php?type=%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E" style="color:#FF3300">即時新聞</a>│<a href="list.php?type=%E6%94%BF%E6%B2%BB">政治</a>│<a href="list.php?type=%E7%A4%BE%E6%9C%83">社會</a>│<a href="list.php?type=%E7%A7%91%E6%8A%80">科技</a>│<a href="list.php?type=%E5%9C%8B%E9%9A%9B">國際</a>│<a href="list.php?type=%E8%B2%A1%E7%B6%93">財經</a>│<a href="list.php?type=%E7%94%9F%E6%B4%BB">生活</a>│<a href="list.php?type=%E9%AB%94%E8%82%B2">體育</a>│<a href="list.php?type=%E5%BD%B1%E5%8A%87">影劇</a>│<a href="list.php?type=%E5%9C%B0%E6%96%B9">地方</a></div>
+         <div class="AAA"><a href="list2.php" class="list2" target="_blank">無障礙閱讀</a></div>
+      </div>
+    <table cellpadding="0" cellspacing="0" class="newsTb">
+      <thead>
+          <tr>
+            <th class="news_kind" width="20%">生活</th>
+             <td class="font_size" width="50%" valign="middle">字型：
+            <img src="images/font+.gif" name="adjustBig" align="" id="adjustBig" onClick="adjustFont('big')"><img src="images/font-.gif" name="adjustSmall" align="" id="adjustSmall" onClick="adjustFont('small')"></td>
+			<td id="nav_page" width="30%">&nbsp;</td>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+            <td class="body" colspan="3">
+			<div id="LB3"><script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLB03.js"></script></div>
+			<h2 id="newsti" class="news_title">天冷抵抗力弱  齒源膿瘍患者多 <span class="conttime">【16:15】</span></h2>
+            
+				              <div id="newsc" class="news_content">
+              〔中央社〕天冷溫差大，醫院牙科門診最近增加許多罹患齒源性膿瘍的患者；牙醫師表示，可能因身體抵抗力減弱且感冒者增多，有多名患者感染齒源性膿瘍未立即治療，引發顏面蜂窩性組織炎。<br />
+<br />
+  署立豐原醫院牙科醫師陳梅玉表示，在台灣感染顏面蜂窩性組織炎的患者，多是齒源性膿瘍所引起，且至門診就診的民眾很多都是牙齒初期有不舒服症狀卻未即時就醫，在抵抗力低時受到細菌感染而發病。<br />
+<br />
+  陳梅玉指出，最近豐原醫院收住院治療的10名患者中，就有9名因感染齒源性膿瘍所造成顏面蜂窩性組織炎，患者至門診就診時，臉部都已紅腫疼痛不堪，部分有感冒症狀者已服用藥物，因此抽血檢查時白血球數未必增加，但口腔內則常可見到齒源性膿瘍穿透齒槽骨流至周圍軟組織，造成局部齒齦有腫脹、膿竇出現。<br />
+<br />
+  醫師表示，有些患者還出現頸部淋巴腺腫大、壓痛，主要症狀是微量的牙痛後，伴隨連續不斷抽搐痛，或有偏頭痛產生，受感染處疼痛難耐，甚至連吃止痛藥都無效。<br />
+<br />
+  醫師指出，最近氣候多變早晚溫差大，當身體免疫系統減弱、抵抗力減弱時就容易受到細菌感染，尤其牙周病合併糖尿病史，或曾經蛀牙但未妥善治療者，更是此疾病的高危險群，嚴重者會不斷復發導致敗血症、菌血症，甚至影響生命，不可輕忽。              </div>
+            </td>
+          </tr></tbody>
+        </table>
+      <div id="LB2"><script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLB02.js"></script></div>
+      <script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLB01.js"></script>
+      <div class="top"><a href=#><img src="images/top_button.gif" border="0" /></a></div>
+    </div>
+    <div id="adc">
+    <div id="LC1"><script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC01.js"></script></div>
+<script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC02.js"></script>
+<script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC03.js"></script>
+<div id="LC4"><script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC04.js"></script></div>
+<script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC05.js"></script>    </div>
+  
+  <div id="footer"><a href="http://iservice.libertytimes.com.tw/inform/complain_1.php?type=3" target="_blank">連絡我們</a> | 爆料傳真 0809-006-667 | 自由電子報 版權所有 © 2012 The Liberty Times. All Rights Reserved.
+  </div>
+  
+  </div>
+
+</body>
+</html>
+

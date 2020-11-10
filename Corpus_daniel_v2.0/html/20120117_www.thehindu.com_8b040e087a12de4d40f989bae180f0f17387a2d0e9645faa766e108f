@@ -1,0 +1,1128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<script type="text/javascript">
+try {
+var MSTAC = new Object();
+MSTAC.murl = "http://m.thehindu.com";
+MSTAC.d = ".thehindu.com";
+if ((document.cookie.search("mstac=desktop") != -1) || (document.cookie.search("mstac_override=1") != -1)) {} else if (window.location.search.search("mstac=0") != -1) {
+document.cookie = 'mstac_override=1; path=/; domain=' + MSTAC.d;
+} else {
+var ms = document.createElement('script'); ms.type = 'text/javascript';
+ms.src = MSTAC.murl + "/m/fastredirect/";
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ms, s);
+}
+} catch(err) {}
+</script>
+<title>
+The Hindu : Health / Policy & Issues : Central team examines drug-resistant TB cases
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<LINK rel="shortcut icon" type="image/x-icon" href="http://www.thehindu.com/template/1-0-1/gfx/favicon.ico">
+<LINK rel="icon" type="image/ico" href="http://www.thehindu.com/template/1-0-1/gfx/favicon.ico">
+<meta name="application-name" content="The Hindu" />
+<meta name="msapplication-starturl" content="http://www.thehindu.com/" />
+<meta name="msapplication-task" content="name=News; action-uri=http://www.thehindu.com/news/; icon-uri=http://www.thehindu.com/template/1-0-1/gfx/favicon.ico" />
+<meta name="msapplication-task" content="name=Opinion; action-uri=http://www.thehindu.com/opinion/; icon-uri=http://www.thehindu.com/template/1-0-1/gfx/favicon.ico" />
+<meta name="msapplication-task" content="name=Sport; action-uri=http://www.thehindu.com/sport/; icon-uri=http://www.thehindu.com/template/1-0-1/gfx/favicon.ico" />
+<meta name="msapplication-task" content="name=Business; action-uri=http://www.thehindu.com/business/; icon-uri=http://www.thehindu.com/template/1-0-1/gfx/favicon.ico" />
+<meta name="msapplication-task" content="name=Subscribe to RSS; action-uri=http://www.thehindu.com/health/policy-and-issues/?service=rss; icon-uri=http://www.thehindu.com/template/1-0-1/gfx/favicon.ico" />
+<meta name="author" content="PTI" /> <meta name="keywords" content="disease,tuberculosis,health,government health care,Drug-Resistant TB, tuberculosis, Totally Drug-Resistant TB, WHO, Extensively Drug-Resistant TB" />
+<meta rel="link" id="http://www.thehindu.com/health/policy-and-issues/article2808498.ece" /> <link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/styles.css" media="screen, handheld, projection"/>
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/ie6.css" />
+<![endif]-->
+<!--[if gt IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/ie.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/print.css" media="print"/>
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/jquery-ui-1.7.2.custom.css" media="screen"/>
+<!-- Web Rupee starts -->
+<!-- Web Rupee ends -->
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/swfobject.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/swissarmy.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/formValidator.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/flowplayer-3.1.1.min.js"></script>
+<!--TAB JAVASCRIPT-->
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery.jcarousel.pack.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+//TABS -- MOST POPULAR
+$("#most-tab-header a").click(function () {
+return false;
+});
+$("a#th1").click(function () {
+showTab(1);
+});
+$("a#th2").click(function () {
+showTab(2);
+});
+showTab(1);
+//TABS -- JOBS/REAL ESTATE
+$("#jobs-tab-header a").click(function () {
+return false;
+});
+$("a#th3").click(function () {
+showJTab(3);
+});
+$("a#th4").click(function () {
+showJTab(4);
+});
+showJTab(3);
+//TABS -- BLOG
+$("#blog-tab-header a").click(function () {
+return false;
+});
+$("a#th5").click(function () {
+showBTab(5);
+});
+$("a#th6").click(function () {
+showBTab(6);
+});
+showBTab(5);
+//CAROUSELS
+$('#multimedia-carousel .mycarousel').jcarousel({scroll: 4,visible: 4});
+$('.multimedia-carousel .mycarousel').jcarousel({scroll: 2});
+$('#topics-carousel .mycarousel,#people-carousel .mycarousel,#video-carousel .mycarousel,#photos-carousel .mycarousel').jcarousel({scroll: 5});
+//CSS HELP
+$(".columnists-listing-left a:even").css("padding-right", "25px");
+$(".columnists-listing-left a:odd:not(:last)").after("<div class='line two10'></div>");
+$("#getting-around-links a:even").css("padding-right", "20px");
+$(".life-right .pick:last-child").css({border:"none", margin:"0", padding:"0"});
+});
+function showTab(num) {
+$("#most-tab .tab").css("display", "none");
+$("#most-tab .tab" + num).css("display", "block");
+$("#most-tab-header a").removeClass("active");
+$("#most-tab-header a#th" + num).addClass("active");
+}
+function showJTab(num) {
+$("#jobs-tab .tab").css("display", "none");
+$("#jobs-tab .tab" + num).css("display", "block");
+$("#jobs-tab-header a").removeClass("active");
+$("#jobs-tab-header a#th" + num).addClass("active");
+}
+function showBTab(num) {
+$("#blog-tab .tab").css("display", "none");
+$("#blog-tab .tab" + num).css("display", "block");
+$("#blog-tab-header a").removeClass("active");
+$("#blog-tab-header a#th" + num).addClass("active");
+}
+</script>
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "11398210" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=11398210&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div id="container">
+<div id="topstrip">
+<div id="topstrip-site-map">
+<div id="c99">
+<span class="c98">
+<a href="http://www.thehindu.com/navigation/?type=static&page=archive" title="Archives">Archives</a>
+<a href="http://www.thehindu.com/navigation/?type=static&page=subs" title="Subscriptions">Subscriptions</a>
+<a href="http://www.thehindu.com/navigation/?type=rss" title="RSS Feeds">RSS Feeds</a>
+<a href="http://www.thehindu.com/navigation/?type=sitemap" title="Site Map">Site Map</a>
+<a href="http://epaper.thehindu.com/" title="ePaper">ePaper</a>
+<a href="http://m.thehindu.com" title="Mobile">Mobile</a>
+<a href="http://www.thehindu.com/social/" title="Social">Social</a>
+</span>
+</div>
+</div>
+</div>
+<div id="header-nav">
+<form id="simpleSearchForm" method="post" action="http://www.thehindu.com/search/simple.do;jsessionid=867C2765EB5CA650A76FC24E65BAEF99.route03">
+<fieldset>
+<input type="hidden" name="publicationId" value="4" />
+<input type="hidden" name="includeSectionId" value="11" />
+<input type="hidden" name="articleType" value="news" />
+<input type="hidden" name="articleType" value="review" />
+<input type="hidden" name="articleType" value="slideshow" />
+<input type="hidden" name="articleType" value="flash" />
+<input type="hidden" name="articleType" value="url" />
+<input type="hidden" name="articleType" value="google-map" />
+<input type="hidden" name="articleType" value="webcam" />
+<input type="hidden" name="articleType" value="columns" />
+<input type="hidden" name="articleType" value="letters" />
+<input type="hidden" name="articleType" value="interview" />
+<input type="hidden" name="articleType" value="feature" />
+<input type="hidden" name="articleType" value="editorial" />
+<input type="hidden" name="articleType" value="audio" />
+<input type="hidden" name="articleType" value="video" />
+<input type="hidden" name="articleType" value="opinion" />
+<input type="hidden" name="articleType" value="archive" />
+<input type="hidden" name="pageLength" value="10" />
+<input type="hidden" name="sortString" value="by_date_desc" />
+<input type="hidden" name="optimized" value="false" />
+<input type="hidden" name="stemType" value="stemmed" />
+<input type="hidden" name="searchEngineName" value="HinduIndex" />
+<span>SEARCH</span>
+<input type="text" name="searchString" size="20" value="" id="searchString" class="text" />
+<input type="submit" value="GO" class="submit" />
+</fieldset>
+</form>
+</div>
+<div id="header">
+<div id="headerlogo">
+<a href="http://www.thehindu.com/"><img src="http://www.thehindu.com/template/1-0-1/gfx/logo.jpg" alt="Return to frontpage"/></a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="nav-bar">
+<a href="http://www.thehindu.com/" title="Home, The India Cables, The Pakistan Cables">Home</a>
+<a href="http://www.thehindu.com/news/" title="News, Cities, International, National, Resources, States, The India Cables, The Pakistan Cables">News</a>
+<a href="http://www.thehindu.com/opinion/" title="Opinion, Cartoon, Columns, Editorial, Interview, Lead, Letters, Op-Ed, Open Page, Readers' Editor">Opinion</a>
+<a href="http://www.thehindu.com/sport/" title="Sport, Athletics, Cricket, Football, Formula One, Hockey, Motorsport, Other Sports, Races, Scores, Tennis">Sport</a>
+<a href="http://www.thehindu.com/business/" title="Business, Companies, Economy, Industry, Markets, Stock Quotes">Business</a>
+<a href="http://www.thehindu.com/arts/" title="Arts, Art, Books, Cinema, Crafts, Dance, History & Culture, Magazine, Music, Radio & TV, Theatre">Arts</a>
+<a href="http://www.thehindu.com/life-and-style/" title="Life & Style, Fashion, Food, Homes & Gardens, Kids, Leisure, Metroplus, Money & Careers, Motoring, Nxg, Religion, Society, Travel, Youth">Life &amp; Style</a>
+<a href="http://www.thehindu.com/sci-tech/" title="S & T, Agriculture, Energy & Environment, Gadgets, Internet, Science, Technology">S &amp; T</a>
+<a href="http://www.thehindu.com/education/" title="Education, Careers, College & University, Issues, Know Your English, Research, School">Education</a>
+<a href="http://www.thehindu.com/health/" title="Health, Diet & Nutrition, Fitness, Medicine & Research, Policy & Issues, Rx" class="active">Health</a>
+<a href="http://www.thehindu.com/shine-jobs/" title="Jobs">Jobs</a>
+<a href="http://www.thehindu.com/classifieds/" title="Classifieds">Classifieds</a>
+<a href="http://www.thehindu.com/todays-paper/" title="Today's Paper, NATIONAL, INTERNATIONAL, OPINION, BUSINESS, SPORT, MISCELLANEOUS, INDEX, FEATURES">Today&#039;s Paper</a>
+<a href="http://www.thehindu.com/topics/" title="Topics">Topics</a>
+<div class="clear"></div>
+</div>
+<div id="subnav-bar">
+<a href="http://www.thehindu.com/health/diet-and-nutrition/" title="Diet & Nutrition">Diet &amp; Nutrition</a>
+<a href="http://www.thehindu.com/health/fitness/" title="Fitness">Fitness</a>
+<a href="http://www.thehindu.com/health/medicine-and-research/" title="Medicine & Research">Medicine &amp; Research</a>
+<a href="http://www.thehindu.com/health/policy-and-issues/" title="Policy & Issues" class="active">Policy &amp; Issues</a>
+<a href="http://www.thehindu.com/health/rx/" title="Rx">Rx</a>
+<div class="clear"></div>
+</div> <div id="content">
+<!-- LEFT COLUMN -->
+<div id="left-column">
+<div>
+<span class="breadcr">
+<h3 class="artbcrumb">
+<a href="http://www.thehindu.com/health/">Health</a>
+&raquo; <span><a href="http://www.thehindu.com/health/policy-and-issues/">Policy &amp; Issues</a></span>
+</h3>
+</span>
+<span class="dateline">
+<span class="upper">
+Mumbai,
+</span>
+January 17, 2012
+</span>
+</div>
+<div class="line zero15"></div>
+<h1 class="detail-title">Central team examines drug-resistant TB cases</h1>
+<script type="text/javascript">
+var addthis_pub = "thehindu";
+</script>
+<span class="author">PTI</span>
+<div class="detail-info">
+<div class="article-links">
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">
+var addthis_config = {
+"data_track_clickback":true, ui_click: true,
+services_compact: 'facebook,twitter, email, favorites, gmail, hotmail, blogger, instapaper, wordpress, more',
+}
+</script> <a href="http://www.addthis.com/bookmark.php?v=20"
+onclick="return addthis_open(this, '', '[URL]', '[TITLE]')"
+onmouseout="addthis_close()" title="Share this Article">Share</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+<!-- AddThis Button END -->
+<a href="?homepage=true&css=print" title="Print">print</a> &nbsp;&nbsp;·&nbsp;&nbsp; <script language="javascript" type="text/javascript">
+var min=8;
+var max=18;
+var min1=18;
+var max1=24; /* set cookie functions */
+function setCookie (name,value,days) {
+if (days)
+{
+var date = new Date();
+date.setTime(date.getTime()+(days*24*60*60*1000));
+var expires = "; expires="+date.toGMTString();
+}
+else var expires = "";
+document.cookie = name+"="+value+expires+"; path=/";
+}
+function getCookie (name) {
+var nameEQ = name + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++)
+{
+var c = ca[i];
+while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+}
+return null;
+}
+function increaseFontSize() {
+var temp=document.getElementById('inc').innerHTML
+if(temp=="T-")
+decreaseFontSize();
+else
+{
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+if(p[i].style.fontSize) {
+var s = parseInt(p[i].style.fontSize.replace("px",""));
+} else {
+var s = 18;
+}
+if(s!=max) {
+s = 18;
+}
+if(p[i].style.lineHeight) {
+var t = parseInt(p[i].style.lineHeight.replace("px","")); } else {
+var t = 24; }
+if(t!=max1) {
+t = 24; } p[i].style.fontSize = s+"px"
+p[i].style.lineHeight = t+"px"
+}
+document.getElementById('inc').innerHTML="T-";
+}
+// save the font size in a cookie for one day
+setCookie('fontsize', s, 1);
+setCookie('lineheight', t, 1);
+}
+function decreaseFontSize() {
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+if(p[i].style.fontSize) {
+var s = parseInt(p[i].style.fontSize.replace("px",""));
+} else {
+var s = 14;
+}
+if(s!=min) {
+s =14;
+}
+if(p[i].style.lineHeight) {
+var t = parseInt(p[i].style.lineHeight.replace("px","")); } else {
+var t = 18; }
+if(t!=min1) {
+t = 18; } p[i].style.lineHeight = t+"px"
+p[i].style.fontSize = s+"px"
+} document.getElementById('inc').innerHTML="T+";
+// save the font size in a cookie for one day
+setCookie('fontsize', s, 1);
+setCookie('lineheight', t, 1);
+}
+window.onload = function() {
+// if the cookie exists, restore the variable
+var fontsize = getCookie('fontsize');
+var lineheight = getCookie('lineheight'); if (fontsize) {
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+document.getElementsByTagName('p')[i].style.fontSize = fontsize + 'px' }
+}
+if (lineheight) {
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+document.getElementsByTagName('p')[i].style.lineHeight = lineheight + 'px' }
+}
+}
+if(getCookie('fontsize') == "18")
+{
+<!--
+document.write('<a href="#" onclick="javascript:increaseFontSize();" title="Change Text Size" id="inc">T-</a>&nbsp;&nbsp;');
+-->
+}
+else
+{
+<!--
+document.write('<a href="#" onclick="javascript:increaseFontSize();" title="Change Text Size" id="inc">T+</a>&nbsp;&nbsp;');
+-->
+}
+</script>
+<NOSCRIPT>
+<a href="http://www.thehindu.com/health/policy-and-issues/article2808498.ece?textsize=large&test=1" title="Large Text Size" >T+</a>&nbsp;&nbsp;·&nbsp;&nbsp; <a href="http://www.thehindu.com/health/policy-and-issues/article2808498.ece?textsize=small&test=2" title="Small Text Size">T-</a>
+</NOSCRIPT> </div> </div>
+<script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+<div class="art-horizantal-colored"><div id="hcenter">
+<img src="http://www.thehindu.com/multimedia/dynamic/00895/VBK-TB_895488f.jpg" class="main-image" alt="A person suffering from multi-drug-resistant tuberculosis listens to a social worker at his home, on the outskirts of Mumbai on Monday." title="A person suffering from multi-drug-resistant tuberculosis listens to a social worker at his home, on the outskirts of Mumbai on Monday."/></div></div>
+<div class="photo-caption">
+<span class="photo-source">AP</span>
+A person suffering from multi-drug-resistant tuberculosis listens to a social worker at his home, on the outskirts of Mumbai on Monday.
+</div>
+<div class="line zero15"></div>
+<div id="article-block">
+<div class="article-text">
+<div class="articleLead">
+</div>
+<p class="body">
+A team of doctors, deputed by the Union Health Ministry, has reached Mumbai to ascertain facts about the reported cases of drug-resistant TB cases. </p>
+<p class="body">
+The Ministry says the cases should be called &#8216;Extensively Drug-Resistant TB&#8217; (XDR-TB) and not &#8216;Totally Drug-Resistant TB&#8217; (TDR-TB) as per WHO norms, an official release said. </p>
+<p class="body">
+The central team has started analysis of the situation and is in touch with the health authorities of Maharashtra, Mumbai Municipal Corporation, while also involving experts from concerned stake-holders, including the Hinduja Hospital, Mumbai. </p>
+<p class="body">
+Hinduja hospital is not accredited to diagnose XDR or TDR, the release said. </p>
+<p class="body">
+&#8220;So far as the report from Hinduja Hospital is concerned, this Hospital Laboratory is not accredited by the Revised National Tuberculosis Control Programme, for culture and sensitivity for second line drugs to diagnose Extensively Drug-Resistant (XDR)/Totally Drug-Resistant (TDR) cases and is only accredited for conducting Drug Susceptibility Testing (DST) by liquid culture and sensitivity for first line drug only,&#8221; it said. </p>
+<p class="body">
+Recently, a proposal for accreditation of Line Probe Assay (LPA) test has been received and is under process, it added. </p>
+<p class="body">
+As of now, the Revised National TB Control Programme has accredited only following three labs for conducting quality- assured second-line anti-TB drug susceptibility testing of flouroquinolones and injectables &#8212; National TB Institute (NTI), Bangalore; LRS Institute of TB and Chest Disease, New Delhi, and National Institute of Research in Tuberculosis, Chennai. </p>
+<p class="body">
+The use of term TDR - Totally Drug-Resistant is non-standardised and misleading, according to the statement. </p>
+<p class="body">
+The term &#8220;totally drug-resistant&#8221; tuberculosis is neither recognised by the WHO, nor by the Revised National Tuberculosis Control Programme (RNTCP), it said. </p>
+<p class="body">
+&#8220;For now, these cases are defined as Extensively Drug-Resistant Tuberculosis (XDR-TB), according to WHO definitions, and accordingly, can be managed by national XDR-TB treatment guidelines,&#8221; it added. </p>
+<p class="body">
+Testing for resistance beyond XDR-TB is not advocated by WHO and poor clinical response to treatment has not yet been correlated with diagnosis of drug-resistant TB, without laboratory conformation from Accredited Labs. </p>
+<p class="body">
+Multi-Drug-Resistant (MDR-TB) is defined as resistance to at least isoniazid and rifampicin (two of the most potent first line anti-TB drugs), with or without resistance to other first-line drugs, it said. </p>
+<p class="body">
+Extensively, Drug-Resistant TB (XDR-TB) is defined as resistance to at least Rifampicin, Isoniazid (i.e. MDR-TB) plus resistance to any fluoroquinolone, and to any of the 3 second-line injectable drugs (capreomycin, kanamycin and amikacin). </p>
+<p class="body">
+Current WHO recommendations advise against the use of the Drug Susceptibility Testing (DST) results for second line drugs beyond those used to identify XDR-TB to guide treatment. </p>
+<p class="body">
+Any type of Drug-Resistant TB can only be diagnosed by Laboratory Test and not by clinical examination alone. </p>
+<p class="body">
+Preliminary results of second-line DST for MDR-TB patients from DOTS Plus sites and also isolates collected from Gujarat and Maharashtra drug resistance surveys show that there is not yet any XDR-TB among new cases, it said. </p>
+<script type="text/javascript">
+$(function() {
+$('#articleKeywords a').click( function() { var keyword = $(this).text();
+if (keyword.indexOf(' ') != -1)
+$('input#searchString').attr("value", '"' + keyword + '"');
+else
+$('input#searchString').attr("value", keyword);
+$('#simpleSearchForm').submit();
+return false;
+});
+});
+</script>
+<div id="articleKeywords"><p>Keywords: <a href="#">Drug-Resistant TB</a>,&nbsp;<a href="#">tuberculosis</a>,&nbsp;<a href="#">Totally Drug-Resistant TB</a>,&nbsp;<a href="#">WHO</a>,&nbsp;<a href="#">Extensively Drug-Resistant TB</a></p></div>
+<div id="addshare">
+<div class="line1"></div>
+<div class="fb-share">	<a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+</div>	<div class="fb-like" data-href="http://www.thehindu.com/health/policy-and-issues/article2808498.ece" data-send="true" data-layout="button_count" data-show-faces="true" data-font="arial"> </div>
+<div class="twit">
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script> </div>
+<div class="gplus">	<g:plusone size="medium"></g:plusone>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+<div class="twit1">	<script type="text/javascript">
+var addthis_config = {
+"data_track_clickback":true, ui_click: true,
+services_compact: 'email, favorites, gmail, hotmail, blogger, instapaper, wordpress, more',
+services_exclude: 'facebook,twitter'
+}
+</script>
+</div>
+<div class="twit1">
+<a href="http://addthis.com/bookmark.php?v=250&amp;username=thehindu" class="addthis_counter addthis_pill_style" title="Share via more services"></a>
+</div>	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=thehindu"></script> </div>	<div class="line2"></div>
+<script language="JavaScript">
+<!--
+// These variables are for maintaining state when using ad skip
+var google_num_ads = 0;
+var google_last_ad_type = '';
+function google_ad_request_done(google_ads) {
+/*
+* This function is required and is used to display
+* the ads that are returned from the JavaScript
+* request. You should modify the document.write
+* commands so that the HTML they write out fits
+* with your desired ad layout.
+*/
+var s;
+/*
+* Verify that there are actually ads to display.
+*/
+if (google_ads.length == 0)
+return;
+google_num_ads += google_ads.length;
+google_last_ad_type = google_ads[0].type;
+/*
+* If an image or Flash ad is returned, display that ad.
+* If a rich media ad is returned, display that as "as is."
+* Otherwise, build a string containing all of the ads and
+* then use a document.write() command to print that string.
+*/
+s = '<div class="ad_label"><a class="ad_attribution" href="'+
+google_info.feedback_url+'">Ads by Google</a></div>';
+if (google_ads[0].type == "image") {
+s += '<a href="' + google_ads[0].url +
+'" target="_top" title="go to ' + google_ads[0].visible_url +
+'"><img border="0" src="' + google_ads[0].image_url +
+'"width="' + google_ads[0].image_width +
+'"height="' + google_ads[0].image_height + '"></a>';
+}
+else if (google_ads[0].type == "flash") {
+s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+' WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height + '">' +
+'<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">' +
+'<PARAM NAME="quality" VALUE="high">' +
+'<PARAM NAME="AllowScriptAccess" VALUE="never">' +
+'<EMBED src="' + google_ad.image_url +
+'" WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height +
+'" TYPE="application/x-shockwave-flash"' +
+' AllowScriptAccess="never" ' +
+' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+}
+else if (google_ads[0].type == "html") {
+s += google_ads[0].snippet;
+}
+else if (google_ads[0].type == "text") {
+// Adjust text sizes to occupy the majority of ad space.
+if (google_ads.length == 1) {
+ad_title_class = 'ad_title_large';
+ad_text_class = 'ad_text_large';
+ad_url_class = 'ad_url_large';
+} else {
+ad_title_class = 'ad_title';
+ad_text_class = 'ad_text';
+ad_url_class = 'ad_url';
+}
+for(var i=0; i < google_ads.length; i++) {
+s += '<div class="ad_background"><br><a class="' + ad_title_class + '" href="' + google_ads[i].url + '" >' +
+google_ads[i].line1 + '</a><br><span class="' + ad_text_class + '">' +
+google_ads[i].line2 + ' ' +
+google_ads[i].line3 + '</span><br>' +
+'<a class="' + ad_url_class + '" href="' + google_ads[i].url + '" >' +
+google_ads[i].visible_url + '</a><br></div>';
+}
+}
+document.write(s);
+return;
+}
+// -->
+</script>
+<script language="JavaScript">
+<!--
+/*
+* This section is responsible for setting the parameters of the ad call
+* Customize this section to your needs with input from your account manager
+*/
+// The following parameters should be modified appropriately
+google_ad_client = 'ca-hindu_site_html'; // substitute your client_id
+google_ad_channel = 'newth_article_main_text_468x60'; // substitute your channel
+google_ad_output = 'js'; // leave this value as js
+google_max_num_ads = '3'; // specify the number of maximum ads
+google_ad_type = 'text'; // type of ads to display - text,image,flash,html
+google_safe = 'high'; // specify the ad safety
+google_feedback = 'on';
+// The following parameter is required if you are displaying image, Flash or rich media ads.
+google_image_size = '468x60'; // the size of the ad block
+// The following parameters are options you can specify as necessary
+// google_encoding = 'utf8'; // specify the output language of the ads
+// google_language = 'en'; // override the default page language
+// The following parameter should be used only during testing
+// google_adtest = 'on'; // remove this line on launch day
+// -->
+</script>
+<!--
+/*
+* The JavaScript returned from the following page uses
+* the parameter values assigned above to populate an array
+* of ad objects. Once that array has been populated,
+* the JavaScript will call the google_ad_request_done
+* function to display the ads.
+*/
+-->
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div class="noline"></div>
+</div>
+<div class="related-column">
+<h2>Related</h2>
+<div class="related-section">
+</div>
+<div class="related-section">
+</div>
+<div class="related-section">
+</div>
+<div class="related-section">
+<h2>NEWS</h2>
+<a href="http://www.thehindu.com/news/national/article2729751.ece" title="Updated: December 20, 2011 at 00:47 IST &#013;
+Published: December 20, 2011 at 00:47 IST &#013;
+in NATIONAL" alt="Updated: December 20, 2011 at 00:47 IST &#013;
+Published: December 20, 2011 at 00:47 IST &#013;
+in NATIONAL">Are the days of incurable diseases really over? </a> <a href="http://www.thehindu.com/sci-tech/article2633406.ece" title="Updated: November 17, 2011 at 02:59 IST &#013;
+Published: November 17, 2011 at 02:38 IST &#013;
+in SCI-TECH" alt="Updated: November 17, 2011 at 02:59 IST &#013;
+Published: November 17, 2011 at 02:38 IST &#013;
+in SCI-TECH">New TB treatment limits infection while reducing drug resistance</a> </div>
+<div class="related-section">
+</div>
+<div class="related-section">
+</div>
+<div class="related-section related-tags">
+<h2>TOPICS</h2>
+<a class="bold" href="http://www.thehindu.com/topics/?categoryId=1074">disease</a>
+<a href="http://www.thehindu.com/topics/?categoryId=1094">tuberculosis</a>
+<br/>
+<a class="bold" href="http://www.thehindu.com/topics/?categoryId=1073">health</a>
+<a href="http://www.thehindu.com/topics/?categoryId=1098">government health care</a>
+<br/>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<!-- end article block -->
+<div class="clear"></div>
+<div id="email-section">
+<a href="mailto:letters@thehindu.co.in" title="Email the Editor ">Email the Editor</a> </div>
+<div class="line"></div>
+<!-- end comment section -->
+</div>
+<!-- close left column -->
+<!-- START RIGHT COLUMN -->
+<!-- when there is no content in area9 in the current section, content from area9 of the parent section will be used in the current section. -->
+<!-- when there is no content in area9 even in the parent section, content from area9 of the right-bar-section will be used in the current section. -->
+<!-- start right column -->
+<div id="right-column">
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<script type="text/javascript">
+<!--
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/pdindthehindu/ROS_MPU7;sz=300x250;ord=' + ord + '?"><\/script>');
+//-->
+</script>
+</div>
+<!-- END AD -->
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<!-- begin ad tag -->
+<script type="text/javascript">
+<!--
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/pdindthehindu/ROS_MPU1;sz=300x250;ord=' + ord + '?"><\/script>');
+//-->
+</script>
+<noscript><a href="http://ad.doubleclick.net/jump/pdindthehindu/ROS_MPU1;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/pdindthehindu/ROS_MPU1;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->
+</div>
+<!-- END AD -->
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<script language="JavaScript">
+var zflag_nid="1185"; var zflag_cid="1141"; var zflag_sid="356"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; </script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+</div>
+<!-- END AD -->
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<script language="JavaScript">
+<!--
+// These variables are for maintaining state when using ad skip
+var google_num_ads = 0;
+var google_last_ad_type = '';
+function google_ad_request_done(google_ads) {
+/*
+* This function is required and is used to display
+* the ads that are returned from the JavaScript
+* request. You should modify the document.write
+* commands so that the HTML they write out fits
+* with your desired ad layout.
+*/
+var s;
+/*
+* Verify that there are actually ads to display.
+*/
+if (google_ads.length == 0)
+return;
+google_num_ads += google_ads.length;
+google_last_ad_type = google_ads[0].type;
+/*
+* If an image or Flash ad is returned, display that ad.
+* If a rich media ad is returned, display that as "as is."
+* Otherwise, build a string containing all of the ads and
+* then use a document.write() command to print that string.
+*/
+s = '<div class="ad_label"><a class="ad_attribution" href="'+
+google_info.feedback_url+'">Ads by Google</a></div>';
+if (google_ads[0].type == "image") {
+s += '<a href="' + google_ads[0].url +
+'" target="_top" title="go to ' + google_ads[0].visible_url +
+'"><img border="0" src="' + google_ads[0].image_url +
+'"width="' + google_ads[0].image_width +
+'"height="' + google_ads[0].image_height + '"></a>';
+}
+else if (google_ads[0].type == "flash") {
+s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+' WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height + '">' +
+'<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">' +
+'<PARAM NAME="quality" VALUE="high">' +
+'<PARAM NAME="AllowScriptAccess" VALUE="never">' +
+'<EMBED src="' + google_ad.image_url +
+'" WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height +
+'" TYPE="application/x-shockwave-flash"' +
+' AllowScriptAccess="never" ' +
+' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+}
+else if (google_ads[0].type == "html") {
+s += google_ads[0].snippet;
+}
+else if (google_ads[0].type == "text") {
+// Adjust text sizes to occupy the majority of ad space.
+if (google_ads.length == 1) {
+ad_title_class = 'ad_title_large';
+ad_text_class = 'ad_text_large';
+ad_url_class = 'ad_url_large';
+} else {
+ad_title_class = 'ad_title';
+ad_text_class = 'ad_text';
+ad_url_class = 'ad_url';
+}
+for(var i=0; i < google_ads.length; i++) {
+s += '<div class="ad_background"><br><a class="' + ad_title_class + '" href="' + google_ads[i].url + '" >' +
+google_ads[i].line1 + '</a><br><span class="' + ad_text_class + '">' +
+google_ads[i].line2 + ' ' +
+google_ads[i].line3 + '</span><br>' +
+'<a class="' + ad_url_class + '" href="' + google_ads[i].url + '" >' +
+google_ads[i].visible_url + '</a><br></div>';
+}
+}
+document.write(s);
+return;
+}
+// -->
+</script>
+<script language="JavaScript">
+<!--
+/*
+* This section is responsible for setting the parameters of the ad call
+* Customize this section to your needs with input from your account manager
+*/
+// The following parameters should be modified appropriately
+google_ad_client = 'ca-hindu_site_html'; // substitute your client_id
+google_ad_channel = 'newth_home_sidebar_image_300x250'; // substitute your channel
+google_ad_output = 'js'; // leave this value as js
+google_max_num_ads = '3'; // specify the number of maximum ads
+google_ad_type = 'image'; // type of ads to display - text,image,flash,html
+google_safe = 'high'; // specify the ad safety
+google_feedback = 'on';
+// The following parameter is required if you are displaying image, Flash or rich media ads.
+google_image_size = '300x250'; // the size of the ad block
+// The following parameters are options you can specify as necessary
+// google_encoding = 'utf8'; // specify the output language of the ads
+// google_language = 'en'; // override the default page language
+// The following parameter should be used only during testing
+// google_adtest = 'on'; // remove this line on launch day
+// -->
+</script>
+<!--
+/*
+* The JavaScript returned from the following page uses
+* the parameter values assigned above to populate an array
+* of ad objects. Once that array has been populated,
+* the JavaScript will call the google_ad_request_done
+* function to display the ads.
+*/
+-->
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<!-- END AD -->
+<!-- PHOTO GALLERY -->
+<!-- START PHOTO-GALLERY -->
+<div class="right-touts photo-gallery">
+<h5>
+Slideshow
+</h5>
+<a href="http://www.thehindu.com/news/states/tamil-nadu/article2805789.ece"><img class="bordered-image" src="http://www.thehindu.com/multimedia/dynamic/00894/16TH_JALLIKATTU8_894654h.jpg" alt="" title=""/></a>
+<div id="show-link">
+<a href="http://www.thehindu.com/news/states/tamil-nadu/article2805789.ece" title="Updated: January 16, 2012 at 19:37 IST &#013;
+Published: January 16, 2012 at 19:27 IST &#013;
+in TAMIL NADU" alt="Updated: January 16, 2012 at 19:37 IST &#013;
+Published: January 16, 2012 at 19:27 IST &#013;
+in TAMIL NADU">Bullish about Jallikattu </a>
+</div>
+<div id="show-link">Jallikattu, the adrenaline-pumping, dangerous sport of 'taming' bulls is held in Tamil Nadu annually during the Pongal festival. Young men put themselves at great risk as they try to subdue the bull. Today, a score of contestants were injured. Images from Palamedu, Avaniyapuram and Tiruchi. Compiled by N. Kesavan</div>
+<div class="related-section">
+</div>
+<div class="clear"></div>
+<div class="more-slideshows">
+<a href="http://www.thehindu.com/news/states/tamil-nadu/article2805789.ece" title="">
+more slideshows
+<span class="arrows">&#187;</span>
+</a>
+</div>
+</div>
+<!-- END PHOTO GALLERY -->
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<iframe src="http://cricket.widgets.stats.com/TheHindu/miniscorecard1.html" width="300px" height="320px" frameborder="0" scrolling="no"><p>
+Your browser does not support iframes. </p></iframe> </div>
+<!-- END AD -->
+<a href="http://www.thehindu.com/life-and-style/article2806544.ece?homepage=true"> <img src="http://www.thehindu.com/multimedia/dynamic/00894/sud_ss1483_tif_894889b.jpg"
+alt="" title="" class="bordered-image -align" /> </a>
+<h2>
+<a href="http://www.thehindu.com/life-and-style/article2806544.ece?homepage=true" title="Updated: January 17, 2012 at 03:26 IST &#013;
+Published: January 17, 2012 at 03:25 IST &#013;
+in LIFE & STYLE" alt="Updated: January 17, 2012 at 03:26 IST &#013;
+Published: January 17, 2012 at 03:25 IST &#013;
+in LIFE & STYLE">
+Sudoku - January 17, 2012
+</a> </h2>
+<div class="article-additional-info">
+A mind game and a puzzle that you solve with reasoning and logic. Fill in the grid with digits in such a manner that every row, every column and every 3x3 box accommodates the digits 1 to 9, without repeating any.
+<a href="http://www.thehindu.com/life-and-style/article2806544.ece?homepage=true" class="more"><span class="arrows">&#187;</span></a>
+</div>
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<center><a href="http://www.thehindu.com/system/topicRoot/Tyagaraja_Aradhana_2012/" target="_blank"><img src="http://www.thehindu.com/multimedia/archive/00891/Ad__Home_promo_Tyag_891439a.gif" alt="" title=""/></a></center>
+</div>
+<!-- END AD -->
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<center><a href="http://www.thehindu.com/system/topicRoot/Vaikunta_Ekadasi/" target="_blank"><img src="http://www.thehindu.com/multimedia/archive/00883/Srirangam_300x100_883987a.jpg" alt="" title=""/></a></center>
+</div>
+<!-- END AD -->
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<center><a href="http://www.thehindu.com/opinion/editorial/article2692465.ece" target="_blank"><img src="http://www.thehindu.com/multimedia/archive/00893/Ad__podcast_893316a.gif" alt="" title=""/></a></center>
+</div>
+<!-- END AD -->
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<div id="announcement" style="border:1px solid #cccccc;padding:5px;"> <h3><a href="http://thehindu.com/system/topicRoot/WikiLeaks_Fights_Funding_Blocka/">WikiLeaks fights funding blockade</a></h3>Starting October 24, the organisation has launched a fund-raising campaign titled "WikiLeaks Needs You." </div>
+</div>
+<!-- END AD -->
+<!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<center><a href="http://www.wikileaks.org/support" target="_blank"><img src="http://www.thehindu.com/multimedia/archive/00816/wiki-square_816131a.jpg" alt="" title=""/></a></center>
+</div>
+<!-- END AD -->
+<a href="http://www.thehindu.com/news/resources/"><h3>Resources</h3></a>
+<h4><a href="http://www.thehindu.com/news/resources/article2803621.ece" title="Updated: January 16, 2012 at 17:59 IST &#013;
+Published: January 15, 2012 at 14:25 IST &#013;
+in RESOURCES" alt="Updated: January 16, 2012 at 17:59 IST &#013;
+Published: January 15, 2012 at 14:25 IST &#013;
+in RESOURCES">Capitalism and the production of poverty by UTSA PATNAIK</a></h4>
+<div class="clear"></div>
+<h4><a href="http://www.thehindu.com/opinion/interview/article2796044.ece" title="Updated: January 13, 2012 at 02:03 IST &#013;
+Published: January 12, 2012 at 20:31 IST &#013;
+in INTERVIEW" alt="Updated: January 13, 2012 at 02:03 IST &#013;
+Published: January 12, 2012 at 20:31 IST &#013;
+in INTERVIEW">A Short Walk to Freedom</a></h4>
+<h4><a href="http://www.thehindu.com/news/resources/article2754917.ece" title="Updated: December 28, 2011 at 18:16 IST &#013;
+Published: December 28, 2011 at 18:10 IST &#013;
+in RESOURCES" alt="Updated: December 28, 2011 at 18:16 IST &#013;
+Published: December 28, 2011 at 18:10 IST &#013;
+in RESOURCES">Amendments to Lokpal Bill </a></h4>
+<div class="clear"></div>
+<h4><a href="http://www.thehindu.com/news/resources/article2738665.ece" title="Updated: December 22, 2011 at 19:36 IST &#013;
+Published: December 22, 2011 at 19:28 IST &#013;
+in RESOURCES" alt="Updated: December 22, 2011 at 19:36 IST &#013;
+Published: December 22, 2011 at 19:28 IST &#013;
+in RESOURCES">Lokpal and Constitution Amendment Bills</a></h4>
+<h4><a href="http://www.thehindu.com/news/resources/article2717202.ece" title="Updated: December 16, 2011 at 16:09 IST &#013;
+Published: December 15, 2011 at 15:22 IST &#013;
+in RESOURCES" alt="Updated: December 16, 2011 at 16:09 IST &#013;
+Published: December 15, 2011 at 15:22 IST &#013;
+in RESOURCES">Rahul Dravid's Bradman Oration</a></h4>
+<div class="clear"></div>
+<a href="http://www.thehindu.com/news/resources/" class="block-more">More Resources &raquo;</a>
+<div class="noline"></div>
+<h3>
+<a href="http://www.thehindu.com/Topics/?categoryId=1981">
+<h3>Economy Watch (column)</h3></a>
+</h3>
+<h4><a href="http://www.thehindu.com/opinion/columns/Chandrasekhar/article2751470.ece" title="Updated: January 17, 2012 at 13:12 IST &#013;
+Published: December 27, 2011 at 08:13 IST &#013;
+in CHANDRASEKHAR" alt="Updated: January 17, 2012 at 13:12 IST &#013;
+Published: December 27, 2011 at 08:13 IST &#013;
+in CHANDRASEKHAR">The industrial downturn</a></h4> <h4><a href="http://www.thehindu.com/opinion/columns/Chandrasekhar/article2726394.ece" title="Updated: December 18, 2011 at 19:08 IST &#013;
+Published: December 18, 2011 at 17:44 IST &#013;
+in CHANDRASEKHAR" alt="Updated: December 18, 2011 at 19:08 IST &#013;
+Published: December 18, 2011 at 17:44 IST &#013;
+in CHANDRASEKHAR">Debt as burden</a></h4> <h4><a href="http://www.thehindu.com/opinion/columns/Chandrasekhar/article2683552.ece" title="Updated: December 3, 2011 at 08:41 IST &#013;
+Published: December 3, 2011 at 08:41 IST &#013;
+in CHANDRASEKHAR" alt="Updated: December 3, 2011 at 08:41 IST &#013;
+Published: December 3, 2011 at 08:41 IST &#013;
+in CHANDRASEKHAR">The cost of open skies</a></h4> <h4><a href="http://www.thehindu.com/opinion/columns/Chandrasekhar/article2632999.ece" title="Updated: November 16, 2011 at 17:15 IST &#013;
+Published: November 16, 2011 at 17:14 IST &#013;
+in CHANDRASEKHAR" alt="Updated: November 16, 2011 at 17:15 IST &#013;
+Published: November 16, 2011 at 17:14 IST &#013;
+in CHANDRASEKHAR">Europe’s financial shadow</a></h4> <h4><a href="http://www.thehindu.com/opinion/columns/Chandrasekhar/article2582756.ece" title="Updated: October 30, 2011 at 18:58 IST &#013;
+Published: October 30, 2011 at 18:54 IST &#013;
+in CHANDRASEKHAR" alt="Updated: October 30, 2011 at 18:58 IST &#013;
+Published: October 30, 2011 at 18:54 IST &#013;
+in CHANDRASEKHAR">Interest rates: Breaching the last dyke</a></h4> <a href="http://www.thehindu.com/Topics/?categoryId=1981" class="block-more">More &raquo;</a><div class="noline"></div> <!-- START AD article type-->
+<div id="ad1" class="right-tout">
+<script language="JavaScript">
+<!--
+// These variables are for maintaining state when using ad skip
+var google_num_ads = 0;
+var google_last_ad_type = '';
+function google_ad_request_done(google_ads) {
+/*
+* This function is required and is used to display
+* the ads that are returned from the JavaScript
+* request. You should modify the document.write
+* commands so that the HTML they write out fits
+* with your desired ad layout.
+*/
+var s;
+/*
+* Verify that there are actually ads to display.
+*/
+if (google_ads.length == 0)
+return;
+google_num_ads += google_ads.length;
+google_last_ad_type = google_ads[0].type;
+/*
+* If an image or Flash ad is returned, display that ad.
+* If a rich media ad is returned, display that as "as is."
+* Otherwise, build a string containing all of the ads and
+* then use a document.write() command to print that string.
+*/
+s = '<div class="ad_label"><a class="ad_attribution" href="'+
+google_info.feedback_url+'">Ads by Google</a></div>';
+if (google_ads[0].type == "image") {
+s += '<a href="' + google_ads[0].url +
+'" target="_top" title="go to ' + google_ads[0].visible_url +
+'"><img border="0" src="' + google_ads[0].image_url +
+'"width="' + google_ads[0].image_width +
+'"height="' + google_ads[0].image_height + '"></a>';
+}
+else if (google_ads[0].type == "flash") {
+s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+' WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height + '">' +
+'<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">' +
+'<PARAM NAME="quality" VALUE="high">' +
+'<PARAM NAME="AllowScriptAccess" VALUE="never">' +
+'<EMBED src="' + google_ad.image_url +
+'" WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height +
+'" TYPE="application/x-shockwave-flash"' +
+' AllowScriptAccess="never" ' +
+' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+}
+else if (google_ads[0].type == "html") {
+s += google_ads[0].snippet;
+}
+else if (google_ads[0].type == "text") {
+// Adjust text sizes to occupy the majority of ad space.
+if (google_ads.length == 1) {
+ad_title_class = 'ad_title_large';
+ad_text_class = 'ad_text_large';
+ad_url_class = 'ad_url_large';
+} else {
+ad_title_class = 'ad_title';
+ad_text_class = 'ad_text';
+ad_url_class = 'ad_url';
+}
+for(var i=0; i < google_ads.length; i++) {
+s += '<div class="ad_background"><br><a class="' + ad_title_class + '" href="' + google_ads[i].url + '" >' +
+google_ads[i].line1 + '</a><br><span class="' + ad_text_class + '">' +
+google_ads[i].line2 + ' ' +
+google_ads[i].line3 + '</span><br>' +
+'<a class="' + ad_url_class + '" href="' + google_ads[i].url + '" >' +
+google_ads[i].visible_url + '</a><br></div>';
+}
+}
+document.write(s);
+return;
+}
+// -->
+</script>
+<script language="JavaScript">
+<!--
+/*
+* This section is responsible for setting the parameters of the ad call
+* Customize this section to your needs with input from your account manager
+*/
+// The following parameters should be modified appropriately
+google_ad_client = 'ca-hindu_site_html'; // substitute your client_id
+google_ad_channel = 'newth_home_sidebar_text_300x250'; // substitute your channel
+google_ad_output = 'js'; // leave this value as js
+google_max_num_ads = '3'; // specify the number of maximum ads
+google_ad_type = 'text'; // type of ads to display - text,image,flash,html
+google_safe = 'high'; // specify the ad safety
+google_feedback = 'on';
+// The following parameter is required if you are displaying image, Flash or rich media ads.
+google_image_size = '300x250'; // the size of the ad block
+// The following parameters are options you can specify as necessary
+// google_encoding = 'utf8'; // specify the output language of the ads
+// google_language = 'en'; // override the default page language
+// The following parameter should be used only during testing
+// google_adtest = 'on'; // remove this line on launch day
+// -->
+</script>
+<!--
+/*
+* The JavaScript returned from the following page uses
+* the parameter values assigned above to populate an array
+* of ad objects. Once that array has been populated,
+* the JavaScript will call the google_ad_request_done
+* function to display the ads.
+*/
+-->
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<!-- END AD -->
+<div id="fun-games" class="right-tout">
+<!-- START AD -->
+<div id="ad1" class="right-tout">
+<div style="width:294px;height:95px;border:3px solid #EFF0F8;">
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fthehindu&amp;width=300&amp;colorscheme=light&amp;show_faces=false&amp;border_color=eff0f8&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:60px;" allowTransparency="true"></iframe>
+<div style="padding:10px;">
+<a href="http://twitter.com/The_Hindu" class="twitter-follow-button" data-show-count="true">Follow @The_Hindu</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<!-- END AD -->
+<!-- START AD -->
+<div id="ad1" class="right-tout">
+<a href="http://www.thehindu.com/social/"><h3>Social</h3></a>
+<br/>
+<center>
+<iframe src="http://www.facebook.com/plugins/activity.php?site=www.thehindu.com&amp;width=280&amp;height=300&amp;header=true&amp;colorscheme=light&amp;font&amp;border_color&amp;recommendations=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:300px;" allowTransparency="true"></iframe>
+</center>
+<div class="photo-caption" style="padding-left:10px;">Please remember to logout of facebook after you complete this session.</div>
+</div>
+<!-- END AD -->
+<!-- WIDGET -->
+<!-- TODAY'S PAPER-->
+<div class="todays-paper">
+<img src="http://www.thehindu.com//todayThumb?templateURL=template/1-0-1" alt="Today's Paper"/>
+<a href="http://www.thehindu.com/todays-paper/" title="Today's Paper"><h3>Today's Paper</h3></a> <!-- <a href="http://www.hindu.com/" title="Today's Paper"><h3>Today's Paper</h3></a> -->
+<a href="http://epaper.thehindu.com/" title="ePaper">ePaper</a>
+<a href="http://www.thehindu.com/todays-paper/tp-miscellaneous/" title="This Day That Age">This Day That Age</a>
+<a href="http://www.thehindu.com/todays-paper/tp-miscellaneous/" title="Crossword">Crossword</a>
+<a href="/navigation/?type=static&page=archive" title="Archives">Archives</a>
+<a href="http://www.thehindu.com/obituary/" title="Obituary">Obituary</a>
+<div class="clear"></div>
+</div>
+<!-- END TODAY'S PAPER -->
+<!-- END WIDGET -->
+<!-- WIDGET -->
+<!-- GROUP SITES -->
+<div>
+<h5>Group Sites</h5>
+<a href="http://thehindu.com/" title="The Hindu">The Hindu</a>
+<a href="http://www.thehindubusinessline.com/" title="Business Line">Business Line</a> <a href="http://www.sportstaronnet.com/" title="Sportstar">Sportstar</a>
+<a href="http://www.thehinduimages.com/" title="Images">Images</a>
+<a href="http://www.frontlineonnet.com/" title="Frontline">Frontline</a>
+<div class="clear"></div>
+</div>
+<!-- END GROUP SITES -->
+<!-- END WIDGET -->
+</div>
+<div class="clear"></div>
+</div>
+<!-- end right column -->
+<!-- CLOSE RIGHT COLUMN -->
+<div class="clear"></div>
+</div>
+<div class="noline"></div>
+<div id="footer">
+<div id="footer-site-map">
+<a href="http://www.thehindu.com/" title="The Hindu">
+<img class="footer-logo" src="http://www.thehindu.com/template/1-0-1/gfx/logo-footer.gif"
+alt="The Hindu"/>
+</a>
+<div id="c1">
+<a href="http://www.thehindu.com/navigation/?type=static&page=aboutus" title="About Us">About Us</a>
+<a href="http://www.thehindu.com/navigation/?type=static&page=contact" title="Contacts">Contacts</a>
+<a href="http://www.thehindu.com/navigation/?type=static&page=archive" title="Archives">Archives</a>
+<a href="http://www.thehindu.com/navigation/?type=static&page=subs" title="Subscriptions">Subscriptions</a>
+<a href="http://www.thehindu.com/navigation/?type=rss" title="RSS Feeds">RSS Feeds</a>
+<a href="http://www.thehindu.com/navigation/?type=sitemap" title="Site Map">Site Map</a>
+</div>
+<div id="c3">
+<ul><a href="http://www.thehindu.com/" title="Home">Home</a></ul>
+<ul><a href="http://www.thehindu.com/news/" title="News">News</a></ul>
+<ul><a href="http://www.thehindu.com/opinion/" title="Opinion">Opinion</a></ul>
+<ul><a href="http://www.thehindu.com/sport/" title="Sport">Sport</a></ul>
+<ul><a href="http://www.thehindu.com/business/" title="Business">Business</a></ul>
+<ul><a href="http://www.thehindu.com/arts/" title="Arts">Arts</a></ul>
+<ul><a href="http://www.thehindu.com/life-and-style/" title="Life & Style">Life &amp; Style</a></ul>
+<ul><a href="http://www.thehindu.com/sci-tech/" title="S & T">S &amp; T</a></ul>
+<ul><a href="http://www.thehindu.com/education/" title="Education">Education</a></ul>
+<ul><a href="http://www.thehindu.com/health/" title="Health">Health</a></ul>
+<ul><a href="http://www.thehindu.com/shine-jobs/" title="Jobs">Jobs</a></ul>
+<ul><a href="http://www.thehindu.com/classifieds/" title="Classifieds">Classifieds</a></ul>
+<ul><a href="http://www.thehindu.com/todays-paper/" title="Today's Paper">Today&#039;s Paper</a></ul>
+<ul><a href="http://www.thehindu.com/topics/" title="Topics">Topics</a></ul>
+</div>
+<div id="c4">
+Group Sites<br/>
+<div>
+<a href="http://thehindu.com/" title="The Hindu">The Hindu</a>
+<a href="http://www.thehindubusinessline.com/" title="Business Line">Business Line</a>
+<a href="http://www.sportstaronnet.com/" title="Sportstar">Sportstar</a>
+<a href="http://www.frontlineonnet.com/" title="Frontline">Frontline</a>
+</div>
+<div>
+<a href="http://www.thehindu.com/publications/" title="Publications">Publications</a>
+<a href="http://www.thehindu.com/ebooks/" title="eBooks">eBooks</a>
+<a href="http://www.thehinduimages.com/" title="Images">Images</a>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="fine-print">
+Disclaimer: <i>The Hindu</i> is not responsible for the content of external internet sites.<br/>
+Republication or redissemination of the contents of this screen are
+expressly prohibited without the written consent of <i>The Hindu.</i><br/>
+Comments to : <a href="mailto:web.thehindu@thehindu.co.in">web.thehindu@thehindu.co.in</a>
+&nbsp;&nbsp;Copyright &copy; 2012, The Hindu
+</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10158580-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img src="http://www.thehindu.com/eae-logger/Logger?rt=1&ctxId=595&pubId=4&cat=&meta=&type=article&objId=2808498&title=Central+team+examines+drug-resistant+TB+cases&url=http%3a%2f%2fwww.thehindu.com%2fhealth%2fpolicy-and-issues%2farticle2808498.ece&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="http://www.thehindu.com/eae-logger/Logger?rt=1&amp;ctxId=595&amp;pubId=4&amp;cat=&amp;meta=&amp;type=article&amp;objId=2808498&amp;title=Central+team+examines+drug-resistant+TB+cases&amp;url=http%3a%2f%2fwww.thehindu.com%2fhealth%2fpolicy-and-issues%2farticle2808498.ece" alt="" width="1" height="1"/>
+</div>
+</noscript>
+</div>
+</body>
+</html>
+

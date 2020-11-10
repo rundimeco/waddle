@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Epidemia zapalenia płuc wyeliminowała 20% populacji dzikiej kozy śruborogiej (Capra falconeri) w Tadżykistanie. Naukowcy bardzo się tym przejęli, bo gatunek należy do grupy zagrożonych wyginięciem. Ich raport na ten temat ukazał się w grudniowym numerze pisma Emerging Infectious Diseases.">
+    <meta name="keywords" content="markur, koza śruboroga, Capra falconeri, Tadżykistan, zapalenie płuc, Mycoplasma, bakterie, kozy domowe, habitat, dr Stéphane Ostrowski, nauki-przyrodnicze">
+    <title>Zapalenie płuc zabiło 20% tadżyckich markurów | KopalniaWiedzy.pl - Najnowsze osiągnięcia, najważniejsze odkrycia, wynalazki, które zmieniają świat.</title>
+    <link rel="shortcut icon" type="image/ico" href="/favico.ico" />
+    <link rel="stylesheet" type="text/css" href="/media/css/styles.css?v=11" />
+<link rel="stylesheet" type="text/css" href="/media/css/fancybox/jquery.fancybox-1.3.4.css" />
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="/media/js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="/media/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/media/js/common.js"></script>
+<script type="text/javascript" src="/media/js/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="/media/js/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/media/js/setup-article.js"></script>
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+        {lang: 'pl'}
+    </script>
+    <script type="text/javascript">
+        window.google_analytics_uacct = "UA-27191270-1";
+    </script>
+</head>
+<!--[if IE 7]><body class="ie7"><![endif]-->
+<!--[if IE 8]><body class="ie8"><![endif]-->
+<!--[if IE 9]><body class="ie9"><![endif]-->
+<!--[if gt IE 9]><!--><body><!--<![endif]-->
+    <div class="content-wrapper ui-helper-clearfix">
+        <div class="goog-head">
+            <script type="text/javascript"><!--
+                google_ad_client = "ca-pub-5741557688388093";
+                /* Banner */
+                google_ad_slot = "3257251035";
+                google_ad_width = 728;
+                google_ad_height = 90;
+                //-->
+            </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+        </div>
+                <div class="header">
+            <div class="user-info">
+                <a href="/" title="Przejdź do strony głównej KopalniaWiedzy.pl" class="logo"><img src="/media/img/kopalniawiedzy-logo.png" alt="KopalniaWiedzy.pl" /></a>
+                <form action="/szukaj" method="post" class="search-form" id="search-form">
+                    <p>
+                        <a href="http://forum.kopalniawiedzy.pl/index.php?app=core&amp;module=global&amp;section=login" title="" class="icon icon-login">zaloguj się</a>
+                        <a href="http://forum.kopalniawiedzy.pl/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=twitter"><img alt="Zaloguj korzystając z Twittera" src="http://forum.kopalniawiedzy.pl/public/style_images/master/loginmethods/twitter.png"></a>
+                        <a href="http://forum.kopalniawiedzy.pl/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook"><img alt="Zaloguj korzystając z Facebooka" src="http://forum.kopalniawiedzy.pl/public/style_images/master/loginmethods/facebook.png"></a>
+                    </p>
+                    <input type="text" name="search_term" class="phrase" placeholder="wpisz szukaną frazę" />
+                    <select name="where" class="search-where" id="search-where">
+                        <option value="0">w serwisie</option>
+                        <option value="1">w wiadomościach</option>
+                        <option value="2">w artykułach</option>
+                        <!--option value="3">w blogach</option-->
+                        <option value="4">w treści forum</option>
+                    </select>
+                    <input type="submit" class="search-submit" value="Szukaj" />
+                </form>
+                <ul class="top-bar">
+                    <li class="active"><a href="/wiadomosci">Wiadomości</a></li>
+                    <li><a href="/artykuly">Artykuły</a></li>
+                    <li><a href="http://forum.kopalniawiedzy.pl">Forum</a></li>
+                                        <li><a href="http://forum.kopalniawiedzy.pl/index.php?/blogs/">Blogi</a></li>
+                    <li><a href="/ksiazki">Książki</a></li>
+                    <li><a href="/konkursy">Konkursy</a></li>
+                    <li><a href="/galeria">Galerie</a></li>
+                    <li><a href="/wywiady">Wywiady</a></li>
+                </ul>
+            </div>
+            <ul class="bottom-bar">
+                <li><a href="/wiadomosci/medycyna" class="medycyna" title="Medycyna">Medycyna</a></li>
+                <li><a href="/wiadomosci/technologia" class="technologia" title="Technologia">Technologia</a></li>
+                <li><a href="/wiadomosci/psychologia" class="psychologia" title="Psychologia">Psychologia</a></li>
+                <li><a href="/wiadomosci/zdrowie-uroda" class="zdrowie-uroda" title="Zdrowie/uroda">Zdrowie/uroda</a></li>
+                <li><a href="/wiadomosci/bezpieczenstwo-it" class="bezpieczenstwo-it" title="Bezpieczeństwo IT">Bezpieczeństwo IT</a></li>
+                <li class="active"><a href="/wiadomosci/nauki-przyrodnicze" class="nauki-przyrodnicze" title="Nauki przyrodnicze">Nauki przyrodnicze</a></li>
+                <li><a href="/wiadomosci/astronomia-fizyka" class="astronomia-fizyka" title="Astronomia/fizyka">Astronomia/fizyka</a></li>
+                <li><a href="/wiadomosci/humanistyka" class="humanistyka" title="Humanistyka">Humanistyka</a></li>
+                <li><a href="/wiadomosci/ciekawostki" class="ciekawostki" title="Ciekawostki">Ciekawostki</a></li>
+            </ul>
+        </div>
+        <!-- left rail start -->
+        <div class="left-rail article-rail">
+            <div class="breadcrumbs">
+                
+<a href="/">Strona główna</a> &gt;
+                    <a href="/wiadomosci">Wiadomości</a>
+                &gt;                    <a href="/wiadomosci/nauki-przyrodnicze">Nauki przyrodnicze</a>
+                                </div>
+            <div class="article-contents ui-helper-clearfix">
+                    <div class="text-size">
+        <a href="#" id="text-size-big" class="button no-arrow text-size-big"><span>A</span></a>
+        <a href="#" id="text-size-medium" class="button no-arrow text-size-medium"><span>A</span></a>
+        <a href="#" id="text-size-small" class="button no-arrow text-size-small"><span>A</span></a>
+    </div>
+    <div class="article-text text-small">
+        <h1>Zapalenie płuc zabiło 20% tadżyckich markurów </h1>
+        <div class="article-time-and-cat"><time>9 stycznia 2012, 10:58</time> | <a href="/wiadomosci/nauki-przyrodnicze">Nauki przyrodnicze</a></div>
+                    <a href="/media/lib/94/kozy-sruborogie-bdada9a0fabca02335b87a38dd03fbac.jpg" class="article-photo article-opener" title="Kozy śruborogie, &#169; Eric Kilby, CC" rel="lightboxText"><img src="/media/lib/95/n-kozy-sruborogie-adcbcf111a391f6566e09460ac943c8c.jpg" class="first" alt="Eric Kilby, CC" /></a>
+                <p class="tags"><a href="/szukaj/markur,0,1,0">markur</a> &middot; <a href="/szukaj/koza śruboroga,0,1,0">koza śruboroga</a> &middot; <a href="/szukaj/Capra falconeri,0,1,0">Capra falconeri</a> &middot; <a href="/szukaj/Tadżykistan,0,1,0">Tadżykistan</a> &middot; <a href="/szukaj/zapalenie płuc,0,1,0">zapalenie płuc</a> &middot; <a href="/szukaj/Mycoplasma,0,1,0">Mycoplasma</a> &middot; <a href="/szukaj/bakterie,0,1,0">bakterie</a> &middot; <a href="/szukaj/kozy domowe,0,1,0">kozy domowe</a> &middot; <a href="/szukaj/habitat,0,1,0">habitat</a> &middot; <a href="/szukaj/dr Stéphane Ostrowski,0,1,0">dr Stéphane Ostrowski</a></p>
+
+        <p><strong>Epidemia zapalenia płuc wyeliminowała 20% populacji dzikiej kozy śruborogie</strong>j (<em>Capra falconeri</em>) <strong>w Tadżykistanie</strong>. Naukowcy bardzo się tym przejęli, bo gatunek należy do grupy zagrożonych wyginięciem. Ich raport na ten temat ukazał się w grudniowym numerze pisma <em>Emerging Infectious Diseases</em>. Badania zostały częściowo sfinansowane przez niemieckie Towarzystwo Współpracy Międzynarodowej.</p>
+<p>Zespół akademików z Tadżykistanu, Francji i amerykańskiego Wildlife Conservation Society stwierdził, że podczas epidemii z września-października 2010 r. zginęło co najmniej 65 osobników. Wydaje się, że to niedużo, ale sytuacja jest poważna, bo na świecie zostało mniej niż 2,5 tys. tych pięknych zwierząt.</p>
+<p>Biolodzy i epidemiolodzy uważają, że markury, bo tak inaczej nazywają się kozy śruborogie, zarażają się od kóz domowych. Rolnicy z Tadżykistanu wypasają je na terenach stanowiących habitaty <em>C. falconeri</em>, co, oczywiście, zwiększa ryzyko transmisji zakażenia. Lokalna społeczność nie ma za dużego wyboru, jeśli chodzi o miejsca wypasu trzody, co tylko dodatkowo podkreśla, jak ważne jest kontrolowanie zwierząt domowych pod kątem chorób przenoszonych na dziką faunę.</p>
+<p><em>Ostatnie badania w miejscu wybuchu epidemii pokazały, że testy kóz domowych na obecność bakterii z rodzaju Mycoplasma, które mogą wywołać zapalenie płuc zarówno u nich, jak i kóz śruborogich, wypadły dodatnio</em> - ujawnia dr Stéphane Ostrowski z Wildlife Conservation Society. Na szczęście od 2010 r. nie wybuchły kolejne epidemie.</p>
+<p>Markury nie mają lekkiego życia, bo na co dzień muszą się zmagać z kłusownikami, irbisami i obsuwaniem się ziemi. Z tadżyckimi farmerami współpracuje pozarządowa organizacja Nature Protection Team, która stara się zminimalizować kontakt między zwierzętami domowymi a kozami śruborogimi.</p>
+        <div class="article-footer">
+            <p class="author">Autor: <strong>Anna Błońska</strong></p>            <!--p class="report-err"><a href="#">(zgłoś błąd w treści)</a></p-->
+            <p class="source">Źródło:
+                                                <a href="http://www.wcs.org/" target="_blank">Wildlife Conservation Society</a>
+                                        </p>
+        </div>
+    </div>
+    <div class="sexy-bookmarks" id="sexy-bookmarks">
+        <div class="recommend" title="Poleć artykuł innym użytkownikom Kopalni">
+    Poleć<br />jako<br />pierwszy !
+<a href="javascript: recommend('14881');" class="recommend-button" title="Poleć artykuł innym użytkownikom Kopalni">poleć</a></div>        <ul id="socials" class="socials">
+            <li class="sexy-wykop"><a title="Wykop to!" rel="nofollow" target="_blank" href="http://www.wykop.pl/dodaj/link/url,http%3A%2F%2Fkopalniawiedzy.pl%2Fmarkur-koza-sruboroga-Capra-falconeri-Tadzykistan-zapalenie-pluc-Mycoplasma-bakterie-kozy-domowe-habitat-dr-Stephane-Ostrowski%2C14881,title,Zapalenie+p%C5%82uc+zabi%C5%82o+20%25+tad%C5%BCyckich+markur%C3%B3w,desc,Epidemia+zapalenia+p%C5%82uc+wyeliminowa%C5%82a+20%25+populacji+dzikiej+kozy+%C5%9Bruborogiej+%28Capra+falconeri%29+w+Tad%C5%BCykistanie.+Naukowcy+bardzo+si%C4%99+tym+przej%C4%99li%2C+bo+gatunek+nale%C5%BCy+do+grupy+zagro%C5%BConych+wygini%C4%99ciem.+Ich+raport+na+ten+temat+ukaza%C5%82+si%C4%99+w+grudniowym+numerze+pisma+Emerging+Infectious+Diseases."></a></li>
+            <li class="sexy-facebook"><a title="Dodaj do Facebooka" rel="nofollow" target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fkopalniawiedzy.pl%2Fmarkur-koza-sruboroga-Capra-falconeri-Tadzykistan-zapalenie-pluc-Mycoplasma-bakterie-kozy-domowe-habitat-dr-Stephane-Ostrowski%2C14881"></a></li>
+            <li class="sexy-twitter"><a title="Dodaj do Twittera" rel="nofollow" target="_blank" href="http://twitter.com/share?text=%40KopalniaWiedzy%3A+Zapalenie+p%C5%82uc+zabi%C5%82o+20%25+tad%C5%BCyckich+markur%C3%B3w&url=http%3A%2F%2Fkopalniawiedzy.pl%2Fmarkur-koza-sruboroga-Capra-falconeri-Tadzykistan-zapalenie-pluc-Mycoplasma-bakterie-kozy-domowe-habitat-dr-Stephane-Ostrowski%2C14881"></a></li>
+            <li class="sexy-nk"><a title="Dodaj do śledzika" rel="nofollow" target="_blank" href="http://nasza-klasa.pl/sledzik?shout=http%3A%2F%2Fkopalniawiedzy.pl%2Fmarkur-koza-sruboroga-Capra-falconeri-Tadzykistan-zapalenie-pluc-Mycoplasma-bakterie-kozy-domowe-habitat-dr-Stephane-Ostrowski%2C14881"></a></li>
+            <li class="sexy-google"><a title="Dodaj do Google" rel="nofollow" target="_blank" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fkopalniawiedzy.pl%2Fmarkur-koza-sruboroga-Capra-falconeri-Tadzykistan-zapalenie-pluc-Mycoplasma-bakterie-kozy-domowe-habitat-dr-Stephane-Ostrowski%2C14881"></a></li>
+            <li class="sexy-grono"><a title="Podziel się na Gronie!" rel="nofollow" target="_blank" href="http://grono.net/pub/page/link/urlfetch/?url=http%3A%2F%2Fkopalniawiedzy.pl%2Fmarkur-koza-sruboroga-Capra-falconeri-Tadzykistan-zapalenie-pluc-Mycoplasma-bakterie-kozy-domowe-habitat-dr-Stephane-Ostrowski%2C14881"></a></li>
+            <li class="sexy-gg"><a title="Ustaw opis na GG" rel="nofollow" target="_blank" href="gg:/set_status?description=http%3A%2F%2Fkopalniawiedzy.pl%2Fmarkur-koza-sruboroga-Capra-falconeri-Tadzykistan-zapalenie-pluc-Mycoplasma-bakterie-kozy-domowe-habitat-dr-Stephane-Ostrowski%2C14881"></a></li>
+            <li style="padding:9px 0 0 30px !important"><g:plusone size="medium"></g:plusone></li>
+        </ul>
+    </div>
+    <div class="google-social">
+        <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-5741557688388093";
+            /* Social */
+            google_ad_slot = "7084794306";
+            google_ad_width = 728;
+            google_ad_height = 90;
+            //-->
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </div>
+    <div class="comments">
+        <h5><a href="http://forum.kopalniawiedzy.pl/index.php?/topic/14957-zapalenie-pluc-zabilo-20-tadzyckich-markurow" class="bw" title="Przejdź do forum">Komentarze (1)</a></h5>
+                        <div class="comment">
+                <div class="comment-head ui-helper-clearfix">
+                    <img class="comment-thumb" src="http://forum.kopalniawiedzy.pl/public/style_images/master/profile/default_large.png" />
+                    <p><a href="http://forum.kopalniawiedzy.pl/index.php?/user/327-tolo/">Tolo</a>, 9 stycznia 2012, 22:27</p>
+                </div>
+                <div class="comment-body">&quot;Tadżycka koza śruboroga&quot;<br />Oj to bedzie hicior.</div>
+            </div>
+                    <a href="http://forum.kopalniawiedzy.pl/index.php?/topic/14957-zapalenie-pluc-zabilo-20-tadzyckich-markurow" class="button"><span>zobacz pozostałe komentarze &raquo;</span></a>
+                </div>            </div>
+        </div>
+        <!-- left rail end -->
+
+        <!-- right rail start -->
+        <div class="right-rail">
+            <div class="goog-right-sky">
+                <script type="text/javascript"><!--
+                    google_ad_client = "ca-pub-5741557688388093";
+                    /* Lewy sky */
+                    google_ad_slot = "0009961861";
+                    google_ad_width = 160;
+                    google_ad_height = 600;
+                    //-->
+                </script>
+                <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+            </div>
+                        <div style="margin-bottom: 6px">
+                <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="200" height="200" id="planeta" align="middle">
+                    <param name="movie" value="/media/ads/planetawideo/planeta.swf" />
+                    <param name="quality" value="high" />
+                    <param name="bgcolor" value="#000000" />
+                    <param name="play" value="true" />
+                    <param name="loop" value="true" />
+                    <param name="wmode" value="window" />
+                    <param name="scale" value="showall" />
+                    <param name="menu" value="true" />
+
+                    <param name="devicefont" value="false" />
+                    <param name="salign" value="" />
+                    <param name="allowScriptAccess" value="sameDomain" />
+                    <!--[if !IE]>-->
+                    <object type="application/x-shockwave-flash" data="/media/ads/planetawideo/planeta.swf" width="200" height="200">
+                        <param name="movie" value="planeta.swf" />
+                        <param name="quality" value="high" />
+                        <param name="bgcolor" value="#000000" />
+                        <param name="play" value="true" />
+
+                        <param name="loop" value="true" />
+                        <param name="wmode" value="window" />
+                        <param name="scale" value="showall" />
+                        <param name="menu" value="true" />
+                        <param name="devicefont" value="false" />
+                        <param name="salign" value="" />
+                        <param name="allowScriptAccess" value="sameDomain" />
+                    <!--<![endif]-->
+                        <a href="http://www.adobe.com/go/getflash">
+                            <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+                        </a>
+                    <!--[if !IE]>-->
+                    </object>
+                    <!--<![endif]-->
+                </object>
+            </div>
+                                    <div class="latest-news inner-box inner-box-extended">
+                <h4>Najnowsze wiadomości</h4>
+                <div class="inner-box-content ui-helper-clearfix">
+                    <span class="date-hr">dziś</span><hr />                    <a href="/Mocality-Google-baza-danych,14935" class="with-arrow">Google prowadzi śledztwo ws. Mocality</a>                    <span class="date-hr">wczoraj</span><hr />                    <a href="/dwutlenek-wegla-metan-sadza-ocieplenie,14934" class="with-arrow">Ocieplenie można spowolnić bez redukcji dwutlenku węgla</a>                                        <a href="/Mocality-Google-baza-danych-przedsiebiorstwo,14933" class="with-arrow">Poważna wpadka Google'a</a>                                        <a href="/Amazon-Kindle-Windows-Send-To-Kindle-czytnik-e-book,14932" class="with-arrow">Amazon ułatwia transfer dokumentów na Kindle'a</a>                                        <a href="/alfabet-Braille-a-hamburger-reklama-spot-Wimpy-RPA,14931" class="with-arrow">Hamburger opisany Braille'em</a>                                        <a href="/CD36-bialko-tluszcz-kwasy-tluszczowe-trojglicerydy-wychwyt-jezyk-smak-powinowactwo-Nada-A-Abumrad-M-Yanina-Pepino,14930" class="with-arrow">Na ludzkim języku zidentyfikowano receptory tłuszczu</a>                                        <a href="/bit-domena-magnetyczna-nosnik-magnetyczny-IBM,14929" class="with-arrow">Bit w 12 atomach</a>                                        <a href="/zawal-zdarzenie-sercowo-naczyniowe-bakterie-probiotyczne-mikroflora-jelita-przewod-pokarmowy-leptyna-antybiotyk-wankomycyna-John-E-Baker-Lactobacillus-plantarum,14928" class="with-arrow">Mikroflora jelit określa ryzyko i zakres zawału u szczurów</a>                                        <a href="/mowa-ciala-jezyk-ciala-nieslyszacy-slyszacy-rozpoznawac-czas-reakcji-David-Corina,14927" class="with-arrow">Niesłyszący szybciej reagują na mowę ciała</a>                                        <a href="/KOI-961-planeta-uklad-planetarny-planeta-pozasloneczna,14924" class="with-arrow">Najmniejszy znany układ planetarny</a>                                        <a href="/beben-Wietnam-pole-kultura-dongsonska-gora-Ru-Than-Trinh-Van-Trung-Thanh-Hoa,14925" class="with-arrow">Blaszany bębenek z Wietnamu</a>                                        <a href="/Windows-dochod-sprzedaz-pecet,14926" class="with-arrow">Dochody z Windows mogą się zmniejszyć</a>                    <span class="date-hr">12 stycznia 2012</span><hr />                    <a href="/Droga-Mleczna-planety,14923" class="with-arrow">Droga Mleczna pełna planet</a>                                        <a href="/Fukushima-cez-stront-promieniowanie-zanieczyszczenie-elektrownia-atomowa,14922" class="with-arrow">Elektrownia w Fukushimie a skażenie oceanu</a>                                        <a href="/Nowy-Jork-metro-konkurs-szczur-zwiazek-zawodowy-pracownicy-transportu-TWU-Local-100,14921" class="with-arrow">Kto uchwyci najbrzydszego szczura, dostanie przejazdówkę</a>                                        <a href="/Paul-Ceglia-Facebook-umowa-Mark-Zuckerberg,14920" class="with-arrow">Ceglia płaci za pozew przeciwko Facebookowi</a>                                        <a href="/Google-Apps-for-Business-BBVA-bank-chmura-obliczeniowa,14919" class="with-arrow">Google Apps zyskuje największego klienta</a>                                        <a href="/Paedophryne-swiftorum-Paedophryne-amanuensis-Papua-Nowa-Gwinea-zabka-najmniejsza-kregowiec-Eric-Rittmeyer,14918" class="with-arrow">Nowy najmniejszy kręgowiec świata</a>                                        <a href="/Droga-Mleczna-kolor-snieg,14917" class="with-arrow">Określono kolor Drogi Mlecznej</a>                                        <a href="/nerwy-obwodowe-uszkodzenie-regeneracja-ochrona-kwasy-tluszczowe-omega-3-przyspieszac-olej-rybi-neuron,14916" class="with-arrow">Kwasy omega-3 chronią nerwy i wspomagają regenerację</a>                    <!--a class="button button-left" href="#"><span>nowsze</span></a>
+                    <a class="button" href="#"><span>starsze</span></a-->
+                    <a class="button" href="/wiadomosci"><span>więcej wiadomości</span></a>
+                </div>
+            </div>
+                                </div>
+
+    </div>
+
+        <div class="page-footer">
+        <div class="content-wrapper">
+            <p class="links">
+                <a href="/wiadomosci.rss" class="icon-rss">RSS</a>
+                <!--a href="#">Reklama</a> | -->
+                <script type="text/javascript">
+                    //<![CDATA[
+                    <!--
+                    var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+                    "=48){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+                    ".substr(0,ol);}f(\")77,\\\"OCIXRQ710\\\\BP730\\\\100\\\\010\\\\430\\\\t\\\\" +
+                    "n\\\\(_}100\\\\y500\\\\j0?%&9kk330\\\\)3oFG_\\\\\\\\^BRXAAJYHNcUt|owx~)~{ab" +
+                    "hj'_<030\\\\130\\\\010\\\\020\\\\V520\\\\NRF200\\\\600\\\\r\\\\220\\\\r\\\\" +
+                    "020\\\\720\\\\p(4=;!1?*\\\"(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmor" +
+                    "f.gnirtS=+o;721=%y;++y)77<i(fi{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav" +
+                    "{)y,x(f noitcnuf\")"                                                         ;
+                    while(x=eval(x));
+                    //-->
+                    //]]>
+                </script>
+                <!--a href="#">Mapa serwisu</a-->
+            </p>
+            &#169; Copyright 2006-2012 <span>KopalniaWiedzy.pl</span><br />
+            <p class="author">Projekt graficzny: Kamila Szadaj <a href="http://www.szadaj.com/index.xml" target="_blank">www.szadaj.com</a></p>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-27191270-1']);
+      _gaq.push(['_setDomainName', 'kopalniawiedzy.pl']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-727238-5']);
+      _gaq.push(['_setDomainName', 'kopalniawiedzy.pl']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+</body>
+</html>
+
+

@@ -1,0 +1,4467 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:pas="http://pluck.timescolonist.com/2009/pluckApplicationServer">
+<head><base href="http://www.timescolonist.com/health/" />
+<!-- this script must be the first element in the head -->
+<script src="https://sso.canada.com/sso.js" type="text/javascript"></script>
+<script type="text/javascript">
+	JANRAIN.SSO.CAPTURE.check_login({
+		sso_server: 'https://sso.canada.com',
+		client_id: '33st4j3kp8ttb9ve2nhxtkbe8zjj2bwd',
+		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx',
+		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers',
+		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html'
+	});
+</script>
+
+
+
+
+<script type="text/javascript" src="/js/CDMScriptManager-1.0.js"></script>
+<script type="text/javascript">
+	CDMScriptManager.load('/js/jquery-1.2.6.min.js');
+	CDMScriptManager.load('/js/slider.js');
+</script>
+<script type="text/javascript">
+     CDMScriptManager.load('/js/pluck/pluckLocal.js');
+</script>
+<script type="text/javascript">
+     CDMScriptManager.load(pluckScriptUrl);
+     CDMScriptManager.load('/js/pluck/pluck.js');
+</script>
+<script type="text/javascript" src="/js/jquery-hoverintent.js"></script>
+<script type="text/javascript" src="/js/headernav_tab.js"></script>
+<script type="text/javascript" src="http://pluck.timescolonist.com/ver1.0/Content/ua/scripts/pluckApps.js?skipCSS=true"></script>
+<!-- membership js files -->
+<script type="text/javascript" src="/js/members/json.js"></script>
+<script type="text/javascript" src="/js/members/member.js"></script>
+<script type="text/javascript" src="/js/ooyala/story-vid-embed.js"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/global.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/grid.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/header.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/header_nav.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/components.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/widgets.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/featurebox.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/footer.css" />
+<!-- membership css -->
+<link href="/css/members/member.css" type="text/css" rel="stylesheet" media="screen" />
+<!--[if IE 6]>
+<link href="/members/css/member_ie6.css" type="text/css" rel="stylesheet" media="screen" />
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="http://pluck.timescolonist.com/ver1.0/content/ua/css/pluckAll.css" />
+	<!--[if IE 6]>
+			<link rel="stylesheet" type="text/css" href="http://pluck.timescolonist.com/ver1.0/content/ua/css/pluckAll.ie6.css" />
+	<![endif]-->
+	<style type="text/css">
+		.pluck-comm .pluck-user-persona {
+			display: block !important;
+		}
+	</style>
+<link rel="stylesheet" type="text/css" href="/css/pluckcommentsOverride.css" />
+
+
+<!--/victoriatimescolonist/branding.inc -->
+
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/branding.css" />
+
+<!-- -----The following Coding is for the Advertising.com Web Beacon ---- -->
+<!-- ----------------- DO NOT REMOVE THIS CODING ------------------------ -->
+<img src="https://secure.ace-tag.advertising.com/action/type=830451604/bins=1/rich=0/mnum=1516/xsordnm=timescolonist/logs=0" height="1" width="1" border="0" style="display:none;" />
+<!-- -----The preceding Coding is for the Advertising.com Web Beacon ---- -->
+<!-- ----------------- DO NOT REMOVE THIS CODING ------------------------ -->
+
+<!--/victoriatimescolonist/branding.inc -->
+<link rel="stylesheet" type="text/css" media="screen" href="/css/heatmap.css" /><title>Norovirus outbreak detains students in Victoria</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/story.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/storyfont-contrast.css" />
+<script type="text/javascript" src="/js/storyChromefix.js"></script>
+
+<meta property="og:title" content="Norovirus outbreak detains students in Victoria">
+<meta property="og:type" content="cwi:health_story">
+<meta property="og:url" content="http://www.timescolonist.com/health/Norovirus+outbreak+detains+students+Victoria/6007020/story.html">
+<meta property="og:image" content="http://www.timescolonist.com/images/icon512x512_TC.jpg">
+<meta property="og:site_name" content="www.timescolonist.com">
+<meta property="fb:admins" content="USER_ID">
+<meta property="og:description" content="Some of the delegates from a journalism conference in Victoria this weekend were not allowed to fly home Sunday or Monday because of a painful outbreak of norovirus that kept dozens isolated in their hotel rooms.">
+
+<script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+	'zone':"3Pbwspv49EHK28sRubzbsX",
+	'mode':"meter",
+	'customPreCheck': "preCheckVictoriatimes100640",
+        'border': "2g02SYzmoeulkGRICvr2JR",
+	'debug':0
+}</script><script type="text/javascript">
+function preCheckVictoriatimes100640($)
+{
+    if (navigator.userAgent && ( navigator.userAgent.indexOf("iPad") != -1 || navigator.userAgent.indexOf("PlayBook") != -1 ))
+    {
+        return 0;
+    }
+    var metamatch = document.getElementsByTagName("meta");
+    for (var i=0; i < metamatch.length; i++) {
+    if (metamatch[i].name == "keywords") {
+    if (metamatch[i].content.match(/breaking/)) 
+      {
+       return 0;
+      }
+    }
+    }
+
+    loc = window.location + '';
+
+    if (loc.match(/\/(cars|jobs|homes)\/.+/i))
+    {
+        return 0;
+    }
+    else if (loc.match(/(story.html).*/i))
+    {
+         return 1;
+    }
+    
+    return 0;
+}
+</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="Keywords" content="Capital &amp; Van. Isl. Times Colonist STRY VITC N UTF8 2012-05-16 05:00:00Z Victoria International Airport Fredericton Victoria (British Columbia) Air Canada Inc. Harbour Towers Hotel WestJet Airlines Ltd. Godmere , Emma Jones , Ian Air Transportation Airlines Charter Air Transportation Industrials Sector Industries Passenger Air Transportation Passenger Transportation Transportation and Logistics Sector British Columbia Ambulance Service Canadian University Press St. Thomas University Vancouver Island Health Authority Emma Godmere Ian Jones Final a04 Contagious and Infectious Diseases Culture and Lifestyle Domestic Policy Emergency Medicine Government and Politics Health and Fitness Hotels Noroviruses Political Policy Politics Public Health Policy Social Policy Travel and Tourism" /><meta name="Description" content="Some of the delegates from a journalism conference in Victoria this weekend were not allowed to fly" /><meta name="PubDate" content="2012-01-16" /><meta name="Author" content="Derek Spalding" /></head>
+
+<body class="health" >
+	<div id="page">
+		<div class="pagewrapper">
+
+			<div class="adwrapper">
+				<div id="leaderboard">
+				 	<!-- /leaderboard.inc -->
+<style>
+#leaderboard { text-align:right }
+#leaderboard .ad { text-align:right }
+</style>
+
+	<div class="ad">
+		<div class="bannerContainer">
+			<div id="dartad1">
+<!-- legoctl: ctl01 --><!-- NO CACHE: dartad1 -->
+
+                        <script type="text/javascript">
+                        function getCookies() { return ""; }
+                        </script>
+                        <script type="text/javascript">
+                        Array.prototype.uniqueAry = function ()
+                        {
+                            var r = new Array();
+                            o:for(var i = 0, n = this.length; i < n; i++)
+                            {
+                                for(var x = 0, y = r.length; x < y; x++)
+                                {
+                                    if(r[x]==this[i])
+                                    {
+                                        continue o;
+                                    }
+                                }
+                                r[r.length] = this[i];
+                            }
+                            return r;
+                        }
+
+                        function getCookie(cookieName)
+                        {
+                            var dc = document.cookie;
+
+                            //load external cookies from .canada.com if not currently on .canada.com
+                            if (location.hostname.match(/\.canada\.com$/gi) == null)
+                                dc += ";" + getCookies(); //append to existing document cookie
+
+                            var cookie_str = ""; //this string will contain the value of the cookie name
+                            var needle = "[A-Za-z0-9_-]*" + cookieName + "[A-Za-z0-9_-]*=[^;]+";
+                            var regex = new RegExp(needle, "gi");
+                            var matches = dc.match(regex);
+                            if (matches != null)
+                            {
+                                for (var x = 0; x < matches.length; x++)
+                                    matches[x] = matches[x].substring(matches[x].indexOf("=")+1).replace(new RegExp("[\\s]+$", "g"), ""); //remove keyname prefix and trim
+                                cookie_str = matches.join(",");
+                                matches = cookie_str.split(",");
+                                matches = matches.uniqueAry(); //remove duplicates
+                                cookie_str = matches.join(";") + ";";
+                            }
+                            return unescape(cookie_str);
+                        }
+
+                        function getAdCookie()
+                        {
+                            return getCookie("adcookie");
+                        }
+
+                        function setSurroundCookie(value)
+                        {
+                            document.cookie = "surroundId=" + escape(value) + "; path=/";
+                        }
+
+                        function getSurroundCookie()
+                        {
+                            var dc = document.cookie;
+                            var prefix = "surroundId=";
+                            var begin = dc.indexOf("; " + prefix);
+                            if (begin == -1)
+                            {
+                                begin = dc.indexOf(prefix);
+                                if (begin != 0) return null;
+                            }
+                            else
+                            {
+                                begin += 2;
+                            }
+                            var end = document.cookie.indexOf(";", begin);
+                            if (end == -1) end = dc.length;
+                            return unescape(dc.substring(begin + prefix.length, end));
+                        }
+
+                        // Setup for surround session.
+                        var adid = ""; // used in the ad to start a surround session
+                        var surroundTag = getSurroundCookie(); // Get surround session id from the cookie
+                        if(surroundTag == null) // check if there was a surround session id in the cookie
+                        {
+                            surroundTag = "";
+                        }
+                        else
+                        {
+                            surroundTag = "srnd="+surroundTag+";"; // finish setting up the key-value for the ad tags
+                        }
+
+                        //Setup for adcookie.
+                        var adcookieTag = getAdCookie(); // Get the ad cookie string
+                        </script>
+                    
+                        <script type="text/javascript">
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>');
+                        </script>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
+                        {
+                            surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        <noscript>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/vtc_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/vtc_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?" /></a>
+                </noscript>
+</div>
+
+		</div>
+	</div>
+
+<!-- /leaderboard.inc -->
+				</div>
+				<!-- leaderboard ends -->
+			</div>
+			<!-- adwrapper ends -->
+			<div class="headerwrapper">
+				<div id="networkbar">
+					<div class="networkbar">
+						<!--/victoriatimescolonist/header_networkbar.inc -->
+	
+	<div id="weatherspot">
+		<!--/victoriatimescolonist/header_weather.inc -->
+
+		<div id="weather2" class="bubble bubbleweather">
+<!-- legoctl: ctl02 --><!-- CACHE MISS: weather2 -->
+<div class="bubble bubbleweather"><div class="top"><div class="left">Â </div><div class="right">Â </div></div><div class="center"><a href="/findit/weather/"><h4>Weather Centre</h4></a></div><div class="bottom"><div class="left">Â </div><div class="right">Â </div></div><div class="clear">Â </div></div><div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ibn.gif"></div><div class="temperature">-1&#176;C</div><div class="clear">Â </div><div class="forecast"><div class="current">Partly cloudy</div><a href="/weather/index.html?city=victoria&amp;rg=bc"><b>Victoria</b></a><ul class="bullet"><li><a href="/weather/index.html?city=victoria&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear">Â </div></div></div>
+ 
+
+<!--/victoriatimescolonist/header_weather.inc -->
+	</div>
+	<!-- weatherspot ends -->
+	<!--/header_networkbar_global.inc -->
+
+		<ul class="network_dropdown">
+			<li class="ss-nopad"><a href="https://members.canada.com/rss/newsubscription.aspx?site=cc&provider=canada&brand=timescolonist"><span>Start Home Delivery</span></a></li>
+			<li class="nodiv sub_service"><a href="https://contests.canada.com/victoriatimescolonist/subscribe/services/index.html">Subscriber Services</a></li>
+			<li><a href="http://digital.timescolonist.com"><span>Digital Edition</span></a></li>
+			<li class="email-alert"><a href="/news/email-alerts.html"><span>Email Alerts</span></a></li>
+			<li><a href="/mobile-site/index.html"><span>Mobile Products</span></a></li>
+		</ul>
+		<!-- networkbar ends -->
+		<ul class="cc_dropdown">
+			<li class="cc">
+				<a href="http://www.canada.com/" class="ccn_network"><span>canada.com network</span></a>
+				<div class="cc-dropdown">
+					<div class="cc-dropdown-content">
+						<div class="wrapper_0_10_0_10">
+							<div class="col_170">
+								<div class="col_160 tagged">
+									<div class="section_title">
+										<h3><span>Newspapers</span></h3>
+										<div class="clear">&nbsp;</div>
+									</div>
+									<div class="clear">&nbsp;</div>
+									<div id="textlinks">
+										<div class="featurecontent">
+											<ul class="bullet">
+												<li><a href="http://www.nationalpost.com/"><span>National Post</span></a></li>
+												<li><a href="http://www.timescolonist.com/"><span>Victoria Times Colonist</span></a></li>
+												<li><a href="http://www.theprovince.com/"><span>The Province (Vancouver)</span></a></li>
+												<li><a href="http://www.vancouversun.com/"><span>Vancouver Sun</span></a></li>
+												<li><a href="http://www.edmontonjournal.com/"><span>Edmonton Journal</span></a></li>
+												<li><a href="http://www.calgaryherald.com/"><span>Calgary Herald</span></a></li>
+												<li><a href="http://www.leaderpost.com/"><span>Regina Leader-Post</span></a></li>
+												<li><a href="http://www.thestarphoenix.com/"><span>Saskatoon StarPhoenix</span></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col_160 tagged">
+								<div class="section_title">
+									<h3><span>&nbsp;</span></h3>
+									<div class="clear">&nbsp;</div>
+								</div>
+								<div class="clear">&nbsp;</div>
+								<div id="textlinks">
+									<div class="featurecontent">
+										<ul class="bullet">
+											<li><a href="http://www.windsorstar.com/"><span>Windsor Star</span></a></li>
+											<li><a href="http://www.ottawacitizen.com/"><span>Ottawa Citizen</span></a></li>
+											<li><a href="http://www.montrealgazette.com/"><span>The Gazette (Montreal)</span></a></li>
+											<li><a href="http://www.dose.ca/"><span>DOSE</span></a></li>
+											<li><a href="http://www.canada.com/postmediacommunitypublishing/"><span>Postmedia Community Publishing</span></a></li>
+											<li><a href="http://www.canada.com/nanaimodailynews/"><span>Nanaimo Daily News</span></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+						</div>
+						<!-- wrapper ends-->
+					</div>
+				</div>
+			</li>
+		</ul>
+
+<!--/header_networkbar_global.inc -->
+
+<!--/victoriatimescolonist/header_networkbar.inc -->
+					</div>
+					<!-- networkbar ends -->
+					<div id="loginstatusbar">
+						<!--/common/loginstatusbar.inc -->
+
+<div id="loginstatusbarchild"></div>
+
+<script>
+	function handlePostLogin() {
+		// change the login status bar to reflect a logged in state
+		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");
+
+		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html";
+		else window.location.reload();
+	}
+
+	function handlePostLogout() {
+		// change the login status bar to reflect a logged out state
+		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");
+		
+		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html";
+		else window.location.reload();
+	}
+
+	function dologout() {
+		// create the hidden logout iframe
+		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true';
+		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body');
+	}
+
+	function renderLoginStatusBar(user) {
+		var user = user.User;
+		var statusBarHtml = "";
+
+		if (user.IsLoggedIn) {
+			statusBarHtml += "<ul>";
+			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>";
+			statusBarHtml += " " + profileLink;
+			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>";
+			statusBarHtml += "</ul>";
+		}
+		else {
+			statusBarHtml += "<ul>";
+			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Log in</a></li>";
+			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Register</a></li>";
+			statusBarHtml += "</ul>";
+		}
+		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml;
+	}
+</script>
+
+<script>jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");</script>
+
+<!--/common/loginstatusbar.inc -->
+					</div>
+					<!-- loginstatusbar ends -->
+				</div>
+				<!-- networkbar ends -->
+				<div class="clear">&nbsp;</div>
+				<div class="logosearchbar">
+					<div id="logocol">
+						<!--/victoriatimescolonist/header_logo.inc -->
+
+		<div class="newspaperlogo">
+			<h1><a href="/index.html"><span>Victoria Times Colonist</span></a></h1>
+			<div class="clear">&nbsp;</div>
+			<div class="label">
+				<a href="http://www.canwestglobal.com/brands/publishing.asp">
+					<span>Division of Canwest Publishing Inc. </span>
+				</a>
+			</div>
+			<!-- label ends -->
+		</div>
+		<!-- newspaperlogo ends -->
+		<div class="headersponsor">
+			<!--div class="logo">
+				<h2>
+					<a href="/sports/2010wintergames/index.html">
+						<span> 2010 Wintergames</span>
+					</a>
+				</h2>
+			</div-->
+			<!-- logo ends -->
+			<div class="clear">&nbsp;</div>
+		</div>
+		<!-- newspaperlogo ends -->
+
+<!--/victoriatimescolonist/header_logo.inc -->
+					</div>
+					<!-- logocol ends -->
+					<div id="weatherspot">
+						<!--/victoriatimescolonist/header_weather.inc -->
+
+		<div id="weather3" class="bubble bubbleweather">
+<!-- legoctl: ctl03 --><!-- CACHE MISS: weather3 -->
+<div class="bubble bubbleweather"><div class="top"><div class="left">Â </div><div class="right">Â </div></div><div class="center"><a href="/findit/weather/"><h4>Weather Centre</h4></a></div><div class="bottom"><div class="left">Â </div><div class="right">Â </div></div><div class="clear">Â </div></div><div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ibn.gif"></div><div class="temperature">-1&#176;C</div><div class="clear">Â </div><div class="forecast"><div class="current">Partly cloudy</div><a href="/weather/index.html?city=victoria&amp;rg=bc"><b>Victoria</b></a><ul class="bullet"><li><a href="/weather/index.html?city=victoria&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear">Â </div></div></div>
+ 
+
+<!--/victoriatimescolonist/header_weather.inc -->
+					</div>
+					<!-- weatherspot ends -->
+					<div id="searchcol">
+						<div class="searchwrapper">
+							<!--/timescolonist/header_search_boxs.inc -->
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/search/autocomplete.css" />
+		<div id="headersearch" class="headersearch">
+			<div class="formrow">
+				<ul class="hr_items quicklinks">
+					<li class="q-links">Quick Links: <a href="http://www.timescolonist.com/shopping/"><span>Shopping</span></a>, <a href="http://www.legacy.com/can-victoria/Obituaries.asp"><span>Obituaries</span></a>, <a href="/life/diversions/"><span>Horoscopes</span></a></li>
+				</ul>
+				<div class="clear">&nbsp;</div>
+				<form name="searchform" action="http://www.timescolonist.com/search/search.html">
+					<ul class="form_newspaper">
+						<li class="forminput">
+							<input type="text" class="input_newspaper" id="q" name="q" onclick="this.focus();this.value='';" onblur="this.value=!this.value?'Search timescolonist.com...':this.value;" value="Search timescolonist.com..." />
+						</li>
+						<li class="formbutton">
+							<a class="" href="Javascript:void(1);" onClick="doSearch();"><span>Search</span></a>
+						</li>
+					</ul>
+				</form>
+				<div class="clear">&nbsp;</div>
+				<ul class="hr_items">
+					<li class="ypg-icon"><a href="http://timescolonist.yellowpages.ca"><span>YellowPages</span></a></li>
+					<li class="ypg"><a href="http://timescolonist.yellowpages.ca">Find a business or person on:&nbsp;</a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- headersearch ends -->
+		<!-- FAST wave 1 -->
+		<!-- add script call to pull in jquery.autocomplete.min.js plugin -->
+
+		<script type="text/javascript">
+			CDMScriptManager.load("http://www.timescolonist.com/js/autocomplete/jquery.autocomplete.min.js");
+		</script>		
+		<script language="javascript">
+			function doSearch() {
+				var q = document.getElementById("q").value.replace(/[^0-9a-zA-Z\s*]/g,"");
+				q = q.replace(/ /g,"+");
+				if (q.length == 0) {
+					alert("Please enter your search criteria");
+					return;
+				}
+				var dname = document.domain; 
+				if ( dname=="driving.ca") {
+					document.location.href="http://www.driving.ca/victoria/search/search.html?q=" + escape(q);
+					}
+				else {
+					document.location.href="http://www.timescolonist.com/search/search.html?q=" + escape(q);
+				}
+			}
+			//FAST WAVE 1
+			//add javascript to hook up search text box in header
+			//set up autocomplete on search box in header			
+			jQuery(document).ready(function() {
+				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", {
+					dataType: 'jsonp',
+					parse: function(data) {
+						var rows = new Array();
+						data = data.Terms;
+						for(var i=0; i<data.length; i++){
+							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] };
+						}
+						return rows;
+					},
+					resultsClass: "fast_wave_results",
+					formatItem: function(row, i, n) {
+						return  row.Term;
+					},
+					cacheLength: 0,
+					extraParams: {
+						format: "json"
+					},
+					minChars: 1,
+					max: 10,
+					highlight: function(value, term) {
+						var pos = value.toLowerCase().indexOf(term.toLowerCase());
+						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>";
+					},
+					scroll: false,
+					selectFirst: false
+				}); 
+			});
+		</script>
+							
+<!--/timescolonist/header_search_box.inc -->
+						</div>
+						<!-- Search  wrapper ends -->
+					</div>
+					<!-- searchcol ends -->
+				</div>
+				<!-- logosearchbar ends -->
+			</div>
+			<!-- headerwrapper ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="navbar">
+				<div class="navbarwrapper">
+					<!--/victoriatimescolonist/header_nav.inc -->
+<ul id="navcontent">
+	<li id="home" class="mainnav">
+		<a class="navitem" href="/index.html"><span>Home</span></a>
+	</li>
+	<li id="news" class="mainnav">
+		<a class="navitem" href="/news/"><span>News</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In News</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/news/"><span>Home</span></a></li>
+										<li><a href="/news/victoria/index.html"><span>Local</span></a></li>
+										<li><a href="/news/canada/index.html"><span>National</span></a></li>
+										<li><a href="/news/world/index.html"><span>World</span></a></li>
+										<li><a href="/news/bc-politics/index.html"><span>B.C. Politics</span></a></li>
+										<li><a href="/weather/index.html?city=victoria&rg=bc"><span>Weather</span></a></li>
+										<li class="lastlink"><a href="/news/todays-paper/index.html"><span>Today&#39;s Paper</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication4">
+<!-- legoctl: ctl04 --><!-- CACHE HIT: syndication4 -->
+<!-- Source="835181.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/news/Health+care+funding+plan+must+change+premiers/6007005/story.html?cid=megadrop_story" class="feature01">
+          <span>Health-care funding plan must change, premiers say</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="/news/Health+care+funding+plan+must+change+premiers/6007005/story.html?cid=megadrop_story">
+        <img border="0" src="6004256.bin?cid=megadrop_story&amp;size=130x88" alt="Premier Christy Clark (R) talks with Quebec's Jean Charest (2nd from L), Ontario's Dalton McGuinty (to the R of Clark) and Nova Scotia's Darrell Dexter (R) at a photo-op during the Council of the Federation meeting" title="Premier Christy Clark (R) talks with Quebec's Jean Charest (2nd from L), Ontario's Dalton McGuinty (to the R of Clark) and Nova Scotia's Darrell Dexter (R) at a photo-op during the Council of the Federation meeting">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">Canada's premiers united in Victoria Monday to demand that the federal government reopen its "unprecedented and unacceptable" decisions over health-care funding, even as the prime minister tried to shut...</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+          <li class="doc">
+            <a href="/news/Leyne+Premiers+want+health+money/6005443/story.html?cid=megadrop_story">
+              <span>Les Leyne: Premiers want a say in health money</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="/news/Drug+prescription+costs+hardest+study/6007024/story.html?cid=megadrop_story">
+              <span>Drug prescription costs hit B.C. hardest: study</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication5">
+<!-- legoctl: ctl05 --><!-- CACHE HIT: syndication5 -->
+<!-- Source="835181.atom" --><div class="section_title">
+  <h3>
+    <span>News</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/news/Greater+Victoria+wakes+overnight+snowfall/6007630/story.html?cid=megadrop_story">
+          <span>Greater Victoria wakes to overnight snowfall</span>
+        </a>
+      </li>
+      <li>
+        <a href="/news/WestJet+short+haul+proposal+could+benefit+Victoria+Airport/6005444/story.html?cid=megadrop_story">
+          <span>WestJet short-haul proposal could benefit Victoria: Airport CEO</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>The Latest</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div id="textlinks" class="top-pad">
+							<div class="featurecontent">
+								<ul class="bullet">
+								  <li><a href="/weather/"><span>Weather</span></a></li>
+								  <!--li><a href="/news/traffic-cameras/"><span>Traffic</span></a></li-->
+								  <li class="lastnoline"><a href="/news/todays-paper/"><span>Digital Edition</span></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="/news">More in News</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="opinion" class="mainnav">
+		<a class="navitem" href="/opinion/"><span>Opinion</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Opinion</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/opinion/"><span>Home</span></a></li>
+										<li><a href="/opinion/blogs/index.html"><span>Blogs</span></a></li>
+										<li><a href="/opinion/reader-comments/index.html"><span>Reader Comments</a></span></li>
+										<li><a href="/opinion/letters/index.html"><span>Letters</a></span></li>
+										<li><a href="/columnists/index.html"><span>Columnists</a></span></li>
+										<li><a href="/opinion/editorials/index.html"><span>Editorials</a></span></li>
+										<li><a href="/opinion/op-ed/index.html"><span>Op&ndash;Ed</a></span></li>
+										<li class="lastlink"><a href="/opinion/editorial-cartoons/index.html"><span>Editorial Cartoon</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Editorials</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication6">
+<!-- legoctl: ctl06 --><!-- CACHE HIT: syndication6 -->
+<!-- Source="/scripts/sp6query.aspx?catalog=VITC&type=STRY&tags=storytype|Editorial" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/opinion/Waist+challenge+Canada/6007035/story.html?cid=megadrop_story" class="feature01">
+          <span>Waist challenge for all Canada</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">As the premiers met in Victoria Monday to discuss the future of health care in Canada, a political heavyweight in Ontario took the national limelight by getting right to the point: Better health starts...</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication7">
+<!-- legoctl: ctl07 --><!-- CACHE HIT: syndication7 -->
+<!-- Source="/scripts/sp6query.aspx?catalog=VITC&type=STRY&tags=storytype|Editorial" --><div class="section_title">
+  <h3>
+    <span>Comment</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/opinion/Health+meeting+needs+Harper/5998738/story.html?cid=megadrop_story">
+          <span>Health meeting needs Harper</span>
+        </a>
+      </li>
+      <li>
+        <a href="/opinion/Thumbs+Thumbs+down/5998739/story.html?cid=megadrop_story">
+          <span>Thumbs up/ Thumbs down</span>
+        </a>
+      </li>
+      <li>
+        <a href="/opinion/worst+Republican+field+ever+Think+again/5996275/story.html?cid=megadrop_story">
+          <span>The worst Republican field ever? Think again</span>
+        </a>
+      </li>
+      <li>
+        <a href="/opinion/good+deal+both+sides/5996271/story.html?cid=megadrop_story">
+          <span>A good deal for both sides</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Comment</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication8">
+<!-- legoctl: ctl08 --><!-- CACHE HIT: syndication8 -->
+<!-- Source="/scripts/sp6query.aspx?catalog=VITC&type=STRY&tags=storytype|Opinion" --><div class="section_title">
+  <h3>
+    <span>Comment</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/opinion/Frank+discussion+needed/6007036/story.html?cid=megadrop_story">
+          <span>Frank discussion is needed</span>
+        </a>
+      </li>
+      <li>
+        <a href="/opinion/What+premiers+could+health+care/5998749/story.html?cid=megadrop_story">
+          <span>What premiers could do for health care</span>
+        </a>
+      </li>
+      <li>
+        <a href="/opinion/Working+trumps+retirement/5983946/story.html?cid=megadrop_story">
+          <span>Working trumps retirement any old day</span>
+        </a>
+      </li>
+      <li>
+        <a href="/opinion/Getting+salt/5983942/story.html?cid=megadrop_story">
+          <span>Getting the salt out</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="/opinion/">More in Opinion</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="business" class="mainnav">
+		<a class="navitem" href="/business/"><span>Business</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Business</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/business/"><span>Home</span></a></li>
+										<li><a href="/business/energy-resources/index.html"><span>Energy</span></a></li>
+										<li><a href="/business/money/index.html"><span>Money</span></a></li>
+										<li><a href="http://www.financialpost.com/markets/"><span>Markets on FP</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication9">
+<!-- legoctl: ctl09 --><!-- CACHE HIT: syndication9 -->
+<!-- Source="917199.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/business/fresh+start+just+about+anything+yourself+sandblasting+shop/6005420/story.html?cid=megadrop_story" class="feature01">
+          <span>A fresh start for just about anything at do-it-yourself sandblasting...</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="/business/fresh+start+just+about+anything+yourself+sandblasting+shop/6005420/story.html?cid=megadrop_story">
+        <img border="0" src="6005082.bin?cid=megadrop_story&amp;size=130x88" alt="Blast" title="Blast">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">Furniture, toys, car parts blasted back to basics</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+          <li class="text/xml">
+            <a href="/business/Gallery+yourself+sandblasting+Victoria/6005058/story.html?cid=megadrop_story">
+              <span>Gallery: Do-it-yourself sandblasting in Victoria</span>
+            </a>
+          </li>
+          <li class="application/vnd.ooyala">
+            <a href="/business/Video+yourself+sandblasting/6005424/story.html?cid=megadrop_story">
+              <span>Video: Do-it-yourself sandblasting</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication10">
+<!-- legoctl: ctl10 --><!-- CACHE HIT: syndication10 -->
+<!-- Source="917199.atom" --><div class="section_title">
+  <h3>
+    <span>Business</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/business/Viking+union+delivers+strike+notice/6005425/story.html?cid=megadrop_story">
+          <span>Viking union delivers strike notice</span>
+        </a>
+      </li>
+      <li>
+        <a href="/business/Victoria+baker+feels+pinch+Starbucks+drops+snack/5994531/story.html?cid=megadrop_story">
+          <span>Victoria baker feels pinch as Starbucks drops snack</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Business Wire</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication11">
+<!-- legoctl: ctl11 --><!-- CACHE HIT: syndication11 -->
+<!-- Source="/scripts/sp6query.aspx?catalog=BIZW&type=STRY" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/business/Allied+Nevada+Gold+Selects+Mincom+Next+Generation+Solution+Enterprise/6008279/story.html?cid=megadrop_story">
+          <span>Allied Nevada Gold Selects Mincomâs Next-Generation...</span>
+        </a>
+      </li>
+      <li>
+        <a href="/business/Intransa+Strengthens+Executive+Team+with+Bill+Roeschlein/6008269/story.html?cid=megadrop_story">
+          <span>Intransa Strengthens Executive Team with Bill Roeschlein...</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="/business/">More in Business</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="sports" class="mainnav">
+		<a class="navitem" href="/sports/"><span>Sports</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Sports</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/sports/"><span>Home</span></a></li>
+										<li><a href="/sports/hockey/index.html"><span>Hockey</span></a></li>
+										<li><a href="/sports/football/index.html"><span>Football</span></a></li>
+										<li><a href="/sports/baseball/index.html"><span>Baseball</span></a></li>
+										<li><a href="/sports/basketball/index.html"><span>Basketball</span></a></li>
+										<li><a href="/sports/golf/index.html"><span>Golf</span></a></li>
+										<li><a href="/sports/autoracing/index.html"><span>Auto Racing</span></a></li>
+										<li><a href="/sports/winter-sports/index.html"><span>Winter Sports</span></a></li>
+										<li><a href="/sports/tennis/index.html"><span>Tennis</span></a></li>
+										<li><a href="/sports/mma/index.html"><span>Mixed Martial Arts</span></a></li>
+										<li><a href="/sports/soccer/index.html"><span>Soccer</span></a></li>
+										<li><a href="/sports/rugby/index.html"><span>Rugby</span></a></li>
+										<li class="lastlink"><a href="/sports/cricket/index.html"><span>Cricket</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication12">
+<!-- legoctl: ctl12 --><!-- CACHE HIT: syndication12 -->
+<!-- Source="917194.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/sports/Grizzlies+free+fall+continues+with+shellacking+Kings/6000032/story.html?cid=megadrop_story" class="feature01">
+          <span>Grizzlies' free fall continues with shellacking by Kings</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="/sports/Grizzlies+free+fall+continues+with+shellacking+Kings/6000032/story.html?cid=megadrop_story">
+        <img border="0" src="6000095.bin?cid=megadrop_story&amp;size=130x88" alt="Grizzlies goaltender Garrett Rockafellow slumps after one of 10 goals scored by the Powell River Kings at Bear Mountain Arena on Sunday, Jan. 15, 2012." title="Grizzlies goaltender Garrett Rockafellow slumps after one of 10 goals scored by the Powell River Kings at Bear Mountain Arena on Sunday, Jan. 15, 2012.">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">Just 18 hours after a 12-3 drubbing at the hands of the Surrey Eagles, the Victoria Grizzlies endured a 10-2 beatdown from Coastal Conference foes the Powell River Kings at Bear Mountain Arena on Sunday...</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication13">
+<!-- legoctl: ctl13 --><!-- CACHE HIT: syndication13 -->
+<!-- Source="917194.atom" --><div class="section_title">
+  <h3>
+    <span>Sports</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/sports/Royals+round+points/6005437/story.html?cid=megadrop_story">
+          <span>Royals aim to round up two points</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Nanaimo+host+first+Western+Canadian+junior+championship/6005438/story.html?cid=megadrop_story">
+          <span>Nanaimo to host first Western Canadian junior A championship</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Victoria+Tuson+rink+advances+curling+championship/6000066/story.html?cid=megadrop_story">
+          <span>Victoria's Tuson rink advances to men's B.C. curling championship</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Royals+snap+winless+streak/5998053/story.html?cid=megadrop_story">
+          <span>Royals snap winless streak</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Cascades+offence+pounds+women+Vikes/5998038/story.html?cid=megadrop_story">
+          <span>Cascades offence pounds women Vikes</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Eagles+shell+hapless+Grizz/5998075/story.html?cid=megadrop_story">
+          <span>Eagles shell hapless Grizz</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Dangerfield+gets+another+shot+provincial+curling+title/5997994/story.html?cid=megadrop_story">
+          <span>Dangerfield gets another shot at the provincial curling title</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/star+game+chance+VIJHL+show+stars+prospects+skills/5998071/story.html?cid=megadrop_story">
+          <span>All-star game a chance for VIJHL to show off its stars, prospects, skills</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Features</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication14">
+<!-- legoctl: ctl14 --><!-- CACHE HIT: syndication14 -->
+<!-- Source="858500.atom" --><div class="section_title">
+  <h3>
+    <span>Australian Open</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/sports/Raonic+rolls+into+second+round/6007193/story.html?cid=megadrop_story">
+          <span>Raonic rolls into second round</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Bourque+impressive+debut/6007351/story.html?cid=megadrop_story">
+          <span>Bourque impressive in debut</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/About+Olympics+women+soccer/6007495/story.html?cid=megadrop_story">
+          <span>About Olympics for women's soccer</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Kesler+displeased+with+critique/6007527/story.html?cid=megadrop_story">
+          <span>Kesler displeased with critique</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Wings+club+record/6007536/story.html?cid=megadrop_story">
+          <span>Wings set club record</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://bleacherreport.com/articles/1027176-mlb-free-agency-2012-texas-rangers-to-sign-prince-fielder-yu-darvish-or-both">
+          <span>Rangers to sign Fielder, Darvish or both?</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Bozak+spark+line/6007419/story.html?cid=megadrop_story">
+          <span>Bozak has spark for top line</span>
+        </a>
+      </li>
+      <li>
+        <a href="/sports/Melnyk+willing+Senators/6007443/story.html?cid=megadrop_story">
+          <span>Melnyk willing to add to Senators</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="/sports">More in Sports</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="entertainment" class="mainnav">
+		<a class="navitem" href="/entertainment/"><span>Entertainment</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Entertainment</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/entertainment/"><span>Home</span></a></li>
+										<li><a href="/entertainment/music/index.html"><span>Music</span></a></li>
+										<li><a href="/entertainment/books/index.html"><span>Books</span></a></li>
+										<li><a href="/entertainment/movie-guide/index.html"><span>Movies</span></a></li>
+										<li><a href="/entertainment/television/index.html"><span>Television</span></a></li>
+										<li><a href="/entertainment/television/tv-listings/index.html"><span>TV Listings</span></a></li>
+										<li><a href="/entertainment/stage/index.html"><span>Stage</span></a></li>
+										<li><a href="/entertainment/visual-arts/index.html"><span>Visual Arts</span></a></li>
+										<li class="lastlink"><a href="/entertainment/celebrity/index.html"><span>Celebrity</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication15">
+<!-- legoctl: ctl15 --><!-- CACHE HIT: syndication15 -->
+<!-- Source="1565794.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/entertainment/Victoria+made+design+show+goes+online/6005368/story.html?cid=megadrop_story" class="feature01">
+          <span>Victoria-made design show goes online</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="/entertainment/Victoria+made+design+show+goes+online/6005368/story.html?cid=megadrop_story">
+        <img border="0" src="6005370.bin?cid=megadrop_story&amp;size=130x88" alt="Drury" title="Drury">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">New series is a slick showcase of made-in-Victoria home makeovers</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication16">
+<!-- legoctl: ctl16 --><!-- CACHE HIT: syndication16 -->
+<!-- Source="1565794.atom" --><div class="section_title">
+  <h3>
+    <span>10 things</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/entertainment/things+These+political+dramas+pair+well+with+primaries/6005410/story.html?cid=megadrop_story">
+          <span>10 things: These political dramas pair well with primaries</span>
+        </a>
+      </li>
+      <li>
+        <a href="/entertainment/Singer+raises+opera/5998729/story.html?cid=megadrop_story">
+          <span>Singer raises opera bar</span>
+        </a>
+      </li>
+      <li>
+        <a href="/entertainment/Clean+Kutcher+little+about+plans+future/5998727/story.html?cid=megadrop_story">
+          <span>Clean-cut Kutcher a little coy about his plans for the future</span>
+        </a>
+      </li>
+      <li>
+        <a href="/entertainment/Looking+life+hereafter/5998726/story.html?cid=megadrop_story">
+          <span>Looking for a life in the hereafter</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Celebrity</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication17">
+<!-- legoctl: ctl17 --><!-- CACHE HIT: syndication17 -->
+<!-- Source="800870.atom" --><div class="section_title">
+  <h3>
+    <span>Kelsey Grammer</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/entertainment/Kelsey+Grammer+wife+expecting+twins/6007872/story.html?cid=megadrop_story">
+          <span>Kelsey Grammer, wife expecting twins</span>
+        </a>
+      </li>
+      <li>
+        <a href="/entertainment/Russell+Brand+cites+Kurt+Vonnegut+address+Katy+Perry+breakup/6002584/story.html?cid=megadrop_story">
+          <span>Russell Brand cites Kurt Vonnegut to address Katy ...</span>
+        </a>
+      </li>
+      <li>
+        <a href="/entertainment/Stephen+Colbert+president/6002604/story.html?cid=megadrop_story">
+          <span>Stephen Colbert for president?</span>
+        </a>
+      </li>
+      <li>
+        <a href="/entertainment/Photos+Celebrities+arriving+Golden+Globes/5999600/story.html?cid=megadrop_story">
+          <span>Photos: Celebrities arriving at the Golden Globes</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="/entertainment">More in Entertainment</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="life" class="mainnav">
+		<a class="navitem" href="/life/"><span>Life</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Life</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/life/"><span>Home</span></a></li>
+										<li><a href="/life/pets/index.html"><span>Pets </span></a></li>
+										<li><a href="/life/fashion-beauty/index.html"><span>Fashion &#38; Beauty</span></a></li>
+<li><a href="/life/food-drink/index.html"><span>Island Food &#38; Drink</span></a></li>
+										<li><a href="/life/food/index.html"><span>Food</span></a></li>
+										<li><a href="/life/relationships/index.html"><span>Relationships</span></a></li>
+										<li><a href="/life/diversions/index.html"><span>Diversions - Comics &amp; Games</span></a></li>
+										<li><a href="/life/family-411/index.html"><span>Family 4-1-1</span></a></li>
+										<!--li><a href="/life/summer-guide/index.html"><span>Summer Guide</span></a></li-->
+										<li class="lastlink"><a href="/mikeholmes"<span>Mike Holmes</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication18">
+<!-- legoctl: ctl18 --><!-- CACHE HIT: syndication18 -->
+<!-- Source="917208.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/life/Kids+dive+into+ocean+sciences/5998714/story.html?cid=megadrop_story" class="feature01">
+          <span>Kids dive into ocean sciences</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="/life/Kids+dive+into+ocean+sciences/5998714/story.html?cid=megadrop_story">
+        <img border="0" src="5998715.bin?cid=megadrop_story&amp;size=130x88" alt="Grade 5 kids Ryan Thorpe and April Funk check out a deep sea diving suit at the Maritime Museum of B.C." title="Grade 5 kids Ryan Thorpe and April Funk check out a deep sea diving suit at the Maritime Museum of B.C.">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">It's no wonder some visitors to What Lies Beneath could be heard humming Under the Sea and recalling underwater movies from The Little Mermaid to The Abyss when the new undersea exploration exhibit surfaced...</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication19">
+<!-- legoctl: ctl19 --><!-- CACHE HIT: syndication19 -->
+<!-- Source="917208.atom" --><div class="section_title">
+  <h3>
+    <span>Life</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/life/Siblings+stress+over+aging+parents/5998722/story.html?cid=megadrop_story">
+          <span>Siblings stress over aging parents</span>
+        </a>
+      </li>
+      <li>
+        <a href="/life/spice+cold+dish/5998724/story.html?cid=megadrop_story">
+          <span>How to use a hot spice in a cold dish</span>
+        </a>
+      </li>
+      <li>
+        <a href="/life/When+kids+hospital/5994306/story.html?cid=megadrop_story">
+          <span>When kids go to hospital</span>
+        </a>
+      </li>
+      <li>
+        <a href="/life/Send+your+parenting+questions+solutions/5994321/story.html?cid=megadrop_story">
+          <span>Send us your parenting questions and solutions</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Blogs</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication20">
+<!-- legoctl: ctl20 --><!-- CACHE HIT: syndication20 -->
+<!-- Source="http://blogs.timescolonist.com/category/life/feed" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://blogs.timescolonist.com/2012/01/14/buddhist-mindfulness-helps-christians-rediscover-beliefs/">
+          <span>Buddhist âmindfulnessâ helps Christians rediscover...</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://blogs.timescolonist.com/2012/01/14/respect-vital-in-discussions-of-religion/">
+          <span>Respect Vital in Discussions of Religion.</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://blogs.timescolonist.com/2012/01/13/how-much-are-you-spending/">
+          <span>How much are you spending?</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://blogs.timescolonist.com/2012/01/13/buick-gs-punches-above-its-weight-in-class/">
+          <span>Buick GS punches above its weight in class</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://blogs.timescolonist.com/2012/01/12/tasy-recipes-for-ground-beef/">
+          <span>Tasty recipes for ground beef</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://blogs.timescolonist.com/2012/01/11/thank-you-victoria/">
+          <span>Thank you Victoria!</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="/life">More in Life</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="health" class="mainnav">
+		<a class="navitem" href="/health/"><span>Health</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Health</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/health/"><span>Home</span></a></li>
+										<li><a href="/health/women/index.html"><span>Women</span></a></li>
+										<li><a href="/health/men/index.html"><span>Men</span></a></li>
+										<li><a href="/health/family-child/index.html"><span>Family &#38; Child</span></a></li>
+										<li><a href="/health/seniors/index.html"><span>Seniors</span></a></li>
+										<li><a href="/health/sexual-health/"><span>Sexual Health</span></a></li>
+										<li class="lastlink"><a href="/health/diet-fitness/index.html"><span>Diet &#38; Fitness</span></a></li>
+								
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication21">
+<!-- legoctl: ctl21 --><!-- CACHE HIT: syndication21 -->
+<!-- Source="797049.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/health/Postponing+parenthood+could+have+serious+consequences+warns+study/6007363/story.html?cid=megadrop_story" class="feature01">
+          <span>Postponing parenthood could have serious consequences, warns...</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="/health/Postponing+parenthood+could+have+serious+consequences+warns+study/6007363/story.html?cid=megadrop_story">
+        <img border="0" src="4907023.bin?cid=megadrop_story&amp;size=130x88" alt="Mother and baby" title="Mother and baby">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">Men, and not just women, need to be aware of the "reproductive consequences" of postponing parenthood, new national guidelines on the risks of delayed child-bearing warn.</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+          <li class="doc">
+            <a href="/health/twin+embryos+help+each+other+survive/5936355/story.html?cid=megadrop_story">
+              <span>Do twin embryos help each other survive?</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="/health/Lots+pregnancies+linked+healthier+heart/5813944/story.html?cid=megadrop_story">
+              <span>Lots of pregnancies linked to a healthier heart</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="/health/Healthy+male+diet+boost+success+Study/5744321/story.html?cid=megadrop_story">
+              <span>Healthy male diet may boost IVF success: Study</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="/health/killing+your+sperm+Quantity+quality+matter+male+fertility/5696774/story.html?cid=megadrop_story">
+              <span>Men, are you killing your sperm? Quantity, quality matter in male fertility</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="/health/Using+embryo+doesn+birth+rate+Study/5597839/story.html?cid=megadrop_story">
+              <span>Using one embryo in IVF doesn't cut birth rate: Study</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication22">
+<!-- legoctl: ctl22 --><!-- CACHE HIT: syndication22 -->
+<!-- Source="797049.atom" --><div class="section_title">
+  <h3>
+    <span>Abortion</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/health/Concealing+fetus+could+curb+abortion+trend+CMAJ+editional/6003003/story.html?cid=megadrop_story">
+          <span>Concealing fetus sex could curb abortion trend: CMAJ editional</span>
+        </a>
+      </li>
+      <li>
+        <a href="/health/Toronto+mayor+brother+kick+their+weight+loss+campaign/6003998/story.html?cid=megadrop_story">
+          <span>Toronto mayor, brother kick off their weight-loss campaign</span>
+        </a>
+      </li>
+      <li>
+        <a href="/health/German+researchers+pave+cheaper+malaria+drug/6008090/story.html?cid=megadrop_story">
+          <span>German researchers pave way to cheaper malaria drug</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Health Club</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication23">
+<!-- legoctl: ctl23 --><!-- CACHE HIT: syndication23 -->
+<!-- Source="1894341.atom" --><div class="section_title">
+  <h3>
+    <span>Fitness</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/health/optimize+exercise+heed+your+heart+rate+training+zone/5968788/story.html?cid=megadrop_story">
+          <span>To optimize exercise, heed your heart rate training...</span>
+        </a>
+      </li>
+      <li>
+        <a href="/health/Begin+2012+healthy+note/5968696/story.html?cid=megadrop_story">
+          <span>Begin 2012 on a healthy note</span>
+        </a>
+      </li>
+      <li>
+        <a href="/health/Calorie+counters+fooled+side+salad+illusion/5957846/story.html?cid=megadrop_story">
+          <span>Calorie counters fooled by 'side-salad illusion'</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="/health">More in Health</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="technology" class="mainnav">
+		<a class="navitem" href="/technology/"><span>Technology</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Technology</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/technology/"><span>Home</span></a></li>
+										<li><a href="/technology/personal-tech/index.html"><span>Personal Tech</span></a></li>
+										<li><a href="/technology/gaming/index.html"><span>Gaming</span></a></li>
+										<li><a href="/technology/tech-biz/index.html"><span>Tech&ndash;Biz</span></a></li>
+										<li><a href="/technology/internet/index.html"><span>Internet</span></a></li>
+										<li><a href="/technology/environment/index.html"><span>Environment</span></a></li>
+										<li><a href="/technology/space/index.html"><span>Space</span></a></li>
+										<li><a href="/technology/science/index.html"><span>Science</span></a></li>
+										<li class="lastlink"><a href="/technology/youtube/index.html"><span>Best of YouTube</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication24">
+<!-- legoctl: ctl24 --><!-- CACHE HIT: syndication24 -->
+<!-- Source="797532.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/technology/Gallery+cancelled+Steve+Jobs+action+figure/5941061/story.html?cid=megadrop_story" class="feature01">
+          <span>Gallery: The cancelled Steve Jobs action figure</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="/technology/Gallery+cancelled+Steve+Jobs+action+figure/5941061/story.html?cid=megadrop_story">
+        <img border="0" src="5941237.bin?cid=megadrop_story&amp;size=130x88" alt="Steve Jobs action figure" title="Steve Jobs action figure">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">In Icons has cancelled the production of this 12" Steve Jobs action figure due to pressures from Apple lawyers. Take a look at the doll that might have been, which looks bizarrely similar to the late ...</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+          <li class="doc">
+            <a href="https://twitter.com/#!/canadacomTech">
+              <span>Follow canada.com Tech on Twitter</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="/technology/Grammy+goes+Steve+Jobs/5917592/story.html?cid=megadrop_story">
+              <span>And the Grammy goes to - Steve Jobs</span>
+            </a>
+          </li>
+          <li class="text/xml">
+            <a href="/technology/Photos+Steve+Jobs+statue+unveiled/5899360/story.html?cid=megadrop_story">
+              <span>Photos: Steve Jobs statue unveiled</span>
+            </a>
+          </li>
+          <li class="text/xml">
+            <a href="/technology/Photos+Apple+stores+shut+during+Steve+Jobs+memorial/5575317/story.html?cid=megadrop_story">
+              <span>Photos: Apple stores shut during Steve Jobs memorial</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication25">
+<!-- legoctl: ctl25 --><!-- CACHE HIT: syndication25 -->
+<!-- Source="797532.atom" --><div class="section_title">
+  <h3>
+    <span>Cyber Crime</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/technology/rise+Canadian+cyber+crime/6008173/story.html?cid=megadrop_story">
+          <span>The rise of Canadian cyber crime</span>
+        </a>
+      </li>
+      <li>
+        <a href="/technology/Canada+winning+Youtube/6008113/story.html?cid=megadrop_story">
+          <span>How Canada is winning Youtube</span>
+        </a>
+      </li>
+      <li>
+        <a href="/technology/Rhino+romance+save+species/6008195/story.html?cid=megadrop_story">
+          <span>Rhino romance may save species</span>
+        </a>
+      </li>
+      <li>
+        <a href="/technology/Mitch+Joel+rise+Google/6008103/story.html?cid=megadrop_story">
+          <span>Mitch Joel on the rise of Google+</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Science</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication26">
+<!-- legoctl: ctl26 --><!-- CACHE HIT: syndication26 -->
+<!-- Source="976675.atom" --><div class="section_title">
+  <h3>
+    <span>Animals</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/technology/Rhino+romance+save+species/6008195/story.html?cid=megadrop_story">
+          <span>Rhino romance may save species</span>
+        </a>
+      </li>
+      <li>
+        <a href="/technology/Extinct+Galapagos+turtle+alive/5972914/story.html?cid=megadrop_story">
+          <span>Extinct Galapagos turtle may be alive</span>
+        </a>
+      </li>
+      <li>
+        <a href="/technology/Possible+lost+world+found+Lake+Huron/5961424/story.html?cid=megadrop_story">
+          <span>Possible lost world found in Lake Huron</span>
+        </a>
+      </li>
+      <li>
+        <a href="/technology/Super+Soldier+ants+created+McGill/5957469/story.html?cid=megadrop_story">
+          <span>New Super Soldier ants created by McGill</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="/technology">More in Technology</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="travel" class="mainnav">
+		<a class="navitem" href="/travel/"><span>Travel</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Travel</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="/travel/"><span>Home</span></a></li>
+										<li><a href="/travel/ideas/"><span>Trip Ideas</span></a></li>
+										<li><a href="/travel/tools/"><span>Tools &amp; Tips</span></a></li>
+										<li><a href="/travel/community/"><span>Community</span></a></li>
+										<li class="lastlink"><a href="/travel/destinations/index.html"><span>Destination Guides</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication27">
+<!-- legoctl: ctl27 --><!-- CACHE HIT: syndication27 -->
+<!-- Source="946892.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/travel/Gallery+places+visit+when+retire/6003054/story.html?cid=megadrop_story" class="feature01">
+          <span>Gallery: 32 places to visit when you retire</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="/travel/Gallery+places+visit+when+retire/6003054/story.html?cid=megadrop_story">
+        <img border="0" src="4521616.bin?cid=megadrop_story&amp;size=130x88" alt="The world's highest hotel  is the Ritz-Carlton in Hong Kong" title="The world's highest hotel  is the Ritz-Carlton in Hong Kong">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">Here are the top 32 places that everyone should have on their to-see bucket list.</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication28">
+<!-- legoctl: ctl28 --><!-- CACHE HIT: syndication28 -->
+<!-- Source="946892.atom" --><div class="section_title">
+  <h3>
+    <span>Travel: 2012</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/travel/reasons+2012/5985655/story.html?cid=megadrop_story">
+          <span>30 reasons to get up &amp; go in 2012</span>
+        </a>
+      </li>
+      <li>
+        <a href="/travel/Barths+outrageously+expensive+doesn+have/5985592/story.html?cid=megadrop_story">
+          <span>St. Barths can be outrageously expensive, but it doesn't have to be</span>
+        </a>
+      </li>
+      <li>
+        <a href="/travel/Just+visitors+year+venture+North+Pole/5967231/story.html?cid=megadrop_story">
+          <span>Just 1,000 visitors a year venture to the North Pole</span>
+        </a>
+      </li>
+      <li>
+        <a href="/travel/most+interesting+cities+visit+this+year/5978566/story.html?cid=megadrop_story">
+          <span>Top 5 most interesting cities to visit this year</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Local Stories</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication29">
+<!-- legoctl: ctl29 --><!-- CACHE HIT: syndication29 -->
+<!-- Source="969988.atom" --><div class="section_title">
+  <h3>
+    <span>Travel: Spas</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/travel/Beauty+body+treatments+spas+close+Montreal/5991405/story.html?cid=megadrop_story">
+          <span>Beauty and body treatments at spas close to Montreal...</span>
+        </a>
+      </li>
+      <li>
+        <a href="/travel/Snowshoeing+foray+into+white+pale+winter/5973529/story.html?cid=megadrop_story">
+          <span>Snowshoeing: A foray into the white pale of winter</span>
+        </a>
+      </li>
+      <li>
+        <a href="/travel/1812+bicentennial+offers+wealth+historic+sites+visit+this+year/5950422/story.html?cid=megadrop_story">
+          <span>War of 1812 bicentennial offers a wealth of historic...</span>
+        </a>
+      </li>
+      <li>
+        <a href="/travel/Thompson+hotel+well+placed+exploring+Toronto+trendy+King+West+area/5894480/story.html?cid=megadrop_story">
+          <span>The Thompson hotel is well placed for exploring Toronto...</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="/travel">More in Travel</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="jobs" class="mainnav">
+		<a class="navitem" href="http://www.working.com/victoria/index.html"><span>Jobs</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Jobs</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="http://www.working.com/victoria/index.html"><span>Home</span></a>
+										<li><a href="http://jobs.timescolonist.com/careers/jobsearch?new=1&searchType=advanced"><span>Search Jobs</span></a></li>
+										<li><a href="http://www.working.com/victoria/resources/"><span>Resources</span></a></li>
+										<li><a href="http://jobs.timescolonist.com/careers/mediaKit/vert"><span>Post Jobs</span></a></li>
+										<li><a href="http://jobs.timescolonist.com/jobs/jobseeker"><span>Jobseekers</span></a></li>
+										<li class="lastlink"><a href="http://jobs.timescolonist.com/careers/employer"><span>Employer Login</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication30">
+<!-- legoctl: ctl30 --><!-- CACHE HIT: syndication30 -->
+<!-- Source="829120.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=5945571" class="feature01">
+          <span>Incentives can boost bottom line, curb turnover</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=5945571">
+        <img border="0" src="5945596.bin?cid=megadrop_story&amp;size=130x88" alt="Benefits" title="Benefits">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">At NCM Associates in Overland Park, Kan., employees are getting a gift that will keep on giving: an infusion into their nest eggs.</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+          <li class="doc">
+            <a href="http://jobs.working.com/jobs/search/advanced?new=1&amp;searchType=advanced">
+              <span>Find a job!</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=5945610">
+              <span>Successful, but unmotivated</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=5712380">
+              <span>Help Wanted: Pensions and jobless benefits</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=5638007">
+              <span>Home-work nets benefits</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=5830187">
+              <span>Local employers focusing on worker retention</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication31">
+<!-- legoctl: ctl31 --><!-- CACHE HIT: syndication31 -->
+<!-- Source="829120.atom" --><div class="section_title">
+  <h3>
+    <span>Career Coach</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://blogs.canada.com/2012/01/16/career-coach-hints-to-help-bump-up-2012/">
+          <span>Career Coach: Hints to help bump up 2012</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=5972957">
+          <span>Never too late to alter bad habits</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>More Stories</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication32">
+<!-- legoctl: ctl32 --><!-- CACHE HIT: syndication32 -->
+<!-- Source="829120.atom" --><div class="section_title">
+  <h3>
+    <span>Labour Unrest</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=6002281">
+          <span>Microsoft probes labour unrest at Shanghai plant</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=6002258">
+          <span>Human rights boss must clear 'toxic' air: Ottawa</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=5985706">
+          <span>Tolerance tied to exposure: study</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.working.com/victoria/story.html?cid=megadrop_story&amp;id=5984415">
+          <span>Woodworking shop lets Grade 8 students try skilled...</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="http://www.working.com/victoria/">More in Jobs</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="cars" class="mainnav">
+		<a class="navitem" href="http://www.driving.ca/victoria/index.html"><span>Cars</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Cars</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="http://www.driving.ca/victoria/index.html"><span>Home</span></a>
+										<li><a href="http://www.driving.ca/victoria/buy-car/new/index.html"><span>New</span></a></li>
+										<li><a href="http://www.driving.ca/victoria/buy-car/used/index.html"><span>Used</span></a></li>
+										<li><a href="/cardeals/index.html"><span>Weekly Specials</span></a></li>
+										<li><a href="http://www.driving.ca/victoria/sell-car/index.html"><span>Sell</span></a></li>
+										<li><a href="http://www.driving.ca/victoria/research-car/index.html"><span>Research & Compare</span></a></li>
+										<li><a href="http://www.driving.ca/victoria/research-car/news/index.html"><span>News & Events</span></a></li>
+										<li><a href="http://www.driving.ca/victoria/videos/index.html"><span>Videos</span></a></li>
+										<li class="lastlink"><a href="http://www.driving.ca/victoria/special-features/index.html"><span>Features</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication33">
+<!-- legoctl: ctl33 --><!-- CACHE HIT: syndication33 -->
+<!-- Source="1011112.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="http://www.driving.ca/victoria/Alberta+year+over+year+auto+sales+best+Canada/6007711/story.html?cid=megadrop_story" class="feature01">
+          <span>Alberta year-over-year auto sales best in Canada</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="http://www.driving.ca/victoria/Alberta+year+over+year+auto+sales+best+Canada/6007711/story.html?cid=megadrop_story">
+        <img border="0" src="6002176.bin?cid=megadrop_story&amp;size=130x88" alt="Alberta new motor vehicle sales are up substantially from a year ago." title="Alberta new motor vehicle sales are up substantially from a year ago.">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">Although new motor vehicle sales in November dipped in Alberta from the previous month, the province still had the best year-over-year rate of growth in the country. Statistics Canada said Monday that...</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+          <li class="doc">
+            <a href="http://www.driving.ca/victoria/Fuel+economy+what+sells/5984542/story.html?cid=megadrop_story">
+              <span>Fuel economy is what sells</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.driving.ca/victoria/Honda+Toyota+predict+gains/5980497/story.html?cid=megadrop_story">
+              <span>Honda, Toyota predict big gains</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.driving.ca/victoria/Civic+still+tops+Ford+claims+2011+sales+crown/5945642/story.html?cid=megadrop_story">
+              <span>Civic still tops, but Ford claims 2011 sales crown</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.driving.ca/victoria/Audi+Auto+industry+faces+tougher+year+2012/5923446/story.html?cid=megadrop_story">
+              <span>Audi CEO: Auto industry faces tougher year in 2012</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication34">
+<!-- legoctl: ctl34 --><!-- CACHE HIT: syndication34 -->
+<!-- Source="1011112.atom" --><div class="section_title">
+  <h3>
+    <span>Corvett</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://www.driving.ca/victoria/Photos+Chevrolet+sends+Corvette+with+collector+edition/5993107/story.html?cid=megadrop_story">
+          <span>Photos: Chevrolet sends C6 Corvette off with collector edition</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.driving.ca/victoria/invest+about+million+plant+2014/5985442/story.html?cid=megadrop_story">
+          <span>BMW to invest about $900 million in U.S. plant by 2014</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.driving.ca/victoria/Class+action+American+Honda+thrown/5986514/story.html?cid=megadrop_story">
+          <span>Class-action vs American Honda thrown out</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.driving.ca/victoria/German+union+talks+restructure+Opel/5984498/story.html?cid=megadrop_story">
+          <span>GM, German union in talks to restructure Opel</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.driving.ca/victoria/China+2011+sales+rise+slowest+annual+pace/5984606/story.html?cid=megadrop_story">
+          <span>China 2011 car sales rise at slowest annual pace</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Features</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication35">
+<!-- legoctl: ctl35 --><!-- CACHE HIT: syndication35 -->
+<!-- Source="1955187.atom" --><div class="section_title">
+  <h3>
+    <span>Toyota Tacoma</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://www.driving.ca/Winter+diary+2012+Toyota+Tacoma/5979251/story.html">
+          <span>Winter Diary, 2012 Toyota Tacoma V6</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.driving.ca/microsites/autoshow/index.html">
+          <span>Auto Shows</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.driving.ca/victoria/index.html">
+          <span>2012 New Model Preview</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.driving.ca/victoria/index.html">
+          <span>Special: Driver Education</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.driving.ca/victoria/index.html">
+          <span>Winter driving guide</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="http://www.driving.ca/victoria">More in Cars</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="homes" class="mainnav">
+		<a class="navitem" href="http://www.househunting.ca/victoria/"><span>Homes</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Homes</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="http://www.househunting.ca/victoria"><span>Home</span></a>
+										<li><a href="http://www.househunting.ca/victoria/sale-and-rent/index.html"><span>For Sale/Rent</span></a></li>
+										<li><a href="http://www.househunting.ca/victoria/Buying-Homes/index.html"><span>Real Estate Advice</span></a></li>
+										<li><a href="http://www.househunting.ca/victoria/Home-Renovating/index.html"><span>Renovating</span></a></li>
+										<li><a href="http://www.househunting.ca/victoria/decorating/index.html"><span>Decorating</span></a></li>
+										<li><a href="http://www.househunting.ca/victoria/Homes-and-Gardens/index.html"><span>Gardening</span></a></li>
+										<li><a href="http://www.househunting.ca/victoria/Vacation-Homes/index.html"><span>Vacation Homes</span></a></li>
+										<li class="lastlink"><a href="/mikeholmes"><span>Mike Holmes</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication36">
+<!-- legoctl: ctl36 --><!-- CACHE HIT: syndication36 -->
+<!-- Source="1816193.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="http://www.househunting.ca/victoria/Chef+playground+kitchen+back/5979868/story.html?cid=megadrop_story" class="feature01">
+          <span>Chef's playground is the kitchen out back</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="http://www.househunting.ca/victoria/Chef+playground+kitchen+back/5979868/story.html?cid=megadrop_story">
+        <img border="0" src="5979880.bin?cid=megadrop_story&amp;size=130x88" alt="Chef Celestino Drago" title="Chef Celestino Drago">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">Walk in the front door of chef Celestino Drago's Sherman Oaks, California, home, through the soaring foyer and the wide-open designer kitchen and out the back door, and you might think you've been transported...</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+          <li class="doc">
+            <a href="http://www.househunting.ca/victoria/vegetable+taste+small+containers/5979122/story.html?cid=megadrop_story">
+              <span>Big vegetable taste in small containers</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.househunting.ca/victoria/Exciting+seeds+worth+trying/5967987/story.html?cid=megadrop_story">
+              <span>Exciting new seeds worth trying out</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.househunting.ca/victoria/Gardening+trends+2012/5978268/story.html?cid=megadrop_story">
+              <span>Gardening trends for 2012</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.househunting.ca/victoria/Urban+farmers+take+over+zone/5580918/story.html?cid=megadrop_story">
+              <span>Urban farmers take over 'war zone'</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.househunting.ca/victoria/Edible+ornamental/5066485/story.html?cid=megadrop_story">
+              <span>Edible and ornamental</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.househunting.ca/victoria/Plants+return+yearly+like+welcome+guests/5300592/story.html?cid=megadrop_story">
+              <span>Plants return yearly like welcome guests</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="http://www.househunting.ca/victoria/Farming+vertical+veggies+indoors/5051309/story.html?cid=megadrop_story">
+              <span>Farming vertical veggies indoors</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication37">
+<!-- legoctl: ctl37 --><!-- CACHE HIT: syndication37 -->
+<!-- Source="1816193.atom" --><div class="section_title">
+  <h3>
+    <span>Home Style</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://www.househunting.ca/victoria/Year+home+ideas+that+yours/6002573/story.html?cid=megadrop_story">
+          <span>New Year, new home ideas that are yours</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.househunting.ca/victoria/Back+Canada+need+home/6002550/story.html?cid=megadrop_story">
+          <span>Back in Canada: In need of home</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.househunting.ca/victoria/slipcover/6002534/story.html?cid=megadrop_story">
+          <span>To slipcover or not?</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.househunting.ca/victoria/blanc+canvas/6002110/story.html?cid=megadrop_story">
+          <span>The blanc canvas</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Features</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication38">
+<!-- legoctl: ctl38 --><!-- CACHE HIT: syndication38 -->
+<!-- Source="1816193.atom" --><div class="section_title">
+  <h3>
+    <span>Clutter</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://www.househunting.ca/victoria/Relieve+stress+this+year+banishing+clutter/5991617/story.html?cid=megadrop_story">
+          <span>Relieve stress this year by banishing the clutter</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.househunting.ca/victoria/Swarovski+pitches+create+sparkling+toilet/5991716/story.html?cid=megadrop_story">
+          <span>Swarovski pitches in to create sparkling toilet</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.househunting.ca/victoria/Latin+America+rated+tops+retirement/5978703/story.html?cid=megadrop_story">
+          <span>Latin America rated tops for retirement</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.househunting.ca/victoria/Contractor+turns+wood+into+rustic+chic/5979027/story.html?cid=megadrop_story">
+          <span>Contractor turns old wood into 'rustic chic'</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.househunting.ca/victoria/Exciting+seeds+worth+trying/5967987/story.html?cid=megadrop_story">
+          <span>Exciting new seeds worth trying out</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="http://www.househunting.ca/victoria">More in Homes</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+	<li id="classifieds" class="mainnav">
+		<a class="navitem" href="http://victoriatimescolonist.oodle.com"><span>Classifieds</span></a>
+		<div class="subnav">
+<a class="close-button"><img src="/images/button_close.jpg" alt="close" /></a>
+			<div class="subnavcontent">
+				<div class="wrapper_0_10_0_10">
+					<div class="col_170" style="overflow:hidden;">
+						<div class="col_160 tagged">
+							<div class="section_title">
+								<h3><span>In Classifieds</span></h3>
+								<div class="clear">&nbsp;</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div id="textlinks">
+								<div class="featurecontent">
+									<ul class="bullet">
+										<li class="section_home"><a href="http://victoriatimescolonist.oodle.com"><span>Home</span></a>
+										<li><a href="http://classifieds.canada.com/celebrating/victoria/index.html"><span>Announcements</span></a></li>
+										<li><a href="http://personals.canada.com/?CCCityNear=1540"><span>Dating</span></a></li>
+										<li><a href="http://www.legacy.com/obituaries/timescolonist/"><span>Obituaries</span></a></li>
+										<li><a href="http://www.working.com/victoria/index.html"><span>Job Listings</span></a></li>
+										<li><a href="http://autos.canada.com/index.html?branding=victoria"><span>Car Listings</span></a></li>
+										<li><a href="http://www.househunting.ca"><span>Real Estate For Sale/Rent</span></a></li>
+										<li><a href="http://www.timescolonist.com/shopping"><span>Shopping</span></a></li>
+										<li class="lastlink"><a href="http://victoriatimescolonist.adperfect.com"><span>Place an Ad</span></a></li>
+										<!--li class="lastlink"><a href="http://www.flyercity.ca?p=timescolonist"><span>FlyerCity</span></a></li-->
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_370" style="overflow:hidden;">
+						<div class="col_360">
+							<div class="section_title">
+								<h3><span>Top Stories</span></h3>
+							</div>
+							<div class="clear">&nbsp;</div>
+							<div class="no_section_title">
+								<div id="syndication39">
+<!-- legoctl: ctl39 --><!-- CACHE HIT: syndication39 -->
+<!-- Source="1011112.atom" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="topfeature03" class="topfeature03">
+  <div class="featurecontent">
+    <div class="headline">
+      <h1>
+        <a href="/news/Alberta+year+over+year+auto+sales+best+Canada/6007711/story.html?cid=megadrop_story" class="feature01">
+          <span>Alberta year-over-year auto sales best in Canada</span>
+        </a>
+      </h1>
+    </div>
+    <div class="clear">Â </div>
+    <div class="col_image">
+      <a href="/news/Alberta+year+over+year+auto+sales+best+Canada/6007711/story.html?cid=megadrop_story">
+        <img border="0" src="6002176.bin?cid=megadrop_story&amp;size=130x88" alt="Alberta new motor vehicle sales are up substantially from a year ago." title="Alberta new motor vehicle sales are up substantially from a year ago.">
+      </a>
+      <div class="clear">Â </div>
+      <span class="photo_credit"></span>
+    </div>
+    <div class="col_content">
+      <div class="content">
+        <span class="text">Although new motor vehicle sales in November dipped in Alberta from the previous month, the province still had the best year-over-year rate of growth in the country. Statistics Canada said Monday that...</span>
+        <div class="clear">Â </div>
+      </div>
+      <div class="relatedlinks">
+        <ul class="bullet">
+          <li class="doc">
+            <a href="/news/Fuel+economy+what+sells/5984542/story.html?cid=megadrop_story">
+              <span>Fuel economy is what sells</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="/news/Honda+Toyota+predict+gains/5980497/story.html?cid=megadrop_story">
+              <span>Honda, Toyota predict big gains</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="/news/Civic+still+tops+Ford+claims+2011+sales+crown/5945642/story.html?cid=megadrop_story">
+              <span>Civic still tops, but Ford claims 2011 sales crown</span>
+            </a>
+          </li>
+          <li class="doc">
+            <a href="/news/Audi+Auto+industry+faces+tougher+year+2012/5923446/story.html?cid=megadrop_story">
+              <span>Audi CEO: Auto industry faces tougher year in 2012</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div></div>
+ 
+								<div class="clear">&nbsp;</div>
+								<div class="rule_grey_solid">&nbsp;</div>
+								<div class="clear">&nbsp;</div>
+								<div class="textheadlines wrapper_10_0_0_0">
+									<div id="syndication40">
+<!-- legoctl: ctl40 --><!-- CACHE HIT: syndication40 -->
+<!-- Source="1011112.atom" --><div class="section_title">
+  <h3>
+    <span>Corvett</span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="/news/Photos+Chevrolet+sends+Corvette+with+collector+edition/5993107/story.html?cid=megadrop_story">
+          <span>Photos: Chevrolet sends C6 Corvette off with collector edition</span>
+        </a>
+      </li>
+      <li>
+        <a href="/news/invest+about+million+plant+2014/5985442/story.html?cid=megadrop_story">
+          <span>BMW to invest about $900 million in U.S. plant by 2014</span>
+        </a>
+      </li>
+      <li>
+        <a href="/news/Class+action+American+Honda+thrown/5986514/story.html?cid=megadrop_story">
+          <span>Class-action vs American Honda thrown out</span>
+        </a>
+      </li>
+      <li>
+        <a href="/news/German+union+talks+restructure+Opel/5984498/story.html?cid=megadrop_story">
+          <span>GM, German union in talks to restructure Opel</span>
+        </a>
+      </li>
+      <li>
+        <a href="/news/China+2011+sales+rise+slowest+annual+pace/5984606/story.html?cid=megadrop_story">
+          <span>China 2011 car sales rise at slowest annual pace</span>
+        </a>
+      </li>
+      <li>
+        <a href="/news/European+makers+must+consolidate+Fiat/5984665/story.html?cid=megadrop_story">
+          <span>European car makers must consolidate: Fiat CEO</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col_160">
+						<div class="section_title">
+							<h3><span>Features</span></h3>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="no_section_title top-pad">
+							<div id="syndication41">
+<!-- legoctl: ctl41 --><!-- CACHE HIT: syndication41 -->
+<!-- Source="http://realestate.victoriatimescolonist.oodle.com/properties/commercial-property/?v=rss" --><div class="section_title">
+  <h3>
+    <span></span>
+  </h3>
+</div>
+<div class="clear">Â </div>
+<div id="textlinks">
+  <div class="featurecontent">
+    <ul class="bullet">
+      <li>
+        <a href="http://victoriatimescolonist.canada.oodle.com/u_rsxx_/2806101800-P1_1093u566,305/realestate.victoriatimescolonist.oodle.com___qmsgGFddk81kawkqbThWfpt-qqXccOfN5X90BuCP7q421OZF8PfLyWoyfVEGcSl_CezG1jPqd71Xom2WXppARKiTl1DIzokXKQ85iP-JloMz-VTyzRj9DUkSASIcSOJTSlAkPbAMe-xv3SHOwNOxEA,,">
+          <span>Own Ladysmiths Only Motel (Dan Morris) $1,199,900</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div></div>
+
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="view-more">
+						<div class="view-more-right"></div>
+						<div class="view-more-mid"><a href="http://victoriatimescolonist.oodle.com">More in Classifieds</a></div>
+						<div class="view-more-left"></div>
+						<div class="clear">&nbsp;</div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>
+				<div class="dottedline"></div>
+			</div>
+		</div>
+	</li>
+</ul>
+<div class="clear">&nbsp;</div>
+<div class="dmiss">
+	<div class="dmiss-container-rel">
+	<div class="dmiss-word">Don't miss: </div>
+	<div id="syndication42">
+<!-- legoctl: ctl42 --><!-- CACHE HIT: syndication42 -->
+<!-- Source="974354.atom" --><ul class="bullet">
+  <li>
+    <a href="http://www.timescolonist.com/press-plus/faqs.html#1">
+      <span>Online subscriptions</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.timescolonist.com/life/food-drink/index.html">
+      <span>Island Food/Drinks</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.timescolonist.com/news/photos/index.html">
+      <span>Photo galleries</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.legacy.com/can-victoria/obituaries.asp">
+      <span>Obituaries</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://shopping.timescolonist.com/ROP/Categories.aspx">
+      <span>TC print ads</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.timescolonist.com/entertainment/music/downloads/index.html">
+      <span>Music Downloads</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.timescolonist.com/news/todays-paper/index.html">
+      <span>Today's Paper/Archive</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="">
+    <span></span>
+  </a> Â»
+			<a class="rss" href="http://www.timescolonist.com/974354.ATOM"><span>RSS</span></a></div></div>
+
+</div>
+	<div class="clear">&nbsp;</div>
+</div>
+<!--/victoriatimescolonist/header_nav.inc -->
+				</div>
+				<!-- navbarwrapper ends -->
+			</div>
+			<!-- navabr ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="contentbody">
+			
+				<div class="promobannerwrapper">
+					<!-- /promobanner_story.inc -->
+	<div id="dartad43">
+<!-- legoctl: ctl43 --><!-- NO CACHE: dartad43 -->
+
+                        <script type="text/javascript">
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>');
+                        </script>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
+                        {
+                            surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        <noscript>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?" /></a>
+                </noscript>
+</div>
+
+<!-- /promobanner_story.inc -->
+				</div>
+				<!-- promobannerwrapper ends -->
+				<div class="clear">&nbsp;</div>
+			
+				<div class="bodywrapper">
+					
+					 
+
+<!-- /promobanner.inc -->
+	<div id="dartad44">
+<!-- legoctl: ctl44 --><!-- NO CACHE: dartad44 -->
+
+                        <script type="text/javascript">
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>');
+                        </script>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
+                        {
+                            surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        <noscript>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?" /></a>
+                </noscript>
+</div>
+
+<!-- /promobanner.inc -->
+
+<div class="clear">&nbsp;</div>
+
+
+<div class="col_640">
+	
+	<div class="clear">&nbsp;</div>
+	<div id="LEGO_story">
+<!-- legoctl: ctl45 --><!-- CACHE HIT: LEGO_story -->
+
+
+<div id="storypage" class="story_content" xmlns:fb="urn:facebook.com:fb"><div class="wrapper_0_20_0_0"><script type="text/javascript">
+				CDMScriptManager.load('/js/SpiderRedirect.js');
+			</script><script type="text/javascript">
+				CDMScriptManager.load('/js/pluck/pluckLocal.js');
+				CDMScriptManager.load('http://pluck.timescolonist.com/ver1.0/Direct/DirectProxy');
+				CDMScriptManager.load('/js/pluck/pluck.js');				
+				CDMScriptManager.load('/js/adsync/adSyncLibrary.js');
+			</script><script type="text/javascript">
+				if (typeof dartad_url != 'undefined') {
+					var dd = adSync.ParseDartAdUrl(dartad_url);
+					cwZoneAd=dd["zone"];
+					cwSiteAd =dd["site"];
+					cwKeyAd=dd["keyValues"];
+				}else {
+					cwSiteAd = "vtc_bh.com"; // plug in the Ad site variable
+					cwZoneAd= "health/story"; // plug in the ad zone.
+					cwKeyAd="kw=ron;kw=health"; // plug in the Ad key words.
+				}	
+			</script>
+		
+			<script type="text/javascript">
+	
+				var addthis_pub = 'canada.com';
+
+				function tabClick(eventText, hasVideo, id, classname, pause,syncAds)
+				{	
+					//the statsEvent and Ad Refresh have been disabled on the story tab clicks
+					//I've left the code in the xsl (just commented out), in case the decision gets reversed.
+									
+					//omniture event
+					//statsEvent(eventText);	
+					
+					//set tab
+					if(hasVideo)
+						switchTab(id,classname, pause);
+					else
+						setClass(id, classname);
+
+					//refresh ads
+					//if(syncAds)
+						//adSync.TriggerAdSynch();
+				}
+
+				function statsEvent(eventText)
+				{
+					//omniture event
+					s.prop38=s.pageName + eventText;
+					s.events='';
+					void(s.t());				
+				}
+
+				function showTab(firstentrytype)
+				{
+					var tab = getQueryVar('tab');
+					var tabclass = '';
+
+					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == ''))
+						tabclass = 'story_photo_content';
+					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala') && tab == ''))
+						tabclass = 'story_video_content';
+					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == ''))
+						tabclass = 'story_interactive_content';
+
+					if (tabclass != '')
+						setClass('storypage', tabclass);
+				}
+				function EmailThis(qs, emailViewer) 
+				{
+					var url = "http://" + window.location.hostname + window.location.pathname;
+					var id = "";
+
+					id = getQueryVar("id");
+					if (id != "")
+					{
+						url = addQS(url, "id=" + id);
+					}
+					if (qs != "")
+					{
+						url = addQS(url, qs);
+					}
+					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html";
+					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380')
+				}
+				function getQueryVar(key) 
+				{
+					var qs = window.location.search.substring(1);
+					var arrQS = qs.split("&");
+					var value = "";
+
+					for (i=0; i<arrQS.length; i++) {
+						var ft = arrQS[i].split("=");
+						if (ft[0] == key) {
+							value =  ft[1];
+						}
+					}
+
+					return value;
+				}
+				function addQS(theURL, QS)
+				{
+					var url = theURL;
+					if (QS != '')
+					{
+						if (url.indexOf("?") == -1)	{
+							url += "?" + QS;
+						} 
+						else {
+							url += "%26amp;" + QS;
+						}
+					}
+					return url;
+				}
+				function openWindow(theURL, WinName, WinFeatures) {
+					window.open(theURL, WinName, WinFeatures);
+				}
+				function jumpToAnchor(anchor) 
+				{
+					window.location = String(window.location).replace(/\#.*$/, "") + anchor;
+				}
+				function showAd(story_elem, ad_elem, ad_wrapper, offset) {
+					var eosPos = Y(story_elem);
+					var adPos = Y(ad_wrapper);
+					var showAd = false;
+					var offsetPos = 0;
+					
+					if (eosPos >= adPos)
+					{
+						showAd = true;
+					}
+					else
+					{
+						offsetPos = eosPos + offset;
+						if (offsetPos >= adPos)
+						{
+							showAd = true;
+						}
+					}
+
+					// write out ad include
+					if (showAd == true)
+					{
+					   document.getElementById(ad_elem).style.display = "block"; 
+					}
+				}				
+				function X(id) {
+					var obj = document.getElementById(id);
+					var x = obj.offsetLeft
+
+					while (obj = obj.offsetParent) x += obj.offsetLeft
+					return x
+				}
+				function Y(id) {
+					var obj = document.getElementById(id);
+					var y = obj.offsetTop
+
+					while (obj = obj.offsetParent) y += obj.offsetTop
+					return y
+				}
+
+			</script>
+			<script>CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10");</script>
+
+		
+	<div id="storyheader"><div class="headline"><h1>Norovirus outbreak detains students in Victoria</h1></div><div class="clear">Â </div><div class="subheadline"><h2>About 75 students at conference infected in major outbreak at hotel</h2></div><div class="clear">Â </div><div class="byline">
+<span class="name">By Derek Spalding, Times Colonist</span>
+<span class="timestamp">January 17, 2012</span>
+<span id="lblComment" class="comments"></span>
+</div><div class="clear">Â </div></div>
+						
+							<!-- /story_share_bar_1.inc -->
+	
+<script type="text/javascript" src="http://pluck.canada.com/ver1.0/Direct/JavascriptSDKFullProxy"></script>
+
+<div class="sharebar">
+<!-- /story_share_bar_1.inc end -->
+
+						
+						
+						
+							<!-- /story_share_bar_2.inc -->
+	<div class="recomm">
+		<script src="http://connect.facebook.net/en_US/all.js#xfbml=1">
+		</script><fb:like layout="button_count" show_faces="true" width="120" action="recommend"></fb:like>
+	</div>
+<!-- /story_share_bar_2.inc end -->
+						
+						
+						
+							<!-- /story_share_bar_3.inc -->
+	<div class="tweet">
+		<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	</div>
+<!-- /story_share_bar_3.inc end -->
+						
+						
+						
+							<!-- /story_share_bar_4.inc -->
+	<div class="plusone">
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		<g:plusone size="medium" count="true"></g:plusone>
+	</div>
+<!-- /story_share_bar_4.inc end -->
+						
+						
+						
+							<!-- /story_share_bar_6.inc -->
+	<div class="share">
+		<span class="st_sharethis_custom"></span>
+	</div>
+</div>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+		stLight.options({
+				publisher:'8f205be9-8545-4fa3-a030-c83238b6a3e5',
+				offsetLeft:'-265',
+				onhover: false,
+				embeds:'true',
+		});
+</script>
+<!-- /story_share_bar_6.inc end -->
+						
+						<script type="text/javascript">
+						showTab("text/html");
+					</script></div><div class="clear">Â </div>
+		
+			<script type="text/javascript">
+				function resizeImage() {
+					var imgBox = document.getElementById('imageBox');
+					var photo = document.getElementById('storyphoto');
+
+					if (imgBox != null && photo != null)
+					{
+						if(photo.width >= 460) 
+						{
+							imgBox.className = 'imagesize460';
+						}
+						else 
+						{
+							if(photo.width >= 300) 
+							{
+								imgBox.className = 'imagesize310';
+							}
+							else 
+							{
+								imgBox.className = 'imageboxpadding';
+							}
+							imgBox.style.width = photo.width + 'px';
+						}
+					}
+				}
+				function getStoryFontSize() {
+					var storyfontsize = getCookie('storyfontsize');
+					var storyfontimage = getCookie('storyfontimage');
+
+					// use cookied value, if present
+					if (storyfontsize != null)
+					{
+						setClass('story_content',storyfontsize); 
+						if (storyfontimage != null)
+						{
+							setClass('fontsizecontainer',storyfontimage); 
+						}
+					}
+					else	// default it to para14 if no cookie
+					{
+						setClass('story_content','para14'); 
+						setClass('fontsizecontainer','size02');
+					}
+				}
+				function setStoryFontSize(storyfontsize,storyfontimage) {
+					setClass('story_content',storyfontsize); 
+					setClass('fontsizecontainer',storyfontimage);
+					setCookie('storyfontsize', storyfontsize, '365', '/', '', '');
+					setCookie('storyfontimage', storyfontimage, '365', '/', '', '');
+				}
+				function setCookie( name, value, expires, path, domain, secure ) {
+					// set time
+					var today = new Date();
+					today.setTime( today.getTime() );
+
+					if ( expires )
+					{
+						expires = expires * 1000 * 60 * 60 * 24; //days
+					}
+					var expires_date = new Date( today.getTime() + (expires) );
+
+					document.cookie = name + "=" + escape( value ) +
+					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+					( ( path ) ? ";path=" + path : "" ) + 
+					( ( domain ) ? ";domain=" + domain : "" ) +
+					( ( secure ) ? ";secure" : "" );
+				}
+				function getCookie( check_name ) {
+					// split this cookie up into name/value pairs
+					var a_all_cookies = document.cookie.split( ';' );
+					var a_temp_cookie = '';
+					var cookie_name = '';
+					var cookie_value = '';
+					var b_cookie_found = false; // set boolean t/f default f
+					
+					for ( i = 0; i < a_all_cookies.length; i++ )
+					{
+						// split apart each name=value pair
+						a_temp_cookie = a_all_cookies[i].split( '=' );
+						
+						// and trim left/right whitespace while we're at it
+						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+					
+						// if the extracted name matches passed check_name
+						if ( cookie_name == check_name )
+						{
+							b_cookie_found = true;
+							// we need to handle case where cookie has no value but exists (no = sign, that is):
+							if ( a_temp_cookie.length > 1 )
+							{
+								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+							}
+							// note that in cases where cookie is initialized but no value, null is returned
+							return cookie_value;
+							break;
+						}
+						a_temp_cookie = null;
+						cookie_name = '';
+					}
+					if ( !b_cookie_found )
+					{
+						return null;
+					}
+				}				
+			</script>
+		
+	<div id="story_content"><div class="col_480"><div class="col_460"><div id="storycontent" class="para18"><div id="page1"><p>Some of the delegates from a journalism conference in Victoria this weekend were not allowed to fly home Sunday or Monday because of a painful outbreak of norovirus that kept dozens isolated in their hotel rooms.</p><p>About 75 of the 370 university students from across the country were infected as the virus quickly spread throughout the Canadian University Press national conference at the Harbour Towers Hotel and Suites late Saturday.</p><p>WestJet Airlines turned at least one passenger away at Victoria International Airport because he or she was still presenting symptoms.</p><p>Other delegates called ahead to change their flight times based on advice from health officials.</p><p>Both WestJet and Air Canada waved cancellation fees for the affected students, and the hotel allowed the sick a free night's stay as they waited for the virus to pass through their system.</p><p>The first few cases began just before a banquet dinner about 5 p.m. Saturday. Within hours, some students were vomiting on buses and on the dance floor at a weekend gala at Vertigo nightclub.</p><p>Health officials sent paramedics to the hotel overnight Saturday as students isolated themselves in their rooms.</p><p>People typically contract norovirus by transfers of fecal or oral matter. The virus can live on surfaces for hours and is easily transferred via people's hands, according to the Vancouver Island Health Authority.</p><p>Students kept their spirits up during the ordeal, but many of them suffered painful symptoms, including severe stomach cramps, uncontrollable vomiting and diarrhea.</p><p>Delegate Shane Fowler said he avoided the virus until he got back from a night of drinking.</p><p>He had heard that about 25 people had vomited on the bus and in the bar, but said he had no idea of the severity of the problem when he arrived back at the hotel.</p><p>Eventually, the journalist for The Aquinian newspaper at St. Thomas University in Fredericton, N.B., started to show symptoms.</p><p>"None of us heard about norovirus before this and now we are intimately familiar with it, including its exploding consequences," he said. "You don't do much more than sleep, puke and wreck toilets, and it's just rinse and repeat until it passes."</p><p>A head count of infected students stopped at about 50 after 4 a.m. Sunday.</p><p>Since then, Canadian University Press staff have received reports of more people getting sick on their way home.</p><p>"It seems that people who were feeling great got sick later on," said Emma Godmere, national bureau chief for the organization.</p><p>"A lot of CUP staff, who were patrolling through the night, have fell sick as recently as [late Sunday]. So even among our ranks, people have gotten sick."</p><p>B.C. Ambulance Service had several paramedics at the hotel overnight Saturday at the peak of the outbreak, treating the infected. Eleven people were taken to hospital, but most were treated at the hotel to avoid spreading the virus to patients with compromised immune systems.</p><p>About 15 hotel staff called in sick during a 24-hour period from Sunday to Monday, according to management, who said most banquet servers were the hardest hit.</p><p>WestJet reported that it flew out 30 of the delegates on Sunday and another 19 Monday. Just a dozen or so students remained in rooms overnight Monday, hotel manager Ian Jones said.</p><p>dspalding@timescolonist.com</p><div class="copyright">Â© Copyright (c) The Victoria Times Colonist</div></div><div class="clear">Â </div><div class="rule_grey_solid">Â </div><div class="clear">Â </div><div class="story_tool_hr"><div class="story_tool"><ul class="bullet"><li class="email"><a href="javascript:EmailThis('','/story_emailthis.html');"><span>E-mail this Article</span></a></li><li class="print"><a href="javascript:openWindow('/story_print.html?id=6007020&amp;sponsor=','StoryPrint','scrollbars=yes,toolbar=yes,menubar=yes,resizable=yes,width=680,height=650');"><span>Print this Article</span></a></li><li class="share"><span class="st_sharethis">Share this Article</span></li></ul></div></div><div class="clear">Â </div><div class="rule_grey_solid">Â </div><div class="clear">Â </div></div></div></div><div class="col_160"><div class="wrapper_0_20_0_0"><div class="clear">Â </div>
+					 
+					   <!-- geo_location.inc -->
+<div name="geo_stories_around" id="geo_stories_around">
+	<div class="pop-top">
+		<a href="javascript:show_geo_stories();">
+			<img src="/images/heatmap/poptop.jpg" alt="Click here for the hottest stories being read by people in your neighbourhood and across the country." />
+		</a>
+	</div>
+	<div class="pop-bot">
+		<a href="javascript:geolb.mask(jQuery('body'),geolb.getHtmlLearn());">
+			<img src="/images/heatmap/popbot.jpg" alt="Click here for the hottest stories being read by people in your neighbourhood and across the country." />
+		</a>
+	</div>
+</div>
+<div class="story_v2_function"><div id="geo_stories_v2" class="story_v2"></div></div>
+<div id="location_refresh">Location refreshed</div>
+<script type="text/javascript">
+	var geoloc_service_domain = "app.canada.com";
+	var geoloc_postproxy_domain = window.location.hostname+"";
+	CDMScriptManager.load('/js/geo_location.js');
+</script>
+<!-- geo_location.inc -->
+					 
+					<div class="clear"></div><div class="clear">Â </div><div class="story_tool_vr"><div class="story_tool"><div class="section_title"><h3><span>Story Tools</span></h3></div><div class="clear">Â </div><ul class="bullet"><li class="email"><a href="javascript:EmailThis('','/story_emailthis.html');"><span>E-mail this Article</span></a></li><li class="print"><a href="javascript:openWindow('/story_print.html?id=6007020&amp;sponsor=','StoryPrint','toolbar=yes,menubar=yes,scrollbars=yes,resizable=yes,width=680,height=650');"><span>Print this Article</span></a></li><li id="liComment" class="comments"></li><script>jQuery('#liComment').hide();</script></ul><div class="clear">Â </div><div class="fontsize_label">Font:</div><ul id="fontsizecontainer" class="size01"><li><a href="javaScript:setStoryFontSize('para11','size00');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para12','size01');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para14','size02');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para16','size03');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para16C','size04');"><span>*</span></a></li></ul><script type="text/javascript">
+								// load up cookied story font size
+								getStoryFontSize();
+							</script><div class="clear">Â </div><div class="imagesize_label">Image:</div><ul id="imagesizecontainer" class="size01"><li><a href="javascript:setClass('imageBox','imagesize170'); setClass('imageizecontainer','size00');"><span>*</span></a></li><li><a href="javascript:setClass('imageBox','imagesize310'); setClass('imageizecontainer','size01');"><span>*</span></a></li><li><a href="javascript:setClass('imageBox','imagesize460'); setClass('imageizecontainer','size02');"><span>*</span></a></li><li><a href="javaScript:setClass('imageBox','imagesize460'); setClass('imageizecontainer','size02');"><span>*</span></a></li></ul></div></div><div class="clear">Â </div><div class="story_relatedstories"></div><div class="clear">Â </div><div class="sister_publication_links"></div><div class="clear">Â </div><div class="sister_publication_links"><div id="syndication0">
+<!-- legoctl: ctl45$ctl01 --><!-- CACHE MISS: syndication0 -->
+<!-- Source="/scripts/Sp6Related.aspx?id=6007020&source=inform" --><div class="section_title">
+  <h3>
+    <span>Related Stories from Around the Web</span>
+  </h3>
+</div>
+<ul class="nobullet">
+  <li>
+    <a href="http://www.calgaryherald.com/news/WestJet+Dunleavy+leaving+Malaysia+Airlines/5928948/story.html">
+      <span>
+        <span>WestJetâs Dunleavy leaving for Malaysia Airlines</span>
+      </span>
+    </a>
+    <div class="clear">Â </div>
+    <span class="publication_name">Calgary Herald</span>
+    <div class="clear">Â </div>
+    <span class="publication_date">Monday, January 16, 2012</span>
+  </li>
+  <li>
+    <a href="http://www.calgaryherald.com/news/Airline+traffic+ends+year+high/5955432/story.html">
+      <span>
+        <span>Airline traffic ends year on a high</span>
+      </span>
+    </a>
+    <div class="clear">Â </div>
+    <span class="publication_name">Calgary Herald</span>
+    <div class="clear">Â </div>
+    <span class="publication_date">Monday, January 16, 2012</span>
+  </li>
+  <li>
+    <a href="http://www.edmontonjournal.com/business/WestJet+eyes+starting+regional+airline/6002205/story.html">
+      <span>
+        <span>WestJet eyes starting new regional airline</span>
+      </span>
+    </a>
+    <div class="clear">Â </div>
+    <span class="publication_name">Edmonton Journal, Canada</span>
+    <div class="clear">Â </div>
+    <span class="publication_date">Monday, January 16, 2012</span>
+  </li>
+</ul></div>
+</div><div class="clear">Â </div></div></div></div><div class="col_620"><div id="soundoff"><a name="Comments">Â </a><pas:newspaper1_pluck_comments plckRefreshPage="false" plckCommentOnKeyType="article" plckCommentOnKey="SP6:6007020" plckDiscoverySection="VITC_health" plckArticleTitle="Norovirus outbreak detains students in Victoria" plckDiscoverCategories="Contagious and Infectious Diseases,Culture and Lifestyle,Domestic Policy,Emergency Medicine,Government and Politics,Health and Fitness,Hotels,Noroviruses,Political Policy,Politics,Public Health Policy,Social Policy,Travel and Tourism" plckSort="TimeStampDescending" plckAnonymousPostingAllowed="false" plckPersonaDisabled="true" plckCommentSubmitDisabled="true" xmlns:pas="http://pluck.timescolonist.com/2009/pluckApplicationServer"></pas:newspaper1_pluck_comments></div></div><script>
+								jQuery('#soundoff').addClass('hideCommentForm');
+							</script></div><div class="clear" xmlns:fb="urn:facebook.com:fb">Â </div><hr id="EoS" style="visibility:hidden" xmlns:fb="urn:facebook.com:fb"></div>
+
+	<!-- /includes/video_beacon.inc -->
+<script type="text/javascript">
+		var playingAd;
+		document.write("<img id='vid1' height='1' width='1'>");
+		function videoScore(evt){
+			playingAd=evt.data.isAd;
+			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=10276888&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
+		}
+		if (typeof tpController != 'undefined') {
+ 		   tpController.addEventListener("OnMediaStart", "videoScore");
+		}
+	</script>
+<!-- /includes/video_beacon.inc -->
+
+
+</div>
+<!-- col_640 ends -->
+<div class="col_300">
+	<div id="relatedtopics">
+		
+<div id="ctl46_relatedtopics">
+	<div class="section_title">
+		<h3><span>Related Topics</span></h3>
+	</div>
+	<!-- title_section ends -->
+	<div class="clear">&nbsp;</div>
+	<ul id="ctl46_ulTopicResults" class="bullet">
+	<li><a href="/health/topic.html?t=Company&q=WestJet+Airlines+Ltd."><span>WestJet Airlines Ltd.</span></a></li><li><a href="/health/topic.html?t=Organization&q=Canadian+University+Press"><span>Canadian University Press</span></a></li><li><a href="/health/topic.html?t=City&q=Victoria+(British+Columbia)"><span>Victoria (British Columbia)</span></a></li></ul>
+</div>
+
+
+	</div>
+	<!-- relatedtopics ends -->
+	<div class="clear">&nbsp;</div>
+	<div class="bigboxwrapper">
+		<!-- /bigboxad.inc -->
+	
+	<div style="text-align:center;" class="bboxContainer">
+		<div id="dartad47">
+<!-- legoctl: ctl47 --><!-- NO CACHE: dartad47 -->
+
+                        <script type="text/javascript">
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>');
+                        </script>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
+                        {
+                            surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        <noscript>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/vtc_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/vtc_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?" /></a>
+                </noscript>
+</div>
+
+	</div>
+
+<!-- /bigboxad.inc -->
+	</div>
+	<!-- bigboxwrapper ends -->
+	<div class="clear">&nbsp;</div>
+    <!-- shaw widget -->
+    
+    
+    <!-- shaw widget -->
+	<div class="clear">&nbsp;</div>
+	<!--/mostpopular.inc -->
+
+ <div class="tabbox_300">
+    <div class="top">
+      <div class="section_title">
+        <h3><span>Most Popular News</span></h3>
+      </div>
+      <!-- section title ends -->
+    </div>
+    <!-- top ends -->
+    <div class="center">
+		
+		<div id="mostpopular" class="tab_id_01">
+					<div class="textheadlines">
+						<div class="sectiontab">
+							<ul class="tab">
+								<li class="tab01"><a href="javascript:setClass('mostpopular','tab_id_01');"><span>Most Read</span></a></li>
+								<li class="tab02"><a href="javascript:setClass('mostpopular','tab_id_02');"><span>E-mailed</span></a></li>
+								<li class="tab03"><a href="javascript:setClass('mostpopular','tab_id_03');"><span>Commented </span></a></li>
+							</ul>
+							<!-- tab ends -->
+						</div>
+						<!-- sectiontab ends -->
+						<div class="clear">&nbsp;</div>
+						<div class="content content_01">
+							<div id="syndication48">
+<!-- legoctl: ctl48 --><!-- CACHE HIT: syndication48 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
+  <li>
+    <a href="/prepared+cold+snap+snow+forecast/6000430/story.html">
+      <span>Be prepared â cold snap, snow forecast</span>
+    </a>
+  </li>
+  <li>
+    <a href="/highest+national+rate+those+afford+take+drug+prescriptions+directed/6003122/story.html">
+      <span>B.C. has highest national rate of those who can't afford to take drug prescriptions as directed</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Norovirus+outbreak+detains+students+Victoria/6003280/story.html">
+      <span>Norovirus outbreak detains students in Victoria</span>
+    </a>
+  </li>
+  <li>
+    <a href="/MonkeyJunk+tops+blues+awards/6007076/story.html">
+      <span>MonkeyJunk tops blues awards</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Norovirus+outbreak+detains+students+Victoria/6007020/story.html">
+      <span>Norovirus outbreak detains students in Victoria</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Court+urged+snuff+medical+access+rules/6005576/story.html">
+      <span>Court urged to snuff out medical pot access rules</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="/most-popular-articles.html">
+    <span>more</span>
+  </a> Â»
+			<a class="rss" href="http://www.timescolonist.com/health/Healthy+male+diet+boost+success+Study/5744321/story.html?id=5744321"><span>RSS</span></a></div></div>
+
+						</div>
+						<!-- content ends -->
+						<div class="content content_02">
+							<div id="syndication49">
+<!-- legoctl: ctl49 --><!-- CACHE HIT: syndication49 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=email" --><ul class="bullet">
+  <li>
+    <a href="/Norovirus+outbreak+detains+students+Victoria/6003280/story.html">
+      <span>Norovirus outbreak detains students in Victoria</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Jack+Knox+Marijuana+resin+conviction+1967+grounds+Tofino+border/6007013/story.html">
+      <span>Jack Knox: Marijuana resin conviction in 1967 grounds Tofino man at U.S. border</span>
+    </a>
+  </li>
+  <li>
+    <a href="/WestJet+short+haul+proposal+could+benefit+Victoria+Airport/6005444/story.html">
+      <span>WestJet short-haul proposal could benefit Victoria: Airport CEO</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Victoria+school+board+trustees+reject+cent+increase/6003447/story.html">
+      <span>Victoria school board trustees reject 10 per cent pay increase</span>
+    </a>
+  </li>
+  <li>
+    <a href="/prepared+cold+snap+snow+forecast/6000430/story.html">
+      <span>Be prepared â cold snap, snow forecast</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="/most-popular-articles.html">
+    <span>more</span>
+  </a> Â»
+			<a class="rss" href="http://www.timescolonist.com/life/holiday-guide-2011/food-drink/University+scholars+enhancing+archive/5898544/story.html?id=5898544"><span>RSS</span></a></div></div>
+
+						</div>
+						<!-- content ends -->
+						<div class="content content_03">
+							<!-- cwi:syndication source="/scripts/mostpopular.aspx?stattype=comment&TimeRestriction=24" template="MostPopular" MoreViewer="/most-popular-articles.html" MoreTitle="more" StartAtDoc="1" maxdocs="6" / -->
+							<div id="mostCommented"></div>
+				  			<script>setMostCommented("mostCommented", 6, 15);</script>
+						</div>
+						<!-- content ends -->
+					</div>
+					<!-- textheadlines ends -->
+				</div>
+				<!-- mostpopular ends -->
+				<div class="clear">&nbsp;</div>
+				<!--/sponsor_hr.inc -->
+
+				<div class="sponsor_hr">
+					<div class="sponsor">
+						<div class="label">
+							<span>Sponsored By</span>
+						</div>
+						<div class="logo">
+							<!-- cwi:dartad Loc="sponsor,top" sz="80x30" / -->
+						</div>
+					</div>
+					<!-- sponsor ends-->
+				</div>
+				<!-- sponsor_hr ends-->
+
+<!--/sponsor_hr.inc -->
+    	</div>
+    	<!-- center ends -->
+	<div class="clear">&nbsp;</div>
+    <div class="bottom">&nbsp;</div>
+    <!-- bottom ends -->
+  </div>
+  <!-- tabbox_300 ends -->
+
+<!--/mostpopular.inc -->
+	<div class="clear">&nbsp;</div>
+	<!--/includes/headline_news_alert.inc -->
+
+    <div id="newsalert">
+      <div class="section_title">
+        <h3><span>The Victoria Times Colonist Headline News</span></h3>
+      </div>
+      <!-- section_title ends -->
+      <div class="clear">&nbsp;</div>
+      <div class="alerttype"> <span>Sign up to receive daily headline news from The Times Colonist.</span> </div>
+      <div class="clear">&nbsp;</div>
+      <form name="timescolonistheadlinenewssubscribeform" method="POST" action="http://members.canada.com/scripts/subscribe.aspx">
+        <input type="hidden" name="returnurl" value="http://www.timescolonist.com/about-times-colonist/thankyou.html">
+        <input type="hidden" name="errorurl" value="http://www.timescolonist.com/about-times-colonist/error.html">
+        <input type="hidden" name="newsletter" value="victoriatimescolonistnews">
+        <input name="email" type="text" class="input_alert" value="you@canada.com">
+        <div class="col_80">
+          <div class="submitbutton"> <a href="Javascript:void(1);" onclick="Javascript:document.timescolonistheadlinenewssubscribeform.submit();"><span>Submit</span></a> </div>
+          <!-- submitbutton ends -->
+        </div>
+        <!-- col_80 ends-->
+      </form>
+      <div class="clear">&nbsp;</div>
+      <ul class="bullet">
+        <li> <a href="http://www.canada.com/aboutus/privacy.html" target="_blank"><span>Our Privacy Statement</span></a> </li>
+      </ul>
+    </div>
+    <!-- newsalert ends -->
+    
+<!--/includes/headline_news_alert.inc -->
+
+	<div class="clear">&nbsp;</div>
+	<!--/health/storycontent.inc -->
+
+	<script src="/js/ooyala/pmPlayer.js?c034" type="text/javascript">
+</script>
+<div class="ooyalavideo" id="t5amhkMjroGJMae8jhHuWhJ73ug9GY6p">
+  <div class="ooyalavideo300">
+    <div id="player2videogallery">
+      <div class="line paddingB10px">
+        <div class="tabs marginB10px">
+          <div id="R0ODdkMjqWI788TuOg7TAHvHmu_nHD92" class="selected">Diet and Fitness</div>
+          <div id="R4OTdkMjrnvUMLD95LVr_pwaLggL8Xue" class="divider">Child and Teen</div>
+        </div>
+        <div class="playerContent">
+          <div id="player2Div" class="playerMain">
+            <script type="text/javascript">
+                        document.write('<script language="JavaScript1.1" src="http://player.ooyala.com/player.js?wmode=transparent&playerContainerId=player2Div&callback=pmplayer2.PlayerCallbackEvent&playerId=player2&width=300&height=226&embedCode=R0ODdkMjqWI788TuOg7TAHvHmu_nHD92&'+pmAd.get()+'" ><\/script>');
+                    </script>
+          </div>
+          <div class="vidInfo hidden">
+            <div class="title">
+            </div>
+            <div class="description">
+            </div>
+          </div>
+          <div class="paginator">
+          </div>
+          <div class="playList">
+            <div class="playListContent">
+            </div>
+          </div>
+        </div>
+        <div class="mask">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+        	var pmplayer2;
+        	pmplayer2 = new ooYala.PMPlayer('player2', 'player2Div', 'pmplayer2', 'R0ODdkMjqWI788TuOg7TAHvHmu_nHD92', '300','226', "90x60", 4, true, true);
+                           pmplayer2.Init();
+                            
+                          	pmplayer2.SetUpTabs();
+                            </script>
+
+<!--/health/storycontent.inc -->
+
+	<div class="clear">&nbsp;</div>
+	<div id="bigboxwrapperlower" class="bigboxwrapper">
+		<!-- /bigboxadlower.inc -->
+
+	<div id="bigboxlower" style="text-align:center;" class="bboxContainer">
+		<div id="dartad51">
+<!-- legoctl: ctl51 --><!-- NO CACHE: dartad51 -->
+
+                        <script type="text/javascript">
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>');
+                        </script>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
+                        {
+                            surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        <noscript>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/vtc_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/vtc_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;ord=46377615?" /></a>
+                </noscript>
+</div>
+
+	</div>
+
+<!-- /bigboxadlower.inc -->
+	</div>
+	<!-- bigboxwrapper ends -->
+	<div class="clear">&nbsp;</div> 
+	
+	<div class="clear">&nbsp;</div>
+</div>
+<!-- col_300 ends -->
+<div class="clear">&nbsp;</div>
+<!-- /health/googlestoryad.inc -->
+
+			<script language="javascript">
+				<!--
+				 google_ad_client   = 'ca-pub-1718995873402338';
+				 google_ad_output   = 'js';
+				 google_max_num_ads = '3';
+				 google_hints       = 'health';
+				 google_safe        = 'high';
+				 google_kw_color    = '#E2A9A9';
+				 google_ad_channel  = 'victoria-timescolonist-health-story';
+				 google_adtest = 'off';
+				 google_feedback = 'on';
+				// -->
+			</script>
+			<script language="javascript">
+			<!--
+				function google_ad_request_done(google_ads) {
+					document.write('<div class="googleadwrapper">');
+					document.write('<div class="box_e5e5e5">');
+					document.write('<div class="box_content">');
+					document.write('<div class="section_title_no_line">');
+					document.write('<h3>');
+					document.write('<a href="' + google_info.feedback_url + '" target="_blank"><span>Ads by Google</span></a>');
+					document.write('</h3>');
+					document.write('</div>');
+					document.write('<div class="clear">&nbsp;</div>');
+  					var i;
+ 					// Display each ad in turn
+					for(i = 0; i < google_ads.length; ++i) {
+						document.write('<div class="col_300">');
+						document.write('<div class="wrapper_10_10_10_10">');
+						document.write('<a target="_blank" class="toplink" href="' + google_ads[i].url +'"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">');
+						document.write('<b>' + google_ads[i].line1 + '</b></a>');
+						document.write('<div class="clear">&nbsp;</div>');
+						document.write(google_ads[i].line2);
+						document.write('<div class="clear">&nbsp;</div>');
+						document.write(google_ads[i].line3);
+						document.write('<div class="clear">&nbsp;</div>');
+						document.write('<a target="_blank" href="' + google_ads[i].url + '"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">' + google_ads[i].visible_url + '</a>');
+						document.write('</div>');
+						document.write('</div>');
+					}
+					document.write('</div>');
+					document.write('</div>');
+					document.write('</div>');
+				}
+			// -->
+			</script>
+			<script language="javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+<!-- /health/googlestoryad.inc -->
+<div class="clear">&nbsp;</div>
+<!-- /footerfeature.inc -->
+
+<div id="footerfeature" class="footerfeature">
+	<div class="footer_title">
+		<span class="start_quote">&nbsp;</span>
+		<span class="title">Inside Times Colonist</span>
+		<span class="end_quote">&nbsp;</span>
+	</div>
+    <!-- footer_title ends -->
+	<div class="clear">&nbsp;</div>
+		 <div id="syndication52">
+<!-- legoctl: ctl52 --><!-- CACHE HIT: syndication52 -->
+<!-- Source="/Scripts/Aggregate.aspx?source=1014610.atom,4&source=969791.atom,6" --><script>
+			   CDMScriptManager.load("/js/slider.js");
+			</script>
+<div class="col_67" style="position:relative;" id="FooterFeature_2_LeftNav">
+  <div class="nav" id="FooterFeature_2_LeftNavChild">
+    <a href="javascript: void(0)" id="FooterFeature_2_LeftNavButton">
+      <img style="position:relative;left:0px;top:0px;" alt="" title="" src="http://www.ottawacitizen.com/images/left_arrow_normal.gif" class="" onmouseover="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_hover.gif&quot;;" onmouseout="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_normal.gif&quot;;" onmousedown="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_active.gif&quot;;this.style.top='1px';this.style.left='1px';" onmouseup="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_normal.gif&quot;;this.style.top='0px';this.style.left='0px';">
+    </a>
+  </div>
+</div>
+<div class="contentwrapper" style="overflow:hidden;position:relative;float:left;" id="FooterFeature_2_Window">
+  <div style="position:relative;" id="FooterFeature_2_Content">
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_0">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="What+Calgary+most+popular+home+price/5985274/story.html">
+                    <img border="0" src="5942206.bin?size=140x95" alt="Calgaryâs residential real estate market" title="Calgaryâs residential real estate market">
+                  </a>
+                </div>
+                <h1>
+                  <a href="What+Calgary+most+popular+home+price/5985274/story.html">
+                    <span>
+                      <span>What you can get at Calgary's most popular home price $350,000-$399,999</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_1">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="Photos+Celebs+party+hearty+after+Golden+Globes/6003287/story.html">
+                    <img border="0" src="6002756.bin?size=140x95" alt="High fives! Diddy and Modern Family's Sofia Vergara attend the InStyle and Warner Bros. 69th Annual Golden Globe Awards Post-Party at The Beverly Hilton hotel on January 15." title="High fives! Diddy and Modern Family's Sofia Vergara attend the InStyle and Warner Bros. 69th Annual Golden Globe Awards Post-Party at The Beverly Hilton hotel on January 15.">
+                  </a>
+                </div>
+                <h1>
+                  <a href="Photos+Celebs+party+hearty+after+Golden+Globes/6003287/story.html">
+                    <span>
+                      <span>Photos: Celebs party hearty after the Golden Globes</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_2">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="Gallery+places+visit+when+retire/6003054/story.html">
+                    <img border="0" src="4521616.bin?size=140x95" alt="The world's highest hotel  is the Ritz-Carlton in Hong Kong" title="The world's highest hotel  is the Ritz-Carlton in Hong Kong">
+                  </a>
+                </div>
+                <h1>
+                  <a href="Gallery+places+visit+when+retire/6003054/story.html">
+                    <span>
+                      <span>Gallery: 32 places to visit when you retire</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_3">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="Photos+images+from+around+globe/5999233/story.html">
+                    <img border="0" src="5997814.bin?size=140x95" alt="Lighthouse" title="Lighthouse">
+                  </a>
+                </div>
+                <h1>
+                  <a href="Photos+images+from+around+globe/5999233/story.html">
+                    <span>
+                      <span>Photos: Top images from around the globe</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_4">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/world/story.html?id=6007749">
+                    <img border="0" src="6007770.bin?size=140x95" alt="Francesco Schettino" title="Francesco Schettino">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/news/world/story.html?id=6007749">
+                    <span>
+                      <span>'Get back on board,' captain ordered</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_5">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/story.html?id=6004353">
+                    <img border="0" src="6004365.bin?size=140x95" alt="Diamond Jubilee stamp" title="Diamond Jubilee stamp">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/news/story.html?id=6004353">
+                    <span>
+                      <span>Gallery: Canadian stamps honour Queen</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_6">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/entertainment/Stephen+Colbert+mocks+politics/6002604/story.html">
+                    <img border="0" src="6002611.bin?size=140x95" alt="TV Personality Stephen Colbert attends IAVA's Fifth Annual Heroes Gala at Cipriani 42nd Street on November 9, 2011 in New York City." title="TV Personality Stephen Colbert attends IAVA's Fifth Annual Heroes Gala at Cipriani 42nd Street on November 9, 2011 in New York City.">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/entertainment/Stephen+Colbert+mocks+politics/6002604/story.html">
+                    <span>
+                      <span>Stephen Colbert for president?</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_7">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/life/fashion-beauty/story.html?id=6002304">
+                    <img border="0" src="6002319.bin?size=140x95" alt="Angelina Jolie" title="Angelina Jolie">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/life/fashion-beauty/story.html?id=6002304">
+                    <span>
+                      <span>Golden age at the Globes</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_8">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/travel/mustard+museum+Only+Wisconsin/5939413/story.html">
+                    <img border="0" src="5991958.bin?size=140x95" alt="Mustard Museum's Barry Levenson says, &quot;Welcome to my midlife crisis.&quot;" title="Mustard Museum's Barry Levenson says, &quot;Welcome to my midlife crisis.&quot;">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/travel/mustard+museum+Only+Wisconsin/5939413/story.html">
+                    <span>
+                      <span>Man's massive mustard museum</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_9">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="Hello+Lindsay+Lohan/5976386/story.html">
+                    <img border="0" src="5924246.bin?size=140x95" alt="Actress Lindsay Lohan is shown in a photo from the January/February 2012 issue of Playboy Magazine." title="Actress Lindsay Lohan is shown in a photo from the January/February 2012 issue of Playboy Magazine.">
+                  </a>
+                </div>
+                <h1>
+                  <a href="Hello+Lindsay+Lohan/5976386/story.html">
+                    <span>
+                      <span>Hello, Lindsay Lohan ... itâs the tax man</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="col_67" style="position:relative;" id="FooterFeature_2_RightNav">
+  <div class="nav" id="FooterFeature_2_RightNavChild">
+    <a href="javascript: void(0)" id="FooterFeature_2_RightNavButton">
+      <img style="position:relative;left:0px;top:0px;" alt="" title="" src="http://www.ottawacitizen.com/images/right_arrow_normal.gif" class="" onmouseover="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_hover.gif&quot;;" onmouseout="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_normal.gif&quot;;" onmousedown="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_active.gif&quot;;this.style.top='1px';this.style.left='1px';" onmouseup="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_normal.gif&quot;;this.style.top='0px';this.style.left='0px';">
+    </a>
+  </div>
+</div>
+<script language="javascript">
+
+		var FooterFeature_2_Object = null;
+                jQuery(function() {
+			FooterFeature_2_Object = new MultiSlider2('FooterFeature_2_Window', 'FooterFeature_2_Content', 'FooterFeature_2_Entry', 10, 5, 1500, 5);
+
+			jQuery('#FooterFeature_2_LeftNavButton').click(function() { FooterFeature_2_Object.slideLeft('FooterFeature_2_Object');}) ;
+			jQuery('#FooterFeature_2_RightNavButton').click(function() { FooterFeature_2_Object.slideRight('FooterFeature_2_Object');}) ;
+		});
+	    </script></div>
+
+		 <div class="clear">&nbsp;</div>
+</div>
+
+<!-- /footerfeature.inc -->
+<div class="clear">&nbsp;</div>
+<!-- TYNT tags -->
+<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=b14ETYWKmr3P6Fab7jrHcU&amp;s=42"> </script> <script type="text/javascript">tynt={'ap': "Read more: "};</script>
+
+					
+				</div>
+				<!-- bodywrapper ends -->
+			</div>
+			<!-- contentbody ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="footer">
+				<!-- /footer.inc -->
+
+	<div class="clear">&nbsp;</div>
+	<div id="footer">
+		<div class="footer_top">
+			<ul class="footer_list_top">
+				<li><a href="/index.html"><span>Home</span></a></li>
+				<li><a href="/news/index.html"><span>News</span></a></li>
+				<li><a href="/opinion/index.html"><span>Opinion</span></a></li>
+				<li><a href="/business/index.html"><span>Business</span></a></li>
+				<li><a href="/sports/index.html"><span>Sports</span></a></li>
+				<li><a href="/entertainment/index.html"><span>Entertainment</span></a></li>
+				<li><a href="/life/index.html"><span>Life</span></a></li>
+				<li><a href="/health/index.html"><span>Health</span></a></li>
+				<li><a href="/technology/index.html"><span>Technology</span></a></li>
+				<li><a href="/travel/index.html"><span>Travel</span></a></li>
+				<li class="footerclassifieds"><a href="/jobs/index.html"><span>Jobs</span></a></li>
+				<li class="footerclassifieds"><a href="/cars/index.html"><span>Cars</span></a></li>
+				<li class="footerclassifieds"><a href="http://www.househunting.ca/index.html?branding=timescolonist"><span>Homes</span></a></li>
+				<li class="footerclassifieds"><a href="http://victoriatimescolonist.oodle.com/"><span>Classifieds</span></a></li>
+			</ul>
+		</div>
+		<!-- footer_top ends -->
+		<div class="clear">&nbsp;</div>
+		<div class="wrapper_0_10_0_10">
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Don't Miss</span></h3></div></li>
+					</ul>
+					<div id="syndication53">
+<!-- legoctl: ctl53 --><!-- CACHE HIT: syndication53 -->
+<!-- Source="974354.atom" --><ul class="bullet">
+  <li>
+    <a href="http://www.timescolonist.com/press-plus/faqs.html#1">
+      <span>Online subscriptions</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.timescolonist.com/life/food-drink/index.html">
+      <span>Island Food/Drinks</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.timescolonist.com/news/photos/index.html">
+      <span>Photo galleries</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.legacy.com/can-victoria/obituaries.asp">
+      <span>Obituaries</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://shopping.timescolonist.com/ROP/Categories.aspx">
+      <span>TC print ads</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.timescolonist.com/entertainment/music/downloads/index.html">
+      <span>Music Downloads</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.timescolonist.com/news/todays-paper/index.html">
+      <span>Today's Paper/Archive</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="">
+    <span></span>
+  </a> Â»
+			<a class="rss" href="http://www.timescolonist.com/974354.ATOM"><span>RSS</span></a></div></div>
+
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Most Popular</span></h3></div></li>
+					</ul>
+					<div id="syndication54">
+<!-- legoctl: ctl54 --><!-- CACHE HIT: syndication54 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
+  <li>
+    <a href="prepared+cold+snap+snow+forecast/6000430/story.html">
+      <span>Be prepared â cold snap, snow forecast</span>
+    </a>
+  </li>
+  <li>
+    <a href="highest+national+rate+those+afford+take+drug+prescriptions+directed/6003122/story.html">
+      <span>B.C. has highest national rate of those who can't afford to take drug prescriptions as directed</span>
+    </a>
+  </li>
+  <li>
+    <a href="Norovirus+outbreak+detains+students+Victoria/6003280/story.html">
+      <span>Norovirus outbreak detains students in Victoria</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="/news/most-popular-articles.html">
+    <span></span>
+  </a> Â»
+			<a class="rss" href="http://www.timescolonist.com/index.html"><span>RSS</span></a></div></div>
+
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Formats</span></h3></div></li>
+						<li><a href="/about-times-colonist/sitemap.html"><span>Sitemap / RSS</span></a></li>
+						<li><a href="http://timescolonist.com/contests/"><span>Contests</span></a></li>
+						<li><a href="/opinion/blogs/index.html"><span>Blogs</span></a></li>
+						<li><a href="/columnists/index.html"><span>Columnists</span></a></li>
+						<li><a href="/news/photos/index.html"><span>Photo Galleries</span></a></li>
+						<li><a href="/news/videos/index.html"><span>Videos</span></a></li>
+						<li><a href="/mobile-site/"><span>Mobile</span></a></li>
+						<li><a href="http://itunes.apple.com/ca/app/times-colonist/id406550373?mt=8" target="_blank"><span>iPad App</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Times Colonist</span></h3></div></li>
+						<li><a href="/about-times-colonist/aboutus.html"><span>About Us</span></a></li>
+						<li><a href="/about-times-colonist/contactus.html"><span>Contact Us</span></a></li>
+						<li><a href="http://workingvictoriajobs.canada.com/js.php?q=canwest"><span>Work for Us</span></a></li>
+						<li><a href="/about-times-colonist/advertising.html"><span>Advertise with Us</span></a></li>
+						<li><a href="https://members.canada.com/rss/newsubscription.aspx?site=cc&provider=canada&brand=timescolonist"><span>Subscribe to the Print Edition</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_300">
+				<ul class="footer_list_middle">
+					<li><div class="section_title"><h3><span>Tools</span></h3></div></li>
+					<li>
+						<div class="formsearchbar">
+							<form name="searchform" onSubmit="footerSearch();return false;">
+								<input type="text" id="f" name="f" maxlength="1024" onclick="this.value='';" onblur="this.value=!this.value?'Search timescolonist.com...':this.value;" value="Search timescolonist.com..." />
+								<div class="formbutton">
+									<a class="" href="Javascript:void(1);" onClick="footerSearch();"><span>Search</span></a>
+								</div>
+							</form>
+							<!-- formbutton ends -->
+						</div>
+						<!-- formsearchbar ends -->
+					</li>
+				</ul>
+				<div class="clear">&nbsp;</div>
+				<div class="col_160">
+					<div class="col_140">
+						<ul class="footer_list_middle">
+							<li><a href="http://www.working.com/victoria/index.html"><span>Search for a Job</span></a></li>
+							<li><a href="http://www.driving.ca/victoria/index.html"><span>Buy/Sell a Car</span></a></li>
+							<li><a href="http://www.househunting.ca/victoria/sale-and-rent/index.html"><span>Real Estate Listings</span></a></li>
+							<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn?_SWCATID=10150511&_TRK=091" target="_blank"><span>SwarmJam Sweet Deals</span></a></li>
+						</ul>
+					</div>
+					<!-- col_140 ends -->
+				</div>
+				<!-- col_160 ends -->
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><a href="http://classifieds.canada.com/victoria/placead/placead_index.html"><span>Place a Classified Ad</span></a></li>
+						<li><a href="/news/email-alerts.html"><span>E-mail Alerts</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_300 ends -->
+		</div>
+		<!-- wrapper_0_10_0_10 ends -->
+		<div class="clear">&nbsp;</div>
+		<div class="rule">&nbsp;</div>
+		<div class="clear">&nbsp;</div>
+		<div class="footer_bottom">
+			<ul class="footer_list_bottom">
+				<li class="footer_canadacom no_background"><a href="http://www.canada.com"><span>canada.com Logo</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/index.html"><span>About canada.com</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/privacy.html"><span>Privacy Statement</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/termsofservice.html"><span>Terms</span></a></li>
+				<li class="no_background"><a href="http://www.canada.com/aboutus/copyright.html"><span>Copyright &amp; Permissions</span></a></li>
+				<li class="footer_copyright no_background">
+					&copy; 2008 - 2011 Postmedia Network Inc. All rights reserved.
+					<div class="clear">&nbsp;</div>
+					Unauthorized distribution, transmission or republication strictly prohibited.
+				</li>
+			</ul>
+		</div>
+		<!-- footer_bottom ends -->
+	</div>
+	<!-- footer ends -->
+	<div class="clear">&nbsp;</div>
+	<script language="javascript">
+		function footerSearch() {
+			var q = document.getElementById("f").value.replace(/ /g,"+");
+			if (q.length == 0) {
+				alert("Please enter your search criteria");
+				return;
+			}
+			var dname = document.domain; 
+			if ( dname=="driving.ca") {
+				document.location.href="http://www.driving.ca/victoria/search/search.html?q=" + escape(q);
+				}
+			else {
+				document.location.href="/search/search.html?q=" + escape(q);
+			}
+		}
+	</script>
+	<script language="javascript">
+		document.getElementById("f").value = document.getElementById("q").value;
+	</script>
+	
+<!-- /footer.inc -->
+
+			</div>
+			<!-- footer ends -->
+
+		</div>
+		<!-- pagewrapper ends -->
+	</div>
+	<!-- page ends -->
+<form name="frmPage" method="post" action="story.html" id="frmPage">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0MTMyNTA3ODBkZB4yaKpK6NQXOreOmg4ZXjkZvG5P" />
+</form>
+                        <!-- SiteCatalyst code version: H.17.
+                        Copyright 1997-2008 Omniture, Inc. More info available at
+                        http://www.omniture.com -->
+
+                        <script language='JavaScript' type='text/javascript' src='/js/account_s_code.js'></script>
+                        <script language='JavaScript' type='text/javascript' src='http://www.canada.com/js/global_canwest_s_code.js'></script>
+                        <script language='JavaScript' type='text/javascript' src='/js/local_s_code.js'></script>
+                
+                        <script language='JavaScript' type='text/javascript'>
+                        <!--
+                        /* You may give each page an identifying name, server, and channel on
+                        the next lines. */
+                        s.pageName='/health/story.html';
+                        s.server=window.location.hostname.toLowerCase();
+                        s.channel='health';
+                        s.pageType='';
+                        s.prop1='health';
+                        s.prop2='health';
+                        s.prop3='canwest';
+                        s.prop4='Non-Registered';
+                        s.prop5=s.prop4 + ': ' + s.pageName;
+                        s.prop6='Times Colonist/FREE';
+                        s.prop7='Times Colonist';
+                        s.prop8='6007020';
+                        s.prop9='';
+                        s.prop10='';
+                        s.prop11='';
+                        s.prop13='';
+                        s.prop23=document.title;
+                        s.prop24=s.prop8;
+                        s.prop25='story';
+                        s.prop26='health';            
+                        s.prop27='';  
+                        s.prop28=''; 
+                        s.prop29='';
+                        s.prop36='Capital & Van. Isl.'; 
+                        s.prop37='vtc_bh.com'; 
+                        s.prop43='';
+                        s.prop44='';
+                        /* E-commerce Variables */
+                        
+                        s.events='';
+                        s.products='';
+                        s.purchaseID='';
+                        s.transactionID = s.purchaseID;
+                        
+                        /* s.prop48 for story only */
+                        s.prop48='Derek Spalding, Times Colonist';
+                                      
+                        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+                        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+                        <script language='JavaScript' type='text/javascript'><!--
+                        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+                        //--></script><noscript><a href='http://www.omniture.com/' title='Web Analytics'>
+                        <img src='http://canwest.112.207.net/b/ss/canwestglobal,cantimes/5/20901099?pageName=/health/story.html&g=http%3a%2f%2fwww.timescolonist.com%2fhealth%2fNorovirus%2boutbreak%2bdetains%2bstudents%2bVictoria%2f6007020%2fstory.html%3fid%3d6007020&ch=health&sv=www.timescolonist.com&c1=health&c2=health&c7=Times+Colonist&c8=6007020&c23=Norovirus+outbreak+detains+students+in+Victoria&c25=story&c26=health&c27=&c28=&c35=victoria+times+colonist&c41=canwestglobal,cantimes' alt='' width='5' height='5' /></a></noscript><!--/DO NOT REMOVE/-->
+                        <!-- End SiteCatalyst code version: H.17. --></body>
+</html>
+<!-- WPGCCWEB48 94 -->
+

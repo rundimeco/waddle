@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Department welcomes new breast surgeon | Isle of Man News | News | 3FM Isle of Man radio station - on-air, online, on Apple and on Android</title>
+<meta name="description" content="Noble’s Hospital’s new breast surgeon was unveiled today by the Department of Health." />
+<meta name="keywords" content="isle of man radio, isle of man radio station, isle of man radio stations, 3fm, 3 fm, 3FM, isle of man, threefm, 3fmradio, 3.fm, three.fm, radio3fm, 3 f m, moremusic, more, music, manx, threedotfm,  isle of man radio, iom, iomradio, club classics, late night love songs, kevin ford, jason quinn, isle of man marketing, isle of man radio advertising, manxradio, manx radio, tt, tt races, tt race, max hailey, nj williams, isle of man marketing, isle of man advertising, school closures, isle of man school closures, the morning crew, morning crew, isle of man online, kelly foran, ben sowrey, derek richardson, ged power, george ferguson, ron berry, the morning crew, morning crew 3FM morning crew, more music on-air online on iPad and on iPhone, isle of man media, isle of man television, isle of man tv, isle of man news, energy fm, radioplayer, ukradioplayer, radioplayer.co.uk, radio player, isle of man facebook, isle of man twitter, isle of man android, isle of man deals, isleofmandeals, isle of deals, isleofdeals, quids in, quidsin, commonwealth youth games, cyg, cyg 2011, cyg2011" />
+
+<script type="text/javascript" src="/common/flowplayer/flowplayer-3.1.1.min.js"></script>
+<meta property="og:title" content="Department welcomes new breast surgeon" />
+<meta property="og:image" content="http://3.mm.g-media.com/430472.jpg" />
+<meta property="og:description" content="Noble’s Hospital’s new breast surgeon was unveiled today by the Department of Health." />
+<meta property="og:site_name" content="3FM" />
+<link href="http://c.gmstatic.net/gm-20110912.css" type="text/css" rel="stylesheet" media="screen" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script type="text/javascript" src="http://j.gmstatic.net/common.min.js"></script>
+<!--[if lt IE 7.]><script defer type="text/javascript" src="http://j.gmstatic.net/pngfix.js"></script><![endif]-->
+
+
+<link href="/master.css" rel="stylesheet" type="text/css">
+<!--[if IE 7]><link href="/ie7.css" rel="stylesheet" type="text/css"><![endif]-->
+<script type="text/javascript" src="/scripts/js.js"></script>
+<style type="text/css">
+<!--
+.newsnav { margin:5px 0 0 5px; padding:0; list-style:square; }
+p.timestamp { color:#333; font-size:85%; margin-top:0; }
+.nwsImg { float:right; clear:right; margin-left:15px; margin-bottom:15px; width:300px; }
+.nwsImg span { display:block; font-size:85%; margin-top:2px; }
+#nc_article h1 { font-size:138.5%; color:#EF3E34; margin-bottom:10px; }
+#nc_article h2 { font-size:167%; color:#900; }
+#nc_article h3.timestamp { font-size:93%; font-style:italic; padding-left:20px; }
+
+#nc_article #sidenav { float:right; width:200px; }
+#nc_article .newsnav { color:#900; margin-left:20px; margin-top:0; }
+#nc_article .newsnav li { margin-bottom:5px; }
+#nc_article .newsnav a { font-size:93%; color:#900; }
+-->
+</style>
+<link href="/common/comments/comments.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/common/comments/charcount.js"></script>
+<script type="text/javascript">
+var reportComId;
+$(document).ready(function() {
+
+	
+	
+	
+	$("#commentsCont div.paginator a").live("click", function(){
+		var pagenum = $(this).attr("href");		
+		pagenum = pagenum.substring(1);
+
+		var noCacheVal = new Date().getTime();
+		$.get("/comments.php", { a: "comments", siteId: "000003", originSiteId: "000003", relCat: "nws", relId: "4758", pagenum: pagenum, nocache: noCacheVal }, 
+			function(html) {
+				$("#commentsCont").html(html);	
+			}, 
+		"html");
+		
+		return false;
+	});
+
+	$("#frmComment").submit(function(){ 
+		var noCacheVal = new Date().getTime();
+		$.post("/comments.php?a=add&siteId=000003&originSiteId=000003&relCat=nws&relId=4758&nocache="+noCacheVal, $("#frmComment").serialize(), 
+			function(data){
+				if (data.success) {
+					$("div.boxCont.addComment").html(data.message);
+				} else {
+					alert(data.message);
+				}
+			},
+		"json");
+	});
+	
+	$("a.report").live("click", function(){
+		reportComId = $(this).attr("href");		
+		reportComId = reportComId.substring(1);
+
+		var noCacheVal = new Date().getTime();
+		$.get("/comments.php", { a: "report", siteId: "000003", originSiteId: "000003", relCat: "nws", relId: "4758", comId: reportComId, nocache: noCacheVal }, 
+			function(html) {
+				$("#reportCont").html(html);	
+			}, 
+		"html");
+
+		return false;
+	});
+	
+	$("#frmReport").live("submit", function(){
+		var noCacheVal = new Date().getTime();
+		$.post("/comments.php?a=submitreport&siteId=000003&originSiteId=000003&relCat=nws&relId=4758&comId="+reportComId+"&nocache="+noCacheVal, $("#frmReport").serialize(), 
+			function(data){
+				if (data.success) {
+					$("#reportCont").html(data.message);
+				} else {
+					alert(data.message);
+				}
+			},
+		"json");
+	});
+	
+	$("#cancelReport").live("click", function(){
+		$("#reportCont").html("");
+	});
+	
+	/*
+	* Initialize
+	*/
+	var noCacheVal = new Date().getTime();
+	$.get("/comments.php", { a: "comments", siteId: "000003", originSiteId: "000003", relCat: "nws", relId: "4758", pagenum: "1", nocache: noCacheVal }, 
+		function(html) {
+			$("#commentsCont").html(html);	
+		}, 
+	"html");
+  
+});
+
+</script>
+
+</head>
+
+<body>
+<div id="headerBackground">
+   <div id="headerContainer">
+   		<div id="logoHighlight"> </div>
+		<a href="/" class="logo">3FM Logo</a>
+        <div id="leaderboard"><div class="adBlock_1"><a href="http://adclick.g-media.com/?sid=000003&amp;id=29" target="_blank">
+			<img src="http://3.mm.g-media.com/839115.gif" width="728" height="90" alt="" /></a></div></div>
+        <a href="http://player.three.fm/" class="rpLaunch" id="RadioPlayer" target="_blank">
+        <span>Listen Live</span>
+        </a>
+        <div id="onAir">
+        	<h2>ON AIR</h2>
+        	<a href="http://www.three.fm/on-air/george-ferguson/" id="nowOnAir"><img src="http://3.mm.g-media.com/554036.png" id="presenter" alt="" />George Ferguson</a>
+        	<p>10:00AM - 2:00PM</p>
+        </div>
+        <div id="nowPlaying">
+<span><a href="/music/artist/harry-chapin/">Harry Chapin</a> - Wold</span>
+<ul> 
+    <li><a href="http://clk.tradedoubler.com/click?p=23708&a=1178234&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Falbum%2Fw.o.l.d.%2Fid40286616%3Fi%3D40286624%26uo%3D4%26partnerId%3D2003" class="amazon">Buy From Amazon</a></li>
+    <li><a href="http://www.amazon.co.uk/gp/search?ie=UTF8&keywords=Harry+Chapin+Wold&tag=30f-21&index=music&linkCode=ur2&camp=1634&creative=6738" class="itunes">Download from iTunes</a></li>
+</ul>
+        </div>
+	</div> <!-- End Header -->
+</div> <!-- End Header Background -->
+ 
+<div id="navigationBar">
+	<div id="navigationBarContainer">
+        <div id="searchBar">
+        <form name="frmFootSearch" id="navSearch" action="/searchresults/" method="get" />
+          <div class="inputHide">
+          	<label>Search</label>
+          	<input type="text" class="searchInput" name="searchterms" />
+          </div>
+          <input type="submit" value="" class="searchButton" />
+        </form>
+        </div>
+    </div>
+</div> <!-- End Navigation Bar -->
+    <div id="container">
+    	<div id="innerContainer">
+			<div id="leftContent" class="wideContent">
+                <div id="crumbs" class="contentBox"> 
+                <a href="/" class="home">Home</a> &gt; <a href="/news/">News</a> &gt; <a href="/news/isle-of-man-news/">Isle of Man News</a> &gt; <em class="on">Department welcomes new breast surgeon</em>
+                </div> <!-- End Crumbs -->
+                <div id="leftColumn">
+                	<div id="sideBar" class="box">
+          				<ul id="sideNav">
+
+  <li class="first">
+	<a href="/newscentre/isle-of-man-news">Isle of Man</a>
+  </li>
+
+  <li class="">
+	<a href="/news/uk-news/">UK</a>
+  </li>
+
+  <li class="">
+	<a href="/newse/world-news/">World</a>
+  </li>
+
+  <li class="">
+	<a href="/news/showbiz-skeet/">Showbiz Skeet</a>
+  </li>
+
+  <li class="">
+	<a href="/news/videos/">Videos</a>
+  </li>
+
+  <li class="">
+	<a href="/news/sport/">Sport</a>
+  </li>
+
+  <li class="">
+	<a href="/news/business/">Business</a>
+  </li>
+
+  <li class="">
+	<a href="/news/strange-but-true/">Strange BUT True!</a>
+  </li>
+
+  <li class="">
+	<a href="http://www.dotet.co.uk/map.php" target="_blank">Webcams</a>
+  </li>
+
+  <li class="">
+	<a href="/news/weather/">Weather</a>
+  </li>
+
+  <li class="">
+	<a href="/features/isle-of-man-surf-report/">Surf Report</a>
+  </li>
+
+  <li class="">
+	<a href="/news/school-closures/">School Closures</a>
+  </li>
+
+  <li class=" last">
+	<a href="/news/3fm-poll/">Poll</a>
+  </li>
+
+                       </ul>
+        			</div> <!-- End Side Nav-->
+                   <div class="skyscraper box"><div class="adBlock_5"><a href="#">
+						<img src="/common/pixel.gif" width="120" height="600" alt="" /></a></div></div>
+                </div> <!-- End Left Column -->
+                <div id="rightColumn" class="box wideRightColumn">
+                    <h1 class="header">Department welcomes new breast surgeon</h1>
+                    <div class="PodContainer"> 
+                    <ul class="actBtn">
+<li class="news-home first"><a href="/news/"><img src="/common/icons/nws_home.png" alt="" /><span>News Home</span></a></li>
+<li class="more-from-isle-of-man-news"><a href="/news/isle-of-man-news/"><img src="/common/icons/back.png" alt="" /><span>More from Isle of Man News</span></a></li>
+</ul>
+<div id="nc_article">
+  <p class="timestamp">Wednesday, January 11th 2012 00:00</p>
+  <div id="nc_content">
+    
+    <div class="nwsImg"><img src="http://3.mm.g-media.com/430472.jpg" width="300" alt="" /><span>Specialist breast care nurse Sue Ardern and new consultant general surgeon Millie Bello</span></div>
+    
+<div style="width:400px; padding:10px 0;">
+  <div id="nws_aud">
+    <a href="http://3.mm.g-media.com/831094.mp3">Download this audio</a> or install <a href="http://www.adobe.com/go/getflashplayer" target="_blank">Adobe Flash Player</a> to use our player.
+  </div>
+</div>
+<script type="text/javascript"> 
+var flashvars = { file:'http://3.mm.g-media.com/831094.mp3', backcolor:'0xFFFFFF', frontcolor:'0x282727' };
+var params = { quality:'high', allowScriptAccess:'always', wmode:'transparent' };
+var attributes = { id:'nwsplayer', name:'nwsplayer' };
+swfobject.embedSWF('/common/jwplayer/player.swf', 'nws_aud', '400', '24', '9.0.115', 'false', flashvars, params, attributes);
+</script><p style="font-weight:bold;">Noble’s Hospital’s new breast surgeon was unveiled today by the Department of Health.</p>
+	<p>
+<div>Ms Millie Bello will take up her post as the Island’s new consultant general surgeon with a special interest in oncoplastic breast surgery and care. &nbsp;</div>
+<div><br />
+	</div>
+<div>She will officially begin her role on February 1 when she will head up the multi-disciplinary breast care service.</div>
+<div>&nbsp;</div>
+<div>Minister for Health, David Anderson said this marked the start of a new era of breast care in the Isle of Man (see audio).</div>
+<div><br />
+	</div>
+<div>He said: "This appointment marks an exciting development for the Island’s breast care service. On-Island breast care is now not only secure for the long-term, with a permanent consultant in post, but can also now be developed further in line with the Department’s three-phase plan to enhance breast care services for the people of the Isle of Man.”</div>
+<div>&nbsp;</div>
+<div>Ms Bello and her team will be charged with taking forward the DoH’s plans to offer a wider range of enhanced services on-Island, providing those who develop breast cancer with an exceptional standard of care. &nbsp;</div>
+<div><br />
+	</div>
+<div>These services will include the provision of oncoplastic breast surgery, sentinel node biopsy, immediate and delayed breast reconstruction, symmetrisation surgery and aesthetic breast reconstruction.</div>
+<div>&nbsp;</div>
+<div>Ms Bello said: "I am very excited about coming to the Isle of Man. &nbsp;I’ve already made a number of visits and the Island offers an excellent quality of life. &nbsp;</div>
+<div><br />
+	</div>
+<div>"The community seems very friendly and I’ve already been made to feel welcome. &nbsp;I’m very much looking forward to working with colleagues to develop the Island’s breast care service, ensuring that patients receive the highest standard of care possible.”</div>
+<div><br />
+	</div> </p>
+    <ul class="shareIcons">
+  <li class="plusone">
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+	  {lang: 'en-GB'}
+	</script>
+	<g:plusone size="medium" href="http://www.three.fm/news/isle-of-man-news/department-welcomes-new-breast-surgeon-4758/"></g:plusone>
+  </li>
+  <li class="tweet">
+    <a href="http://twitter.com/share?url=http%3A%2F%2Fwww.three.fm%2Fnews%2Fisle-of-man-news%2Fdepartment-welcomes-new-breast-surgeon-4758%2F&amp;counturl=http%3A%2F%2Fwww.three.fm%2Fnews%2Fisle-of-man-news%2Fdepartment-welcomes-new-breast-surgeon-4758%2F" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+  </li>	
+  <li class="like">
+    <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http%3A%2F%2Fwww.three.fm%2Fnews%2Fisle-of-man-news%2Fdepartment-welcomes-new-breast-surgeon-4758%2F" send="true" layout="button_count" width="250" show_faces="false" action="recommend" font=""></fb:like>
+  </li>										
+</ul>
+	<h3 class="secTitle">More from Isle of Man News</h3>
+	<ul class="newsnav">
+	  <li><a href="/news/isle-of-man-news/witnesses-sought-to-bus-incident-4761/">Witnesses sought to bus incident </a></li>
+	  <li><a href="/news/isle-of-man-news/gas-conversion-works-will-force-closure-of-road-in-castletown-4760/">Gas conversion works will force closure of road in Castletown</a></li>
+	  <li><a href="/news/isle-of-man-news/rally-isle-of-man-set-to-make-2012-comeback-4759/">Rally Isle of Man set to make 2012 comeback </a></li>	</ul>
+<div class="commentsSection">
+
+  <h2>Comments</h2>
+  
+  <!--<p class="prompt">What are your thoughts on &quot;Department welcomes new breast surgeon&quot;?</p>-->
+  
+  <div id="reportCont"></div>
+  
+  <div id="commentsCont"></div>
+	
+  <h4 class="subTitle" id="addcomment">Add A Comment</h4>
+  <div class="boxCont addComment">
+	  <p class="hint"><a href="login/redirect/Ly9uZXdzL2lzbGUtb2YtbWFuLW5ld3MvZGVwYXJ0bWVudC13ZWxjb21lcy1uZXctYnJlYXN0LXN1cmdlb24tNDc1OC8=">Log in</a> to the club to add your comment.</p>
+	  
+  </div>
+</div>
+<div style="clear:both;font-size:0;height:0;"></div>
+  </div>
+</div>
+                    </div>
+                     <div class="box MPU">
+                <div class="adBlock_2"><a href="http://adclick.g-media.com/?sid=000003&amp;id=28" target="_blank">
+			<img src="http://3.mm.g-media.com/948353.gif" width="300" height="250" alt="" /></a></div>
+                </div> <!-- End MPU -->
+                <div class="box MPU right">
+                 <div class="adBlock_4"><iframe src="http://traceybell.co.uk/3fmSUMMERSIZZLERS.html" name="TraceyBell" width="300" height="250" frameborder="0" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" scolling="no">
+</iframe></div>
+                </div> <!-- End MPU -->
+                </div>
+               
+            </div> <!-- End Left Content -->
+            
+<div id="iNav">
+  <h2 class="access">Navigation</h2>
+  <ul id="iNavTop">
+    <li class="first">
+      <h2 id="iNav_home">
+	    <a href="/">Home<span></span></a>
+	  </h2>
+    </li>
+    <li class="">
+      <h2 id="iNav_on-air">
+	    <a href="/on-air/">On Air<span></span></a>
+	  </h2>
+      <div id="iNavSub_on-air" class="subNav">
+        <ul>
+          <li class="first"><a href="/on-air/">Presenters</a></li>
+          <li><a href="/on-air/schedule/">Schedule</a></li>
+          <li><a href="/on-air/kevin-ford/">Kevin Ford</a></li>
+          <li><a href="/on-air/george-ferguson/">George Ferguson</a></li>
+          <li><a href="/on-air/jason-quinn/">Jason Quinn</a></li>
+          <li><a href="/on-air/james/">James</a></li>
+          <li><a href="/on-air/nj-williams/">NJ Williams</a></li>
+          <li><a href="/on-air/derek-richardson/">Derek Richardson</a></li>
+          <li><a href="/on-air/club-classics/">Club Classics</a></li>
+          <li><a href="/on-air/3fm-jukebox-with-athol-garage/">3FM JukeBox with Athol Garage</a></li>
+          <li><a href="/on-air/easy-sunday/">Easy Sunday</a></li>
+          <li><a href="/on-air/adam-russell/">Adam Russell</a></li>
+          <li><a href="/on-air/ron-berry/">Ron Berry</a></li>
+          <li><a href="/on-air/the-retro-chart-years/">Shaun Tilley</a></li>
+          <li><a href="/on-air/ben-sowrey/">Ben Sowrey</a></li>
+          <li><a href="/on-air/richard-faragher/">Richard Faragher</a></li>
+          <li><a href="/on-air/podcasts/">Podcasts</a></li>
+        </ul>
+      </div>
+    </li>
+    <li class="">
+      <h2 id="iNav_photos">
+	    <a href="/photos/">Photos<span></span></a>
+	  </h2>
+      <div id="iNavSub_photos" class="subNav">
+        <ul>
+          <li class="first"><a href="/photos/">Photos</a></li>
+        </ul>
+      </div>
+    </li>
+    <li class="">
+      <h2 id="iNav_music">
+	    <a href="/music/">Music<span></span></a>
+	  </h2>
+      <div id="iNavSub_music" class="subNav">
+        <ul>
+          <li class="first"><a href="/music/">Playlist Search</a></li>
+          <li><a href="/podcasts">Podcasts</a></li>
+          <li><a href="http://www.last.fm/user/threefm" target="_blank">last.fm</a></li>
+          <li><a href="/player">Listen Live</a></li>
+          <li><a href="/player/od">3OD</a></li>
+        </ul>
+      </div>
+    </li>
+    <li class=" on">
+      <h2 id="iNav_news">
+	    <a href="/news/">News<span></span></a>
+	  </h2>
+      <div id="iNavSub_news" class="subNav">
+        <ul>
+          <li class="first"><a href="/newscentre/isle-of-man-news">Isle of Man</a></li>
+          <li><a href="/news/uk-news/">UK</a></li>
+          <li><a href="/newse/world-news/">World</a></li>
+          <li><a href="/news/showbiz-skeet/">Showbiz Skeet</a></li>
+          <li><a href="/news/videos/">Videos</a></li>
+          <li><a href="/news/sport/">Sport</a></li>
+          <li><a href="/news/business/">Business</a></li>
+          <li><a href="/news/strange-but-true/">Strange BUT True!</a></li>
+          <li><a href="http://www.dotet.co.uk/map.php" target="_blank">Webcams</a></li>
+          <li><a href="/news/weather/">Weather</a></li>
+          <li><a href="/features/isle-of-man-surf-report/">Surf Report</a></li>
+          <li><a href="/news/school-closures/">School Closures</a></li>
+          <li><a href="/news/3fm-poll/">Poll</a></li>
+        </ul>
+      </div>
+    </li>
+    <li class="">
+      <h2 id="iNav_island-info">
+	    <a href="/island-info/">Island Info<span></span></a>
+	  </h2>
+      <div id="iNavSub_island-info" class="subNav">
+        <ul>
+          <li class="first"><a href="/calendar/add">Add an event</a></li>
+        </ul>
+      </div>
+    </li>
+    <li class="">
+      <h2 id="iNav_advertise">
+	    <a href="/advertise/">Advertise<span></span></a>
+	  </h2>
+      <div id="iNavSub_advertise" class="subNav">
+        <ul>
+          <li class="first"><a href="/advertise/">Advertise with 3FM</a></li>
+          <li><a href="/advertise/directory/">Local Directory</a></li>
+        </ul>
+      </div>
+    </li>
+    <li class="">
+      <h2 id="iNav_contact">
+	    <a href="/contact/">Contact<span></span></a>
+	  </h2>
+      <div id="iNavSub_contact" class="subNav">
+        <ul>
+          <li class="first"><a href="/contact/">Contact Us</a></li>
+          <li><a href="http://www.facebook.com/3FMradio" target="_blank">Facebook</a></li>
+          <li><a href="http://twitter.com/3FMradio" target="_blank">Twitter</a></li>
+          <li><a href="http://www.three.fm/3fm-jobs-284823">3FM Jobs</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+</div> <!-- End iNav -->
+        </div>  <!-- End Inner Container -->
+	</div> <!-- End Container -->
+		<div id="footer">
+        	<div id="footerContainer">
+                <div class="footerColumn" id="footerListen">
+                	<h2>Listen</h2>
+                    <ul>
+                    	<li id="radio"><strong>Radio</strong><span>On 104 to 106 FM</span></li>
+                        <li id="iOS"><strong>iOS</strong><a href="http://itunes.apple.com/gb/app/3fm/id350394601?mt=8" target="_blank">Download our App</a></li>
+                        <li id="android"><strong>Android</strong><a href="https://market.android.com/details?id=com.gmedia.threefm" target="_blank">Download our App</a></li>
+                        <li id="radioplayer"><strong>Radioplayer</strong><a href="http://player.three.fm/" target="_blank" class="rpLaunch">Listen Live Online</a></li>
+                    </ul>
+                </div>
+                <div class="footerColumn" id="footerExplore">
+                	<h2>Explore</h2>
+                        <ul> 
+                            
+    <li class="first">
+      <a href="/">Home</a>
+	</li>
+    <li class="">
+      <a href="/on-air/">On Air</a>
+	</li>
+    <li class="">
+      <a href="/photos/">Photos</a>
+	</li>
+    <li class="">
+      <a href="/music/">Music</a>
+	</li>
+    <li class=" on">
+      <a href="/news/">News</a>
+	</li>
+    <li class="">
+      <a href="/island-info/">Island Info</a>
+	</li>
+    <li class="">
+      <a href="/advertise/">Advertise</a>
+	</li>
+    <li class="">
+      <a href="/contact/">Contact</a>
+	</li>
+                        </ul>
+                    </div>
+                <div class="footerColumn" id="footerMore">
+                	<h2>More</h2>
+                      <ul> 
+                            <li><a href="/info/terms-and-conditions/">Terms & Conditions</a></li>
+                            <li><a href="/info/privacy-policy/">Privacy Policy</a></li>
+                            <li><a href="/info/competition-terms-and-conditions/">Competition Terms</a></li>
+                            <li><a href="/contact/">Contact Us</a></li>
+                       </ul>
+                       <p>© 2012 3FM and <a href="http://gmedia.co.uk/" target="_blank" title="G Media radio station website design">G Media</a></p>
+                </div>
+            </div>  
+		</div> <!-- End Footer -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-6394197-1";
+urchinTracker();
+</script>
+
+</body>
+</html>

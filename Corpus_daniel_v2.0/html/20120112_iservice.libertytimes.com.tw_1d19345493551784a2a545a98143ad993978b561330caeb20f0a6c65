@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>貧血  小心大腸癌上身 - 自由電子報 即時新聞</title>
+<meta name="title" content="貧血  小心大腸癌上身 - 自由電子報 即時新聞" />
+<meta name="description" content="〔中央社〕58歲沈姓婦女1年多前開始貧血，容易疲倦，多次因貧血被送急診，經醫師檢查，才得知罹患大腸癌，接受手術及化學治療。
+
+  衛生署台南醫院內科部血液腫" />
+<link rel="image_src" type="image/jpeg" href="http://www.libertytimes.com.tw/2008/images/img_auto/005/logo_new.gif" />
+<script type="text/javascript" src="/Js/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/Js/adopen.js"></script>
+<link rel="stylesheet" href="liveNews3.css?1">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2887146-9']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript">
+function setCookie(adjstr) 
+{　
+   nameValue=escape(adjstr + "$A#");
+　 document.cookie="ID=" + nameValue + ";";
+}
+
+function adjustFont(str)
+{
+	if (str == "big")
+	{
+		$('#newsti').attr('className',"news_title_big");
+		$('#newsc').attr('className',"news_content_big");
+		setCookie(str);
+	}
+	else if (str == "small")
+	{
+		$('#newsti').attr('className',"news_title");
+		$('#newsc').attr('className',"news_content");
+		setCookie(str);
+	}
+}
+
+window.onload = function ()
+{
+	cookieStr=unescape(document.cookie);
+	beginPos=cookieStr.indexOf("ID");
+	endPos=cookieStr.indexOf("$A#");
+
+	if (beginPos != -1)
+	{
+		IDname=cookieStr.substring( (beginPos +3) , endPos);
+		adjustFont(IDname);
+	}
+}
+</script>
+
+</head>
+<body>
+<div class="main">
+
+<div id="header">
+
+<a href="http://www.libertytimes.com.tw"><img src="images/logo01.gif" id="logo01" /></a>
+<div id="nav"><a href="http://iservice.libertytimes.com.tw/inform/complain_1.php?type=3" target="_blank">建議我們</a>│ <a href="http://www.libertytimes.com.tw/Service/ad.htm" target="_blank">廣告刊登</a>│ <a href="http://www.libertytimes.com.tw/2007/new/other/service/order.htm" target="_blank">訂報服務</a>│ <a href="http://www.libertytimes.com.tw/Service/recruit.htm" target="_blank">自由徵才</a>│ <a href="http://blog.libertytimes.com.tw/" target="_blank">Blog</a></div>
+<div class="ad"><script src="http://www.libertytimes.com.tw/js/ajs/BindexA03.js"></script></div>
+<hr />
+
+</div>
+
+<div id="news_block">	  <div id="breadcrumb">
+        <span style="float:left"><a href="http://www.libertytimes.com.tw">自由電子報</a> &gt; <a href="./">即時新聞總覽</a> &gt; <a href="list.php?type=%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E">即時新聞</a></span>
+        <span style="float:right">2012年1月12日‧星期四</span>
+	  </div>
+      <div id="nav_live">
+        <div id="type_link"> <a href="list.php?type=%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E" style="color:#FF3300">即時新聞</a>│<a href="list.php?type=%E6%94%BF%E6%B2%BB">政治</a>│<a href="list.php?type=%E7%A4%BE%E6%9C%83">社會</a>│<a href="list.php?type=%E7%A7%91%E6%8A%80">科技</a>│<a href="list.php?type=%E5%9C%8B%E9%9A%9B">國際</a>│<a href="list.php?type=%E8%B2%A1%E7%B6%93">財經</a>│<a href="list.php?type=%E7%94%9F%E6%B4%BB">生活</a>│<a href="list.php?type=%E9%AB%94%E8%82%B2">體育</a>│<a href="list.php?type=%E5%BD%B1%E5%8A%87">影劇</a>│<a href="list.php?type=%E5%9C%B0%E6%96%B9">地方</a></div>
+         <div class="AAA"><a href="list2.php" class="list2" target="_blank">無障礙閱讀</a></div>
+      </div>
+    <table cellpadding="0" cellspacing="0" class="newsTb">
+      <thead>
+          <tr>
+            <th class="news_kind" width="20%">即時新聞</th>
+             <td class="font_size" width="50%" valign="middle">字型：
+            <img src="images/font+.gif" name="adjustBig" align="" id="adjustBig" onClick="adjustFont('big')"><img src="images/font-.gif" name="adjustSmall" align="" id="adjustSmall" onClick="adjustFont('small')"></td>
+			<td id="nav_page" width="30%">&nbsp;</td>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+            <td class="body" colspan="3">
+			<div id="LB3"><script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLB03.js"></script></div>
+			<h2 id="newsti" class="news_title">貧血  小心大腸癌上身 <span class="conttime">【11:25】</span></h2>
+            
+				              <div id="newsc" class="news_content">
+              〔中央社〕58歲沈姓婦女1年多前開始貧血，容易疲倦，多次因貧血被送急診，經醫師檢查，才得知罹患大腸癌，接受手術及化學治療。<br />
+<br />
+  衛生署台南醫院內科部血液腫瘤科醫師曹書儀今天指出，沈姓婦女運動會喘，時常頭暈目眩，嚴重時還會暈倒送急診，接受輸血治療，曾有醫師建議她接受腸胃鏡檢查，但沈姓婦女因工作繁忙無法配合，直到再送急診時才接受檢查。<br />
+<br />
+  沈姓婦女因有疲倦、心悸、活動性喘、頭暈、姿態性低血壓等貧血症狀，醫師確診是缺鐵性貧血，腸胃鏡檢查更發現有腸胃道出血及十二指腸潰瘍，升結腸有阻塞性病灶，切片證實是大腸癌。<br />
+<br />
+  曹書儀說，貧血是年輕女性常見的疾病，肇因於月經量過多，甚至因長期失血，造成紅血球原料「鐵離子」缺乏，使骨髓無法順利造血，也就是缺鐵性貧血，需要長期服用或注射鐵劑補充。<br />
+<br />
+  若是老年男性或女性出現缺鐵性貧血，可能是腸胃道癌症的徵兆，缺鐵性貧血患者應留意腸胃道出血的可能，需做糞便檢查，或進一步做腸胃鏡檢，才能早期發現病灶，早期治療。              </div>
+            </td>
+          </tr></tbody>
+        </table>
+      <div id="LB2"><script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLB02.js"></script></div>
+      <script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLB01.js"></script>
+      <div class="top"><a href=#><img src="images/top_button.gif" border="0" /></a></div>
+    </div>
+    <div id="adc">
+    <div id="LC1"><script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC01.js"></script></div>
+<script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC02.js"></script>
+<script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC03.js"></script>
+<div id="LC4"><script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC04.js"></script></div>
+<script type="text/javascript" src="http://www.libertytimes.com.tw/js/ajs/BindexLC05.js"></script>    </div>
+  
+  <div id="footer"><a href="http://iservice.libertytimes.com.tw/inform/complain_1.php?type=3" target="_blank">連絡我們</a> | 爆料傳真 0809-006-667 | 自由電子報 版權所有 © 2012 The Liberty Times. All Rights Reserved.
+  </div>
+  
+  </div>
+
+</body>
+</html>
+

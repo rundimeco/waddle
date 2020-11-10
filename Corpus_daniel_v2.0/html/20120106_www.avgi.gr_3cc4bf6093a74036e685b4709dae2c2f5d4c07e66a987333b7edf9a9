@@ -1,0 +1,595 @@
+
+
+
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών  - Η Αυγή online</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<link rel="stylesheet" type="text/css" href="common/css/all.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/arthro.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/kathgoria.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/katigoria_ypokatigoria.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/super_front.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/arxeio.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/entheta.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/apopseis.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/search_results.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/entheta_inside.css" />
+	<link rel="StyleSheet" href="common/jscripts/dtree/dtree.css" type="text/css" />
+	<script type="text/javascript" src="common/scripts/scripts.js"></script>
+	<script type="text/javascript" src="common/jscripts/dtree/dtree.js"></script>
+	<script type="text/javascript" src="common/scripts/avgiajax.js"></script>
+	<script type="text/javascript" src="common/scripts/AC_RunActiveContent.js"></script>
+</head>
+<body>
+	<!--page-->
+	<div id="page">
+		<!--header-->
+		<div id="header">
+				<h1><a href="http://www.avgi.gr/StartPageAction.action">HAYGH</a></h1>
+				<!-- top banner -->
+				<div style="top:54px;left:640px;position:absolute;">
+					
+					
+				</div>
+				<!-- end of top banner -->
+				<!-- 
+				<img style="top:54px;left:677px;position:absolute;" src="common/images/alpha_version.jpg"/>
+				<div style="top:98px;left:807px;position:absolute;"><img src="common/images/arrow02.gif"/>&nbsp;&nbsp;<a style="text-decoration:none;color:#464748;" href="SearchOldArticleActionshow.action"/>Δείτε την παλιά έκδοση</a></div>
+				 -->
+				<div class="rss">
+					<!-- <a class="rsslink" style="margin-right:60px;" href="RSSTermsAction.action?termID=488647">Βουλευτικές Εκλογές '09</a> -->
+					<a class="rsslink" href="RSSStartPage.action">rss feeds</a>
+				</div>
+				<div class="date">
+					<strong id="dayid"></strong>
+					<em id="dateid"></em>
+				</div>
+				<script>showDate('dayid','dateid');</script>
+			<ul>
+				<li>
+						
+							<a class="epikairotita_new" style="background:url(common/images/EPIKAIROTITA_3_TAB.gif) no-repeat;" href="StartPageAction.action">
+								ΕΠΙΚΑΙΡΟΤΗΤΑ
+							</a>
+						
+						
+				</li>
+				<!-- 
+				<li>
+					
+					
+						<a class="focus_new" href="#">
+							ΦΟΚΟΥΣ
+						</a>
+					
+				</li>
+				 -->
+				<li>
+						
+						
+						<a class="gnomi_new" href="OpinionsMainActionshow.action">
+							ΓΝΩΜΗ
+						</a>
+						
+					
+				</li>
+				<li>
+						
+						
+							<a class="entheta_new" href="InsetsMainActionshow.action">
+								ΕΝΘΕΤΑ
+							</a>
+						
+					
+					
+					
+				</li>
+				<li>
+						
+						
+							<a class="odigoi_new" href="GuidesMainActionshow.action">
+								ΟΔΗΓΟΙ
+							</a>
+						
+				</li>
+			</ul>
+			<div class="subcat_container">
+				
+					<ul>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=21">ΠΟΛΙΤΙΚΗ </a>
+						</li>
+						<li >
+							<a href="DepartmentActionshow.action?departmentID=22">ΕΛΛΑΔΑ </a>
+						</li>
+						<li class="menu_selected">
+						<a href="DepartmentActionshow.action?departmentID=23">ΔΙΕΘΝΗ </a>
+						</li>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=24">ΟΙΚΟΝΟΜΙΑ </a>
+						</li>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=25">ΑΘΛΗΤΙΣΜΟΣ </a>
+						</li>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=26">ΠΟΛΙΤΙΣΜΟΣ </a>
+						</li>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=27">ΠΕΡΙΒΑΛΛΟΝ </a>
+						</li>
+					</ul>
+				
+				
+				
+				
+			</div>
+		</div>
+		<!--columns-holder-->
+		<div id="columns-holder">
+			<div class="top">
+				<!-- 
+				<div class="form-area">
+					<form id="simple-search-form-id" action="SearchArticleActionsearch.action" method="post">
+						<fieldset>
+							<label>Aναζήτηση</label>
+							<div>
+								<input type="text" class="text" name="searchCriterion"/>
+							</div>
+							<input type="image" class="btn" src="common/images/search-btn.gif"/>
+						</fieldset>
+					</form>
+				</div>
+				 -->
+				
+				<ul>
+					<li><a href="StartPageAction.action">Aρχική</a></li>
+					
+						
+						
+							<li><a href="DepartmentActionshow.action?departmentID=23">ΔΙΕΘΝΗ</a></li>
+						
+					
+						
+						
+							<li><a href="ColumnActionshow.action?columnID=2310">ΑΣΙΑ</a></li>
+						
+					
+						
+							<li>Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών </li>
+						
+						
+					
+				</ul>
+			</div>
+			
+			
+
+
+
+
+
+<!--entheta title-->		
+<!-- 
+
+
+
+	<div style="padding-top:10px;font-size:24px;"><img src="common/images/diethni_header.gif"/> / ΑΣΙΑ</div>
+
+
+
+
+
+
+
+ -->
+<!--content-->
+<div id="content_arthro" style="margin-top:15px;">
+	<div class="block">
+		<div class="title_Main" id="titleID">
+			Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών 
+		</div>
+		<div class="left-col" style="background:none;">
+			<div class="article_header">
+				<!--  
+				<div class="title" id="titleID">
+					Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών 
+				</div>
+				-->
+				<div class="author">
+				
+				
+					<span style="font-weight:bold" id="writerID">&nbsp;</span>
+				
+				
+				</div>
+				<div class="date">
+				Ημερομηνία δημοσίευσης: <span style="font-weight:bold" id="datePubID">22/12/2011</span>
+				</div>
+				
+				<div class="main" id="articleTextID">
+					
+						<p>Φόβους για εξάπλωση επιδημιών εξέφρασαν οι Αρχές στις Φιλιππίνες μετά τις καταστροφικές πλημμύρες που έπληξαν πριν πέντε μέρες τις νότιες περιοχές της χώρας και στοίχισαν τη ζωή σε περισσότερους από 1.000 ανθρώπους. Ο απολογισμός των νεκρών ωστόσο αυξάνεται διαρκώς.</p>
+<p>Η συγκέντρωση μεγάλου αριθμού ανθρώπων σε καταυλισμούς αυξάνει τις πιθανότητες εξάπλωσης ασθενειών. Σημειώνεται πως περισσότεροι από 44.000 άνθρωποι έχουν καταφύγει σε καταυλισμούς. Ενδεικτικό των άθλιων συνθηκών που επικρατούν είναι το γεγονός πως σε κάποιους καταυλισμούς που φιλοξενούν περίπου 4.000 άτομα υπάρχουν μονάχα δύο αποχωρητήρια, ενώ σημαντικές είναι και οι ελλείψεις καθαρού νερού και τροφής. &#8221;Εάν υπάρξει οποιαδήποτε επιδημία ή απειλή για τη ζωή, αυτή θα ξεκινήσει από τους καταυλισμούς&#8221;, είπε αξιωματούχος της κυβέρνησης της χώρας.</p>
+<p>Ο πρόεδρος των Φιλιππίνων, Μπενίνιο Ακουίνο, έκανε λόγο για "συμφορά" που έπληξε τη χώρα. Ακόμη, ο Ρίτσαρντ Γκόρντον, επικεφαλής του Ερυθρού Σταυρού στις Φιλιππίνες, είπε πως η απελπισία στις πληγείσες περιοχές είναι άνευ προηγουμένου. Ο Ερυθρός Σταυρός απηύθυνε έκκληση για βοήθεια ύψους 2,8 εκατομμυρίων δολαρίων. "Έχω δει πολλές καταστροφές, αλλά αυτή είναι η χειρότερη, καθώς κάποιοι από τους επιζώντες έχουν χάσει τόσους πολλούς οικείους τους (...) κάποιοι έχουν χάσει 30 συγγενικά τους πρόσωπα" δήλωσε.</p>
+					
+					
+				</div>
+				<!--pagination-->
+				<!-- 
+				<div id="pagination">
+					<div class="navigate_prev" >Προηγούμενη σελίδα</div>
+					<div class="pages" align="center">
+						<ul>
+							<li style="background:none">1</li>
+							<li><a href="#">2</a></li>
+							<li><a href="#">3</a></li>
+							<li><a href="#">4</a></li>
+							<li><a href="#">5</a></li>
+							<li><a href="#">6</a></li>
+						</ul>								
+					</div>
+					<div class="navigate_next"><a href="#">Επόμενη σελίδα</a></div>
+				</div>
+				 -->
+									<!--
+				<div id="box_actions">
+					<div class="box-top_actions">
+						<div class="box-btm_actions">
+							<ul>
+								<li class="send" >
+									<a href="javascript:sendAnnotatedMailTo('Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών ','http://www.avgi.gr/ArticleActionshow.action?articleID=659681')">
+										Αποστολή με email
+									</a>
+								</li>
+								<li class="print" ><a href="javascript:printArticle();">Εκτύπωση</a></li>
+								<li class="spread" >
+									<a target="_blank" href="http://www.stumbleupon.com/submit?url=http://www.avgi.gr/ArticleActionshow.action?articleID=659681&title=Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών "><img style="border:none;" src="common/images/stumbleupon.png"/></a>
+ 
+									<a target="_blank" href="#"><img style="border:none;" src="common/images/wordpress.png"/></a>
+									<a target="_blank" href="#"><img style="border:none;" src="common/images/blogger.png"/></a>
+								</li>
+							</ul>
+					    </div>
+					</div>
+				</div>
+									 -->
+				
+				<!-- 
+				<div id="comments">
+					<ul>
+						<li><a name="comments" href="#">Σχόλια</a></li>
+					</ul>	
+				</div>
+				
+				Δεν υπάρχουν σχόλια
+				
+				
+				<div class="form_label">Αφήστε το σχόλιο σας </div>
+				<div id="form">
+					 <form action="ArticleActionaddComment.action">
+						<input name="articleID" type="hidden" value="659681"/>
+						<p><input type="text" name="name" id="name" class="text_entry" /><span class="form_label">Ονοματεπώνυμο</span></p>
+						<p><input type="text" name="email" id="email" class="text_entry" /><span class="form_label">E-mail</span></p>
+						<p><textarea name="comments" class="area"></textarea><span class="form_label_top">Μήνυμα</span></p>
+						<input type="submit" value="Αποστολή" class="sub_btn" />
+					</form>
+				</div>
+				 -->
+			</div>
+		</div>
+		<div class="right-col">
+			<div id="box_info">
+				<div class="box-top_info">
+					<div class="box-btm_info">
+						<ul>
+							<li class="send"><a href="javascript:sendAnnotatedMailTo('Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών ','http://www.avgi.gr/ArticleActionshow.action?articleID=659681')">Αποστολή με mail</a></li>
+							<li class="print"><a href="javascript:printArticle();">Εκτύπωση</a></li>
+							<!-- 
+							<li class="comment"><a href="#comments">Σχολιάστε το άρθρο</a></li>
+							 -->
+							<li class="spread"><a href="#">Διαδώστε το άρθρο</a></li>
+							<li>
+								<a target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.avgi.gr/ArticleActionshow.action?articleID=659681&title=Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών "><img style="border:none;margin-top:5px;" src="common/images/Google.png"/></a>&nbsp;Google<br/>
+								<a target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.avgi.gr/ArticleActionshow.action?articleID=659681&t=Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών "><img style="border:none;" src="common/images/facebook.png"/></a>&nbsp;Facebook<br/>
+								<a target="_blank" href="http://del.icio.us/post?url=http://www.avgi.gr/ArticleActionshow.action?articleID=659681&title=Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών "><img style="border:none;" src="common/images/delicious.png"/></a>&nbsp;Delicious<br/>
+								<a target="_blank" href="https://twitter.com/share?url=http://www.avgi.gr/ArticleActionshow.action?articleID=659681"><img style="border:none;" src="common/images/twitter.png"/></a>&nbsp;Twitter<br/>
+								<a target="_blank" href="http://www.stumbleupon.com/submit?url=http://www.avgi.gr/ArticleActionshow.action?articleID=659681&title=Φιλιππίνες: Φόβοι για εξάπλωση επιδημιών "><img style="border:none;" src="common/images/stumbleupon.png"/></a>&nbsp;Stumble</br>
+								<a target="_blank" href="http://buzz.reality-tape.com/submit.php?url=http://www.avgi.gr/ArticleActionshow.action?articleID=659681"><img width="16" style="border:none;" src="common/images/buzz.png"/></a>&nbsp;Buzz
+							</li>
+						</ul>								
+					</div>
+				</div>
+			</div>
+			<!-- 
+			
+			 -->
+			
+				<div id="box_etiketes">
+					<div class="box_etiketes-top_info">
+						<div class="box_etiketes-btm_info">
+							<ul>
+								<li class="title" >Ετικέτες άρθρου</li>
+								
+									
+									
+									<li class="white" ><a href="TermsActionshowArticles.action?termID=1765">Φιλιππίνες</a></li>
+									
+									
+								
+							</ul>								
+						</div>
+					</div>
+				</div>
+			
+			
+			
+		</div>
+	</div>
+</div>
+
+
+	
+
+		
+			<!--sidebar-->
+			<div id="sidebar" style="padding-top:15px;">
+				<div id="cse-search-form" style="width: 100%;">Loading</div>
+				<script src="//www.google.com/jsapi" type="text/javascript"></script>
+				<script type="text/javascript"> 
+				  google.load('search', '1', {language : 'el', style : google.loader.themes.ESPRESSO});
+				  google.setOnLoadCallback(function() {
+				    var customSearchControl = new google.search.CustomSearchControl('003364420328047504427:byixxu4pilu');
+				    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+				    var options = new google.search.DrawOptions();
+				    options.enableSearchboxOnly("http://www.avgi.gr/SearchArticleActionsearch.action");
+				    customSearchControl.draw('cse-search-form', options);
+				  }, true);
+				</script>
+				 <style type="text/css">
+				  input.gsc-input {
+				    border-color: #A25B08;
+				  }
+				  input.gsc-search-button {
+				    border-color: #461200;
+				    background-color: #461200;
+				  }
+				</style>
+				
+				
+					<object width="300" height="250"><param name="movie" value="images/photoarchive/banners/300x250URL.swf"/><embed src="images/photoarchive/banners/300x250URL.swf" width="300" height="250"></embed></object>
+					<br><br>
+				
+				
+					
+					
+						
+						
+						
+					
+		
+			
+<div class="box">
+	<div class="box-top" style="background:url(common/images/sidebar-box-top-bg_BIG.gif) no-repeat;">
+		<div id="opinionID">
+			<div class="box-btm">
+				<!-- <div class="grafoyn" style="height:35px"> --><!--YG_2_3-->
+				<div class="grafoyn">
+					<a href="OpinionsMainActionshow.action">
+					<img style="border:none" src="common/images/grafoyn-title_new.gif"/>
+					</a>
+					
+					<div class="box-label">
+						<ul >
+							<li><a href="OpinionsMainActionshowCol.action?columnID=323">ΔΙΕΘΝΗ</a></li>						
+						</ul>
+					</div>
+					
+				</div>
+				
+				
+					<div class="text" >
+					<h5>ΔΙΕΘΝΗ</h5>
+						<h4 style="margin-top:12px;"><a href="ArticleActionshow.action?articleID=663337">Ο λουθηρανισμός της φράου Μέρκελ</a></h4>
+						<h3>
+							
+							Σάββατο 14 Ιανουαρίου 2012
+						</h3>
+						<p>Φοίβος Ι. Πιομπίνος: Μου κάνει μεγάλη εντύπωση που κανένας κοινωνιολόγος, ψυχογράφος ή απλώς φυσιογνωμιστής δεν έχει μέχρι σήμερα σοβαρά, δηλαδή επιστημονικά, ασχοληθεί να ερμηνεύσει σημειολογικά τα λεγόμενα, τις εκφράσεις του προσώπου και τις χειρονομίες της φράου Μέρκελ</p>
+					</div>
+				
+					<div class="text" >
+					<h5>ΔΙΕΘΝΗ</h5>
+						<h4 style="margin-top:12px;"><a href="ArticleActionshow.action?articleID=662223">Ιστορική εξέλιξη για την Κύπρο ο εντοπισμός κοιτάσματος φυσικού αερίου </a></h4>
+						<h3>
+							
+							Τρίτη 10 Ιανουαρίου 2012
+						</h3>
+						<p>Η κυβέρνηση Χριστόφια δικαιούται να νιώθει ικανοποιημένη διότι με τους σωστούς χειρισμούς εξασφάλισε τα αναγκαία διεθνή ερείσματα που της επέτρεψαν να προχωρήσει στις έρευνες κατοχυρώνοντας το κυριαρχικό της δικαίωμα να της πραγματοποιήσει ως ανεξάρτητη χώρα, μέλος του ΟΗΕ και της Ε.Ε.</p>
+					</div>
+				
+					<div class="text" >
+					<h5>ΔΙΕΘΝΗ</h5>
+						<h4 style="margin-top:12px;"><a href="ArticleActionshow.action?articleID=661947">20 χρόνια από τη διάλυση της ΕΣΣΔ</a></h4>
+						<h3>
+							
+							Παρασκευή 6 Ιανουαρίου 2012
+						</h3>
+						<p>Του Πάνου Τριγάζη: Η διάλυση της ΕΣΣΔ σήμανε και το τέλος της γιγάντιας προσπάθειας της περεστρόικα, με της οποίας την επιτυχία ήταν συνυφασμένο και το μέλλον του ΚΚΣΕ</p>
+					</div>
+				
+				
+			</div>
+		</div>
+	</div>
+</div>
+<br/>
+				
+					
+					
+						
+						
+						
+					
+		
+			
+<div class="tab-area" style="margin-bottom:15px; margin-top: -10px;">
+	<h4></h4>
+	<ul class="top-list">
+		
+			<li>
+				<a class="active" href="javascript:void(0);" onclick="updateDepartmentPopulars(23, this)">
+				<span>
+					ΔΙΕΘΝΗ
+				</span>
+				</a>
+			</li>
+		
+		<li><a  href="javascript:void(0);" onclick="updatePopulars(-1, this)"><span>Όλα</span></a></li>
+		<li><a href="javascript:void(0);" onclick="updatePopulars(1, this)"><span>Επικαιρότητα</span></a></li>
+		<li><a href="javascript:void(0);" onclick="updatePopulars(3, this)"><span>Απόψεις</span></a></li>
+	</ul>
+	<div class="tab" id="popularsID">
+		<ul>
+			
+				
+				<li >
+				14/01/2012<br>
+				<a href="ArticleActionshow.action?articleID=663328">Λιγοστεύουν τα αμερικανικά στρατεύματα στην Ευρώπη</a></li>
+			
+				
+				<li id="other_color1">
+				14/01/2012<br>
+				<a href="ArticleActionshow.action?articleID=663327">Συρία: Φόβους για εμφύλιο εκφράζει ο Αραβικός Σύνδεσμος </a></li>
+			
+				
+				<li >
+				14/01/2012<br>
+				<a href="ArticleActionshow.action?articleID=663332">Αφγανιστάν: Αναγνωρίστηκε η ταυτότητα των βέβηλων "απελευθερωτών"</a></li>
+			
+				
+				<li id="other_color1">
+				15/05/2011<br>
+				<a href="ArticleActionshow.action?articleID=616301">Στουτγάρδη: Ο πρώτος Πράσινος πρωθυπουργός</a></li>
+			
+				
+				<li >
+				14/01/2012<br>
+				<a href="ArticleActionshow.action?articleID=663334">Μιανμάρ: Αμνηστία πολιτικών κρατουμένω.</a></li>
+			
+				
+				<li id="other_color1">
+				02/06/2010<br>
+				<a href="ArticleActionshow.action?articleID=546826">Ερντογάν: Να αρθεί το εμπάργκο της Λωρίδας της Γάζας</a></li>
+			
+		</ul>
+	</div>
+</div>
+				
+					
+						
+						
+					
+					
+						
+						
+						
+					
+		
+			
+
+<div class="entyph" style="margin-bottom:20px;">
+	<h3></h3>
+	<div class="inner">
+		<div>
+			
+				<img width="132" src="images/firstPage/2012/01/14/01.jpg?w=132" alt="" />
+				<!-- 
+				<img width="132" src="ServeFileActionviewFirstPage.action?photoPath=/2012/01/14/01.jpg" alt="" />
+				 -->
+			
+			<dl>
+				<dt>Αριθμός φύλλου:&nbsp;</dt>
+				<dd>11307</dd>
+				<dt>Ημερομηνία:&nbsp;</dt>
+				<dd>14/01/2012</dd>
+			</dl>
+			<ul>
+				<li>
+					
+					<a href="ServeFileActionsavePdf.action?photoPath=/2012/01/14/20120114.pdf">Κατεβάστε το σημερινό φύλλο σε μορφή PDF (10Mb)</a>
+					
+				</li>
+				<li>
+					<a href="ArchiveActionshow.action">Αρχείο Αυγής online</a>
+				</li>
+				<li>
+					<a href="SearchOldArticleActionshow.action">Αρχείο Παλαιών Φύλλων</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+				
+			</div>
+		</div>
+		
+
+
+
+
+		<div id="footer">
+			<ul>
+				<li>EΠΙΚΑΙΡΟΤΗΤΑ:</li>
+				<li><a href="DepartmentActionshow.action?departmentID=22">ΕΛΛΑΔΑ</a></li>
+				<li><a href="DepartmentActionshow.action?departmentID=23">ΔΙΕΘΝΗ</a></li>	
+				<li><a href="DepartmentActionshow.action?departmentID=21">ΠΟΛΙΤΙΚΗ</a></li>
+				<li><a href="DepartmentActionshow.action?departmentID=24">ΟΙΚΟΝΟΜΙΑ</a></li>
+				<li><a href="DepartmentActionshow.action?departmentID=26">ΠΟΛΙΤΙΣΜΟΣ</a></li>
+				<li><a href="DepartmentActionshow.action?departmentID=25">ΑΘΛΗΤΙΣΜΟΣ</a></li>
+			</ul>
+			<ul>
+				<li>ENΘΕΤΑ:</li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=28">Ο ΔΑΙΜΩΝ ΤΗΝ ΟΙΚΟΛΟΓΙΑΣ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=30">ΠΑΙΔΕΙΑ ΚΑΙ ΚΟΙΝΩΝΙΑ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=29">ΑΝΑΓΝΩΣΕΙΣ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=31">ΕΝΘΕΜΑΤΑ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=451565">ΔΙΕΘΝΗΣ ΤΥΠΟΣ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=470780">ΕΝΤΟΣ ΦΥΛΟΥ</a></li>
+			</ul>
+			<ul>
+				<li>ΑΠΟΨΕΙΣ:</li>
+				<li><a href="OpinionsMainActionshowDep.action?departmentID=32">ΓΝΩΜΗ</a></li>
+				<li><a href="OpinionsMainActionshowDep.action?departmentID=34">ΣΤΗΛΕΣ</a></li>
+				<li><a href="OpinionsMainActionshowDep.action?departmentID=33">ΑΡΘΡΟΓΡΑΦΙΑ</a></li>
+				<!-- 
+					<li><a href="OpinionsMainActionshowDep.action?departmentID=35">BLOGS</a></li> 
+				-->
+			</ul>
+			<div>
+				<a class="link" href="mailto:editors@avgi.gr">Επικοινωνία</a>
+				<a href="#" class="logo">HAYGH</a>
+				<p>Το περιεχόμενο <a target="_blank" href="http://creativecommons.org/licenses/by-nc/3.0/gr/">διατίθεται</a> ελεύθερα χωρίς περιορισμούς υπό τον όρο της παραπομπής στην αρχική του πηγή, για μη-εμπορικούς σκοπούς, Created by <a class="vtrip" target="_blank" href="http://www.vtrip.net">Virtual Trip, Ltd</a></p>
+				<p style="margin-left:65px">Ο ιστοτόπος αναπτύχθηκε με εργαλεία ελεύθερου λογισμικού - λογισμικού ανοιχτού κώδικα</p>
+			</div>
+		</div>
+	</div>
+	 
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-380276-5");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+	 
+</body>
+</html>
