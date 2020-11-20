@@ -5,13 +5,17 @@ from boilerpy3 import extractors
 #from dragnet import extract_content
 from goose3 import Goose
 import html2text
+import html_text
 import inscriptis 
 import justext
 from newspaper import fulltext
 from newsplease import NewsPlease
+from readabilipy import simple_json_from_html_string
 from readability import Document
 from trafilatura import extract
+from trafilatura.core import baseline
 from lxml import etree, html
+
 
 def apply_tool(tool, fic, mode):
   try:
@@ -54,6 +58,7 @@ def apply_tool(tool, fic, mode):
     list_paragraphs = get_paragraphs_traf(str_text, mode)
   return list_paragraphs
 
+
 def get_paragraphs_BP3(str_text, mode):
   """
   using Boilerpy3
@@ -72,6 +77,7 @@ def get_paragraphs_BP3(str_text, mode):
     text_det = ""
   return re.split("\n",text_det)
 
+
 def get_paragraphs_GOO(str_text, mode):
   """
   using Goose
@@ -82,6 +88,7 @@ def get_paragraphs_GOO(str_text, mode):
   g.close()
   return list_paragraphs
 
+
 def get_all_stop_words():
   """
   For the language independent version of Justext
@@ -90,6 +97,7 @@ def get_all_stop_words():
   for language in justext.get_stoplists():
       stop_words.update(justext.get_stoplist(language))
   return stop_words
+
 
 def get_paragraphs_JT(str_text,  mode):
   """
@@ -113,6 +121,7 @@ def get_paragraphs_JT(str_text,  mode):
   list_paragraphs = [x.text for x in paragraphs if not x.is_boilerplate]
   return list_paragraphs
 
+
 def get_paragraphs_newsplease(str_text, mode):
   """
   using Newsplease
@@ -126,6 +135,7 @@ def get_paragraphs_newsplease(str_text, mode):
   except:
     list_paragraphs = [""]
   return list_paragraphs
+
 
 def get_paragraphs_traf(str_text, mode):
   """
@@ -145,3 +155,36 @@ def get_paragraphs_traf(str_text, mode):
   else:
     list_paragraphs = re.split("\n", s)
   return list_paragraphs
+
+
+def get_paragraphs_traf_baseline(str_text, mode):
+  """
+  using Trafilatura baseline
+  """
+    _, result, _ = baseline(str_text)
+    return re.split("\n", result)
+
+
+def get_paragraphs_readabilipy(str_text, mode):
+  """
+  using ReadabiliPy, requires NodeJS version >= 10
+  """
+    try:
+        article = simple_json_from_html_string(str_text, use_readability=True)
+    except (TypeError, ValueError):
+        return ['']
+    returnlist = []
+    for textelem in article['plain_text']:
+        returnlist.append(textelem['text'])
+    return returnlist
+
+
+def get_paragraphs_html_text(str_text, mode):
+  """
+  using html_text
+  """
+    try:
+        text = html_text.extract_text(str_text, guess_layout=False)
+    except TypeError:
+        return ['']
+    return re.split("\n", text)

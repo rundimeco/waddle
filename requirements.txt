@@ -3,9 +3,11 @@ boilerpy3==1.0.2
 dragnet==2.0.4
 goose3==3.1.6
 html2text==2020.1.16
-inscriptis==1.0
+html_text==0.5.2
+inscriptis==1.1
 justext==2.2.0
 newspaper3k==0.2.8
-news-please==1.4.25
-readability-lxml==0.7.1
-trafilatura==0.4.1
+news-please==1.5.13
+readability-lxml==0.8.1
+trafilatura==0.6.0
+readabilipy==0.2.0 
