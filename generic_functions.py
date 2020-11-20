@@ -47,11 +47,14 @@ def mkdirs(path):
   except:
     return True
 
-def read_utf8(fic):
+def read_utf8(fic, ignore = False):
   """
   Reading files
   """
-  f = open(fic, "r", encoding = "utf-8")#TODO: Fix encoding issues
+  if ignore==True:
+    f = open(fic, "r", errors="ignore")
+  else:
+    f = open(fic, "r", encoding = "utf-8")
   str_text = f.read()
   f.close()
   return str_text

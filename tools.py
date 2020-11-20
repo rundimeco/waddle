@@ -1,4 +1,3 @@
-
 from generic_functions import *
 
 #### tools import ####
@@ -18,7 +17,8 @@ def apply_tool(tool, fic, mode):
   try:
     str_text = read_utf8(fic)
   except:
-    print("Error with '{fic}', you may need to change the encoding to utf-8")
+    print(f"Error with '{fic}', you may need to change the encoding to utf-8")
+    str_text = read_utf8(fic, ignore = True)
     return [""]
   if tool == "BP3":
     list_paragraphs = get_paragraphs_BP3(str_text, mode)
