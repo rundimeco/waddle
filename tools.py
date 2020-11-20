@@ -56,6 +56,12 @@ def apply_tool(tool, fic, mode):
   ##TODO: raise error
   elif tool == "TRAF":
     list_paragraphs = get_paragraphs_traf(str_text, mode)
+  elif tool == "TRAF_BL":
+    list_paragraphs = get_paragraphs_traf_baseline(str_text, mode)
+  elif tool == "READ_py":
+    list_paragraphs = get_paragraphs_readabilipy(str_text, mode)
+  elif tool == "HTML-text":
+    list_paragraphs = get_paragraphs_html_text(str_text, mode)
   return list_paragraphs
 
 
@@ -161,30 +167,30 @@ def get_paragraphs_traf_baseline(str_text, mode):
   """
   using Trafilatura baseline
   """
-    _, result, _ = baseline(str_text)
-    return re.split("\n", result)
+  _, result, _ = baseline(str_text)
+  return re.split("\n", result)
 
 
 def get_paragraphs_readabilipy(str_text, mode):
   """
   using ReadabiliPy, requires NodeJS version >= 10
   """
-    try:
-        article = simple_json_from_html_string(str_text, use_readability=True)
-    except (TypeError, ValueError):
-        return ['']
-    returnlist = []
-    for textelem in article['plain_text']:
-        returnlist.append(textelem['text'])
-    return returnlist
+  try:
+      article = simple_json_from_html_string(str_text, use_readability=True)
+  except (TypeError, ValueError):
+      return ['']
+  returnlist = []
+  for textelem in article['plain_text']:
+      returnlist.append(textelem['text'])
+  return returnlist
 
 
 def get_paragraphs_html_text(str_text, mode):
   """
   using html_text
   """
-    try:
-        text = html_text.extract_text(str_text, guess_layout=False)
-    except TypeError:
-        return ['']
-    return re.split("\n", text)
+  try:
+      text = html_text.extract_text(str_text, guess_layout=False)
+  except TypeError:
+      return ['']
+  return re.split("\n", text)

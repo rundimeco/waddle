@@ -11,3 +11,4 @@ news-please==1.5.13
 readability-lxml==0.8.1
 trafilatura==0.6.0
 readabilipy==0.2.0 
+cchardet==2.1.7

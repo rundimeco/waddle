@@ -32,6 +32,9 @@ modes ={
         #"NEWSPLEASE":[""],
 	"READABILITY":[""],
 	#"TRAF":["", "Fallback", "Comments", "FallbackComments"]
+        "TRAF_BL":[""],
+        "READ_py":[""],
+        "HTML-text":[""]
 	}
 
 ## TODO: send warnings to a log
