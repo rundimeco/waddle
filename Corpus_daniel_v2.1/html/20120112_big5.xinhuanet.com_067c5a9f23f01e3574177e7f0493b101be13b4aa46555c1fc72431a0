@@ -1,0 +1,480 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<title>合理利用時間 OL晨起5分鐘快速護膚法 | 新華網重慶頻道</title>
+<style type="text/css">
+<!--
+body {
+	font-family: "宋體";
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	line-height: 12px;
+	*line-height: 14px;
+}
+-->
+</style>
+<link href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/image/2011news.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+function doZoom(size)
+{
+if(size == 12) {
+    document.getElementById('zoom').style.fontSize=size+'px';
+    document.getElementById('zoom').style.lineHeight='21px';}
+
+if(size == 16) {
+    document.getElementById('zoom').style.fontSize=size+'px';
+    document.getElementById('zoom').style.lineHeight='28px';}
+
+if(size == 24) {
+    document.getElementById('zoom').style.fontSize=size+'px';
+    document.getElementById('zoom').style.lineHeight='40px';}
+
+}
+function funEqual(objid01,objid02)
+	{
+		var h_obj01 = document.getElementById(objid01).scrollHeight;
+		var h_obj02 = document.getElementById(objid02).scrollHeight;
+		h_obj01<h_obj02?document.getElementById(objid01).style.height = document.getElementById(objid02).scrollHeight+"px":document.getElementById(objid02).style.height = document.getElementById(objid01).scrollHeight+"px";
+	}
+</script>
+<SCRIPT type=text/javascript charset=utf-8>
+var _w = 20 , _h = 16;
+var cUrl=document.location.href;
+var regexp1 = /http:\/\/big5.xinhuanet.com\/gate\/big5\/.*\/c_([0-9]+).htm/g;
+var id = cUrl.replace(regexp1,'$1');
+var regexp2 = /(.+\/)(\w+\.\w+)(?:\?.+)?/g;
+var tempstr;
+var pic1="";
+var arEls = document.getElementsByTagName("img");
+for( var i=0;i<arEls.length;i++ ){
+        tempstr=arEls[i].src.replace(regexp2, '$2');  
+        if(tempstr.indexOf(id)>=0)
+        pic1+=arEls[i].src+",";
+}
+ var param = {
+   url:'' || location.href,/**分享url的路徑(可選,默認為所在頁面的href)*/
+   type:'3',
+   appkey:'', /**您申請的應用appkey,顯示分享來源(可選)4dd7a69ed7de049c2f45c8d6a335e75b*/
+   title:''|| document.title, /**分享的文字內容(可選，默認為所在頁面的title)*/
+   pic:pic1, /**分享圖片的路徑(可選)*/
+   rnd:new Date().valueOf()
+ }
+ var temp = [];
+ for( var p in param ){
+   temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )  
+ }
+(function(){
+var t='<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://big5.xinhuanet.com/gate/big5/www.news.cn/weibo/share.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>';
+document.getElementById("xhwbShareArea").innerHTML=t;
+document.getElementById("xhwbShareArea1").innerHTML=t;
+})()
+function share2() {
+window.open("http://big5.xinhuanet.com/gate/big5/t.home.news.cn/share.jsp?"
+		+ temp.join('&'), "_blank", "width=615,height=505");
+}
+</SCRIPT>
+</head>
+<body>
+<div class="topMenu_a3">
+<script language="JavaScript" type="text/javascript" src="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/image/2011menu.js"></script>
+</div>
+<div class="topad">
+  <div class="a1"><a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/" target="_blank"><img src="http://www.cq.xinhuanet.com/image/06news_logo.gif" width="161" height="71" border="0" /></a></div>
+  <div class="a2">
+    <div class="ad1"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://big5.xinhuanet.com/gate/big5/download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="490" height="70">
+        <param name=movie value="http://www.cq.xinhuanet.com/ad/dxs_490x70.swf">
+        <param name=quality value=high>
+        <param name="SCALE" value="exactfit">
+        <embed src="http://www.cq.xinhuanet.com/ad/dxs_490x70.swf" quality=high pluginspage="http://big5.xinhuanet.com/gate/big5/www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="490" height="70" scale="exactfit">
+        </embed> 
+      </object></div>
+  </div>
+  <div class="a3">
+    <ul><li>‧<a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012/cj target="_blank">2012，歡樂過龍年【專題】</a></li><li>‧<a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2011/2012cy target="_blank">重慶春運實用手冊</a></li><li>‧<a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2011/jjgzh target="_blank">聚焦重慶經濟工作會[專題]</a></li></ul>
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="topss">
+  <div class="a1">您的位置：<a href='http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/'>首頁</a><font class=""> >> </font><a class="" href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/index.htm" Target="_blank">首頁</a><font class=""> >> </font><a class="" href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/index/more.htm" Target="_blank">首頁更新</a><font class=""> >> </font><a class="" href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/index/more_mn.htm" Target="_blank">重慶美女</a> >> 正文</div>
+  <div class="a2">
+    <form id="pd" action="http://big5.xinhuanet.com/gate/big5/search.news.cn/inSearch.jspa">
+      <input type="hidden" name="node" value="node" />
+      <input name="n" type="text" class="username" id="inputwd" value="關鍵字搜索" size="15" />
+      <input type="hidden" name="channel" value="pd" />
+      <input type="button" class="button" value="搜 索" onclick="submitcheck1()" />
+      <input type="hidden" name="sitename" value="重慶頻道">
+    </form>
+    <form id="wytp" action="#">
+      <input type="hidden" name="pno" value="1"/>
+      <input type="hidden" name="t" value="1"/>
+      <input type="hidden" name="t1" value="0"/>
+      <input type="hidden" name="np" value="1"/>
+      <input type="hidden" name="rp" value="20"/>
+      <input type="hidden" name="ss" value="1"/>
+      <input type="hidden" id="wytparg" name="n1" value=""/>
+    </form>
+    <form id="xhw" action="#">
+      <input type="hidden" id="xhwarg" name="n" value=""/>
+    </form>
+    <form id="shp" action="#">
+      <input type="hidden" id="shparg" name="video" value=""/>
+    </form>
+    <script type="text/javascript">
+	
+	var actions = {
+			"xhw":"http://big5.xinhuanet.com/gate/big5/search.news.cn/inSearch.jspa",
+			"wy":"http://big5.xinhuanet.com/gate/big5/info.search.news.cn/result.jspa",
+			"tp":"http://big5.xinhuanet.com/gate/big5/search.news.cn/pic/image.jspa",
+			"shp":"http://big5.xinhuanet.com/gate/big5/search.news.cn/video/videoSearch.jspa"
+	}
+
+	String.prototype.trim = function(){
+		var reExtraSpace = /^\s*(.*?)\s+$/;
+		return this.replace(reExtraSpace,"$1");
+	}
+	
+	function trimInput(){
+		
+		var arg =document.getElementById("inputwd").value;
+		if(arg.trim() == ""){
+			alert("請輸入關鍵字");
+			document.getElementById("inputwd").focus();
+			return false;
+		}else{
+			return true;
+		}
+	}
+	
+	function submitcheck1()
+	{
+
+		var arg =document.getElementById("inputwd").value;
+		if(arg.trim() == ""){
+			alert("請輸入關鍵字");
+			document.getElementById("inputwd").focus();
+			return false;
+		}else{
+			var selection = document.getElementById("channel").value;
+			if(selection=="xhw"){
+				//新華網站內搜索
+				document.getElementById('xhwarg').value=arg;
+				var form = document.getElementById('xhw');
+				form.action = actions[selection];
+				form.submit();
+			}
+			else if(selection=="wy"||selection=="tp"){
+				//網頁和圖片搜索
+				document.getElementById('wytparg').value=arg;
+				var form = document.getElementById('wytp');
+				form.action = actions[selection];
+				form.submit();
+			}
+			else if(selection=="shp"){
+				//視頻搜索
+				document.getElementById('shparg').value=arg;
+				var form = document.getElementById('shp');
+				form.action = actions[selection];
+				form.submit();
+			}
+			else{
+				//地方頻道
+				var form = document.getElementById('pd');
+				//form.action = actions[selection];
+				form.submit();
+			}
+		}
+	}
+</script>
+  </div>
+</div>
+<div class="NewsC">
+  <div class="N_left" id="N_left">
+    <div class="a1">合理利用時間 OL晨起5分鐘快速護膚法</div>
+    <div class="a2">
+      <ul>2012年01月11日 10:22:11 　來源：今日風採雜志</ul>
+      <dl>
+        <span class="print" title="打印"><a href="javascript:void(0);" onclick="javascript:print();" class="blue">打印</a></span><span class="forword" title="轉發"><a href="mailto:" class="blue">轉發</a></span> 字號：<a href="javascript:doZoom(24)" class="blue">大</a> <a href="javascript:doZoom(16)" class="blue">中</a> <a href="javascript:doZoom(12)" class="blue">小</a>
+      </dl>
+    </div>
+    <div class="a3"><span id="zoom">
+<P>&nbsp;&nbsp;&nbsp;&nbsp;導讀：肌膚其實就如同人們的腸胃，一道接一道慢慢吸收護膚品的營養，時間都是在享受的過程中慢慢流逝的，先用化粧水補充肌膚水分，如同頭盤的開胃湯，暢通肌膚的吸收通道；隔一段時間再抹上營養豐富的精華液，這裏精華就如同主菜，為肌膚提供美味佳肴；最後再上主食面霜，就如同面飯一樣，可以令肌膚長久抵抗幹燥和肌膚其他問題。但許多人會說這樣護理肌膚在早上匆忙之間無法做到，其實不然，只要你一邊護膚一邊做其他事情，讓護膚穿插在別的事情中，“懷石式”美容反而會讓你早上節省不少時間呢。 
+<P align=center><IMG border=0 src="http://www.cq.xinhuanet.com/2012-01/11/xin_5530109111032312260861.jpg"></P>
+<P align=center>晨間護膚的關鍵在于合理利用時間&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P align=left>&nbsp;&nbsp;&nbsp; 俗話說“一日之計在于晨”，早晨的護膚時間對于一天來說是最為緊張的，但是晨間的肌膚保養也尤為重要，晨間護膚的重要性就如同每日的早餐，雖說是最要緊的一餐，但卻也是最容易被忽略的一餐。早上時間緊迫，許多人就胡亂涂一些護膚品草草了事，有的甚至不用護膚品，這些都會令肌膚營養流失，久而久之，皮膚就會變得問題重重。由此可見，晨間護膚的關鍵在于合理利用時間。</P>
+<P align=center><IMG border=0 src="http://www.cq.xinhuanet.com/2012-01/11/xin_55301091110328431651462.jpg"></P>
+<P align=center>STEP 1&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P align=left>&nbsp;&nbsp;&nbsp; STEP 1 首先清潔肌膚十分重要，肌膚經過一個晚上會分泌一些油脂，如果不清潔幹凈容易形成粉刺，同時皮膚的代謝廢物也容易令保養品無法吸收。</P>
+<P align=center><IMG border=0 src="http://www.cq.xinhuanet.com/2012-01/11/xin_5630109111032218200063.jpg"></P>
+<P align=center>STEP 2　</P>
+<P align=left>　&nbsp; STEP 2 清潔完肌膚後，可以使用爽膚水或化粧水輕拍面部肌膚，進行點拍式按摩，這樣可以有效收斂毛孔，也能二次對肌膚進行清潔滋潤。</P>
+<P align=center><IMG border=0 src="http://www.cq.xinhuanet.com/2012-01/11/xin_56301091110325311619764.jpg"></P>
+<P align=center>STEP 3　</P>
+<P align=left>&nbsp;&nbsp;&nbsp; STEP 3 在使用完化粧水之後肌膚就需要2分鐘慢慢吸收營養，這個時候你可以去刷個牙，合理利用這2分鐘清潔牙齒和牙齦。</P>
+<P><br><center><table border="0" align="center"><tr><td><a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24517570_1.htm" class="nextpage"><img src="http://imgs.xinhuanet.com/icon/newscenter/news_xy.gif"  border="0"></a></td></tr></table></center></span></div>
+    <div class="a4">
+      <ul>
+        [<a href="javascript:doPrint();" class="gray">打印</a>]　[<a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/tg" target="_blank" class="gray">糾錯</a>]　[<a href="http://big5.xinhuanet.com/gate/big5/forum.home.news.cn/index.jsp" target="_blank" class="gray">評論</a>]　[<a href="mailto:chongqing@xinhuanet.com" class="gray">信箱</a>]
+      </ul>
+      <ol>
+        [責任編輯: 樂璇]
+      </ol>
+    </div>
+    <div class="a5">
+      <ul>
+        <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhsj" target="_blank">訂閱新華手機報</a>
+      </ul>
+      <ol>
+        <a href="javascript:window.open('http://big5.xinhuanet.com/gate/big5/sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+encodeURIComponent(document.location)); void 0;" title="分享到QQ空間"><img src="http://www.cq.xinhuanet.com/image/qz_logo.png" alt="分享到QQ空間" border="0"  /></a>
+      </ol>
+      <ol>
+        <a href="javascript:window.open('http://big5.xinhuanet.com/gate/big5/v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location)+'&amp;appkey=c5db7827330f4e87b7aec439a87e3841&amp;site=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/&amp;pic='+encodeURI('')+'&amp;title='+encodeURI(document.title),'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' ); void 0;" title="分享到騰訊微博" style="height: 16px; font-size: 12px; line-height: 16px;"><img src="http://www.cq.xinhuanet.com/image/qqwb.png" alt="分享到騰訊微博" border="0" /></a>
+      </ol>
+      <ol>
+        <script type="text/javascript">document.write('<iframe scrolling="no" height="16" frameborder="0" width="16" src="http://big5.xinhuanet.com/gate/big5/hits.sinajs.cn/A1/weiboshare.html?url='+encodeURIComponent(document.location)+'&type=3&count=&appkey=&title='+encodeURIComponent(document.title)+'&pic=&ralateUid=&rnd='+new Date().valueOf()+'" allowtransparency="true"></iframe>');</script>
+      </ol>
+      <ol>
+        <A onclick=share2() href="javascript:;"><img src="http://www.cq.xinhuanet.com/image/xhw_wb.png" border="0" align="absmiddle" /></A>
+      </ol>
+      <dl>
+        <script language="javascript">
+function myclink(){
+var mytlink="";
+mytlink+=document.title;
+mytlink+=document.URL
+window.clipboardData.setData("Text",mytlink);
+alert("復制成功，請粘貼到您的 QQ / MSN / Email 上推薦給您的好友！");
+}
+</script>
+        <a href="#" onclick="javascript:myclink()">復制網址</a> | 分享到：<A onclick=share2() href="javascript:;"><FONT color=#8a0000>新華微博</FONT></A>
+      </dl>
+    </div>
+    <div class="a6">
+      <ul>
+        <dl>
+          <strong style="font-size: 14px;">發表言論</strong><br>
+          <a href="http://big5.xinhuanet.com/gate/big5/blog.home.news.cn/" target="_blank" class="blue1">新華博客</a>　<a href="http://big5.xinhuanet.com/gate/big5/photo.home.news.cn/" target="_blank" class="blue1">新華拍客</a>　<a href="http://big5.xinhuanet.com/gate/big5/video.home.news.cn/" target="_blank" class="blue1">新華播客</a>
+        </dl>
+        <ol>
+          <span>請點擊進入 <a href="http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/forum/index.htm" target="_blank" class="blue1">新華社區</a> 的 <a href="http://big5.xinhuanet.com/gate/big5/forum.home.news.cn/list/82-239-0-1.html" target="_blank" class="blue1">重慶城市論壇</a> 發言</span><br>
+          請您文明上網、理性發言並遵守<a href="http://big5.xinhuanet.com/gate/big5/misc.home.news.cn/common/html/yhxy.html" target="_blank">相關規定</a>
+        </ol>
+      </ul>
+    </div>
+    <div class="ad"><iframe border="0"  name="centerad1" marginwidth="0" framespacing="0"  marginheight="0"  src="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/ad/center_ad1.htm" frameborder="0"  noResize width=620 height=70 scrolling="no"  vspale="0"></iframe></div>
+    <div class="a7">
+      <ul>
+        頻道推薦
+      </ul>
+      <div class="a9"><li><div class="textbg"></div>  <div class="text"><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2012-01/10/content_24512433.htm target="_blank">重慶市第三屆人民代表大會第五次會議第二次全體會議</a></div>  <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2012-01/10/content_24512433.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_1130109101618531139883.jpg width="136" height="88"></a></li></div>
+      <div class="a10">
+        <dl><li>[兩會專訪] <a href=http://big5.xinhuanet.com/gate/big5/zt.cqxhw.net/2012/cqlh/zx.htm target="_blank"><FONT COLOR=#FF0000 >周旬：渝北全市率先打造"民主法制示范區"</FONT></a></li><li>[兩會專訪] <a href=http://big5.xinhuanet.com/gate/big5/zt.cqxhw.net/2012/cqlh/cj.htm target="_blank"><FONT COLOR=#FF0000 >陳傑：榮昌要轉型 要建成渝西川東中心城市</FONT></a></li><li>[兩會專訪] <a href=http://big5.xinhuanet.com/gate/big5/zt.cqxhw.net/2012/cqlh/lgz.htm target="_blank"><FONT COLOR=#FF0000 >劉貴忠：把忠縣建成品味小城 中國幸福橘鄉</FONT></a></li><li>[房產] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24517352.htm target="_blank">開發商預判今年房價下降10%-30%<a href= "http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/house/2012-01/11/c_122567606.htm"target= _blank><FONT COLOR= #008000>二季度末望觸底</FONT></a></a></li><li>[法治] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24517263.htm target="_blank">深圳警察東莞夜總會外開槍 <a href= "http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24517276.htm"target= _blank><FONT COLOR= #008000>出租汽車司機被誤殺</FONT></a></a></li></dl>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="a7">
+      <ul>
+        滾動報道
+      </ul>
+      <div class="a11">
+        <div class="a12"><a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/zhengwu" target="_blank" class="blue">時政</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/couties" target="_blank" class="blue">區縣</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/social" target="_blank" class="blue">社會</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/ent" target="_blank" class="blue">娛樂</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/yulun" target="_blank" class="blue">輿論</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/edu" target="_blank" class="blue">教育</a></div>
+        <div class="a13">
+          <ol>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24514524.htm target="_blank">民主是力量 城市需大家關心</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24514193.htm target="_blank">五個坐標構築重慶發展框架 黃奇帆詳解戰略思路</a></li>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24518033.htm target="_blank">5年後渝中下半城改造將基本完成</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24517933.htm target="_blank">金融業躍居渝中第一支柱產業</a></li>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24516189.htm target="_blank">5歲男孩患怪病 連喝水都哽得厲害</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24515887.htm target="_blank">本周陰雨低溫 流感發病可能活躍</a></li>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24516442.htm target="_blank">郭德綱：打人者不是徒弟是“臨時工”已被開除</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24516968.htm target="_blank">龍年春晚主持陣容曝光 80後美女李思思爆冷亮相</a></li>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24516299.htm target="_blank">光禿銀杏樹 長滿假樹葉</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24515836.htm target="_blank">夜查8家名煙名酒店 全部都是在賣的假煙（圖）</a></li>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24518452.htm target="_blank">"新實驗作文大賽"落幕 獲獎者7月免費遊香港</a></li>
+          </ol>
+          <div class="clear"></div>
+        </div>
+        <dl>
+        </dl>
+        <div class="a12"><a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/business" target="_blank" class="blue">財經</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/couties" target="_blank" class="blue">區縣</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/legal" target="_blank" class="blue">法治</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/lady" target="_blank" class="blue">美女</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/other" target="_blank" class="blue">網聞</a><br>
+          <br>
+          <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/house" target="_blank" class="blue">房產</a></div>
+        <div class="a13">
+          <ol>
+           <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/business/2012-01/11/content_24518441.htm target="_blank">黃奇帆：五個坐標構築重慶發展的總體框架(圖)</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/business/2012-01/11/content_24518262.htm target="_blank">非去不可 投9200萬央視廣告把山水重慶叫響全國</a></li>
+           <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24517924.htm target="_blank">60家企業老總赴武隆看望留守兒童</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24517865.htm target="_blank">機關大院貼楹聯 營造濃濃“年”味</a></li>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24515272.htm target="_blank">10歲男孩“拐”走了4歲娃 超市偷吃零食被發現</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24515172.htm target="_blank">男子避險跳車被壓死 他是不是“第三者”？</a></li>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24517342.htm target="_blank">你有職業病嗎：“脊椎病、鼠標手”的七大徵兆</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24518542.htm target="_blank">愛情的神聖信物 結婚到底需要幾種戒指 [圖]</a></li>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/09/content_24501921.htm target="_blank">百年“柯達”將破產落幕</a></li><li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/09/content_24501919.htm target="_blank">好萊塢演繹“海豹”突襲本&#149;拉丹</a></li>
+            <li>| <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2011-12/30/content_24445880.htm target="_blank">明年房貸月供要上漲 提前還貸不是人人適宜</a></li>
+          </ol>
+          <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="a7">
+      <ul>
+        精選圖片
+      </ul>
+      <div class="a8"><li><div class="textbg"></div>  <div class="text"><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2012-01/11/content_24518124.htm target="_blank">"公務員畫家"侯耘作品選</a></div>  <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2012-01/11/content_24518124.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_58301091110565621120081.jpg width="136" height="88"></a></li><li><div class="textbg"></div>  <div class="text"><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2011-01/09/content_24500836.htm target="_blank">姚笛開年雜志封面</a></div>  <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2011-01/09/content_24500836.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_22301090911157650501143.jpg width="136" height="88"></a></li><li><div class="textbg"></div>  <div class="text"><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2011-01/09/content_24500749.htm target="_blank">不著痕跡的中式歐美融合</a></div>  <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2011-01/09/content_24500749.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_16301090911100154564137.jpg width="136" height="88"></a></li><li><div class="textbg"></div>  <div class="text"><a href=http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/foto/2012-01/06/c_122543775.htm target="_blank">人體偽裝的最高境界</a></div>  <a href=http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/foto/2012-01/06/c_122543775.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_573010909110448411926125.jpg width="136" height="88"></a></li><li><div class="textbg"></div>  <div class="text"><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2011-01/09/content_24500603.htm target="_blank">微距攝影：美輪美奐夢幻島</a></div>  <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2011-01/09/content_24500603.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_283010909142865627260145.jpg width="136" height="88"></a></li><li><div class="textbg"></div>  <div class="text"><a href=http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/jiaju/2012-01/05/c_122541196.htm target="_blank">130平米摩登極簡風公寓</a></div>  <a href=http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/jiaju/2012-01/05/c_122541196.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_083010906153520307011.jpg width="136" height="88"></a></li><li><div class="textbg"></div>  <div class="text"><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2012-01/06/content_24489647.htm target="_blank">李小璐登《男人裝》開年刊</a></div>  <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2012-01/06/content_24489647.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_1430109061528500342016.jpg width="136" height="88"></a></li><li><div class="textbg"></div>  <div class="text"><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2012-01/05/content_24477865.htm target="_blank">瞬間改變辦公區“撲克臉”</a></div>  <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/photonews/2012-01/05/content_24477865.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_20301090510401091268036.jpg width="136" height="88"></a></li></div>
+      <div class="clear"></div>
+    </div>
+    <div class="a6">
+      <ul>
+        <dt><a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/"><img src="http://www.cq.xinhuanet.com/image/news2011_6.gif" width="111" height="31" border="0" /></a></dt>
+        <dt><a href="javascript:scroll(0,0)"><img src="http://www.cq.xinhuanet.com/image/news2011_7.gif" width="111" height="31" border="0" /></a></dt>
+        <dd>※ <a href="http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/xinhua_copyright.htm" target="_blank" class="red">新華網版權與免責聲明</a><br>
+          新華網重慶頻道編輯部 電話：023-89187062</dd>
+      </ul>
+    </div>
+  </div>  
+  <div class="N_right" id="N_right">
+    <div class="ad3"><img src="http://www.cq.xinhuanet.com/ad/cqxhw330x280.jpg" width="330" height="280"></div>
+    <div class="a1">
+      <div class="a2">
+        <div class="left">要聞聚焦</div>
+        <div class="right"><a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/" target="_blank">重慶</a> | <a href="http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/" target="_blank">中國</a> | <a href="http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/world/" target="_blank">國際</a></div>
+      </div>
+      <div class="a3">
+        <ul><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24513961.htm target="_blank">五個坐標構築重慶發展總體框架</a></ul>  <ol><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012/cqlh/rdzb2.htm target="_blank">三屆人大五次會議第二次全體會議</a>|<a href=http://big5.xinhuanet.com/gate/big5/zt.cqxhw.net/2012/gdcq/index.htm target="_blank">2011感動重慶十大人物頒獎典禮</a></ol>
+      </div>
+      <div class="a8">
+        <ul><li>‧<a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24513881.htm target="_blank" class="blue">重慶今年財政怎麼花錢？支出可能達3800多億元</a></li><li>‧<a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24513827.htm target="_blank" class="blue">旅客們注意:13日起7條長途汽車線路只能到站購票</a></li><li>‧<a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24513813.htm target="_blank" class="blue">緩解3號線擁擠 3月底增13列車下半年3分鐘一班</a></li><li>‧<a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24513919.htm target="_blank" class="blue">朝天門將建八棟高樓似強勁風帆 總投資211億元</a></li><li>‧<a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/11/content_24513832.htm target="_blank" class="blue">兩路口菜園壩將修百米扶梯 實現地鐵高鐵零換乘</a></li></ul>
+        <div class="clear"></div>
+      </div>
+    </div>
+    <div class="a1">
+      <div class="a2">
+        <div class="left">視頻播報</div>
+        <div class="right"><a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/video" target="_blank">視頻中心</a> | <a href="http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/video/2006-02/08/content_4152621.htm" target="_blank">幫助</a></div>
+      </div>
+      <div class="a5">
+        <ul>  <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/video/2012-01/10/content_24513652.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_21301091019395621905210.bmp width="120" height="91" border="0" class="image1"></a>  <ol>  <span><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/video/2012-01/10/content_24513652.htm target="_blank" class="blue">市領導與人大代表政協委員座談</a></span>  </ol>  </ul><ul>  <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/video/2012-01/10/content_24513651.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_473010910193798405668.bmp width="120" height="91" border="0" class="image1"></a>  <ol>  <span><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/video/2012-01/10/content_24513651.htm target="_blank" class="blue">2011感動重慶十大人物舉行頒獎禮</a></span>  </ol>  </ul>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="a1">
+      <div class="a2">
+        <div class="left">關 注</div>
+        <div class="right"><a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/subject" target="_blank">熱點關注</a> | <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/shipin" target="_blank">言論時評</a> | <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/subject/ztbd.htm" target="_blank">專題</a></div>
+      </div>
+      <div class="a3">
+        <ul><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2011/2012cy target="_blank">重慶春運實用手冊</a></ul>  <ol>46年來最早的春運1月8日正式啟動，2月16日結束，持續40天。</ol>
+      </div>
+      <div class="a4">
+        <ul>
+          <li>[深度] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/10/content_24506175.htm target="_blank" class="blue">農民工講述新年的願望</a></li><li>[深度] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/zhengwu/2012-01/06/content_24485912.htm target="_blank" class="blue">幼兒園收讚助費如何令行禁止？</a></li><li>[深度] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2012-01/05/content_24476188.htm target="_blank" class="blue">取消公費醫療為何讚揚聲高</a></li>
+<li>[言論] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24515531.htm target="_blank" class="blue">人大代表“刁民論”背後多重錯位</a></li><li>[言論] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24515505.htm target="_blank" class="blue">購票網站癱瘓 壟斷才是“真兇”</a></li><li>[言論] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24515473.htm target="_blank" class="blue">藏區的僧人被國際大政治定位瞄準</a></li>
+        </ul>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="a1">
+      <div class="a2">
+        <div class="left">社區\博客\微博</div>
+        <div class="right"><a href="http://big5.xinhuanet.com/gate/big5/weibo.com/cqxhw" target="_blank">重慶頻道微博</a></div>
+      </div>
+      <div class="a7">
+        <ul><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24515170.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_57301091109188432004939.jpg width="84" height="63" border="0" class="image2"></a></ul><ul><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24515207.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_13301091109216563110944.jpg width="84" height="63" border="0" class="image2"></a></ul><ul><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/10/content_24506317.htm target="_blank"><img src=http://www.cq.xinhuanet.com/2012-01/11/xin_2030109100910296468320.jpg width="84" height="63" border="0" class="image2"></a></ul>
+      </div>
+      <div class="a4">
+        <ul>
+          <li>[論壇] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24514982.htm target="_blank" class="blue">過年的那些糾結事兒，你有木有？</a></li><li>[論壇] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24514731.htm target="_blank" class="blue">金龍魚油不合格，都是太陽惹的禍？</a></li><li>[論壇] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24514813.htm target="_blank" class="blue">"溺愛百姓成刁民"何以引發網民熱議?</a></li><li>[論壇] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2012-01/11/content_24514921.htm target="_blank" class="blue">特色公司年會:百度“度娘”、遲到券</a></li>
+        </ul>
+        <div class="clear"></div>
+      </div>
+      <div class="a6"></div>
+      <div class="a4">
+        <ul>
+          <li>[博客] <a href=http://big5.xinhuanet.com/gate/big5/jryjy.home.news.cn/blog/a/0101004B16F60BDF468B91DB.html target="_blank" class="blue">失衡到均衡——中國房地產市場展望</a></li><li>[博客] <a href=http://big5.xinhuanet.com/gate/big5/bbvgde.home.news.cn/blog/a/0101000000000BDF5AE285EA.html target="_blank" class="blue">將百姓當孩子管教!人大代表為誰發言</a></li><li>[博客] <a href=http://big5.xinhuanet.com/gate/big5/ths519.home.news.cn/blog/a/0101000000000BDEE9252744.html target="_blank" class="blue">警車開道"察民情":是亮官相or顯官威</a></li><li>[博客] <a href=http://big5.xinhuanet.com/gate/big5/2fast.home.news.cn/video/videoView.do?userName=2fast&aid=131733 target="_blank" class="blue">實名制後黃牛吃散夥飯 9成以上改行</a></li>
+        </ul>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="a1">
+      <div class="a2">
+        <div class="left">新華播報</div>
+      </div>
+      <div class="a4">
+        <ul>
+          <li>[推薦] <a href=http://big5.xinhuanet.com/gate/big5/zt.cqxhw.net/2011/15zn/index.htm target="_blank" class="blue">招商銀行重慶分行十五周年專題</a></li><li>[推薦] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/news/2011-12/23/content_24397963.htm target="_blank" class="blue">中信銀行重慶分行招聘啟事</a></li>
+          <li>[直播] <a href=http://big5.xinhuanet.com/gate/big5/zt.cqxhw.net/2012/gdcq/index.htm target="_blank" class="blue">2011感動重慶十大人物頒獎典禮</a></li>
+          <li>[訪談] <a href=http://big5.xinhuanet.com/gate/big5/zt.cqxhw.net/2011/xzl/index.htm target="_blank" class="blue">南岸區委書記夏澤良做客新華網</a></li>
+          <li>[專訪] <a href=http://big5.xinhuanet.com/gate/big5/zt.cqxhw.net/2012/cqlh/cj.htm target="_blank" class="blue">榮昌縣委書記陳傑做客兩會會客廳</a></li>
+          <li>[新聞發布會] <a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhbb/zz/20111212.htm target="_blank" class="blue">市委三屆十次全委會籌備情況新聞發布會</a></li>
+        </ul>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="a1">
+      <div class="a2">
+        <div class="left">重慶新聞排行</div>
+      </div>
+      <div class="a9">
+        <ul>
+          <li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/2011/10news target="_blank" class="blue">本網評出2011年重慶十大新聞</a></li><li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/2011-12/26/content_24409812.htm target="_blank" class="blue">重慶大足區、綦江區挂牌成立</a></li><li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/2011-12/26/content_24409398.htm target="_blank" class="blue">蒙牛一批次純牛奶被檢出強致癌物</a></li><li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/2011-12/31/content_24453065.htm target="_blank" class="blue">輕軌3號線昨全線通車</a></li><li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/2011-12/27/content_24417890.htm target="_blank" class="blue">新浪微博476萬賬號被盜？</a></li><li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/2011-12/26/content_24409403.htm target="_blank" class="blue">5美女在為公益出鏡</a></li><li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/2011-12/30/content_24443854.htm target="_blank" class="blue">背妻13年 380級臺階成愛情天梯</a></li><li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/2011-12/28/content_24427958.htm target="_blank" class="blue">奔跑女孩”喚醒我們日漸沉睡的孝心</a></li><li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/2011-12/26/content_24409386.htm target="_blank" class="blue">2011年重慶市經濟工作會解讀</a></li><li><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/2011-12/27/content_24437779.htm target="_blank" class="blue">重慶兩大火車站實行實名制驗票</a></li>
+        </ul>
+      </div>
+      <div class="a10">
+        <dl><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/20120101.htm target=_blank>重慶綦江區、大足區挂牌成立</a></dl>  <dl><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/20111225.htm target=_blank>第50期 </a><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/20111218.htm target=_blank>第49期 </a><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/20111209.htm target=_blank>第48期 </a><a href=http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk/20111204.htm target=_blank>第47期 </a> <a href="http://big5.xinhuanet.com/gate/big5/www.cq.xinhuanet.com/xhzk" target="_blank">更多</a></dl>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <div class="clear"></div>  
+ <script language="javascript">funEqual("N_left","N_right")</script>
+</div>
+<script type="text/javascript">
+//By longbill.cn
+function img_resize(img,mw,mh)
+{
+var w = parseInt(img.width);
+var h = parseInt(img.height);
+var pw = mw/w;
+var ph = mh/h;
+if (pw>=1 && ph>=1) return;
+var p = (ph>pw)?pw:ph;
+img.width = parseInt(w*p-1);
+img.height = parseInt(h*p-1);
+}
+window.onload = function()
+{
+var imgs = document.getElementsByTagName("img");
+for(var i=0;i<imgs.length;i++) img_resize(imgs[i],600,800);//600為圖片的最大寬度，800為最大高度
+}
+</script>
+<div style="DISPLAY: none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://big5.xinhuanet.com/gate/big5/");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe8927cb29fb4d9a298c9673952c75a9c' type='text/javascript'%3E%3C/script%3E"));
+</script></div>
+<div class="foot_line"></div>
+<div class="foot_Copyright">Copyright &copy; 2000 - 2011 <span class="red">CQ.XINHUANET.com</span>　All Rights Reserved. 　制作單位：新華通訊社重慶分社<br />
+  <a href="http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/xinhua_copyright.htm" target="_blank" class="blue">版權所有</a> 新華網 </div>
+</body>
+</html>
+

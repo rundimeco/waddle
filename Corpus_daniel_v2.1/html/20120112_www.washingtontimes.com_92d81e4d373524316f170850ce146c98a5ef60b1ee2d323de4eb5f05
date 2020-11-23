@@ -1,0 +1,469 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11"><title>HHS offers aid over Guatemalan STD lawsuit - Washington Times</title><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="bitly-verification" content="d180fd45f70d" /><meta name="msvalidate.01" content="5B44585918D69318CA2120B5FA20D85C" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta name="serverf" content="www1" /><meta name="description" content="The Department of Health and Human Services on Tuesday announced $1.8 million in aid to Guatemalan health authorities to fight sexual disease and improve research with human subjects." /><meta name="Author" content="Cheryl Wetzstein" /><meta property="og:title" content="HHS offers aid over Guatemalan STD lawsuit" /><meta property="og:type" content="article" /><meta property="og:url" content="http://www.washingtontimes.com/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/" /><meta property="og:site_name" content="The Washingtion Times" /><meta property="og:description" content="The Department of Health and Human Services on Tuesday announced $1.8 million in aid to Guatemalan health authorities to fight sexual disease and improve research with human subjects." /><link rel="stylesheet" href="http://media.washtimes.com/static/css/master.css" type="text/css" media="screen" /><link rel="icon" href="http://media.washtimes.com/static/images/favicon.ico" type="image/x-icon" /><script src="http://www.google.com/jsapi" type="text/javascript"></script><script type="text/javascript">
+		google.load("jquery", "1.4.2");
+	</script><script type="text/javascript" src="http://media.washtimes.com/static/js/jquery.cookies.js"></script><script type="text/javascript" src="http://media.washtimes.com/static/js/global.js"></script><script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-3328123-2']);
+		_gaq.push(['_setCustomVar', 1,'PageType', 'Story', ]);
+_gaq.push(['_setCustomVar', 3,'ChildNode', 'national', ]);
+_gaq.push(['_setCustomVar', 2,'TopNode', 'news', ]);
+_gaq.push(['_setCustomVar', 4,'UserSegment', 'Anonymous', ]);
+
+		_gaq.push(['_addIgnoredOrganic', 'washington times']);
+		_gaq.push(['_addIgnoredOrganic', 'the washington times']);
+		_gaq.push(['_addIgnoredOrganic', 'washingtontimes']);
+		_gaq.push(['_addIgnoredOrganic', 'washingtontimes.com']);
+		_gaq.push(['_addIgnoredOrganic', 'www.washingtontimes.com']);
+		_gaq.push(['_addIgnoredOrganic', 'washington times newspaper']);
+		_gaq.push(['_addIgnoredOrganic', 'washington times news']);
+		_gaq.push(['_addIgnoredOrganic', 'wash times']);
+		_gaq.push(['_addIgnoredOrganic', 'washtimes']);
+		_gaq.push(['_addIgnoredOrganic', 'washtimes.com']);
+		_gaq.push(['_addIgnoredOrganic', 'washington time']);
+		_gaq.push(['_addIgnoredOrganic', 'washington times.com']);
+		_gaq.push(['_addIgnoredOrganic', 'washinton times']);
+		_gaq.push(['_addIgnoredOrganic', 'wahington times']);
+		_gaq.push(['_addIgnoredOrganic', 'the washington times newspaper']);
+		_gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageLoadTime']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+		})();
+		
+		var sitepage;
+	</script><script src="http://widget.perfectmarket.com/washingtontimes/load.js"></script><link rel="stylesheet" href="http://media.washtimes.com/static/css/print.css" type="text/css" media="print" /><script src="http://media.washtimes.com/static/js/NewsworthyAudioC2L2.js" type="text/javascript"></script><script type="text/javascript">
+	document.write('<SCR' + 'IPT type="text/javascript" SRC="'+ 'http://c2l.media.newsworthyaudio.com/Partners/' + 'WashingtonTimes' + '/Audio/WashingtonTimes/' + 'news_2012_jan_10_hhs-offers-aid-over-guatemalan-std-lawsuit' +  '.js' +'"></SCR' + 'IPT>');
+	</script><script type="text/javascript">
+		$(function(){
+			var ofont = $('.story > p').css('font-size');
+		     $(".fontsizer").click(function(event){
+		         event.preventDefault();
+		         var cfont = $(".story > p").css("font-size");
+		         var cfontnum = parseFloat(cfont, 10);
+		         if ($(this).attr('id')=="up") {
+		             var nfont = cfontnum;
+                     if(nfont <= 24){nfont+=2;}
+		         } else {
+		             var nfont = cfontnum;
+		             if(nfont >= 8){nfont-=2;}
+		         };
+		         $(".story > p").css("font-size",nfont);
+		         $.cookies.set("fontSize",nfont+"px"); 
+		     });
+		     // Cookie  
+		     var fontSize = $.cookies.get("fontSize");  
+		     $(".story > p").css("font-size",fontSize);
+			 $('.offensive').click(function(){
+				var url = $(this).attr('href');
+				$.post(url, function(data) {
+				  
+				});
+				return false;
+			});
+			$('input[title]').each(function() {
+					if($(this).val() === '') {
+						$(this).val($(this).attr('title'));	
+					}
+
+					$(this).focus(function() {
+						if($(this).val() == $(this).attr('title')) {
+							$(this).val('').addClass('focused black');	
+						}
+					});
+					$(this).blur(function() {
+						if($(this).val() === '') {
+							$(this).val($(this).attr('title')).removeClass('focused black');	
+						}
+					});
+				});
+			_gaq.push(['_setCustomVar', 5,'Author', 'Cheryl Wetzstein']);
+			
+		});
+	</script></head><body><div class="nag annoy on"><div class="left full ca"><a href="/registration/register/" onclick="_gaq.push(['_trackEvent','RegistrationNag','LinkClicked','']);trackclick(this);return false;">Register for E-mail alerts. Comment on articles. Sign up today, it's easy.</a><form action="/registration/register/?next=/registration/register/complete/" method="post" accept-charset="utf-8" style="display:inline;" class="ml" onsubmit="_gaq.push(['_trackEvent','RegistrationNag','Submitted','']);"><input id="id_email" type="text" name="email" title="Email Address" maxlength="75" /><input type="submit" value="Register &rarr;" class="ml"></form><img src="http://media.washtimes.com/static/images/icons/cancel.png" alt="Close" class="closelink pointer right mr min"></div></div><div class="shell"><div class="page"><div class="full left pb pt min mb adbar"><div class="ad728x90 center"><script type="text/javascript">
+    window.dctile = Number(window.dctile) + 1 || 1;
+    if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""}
+    var size="728x90,960x250,960x30,900x30,900x300";
+var type="story";
+var site="wash.times";
+var zone="news_national";
+var pos="top";
+
+    window.sitepage_zone = zone;
+    document.write('<iframe src="http://ad.doubleclick.net/N5856/adi/'+site+'/'+zone+''+dcopt+';type='+type+';'+surroundTag+'pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>');
+</script></div></div><ul class="nav tertiary left"><li class="noml" style="margin-left: 0; padding-left: 0; color: #000;"><strong>Hot Topics:</strong></li><li class="noml"><a href="/topics/barack-obama/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Barack Obama</a></li><li class="noml"><a href="/topics/mitt-romney/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Mitt Romney</a></li><li class="noml"><a href="/topics/islamic-republic-of-iran/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Iran</a></li><li class="noml"><a href="/topics/republican-party/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Republican Party</a></li><li class="noml"><a href="/topics/national-football-league/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">NFL</a></li><li class="noml"><a href="/topics/congress/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Congress</a></li><li class="noml"><a href="/topics/newt-gingrich/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Newt Gingrich</a></li><li class="noml"><a href="/topics/rick-perry/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Rick Perry</a></li></ul><div class="header"><div class="left"><a href="/"><img src="http://media.washtimes.com/static/images/logo-washingtontimes.png" alt="The Washington Times Online Edition" class="mb min" /></a></div><script src="http://media.washtimes.com/static/js/jquery.jcarousel.min.js" type="text/javascript" charset="utf-8"></script><script type="text/javascript">
+		function mycarousel_initCallback(carousel){
+		    carousel.clip.hover(function(){carousel.stopAuto();},function(){carousel.startAuto();});       
+    		jQuery('.gal_r').bind('click', function() {carousel.next();return false;});
+    	    jQuery('.gal_l').bind('click', function() {carousel.prev();return false;});
+        };
+		$(document).ready(function() {
+			$('.pullquote').css({'display': 'block'});
+			$('#mycarousel').jcarousel({auto:4,scroll:1,wrap:'circular',initCallback: mycarousel_initCallback});});
+	</script><style>
+		.pullquote{margin-top:5px;width:400px;display:none;height:75px;}
+		.jcarousel-container-vertical{width: 400px;height:75px;margin-bottom:0;}
+		.jcarousel-clip-vertical{top:15px;width:400px;height:70px;z-index:20;margin-bottom:0;}
+		#mycarousel li,.jcarousel-item-vertical,.jcarousel-item-placeholder-vertical{width: 350px;height: auto; margin-right:5px;}
+		.gal_r, .gal_l{margin:15px 5px 0 5px; text-decoration:none; font-size:16px;}
+		.gal_r{margin:15px 0 0 0;}
+		 a.gal_r, a.gal_l{text-decoration:none;}
+	</style><div id="mycarousel" class="c400 right pullquote"><a class="left gal_l" href="#">&#x25c0;</a><a class="right gal_r" href="#">&#x25B6;</a><ul><li class="pb"><img src="http://media.washtimes.com/media/image/2011/09/25/solar-manufacturer-in_star_s65x42.jpg?7b5bd6449988636e2d515bfb51711f97f7eabc89" width="65" height="42" alt="**FILE** The empty parking lot of bankrupt solar energy company Solyndra is seen in Fremont, Calif., on Sept. 16, 2011. (Associated Press)" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/bankrupt-solyndra-seeking-to-pay-bonuses/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position1']);trackclick(this);return false;">Bankrupt Solyndra seeking to pay bonuses</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2011/12/05/pakistan-gilani_lea_s65x40.jpg?14adc8699e21901608a3178d44843e6e690c11e0" width="65" height="40" alt="** FILE ** Pakistani Prime Minister Yousuf Raza Gilani during an interview at his home on Monday, Dec. 5, 2011. (AP Photo/Muhammed Muheisen)" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/rift-stirs-fears-of-military-coup-in-pakistan/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position2']);trackclick(this);return false;">Rift stirs fears of military coup in Pakistan</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2012/01/11/20120111-204942-pic-970670336_s65x49.jpg?48756169b4d2c2a5a34c773d8d95371a1e389a54" width="65" height="49" alt="Republican presidential hopeful Mitt Romney boards his campaign plane Wednesday in Bedford, Mass., heading for South Carolina, site of the next primary contest on Jan. 21. His strong stance against illegal immigration dovetails with South Carolina&#39;s tough new law. (Associated Press)" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/romneys-push-against-amnesty-makes-immigration-a-d/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position3']);trackclick(this);return false;">Romney&#8217;s push against amnesty makes immigration a defining issue</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2012/01/11/b1kuhnerxlg_s24x65.jpg?ca5db7d3e67b8cbe8c6d752ca93cba2ce898d982" width="24" height="65" alt="Illustration by Linas Garsys for The Washington Times" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/dynamic-capitalism-is-a-virtue/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position4']);trackclick(this);return false;">KUHNER: Dynamic capitalism  is a virtue</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2012/01/11/20120111-203038-pic-998883606_s65x43.jpg?6756833da732eca5773943c2b04e34b8877aeb7f" width="65" height="43" alt="Maryland Gov. Martin O&#39;Malley welcomes delegates back on Wednesday at the opening of the 2012 session of the General Assembly. In a surprise move, Mr. O&#39;Malley suggested an increase in the state sales tax. (Barbara L. Salisbury/The Washington Times)" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/omalley-springs-sales-tax-surprise-on-assembly/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position5']);trackclick(this);return false;">O&#8217;Malley springs sales-tax surprise on assembly</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2012/01/11/20120111-200049-pic-797589047_s65x39.jpg?82d8b49798576403b6cc8866c50c794546bb5f99" width="65" height="39" alt="A 2013 Ford Fusion is showcased at the North American International Auto Show in Detroit. The annual exposition opens to the public Saturday after charity and press previews. Last year, the Detroit auto show brought in about $350 million in business. The show creates temporary but nonetheless welcome jobs in a city with a high rate of unemployment. (Associated Press)" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/auto-show-revs-up-detroit/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position6']);trackclick(this);return false;">Auto show revs up Detroit</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2011/06/07/b4-gaffneys_s48x65.jpg?3cae6e6c34540c8405af3590d9fc286a61e2ffef" width="48" height="65" alt="Illustration: Shariah in the U.S." class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/shariah-in-americas-courts/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position7']);trackclick(this);return false;">EDITORIAL: Shariah in America&#8217;s courts</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2012/01/11/20120111-211051-pic-676135875_s65x49.jpg?48756169b4d2c2a5a34c773d8d95371a1e389a54" width="65" height="49" alt="&quot;The interest of society in the enforcement of employment discrimination statutes is undoubtedly important. But so too is the interest of religious groups in choosing who will preach their beliefs, teach their faith, and carry out their mission.&quot; - Chief Justice John G. Roberts Jr. (AP photo)" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/court-ruling-landmark-for-religion/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position8']);trackclick(this);return false;">High court ruling landmark for religion</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2012/01/11/20120111-211256-pic-500505759_s50x65.jpg?df82fcb2943e15e598da27e60e12f2a62256472b" width="50" height="65" alt="Texas Gov. Rick Perry is seen through a window as he delivers a stump speech during a campaign stop at Lizard&#39;s Thicket restaurant in Lexington, S.C., on Wednesday. (Associated Press)" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/new-hampshire-primary-fails-to-knock-out-any-hopef/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position9']);trackclick(this);return false;">New Hampshire primary fails to knock out any hopefuls</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2012/01/08/romney_christie_01-0802_s65x38.jpg?31d54fd96082152f879f8e20d851332b9d5432b8" width="65" height="38" alt="With two days before the nation&#39;s first presidential primary, Republican presidential candidate and former Massachusetts Governor Mitt Romney waits behind the curtains back stage with New Jersey Governor Chris Christie as they wait to take the stage for a rally at Exeter High School. (Rod Lamkey Jr/ The Washington Times)" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/republicans-try-out-their-mitt/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position10']);trackclick(this);return false;">GOLDBERG: Romney still has  to complete the sale</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2010/07/17/CLINTON_s65x41.jpg?f9177c7602cbe79d37d73f470c37b3543fb2a54a" width="65" height="41" alt="**FILE** Secretary of State Hillary Rodham Clinton (Associated Press)" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/clinton-denies-us-involvement-in-death-of-iranian-/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position11']);trackclick(this);return false;">Clinton denies U.S. involvement in death of Iranian nuclear scientist</a></h3></li><li class="pb"><img src="http://media.washtimes.com/media/image/2012/01/11/b3-warah_s65x59.jpg?d70e679bcd58ffb8aec27edbba3bdfac0e84b4fe" width="65" height="59" alt="Illustration by Alexander Hunter for The Washington Times" class="left mr" /><h3 class="mb min" style="font-size:20px;"><a href="/news/2012/jan/11/heavy-price-of-defense-spending-cuts/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home-features', 'position12']);trackclick(this);return false;">HANSON: Heavy price of defense spending cuts</a></h3></li></ul></div></div><ul class="full nav primary"><li class="active blue" id="menu_news"><a href="/" class="active" title="News" onClick="_gaq.push(['_trackEvent', 'NavBar', 'news', 'positionnews']);trackclick(this);return false;">News</a></li><li id="menu_opinion"><a href="/opinion/" title="Opinion" onClick="_gaq.push(['_trackEvent', 'NavBar', 'opinion', 'positionopinion']);trackclick(this);return false;">Opinion</a></li><li id="menu_campaign-2012"><a href="/campaign-2012/" title="Campaign 2012" onClick="_gaq.push(['_trackEvent', 'NavBar', 'campaign-2012', 'positioncampaign-2012']);trackclick(this);return false;">Campaign 2012</a></li><li id="menu_sports"><a href="/sports/" title="Sports" onClick="_gaq.push(['_trackEvent', 'NavBar', 'sports', 'positionsports']);trackclick(this);return false;">Sports</a></li><li id="menu_books"><a href="/books/" title="Books" onClick="_gaq.push(['_trackEvent', 'NavBar', 'books', 'positionbooks']);trackclick(this);return false;">Books</a></li><li id="menu_life"><a href="/culture/" title="Life" onClick="_gaq.push(['_trackEvent', 'NavBar', 'life', 'positionlife']);trackclick(this);return false;">Life</a></li><li id="menu_blogs"><a href="/blog/" title="Blogs" onClick="_gaq.push(['_trackEvent', 'NavBar', 'blogs', 'positionblogs']);trackclick(this);return false;">Blogs</a></li><li id="menu_communities"><a href="http://communities.washingtontimes.com" title="Communities" onClick="_gaq.push(['_trackEvent', 'NavBar', 'communities', 'positioncommunities']);trackclick(this);return false;">Communities</a></li><li id="menu_multimedia"><a href="/multimedia/" title="Multimedia" onClick="_gaq.push(['_trackEvent', 'NavBar', 'multimedia', 'positionmultimedia']);trackclick(this);return false;">Multimedia</a></li><li class="right" style="padding:4px 0 0 0; float:right; margin:0 5px;"><div id="search" class="left pb pt extramin"><form action="http://www.washingtontimes.com/search/" id="cse-search-box"><div><input type="hidden" name="cx" value="015385541671335030271:nfb7f1nj88q" /><input type="hidden" name="cof" value="FORID:11" /><input type="hidden" name="ie" value="UTF-8" /><input type="text" name="q" size="20" /><input type="submit" name="sa" value="Search" class="ml"/></div></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script></div></li></ul><ul class="full nav secondary " id="submenu_news"><li class=""><a href="/news/politics/"  title="Politics" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'politics', 'positionpolitics']);trackclick(this);return false;">Politics</a></li><li class=""><a href="/news/national/"  title="National" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'national', 'positionnational']);trackclick(this);return false;">National</a></li><li class=""><a href="/news/world/"  title="World" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'world', 'positionworld']);trackclick(this);return false;">World</a></li><li class=""><a href="/news/security/"  title="Security" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'security', 'positionsecurity']);trackclick(this);return false;">Security</a></li><li class=""><a href="/news/economy/"  title="Economy" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'economy', 'positioneconomy']);trackclick(this);return false;">Economy</a></li><li class=""><a href="/news/local/"  title="D.C. Local" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'dc-local', 'positiondc-local']);trackclick(this);return false;">D.C. Local</a></li><li class=""><a href="/news/newsmakers/"  title="Newsmakers" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'newsmakers', 'positionnewsmakers']);trackclick(this);return false;">Newsmakers</a></li><li class="notransform "><a href="/news/inside-the-beltway/"  title="Inside the Beltway" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'inside-the-beltway', 'positioninside-the-beltway']);trackclick(this);return false;">Inside the Beltway</a></li><li class="notransform "><a href="/news/inside-the-ring/"  title="Inside the Ring" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'inside-the-ring', 'positioninside-the-ring']);trackclick(this);return false;">Inside the Ring</a></li><li class="notransform "><a href="/news/pruden-on-politics/"  title="Pruden on Politics" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'pruden-on-politics', 'positionpruden-on-politics']);trackclick(this);return false;">Pruden on Politics</a></li></ul><ul class="full nav secondary dnone hover" id="submenu_opinion"><li class=""><a href="/opinion/editorials/"  title="Editorials" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'editorials', 'positioneditorials']);trackclick(this);return false;">Editorials</a></li><li class=""><a href="/opinion/commentary/"  title="Commentary" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'commentary', 'positioncommentary']);trackclick(this);return false;">Commentary</a></li><li class=""><a href="/opinion/letters/"  title="Letters" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'letters', 'positionletters']);trackclick(this);return false;">Letters</a></li><li class=""><a href="/blog/watercooler/"  title="Water Cooler" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'water-cooler', 'positionwater-cooler']);trackclick(this);return false;">Water Cooler</a></li><li class=""><a href="/opinion/decker/"  title="Decker" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'decker', 'positiondecker']);trackclick(this);return false;">Decker</a></li><li class=""><a href="/opinion/kuhner/"  title="Kuhner" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'kuhner', 'positionkuhner']);trackclick(this);return false;">Kuhner</a></li><li class=""><a href="/opinion/nugent/"  title="Nugent" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'nugent', 'positionnugent']);trackclick(this);return false;">Nugent</a></li><li class=""><a href="/opinion/mastio/"  title="Mastio" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'mastio', 'positionmastio']);trackclick(this);return false;">Mastio</a></li><li class=""><a href="/opinion/blankley/"  title="Blankley" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'blankley', 'positionblankley']);trackclick(this);return false;">Blankley</a></li></ul><ul class="full nav secondary dnone hover" id="submenu_campaign-2012"><li class=""><a href="/campaign-2012/live-blog/"  title="Live Blog" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'live-blog', 'positionlive-blog']);trackclick(this);return false;">Live Blog</a></li><li class=""><a href="/campaign-2012/live-blog/archives/"  title="Archives" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'archives', 'positionarchives']);trackclick(this);return false;">Archives</a></li><li class=""><a href="/campaign-2012/campaign-finance/"  title="Campaign Finance" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'campaign-finance', 'positioncampaign-finance']);trackclick(this);return false;">Campaign Finance</a></li><li class=""><a href="/campaign-2012/race-rundown/"  title="Race Rundown" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'race-rundown', 'positionrace-rundown']);trackclick(this);return false;">Race Rundown</a></li><li class=""><a href="/campaign-2012/adwatch/"  title="AdWatch" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'adwatch', 'positionadwatch']);trackclick(this);return false;">AdWatch</a></li><li class=""><a href="/campaign-2012/candidate-tracker/"  title="Candidate Tracker" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'candidate-tracker', 'positioncandidate-tracker']);trackclick(this);return false;">Candidate Tracker</a></li><li class=""><a href="/campaign-2012/interactives/"  title="Interactives" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'interactives', 'positioninteractives']);trackclick(this);return false;">Interactives</a></li><li class=""><a href="/news/2011/oct/5/times-to-co-host-march-gop-debate/"  title="Presidential Debate" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'presidential-debate', 'positionpresidential-debate']);trackclick(this);return false;">Presidential Debate</a></li></ul><ul class="full nav secondary dnone hover" id="submenu_sports"><li class=""><a href="/sports/football/"  title="Football" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'football', 'positionfootball']);trackclick(this);return false;">Football</a></li><li class=""><a href="/sports/baseball/"  title="Baseball" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'baseball', 'positionbaseball']);trackclick(this);return false;">Baseball</a></li><li class=""><a href="/sports/basketball/"  title="Basketball" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'basketball', 'positionbasketball']);trackclick(this);return false;">Basketball</a></li><li class=""><a href="/sports/ncaa/"  title="NCAA" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'ncaa', 'positionncaa']);trackclick(this);return false;">NCAA</a></li><li class=""><a href="/sports/tennis/"  title="Tennis" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'tennis', 'positiontennis']);trackclick(this);return false;">Tennis</a></li><li class=""><a href="/sports/golf/"  title="Golf" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'golf', 'positiongolf']);trackclick(this);return false;">Golf</a></li><li class=""><a href="/sports/hockey/"  title="Hockey" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'hockey', 'positionhockey']);trackclick(this);return false;">Hockey</a></li><li class=""><a href="/sports/soccer/"  title="Soccer" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'soccer', 'positionsoccer']);trackclick(this);return false;">Soccer</a></li><li class=""><a href="/sports/other/"  title="Other" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'other', 'positionother']);trackclick(this);return false;">Other</a></li><li class=""><a href="/sports/outdoors/"  title="Outdoors" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'outdoors', 'positionoutdoors']);trackclick(this);return false;">Outdoors</a></li><li class=""><a href="/multimedia/collection/video-sports/"  title="Video" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'video', 'positionvideo']);trackclick(this);return false;">Video</a></li></ul><ul class="full nav secondary dnone hover" id="submenu_life"><li class=""><a href="/culture/entertainment/"  title="Entertainment" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'entertainment', 'positionentertainment']);trackclick(this);return false;">Entertainment</a></li><li class=""><a href="/culture/home-living/"  title="Home and Lifestyle" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'home-and-lifestyle', 'positionhome-and-lifestyle']);trackclick(this);return false;">Home and Lifestyle</a></li><li class=""><a href="/culture/travel/"  title="Travel" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'travel', 'positiontravel']);trackclick(this);return false;">Travel</a></li><li class=""><a href="/culture/health/"  title="Health" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'health', 'positionhealth']);trackclick(this);return false;">Health</a></li><li class=""><a href="/culture/the-list/"  title="The List" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'the-list', 'positionthe-list']);trackclick(this);return false;">The List</a></li><li class=""><a href="/culture/technology/"  title="Technology" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'technology', 'positiontechnology']);trackclick(this);return false;">Technology</a></li><li class=""><a href="/multimedia/collection/video-life/"  title="Video" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'video', 'positionvideo']);trackclick(this);return false;">Video</a></li></ul><ul class="full nav secondary dnone hover" id="submenu_blogs"><li class=""><a href="/blog/inside-politics/"  title="Inside Politics" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'inside-politics', 'positioninside-politics']);trackclick(this);return false;">Inside Politics</a></li><li class=""><a href="/blog/watercooler/"  title="Water Cooler" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'water-cooler', 'positionwater-cooler']);trackclick(this);return false;">Water Cooler</a></li><li class=""><a href="/blog/city-state/"  title="City State" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'city-state', 'positioncity-state']);trackclick(this);return false;">City State</a></li><li class=""><a href="/blog/capitals-watch/"  title="Capitals Watch" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'capitals-watch', 'positioncapitals-watch']);trackclick(this);return false;">Capitals Watch</a></li><li class=""><a href="/blog/daly-ot/"  title="Daly OT" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'daly-ot', 'positiondaly-ot']);trackclick(this);return false;">Daly OT</a></li><li class=""><a href="/blog/dc-madness/"  title="D.C. Madness" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'dc-madness', 'positiondc-madness']);trackclick(this);return false;">D.C. Madness</a></li><li class=""><a href="/blog/d1scourse/"  title="D1scourse" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'd1scourse', 'positiond1scourse']);trackclick(this);return false;">D1scourse</a></li><li class=""><a href="/blog/sports-desk/"  title="From the Sports Editors" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'from-the-sports-editors', 'positionfrom-the-sports-editors']);trackclick(this);return false;">From the Sports Editors</a></li><li class=""><a href="/blog/its-ball-good/"  title="It&#39;s Ball Good" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'its-ball-good', 'positionits-ball-good']);trackclick(this);return false;">It&#39;s Ball Good</a></li><li class=""><a href="/blog/mystics-watch/"  title="Mystics Watch" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'mystics-watch', 'positionmystics-watch']);trackclick(this);return false;">Mystics Watch</a></li><li class=""><a href="/blog/nationals-watch/"  title="Nationals Watch" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'nationals-watch', 'positionnationals-watch']);trackclick(this);return false;">Nationals Watch</a></li><li class=""><a href="/blog/redskins-watch/"  title="Redskins Watch" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'redskins-watch', 'positionredskins-watch']);trackclick(this);return false;">Redskins Watch</a></li><li class=""><a href="/blog/screen-play/"  title="Screen Play" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'screen-play', 'positionscreen-play']);trackclick(this);return false;">Screen Play</a></li><li class=""><a href="/blog/us-open-watch/"  title="U.S. Open Watch" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'us-open-watch', 'positionus-open-watch']);trackclick(this);return false;">U.S. Open Watch</a></li><li class=""><a href="/blog/wizards-watch/"  title="Wizards Watch" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'wizards-watch', 'positionwizards-watch']);trackclick(this);return false;">Wizards Watch</a></li><li class=""><a href="/blog/technology/"  title="Technology" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'technology', 'positiontechnology']);trackclick(this);return false;">Technology</a></li><li class=""><a href="/blog/robbins-report/"  title="The Robbins Report" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'the-robbins-report', 'positionthe-robbins-report']);trackclick(this);return false;">The Robbins Report</a></li></ul><ul class="full nav secondary dnone hover" id="submenu_multimedia"><li class=""><a href="/radio/americas-morning-news/"  title="America&#39;s Morning News" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'americas-morning-news', 'positionamericas-morning-news']);trackclick(this);return false;">America&#39;s Morning News</a></li><li class=""><a href="/radio/andy-parks-live-from-the-washington-times/"  title="Andy Parks: Live from The Washington Times" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'andy-parks-live-from-the-washington-times', 'positionandy-parks-live-from-the-washington-times']);trackclick(this);return false;">Andy Parks: Live from The Washington Times</a></li><li class=""><a href="/multimedia/collection/"  title="Photos" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'photos', 'positionphotos']);trackclick(this);return false;">Photos</a></li><li class=""><a href="/video/"  title="Video" onClick="_gaq.push(['_trackEvent', 'NavBarSub', 'video', 'positionvideo']);trackclick(this);return false;">Video</a></li></ul><div class="full left crumby mb min"><ul class="nav tertiary crumbs left"><li class="noml"><a href="/">Home</a></li><li><a href="/news/">News</a></li><li><a href="/news/national/">National</a></li></ul><ul class="nav tertiary right"><li class="auth user parent">
+			Account
+			<ul class="br bl bb dnone"><li class="bb"><a href="/accounts/profile/">Edit My Profile</a></li><li class="bb"><a href="/accounts/profile/emailalerts">Email Alerts</a></li><li class="bb"><a href="/accounts/password/change/">Edit Password</a></li><li><a href="/accounts/logout/">Logout</a></li></ul></li><li class="anon user"><a href="/accounts/login/">Log In</a></li><li class="anon user"><a href="/accounts/profile/emailalerts/">E-Mail Alerts</a></li><li style="background: #6c0c16;"><a href="/products/" style="color: #fff;">Subscribe</a></li><li><a href="http://www.print2webcorp.com/marketplace/washingtontimes/main/">Classifieds</a></li><li><a href="http://eedition.washingtontimes.com/">E-Edition</a></li><li class="nomr"><a href="/feeds/">RSS</a></li></ul></div><div class="content full left"><div class="column c640 hnews hentry item"><h1 class="mb min entry-title">HHS offers aid over Guatemalan STD lawsuit</h1><h2 class="grey mb min">Victims&#8217; lawyers not satisfied by U.S. action</h2><div class="full left byline mb mt"><p class="left author vcard ">
+				    By <span class="fn"><a href="/staff/cheryl-wetzstein/">Cheryl Wetzstein</a></span></p><p class="left ml mr min">-</p><p class="left source-org vcard"><span class="org fn">The Washington Times</span></p><p class="right">
+						
+						Tuesday, January 10, 2012
+					</p></div><div class="story left mb"><div class="column c160 left mb max"><div><div class="module full left mb bb"><div class="full left mb nopad hed"><h5>Story Topics</h5></div><div class="c160 left"><ul><li style="padding:0;text-align:left;"><a style="font-size:14px;" href="/topics/law_crime/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Law_Crime</a></li><li style="padding:0;text-align:left;"><a style="font-size:14px;" href="/topics/social-issues/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Social Issues</a></li><li style="padding:0;text-align:left;"><a style="font-size:14px;" href="/topics/us-district-court/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">U.S. District Court</a></li><li style="padding:0;text-align:left;"><a style="font-size:14px;" href="/topics/department-of-justice/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Department Of Justice</a></li><li style="padding:0;text-align:left;"><a style="font-size:14px;" href="/topics/guatemala/" onclick="_gaq.push(['_trackEvent', 'Hilighted', 'topics']);trackclick(this);return false;">Guatemala</a></li></ul></div></div></div><div><div class="module full left mb"><div class="full left mb nopad hed"><h5>Follow Us On</h5></div><h6 class="full mb min left"><img src="http://media.washtimes.com/static/images/icons/facebook.png" alt="facebook" class="mr left" /><a href="http://www.facebook.com/pages/WashingtonTimescom/35994014410" class="pb min left">Facebook</a></h6><h6 class="full mb min left"><a href="http://twitter.com/washtimes" class="twitter-follow-button" data-show-count="false">Follow @washtimes</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></h6></div><div class="module full left mb"><div class="full left mb nopad hed"><h5>Question of the Day</h5></div><h3><a href="/polls/2012/jan/11/will-republican-presidential-candidate-mitt-romney/">Will Republican presidential candidate Mitt Romney win the South Carolina primary?</a></h3><div class="pl pr"><form action="/polls/2012/jan/11/will-republican-presidential-candidate-mitt-romney/" method="POST"><ul class="normal mt"><li class="mb"><input type="radio" name="choice" id="choice1" value="2337" class="mr" /><label for="choice1">Yes</label></li><li class="mb"><input type="radio" name="choice" id="choice2" value="2338" class="mr" /><label for="choice2">No</label></li><li class="mb"><input type="radio" name="choice" id="choice3" value="2339" class="mr" /><label for="choice3">Undecided</label></li><li class="mb"><input type="radio" name="choice" id="choice4" value="2340" class="mr" /><label for="choice4">Other</label></li></ul><p class="mt"><div class="user auth"><input type="submit" value="Vote"></div><div class="user anon"><a href="/accounts/login/?next=/news/2009/dec/05/seattle-girl-sentenced-to-26-years-for-murder/">Login to Vote</a></div></p><p><a href="/polls/2012/jan/11/will-republican-presidential-candidate-mitt-romney/results/" class="ml small">View results</a></p></form></div></div></div><div class="ad160x600 left mt mb"><script type="text/javascript">
+    window.dctile = Number(window.dctile) + 1 || 1;
+    if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""}
+    var size="160x600";
+var type="story";
+var site="wash.times";
+var zone="news_national";
+var pos="top";
+
+    window.sitepage_zone = zone;
+    document.write('<iframe src="http://ad.doubleclick.net/N5856/adi/'+site+'/'+zone+''+dcopt+';type='+type+';'+surroundTag+'pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>');
+</script></div></div><div class="sharebox"><!-- AddThis Button BEGIN --><div class="addthis_toolbox addthis_default_style"><ul><li class="addthis_button_comments"><a href="/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/#disqus_thread" data-disqus-identifier="story_510397">Comment(s)</a></li><li class="addthis_button_facebook"><a onclick="return addthis_sendto('facebook');" href="return addthis_sendto('facebook');" addthis:url="http://www.washingtontimes.com/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/" addthis:title="" target="_blank" title="Share on Facebook">Recommend</a></li><li class="addthis_button_twitter"><a onclick="return addthis_sendto('twitter');" href="return addthis_sendto('twitter');" addthis:url="http://www.washingtontimes.com/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/" addthis:title="" target="_blank" title="Tweet This">Twitter</a></li><li class="addthis_button_linkedin"><a onclick="return addthis_sendto('linkedin');" href="return addthis_sendto('linkedin');">Linkedin</a></li><li class="addthis_button_instapaper"><a onclick="return addthis_sendto('instapaper');" href="return addthis_sendto('instapaper');" title="Read this later">Read Later</a></li><li class="addthis_button_email"><a onclick="return addthis_sendto('email');" href="return addthis_sendto('email');">Email</a></li><li class="addthis_button_printer"><a href="/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/print/">Print</a></li><li class="addthis_button_txtsize"><span>Text Size: <a href="#" class="fontsizer" id="up">+</a>| <a href="#" class="fontsizer" id="down">-</a></span></li><li class="addthis_button_listen"><a href="javascript:OpenC2LWindow('WashingtonTimes','news_2012_jan_10_hhs-offers-aid-over-guatemalan-std-lawsuit',m_nwamp3_file,'dfp_zone='+sitepage,'WashingtonTimes','','Production');void(0);" style="visibility: hidden;" id="C2LContainer"  onclick="_gaq.push(['_trackEvent', 'story_listen_tab', 'clicked']);trackclick(this);return false;">Click-2-Listen</a></li><li class="addthis_button_compact"><a class="addthis_button_compact" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=washtimes" addthis:url="http://www.washingtontimes.com/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/" addthis:title="">Share</a></li></ul></div><script type="text/javascript">
+						var addthis_config = {
+							services_exclude: 'print,printfriendly',
+							data_ga_property: 'UA-3328123-2',
+							data_track_clickback: true
+						};
+						var addthis_share = {
+							url_transforms : {
+								clean: true,
+								shorten: {
+									twitter: 'bitly'
+								}
+							},
+							shorteners : { bitly : { login: 'washtimes', apiKey: 'R_a6895e4a6af44aa36a49080184db916a' } },
+							templates : { twitter : '{' + '{title}' + '}: {' + '{url}' + '} via @washtimes' }
+						};
+						</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=washtimes"></script><!-- AddThis Button END --></div><p>The <a href="/topics/department-of-health-and-human-services/">Department of Health and Human Services</a> on Tuesday announced $1.8 million in aid to Guatemalan health authorities to fight sexual disease and improve research with human subjects.</p><p>An announcement such as this might have gone unnoticed, but federal lawyers filed legal papers the day before asking for the dismissal of a lawsuit seeking to hold the <a href="/topics/us-government/">U.S. government</a> and its public-health officials accountable for the outcomes of Tuskegee-style medical experiments conducted on more than 1,000 Guatemalans in the late 1940s.</p><p>In those post-World War II experiments, U.S. public-health officials intentionally infected prisoners, psychiatric patients and soldiers with syphilis, gonorrhea and/or chancroid without their informed consent for study and treatment purposes. Many Guatemalans, however, were left untreated.</p><p>Lawyers for the Guatemalan victims said the $1.8 million in aid for <a href="/topics/guatemala/">Guatemala</a> is a positive action.</p><p>But the <a href="/topics/department-of-justice/">Department of Justice</a> papers filed in U.S. District Court in the District of Columbia on Jan. 9 are an &#8220;extremely disappointing&#8221; response, given the harms done by U.S. officials to these victims and their families, said <a href="/topics/terrence-collingsworth/">Terrence Collingsworth</a>, partner at Conrad &amp; Scherer.</p><p>&#8220;It&#8217;s almost as if there&#8217;s a blockade that protects the <a href="/topics/us-government/">government</a> with immunity, and when you stack the statutes together &#8230; it&#8217;s like it&#8217;s an impermeable wall,&#8221; said Conrad &amp; Scherer attorney <a href="/topics/piper-hendricks/">Piper Hendricks</a>.</p><p>But she said she is &#8220;seeing some chinks in that armor,&#8221; adding that she and her colleagues would be filing briefs by March 9 before U.S. District Judge Reggie B. Walton.</p><p>In the <a href="/topics/department-of-justice/">Justice Department</a> court filings, Tony West, assistant attorney general, and his co-counsel wrote, &#8220;As a result of these unethical studies, a terrible wrong has occurred.&#8221; But while the United States &#8220;is committed to taking appropriate steps to address that wrong,&#8221; they wrote, &#8220;this lawsuit is not the proper vehicle - and this Court is not the proper forum - through which the consequences of this shameful conduct may be resolved.&#8221;</p><p>The <a href="/topics/department-of-justice/">Justice Department</a> asked that current federal office-holders be dismissed from the case, and cited the Federal Tort Claims Act as a primary basis for immunity for the United States. Lawyers for Mirta Roses Periago, director of the Pan-American Health Organization, also asked the court to &#8220;dismiss this case with prejudice&#8221; because she and the organization &#8220;are indisputably immune from this action.&#8221;</p><p>The <a href="/topics/guatemala/">Guatemala</a> case was the subject of a September 2011 report, &#8220;Ethically Impossible: STD Research in <a href="/topics/guatemala/">Guatemala</a> From 1946 to 1948,&#8221; conducted by the Presidential Commission for the Study of Bioethical Issues. The case has been described as Tuskegee-style because of its similarities to the infamous Alabama experiments in which black men with syphilis saw doctors but were never told about their syphilis or given treatment for it.</p><div class="pagination mb"></div><p class="small">&copy; Copyright 2012 The Washington Times, LLC. <a href="http://license.icopyright.net/3.7280?icx_id=/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/" target="_blank" rel="item-license">Click here for reprint permission.</a></p><div class="left full pl bb bt br bl mr"><script type="text/javascript">
+    window.dctile = Number(window.dctile) + 1 || 1;
+    if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""}
+    var size="615x250";
+var type="story";
+var site="wash.times";
+var zone="news_national";
+var pos="top";
+
+    window.sitepage_zone = zone;
+    document.write('<iframe src="http://ad.doubleclick.net/N5856/adi/'+site+'/'+zone+''+dcopt+';type='+type+';'+surroundTag+'pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?" width="615" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>');
+</script></div></div><img src="http://analytics.apnewsregistry.com/analytics/v2/image.svc/WashingtonTimes01/RWS/washingtontimes.com/MAI/510397/E/prod" alt="" width="1" height="1"/><script type='text/javascript'>
+			__spr_config = {
+				pid: "4ed79417396cef58d2000033",
+				slide_logo: false,
+				url: 'http://www.washingtontimes.com/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/',
+				header: "FROM THE WASHINGTON TIMES VAULT",
+				loc: '.story',
+				disable: false,
+				disallow_opt_out: true
+			};
+			(function(){
+				var s = document.createElement('script');
+				s.async = true;
+				s.type = 'text/javascript';
+				s.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/slide.js';
+				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+			})();
+		</script><script type='text/javascript'>
+			__reach_config = {
+				pid: '4edce26da782f33b2500000a',
+				title: 'HHS offers aid over Guatemalan STD lawsuit',
+				url: 'http://www.washingtontimes.com/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/',
+				date: '2012-01-10 21:12:10', // Article publish date
+				authors: "Cheryl Wetzstein",
+				channels: "National"
+			};
+			(function(){
+				var s = document.createElement('script');
+				s.async = true;
+				s.type = 'text/javascript';
+				s.src = document.location.protocol + '//simple-cdn.s3.amazonaws.com/js/reach.js';
+				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+			})();
+		</script><div class="module full left mb"><div class="full left hed nopad mb"><h5>Comments</h5></div><div id="disqus_thread"></div><script type="text/javascript">
+/* <![CDATA[ */
+
+	var disqus_shortname = 'washtimes';
+	var disqus_identifier = "story_510397";
+	var disqus_url = "http://www.washingtontimes.com/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/";
+	var disqus_title = "HHS offers aid over Guatemalan STD lawsuit";
+
+	/* * * DON'T EDIT BELOW THIS LINE * * */
+	(function() {
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a><script type="text/javascript">
+
+	var disqus_shortname = 'washtimes';
+	var disqus_identifier = "story_510397";
+	var disqus_url = "http://www.washingtontimes.com/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/";
+	var disqus_title = "HHS offers aid over Guatemalan STD lawsuit";
+
+	/* * * DON'T EDIT BELOW THIS LINE * * */
+	(function () {
+		var s = document.createElement('script'); s.async = true;
+		s.type = 'text/javascript';
+		s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+	}());
+</script></div><div class="module full left"><div class="full left mb nopad hed"><h5>About the Author</h5></div><div class="full left lead mb"><img src="http://media.washtimes.com/media/img/staff/2010/WETZSTEIN_CHERYL_CUTOUT_s90x137.jpg?bb87b947e9afe32da4d40a1e77ba741fa8df9f39" width="90" height="137" alt="Cheryl Wetzstein" class="left mb mr min" /><h3><a href="/staff/cheryl-wetzstein/">Cheryl Wetzstein</a></h3><div class="small"><p>Cheryl Wetzstein covers family and social issues as a national reporter for The Washington Times. She has been a reporter for three decades, working in New York City and Washington, D.C. Since joining The Washington Times in 1985, she has been a features writer, environmental and consumer affairs reporter, and assistant business editor. Beginning in 1994, Mrs. Wetzstein worked exclusively ...</div><ul class="mt mb"><li><a href="/news/2012/jan/12/mormons-overcoming-hurdles/">Mormons overcoming hurdles </a></li><li><a href="/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/">HHS offers aid over Guatemalan STD lawsuit</a></li><li><a href="/news/2012/jan/9/nj-democrats-pledge-push-for-gay-marriage/">N.J. Democrats pledge push for gay marriage</a></li><li><a href="/news/2012/jan/8/state-abortion-curbs-rose-in-11/">State abortion curbs rose in 2011</a></li><li><a href="/news/2012/jan/5/another-try-for-vote-on-personhood-amendment/">Another try for vote on personhood amendment</a></li></ul></div></div><div class="module full left"><div class="twitstatus_badge_container" id="twitstat_badge_33"></div><script type="text/javascript" src="http://twitstat.us/twitstat.us-min.js"></script><script type="text/javascript">
+				twitstat.badge.init({
+				    badge_container: "twitstat_badge_33",
+				    title: "Washington Times articles on Twitter",
+				    keywords: "@washtimes",
+				    max: 10,
+				    border_color: "#cccccc",
+				    header_background: "#000000",
+				    header_font_color: "#ffffff",
+				    content_background_color: "#ffffff",
+				    content_font_color: "#333333",
+				    link_color: "#16496e",
+				    width: 640
+				});
+				</script></div></div><div class="column c300 last"><style type="text/css">
+		div.wrap-out div.header { display: none !important; }
+		</style><div id="relatedcontentinfo"><div class="module full left mb"><div class="full left mb nopad hed"><h5>You Might Also Like</h5></div></div><style type="text/css">
+.cb { clear: both !important; }
+</style><li class="lead pb mb"><img src="http://media.washtimes.com/media/image/2012/01/11/20120111-204942-pic-970670336_s101x76.jpg?38f271e3d49cdfd5d0ef8cac5cad23b117d14f23" width="101" height="76" alt="Republican presidential hopeful Mitt Romney boards his campaign plane Wednesday in Bedford, Mass., heading for South Carolina, site of the next primary contest on Jan. 21. His strong stance against illegal immigration dovetails with South Carolina&#39;s tough new law. (Associated Press)" class="left mr" /><h3 class="mb min"><a href="/news/2012/jan/11/romneys-push-against-amnesty-makes-immigration-a-d/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'happening-now', 'position1']);trackclick(this);return false;">Romney&#8217;s push against amnesty makes immigration a defining issue</a></h3><p class="small">By <a href="/staff/stephen-dinan/">Stephen Dinan</a> - The Washington Times</p><div class="cb"></div></li><style type="text/css">
+.cb { clear: both !important; }
+</style><li class="lead pb mb"><img src="http://media.washtimes.com/media/image/2012/01/10/hampshire_poll01-1001_s101x65.jpg?315bd4d25c31152ae3aa452812c050925e084e73" width="101" height="65" alt="Former Massachusetts Gov. Mitt Romney waves to supporters at the Romney for President New Hampshire primary night rally at Southern New Hampshire University in Manchester, N.H., Tuesday, Jan. 10, 2012. Behind Romney are his sons Tagg and Craig and his wife Ann. (AP Photo/Elise Amendola)" class="left mr" /><h3 class="mb min"><a href="/news/2012/jan/10/romney-wins-new-hampshire-paul-second/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'happening-now', 'position2']);trackclick(this);return false;">Romney wins New Hampshire, Paul second</a></h3><p class="small">By <a href="/staff/dave-boyer/">Dave Boyer</a> and <a href="/staff/seth-mclaughlin/">Seth McLaughlin</a> - The Washington Times</p><div class="cb"></div></li><style type="text/css">
+.cb { clear: both !important; }
+</style><li class="lead pb mb"><img src="http://media.washtimes.com/media/image/2012/01/10/20120110-212431-pic-949684768_s101x71.jpg?c098eea3477ac6ce32c46b9d70a42787e13ce55a" width="101" height="71" alt="Richard Boggs of Fort Mill, S.C., (left) listens as Texas Gov. Rick Perry, a GOP presidential hopeful, speaks (at right) during a campaign stop to Kinch&#39;s restaurant in Rock Hill, S.C., on Tuesday. (Associated Press)" class="left mr" /><h3 class="mb min"><a href="/news/2012/jan/10/up-next-south-carolina-a-make-or-break-state/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'happening-now', 'position3']);trackclick(this);return false;">Up next, South Carolina a make-or-break state</a></h3><p class="small">By <a href="/staff/stephen-dinan/">Stephen Dinan</a> - The Washington Times</p><div class="cb"></div></li><div class="module full left mt mb"><div class="full left mb nopad hed"><h5>In Case You Missed It</h5></div></div></div><div class="module full left mb"><div class="full left mb nopad hed"><h5>Commentary</h5></div><ul><li class="lead pb mb"><h3 class="mb min"><a href="/news/2012/jan/11/dynamic-capitalism-is-a-virtue/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home_opinion', 'position1']);trackclick(this);return false;">KUHNER: Dynamic capitalism  is a virtue</a></h3><p class="small">By <a href="/staff/jeffrey-t-kuhner/">Jeffrey T. Kuhner</a></p><p class="small line-small">Without free-enterprise agreement, Republican unity is at risk</p></li></ul><ul><li class="strong mb min"><a href="/news/2012/jan/11/republicans-try-out-their-mitt-661909195/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home_opinion', 'position2']);trackclick(this);return false;">
+        FIELDS: Republicans try out their Mitt
+    </a></li></ul><ul><li class="strong mb min"><a href="/news/2012/jan/11/republicans-try-out-their-mitt/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home_opinion', 'position3']);trackclick(this);return false;">
+        GOLDBERG: Romney still has  to complete the sale
+    </a></li></ul><ul><li class="strong mb min"><a href="/news/2012/jan/11/tax-advice-for-romney/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home_opinion', 'position4']);trackclick(this);return false;">
+        MILLER: Tax advice for Romney
+    </a></li></ul><ul><li class="strong mb min"><a href="/news/2012/jan/11/employment-advice-for-obama/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'home_opinion', 'position5']);trackclick(this);return false;">
+        EDITORIAL: Employment advice for Obama
+    </a></li></ul></div><div class="ad300x250 left mb"><script type="text/javascript">
+window.dctile = Number(window.dctile) + 1 || 1;
+if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""}
+var size="300x250,300x600";
+var type="story";
+var site="wash.times";
+var zone="news_national";
+var pos="top";
+
+window.sitepage_zone = zone;
+
+if (17>dctile) document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/'+site+'/'+zone+''+dcopt+';mtfIFPath=/doubleclick/dartiframe/;type='+type+';'+surroundTag+'pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?"><\/script>\n');
+</script></div><div class="module full left mb"><div class="full left mb nopad hed"><h5>Talk of the Web</h5></div><div id="wrapper"><iframe id="crowdynews-widget" style="width: 300px; height: 320px"></iframe><script type="text/javascript">
+		window.CrowdyNewsWidgetConfig = {
+			// optional/customizable
+			stylesheet: 'http://us2.widget.crowdynews.com/css/widget.css',
+			fallback:   'http://media.washtimes.com/static/html/crowdynews.html',
+			// mandatory, do not change
+			server:  'us2',
+			key:     'WashingtonTimes'
+		};
+		</script><script src="http://us2.widget.crowdynews.com/js/CrowdyNewsWidget.js"></script></div></div><div class="full left mb"><style type="text/css" media="all">@import "http://directory.washingtontimes.com/skins/default/css/widget.css";</style><script type="text/javascript" src="http://directory.washingtontimes.com/skins/default/js/widget.js"></script><div class="pg-widget-container" style="width:100%;"><div class="pg-widget-title">Business Directory</div><div class="pg-widget-contents"><div class="pg-widget-search"><form id="pg-widget-search-form" onsubmit="return search(this['what'].value, 'Washington, DC', 'directory.washingtontimes.com');"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:separate;"><tbody><tr><td class="pg-widget-input"><input type="text" id="what"></td><td width="67" class="pg-widget-submit"><input type="image" src="http://directory.washingtontimes.com/skins/default/g/pg-widget-submit.gif" onclick="return search(document.getElementById('what').value,  'Washington, DC', 'directory.washingtontimes.com' );"></td></tr></tbody></table></form></div><div class="pg-widget-more-links"><SPAN STYLE="font-size:7pt;color:gray;"><a style="font-size:14px;" onclick="el = document.getElementById('pgmenu2'); el.style.display = (el.style.display == 'block' ? 'none' : 'block'); return false;" href="http://directory.washingtontimes.com">Popular Searches</a><div style='display:none;font-size:8pt;' id=pgmenu2> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/apartments.zq.html">Apartments in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/attorneys.zq.html">Attorneys in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/auto+dealers.zq.html">Auto Dealers in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/auto+parts.zq.html">Auto Parts in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/auto+repair.zq.html">Auto Repair in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/beauty+salons.zq.html">Beauty Salons in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/car+rental.zq.html">Car Rental in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/dentists.zq.html">Dentists in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/doctors.zq.html">Doctors in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/flowers.zq.html">Flowers in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/hotels.zq.html">Hotels in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/insurance.zq.html">Insurance in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/loans.zq.html">Loans in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/mortgages.zq.html">Mortgages in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/movers.zq.html">Movers in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/pizza.zq.html">Pizza in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/realtors.zq.html">Realtors in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/restaurants.zq.html">Restaurants in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/storage.zq.html">Storage in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/tax+preparation.zq.html">Tax Preparation in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc/travel.zq.html">Travel in Washington</a><br> 
+    		            <a href="http://directory.washingtontimes.com/allads.q.html">Featured</a><br> 
+    		            <a href="http://directory.washingtontimes.com/washington+dc.z.html">More...</a></div></SPAN><br/>
+    		    Powered by <a href="http://www.local.com/city.aspx?location=washington%2c+dc" target="_blank">Local.com</a></div></div></div></div><div class="module full left mb"><div class="full left mb nopad hed"><h5>Happening Now</h5></div><ul><style type="text/css">
+.cb { clear: both !important; }
+</style><li class="lead pb mb"><img src="http://media.washtimes.com/media/image/2011/12/05/pakistan-gilani_lea_s101x62.jpg?22fd708f3272dc7d23303acbc0a47a84f5f807a8" width="101" height="62" alt="** FILE ** Pakistani Prime Minister Yousuf Raza Gilani during an interview at his home on Monday, Dec. 5, 2011. (AP Photo/Muhammed Muheisen)" class="left mr" /><h3 class="mb min"><a href="/news/2012/jan/11/rift-stirs-fears-of-military-coup-in-pakistan/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'happening-now', 'position1']);trackclick(this);return false;">Rift stirs fears of military coup in Pakistan</a></h3><p class="small">By <a href="/staff/ashish-kumar-sen/">Ashish Kumar Sen</a> - The Washington Times</p><p class="small line-small">Fears of a coup in Pakistan increased Wednesday when the military warned of &#8220;potentially grievous ...</p><div class="cb"></div></li><style type="text/css">
+.cb { clear: both !important; }
+</style><li class="lead pb mb"><img src="http://media.washtimes.com/media/image/2012/01/11/20120111-214406-pic-751496489_s101x61.jpg?7e3f7d452a1d758bdc7166d2f9f63f9207f6e06c" width="101" height="61" alt="Former Massachusetts Gov. Mitt Romney and South Carolina Gov. Nikki R. Haley campaign at the Hall at Senate&#39;s End in Columbia, S.C., on Wednesday. Mr. Romney took aim at President Obama on the stump, saying he is in &quot;over his head.&quot; (Associated Press)" class="left mr" /><h3 class="mb min"><a href="/news/2012/jan/11/romney-targets-obama-on-stump-in-sc/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'happening-now', 'position2']);trackclick(this);return false;">Romney targets Obama on stump in South Carolina</a></h3><p class="small">By <a href="/staff/stephen-dinan/">Stephen Dinan</a> - The Washington Times</p><p class="small line-small">Fresh off his win in New Hampshire, Mitt Romney arrived in South Carolina on Wednesday ...</p><div class="cb"></div></li><style type="text/css">
+.cb { clear: both !important; }
+</style><li class="lead pb mb"><img src="http://media.washtimes.com/media/image/2012/01/11/20120111-211051-pic-676135875_s101x76.jpg?38f271e3d49cdfd5d0ef8cac5cad23b117d14f23" width="101" height="76" alt="&quot;The interest of society in the enforcement of employment discrimination statutes is undoubtedly important. But so too is the interest of religious groups in choosing who will preach their beliefs, teach their faith, and carry out their mission.&quot; - Chief Justice John G. Roberts Jr. (AP photo)" class="left mr" /><h3 class="mb min"><a href="/news/2012/jan/11/court-ruling-landmark-for-religion/" onClick="_gaq.push(['_trackEvent', 'Hilighted', 'happening-now', 'position3']);trackclick(this);return false;">High court ruling landmark for religion</a></h3><p class="small">By <a href="/staff/valerie-richardson/">Valerie Richardson</a> - The Washington Times</p><p class="small line-small">Religious organizations won a landmark victory Wednesday as the Supreme Court held that churches have ...</p><div class="cb"></div></li></ul><script type="text/javascript">
+		$(function(){
+			$('.morelink').click(function(){
+				var t = $(this).attr('rel');
+				$(this).toggle();
+				$(t).toggle('fast');
+			})
+			$('.hidelink').click(function(){
+				var t = $.find('.morelink');
+				$(t).trigger('click');
+			});
+		});
+	</script></div><script src="http://media.washtimes.com/static/js/jquery.tabify.js" type="text/javascript"></script><script type="text/javascript">
+	// <![CDATA[
+		$(document).ready(function () {
+			$('#menu').tabify();
+		});
+	// ]]></script><script type="text/javascript" charset="utf-8">
+	google.load("feeds", "1");
+	function init(){
+		var feedcount = 1;
+		$('.feeds').each(function(){
+			if (feedcount < 3) {
+				var target = "." + $(this).attr('id');
+				var feedurl = $('a', this).attr('rel');
+				var feed = new google.feeds.Feed(feedurl);
+				feed.setNumEntries(10);
+				feed.load(function(result){
+					if(!result.error){
+						for (var i=0; i < result.feed.entries.length; i++) {
+							var entry = result.feed.entries[i];
+								$('ul', target).append('<li class="mb"><a href="'+entry.link+'" onclick="_gaq.push([\'_trackEvent\', \''+ result.feed.title +'\', \''+ entry.title +'\',\'/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/\']);trackclick(this);return false;">'+entry.title+'</a></li>');
+						}
+					}
+				});
+				feedcount++;
+			}
+		});
+	}
+	google.setOnLoadCallback(init);
+</script><ul id="menu"><li class="active"><a href="#contentRead">Most Read</a></li><li><a href="#contentShared">Most Shared</a></li><li><a href="#contentEmailed">Most Emailed</a></li></ul><div class="tabcontent" id="contentRead"><script type="text/javascript">
+		$.getScript('http://tracker.washtimes.com:81/washingtontimes.com.js',function(){
+			for (var i=0; i < results.length; i++) {
+				var item = results[i];
+				$("#mr").append('<li class="mb"><a href="'+item.url+'" onClick="_gaq.push([\'_trackEvent\', \'Most\', \'Read\', \'position'+i+'\']);trackclick(this);return false;">'+unescape(item.title)+'</a></li>');
+			};
+		});
+	</script><ul id="mr"></ul></div><div class="tabcontent" id="contentShared"><div class="feeds mosttwo" id="mosttwo"><a href="javascript:;" rel="http://q.addthis.com/feeds/1.0/shared.rss?domain=www.washingtontimes.com&pubid=washtimes&period=day"></a><ul></ul></div></div><div class="tabcontent" id="contentEmailed"><div class="feeds mostthree" id="mostthree"><a href="javascript:;" rel="http://q.addthis.com/feeds/1.0/shared.rss?domain=www.washingtontimes.com&pubid=washtimes&service=email&period=day"></a><ul></ul></div></div><div class="ad300x250 left mb"><script type="text/javascript">
+window.dctile = Number(window.dctile) + 1 || 1;
+if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""}
+var size="300x250,300x600";
+var type="story";
+var site="wash.times";
+var zone="news_national";
+var pos="top";
+
+window.sitepage_zone = zone;
+
+if (17>dctile) document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/'+site+'/'+zone+''+dcopt+';mtfIFPath=/doubleclick/dartiframe/;type='+type+';'+surroundTag+'pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?"><\/script>\n');
+</script></div><div class="module full left mb"><div class="full left mb nopad hed"><h5 class="black"><a href="http://communities.washingtontimes.com">Communities</a></h5></div><p class="mb">Independent voices from the TWT Communities</p><div class="full left bb pb mb"><img src="http://media.washtimes.com/media/community/photos/blog/2011/09/28/space-450-logo_t100x100.jpg?c2d1f92505a3af505f9c6af3b48f98e3948bc025" class="left mr mb"/><h4><a href="http://communities.washingtontimes.com/neighborhood/moment-space/">In That Moment of Space</a></h4><p class="mb">
+							Space, it’s all around us. The question is how will you use yours. 
+						</p><ul class="c300 left"><li class="full"><a href="http://communities.washingtontimes.com/neighborhood/moment-space/2012/jan/11/dream-chasers-angel-rivera/">Dream Chasers: Angel Rivera</a></li><li class="full"><a href="http://communities.washingtontimes.com/neighborhood/moment-space/2012/jan/5/no-more-excuses-go-your-dream/">No more excuses: Go for your dream</a></li></ul></div><div class="full left bb pb mb"><img src="http://media.washtimes.com/media/community/photos/blog/2010/04/22/logo-soccer_t100x100.jpg?c2d1f92505a3af505f9c6af3b48f98e3948bc025" class="left mr mb"/><h4><a href="http://communities.washingtontimes.com/neighborhood/haydons-soccer-pitch/">Haydon&#39;s Soccer and Sports Pitch</a></h4><p class="mb">
+							Covering the world of soccer, including the World Cup, Major League Soccer, D.C. United and the English Premier League and other interesting sporting events. 
+						</p><ul class="c300 left"><li class="full"><a href="http://communities.washingtontimes.com/neighborhood/haydons-soccer-pitch/2012/jan/11/leeds-united-sign-american-robbie-rogers/">Leeds United sign American Robbie Rogers </a></li><li class="full"><a href="http://communities.washingtontimes.com/neighborhood/haydons-soccer-pitch/2012/jan/9/us-team-will-play-italy-genoa/">U.S. team will play Italy in Genoa</a></li></ul></div><div class="full left bb pb mb"><img src="http://media.washtimes.com/media/community/photos/blog/2010/11/02/logo-young-spicy_t100x100.jpg?c2d1f92505a3af505f9c6af3b48f98e3948bc025" class="left mr mb"/><h4><a href="http://communities.washingtontimes.com/neighborhood/young-conservative-and-spicy/">Being Young, Conservative and Spicy</a></h4><p class="mb">
+							Making the right-minded message sizzle
+						</p><ul class="c300 left"><li class="full"><a href="http://communities.washingtontimes.com/neighborhood/young-conservative-and-spicy/2012/jan/11/jon-stewart-washington-fancy-politics-satire-news/">Watch out, Jon Stewart: Washington Fancy takes political satire to great heights</a></li><li class="full"><a href="http://communities.washingtontimes.com/neighborhood/young-conservative-and-spicy/2011/dec/31/new-years-resolution-conservatives-make-2012-year-/">A New Year’s Resolution for conservatives: Make 2012 the year of the unborn</a></li></ul></div><div class="full left bb pb mb"><img src="http://media.washtimes.com/media/community/photos/blog/2011/10/25/ally-oops-logo-_t100x100.jpg?c2d1f92505a3af505f9c6af3b48f98e3948bc025" class="left mr mb"/><h4><a href="http://communities.washingtontimes.com/neighborhood/alley-oops/">Alley-Oops </a></h4><p class="mb">
+							Immerse yourselves in the genius insights of a high school sports freak and statistical wizard who knows it all. Or at least thinks he does.
+						</p><ul class="c300 left"><li class="full"><a href="http://communities.washingtontimes.com/neighborhood/alley-oops/2012/jan/11/peyton-manning-new-york-jets/">Peyton Manning: Will he move over to the New York Jets?</a></li><li class="full"><a href="http://communities.washingtontimes.com/neighborhood/alley-oops/2012/jan/9/tim-tebow-train-will-bash-right-through-new-englan/">The Tim Tebow Train will bash right through the New England Station</a></li></ul></div></div><script src="http://media.washtimes.com/static/js/jquery.bxSlider.min.js" type="text/javascript"></script><script type="text/javascript">
+	$(document).ready(function(){
+		var slider = $('#sliderphoto').bxSlider({
+			infiniteLoop: false,
+			controls: false,
+			hideControlOnEnd: true,
+			auto: false
+		});
+
+	  $('#photo-prev').click(function(){
+		 slider.goToPreviousSlide();
+		 return false;
+	  });
+
+	  $('#photo-next').click(function(){
+		 slider.goToNextSlide();
+		 return false;
+	  });
+   });
+</script><div class="photowrapper"><div class="phototitle"><h2>Photo Galleries</h2></div><div class="photonav"><a href="#" id="photo-prev"><img src="http://media.washtimes.com/static/images/picks-arrow-left.jpg" alt="Previous" title="Previous" /></a><a href="#" id="photo-next"><img src="http://media.washtimes.com/static/images/picks-arrow-right.jpg" alt="Next" title="Next" /></a></div><div style="clear:both;"></div><div id="sliderphoto"><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/romney-captures-new-hampshire-primary/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'romney-captures-new-hampshire-primary', 'positionromney-captures-new-hampshire-primary']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/10/hampshire_poll01-1001_s278x180.jpg?28f372c9dc600f50e1d423bec1999cb796042b77" width="278" height="180" alt="Romney captures New Hampshire primary" /></a><p class="gallery blue strong"><a href="/multimedia/collection/romney-captures-new-hampshire-primary/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'romney-captures-new-hampshire-primary', 'positionromney-captures-new-hampshire-primary']);trackclick(this);return false;">Romney captures New Hampshire primary</a><br /><span class="small grey">21 Photos</span></p></li></ul></div><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/melee-santorum-campaign-stop/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'melee-at-santorum-campaign-stop', 'positionmelee-at-santorum-campaign-stop']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/09/santorum_2347_s278x185.jpg?42a3f0f5cb2a3324498afd19dd8fe2b97f141fcf" width="278" height="185" alt="Melee at Santorum campaign stop" /></a><p class="gallery blue strong"><a href="/multimedia/collection/melee-santorum-campaign-stop/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'melee-at-santorum-campaign-stop', 'positionmelee-at-santorum-campaign-stop']);trackclick(this);return false;">Melee at Santorum campaign stop</a><br /><span class="small grey">4 Photos</span></p></li></ul></div><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/granite-state-campaigns-stretch-run/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'granite-state-campaigns-stretch-run', 'positiongranite-state-campaigns-stretch-run']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/09/hampshire_20120109_9301_s278x185.jpg?42a3f0f5cb2a3324498afd19dd8fe2b97f141fcf" width="278" height="185" alt="Granite State campaign&#39;s stretch run" /></a><p class="gallery blue strong"><a href="/multimedia/collection/granite-state-campaigns-stretch-run/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'granite-state-campaigns-stretch-run', 'positiongranite-state-campaigns-stretch-run']);trackclick(this);return false;">Granite State campaign&#39;s stretch run</a><br /><span class="small grey">12 Photos</span></p></li></ul></div><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/ron-paul-continues-attract-supporters/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'ron-paul-continues-to-attract-supporters', 'positionron-paul-continues-to-attract-supporters']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/08/paul_01-0801_s278x185.jpg?42a3f0f5cb2a3324498afd19dd8fe2b97f141fcf" width="278" height="185" alt="Ron Paul continues to attract supporters" /></a><p class="gallery blue strong"><a href="/multimedia/collection/ron-paul-continues-attract-supporters/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'ron-paul-continues-to-attract-supporters', 'positionron-paul-continues-to-attract-supporters']);trackclick(this);return false;">Ron Paul continues to attract supporters</a><br /><span class="small grey">12 Photos</span></p></li></ul></div><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/romney-bounces-back-after-sharp-debate-criticism/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'romney-bounces-back-after-sharp-debate-criticism', 'positionromney-bounces-back-after-sharp-debate-criticism']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/08/romney_christie_01-0801_s278x188.jpg?52dfb77c80237bcc3a94f1a98e2498949c4ab9b5" width="278" height="188" alt="Romney bounces back after sharp debate criticism" /></a><p class="gallery blue strong"><a href="/multimedia/collection/romney-bounces-back-after-sharp-debate-criticism/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'romney-bounces-back-after-sharp-debate-criticism', 'positionromney-bounces-back-after-sharp-debate-criticism']);trackclick(this);return false;">Romney bounces back after sharp debate criticism</a><br /><span class="small grey">10 Photos</span></p></li></ul></div><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/hispanics-mark-three-kings-day/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'hispanics-mark-three-kings-day', 'positionhispanics-mark-three-kings-day']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/08/threekings_01_s278x193.jpg?519507e3f28dee866db9bdc6d8fc0c5a3cfbf3bb" width="278" height="193" alt="Hispanics mark Three Kings Day" /></a><p class="gallery blue strong"><a href="/multimedia/collection/hispanics-mark-three-kings-day/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'hispanics-mark-three-kings-day', 'positionhispanics-mark-three-kings-day']);trackclick(this);return false;">Hispanics mark Three Kings Day</a><br /><span class="small grey">10 Photos</span></p></li></ul></div><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/courting-nh-voters/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'courting-new-hampshire-voters', 'positioncourting-new-hampshire-voters']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/07/hampshire_1366_s278x190.jpg?9e2f6d2e7239a303a75af562aef5b23799d09f65" width="278" height="190" alt="Courting New Hampshire voters" /></a><p class="gallery blue strong"><a href="/multimedia/collection/courting-nh-voters/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'courting-new-hampshire-voters', 'positioncourting-new-hampshire-voters']);trackclick(this);return false;">Courting New Hampshire voters</a><br /><span class="small grey">18 Photos</span></p></li></ul></div><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/santorum-asks-voters-think-themselves/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'santorum-asks-voters-to-think-for-themselves', 'positionsantorum-asks-voters-to-think-for-themselves']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/05/santorum_01-0523_s278x201.jpg?23873aa393fa61708ceeb6c15e784d34cfd6cfd6" width="278" height="201" alt="Santorum asks voters to think for themselves" /></a><p class="gallery blue strong"><a href="/multimedia/collection/santorum-asks-voters-think-themselves/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'santorum-asks-voters-to-think-for-themselves', 'positionsantorum-asks-voters-to-think-for-themselves']);trackclick(this);return false;">Santorum asks voters to think for themselves</a><br /><span class="small grey">22 Photos</span></p></li></ul></div><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/mccain-endorses-romney-new-hampshire/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'mccain-endorses-romney', 'positionmccain-endorses-romney']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/04/romney_hampshire01-0401_s278x185.jpg?42a3f0f5cb2a3324498afd19dd8fe2b97f141fcf" width="278" height="185" alt="McCain endorses Romney" /></a><p class="gallery blue strong"><a href="/multimedia/collection/mccain-endorses-romney-new-hampshire/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'mccain-endorses-romney', 'positionmccain-endorses-romney']);trackclick(this);return false;">McCain endorses Romney</a><br /><span class="small grey">16 Photos</span></p></li></ul></div><div class="sliderphotoitem"><ul><li class="full left mb mt min"><a href="/multimedia/collection/bachmann-ends-bid-presidency/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'bachmann-ends-bid-for-presidency', 'positionbachmann-ends-bid-for-presidency']);trackclick(this);return false;"><img src="http://media.washtimes.com/media/image/2012/01/04/bachmann_ends01-0401_s278x185.jpg?42a3f0f5cb2a3324498afd19dd8fe2b97f141fcf" width="278" height="185" alt="Bachmann ends bid for presidency" /></a><p class="gallery blue strong"><a href="/multimedia/collection/bachmann-ends-bid-presidency/" onClick="_gaq.push(['_trackEvent', 'HomePhotoSlider', 'bachmann-ends-bid-for-presidency', 'positionbachmann-ends-bid-for-presidency']);trackclick(this);return false;">Bachmann ends bid for presidency</a><br /><span class="small grey">7 Photos</span></p></li></ul></div></div><div style="clear:both;"></div></div><br /><div class="ad300x250 left mb"><script type="text/javascript">
+    window.dctile = Number(window.dctile) + 1 || 1;
+    if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""}
+    var size="300x250,300x600";
+var type="story";
+var site="wash.times";
+var zone="news_national";
+var pos="bottom";
+
+    window.sitepage_zone = zone;
+    document.write('<iframe src="http://ad.doubleclick.net/N5856/adi/'+site+'/'+zone+''+dcopt+';type='+type+';'+surroundTag+'pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>');
+</script></div><script src="http://widget.perfectmarket.com/washingtontimes/load.js"></script></div><div class="full left bt mt pb pt min mb adbar"><div class="ad728x90 center"><script type="text/javascript">
+    window.dctile = Number(window.dctile) + 1 || 1;
+    if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""}
+    var size="728x90";
+var type="story";
+var site="wash.times";
+var zone="news_national";
+var pos="bottom";
+
+    window.sitepage_zone = zone;
+    document.write('<iframe src="http://ad.doubleclick.net/N5856/adi/'+site+'/'+zone+''+dcopt+';type='+type+';'+surroundTag+'pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>');
+</script><script type="text/javascript">
+window.dctile = Number(window.dctile) + 1 || 1;
+if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""}
+var size="1x1";
+var type="story";
+var site="wash.times";
+var zone="news_national";
+var pos="top";
+
+window.sitepage_zone = zone;
+
+if (17>dctile) document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/'+site+'/'+zone+''+dcopt+';mtfIFPath=/doubleclick/dartiframe/;type='+type+';'+surroundTag+'pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?"><\/script>\n');
+</script></div></div><div class="left full"><p class="center mt"></p></div></div></div><div class="footer pt pb full left"><div class="module full left"><div><p class="ml"></p><p class="left small ml">All site contents © Copyright 2012 The Washington Times, LLC</p><p class="right small white ml mr"><a href="/about/jobs/">Jobs</a> | <a href="/about/">About</a> | <a href="/advertise/" title="Advertise">Advertise</a> | <a href="/customer-service/">Customer Service</a> | <a href="/terms-of-use/">Terms of Use</a> | <a href="/contact-us/">Contact Us</a> | <a href="/privacy/">Privacy</a></p></div></div></div></div><script type="text/javascript" defer="defer" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/alice.js?pc=8012/12921"></script><script type="text/javascript" defer="defer">
+		// Quantcast tag
+		_qoptions={
+		qacct:"p-c69_1G6fdlihY"
+		};
+	</script><script type="text/javascript" src="http://edge.quantserve.com/quant.js" defer="defer"></script><noscript><img src="http://pixel.quantserve.com/pixel/p-c69_1G6fdlihY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript><script type="text/javascript">
+	var _sf_async_config={uid:4188,domain:"washingtontimes.com"};
+	(function(){
+	  function loadChartbeat() {
+	    window._sf_endpt=(new Date()).getTime();
+	    var e = document.createElement('script');
+	    e.setAttribute('language', 'javascript');
+	    e.setAttribute('type', 'text/javascript');
+	    e.setAttribute('src',
+	       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+	       "static.chartbeat.com/js/chartbeat.js");
+	    document.body.appendChild(e);
+	  }
+	  var oldonload = window.onload;
+	  window.onload = (typeof window.onload != 'function') ?
+	     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+	</script><script type="text/javascript" charset="utf-8">
+function trackclick(that){
+try {
+	
+	setTimeout('document.location = "' + that.href + '"', 100);
+}catch(err){}
+}</script><SCRIPT LANGUAGE="JavaScript">
+		SetC2LVisibility('WashingtonTimes','WashingtonTimes','news_2012_jan_10_hhs-offers-aid-over-guatemalan-std-lawsuit','listentab','C2LContainer'); 
+	</SCRIPT><div id="fb-root"></div><script>
+	  window.fbAsyncInit = function() {
+	    FB.init({appId: 'your app id', status: true, cookie: true,
+	             xfbml: true});
+	  };
+	  (function() {
+	    var e = document.createElement('script'); e.async = true;
+	    e.src = document.location.protocol +
+	      '//connect.facebook.net/en_US/all.js';
+	    document.getElementById('fb-root').appendChild(e);
+	  }());
+	</script><script type="text/javascript">
+			document.write('<img src="http://tracker.washtimes.com/tracker.gif'
+			+'?site='+escape(window.location.host)
+			+'&url='+escape("/news/2012/jan/10/hhs-offers-aid-over-guatemalan-std-lawsuit/")
+			+'&title='+escape("HHS offers aid over Guatemalan STD lawsuit")+'"/>');
+		</script><script type="text/javascript" charset="utf-8">
+function trackclick(that){
+try {
+	
+	setTimeout('document.location = "' + that.href + '"', 100);
+}catch(err){}
+}</script></body></html>

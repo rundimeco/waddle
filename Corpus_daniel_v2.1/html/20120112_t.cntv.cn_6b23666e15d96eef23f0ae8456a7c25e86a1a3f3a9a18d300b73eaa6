@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>微博联播的微博 - CNTV微博 - 中国网络电视台</title>
+<link rel="shortcut icon" href="http://static.t.cntv.cn/favicon.ico" />
+<link href="http://static.t.cntv.cn/css/base.css" rel="stylesheet" type="text/css" />
+<link href="http://static.t.cntv.cn/css/skin_default/skin.css" rel="stylesheet" type="text/css" />
+<link href="http://static.t.cntv.cn/css/skin_default/noreg.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.cctv.com/Library/a2.js"></script></head>
+<body id="weibo_user">
+	<div id="wrapper">
+    	<div class="wrapper-in">
+            <!-- 头部 开始-->
+            <!-- START WRating v1.0 -->
+<script type="text/javascript">
+var vjAcc="860010-1135010100";
+var wrUrl="http://cntv.wrating.com/";
+var wrVideoUrl="http://cntv.wrating.com/";
+</script>
+<!-- END WRating v1.0 -->
+<link href="http://static.t.cntv.cn/js/autologin/auto.login.tip.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://static.t.cntv.cn/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://static.t.cntv.cn/js/xwb-all.js"></script>
+<div id="header">
+	<div class="top-wrap">
+        <div class="lang">
+            <a href="http://www.cntv.cn/">中国网络电视台</a><a href="http://www.cntv.cn/">简体</a><a href="http://big5.cntv.cn/gate/big5/www.cntv.cn/index.shtml">繁体</a><a href="http://english.cntv.cn/">English</a><a href="http://espanol.cntv.cn/">Español</a><a href="http://fr.cntv.cn/">Français</a><a href="http://arabic.cntv.cn/">العربية</a><a href="http://russian.cntv.cn/">Pусский</a>
+        </div>
+        <div class="login-info">
+                	<a href="http://passport.cntv.cn/login.jsp?addons=http://t.cntv.cn/&errtype=0">登录</a>
+                  | <a href="http://help.cntv.cn/">客服</a>
+        </div>
+        <div class="head-links">
+            <a href="http://game.cntv.cn/xiaoyouxi/" class="icon-game icon-bg">玩游戏</a><a href="http://xiyou.cntv.cn/upload.html" class="icon-upload icon-bg">上传</a><a href="http://download.cntv.cn/ieocx/CCTVRegOcx.exe" class="icon-plugin icon-bg">插件</a><a href="http://cbox.cntv.cn/" class="icon-client icon-bg">客户端</a>
+        </div>
+    </div>
+    <div class="head-nav">
+        <a target="_blank" href="http://bugu.cntv.cn/">爱布谷</a><a target="_blank" href="http://news.cntv.cn/">新闻</a><a target="_blank" href="http://jingji.cntv.cn/">经济</a><a target="_blank" href="http://nongjiale.cntv.cn/">农家乐</a><a target="_blank" href="http://sports.cntv.cn/">体育</a><a target="_blank" href="http://ent.cntv.cn/">综艺</a><a target="_blank" href="http://xiqu.cntv.cn/">戏曲</a><a target="_blank" href="http://yue.cntv.cn/">音乐</a><a target="_blank" href="http://dianying.cntv.cn/">电影</a><a target="_blank" href="http://dianshiju.cntv.cn/">电视剧</a><a target="_blank" href="http://donghua.cntv.cn/">动画</a><a target="_blank" href="http://shaoer.cntv.cn/home/index.shtml">少儿</a><a target="_blank" href="http://kejiao.cntv.cn/">科教</a><a target="_blank" href="http://jishi.cntv.cn/">纪实</a><a target="_blank" href="http://jiankang.cntv.cn/">健康</a><a target="_blank" href="http://travel.cntv.cn/">旅游</a><a target="_blank" href="http://auto.cntv.cn/">汽车</a><a target="_blank" href="http://it.cntv.cn/">IT</a><a target="_blank" href="http://style.cntv.cn/">时尚</a><a target="_blank" href="http://arts.cntv.cn">艺术</a><a target="_blank" href="http://games.cntv.cn/">游戏</a><a target="_blank" href="http://food.cntv.cn/">美食</a><a target="_blank" href="http://xiyou.cntv.cn/">爱西柚</a><a target="_blank" href="http://my.cntv.cn/">社区</a><a target="_blank" href="http://bbs.cntv.cn/">论坛</a><a target="_blank" href="http://blog.cntv.cn/">博客</a><a target="_blank" href="http://t.cntv.cn/">微博</a><a target="_blank" href="http://fangtan.cntv.cn/index.shtml">访谈</a>
+    </div>
+	<div class="nav">
+    	<div class="inner-nav" id="xwbInnerNav">
+        	<div class="menu">
+            	<ul>
+                                    	<li id="pub_btn"><a class="menu-pub" href="/index.php?m=pub">微博广场</a>
+                        <ul>
+                            <li><a href="/index.php?m=live">微直播</a></li>
+                            <li><a href="/index.php?m=interview">微访谈</a></li>
+                        </ul>
+                    </li>
+                    <li><a class="menu-user" href="/index.php?m=fame">名人墙</a></li>
+                    <li><a class="menu-topic" href="/index.php?m=pub.rank">排行榜</a></li>
+                                        <li><a class="menu-phone" href="/index.php?m=help.phone">手机</a></li>
+                                    </ul>
+            </div>
+        	
+                <div class="nav-right">
+            	            </div>
+            
+        </div>
+        <div class="nav-bg"></div>
+    </div>
+    <div class="inner-header">
+    	<a class="logo" href="/index.php?m=index" title="CNTV微博"></a>
+    </div>
+</div>
+            <!-- 头部 结束-->
+            <div id="container">
+                <script type="text/javascript">
+var login_api_url = 'http://passport.cntv.cn/interface_check_usridpass_oauth.jsp';
+var login_back_url = 'http://t.cntv.cn/index.php?m=index.chk';
+var ajax_login_url = 'http://passport.cntv.cn/app_pass/verify/interface/userlogin_callback.jsp';
+</script>
+<div class="userinfobox">
+    <div class="userinfo">
+        <div class="uinfo_pic"><img src="http://userface.img.cctvpic.com/120x120/241/462/14115112.jpg?ver=2012011219" title="微博联播" /></div>
+        <div class="uinfo_txt">
+            <ul>
+                <li class="utitle_01">微博联播 <img src="/var/data/logo/small_auth_icon.png" alt="CNTV全球新媒体记者永远给你最新的新闻" title="CNTV全球新媒体记者永远给你最新的新闻" /></li>
+                <li class="utitle_02">中国网络电视台遍布全球的新媒体记者，永远给你最新的新闻。</li>
+                <li class="utitle_03"><span>6</span> 关注&nbsp;&nbsp;&nbsp;&nbsp;<span>31990</span> 粉丝&nbsp;&nbsp;&nbsp;&nbsp;<span>27754</span> 微博</li>
+            </ul>
+        </div>
+        <div class="uinfo_vip">
+            <p><div class="vip-card"><img src="/var/data/logo/big_auth_icon.png" alt="CNTV全球新媒体记者永远给你最新的新闻" title="CNTV全球新媒体记者永远给你最新的新闻" /></div></p>
+            <p>
+                                <a href="http://t.cntv.cn/weibolianbo" title="http://t.cntv.cn/weibolianbo">http://t.cntv.cn/weibolianbo</a>
+                            </p>
+        </div>
+    </div>
+    <div class="openweibo">
+        <div class="openweibo_txt01">注册CNTV微博，一起分享生活中的新鲜事！</div>
+        <div class="openweibo_txt02">已有帐号？<a href="/index.php?m=account.sinaLogin&cb=login" rel="e:lg">马上登录</a></div>
+        <div class="openweibo_txt03">CNTV微博为用户提供个性化服务，马上开通CNTV微博，关注主播、名人、朋友的最新动态，通过网页、手机随时记录生活中的新鲜事。</div>
+        <a href="http://passport.cntv.cn/reg.jsp?backurl=http://t.cntv.cn" class="openweiboBtn"></a>
+    </div>
+</div>
+                <div class="sidebar">
+                    <div class="user-preview">
+                    </div>
+                    <!-- fans -->
+                    <div class="user-sidebar user-fans">
+                    <div class="sidebar-head">微博联播关注的人（6）</div>
+                        <ul>
+                                                                                    <li>
+                                <a title="吕正标" href="/index.php?m=ta&id=14353203"><img src="http://userface.img.cctvpic.com/60x60/570/509/14353203.jpg?ver=2012011219" alt="吕正标" /></a>
+                                <p><a title="吕正标" href="/index.php?m=ta&id=14353203">吕正标</a></p>
+                            </li>
+                                                        <li>
+                                <a title="中国网络调查" href="/index.php?m=ta&id=14390159"><img src="http://userface.img.cctvpic.com/60x60/563/794/14390159.jpg?ver=2012011219" alt="中国网络调查" /></a>
+                                <p><a title="中国网络调查" href="/index.php?m=ta&id=14390159">中国网络调查</a></p>
+                            </li>
+                                                        <li>
+                                <a title="微访谈" href="/index.php?m=ta&id=14761836"><img src="http://userface.img.cctvpic.com/60x60/612/943/14761836.jpg?ver=2012011219" alt="微访谈" /></a>
+                                <p><a title="微访谈" href="/index.php?m=ta&id=14761836">微访谈</a></p>
+                            </li>
+                                                        <li>
+                                <a title="我在现场" href="/index.php?m=ta&id=14761838"><img src="http://userface.img.cctvpic.com/60x60/614/944/14761838.jpg?ver=2012011219" alt="我在现场" /></a>
+                                <p><a title="我在现场" href="/index.php?m=ta&id=14761838">我在现场</a></p>
+                            </li>
+                                                        <li>
+                                <a title="微世界" href="/index.php?m=ta&id=14761839"><img src="http://userface.img.cctvpic.com/60x60/615/944/14761839.jpg?ver=2012011219" alt="微世界" /></a>
+                                <p><a title="微世界" href="/index.php?m=ta&id=14761839">微世界</a></p>
+                            </li>
+                                                        <li>
+                                <a title="微中国" href="/index.php?m=ta&id=14761840"><img src="http://userface.img.cctvpic.com/60x60/616/944/14761840.jpg?ver=2012011219" alt="微中国" /></a>
+                                <p><a title="微中国" href="/index.php?m=ta&id=14761840">微中国</a></p>
+                            </li>
+                                                                                </ul>
+                                                    <!--a href="" class="more-user">更多</a-->
+                                            </div>
+                    <!-- end fans -->
+                              
+					                </div>
+                <div class="main">
+                    <div class="feed-list mblog-list">
+                        <div class="feed-tit">
+                            <h3>微博联播的微博</h3>
+                        </div>
+						<ul>
+                            <li rel="w:25763497">
+                            	<div class="feed-content">
+		<p class="feed-main">
+<a target="_blank" href="/index.php?m=ta&id=14115112&name=%E5%BE%AE%E5%8D%9A%E8%81%94%E6%92%AD" title="微博联播">微博联播<img src="/var/data/logo/small_auth_icon.png" alt="CNTV全球新媒体记者永远给你最新的新闻" title="CNTV全球新媒体记者永远给你最新的新闻" /></a>： <a href="http://t.cntv.cn/index.php?m=pub.topicList&k=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8F%91%E8%A1%8C%22%E9%BE%99%E8%A2%8D%22%E9%82%AE%E7%A5%A8">#马来西亚发行&quot;龙袍&quot;邮票#</a> 马来西亚国家邮政局12日限量发行了一套，以中国明朝龙袍为主题的龙形邮票。据介绍，马来西亚在2000年曾发行过大马史上首套农历新年邮票——庚辰龙年邮票，当时曾掀起抢购热潮，所有纪念首日封及龙年邮票都被抢购一空。2000版龙票在12年之后身价已上升几百倍。CNTV李涛编辑报道</p>
+			<div class="preview-img">
+			<div class="feed-img">
+				<img class="zoom-move" src="http://img.t.cntv.cn/thumbnail/2295aiiu6hzmzt7l4z3boglm" rel="e:zi,fw:0"/>
+			</div>
+		</div>
+			<div class="feed-info"><p>
+	<a href="#" rel="e:fw" id="fw">转发</a>|<a href="#" rel="e:fr">收藏</a>|<a href="javascript:;" onclick="$('#inputor').focus();" rel="e:cm" id="cm">评论</a>
+	</p><span><a href="/index.php?m=show&id=25763497">50分钟前</a> 来自 <a href="http://t.cntv.cn" target="_blank" title="CNTV微博">CNTV微博</a></span>
+	
+    </div>
+  </div>
+
+                            </li>
+                        </ul>
+                        <div class="list-footer"></div>
+                        <div class="openwarn"><span>已有帐号？<a rel="e:lg" href="/index.php?m=account.sinaLogin&cb=login">马上登录</a></span><a target="_blank" href="http://passport.cntv.cn/reg.jsp?backurl=http://t.cntv.cn">开通微博</a> 你可以查看更多内容，还可以评论、转发微博。</div>                    </div>
+                    <div class="comment-list all-comment" id="xwb_cmt_list" wbid="0"></div>
+                </div>
+            </div>
+            <!-- 底部 开始-->
+            <script type='text/javascript'>
+if(!window.Xwb)Xwb={};
+Xwb.cfg={	basePath :	'/',
+			routeMode:  0,
+			routeVname: 'm',
+			loginCfg : 	3,
+
+			wbList: 	{"25763497":{"cr":"Thu Jan 12 19:02:50 +0800 2012","f":1,"s":"<a href=\"http:\/\/t.cntv.cn\" target=\"_blank\" title=\"CNTV\u5fae\u535a\">CNTV\u5fae\u535a<\/a>","tx":"#\u9a6c\u6765\u897f\u4e9a\u53d1\u884c\"\u9f99\u888d\"\u90ae\u7968#\u9a6c\u6765\u897f\u4e9a\u56fd\u5bb6\u90ae\u653f\u5c4012\u65e5\u9650\u91cf\u53d1\u884c\u4e86\u4e00\u5957\uff0c\u4ee5\u4e2d\u56fd\u660e\u671d\u9f99\u888d\u4e3a\u4e3b\u9898\u7684\u9f99\u5f62\u90ae\u7968\u3002\u636e\u4ecb\u7ecd\uff0c\u9a6c\u6765\u897f\u4e9a\u57282000\u5e74\u66fe\u53d1\u884c\u8fc7\u5927\u9a6c\u53f2\u4e0a\u9996\u5957\u519c\u5386\u65b0\u5e74\u90ae\u7968\u2014\u2014\u5e9a\u8fb0\u9f99\u5e74\u90ae\u7968\uff0c\u5f53\u65f6\u66fe\u6380\u8d77\u62a2\u8d2d\u70ed\u6f6e\uff0c\u6240\u6709\u7eaa\u5ff5\u9996\u65e5\u5c01\u53ca\u9f99\u5e74\u90ae\u7968\u90fd\u88ab\u62a2\u8d2d\u4e00\u7a7a\u30022000\u7248\u9f99\u7968\u572812\u5e74\u4e4b\u540e\u8eab\u4ef7\u5df2\u4e0a\u5347\u51e0\u767e\u500d\u3002CNTV\u674e\u6d9b\u7f16\u8f91\u62a5\u9053","tp":"http:\/\/img.t.cntv.cn\/thumbnail\/2295aiiu6hzmzt7l4z3boglm","mp":"http:\/\/img.t.cntv.cn\/bmiddle\/2295aiiu6hzmzt7l4z3boglm","op":"http:\/\/img.t.cntv.cn\/original\/2295aiiu6hzmzt7l4z3boglm","u":{"id":"14115112","sn":"\u5fae\u535a\u8054\u64ad","p":"http:\/\/userface.img.cctvpic.com\/60x60\/241\/462\/14115112.jpg","v":1}}},
+
+			authenCfg:	'1',
+
+			authenTit:	'CNTV微博认证',
+
+			webName:	'CNTV微博',
+
+			uid: 		'',
+
+			siteUid:	'',
+
+			siteUname:	'',
+
+			siteName:	'',
+
+			siteReg:	'',
+			remind: 0,
+			maxid: '',
+			page: 'show',
+			akey: '855224130',
+			ads: ""};
+</script>
+<div id="footer">
+	<div class="ft-in">
+        <p><a href="http://cctvenchiridion.cctv.com/index.shtml">关于CCTV</a>|<a href="http://www.cntv.cn/cntv/01/12/index.shtml">联系CCTV</a>|<a href="http://www.cntv.cn/cntv/01/index.shtml">CNTV介绍</a>|<a href="http://www.cntv.cn/cntv/04/index.shtml">联系我们</a>|<a href="http://www.cntv.cn/special/service/20101108/102609.shtml">网民举报</a>|<a href="http://passport.cntv.cn/app_pass/verify/infor/wyznt.jsp">网友智囊团</a>|<a href="http://www.cntv.cn/cntv/01/06/index.shtml">人才招聘</a>|<a href="http://www.cntv.cn/cntv/01/10/index.shtml">版权声明</a>|<a href="http://www.yuecheng.com/">法律顾问</a>|<a href="http://www.cntv.cn/cntv/03/index.shtml">网站地图</a>|<a href="http://1118.cctv.com/index.shtml">CCTV广告部</a>|<a href="http://ad.cntv.cn/bbs/special/ggfw/01/index.shtml">CNTV广告服务</a></p>
+        <p>中国中央电视台  中国网络电视台  版权所有</p>
+        <p>京ICP证060535号  网络文化经营许可证文网文[2010]024号</p>
+        <p>网上传播视听节目许可证号 0102004  中国互联网视听节目服务自律公约</p>
+        <a id="gotop" title="返回顶部" href="javascript:;" class="gotop skin-bg hidden">top</a>
+	</div>
+</div>
+<script type="text/javascript" src="http://2012n.apps.cntv.cn/p.js"></script> 
+<script type="text/javascript"> 
+try {
+    var CntvTracker = Cntvlog.getTracker("http://2012n.apps.cntv.cn/q.php", 4);
+    CntvTracker.trackPageView();
+    } catch( err ) {}
+</script> 
+
+
+
+
+<!-- START WRating v1.0 -->
+<script type="text/javascript">
+_vjTrack("");
+</script>
+<noscript><img src="http://cntv.wrating.com/a.gif?c=860010-1135010100" width="1" height="1"/></noscript>
+<!-- END WRating v1.0 -->
+
+
+            <!-- 底部 结束-->
+        </div>
+    </div>
+<!-- report -->
+<img src="" class="hidden"/>
+</body>
+</html>

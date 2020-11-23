@@ -1,0 +1,825 @@
+<!DOCTYPE HTML>
+<html lang="zh-TW">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>長時間用平板電腦 易眼過勞 | 家庭 | 蘋果日報</title>
+	<meta name="Title" content="長時間用平板電腦 易眼過勞 | 家庭 | 蘋果日報" />
+	<meta name="description" content="平板電腦與智慧型手機流行，因攜帶方便，許多人常隨時隨地使用，眼科醫師張朝凱提醒，電子螢幕由許多小光點組成，眼球聚焦上較費力，加上過於專注下，會使眨眼次數減少、淚液揮發更快，易導致眼睛痠澀、疲勞、視力退化、乾眼症等「眼過勞」現象，提醒控制用眼時間，每用眼50分鐘，可轉動眼球、熱敷雙眼等，預防及舒緩眼睛疲勞，另手持平板電腦或智慧型手機時，宜保持30~45公分距離，避免近距離觀看，加深眼睛疲勞。報導╱林明佳、張佩玉攝影╱施偉平　部分圖片╱資料照片" />
+	<meta name="keywords" content="長時間用平板電腦 易眼過勞 , 家庭 , 蘋果日報" />
+	<meta name="Robots" content="INDEX,FOLLOW" />
+	  <script src="http://twimg.edgesuite.net/www/js/html5.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script type="text/javascript" src="/images/js/jquery.ifixpng.js"></script>
+  <script type="text/javascript" src="/images/js/thickbox.js"></script>
+  <script type="text/javascript" src="/images/js/jquery.mousewheel.js"></script>
+  <script tyle="text/javascript" src="http://twimg.edgesuite.net//www/js/swfobject15.js"></script>
+  <script type="text/javascript" src="/images/js/script.js"></script>
+  <script type="text/javascript" src="/js/sns.lib.v1.js"></script>
+  <script type="text/javascript" src="/images/js/lightbox.js"></script>
+  <style type="text/css" media="screen">
+    @import url(/images/css/style.css);
+    @import url(/images/css/article_style.css);   
+    @import url(/images/css/thickbox.css);
+    @import url(/images/css/jScrollPane.css);
+  </style>
+  <script type="text/javascript">
+  $(function(){ });
+		//更改字級大小
+		function doZoom(size){
+  	  setURLCookie('testFRONTSIZE',size,0,'tw.nextmedia.com','/subapple/');
+  	  var h1 = size+8;
+  	  var h2 = size+2;
+  	  var info = size+2;
+  		document.getElementById('h1').style.fontSize=h1+'px';
+  		document.getElementById('h2').style.fontSize=h2+'px';
+  		document.getElementById('summary').style.fontSize=size+'px';
+  		  	  	if(document.getElementById('article_text0'))
+  	  	  document.getElementById('article_text0').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title0'))
+  	  	  document.getElementById('article_title0').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich0'))
+  	      document.getElementById('onepich0').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich0'))
+  	      document.getElementById('threepich0').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich0'))
+  	      document.getElementById('nopich0').style.fontSize=size+'px';
+        if(document.getElementById('nonepich0'))
+          document.getElementById('nonepich0').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text1'))
+  	  	  document.getElementById('article_text1').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title1'))
+  	  	  document.getElementById('article_title1').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich1'))
+  	      document.getElementById('onepich1').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich1'))
+  	      document.getElementById('threepich1').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich1'))
+  	      document.getElementById('nopich1').style.fontSize=size+'px';
+        if(document.getElementById('nonepich1'))
+          document.getElementById('nonepich1').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text2'))
+  	  	  document.getElementById('article_text2').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title2'))
+  	  	  document.getElementById('article_title2').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich2'))
+  	      document.getElementById('onepich2').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich2'))
+  	      document.getElementById('threepich2').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich2'))
+  	      document.getElementById('nopich2').style.fontSize=size+'px';
+        if(document.getElementById('nonepich2'))
+          document.getElementById('nonepich2').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text3'))
+  	  	  document.getElementById('article_text3').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title3'))
+  	  	  document.getElementById('article_title3').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich3'))
+  	      document.getElementById('onepich3').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich3'))
+  	      document.getElementById('threepich3').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich3'))
+  	      document.getElementById('nopich3').style.fontSize=size+'px';
+        if(document.getElementById('nonepich3'))
+          document.getElementById('nonepich3').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text4'))
+  	  	  document.getElementById('article_text4').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title4'))
+  	  	  document.getElementById('article_title4').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich4'))
+  	      document.getElementById('onepich4').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich4'))
+  	      document.getElementById('threepich4').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich4'))
+  	      document.getElementById('nopich4').style.fontSize=size+'px';
+        if(document.getElementById('nonepich4'))
+          document.getElementById('nonepich4').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text5'))
+  	  	  document.getElementById('article_text5').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title5'))
+  	  	  document.getElementById('article_title5').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich5'))
+  	      document.getElementById('onepich5').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich5'))
+  	      document.getElementById('threepich5').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich5'))
+  	      document.getElementById('nopich5').style.fontSize=size+'px';
+        if(document.getElementById('nonepich5'))
+          document.getElementById('nonepich5').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text6'))
+  	  	  document.getElementById('article_text6').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title6'))
+  	  	  document.getElementById('article_title6').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich6'))
+  	      document.getElementById('onepich6').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich6'))
+  	      document.getElementById('threepich6').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich6'))
+  	      document.getElementById('nopich6').style.fontSize=size+'px';
+        if(document.getElementById('nonepich6'))
+          document.getElementById('nonepich6').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text7'))
+  	  	  document.getElementById('article_text7').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title7'))
+  	  	  document.getElementById('article_title7').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich7'))
+  	      document.getElementById('onepich7').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich7'))
+  	      document.getElementById('threepich7').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich7'))
+  	      document.getElementById('nopich7').style.fontSize=size+'px';
+        if(document.getElementById('nonepich7'))
+          document.getElementById('nonepich7').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text8'))
+  	  	  document.getElementById('article_text8').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title8'))
+  	  	  document.getElementById('article_title8').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich8'))
+  	      document.getElementById('onepich8').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich8'))
+  	      document.getElementById('threepich8').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich8'))
+  	      document.getElementById('nopich8').style.fontSize=size+'px';
+        if(document.getElementById('nonepich8'))
+          document.getElementById('nonepich8').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text9'))
+  	  	  document.getElementById('article_text9').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title9'))
+  	  	  document.getElementById('article_title9').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich9'))
+  	      document.getElementById('onepich9').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich9'))
+  	      document.getElementById('threepich9').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich9'))
+  	      document.getElementById('nopich9').style.fontSize=size+'px';
+        if(document.getElementById('nonepich9'))
+          document.getElementById('nonepich9').style.fontSize=size+'px';      
+  		  	  	if(document.getElementById('article_text10'))
+  	  	  document.getElementById('article_text10').style.fontSize=size+'px';
+  	  	if(document.getElementById('article_title10'))
+  	  	  document.getElementById('article_title10').style.fontSize=h2+'px';
+  	    if(document.getElementById('onepich10'))
+  	      document.getElementById('onepich10').style.fontSize=size+'px';
+  	    if(document.getElementById('threepich10'))
+  	      document.getElementById('threepich10').style.fontSize=size+'px';
+  	    if(document.getElementById('nopich10'))
+  	      document.getElementById('nopich10').style.fontSize=size+'px';
+        if(document.getElementById('nonepich10'))
+          document.getElementById('nonepich10').style.fontSize=size+'px';      
+  			        
+    }
+  </script>
+</head>
+<body id="article" class="subapple novideo">
+	<div class="wrapper">
+		<div class="sqrezeer">
+			<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+	GS_googleAddAdSenseService("ca-pub-8741958826494361");
+	GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+	theObjects = document.getElementsByTagName("object");
+	for (var i = 0; i < theObjects.length; i++) {
+		theObjects[i].outerHTML = theObjects[i].outerHTML;
+	}
+
+	function setHome() { 
+		document.body.style.behavior='url(#default#homepage)'; 
+		document.body.setHomePage(window.location.href);
+	} 
+</script> 
+<header id="header">
+	<div class="logo_block">
+		<h1><a href="/" class="overcooked">蘋果日報&nbsp;&#47;&nbsp;APPLE DAILY</a></h1>
+	</div>
+	<section class="regionblock">
+		<time class="time_stamp">2012/01/12</time>
+		<h1 class="vanisher">各地蘋果</h1>
+			    	<a href="http://tw.nextmedia.com/" title="台灣蘋果" target="_blank">台灣蘋果&nbsp;<span>http://tw.nextmedia.com</span></a>
+	    	    <a href="http://hk.nextmedia.com/" title="香港蘋果" target="_blank">香港蘋果&nbsp;<span>http://hk.nextmedia.com</span></a>
+	    <a href="http://tw.next.nextmedia.com/" title="壹週刊" target="_blank">壹週刊&nbsp;<span>http://tw.next.nextmedia.com/</span></a>
+	    <a href="http://www.memag.com.tw/" title="me!" target="_blank">me!&nbsp;<span>http://www.memag.com.tw/</span></a>
+	    <a href="http://www.nexttv.com.tw/" title="壹電視" target="_blank">壹電視&nbsp;<span>http://www.nexttv.com.tw/</span></a>
+	    <a href="http://nma.tv/" title="NMA.tv" target="_blank">NMA.tv&nbsp;<span>http://nma.tv/</span></a>
+	    <a href="http://www.nexttv.com.tw/ethics/index" title="壹傳媒倫理委員會" target="_blank">壹傳媒倫理委員會&nbsp;<span>http://www.nexttv.com.tw/</span></a>
+	    <a href="/rss" title="RSS" class="headrssicon">RSS</a>	 	    
+	    <hr />
+	</section>	
+	<section class="sitesearchblock">
+		<h1 class="vanisher">搜尋蘋果日報</h1>
+		<a href="/index/search" title="點此搜尋" class="search"><span>進階搜尋</span></a>
+		<form name="searchform" action="/index/search" method="POST">           
+		    <input type="hidden" name="searchType" value="text">
+		    <input type="hidden" name="searchMode" value="Sim">
+		    <input type="text" name="querystrS" class="search_inputbox" />
+		    <button type="submit" class="search overcooked"><span>搜尋</span></button>
+		</form>
+	    <hr />
+	</section>
+		<div class="ad_block">
+	  <script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad01");</script>
+	  <script type="text/javascript">GA_googleFetchAds();</script>
+	  <script type="text/javascript">GA_googleFillSlot("a11_ad01");</script>
+	</div>
+</header>	
+<!--googleon: all-->      
+			<article id="content_parent">
+						    <div class="google_ad_block">
+										<script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad02");</script>
+					<script type="text/javascript">GA_googleFetchAds();</script>
+					<script type="text/javascript">GA_googleFillSlot("a11_ad02");</script>
+			    </div>
+						<!-- 即時新聞 -->
+			<!--googleoff: all-->
+				<div class="inst_news_list_block">
+				  <h2 class="vanisher"></h2>
+				    <ul class="inst_news_list">
+				    				            <li class="firstly"><a href="http://tw.nextmedia.com/realtimenews/article/hot/20120112/105363/3" title="抓賭抓到「活死人」　男失蹤30年宣告死亡" >
+        <span class="news_text"> 抓賭抓到「活死人」　男失蹤30年宣告死亡</span></a></li>
+            <li class="firstly"><a href="http://tw.nextmedia.com/realtimenews/article/life/20120112/105408" title="傳年終僅2萬5　華航空姐網控「含血起飛」" >
+        <span class="news_text"> 傳年終僅2萬5　華航空姐網控「含血起飛」</span></a></li>
+            <li class="firstly"><a href="http://tw.nextmedia.com/realtimenews/article/international/20120112/105427" title="醫生墜樓撞欄杆　攔腰斷成兩截" >
+        <span class="news_text"> 醫生墜樓撞欄杆　攔腰斷成兩截</span></a></li>
+              <li>
+        <a href="/realtimenews/article/life/20120112/105456" title="推周年慶　百貨多家專櫃員工超時工作" >
+        <img src="/images/home/life_icon.jpg"/>
+        <span class="label local" ><time >20:09</time></span>
+        <span class="news_text"> 推周年慶　百貨多家專櫃員工超時工作</span>
+                </a>    
+      </li>
+                 <li>
+        <a href="/realtimenews/article/international/20120112/105455" title="廣島監獄中國囚犯越獄　附近居民人心惶惶" >
+        <img src="/images/home/international_icon.jpg"/>
+        <span class="label local" ><time >20:01</time></span>
+        <span class="news_text"> 廣島監獄中國囚犯越獄　附近居民人心惶</span>
+                </a>    
+      </li>
+                 <li>
+        <a href="/realtimenews/article/international/20120112/105454" title="日全新廉價航空「桃子」　七月將飛台灣" >
+        <img src="/images/home/international_icon.jpg"/>
+        <span class="label local" ><time >19:53</time></span>
+        <span class="news_text"> 日全新廉價航空「桃子」　七月將飛台灣</span>
+                </a>    
+      </li>
+       
+				    </ul>
+				</div>
+				<!--googleon: all-->
+			<!-- 即時新聞 -->
+			<!-- 動新聞區塊 -->
+			<!--googleoff: all-->
+			       
+      <!--googleon: all-->
+      <!-- 動新聞區塊 -->
+      <section class="lower_field">
+      <div class="sqzer fillup">
+       <div class="main_content fillup">
+        <section class="news_photo_block">
+          <div class="stage outter" style="z-index:99;">
+            <div class="inner">                                                                                                 
+                  <div id="pane1" class="jcarousel-skin-tango" style="height:600px;wieth:200px;">
+                  <div class="photo_loader1" style="padding: 0px 10px;">
+                                                                        <div class="each_slide">
+                                  <a href="http://twimg.edgesuite.net//images/twapple_sub/640pix/20120112/MN05/MN05_021.jpg" class="pic_frame thickbox"  title="">
+                                          <img src="http://twimg.edgesuite.net/images/thumbnail/20120112/33953601_6a9e3fe0484c44a91a0eed0d953a02f0_160x.jpg"/>
+                                  </a>
+                                  <p></p>
+                          </div>
+                                                                    </div>
+                  </div>            
+             </div>
+            </div> 
+          <!-- div class="scrollbar"><div class="scrolltrack"><span class="handdler" style="height: 10%;"></span></div></div-->
+        </section>
+        <hr />
+        <section class="main_article_block">
+        <div class="inner_sqzer">               
+        <section class="pathway_bar">
+        <h1 class="vanisher">這篇文章在...</h1>
+					    		<div class="pathway fillup">
+					    			<ul>
+					    				<li><a href="/applenews/sec/sec_id/sub"><span>副刊</span></a></li>
+					    				<li><select onchange="MM_jumpMenu('parent',this,0)">
+					    									    					<optgroup label='副刊頭條' >
+					    										    						<option value='/subapple/article/art_id/33953225/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;迎新春 網購福袋激戰 搶先開打</option>
+					    										    						<option value='/subapple/article/art_id/33953250/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;直擊美國CES展 防水平板吸睛 Windows 8機種首</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='讓我更美' >
+					    										    						<option value='/subapple/article/art_id/33953323/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小資女對抗初老 保養祕笈11招</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='流行尖端' >
+					    										    						<option value='/subapple/article/art_id/33953660/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JO-AN冬裝懷舊風 復古流行變裝英倫女郎</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='消費高手' >
+					    										    						<option value='/subapple/article/art_id/33953374/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;紅白葡萄酒 整箱買6折起</option>
+					    										    						<option value='/subapple/article/art_id/33953405/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;春節搶市 超商賣人氣甜點</option>
+					    										    						<option value='/subapple/article/art_id/33953420/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;台中 品牌女裝 熱賣1.5折起</option>
+					    										    						<option value='/subapple/article/art_id/33953455/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生活用品 搶購5折起</option>
+					    										    						<option value='/subapple/article/art_id/33953466/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高雄 香港潮服 搶購2折起</option>
+					    										    						<option value='/subapple/article/art_id/33953500/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;品牌童裝 熱賣2.6折起</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='kbook' >
+					    										    						<option value='/subapple/article/art_id/33953692/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《幸福法拍屋》抽獎活動</option>
+					    										    					</optgroup>
+					    									    									    					<optgroup label='車市快遞' >
+					    										    						<option value='/subapple/article/art_id/33953512/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一刻離塵 Infiniti FX35小改款路試</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='3C 通訊' >
+					    										    						<option value='/subapple/article/art_id/33953271/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上海直擊 實測Sony首款智慧手機</option>
+					    										    						<option value='/subapple/article/art_id/33953293/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拼玩法比人氣 明星陪打牌</option>
+					    										    						<option value='/subapple/article/art_id/33950049/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《三國群英傳2.5》超新奇 布袋戲大戰三國武將</option>
+					    										    						<option value='/subapple/article/art_id/33950051/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《劍魂5》開發完成 刀劍勢力全面對決 --- PS3 /</option>
+					    										    						<option value='/subapple/article/art_id/33950053/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《雷頓教授VS逆轉裁判》兩大天才聯手破案</option>
+					    										    					</optgroup>
+					    									    									    					<optgroup label='我自己來' >
+					    										    						<option value='/subapple/article/art_id/33953559/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;挑吉祥盆栽 添居家年味</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='旅遊與探險' >
+					    										    						<option value='/subapple/article/art_id/33953628/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南投信義 樂賞梅花</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='健康醫療' >
+					    										    						<option value='/subapple/article/art_id/33953601/IssueID/20120112' selected>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;長時間用平板電腦 易眼過勞</option>
+					    										    						<option value='/subapple/article/art_id/33953622/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;濕冷天頻穿靴 香港腳增2成</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='美食天地' >
+					    										    						<option value='/subapple/article/art_id/33953007/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;原住民風味餐 新鮮嘗</option>
+					    										    						<option value='/subapple/article/art_id/33953032/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;義大利名牌廚具 跨足餐飲搶市</option>
+					    										    						<option value='/subapple/article/art_id/33953057/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;超厚蛋包飯 喔伊細</option>
+					    										    						<option value='/subapple/article/art_id/33953078/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;麻油料理 噴香暖口</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='運勢與彩券' >
+					    										    						<option value='/subapple/article/art_id/33953537/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;塔羅占卜 測天然呆指數</option>
+					    										    						<option value='/subapple/article/art_id/33953094/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;來找碴</option>
+					    										    						<option value='/subapple/article/art_id/33953099/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;老夫子搞怪新風貌  竊盜驚魂</option>
+					    										    					</optgroup>
+					    									    									    					<optgroup label='名采' >
+					    										    						<option value='/subapple/article/art_id/33953721/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;插入的理想時間</option>
+					    										    						<option value='/subapple/article/art_id/33953726/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;呵呵呵呵地男人</option>
+					    										    						<option value='/subapple/article/art_id/33953731/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;嫁人先看婆婆</option>
+					    										    						<option value='/subapple/article/art_id/33953736/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;只有搞外遇最行</option>
+					    										    						<option value='/subapple/article/art_id/33953741/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;外遇有了抉擇</option>
+					    										    						<option value='/subapple/article/art_id/33953704/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大家都有病</option>
+					    										    					</optgroup>
+					    									    					<optgroup label='人間事' >
+					    										    						<option value='/subapple/article/art_id/33953698/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不拒絕追求招噩運</option>
+					    										    						<option value='/subapple/article/art_id/33953708/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;宅男老哥 不堪一擊</option>
+					    										    						<option value='/subapple/article/art_id/33953712/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;黑色愛情男女 愛情來了，哥們走了</option>
+					    										    						<option value='/subapple/article/art_id/33953717/IssueID/20120112' >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高潮一波波</option>
+					    										    					</optgroup>
+					    									    				</select></li>
+					    			</ul>
+					    		</div>
+         </section>
+         <section class="function_toolbar">
+         <div class="viewsbox">
+         <ul>
+           <li><a title="點閱" target="_self" class="function_icon clicked">點閱(2345)</a></li>                  
+           <li><a href="javascript:void(0)" class="function_icon forward" onClick="window.open('/subapple/forward/art_id/33953601/IssueID/20120112/Title/%25E9%2595%25B7%25E6%2599%2582%25E9%2596%2593%25E7%2594%25A8%25E5%25B9%25B3%25E6%259D%25BF%25E9%259B%25BB%25E8%2585%25A6%2B%25E6%2598%2593%25E7%259C%25BC%25E9%2581%258E%25E5%258B%259E/sec_id/19/subsec_id/177600/app_name/twapple_sub','Forward','toolbar=no,width=470,height=320,directories=no,status=no,scrollbars=no,resize=no,menubar=no')" title="轉寄" target="_self">轉寄(12)</a></li>
+           <li onClick="window.open('/subapple/quote/art_id/33953601/IssueID/20120112/Title/%25E9%2595%25B7%25E6%2599%2582%25E9%2596%2593%25E7%2594%25A8%25E5%25B9%25B3%25E6%259D%25BF%25E9%259B%25BB%25E8%2585%25A6%2B%25E6%2598%2593%25E7%259C%25BC%25E9%2581%258E%25E5%258B%259E/sec_id/19/subsec_id/177600/app_name/twapple_sub','Forward','toolbar=no,width=650,height=450,directories=no,status=no,scrollbars=no,resize=no,menubar=no')"><a href="#" class="function_icon quote" title="引用" target="_self">引用(2)</a></li>
+         </ul>
+         </div>
+         <div class="fontbox">
+					  <ul>
+					    <li><a href="javascript:doZoom(14)" mce_href="javascript:doZoom(14)" title="最小字型" class="smaller overcooked">最小字型</a></li>
+					    <li><a href="javascript:doZoom(16)" mce_href="javascript:doZoom(16)" title="預設" class="middle overcooked">預設</a></li>
+					    <li><a href="javascript:doZoom(20)" mce_href="javascript:doZoom(20)" title="最大字型" class="bigger overcooked">最大字型</a></li>              
+					  </ul>
+         </div>             
+         <div class="sharebox">
+         <ul>
+           <li><a href="javascript:void(window.open('http://www.plurk.com/?qualifier=shares&amp;status='.concat(encodeURIComponent('http://tw.nextmedia.com/subapple/article/art_id/33953601/IssueID/20120112')).concat(' ').concat('(').concat(encodeURIComponent(document.title)).concat(')')));" title="Plurk" class="plurk overcooked">Share with Plurk</a></li>
+           <li><a href="javascript:desc='';via='';if(document.referrer)via=document.referrer;if(typeof(_ref)!='undefined')via=_ref;if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://www.facebook.com/share.php?u='+encodeURIComponent('http://tw.nextmedia.com/subapple/article/art_id/33953601/IssueID/20120112')));" title="Facebook" class="facebook overcooked">Share with Facebook</a></li>
+           <li><a href="javascript:void(window.open('http://twitter.com/home/?status='.concat(encodeURIComponent(document.title)).concat(' ').concat(encodeURIComponent('http://tw.nextmedia.com/subapple/article/art_id/33953601/IssueID/20120112'))));" title="Twitter" class="twitter overcooked">Share with Twitter</a></li>
+         </ul>
+         </div>
+         </section>
+         
+         <article class="article_paragraph" id="zoom">           
+                     <h1 id="h1">長時間用平板電腦 易眼過勞</h1>
+            <h2 id="h2">保持30~45公分距離 控制使用時間</h2>
+			      <span class="info" id="info">
+              	<time>
+         	     	2012年 01月12日
+              	</time>
+              	<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ftw.nextmedia.com%2Fsubapple%2Farticle%2Fart_id%2F33953601%2FIssueID%2F20120112&amp;layout=button_count&amp;show_faces=true&amp;width=90&amp;action=like&amp;font&amp;colorscheme=light&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:20px;" allowTransparency="true"></iframe>
+              	<g:plusone size="medium" count="true"></g:plusone>
+            </span>     
+            <div class="article_paragraph_box" >
+            <span name="iclickAdBody_Start" id="iclickAdBody_Start"></span>
+            <p class="summary" id="summary">              
+              平板電腦與智慧型手機流行，因攜帶方便，許多人常隨時隨地使用，眼科醫師張朝凱提醒，電子螢幕由許多小光點組成，眼球聚焦上較費力，加上過於專注下，會使眨眼次數減少、淚液揮發更快，易導致眼睛痠澀、疲勞、視力退化、乾眼症等「眼過勞」現象，提醒控制用眼時間，每用眼50分鐘，可轉動眼球、熱敷雙眼等，預防及舒緩眼睛疲勞，另手持平板電腦或智慧型手機時，宜保持30~45公分距離，避免近距離觀看，加深眼睛疲勞。報導╱林明佳、張佩玉<BR>攝影╱施偉平　部分圖片╱資料照片<BR>                  <!--無圖有文字 -->
+                                    
+                    <div class="stepbox puretext fillup" id="stepbox puretext fillup0">
+										<article id="article_title0">
+                    	 	<h1 id="nopich0"></h1>
+												<p id="article_text0">眼科醫師張朝凱表示，許多人常使用平板電腦與智慧型手機，長期下來易導致眼睛痠澀、疲勞、視力模糊等，甚至有患者因痠澀感而淚流不止，或是出現嚴重的乾眼症狀，門診中又以年輕人居多。提醒若經過休息，眼睛痠澀、模糊、疲勞等不適症狀，仍然沒有改善，應盡速至眼科就醫，日常則可控制用眼時間不超過50分鐘、跟螢幕保持適當距離等來預防。<BR></p>
+										</article>
+										<span class="clearmen"></span>
+                    </div>       
+                     
+                  <!--無圖有文字 -->                               
+                                                  
+                                                          <!--單圖文字 -->
+                      <div class="stepbox normal fillup">                        
+                        <a href="http://twimg.edgesuite.net//images/twapple_sub/640pix/20120112/MN05/MN05_022.jpg" class="thickbox" title="">
+                        <img src="http://twimg.edgesuite.net/images/thumbnail/20120112/33953601_65ff83b209c40b95e29641823c4f150b_160x160.jpg"/>
+                        <span>點下放大</span></a>
+                        <article id="article_title1"><h1 id="onepich1">報你知 電腦視覺症候群</h1><p id="article_text1">
+                        若注視電子螢幕不超過2小時，眼睛就開始痠澀、疲勞、畏光等，偶爾會頭痛、視覺有雙影、短暫視力模糊、眼乾、對色彩較不敏銳等，可能有電腦視覺症候群，宜至眼科就醫，點肌肉鬆弛劑和人工淚液緩解。<BR></p></article>
+                        <span class="clearmen"></span>
+                      </div>
+                      <!--單圖文字 -->
+                                                                                                  
+                                                                        
+                                <!--無圖有文字 -->
+                                    
+                    <div class="stepbox puretext fillup" id="stepbox puretext fillup2">
+										<article id="article_title2">
+                    	 	<h1 id="nopich2">這樣做</h1>
+												<p id="article_text2"></p>
+										</article>
+										<span class="clearmen"></span>
+                    </div>       
+                     
+                  <!--無圖有文字 -->                               
+                                                  
+                                                          <!--單圖文字 -->
+                      <div class="stepbox normal fillup">                        
+                        <a href="http://twimg.edgesuite.net//images/twapple_sub/640pix/20120112/MN05/MN05_023.jpg" class="thickbox" title="">
+                        <img src="http://twimg.edgesuite.net/images/thumbnail/20120112/33953601_2bd02ecbc5d68d29d36c67fe3f0bd27d_160x160.jpg"/>
+                        <span>點下放大</span></a>
+                        <article id="article_title3"><h1 id="onepich3">勿跟螢幕靠太近</h1><p id="article_text3">
+                        用平板電腦或智慧型手機宜保持30~45公分距離，用桌上型電腦或筆電，應保持一隻手臂伸直距離，調整視線跟螢幕呈水平往下15~30度。<BR></p></article>
+                        <span class="clearmen"></span>
+                      </div>
+                      <!--單圖文字 -->
+                                                                                                  
+                                                                        
+                                                          <!--單圖文字 -->
+                      <div class="stepbox normal fillup">                        
+                        <a href="http://twimg.edgesuite.net//images/twapple_sub/640pix/20120112/MN05/MN05_024.jpg" class="thickbox" title="">
+                        <img src="http://twimg.edgesuite.net/images/thumbnail/20120112/33953601_de8dbc642be03bc7956bc235e7768a69_160x160.jpg"/>
+                        <span>點下放大</span></a>
+                        <article id="article_title4"><h1 id="onepich4">看近減鏡片度數</h1><p id="article_text4">
+                        看近時眼睛聚焦、瞳孔縮小，眼睛肌肉較用力，常近距離用眼，又戴眼鏡或隱形眼鏡者，可將度數降低50~75度，讓眼球聚焦較清楚、較不費力。<BR></p></article>
+                        <span class="clearmen"></span>
+                      </div>
+                      <!--單圖文字 -->
+                                                                                                  
+                                                                        
+                                                          <!--單圖文字 -->
+                      <div class="stepbox normal fillup">                        
+                        <a href="http://twimg.edgesuite.net//images/twapple_sub/640pix/20120112/MN05/MN05_025.jpg" class="thickbox" title="">
+                        <img src="http://twimg.edgesuite.net/images/thumbnail/20120112/33953601_832f412b1883420b5651036b0ac60b40_160x160.jpg"/>
+                        <span>點下放大</span></a>
+                        <article id="article_title5"><h1 id="onepich5">光線明亮不壓迫</h1><p id="article_text5">
+                        光線太暗看東西費力，太亮、眩光易有壓迫感，應以看得清晰、眼睛舒服為主；空調環境放杯有蒸氣的溫熱水，提高空氣濕度、避免淚液蒸發過快。<BR></p></article>
+                        <span class="clearmen"></span>
+                      </div>
+                      <!--單圖文字 -->
+                                                                                                  
+                                                                        
+                                                          <!--單圖文字 -->
+                      <div class="stepbox normal fillup">                        
+                        <a href="http://twimg.edgesuite.net//images/twapple_sub/640pix/20120112/MN05/MN05_026.jpg" class="thickbox" title="">
+                        <img src="http://twimg.edgesuite.net/images/thumbnail/20120112/33953601_b0587ee5aeab2041c7ad4a764bd2cc09_160x160.jpg"/>
+                        <span>點下放大</span></a>
+                        <article id="article_title6"><h1 id="onepich6">休息時眺望遠方</h1><p id="article_text6">
+                        用眼50分鐘休息5~10分鐘，閉目並用溫熱毛巾熱敷雙眼5~10分鐘，或眺望遠方，幫助眼睛肌肉放鬆，眼球多做上下左右轉動，不要只盯前方看。<BR></p></article>
+                        <span class="clearmen"></span>
+                      </div>
+                      <!--單圖文字 -->
+                                                                                                  
+                                                                        
+                                                          <!--單圖文字 -->
+                      <div class="stepbox normal fillup">                        
+                        <a href="http://twimg.edgesuite.net//images/twapple_sub/640pix/20120112/MN05/MN05_027.jpg" class="thickbox" title="">
+                        <img src="http://twimg.edgesuite.net/images/thumbnail/20120112/33953601_fae76ae128bf8ada1d78a796495b45f0_160x160.jpg"/>
+                        <span>點下放大</span></a>
+                        <article id="article_title7"><h1 id="onepich7">選低輻射量電腦</h1><p id="article_text7">
+                        選低輻射電腦，如平板電腦、液晶螢幕較不傷眼，傳統映像管螢幕，可加層隔離輻射的螢幕護目鏡；許多人用有清涼感的洗眼液，舒緩眼睛乾澀與疲勞感，若使用後痠澀、視力模糊宜就醫。<BR></p></article>
+                        <span class="clearmen"></span>
+                      </div>
+                      <!--單圖文字 -->
+                                                                                                  
+                                                                        
+                                                          <!--單圖文字 -->
+                      <div class="stepbox normal fillup">                        
+                        <a href="http://twimg.edgesuite.net//images/twapple_sub/640pix/20120112/MN05/MN05_028.jpg" class="thickbox" title="">
+                        <img src="http://twimg.edgesuite.net/images/thumbnail/20120112/33953601_36bfa347423dbcbbc63c15ecc5737b9a_160x160.jpg"/>
+                        <span>點下放大</span></a>
+                        <article id="article_title8"><h1 id="onepich8">症狀沒緩解就醫</h1><p id="article_text8">
+                        若眼睛痠澀、疲勞、看不清楚，經休息、熱敷等，症狀仍沒改善，最好盡速至眼科就醫，檢查是否為單純眼睛疲勞或病理性因素引起。<BR></p></article>
+                        <span class="clearmen"></span>
+                      </div>
+                      <!--單圖文字 -->
+                                                                                                  
+                                                                        
+                                                          <!--單圖文字 -->
+                      <div class="stepbox normal fillup">                        
+                        <a href="http://twimg.edgesuite.net//images/twapple_sub/640pix/20120112/MN05/MN05_029.jpg" class="thickbox" title="">
+                        <img src="http://twimg.edgesuite.net/images/thumbnail/20120112/33953601_7d0d9a5519b32c1209ea2399217d16c5_160x160.jpg"/>
+                        <span>點下放大</span></a>
+                        <article id="article_title9"><h1 id="onepich9">醫師說 多攝取護眼食物</h1><p id="article_text9">
+                        眼科醫師 張朝凱<BR>日常可多攝取富含葉黃素、維生素A、C、E和花青素的食物，推薦如玉米、紅蘿蔔、枸杞、黑芝麻、甜椒、花椰菜、藍莓、綠花椰菜、菠菜及鮭魚等，有助預防眼睛黃斑部退化、維護視覺神經。<BR></p></article>
+                        <span class="clearmen"></span>
+                      </div>
+                      <!--單圖文字 -->
+                                                                                                  
+                                                                        
+                                <!--無圖有文字 -->
+                                    
+                    <div class="stepbox puretext fillup" id="stepbox puretext fillup10">
+										<article id="article_title10">
+                    	 	<h1 id="nopich10"></h1>
+												<p id="article_text10">模特兒╱黃丞妮(小羅家族)<BR></p>
+										</article>
+										<span class="clearmen"></span>
+                    </div>       
+                     
+                  <!--無圖有文字 -->                               
+                                                  
+                                           
+            </p>
+            <span name="iclickAdBody_End" id="iclickAdBody_End"></span>        
+										                </div>    
+                <div class="fb_like_box news">
+									<a href="http://www.facebook.com/NextMedia.TW" target="_blank">Facebook</a>
+									<iframe src="http://www.facebook.com/plugins/like.php?app_id=133697773378738&amp;href=http%3A%2F%2Fwww.facebook.com%2FNextMedia.TW&amp;send=false&amp;layout=button_count&amp;width=91&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:91px; height:21px;" allowTransparency="true"></iframe>
+  									<p>←讚一個！《蘋果》粉絲團24小時陪你看新聞！</p>
+								</div>
+  						 										         
+          </article>
+    			<section class="sfad">
+    			  <script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "a11_express");</script>
+    			  <script type="text/javascript">GA_googleFetchAds();</script>
+    			  <script type="text/javascript">GA_googleFillSlot("a11_express");</script>
+    			</section>
+    			<div class="adGoogleAFC2">
+                            <script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad04");</script>
+                            <script type="text/javascript">GA_googleFetchAds();</script>
+                            <script type="text/javascript">GA_googleFillSlot("a11_ad04");</script>
+            </div>
+          <section class="bottom_toolbar">
+            <div class="sharebox fillup">
+             <ul>
+              <li><a href="javascript:void(window.open('http://www.plurk.com/?qualifier=shares&amp;status='.concat(encodeURIComponent('http://tw.nextmedia.com/subapple/article/art_id/33953601/IssueID/20120112')).concat(' ').concat('(').concat(encodeURIComponent(document.title)).concat(')')));" title="Plurk" class="plurk overcooked">Share with Plurk</a></li>
+              <li><a href="javascript:desc='';via='';if(document.referrer)via=document.referrer;if(typeof(_ref)!='undefined')via=_ref;if(window.getSelection)desc=window.getSelection();if(document.getSelection)desc=document.getSelection();if(document.selection)desc=document.selection.createRange().text;void(open('http://www.facebook.com/share.php?u='+encodeURIComponent('http://tw.nextmedia.com/subapple/article/art_id/33953601/IssueID/20120112')));" title="Facebook" class="facebook overcooked">Share with Facebook</a></li>
+              <li><a href="javascript:void(window.open('http://twitter.com/home/?status='.concat(encodeURIComponent(document.title)).concat(' ').concat(encodeURIComponent('http://tw.nextmedia.com/subapple/article/art_id/33953601/IssueID/20120112'))));" title="Twitter" class="twitter overcooked">Share with Twitter</a></li>
+             </ul>
+            </div>                                
+           </section>              
+           <!-- 延伸閱讀模組 -->
+           <!--googleoff: all-->
+                      <!--googleon: all-->
+           <!-- 延伸閱讀模組 -->      
+
+       </div>
+				<!-- FB Comments -->
+					<div id="fb-root"></div><script src="http://connect.facebook.net/zh_TW/all.js#xfbml=1"></script><fb:comments href="http://tw.nextmedia.com/subapple/article/art_id/33953601/IssueID/20120112" num_posts="3" width="550px"></fb:comments>						
+				<!-- FB Comments -->
+      </section>
+      </div>                        
+       <!--article頁右側-->
+       <!--googleoff: all-->
+        <aside class="page_side">
+	<!-- 相關新聞模組 -->
+<!--googleoff: all-->
+  <div class="relt_news_list_block"></div>
+      			<!-- 歷史文章 -->
+			<section class="sideblock old_artis_list_block">
+      <h1 class="old_artis_list_block_title overcooked">歷史文章</h1>
+			<div class="sqzer">
+				<ul>
+					<li><a href="/subapple/article/art_id/33953622/IssueID/20120112" title="濕冷天頻穿靴 香港腳增2成"><span class="news_text">濕冷天頻穿靴 香港腳增2成</span></a></li><li><a href="/subapple/article/art_id/33950868/IssueID/20120111" title="忽略飯後刷牙 近9成小學生蛀牙"><span class="news_text">忽略飯後刷牙 近9成小學生蛀牙</span></a></li><li><a href="/subapple/article/art_id/33950842/IssueID/20120111" title="冬天進補 痛風患者增2成"><span class="news_text">冬天進補 痛風患者增2成</span></a></li><li><a href="/subapple/article/art_id/33948238/IssueID/20120110" title="狂嗑高油脂甜食 冬易暴肥"><span class="news_text">狂嗑高油脂甜食 冬易暴肥</span></a></li><li><a href="/subapple/article/art_id/33948261/IssueID/20120110" title="高度用眼族 多攝取葉黃素"><span class="news_text">高度用眼族 多攝取葉黃素</span></a></li>				</ul>
+			</div>
+			</section>
+			<!-- 歷史文章 -->
+		<!--googleon: all-->
+				<div class="google_ad_side_block">
+					<script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad03");</script>
+					<script type="text/javascript">GA_googleFetchAds();</script>
+					<script type="text/javascript">GA_googleFillSlot("a11_ad03");</script>
+				</div>
+
+<!-- 相關新聞模組 -->
+</aside>        <!--googleon: all-->
+       <!--article頁右側-->   
+     </div>
+     </section>
+        <!-- 新聞上下則模組 -->
+        <!--googleoff: all-->
+        <div class="page_switcher">        
+        <a  class='page_switcher_btn switch_prev' href='/subapple/article/art_id/33953628/IssueID/20120112' title='南投信義 樂賞梅花' ><span class='preview'>南投信義 樂賞梅花</span></a><a  class='page_switcher_btn switch_next' href='/subapple/article/art_id/33953622/IssueID/20120112' title='濕冷天頻穿靴 香港腳增2成' ><span class='next'>濕冷天頻穿靴 香港腳增2成</span></a>    
+       </div>
+       <!--googleon: all-->
+       <!-- 新聞上下則模組 --> 
+    <!-- 新聞討論區塊 -->  
+    <!--googleoff: all-->
+    <section class="userchatblock">
+        <div class="instructionbox"><p class="instruction">想將你對這篇文章的發言分享給好友嗎？只要點選社群網站標誌，並依指示登入該社群網站，當標誌顯示為已點選，就代表你在《蘋果》發言可以同步放送到多個社群中了！</p>
+								<script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad05");</script>
+				<script type="text/javascript">GA_googleFetchAds();</script>
+				<script type="text/javascript">GA_googleFillSlot("a11_ad05");</script>
+        </div>
+        <h1 class="vanisher">新聞討論</h1>
+        <div class="chatform">
+        <div class="sqzer">       
+          <form action="/other/postforum/" method="POST" name="postforum" id="postforum"><fieldset>
+            <input type="hidden" name="artid" id="artid" value="33953601">
+            <input type="hidden" name="issueid" id="issueid" value="20120112">
+            <input type="hidden" name="strApp_name" id="strApp_name" value="twapple_sub">
+						<input type="hidden" name="sec_id" id="sec_id" value="19">
+						<input type="hidden" name="subsec_id" id="subsec_id" value="177600">
+						<input type="hidden" name="id_addr" id="id_addr" value="193.55.130.208">
+            <legend>發表文章</legend>
+            <div class="level colum_name fillup"><label for="name" class="overcooked">姓名</label><input type="text" id="post_username" name="post_username" class="textbox" maxlength="15" /><span>必填</span></div>
+				<div class="level colum_textarea fillup"><textarea class="" id="post_text" name="post_text"></textarea></div>
+				<div class="level colum_send_btn fillup">
+					<p>
+					<font color="#0082d1" size="2"><b>新聞討論規範</b></font><br>
+					<font color="#003399">
+					【1】留言限140字以內。留言將於發送留言72小時後，由系統自動刪除<br>
+					【2】與蘋果日報報導內容無關、涉及人身攻擊言論、張貼廣告與涉及交易訊息、重複張貼，一律刪除。<br>
+					【3】請勿留下個人隱私資料，以免遭人盜用，蘋果日報將不負管理之責。<br>
+					【4】網友應謹慎發言，遵守中華民國法律相關規定，違者自負法律責任。<br>
+					【5】涉及誹謗、侮辱、具威脅攻擊性、猥褻、違反公序良俗的文字、圖片及任
+					    何形式檔案，蘋果日報有權逕自<br>
+					    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刪除。若因前述行為導致他人檢舉、投訴或相關主管機關調查，本論壇將配合主管機關處理。<br>
+					【6】參與本論壇討論新聞之網友，視為同意本論壇管理者得隨時對論壇內所有內容、留言等進行刪除動作，<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;或因應版面重新設計而移動整個論壇位置、調整論壇功能。<br>
+					【7】敬請網友遵守以上原則，不同意者，請勿在此發表言論。
+					</font></p>
+					<button id="forumpostbtn" type="button" onclick="javascipt:post_show('article');" class="chatbox_send_btn overcooked">發佈</button>
+				</div>
+    			</fieldset></form>
+        </div>
+        </div>
+        <div id="forum_list">
+  							</div>
+      </section> 
+      <!--googleon: all-->
+      <!-- 新聞討論區塊 -->
+      </article>      
+      <script type="text/javascript" src="/images/js/comscore.js"></script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6921479&cv=2.0&cj=1" /></noscript>
+<!--googleoff: all-->
+	<nav id="site_nav">
+		<h2 class="vanisher">網站目錄</h2>
+		<ul>
+			<li class="bigger first"><a href="/" title="前往新聞" class="navbtn news overcooked">新聞</a><a href="#" title="新聞" class="drop_btn overcooked"><span>新聞</span></a>
+				<ul class="submenu">
+					<li class="first"><a href="/applenews/sec/sec_id/5">頭條要聞</a></li>
+					<li><a href="/applenews/sec/sec_id/9">娛樂新聞</a></li>
+					<li><a href="/applenews/sec/sec_id/8">財經新聞</a></li>
+					<li><a href="/applenews/sec/sec_id/7">國際新聞</a></li>
+					<li><a href="/applenews/sec/sec_id/10">體育新聞</a></li>
+					<li><a href="/applenews/sec/sec_id/3351930">房市地產</a></li>
+					<li><a href="/applenews/sec/sec_id/sub">蘋果副刊</a></li>
+					<li class="last"><a href="/applenews/sec/sec_id/col">論壇與專欄</a></li>
+				</ul>
+			</li>
+			<li class="normal second"><a href="/animation/" title="動新聞" class="navbtn motion_news overcooked"><span>動新聞</span></a></li>
+			<li class="normal"><a href="/realtimenews/index/type/apple" title="即時新聞" class="navbtn instnews overcooked"><span>即時新聞</span></a></li>
+			<li class="normal"><a href="/applenews/todayapple/" title="今日總覽" class="navbtn today_news overcooked"><span>今日總覽</span></a></li>
+			<li class="bigger gp"><a href="#" title="購物" class="navbtn groupon overcooked"><span>購物</span></a><a href="#" title="新聞" class="drop_btn overcooked"><span>新聞</span></a>
+				<ul class="submenu">
+					<li class="first">
+						<script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "buy_ad01");</script>
+						<script type="text/javascript">GA_googleFetchAds();</script>
+						<script type="text/javascript">GA_googleFillSlot("buy_ad01");</script>
+					</li>
+                      <li>
+                          <script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "buy_ad02");</script>
+                          <script type="text/javascript">GA_googleFetchAds();</script>
+                          <script type="text/javascript">GA_googleFillSlot("buy_ad02");</script>
+                      </li>
+                      <li class="last">
+                          <script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "buy_ad03");</script>
+                          <script type="text/javascript">GA_googleFetchAds();</script>
+                          <script type="text/javascript">GA_googleFillSlot("buy_ad03");</script>
+                      </li>
+				</ul>
+			</li>
+			<li class="normal">
+							<a href="/applenews/todayapple/type/old" title="新聞總覽" class="navbtn allnews overcooked"><span>新聞總覽</span></a>
+						</li>
+			<li class="normal"><a href="/charity/index/" title="蘋果基金會" class="navbtn charity overcooked"><span>蘋果基金會</span></a></li>
+			<li class="normal"><a href="http://tw.nextmedia.com/pinsite.htm" title="釘閱蘋果" class="navbtn pa overcooked" target="_blank"><span>釘閱蘋果</span></a></li>
+		</ul>
+		<hr />
+	</nav>
+	<!--googleon: all-->	
+	<script type="text/javascript">
+		var submenu_is_on = false;
+		$(document).ready(function(){
+			$("#site_nav li.bigger >a.drop_btn").toggle(function(){
+				$("nav ul li .submenu:visible").hide();
+				$(this).parent().children("ul").show();
+				$(this).parent().children("div").show();
+				submenu_is_on = true;
+			},
+			function(){
+				$("nav ul li .submenu:visible").hide();
+				submenu_is_on = false;	
+			})
+			$("body").mouseup(function(){
+				if(submenu_is_on){
+					$("nav ul li .submenu:visible").hide();
+					submenu_is_on = false;
+				}
+			});	
+		});
+		
+	</script>
+	<!--googleoff: all-->
+	<footer id="footer">
+	    <div class="footer_sqz">
+	    	<section class="site_functions fillup">
+	    		<h1>網站功能</h1>
+	    		<ul class="fillup">
+	    			<li class="dailyword"><a href="/applenews/dailyword/" title="每日一句" class="phrase"><span data-tooltip="每天一句好話"></span>每日一句</a></li>
+	    			<li class="lottery"><a href="/practical/lottery" title="樂透發票" class="phrase"><span data-tooltip="看看你手氣"></span>樂透發票</a></li>
+	    			<li class="prize"><a href="/applenews/prize" title="中獎名單" class="phrase"><span data-tooltip="蘋果送大獎！">中獎名單</span></a></li>
+	    			<li class="english"><a href="#" title="線上美語" class="phrase" onclick="JavaScript:window.open('/practical/learning/','','width=650,height=495')"><span data-tooltip="學習英文"></span>線上美語</a></li>
+	    			<li class="weather"><a href="/applenews/weather" title="天氣" class="phrase"><span data-tooltip="今天一周天氣預報"></span>天氣</a></li>
+	    			<li class="report"><a href="/applenews/report/" title="爆料投訴" class="phrase"><span data-tooltip="爆料給蘋果"></span>爆料投訴</a></li>
+	    		</ul>
+	    	</section>
+	    	<section class="about_nextmedia_links">
+	    		<h1>企業相關連結</h1>
+	    		<a href="#" class="next_media overcooked">NextMedia</a>
+	    		<ul>
+					<li class="first"><a href="/index/about">了解蘋果日報</a></li>
+					<li><a href="/index/animcompany">關於動新聞</a></li>
+					<li><a href="/ratecard">廣告刊登</a></li>
+					<li><a href="/index/contactus">聯絡我們</a></li>
+					<li><a href="/index/faq">常見問題</a></li>
+					<li><a href="/applenews/sitemap">網站導覽</a></li>
+					<li><a href="/index/community">行動與社群</a></li>
+					<li><a href="/index/termofuse">使用條款</a></li>
+					<li><a href="/index/authoproc">授權申請程序</a></li>
+	    		</ul>
+	    	</section>
+	    	<section class="copyrights">
+	    		<h1>版權宣告</h1>
+	    		<p>&copy;&nbsp;2012&nbsp;Next Media Interactive Limited. All rights reserved. 版權所有 不得轉載&nbsp;&nbsp;<a href="/index/privacy">隱私權說明</a>&nbsp;&nbsp;<a href="/index/terms">免責與分級</a></p>
+	    	</section>
+	    </div>
+	</footer>
+<!--googleon: all-->
+      <script type='text/javascript'>
+      function setURLCookie(key, value, expire, domain, path)
+      {
+        var ck=key +'='+ encodeURIComponent(value);
+        if( expire )
+        {
+          var epr=new Date();
+          epr.setTime(epr.getTime()+ expire*1000 );
+          ck+=';expires='+ epr.toUTCString();
+        }
+        if( domain )
+          ck+=';domain='+ domain;
+        if( path )
+          ck+=';path='+ path;
+        document.cookie=ck;
+      }
+      </script>
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2067247-40");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script type="text/javascript">GA_googleAddSlot("ca-pub-8741958826494361", "a11_adtest");</script>
+<script type="text/javascript">GA_googleFetchAds();</script>
+<script type="text/javascript">GA_googleFillSlot("a11_adtest");</script>
+
+<!-- 相關新聞區塊 -->      <img src="/other/webpv/artid/33953601/psecid/19/secid/177600/issueid/20120112/appname/twapple_sub" width="0" height="0">
+          </div>
+  </div>
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<script type="text/javascript" src="/core/js/iepngfix.js"></script>
+	<script language="javascript" type="text/javascript" > 
+		bust = Math.floor(1000000*Math.random()); 
+		document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://js2.dotmore.com.tw/verify.aspx?w=25&charset=utf-8&ord='+bust+'?">'); 
+		document.write('</'+'SCRIPT>'); 
+	</script>
+	<script type="text/javascript" src="/images/js/jScrollPane.js"></script>
+	<script type="text/javascript">
+		$(function(){
+		    $('#pic_frame').onload;
+		    $('#pane1').jScrollPane({showArrows:true});
+		    }
+		);
+	</script>
+</body>
+</html>

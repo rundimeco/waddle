@@ -1,0 +1,2752 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Glenfiddich Whisky for Oldest Scot Sells at Auction for $72,630 - Bloomberg</title>
+<meta name="description" content="A bottle of Glenfiddich malt whisky produced to honor the oldest living Scot sold at auction today in Edinburgh for 46,850 pounds ($72,632), a European record." />
+<meta property="og:title" content="Glenfiddich Whisky for Oldest Scot Sells at Auction for $72,630"/>
+<meta property="og:site_name" content="Bloomberg"/>
+<meta property="fb:admins" content="1502271052,1617206,500566238,616620419,18776,1396618572,501161086,100001111898866,1223836"/>
+
+        <meta name="category" content="Art News, Dining, Auctions" />
+        <meta property="og:type" content="article"/>
+    <meta property="og:url" content="http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html"/>
+                            <meta property="og:image" content="http://www.bloomberg.com/image/iJY6Lz0LjKoM.jpg"/>
+        
+    <link rel="canonical" href="http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html"/>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+            <link href="http://cdn.gotraffic.net/v/20111213_150318/stylesheets/main-min-v2_1.css" media="all" rel="stylesheet" type="text/css" />        <link href="http://cdn.gotraffic.net/v/20111213_150318/stylesheets/main-min-v2_2.css" media="all" rel="stylesheet" type="text/css" />                <link href="http://cdn.gotraffic.net/r/v/20111130_091545/stylesheets/breg-min.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="http://cdn.gotraffic.net/q/v/20111201_180747/stylesheets/q-min.css" media="screen" rel="stylesheet" type="text/css" />
+<!--[if IE 6]>
+                  <link href="http://cdn.gotraffic.net/v/20111213_150318/stylesheets/ie6-all-v2-min.css" media="all" rel="stylesheet" type="text/css" />                <![endif]-->
+<!--[if lt IE 8]>
+                  <link href="http://cdn.gotraffic.net/v/20111213_150318/stylesheets/blocks_ltie8-min.css" media="all" rel="stylesheet" type="text/css" />                <![endif]-->
+  
+  <script src="/rapi/ads/js_config.js" type="text/javascript"></script>
+        
+          <script src="http://cdn.gotraffic.net/v/20111213_150318/javascripts/main_f-min-v2.js" type="text/javascript"></script>          <script type="text/javascript">
+//<![CDATA[
+    var reg_enabled = true || (BLOOMBERG.util.Cookie.get('reg_enabled') == 'true');
+    var q_enabled = true || (BLOOMBERG.util.Cookie.get('q_enabled') == 'true');
+  
+//]]>
+</script>  <script type="text/javascript">
+              </script>
+
+    <script type="text/javascript">
+
+        //For omniture
+        Description = "blp.news/muse/auctions/story";
+        // Setup for surround session
+        var adid="";
+        var surroundTagVal = "";
+        var surroundTag=BLOOMBERG.util.Cookie.get("surroundId"); // Get surround session id from the cookie
+        if(surroundTag == "undefined" || surroundTag == null || surroundTag == ""){ // check if there was a surround session id in the cookie
+            surroundTag="";
+        }else{
+            surroundTagVal="srnd="+surroundTag+";"; // finish setting up the key-value for the ad tags
+        }
+
+        if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+
+        //Market status
+        if (typeof gblvlty == "undefined"){ var gblvlty = 0; }
+        market_status_val = "status=marketstatus" + gblvlty;
+        HCat = "";
+
+        //Setting topic value for topic pages(Lingospot)
+        var topic_referrer = BLOOMBERG.referrer.topic_referrer();
+        if(topic_referrer != null && topic_referrer != ""){
+            topic_refer_key = "topic=" + topic_referrer + ";";
+            topic_refer_name = "blp.news/topic/" + topic_referrer;
+        }else{
+            topic_refer_key = "";
+            topic_refer_name = "blp.news/topic;";
+        }
+
+        sponsor_key = "";
+        var sponsor = BLOOMBERG.referrer.sponsor_referrer();
+        if(sponsor != null && sponsor != ""){
+            sponsor_key = "sponsor=" + sponsor + ";";
+        }
+        var ticker_key = ''
+        
+
+        //Page URL to pass url to ad call
+        var page_url = window.location.pathname;
+        //Getting sumdomain for test site
+        var host_name_list = window.location.hostname.split('.');
+        var sub_domain_name= host_name_list[0];
+
+        <!-- AUDIENCESCIENCE AD TAG CODE -->
+        <!--
+        var rsi_segs = [];
+        var segs_beg=document.cookie.indexOf('rsi_segs=');
+        if (segs_beg>=0){
+            segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+            if(segs_beg>0){
+                var segs_end=document.cookie.indexOf(';',segs_beg);
+                if(segs_end==-1) segs_end=document.cookie.length;
+                rsi_segs=document.cookie.substring(segs_beg,segs_end)
+                        .split('|');
+            }
+        }
+        var segLen=20;
+        var segQS="";
+        if (rsi_segs.length<segLen){segLen=rsi_segs.length}
+        for (var i=0;i<segLen;i++){
+            segQS+=("rsi"+"="+rsi_segs[i].substring(7, rsi_segs[i].length)+";")
+        }
+        //-->
+        <!-- END AUDIENCESCIENCE AD TAG CODE -->
+
+        HCat = HCat + segQS + topic_refer_key + sponsor_key + ticker_key; //Value to be passed to the ad call
+        var no_dfp_interstitial = "false",
+            bbg_show_int = false;
+                    </script>
+
+
+        <script src="http://cdn.gotraffic.net/v/20111213_150318/javascripts/jquery-ui-1.2.5.overlay.min.js" type="text/javascript"></script>
+    <script type='text/javascript'>
+        var story_id = 'LW70H66TTDSA01';
+        story_ni_code = 'ALLTOP&EURTOP&FIN&GENTOP&PW&TOP&UKTOP&WWTOP&MUSETOP&';
+        var story_author_name = 'Rodney Jefferson';
+        var story_pub_time = '2011-12-14 07:07:17 -0500';
+        
+        groupid = "LW70H66TTDSA01";
+        related_items = "LW7PWM0UQVI901-LW6JHV0UQVI901-LW7BEC1A1I4L01-LW5J2E1A1I4I01";
+        contentType = "story";
+        story_ni_code_dfp = story_ni_code;
+        if (story_ni_code_dfp != ""){
+        if (story_ni_code_dfp[story_ni_code_dfp.length-1] == '&') {
+            story_ni_code_dfp = story_ni_code_dfp.slice(0, story_ni_code_dfp.length-1);
+        }
+        story_ni_code_dfp = story_ni_code_dfp.replace(/&/g,";ni=");
+        story_ni_code_dfp = ";ni=" + story_ni_code_dfp;
+        }
+        var story_research_reco_link = "http://recommendations.bloomberg.com/?story_id=LW70H66TTDSA01&limit=4";
+    </script>
+    <script src="http://cdn.gotraffic.net/v/20111213_150318/javascripts/stories_reco_test.js" type="text/javascript"></script>                                <script type="text/javascript">
+//<![CDATA[
+                      $(window).bind("load", function() {
+                      $.getScript('http://platform.linkedin.com/in.js',function(){});
+                      });
+                  
+//]]>
+</script>                  <!--<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>-->
+                                                <script type="text/javascript">
+//<![CDATA[
+                  $(window).bind("load", function() {
+                  $.getScript('https://apis.google.com/js/plusone.js',function(){
+                                          BLOOMBERG.storyutil.CLONESTORYTOOL.clone_google_plusone();
+                                      });
+                  });
+              
+//]]>
+</script>              <!--<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>-->
+                   
+  <script type="text/javascript">
+//<![CDATA[
+    BLOOMBERG.mobile.register_mobile_link();
+  
+//]]>
+</script>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+</head>
+<body class="story view_story nsn_special_handler news auctions dining art muse">
+    <div id="container" class="module">
+            
+
+    <div class="header_top_unit">
+        
+            <div id="market_snapshot_simple" class="base_container clearfix">
+    <div id="market_snapshot_container">
+      <div id="market_snapshot_table" class="filtered_index tabular_data us">
+        <div class="header">
+          <strong><a href="/markets/stocks/">Market Snapshot</a></strong>
+          <ul class="tabs clearfix">
+            <li class="us first">U.S.</li>
+            <li class="europe">Europe</li>
+            <li class="asia last">Asia</li>
+          </ul>
+        </div>
+        
+           <div class="ticker_groups" id="market_snap_us">
+              <table cellspacing="0" cellpadding="0" border="0" class="ticker_snapshot">
+                <tbody>
+                <tr class="heading">
+                  <th>Ticker</th>
+                  <th>Volume</th>
+                  <th>Price</th>
+                  <th>Price Delta</th>
+                </tr>
+                
+                <tr class=" first">
+                  <td class="bsym_ticker"><a href="/apps/quote?ticker=INDU:IND">Dow</a></td>
+                  <td class="price">11,879.90</td>
+                                    <td class="change delta value_up">+56.38</td>
+                  <td class="delta delta value_up">0.48%</td>
+                </tr>
+                
+                <tr class="">
+                  <td class="bsym_ticker"><a href="/apps/quote?ticker=SPX:IND">S&P 500</a></td>
+                  <td class="price">1,219.81</td>
+                                    <td class="change delta value_up">+7.99</td>
+                  <td class="delta delta value_up">0.66%</td>
+                </tr>
+                
+                <tr class=" last">
+                  <td class="bsym_ticker"><a href="/apps/quote?ticker=CCMP:IND">Nasdaq</a></td>
+                  <td class="price">2,541.92</td>
+                                    <td class="change delta value_up">+2.61</td>
+                  <td class="delta delta value_up">0.10%</td>
+                </tr>
+                
+                </tbody>
+              </table>
+           </div>
+        
+           <div class="ticker_groups" id="market_snap_europe">
+              <table cellspacing="0" cellpadding="0" border="0" class="ticker_snapshot">
+                <tbody>
+                <tr class="heading">
+                  <th>Ticker</th>
+                  <th>Volume</th>
+                  <th>Price</th>
+                  <th>Price Delta</th>
+                </tr>
+                
+                <tr class=" first">
+                  <td class="bsym_ticker"><a href="/apps/quote?ticker=SX5E:IND">STOXX 50</a></td>
+                  <td class="price">2,224.89</td>
+                                    <td class="change delta value_up">+18.98</td>
+                  <td class="delta delta value_up">0.86%</td>
+                </tr>
+                
+                <tr class="">
+                  <td class="bsym_ticker"><a href="/apps/quote?ticker=UKX:IND">FTSE 100</a></td>
+                  <td class="price">5,400.85</td>
+                                    <td class="change delta value_up">+34.05</td>
+                  <td class="delta delta value_up">0.63%</td>
+                </tr>
+                
+                <tr class=" last">
+                  <td class="bsym_ticker"><a href="/apps/quote?ticker=DAX:IND">DAX </a></td>
+                  <td class="price">5,730.62</td>
+                                    <td class="change delta value_up">+55.48</td>
+                  <td class="delta delta value_up">0.98%</td>
+                </tr>
+                
+                </tbody>
+              </table>
+           </div>
+        
+           <div class="ticker_groups" id="market_snap_asia">
+              <table cellspacing="0" cellpadding="0" border="0" class="ticker_snapshot">
+                <tbody>
+                <tr class="heading">
+                  <th>Ticker</th>
+                  <th>Volume</th>
+                  <th>Price</th>
+                  <th>Price Delta</th>
+                </tr>
+                
+                <tr class=" first">
+                  <td class="bsym_ticker"><a href="/apps/quote?ticker=NKY:IND">Nikkei</a></td>
+                  <td class="price">8,377.37</td>
+                                    <td class="change delta value_down">-141.76</td>
+                  <td class="delta delta value_down">-1.66%</td>
+                </tr>
+                
+                <tr class="">
+                  <td class="bsym_ticker"><a href="/apps/quote?ticker=TPX:IND">TOPIX </a></td>
+                  <td class="price">725.02</td>
+                                    <td class="change delta value_down">-11.96</td>
+                  <td class="delta delta value_down">-1.62%</td>
+                </tr>
+                
+                <tr class=" last">
+                  <td class="bsym_ticker"><a href="/apps/quote?ticker=HSI:IND">Hang Seng</a></td>
+                  <td class="price">18,026.80</td>
+                                    <td class="change delta value_down">-327.59</td>
+                  <td class="delta delta value_down">-1.78%</td>
+                </tr>
+                
+                </tbody>
+              </table>
+           </div>
+        
+      </div>
+    </div>
+                    <div id="leader_board">
+                
+
+    
+    <div class="dfp_ad_box">
+             
+<script xmlns:webad="http://www.bloomberg.com/webad" xmlns:wn="http://www.bloomberg.com/bloomberg-web-news" xmlns:nav="http://www.bloomberg.com/navigation" type="text/javascript">
+     adType = "DART";
+     Keys = "blp.news/muse/auctions/story";
+     dcop_val = "";
+     if (typeof surroundTag == "undefined" || surroundTag == "null") surroundTag = "";
+     if (surroundTagVal != ""){
+         surroundTagVal=BLOOMBERG.util.Cookie.get("surroundId");
+         surroundTagVal="srnd="+surroundTagVal+";";
+     }
+     if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+     if (typeof sub_domain_name == "undefined" || sub_domain_name == "null") sub_domain_name = "";
+     Size = "728x90";
+     Tile = "1";
+     Position = ";position=top";
+     if(sub_domain_name == 'bb20ad'){
+       Keys = "blp.test";
+     }
+     ad_location = 'Banner';
+     if (ad_location == 'Interstitial'){
+        if(no_dfp_interstitial == "false"){
+            CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+        }
+     }else{
+         CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+     }
+
+</script>
+    <script type="text/javascript">
+      surroundTag=BLOOMBERG.util.Cookie.get("surroundId");
+       if(surroundTag == ""){
+          if((surroundTag == "")&&(adid != "")){ // check if the ad should start a surround session only if a surround session has not yet started
+              surroundTag="srnd="+adid+";"; // setup the key-value for a surround session
+              BLOOMBERG.util.Cookie.set("surroundId",adid,"","/"); // store the surround session id in a cookie.  Set the expiration date of the cookie to determine how long the surround session should last.  For example, if the surround session should last just one day, then set the expiration date for the cookie to tomorrow.
+            }
+       }
+       else{
+            surroundTag="srnd="+surroundTag+";";
+       }
+
+    </script>
+
+
+    </div>
+              </div>
+</div>
+
+        
+        <div  class="outer_tickerbar base_container">
+  <div class="inner_tickerbar">
+    <div class="ticker_holder">
+      <div id="tickerID" class="ticker" >
+                                    <div class="clstsd" id="symbol_GCA_COM" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            Gold
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              1,578.20                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              -0.55%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsu" id="symbol_EURUSD_IND" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            <a href="/apps/quote?ticker=EURUSD:IND">EUR : USD</a>
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              1.3004                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              0.1645%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsu" id="symbol_CCMP_IND" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            <a href="/apps/quote?ticker=CCMP:IND">Nasdaq</a>
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              2,541.92                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              +0.10%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsu" id="symbol_INDU_IND" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            <a href="/apps/quote?ticker=INDU:IND">Dow</a>
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              11,879.90                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              +0.48%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsu" id="symbol_SPX_IND" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            <a href="/apps/quote?ticker=SPX:IND">S&P 500</a>
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              1,219.81                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              +0.66%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsu" id="symbol_UKX_IND" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            <a href="/apps/quote?ticker=UKX:IND">FTSE 100</a>
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              5,400.85                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              +0.63%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsu" id="symbol_SX5E_IND" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            <a href="/apps/quote?ticker=SX5E:IND">STOXX 50</a>
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              2,224.89                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              +0.86%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsu" id="symbol_DAX_IND" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            <a href="/apps/quote?ticker=DAX:IND">DAX</a>
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              5,730.62                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              +0.98%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsd" id="symbol_CLA_COM" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            Oil (WTI)
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              94.22                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              -0.77%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsu" id="symbol_GT10_GOV" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            U.S. 10-year
+                                              </td>
+                                                <td  class="inner_pill cl_yield">
+                            <span class="yield">1.913%</span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="yield_change" >+0.010</span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsd" id="symbol_8411_JP" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            8411:JP
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              103.00                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              -1.90%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+                                    <div class="clstsu" id="symbol_C_US" >
+                  <table class="ticker_pill" border-color="#ccc" border-width="1px">
+                    <tr>
+                      <td class="inner_pill cl_tickername">
+                                                                            <a href="/apps/quote?ticker=C:US">C:US</a>
+                                              </td>
+                                                <td  class="inner_pill cl_price">
+                            <span class="last_price">
+                                                              26.26                                                          </span>
+                          </td>
+                          <td  class="inner_pill">
+                            <span class="value_change" >
+                                                              +0.81%                                                          </span>
+                          </td>
+                                          </tr>
+                  </table>
+                </div>
+              </div>
+    </div>
+    <div id="customizeBtn" class="pause">
+    </div>
+  </div>
+</div>
+
+    </div>
+
+
+
+    <div id="header_container" class="base_container">
+      <div id="header_top" class="clearfix">
+        <div id="branding">
+          
+            <a id="header_logo" class="logo_img" href="/">Bloomberg</a>
+                  </div>
+        <ul id="utility_navigation">
+          <li id="about_bloomberg" class="first"><a href="/company/"><abbr title="Learn more about our company">Our Company</abbr></a></li>
+          <li id="bloomberg_professional"><a href="/professional/"><abbr title="Bloomberg Professional">Professional</abbr></a></li>
+          <li id="bloomberg_anywhere" class="last"><a href="https://bba.bloomberg.net/" rel="nofollow"><abbr title="Bloomberg Anywhere">Anywhere</abbr></a></li>
+        </ul>
+                  <div id="queuebutton_ad">
+           
+<script xmlns:webad="http://www.bloomberg.com/webad" xmlns:wn="http://www.bloomberg.com/bloomberg-web-news" xmlns:nav="http://www.bloomberg.com/navigation" type="text/javascript">
+     adType = "DART";
+     Keys = "blp.news/muse/auctions/story";
+     dcop_val = "";
+     if (typeof surroundTag == "undefined" || surroundTag == "null") surroundTag = "";
+     if (surroundTagVal != ""){
+         surroundTagVal=BLOOMBERG.util.Cookie.get("surroundId");
+         surroundTagVal="srnd="+surroundTagVal+";";
+     }
+     if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+     if (typeof sub_domain_name == "undefined" || sub_domain_name == "null") sub_domain_name = "";
+     Size = "160x31";
+     Tile = "4";
+     Position = ";position=queuebutton";
+     if(sub_domain_name == 'bb20ad'){
+       Keys = "blp.test";
+     }
+     ad_location = 'queuebutton';
+     if (ad_location == 'Interstitial'){
+        if(no_dfp_interstitial == "false"){
+            CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+        }
+     }else{
+         CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+     }
+
+</script>
+    <script type="text/javascript">
+      surroundTag=BLOOMBERG.util.Cookie.get("surroundId");
+       if(surroundTag == ""){
+          if((surroundTag == "")&&(adid != "")){ // check if the ad should start a surround session only if a surround session has not yet started
+              surroundTag="srnd="+adid+";"; // setup the key-value for a surround session
+              BLOOMBERG.util.Cookie.set("surroundId",adid,"","/"); // store the surround session id in a cookie.  Set the expiration date of the cookie to determine how long the surround session should last.  For example, if the surround session should last just one day, then set the expiration date for the cookie to tomorrow.
+            }
+       }
+       else{
+            surroundTag="srnd="+surroundTag+";";
+       }
+
+    </script>
+
+
+
+          </div>
+                <script>
+          $(document).ready(function() {
+            if (reg_enabled && q_enabled && false) {
+              BLOOMBERG.q_ui.render_tut_button();
+            }
+          });
+
+          if (reg_enabled) {
+            document.write('<ul id="user_navigation"><li id="login_navigation_item" class="first"><a href="#"></a></li></ul>');
+          } else {
+            document.write('<ul id="user_navigation"></ul>');
+            document.write('<scr' + 'ipt type="text/javascript">BLOOMBERG.user_login.get_user_info($("#user_navigation"));</scr' + 'ipt>');
+          }
+        </script>
+    </div>
+    <div id="header_bottom" class="clearfix">
+      
+          <div id="ext_navigation">
+
+  <div id="ext_primary_navigation_v2" class="header_nav clearfix">
+                <ul id="sectional_navigation">
+          
+                        <li id="nav_home" class="nav_menu_item nav_menu_item_with_dropdown">
+                <a href="/" class="menu_tab">
+                      <span class="menu_text">Home</span>
+                                        <span class="menu_icon"></span>
+                </a>
+                                    <div class="div_dropdown_container">
+                      <div class="dropdown_container clearfix">
+
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/">Bloomberg Homepage</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="separator more_label">
+                                                                                <a class="section">More</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/mobile/">Mobile Apps</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="http://www.businessweek.com/">Businessweek.com</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="http://www.bloomberg.com/insights/?cmpid=bbg_more">Insights Series</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="http://inside.bloomberg.com/">Bloomberg Blog</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                      </div>
+                    </div>
+              </li>
+                        <li id="nav_quick" class="nav_menu_item">
+                <a href="/quickview/" class="menu_tab">
+                      <span class="menu_text">Quick</span>
+                                  </a>
+                              </li>
+                        <li id="nav_news" class="nav_menu_item nav_menu_item_with_dropdown">
+                <a href="/news/" class="menu_tab">
+                      <span class="menu_text">News</span>
+                                        <span class="menu_icon"></span>
+                </a>
+                                    <div class="div_dropdown_container">
+                      <div class="dropdown_container clearfix">
+
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/news/">Top Headlines</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/popular/">Most Popular</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/news/exclusive/">Exclusive</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/news/politics/">Politics</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/news/law/">Law</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/entrepreneurs/">Entrepreneurs</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/leaders/">Leaders</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/muse/">Arts &amp; Culture</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/news/economy/">Economy</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/news/environment/">Environment</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/news/science/">Science</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/sports/">Sports</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/markets-magazine/">Bloomberg Markets Magazine</a>
+                                                                                                                                                    </li>
+                                    <li class="special">
+                                                                                <a class="section" href="/presidential-election-2012/">Election 2012</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/news/regions/">Regions</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/news/us/">U.S.</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/china/">China</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/europe/">Europe</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/asia/">Asia</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/uk-ireland/">U.K. &amp; Ireland</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/australia-newzealand/">Australia &amp; New Zealand</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/canada/">Canada</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/india-pakistan/">India &amp; Pakistan</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/japan/">Japan</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/africa/">Africa</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/eastern-europe/">Eastern Europe</a>
+                                                </li>
+                                                                                                                                        <li class="last">
+                                                <a href="/news/regions/" class="more"><span>More Regions</span></a>
+                                              </li>
+                                                                                </ul>
+
+                                                                        </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="btm_spacing">
+                                                                                <a class="section" href="/news/markets/">Markets</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/news/commodities/">Commodities</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/currencies/">Currencies</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/bonds/">Bonds</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/stocks/">Stocks</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/energy-markets/">Energy Markets</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/municipal-bonds/">Municipal Bonds</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/emerging-markets/">Emerging Markets</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/funds/">Funds</a>
+                                                </li>
+                                                                                                                                        <li class="last">
+                                                <a href="/news/markets/" class="more"><span>More Markets</span></a>
+                                              </li>
+                                                                                </ul>
+
+                                                                        </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/news/industries/">Industries</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/news/energy/">Energy</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/technology/">Technology</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/real-estate/">Real Estate</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/finance/">Finance</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/health-care/">Health Care</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/transportation/">Transportation</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/insurance/">Insurance</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/retail/">Retail</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/news/media/">Media</a>
+                                                </li>
+                                                                                                                                        <li class="last">
+                                                <a href="/news/industries/" class="more"><span>More Industries</span></a>
+                                              </li>
+                                                                                </ul>
+
+                                                                        </li>
+                              </ul>
+                            </div>
+                      </div>
+                    </div>
+              </li>
+                        <li id="nav_view" class="nav_menu_item nav_menu_item_with_dropdown">
+                <a href="/view/" class="menu_tab">
+                      <span class="menu_text">View</span>
+                                        <span class="menu_icon"></span>
+                </a>
+                                    <div class="div_dropdown_container">
+                      <div class="dropdown_container clearfix">
+
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/view/editorials/">Editorials</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/view/columns/">Columns</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/view/op-eds/">Op-Eds</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="separator">
+                                                                                <a class="section" href="/view/business-class/">Business Class</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/view/echoes/">Echoes</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/view/the-ticker/">The Ticker</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/view/world-view/">World View</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                      </div>
+                    </div>
+              </li>
+                        <li id="nav_market_data" class="nav_menu_item nav_menu_item_with_dropdown">
+                <a href="/markets/" class="menu_tab">
+                      <span class="menu_text">Market Data</span>
+                                        <span class="menu_icon"></span>
+                </a>
+                                    <div class="div_dropdown_container">
+                      <div class="dropdown_container clearfix">
+
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="btm_spacing">
+                                                                                <a class="section" href="/markets/stocks/">Stocks</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/markets/stocks/futures/">Stock Futures</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/markets/stocks/world-indexes/">World Indexes</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/markets/stocks/movers/dax/">Movers By Index</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/markets/stocks/regional-indexes/">Regional Indexes</a>
+                                                </li>
+                                                                                            <li class=" last">
+                                                    <a href="/apps/ecal?c=US">Earnings</a>
+                                                </li>
+                                                                                                                                  </ul>
+
+                                                                        </li>
+                                    <li class="">
+                                                                                <a class="section" href="/markets/rates-bonds/government-bonds/us/">Rates &amp; Bonds</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/markets/rates-bonds/government-bonds/us/">Government Bonds</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/markets/rates-bonds/corporate-bonds/">Corporate Bonds</a>
+                                                </li>
+                                                                                            <li class=" last">
+                                                    <a href="/markets/rates-bonds/key-rates/">Key Rates</a>
+                                                </li>
+                                                                                                                                  </ul>
+
+                                                                        </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="btm_spacing">
+                                                                                <a class="section" href="/markets/commodities/futures/">Commodities</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/markets/commodities/futures/">Commodity Futures</a>
+                                                </li>
+                                                                                            <li class=" last">
+                                                    <a href="/energy/">Energy Prices</a>
+                                                </li>
+                                                                                                                                  </ul>
+
+                                                                        </li>
+                                    <li class="btm_spacing">
+                                                                                <a class="section" href="/markets/currencies/">Currencies</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/markets/currencies/americas/">World Currencies</a>
+                                                </li>
+                                                                                            <li class=" last">
+                                                    <a href="/markets/currencies/cross-rates/">Cross Rates</a>
+                                                </li>
+                                                                                                                                  </ul>
+
+                                                                        </li>
+                                    <li class="">
+                                                                                <a class="section" href="/markets/etfs/">ETFs</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/markets/mutual-funds/top-funds/us/">Mutual Funds</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/markets/economic-calendar/">Economic Calendar</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/video/forex-trading/">Forex Trading Videos</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="http://topics.bloomberg.com/islamic-finance/">Islamic Finance</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                      </div>
+                    </div>
+              </li>
+                        <li id="nav_personal_finance" class="nav_menu_item nav_menu_item_with_dropdown">
+                <a href="/personal-finance/" class="menu_tab">
+                      <span class="menu_text">Personal Finance</span>
+                                        <span class="menu_icon"></span>
+                </a>
+                                    <div class="div_dropdown_container">
+                      <div class="dropdown_container clearfix">
+
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/">News & Videos</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/saving-and-investing/">Saving & Investing</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/retirement-planning/">Retirement Planning</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/real-estate/">Real Estate</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/taxes/">Taxes</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/financial-advisers/">Financial Advisers</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/insurance-and-health/">Insurance & Health</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/money-gallery/">Money Gallery</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/portfolio-impact/">Portfolio Impact</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personal-finance/calculators/">Calculators</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/apps/subscriber/webport">Portfolio Tracker</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                      </div>
+                    </div>
+              </li>
+                        <li id="nav_sustainability" class="nav_menu_item nav_menu_item_with_dropdown">
+                <a href="/sustainability/" class="menu_tab">
+                      <span class="menu_text">Sustainability</span>
+                                        <span class="menu_icon"></span>
+                </a>
+                                    <div class="div_dropdown_container">
+                      <div class="dropdown_container clearfix">
+
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/sustainability/">Sustainability Home</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/sustainability/energy/">Energy</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/sustainability/corporate/">Corporate Sustainability</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/sustainability/policy/">Policy</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/sustainability/natural-resources/">Natural Resources</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/sustainability/videos/">Videos</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/sustainability/the-grid/">Blog: The Grid</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                          <a class="sponsor_branding" href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=3527360&PluID=0&ord=%n" rel="nofollow" target="_blank"></a>
+                      </div>
+                    </div>
+              </li>
+                        <li id="nav_tv" class="nav_menu_item nav_menu_item_with_dropdown">
+                <a href="/tv/" class="menu_tab">
+                      <span class="menu_text">TV</span>
+                                        <span class="menu_icon"></span>
+                </a>
+                                    <div class="div_dropdown_container">
+                      <div class="dropdown_container clearfix">
+
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/tv/">Live TV</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/video/">Video</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/tv/channel-finder/">Channel Finder</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personalities/">Personalities</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/mobile/tv">iPad App</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/tv/shows/">Shows</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/tv/shows/the-mentor/">The Mentor</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/tv/shows/bloomberg-west/">Bloomberg West</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/tv/shows/techstars/">TechStars</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/tv/shows/bloomberg-enterprise">Enterprise</a>
+                                                </li>
+                                                                                                                                        <li class="last">
+                                                <a href="/tv/shows/" class="more"><span>More Shows</span></a>
+                                              </li>
+                                                                                </ul>
+
+                                                                        </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/tv/schedule/">Schedule</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/tv/schedule/">U.S.</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/tv/schedule/asia/">Asia</a>
+                                                </li>
+                                                                                            <li class=" last">
+                                                    <a href="/tv/schedule/europe/">Europe</a>
+                                                </li>
+                                                                                                                                  </ul>
+
+                                                                        </li>
+                              </ul>
+                            </div>
+                      </div>
+                    </div>
+              </li>
+                        <li id="nav_radio" class="nav_menu_item nav_menu_item_with_dropdown">
+                <a href="/radio/" class="menu_tab">
+                      <span class="menu_text">Radio</span>
+                                        <span class="menu_icon"></span>
+                </a>
+                                    <div class="div_dropdown_container">
+                      <div class="dropdown_container clearfix">
+
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/radio/">Live Radio</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/radio/shows/">Shows</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/radio/schedule/">Schedule</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/personalities/">Personalities</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/podcasts/">Podcasts</a>
+                                                                                                                                                        <ul class="link_subsections">
+                                                <li class="border_bottom ">
+                                                    <a href="/podcasts/first-word/">First Word</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/podcasts/surveillance/">Surveillance</a>
+                                                </li>
+                                                                                            <li class=" ">
+                                                    <a href="/podcasts/taking-stock/">Taking Stock</a>
+                                                </li>
+                                                                                                                                        <li class="last">
+                                                <a href="/podcasts/" class="more"><span>More Podcasts</span></a>
+                                              </li>
+                                                                                </ul>
+
+                                                                        </li>
+                              </ul>
+                            </div>
+                      </div>
+                    </div>
+              </li>
+                        <li id="nav_more" class="nav_menu_item nav_menu_item_with_dropdown">
+                <a href="#" class="menu_tab">
+                      <span class="menu_text">More</span>
+                                        <span class="menu_icon"></span>
+                </a>
+                                    <div class="div_dropdown_container">
+                      <div class="dropdown_container clearfix">
+
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="">
+                                                                                <a class="section" href="/video/">Video</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/podcasts/">Podcasts</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/mobile/">Mobile Apps</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="separator">
+                                                                                <a class="section" href="http://www.businessweek.com/">Businessweek.com</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="http://www.bloomberg.com/insights/?cmpid=bbg_more">Insights Series</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                            <div class="dropdown_section">
+                              <ul class="link_sections">
+                                    <li class="separator">
+                                                                                <a class="section" href="http://inside.bloomberg.com/">Bloomberg Blog</a>
+                                                                                                                                                    </li>
+                                    <li class="">
+                                                                                <a class="section" href="/apps/feedback">Feedback</a>
+                                                                                                                                                    </li>
+                              </ul>
+                            </div>
+                      </div>
+                    </div>
+              </li>
+                  </ul>
+        <script type="text/javascript">
+//<![CDATA[
+        BLOOMBERG.register_ext_nav_events();
+                if (BLOOMBERG.noir_2_qv){
+        BLOOMBERG.noir_2_qv.modify_nav_link();
+        }
+    
+//]]>
+</script>    <div id="header_search">
+                  <input
+      id="symac_keyword"
+      onblur="symac_delayhandleLoseFocus();"
+      onfocus="symac_handleFocus();"
+      onkeyup="symac_handleKeyUp(event);"
+      onkeydown="symac_handleKeyUp(event);"
+      onmouseup="symac_handleKeyUp(event);"
+      maxlength="90"
+      value="Search News, Quotes and Opinion"
+      autocomplete="off"
+      class="symac_grayText"
+      type="text" />
+                      </div>
+  </div>
+</div>
+<script type="text/javascript">
+  try{BLOOMBERG.global_nav_test.update_nav();}catch(exp){}
+</script>      
+    </div>
+
+</div>
+
+
+
+
+                <div class="lb_place_holder"></div>
+            
+      <div id="content" class="clearfix">
+                        <div id="primary_content">
+          
+    
+    
+    
+
+    <div class="component with_related_categories" id="story">
+      <div id="story_head" class="clearfix">
+                        
+
+
+    <div id="related_categories_tags_top" class="related_categories_tags">
+      <h4>Related News:</h4>
+      <ul class="clearfix">
+        
+            <li>
+              
+                <a href="/muse/art/" class="story_link">Art</a>&nbsp;&nbsp;&middot;
+              
+            </li>
+        
+            <li>
+              
+                <a href="/muse/dining/" class="story_link">Dining</a>&nbsp;&nbsp;&middot;
+              
+            </li>
+        
+            <li>
+              
+                <a href="/muse/auctions/" class="story_link">Auctions</a>
+              
+            </li>
+        
+      </ul>
+    </div>
+
+
+            
+        <h1 class="disqus_title">Glenfiddich Whisky for Oldest Scot Sells at Auction for $72,630</h1>
+
+        
+
+        
+        
+                
+
+                    <div id="story_meta">
+              <a href="" class="q" data-id="LW70H66TTDSA01" data-type="Story" style="display:none;"></a>
+              <cite class="byline">
+                By
+                    Rodney Jefferson
+                 -
+                
+                <span class='datestamp'><script type="text/javascript">document.write(dateFormat(new Date(1323864437000),"mmm d, yyyy h:MM TT Z"));</script>
+<noscript>Wed Dec 14 12:07:17 GMT 2011</noscript></span>
+              </cite>
+            </div>
+                
+
+
+        
+      </div>
+      <div id="story_content" class="clearfix">
+        
+        
+<div class="story_inline assets clearfix ">
+  <div id="story_tools_top_container" class="clearfix">
+    <div id="story_tools_top_holder"></div>
+  </div>
+        
+
+
+      
+
+
+    <div class="story_inline attachments">
+        
+
+                <div class="image thumbnail">
+          <div class="thumbnail_container overlay_container">
+                                                <div class="lightbox"></div>
+                    <a class="enlarge_image" rel="#111729" href="/photo/glenlivet-whisky-distilled-in-1883-sells-at-auction-/111729.html" target="_blank">
+                    <span>Enlarge image</span>
+                    <img alt="Glenlivet Whisky Distilled in 1883 Sells at Auction " class="small_img img_keep_size" src="http://www.bloomberg.com/image/iJY6Lz0LjKoM.jpg" />                    </a>
+                    <div class="simple_overlay" id="111729">
+                      <h3 class="image_title" style="width:640px">Glenlivet Whisky Distilled in 1883 Sells at Auction </h3>
+                      <img alt="Glenlivet Whisky Distilled in 1883 Sells at Auction " class="img_keep_size" height="518" src="http://www.bloomberg.com/image/i9eJGJykPTbw.jpg" width="640" />                      <div class="details" style="width:640px">
+                        <div class="subdetails">
+                          <p class="photographer_attr">Chris Ratcliffe/Bloomberg</p>
+                        </div>
+                        <p class="caption_only">Bottles of Glenlivet whisky travel along a conveyor belt at the Pernod Ricard SA bottling plant in Paisley, U.K.</p>
+                      </div>
+                    </div>
+                                      </div>
+                    <p class="caption">Bottles of Glenlivet whisky travel along a conveyor belt at the Pernod Ricard SA bottling plant in Paisley, U.K. Photographer: Chris Ratcliffe/Bloomberg </p>
+                  </div>
+    
+        
+        
+        
+        
+        
+    </div>
+ 
+</div>
+<script type="text/javascript">
+//<![CDATA[
+
+        $(window).bind("load", function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+            var self = $(this);
+            if (self.width() > 140){
+                self.width(140);
+            }
+        });
+    });
+
+//]]>
+</script>
+        <script type="text/javascript">
+            //this script is for the story image lightbox
+                $(".thumbnail_container > a[rel]").overlay({
+                    mask:'#333',
+                    effect: 'default',
+                    fixed:false,
+                    onBeforeLoad: function(){
+                        $('#container').addClass('overlay_open');
+                        $('.overlay_container').addClass('overlay_open');
+                    },
+                    onClose: function(){
+                        $('#container').removeClass('overlay_open');
+                        $('.overlay_container').removeClass('overlay_open');
+                    }
+                });
+        </script>
+        
+            <p>A bottle of Glenfiddich malt whisky
+produced to honor the oldest living Scot sold at auction today
+in Edinburgh for 46,850 pounds ($72,632), a European record. </p>
+<p>The 55-year-old Scotch, sold by <a href="http://www.bonhams.com/eur/auction/18953/" title="Open Web Site" rel="external" density="sparse">Bonhams</a> in the Scottish
+capital today, was one of 15 bottles of Glenfiddich Janet Sheed
+Roberts Reserve, according to the auction catalog. The whisky,
+which was put into casks in 1955 and bottled last month, had a
+guide price of between 30,000 and 35,000 pounds with all
+proceeds from the sale going to Water Aid. </p>
+<p>“It’s not often a whisky of this stature comes up at
+auction,” Martin Green, the whisky specialist at Bonhams, said
+before the sale. “The rarity and quality of the liquid, the
+exquisite bespoke packaging and the story behind its creation
+makes this a collectible that’s hard to value.” </p>
+<p>Janet Sheed Roberts is <a href="http://topics.bloomberg.com/scotland/" density="full">Scotland</a>’s oldest living person, at
+110 years old. She lives next to the <a href="http://www.glenfiddich.co.uk/lda.html?redirect=/index.html" title="Open Web Site" rel="external" density="full">Glenfiddich distillery</a> in
+the Scottish Highlands and is part of the Grant family that
+founded the whisky producer, according to Bonhams. Various
+whiskies have been sold previously to mark her recent birthdays. </p>
+<p>A bottle from the Glenfiddich distillery, with whisky
+matured for 64 years, sold for 25,200 pounds at Bonhams in
+Edinburgh on June 16, 2010. That price compared at the time with
+a world record of 29,400 pounds for a bottle of Scotch set in
+Glasgow in 2007. It was since surpassed in a sale in <a href="http://topics.bloomberg.com/new-york/" density="sparse">New York</a>.
+The prices include the auctioneer’s fee. </p>
+<p>The Glenfiddich sold today in Edinburgh was bought by an
+unidentified Internet bidder. Offers started at 22,000 pounds
+and the hammer price was 38,000 pounds. </p>
+<p>To contact the writer on the story:
+Rodney Jefferson at 
+<a href="mailto:r.jefferson@bloomberg.net" title="Send E-mail" density="mailto">r.jefferson@bloomberg.net</a>. </p>
+<p>To contact the editor responsible for this story:
+Mark Beech at  <a href="mailto:mbeech@bloomberg.net" title="Send E-mail" density="mailto">mbeech@bloomberg.net</a>. </p>
+                
+        
+        
+            
+
+<ul id="story_tools_bottom" class="story_tools clearfix">
+  
+    
+        <li class="ilike">
+            <fb:like href="http://bloom.bg/t1uBSk" width="130" layout="button_count" show_faces="true" action="recommend" />
+        </li>
+    
+  
+
+  
+    <li class="twitter ">
+                
+              <a href="http://twitter.com/share?url=http://bloom.bg/t1uBSk&amp;counturl=http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html" class="twitter-share-button" data-via="BloombergNews">Tweet</a>
+          
+          </li>
+  
+  
+    <li class="linkedin " target_url="http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html">
+                                <script data-counter="right" type="in/share" data-url="http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html"></script>
+          
+    </li>
+  
+              <li class="google_plusone" target_url="http://bloom.bg/t1uBSk">
+      <g:plusone size="medium" href="http://bloom.bg/t1uBSk"></g:plusone>
+    </li>
+  
+  
+    <li class="share">
+        <a href="#share"><span>More</span></a>
+        <div class="options">
+            <ul>
+              <li class="bx"><a href="http://bx.businessweek.com/api/add-article-to-bx.tn?url=http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html" onclick="window.open(this.href,'bxpopup','height=500,width=800,scrollbars=1'); event.returnValue=false; return false;" onmousedown="BLOOMBERG.tracker.EVENTTRACK.record('Social Media', 'Add Article to Business Exchange', 'http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html');" rel="nofollow">Business Exchange</a></li>
+              <li class="yahoo"><a href="http://buzz.yahoo.com/buzz?targetUrl=http://bloom.bg/t1uBSk&amp;headline=Glenfiddich%20Whisky%20for%20Oldest%20Scot%20Sells%20at%20Auction%20for%20%2472%2C630&amp;summary=A%20bottle%20of%20Glenfiddich%20malt%20whisky%0Aproduced%20to%20honor%20the%20oldest%20living%20Scot%20sold%20at%20auction%20today%0Ain%20Edinburgh%20for%2046%2C850%20pounds%20%28%2472%2C632%29%2C%20a%20European%20record.&amp;tags=news" onclick="window.open(this.href,'yahoopopup','height=500,width=800,scrollbars=1'); event.returnValue=false; return false;" onmousedown="BLOOMBERG.tracker.EVENTTRACK.record('Social Media', 'Buzz Article in Yahoo', 'http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html');" rel="nofollow">Buzz up!</a></li>
+              <li class="digg last"><a href="http://digg.com/submit?url=http://bloom.bg/t1uBSk&amp;title=Glenfiddich%20Whisky%20for%20Oldest%20Scot%20Sells%20at%20Auction%20for%20%2472%2C630&amp;bodytext=A%20bottle%20of%20Glenfiddich%20malt%20whisky%0Aproduced%20to%20honor%20the%20oldest%20living%20Scot%20sold%20at%20auction%20today%0Ain%20Edinburgh%20for%2046%2C850%20pounds%20%28%2472%2C632%29%2C%20a%20European%20record.&amp;topic=business_finance" onclick="window.open(this.href,'digg','height=500,width=800,scrollbars=1'); event.returnValue=false; return false;" onmousedown="BLOOMBERG.tracker.EVENTTRACK.record('Social Media', 'Digg  Article', 'http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html');" rel="nofollow">Digg</a></li>
+            </ul>
+        </div>
+    </li>
+  
+    
+        
+            <li class="print last">
+                 <a href="/news/print/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html" onmousedown="BLOOMBERG.tracker.EVENTTRACK.record('Non-web Interactions', 'Print Article', 'http://www.bloomberg.com/news/2011-12-14/glenfiddich-whisky-for-oldest-scot-sells-at-auction-for-72-630.html');" rel="nofollow">Print</a>
+            </li>
+        
+    
+    
+    <li class="email">
+       <a href="mailto:?body=A%20bottle%20of%20Glenfiddich%20malt%20whisky%0Aproduced%20to%20honor%20the%20oldest%20living%20Scot%20sold%20at%20auction%20today%0Ain%20Edinburgh%20for%2046%2C850%20pounds%20%28%2472%2C632%29%2C%20a%20European%20record.%0A%0Ahttp%3A%2F%2Fbloom.bg%2Ft1uBSk&amp;subject=Bloomberg%20news%3A%20Glenfiddich%20Whisky%20for%20Oldest%20Scot%20Sells%20at%20Auction%20for%20%2472%2C630" onmousedown="BLOOMBERG.tracker.EVENTTRACK.record('Social Media', 'Email Article', 'http://bloom.bg/t1uBSk');" rel="nofollow">Email</a>
+    </li>
+  
+    
+</ul>
+
+
+<script type="text/javascript">
+//<![CDATA[
+    $(window).bind("load", function() {
+    $.getScript('http://platform.twitter.com/widgets.js',function(){});
+    });
+
+//]]>
+</script><!--<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>-->
+
+
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+//<![CDATA[
+
+    $(window).bind("load", function() {
+    fbRecoButton("http://www.bloomberg.com");
+    });
+
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+    $(window).bind("load", function() {
+      
+        BLOOMBERG.storyutil.CLONESTORYTOOL.clonetool();
+      
+    });
+
+//]]>
+</script>
+        
+
+      </div>
+
+                <div class="taboola_horizontal_bb_video">
+            <div id="bloomberg-horizontal-rbox">
+              <script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/bloomberg/rbox.js?article"></script>
+              <script>
+                  var ie = document.attachEvent?true:false;
+                  window[ie?'attachEvent':'addEventListener']
+                          (ie?'onload':'load', function(){ TRC.drawRBox({mode:'horizontal-t2v'}); },false);
+              </script>
+            </div>
+          </div>
+      
+                
+
+
+    <div id="related_categories_tags_bottom" class="related_categories_tags">
+      <h4>Related News</h4>
+      <ul class="clearfix">
+        
+            <li>
+              
+                <a href="/muse/art/" class="story_link">Art</a>&nbsp;&nbsp;&middot;
+              
+            </li>
+        
+            <li>
+              
+                <a href="/muse/dining/" class="story_link">Dining</a>&nbsp;&nbsp;&middot;
+              
+            </li>
+        
+            <li>
+              
+                <a href="/muse/auctions/" class="story_link">Auctions</a>
+              
+            </li>
+        
+      </ul>
+    </div>
+
+
+          </div>
+
+    
+        <div class="dfp_ad_box ad_box"><div class="ad_box_title">Sponsored Links</div>
+ 
+<script xmlns:webad="http://www.bloomberg.com/webad" xmlns:wn="http://www.bloomberg.com/bloomberg-web-news" xmlns:nav="http://www.bloomberg.com/navigation" type="text/javascript">
+     adType = "DART";
+     Keys = "blp.news/muse/auctions/story";
+     dcop_val = "";
+     if (typeof surroundTag == "undefined" || surroundTag == "null") surroundTag = "";
+     if (surroundTagVal != ""){
+         surroundTagVal=BLOOMBERG.util.Cookie.get("surroundId");
+         surroundTagVal="srnd="+surroundTagVal+";";
+     }
+     if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+     if (typeof sub_domain_name == "undefined" || sub_domain_name == "null") sub_domain_name = "";
+     Size = "150x1";
+     Tile = "7";
+     Position = ";position=bottom";
+     if(sub_domain_name == 'bb20ad'){
+       Keys = "blp.test";
+     }
+     ad_location = 'StoryBottom';
+     if (ad_location == 'Interstitial'){
+        if(no_dfp_interstitial == "false"){
+            CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+        }
+     }else{
+         CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+     }
+
+</script>
+    <script type="text/javascript">
+      surroundTag=BLOOMBERG.util.Cookie.get("surroundId");
+       if(surroundTag == ""){
+          if((surroundTag == "")&&(adid != "")){ // check if the ad should start a surround session only if a surround session has not yet started
+              surroundTag="srnd="+adid+";"; // setup the key-value for a surround session
+              BLOOMBERG.util.Cookie.set("surroundId",adid,"","/"); // store the surround session id in a cookie.  Set the expiration date of the cookie to determine how long the surround session should last.  For example, if the surround session should last just one day, then set the expiration date for the cookie to tomorrow.
+            }
+       }
+       else{
+            surroundTag="srnd="+surroundTag+";";
+       }
+
+    </script>
+
+
+</div>
+
+            </div>
+        <div id="secondary_content">
+          
+            
+<script type="text/javascript">
+//<![CDATA[
+    if (typeof BLOOMBERG.global_var.show_top_rails_test == "undefined" || BLOOMBERG.global_var.show_top_rails_test == "null") BLOOMBERG.global_var.show_top_rails_test = "";
+
+//]]>
+</script><div class="component secondary_stories" id="non_stop_news_module">
+  <div id="non_stop_news_module_container" class="more_top_news_header">
+    <div class="header tabs clearfix">
+      <h3 class="more_top_news_header">
+        Headlines
+      </h3>
+                  <h3 class="recommended_news_header">
+        Recommended
+      </h3>
+      <h3 class="popular_news_header">
+        Most Popular
+      </h3>
+    </div>
+
+    
+    <div id="story_group_container">
+
+                <div id="more_top_news_container" class="clearfix">
+            <div id="more_top_news_sub_container">
+              <ul class="news_group items">
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/senate-leaders-say-they-re-closer-to-resolving-payroll-tax-spending-snags.html" class="q story_link bar" data-type="Story" data-id="LW92B26S972F01">Senate Leaders Say Deal Possible on Payroll Tax</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/banks-say-this-time-is-different-in-wooing-wealthy-women-ceos-as-clients.html" class="q story_link bar" data-type="Story" data-id="LT0ZT71A1I4H01">Banks Wooing Women CEOs Promise Now Is Different</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/voters-see-pitfalls-in-gingrich-as-they-weigh-candidates.html" class="q story_link bar" data-type="Story" data-id="LW84B40UQVI901">Voters See Pitfalls in Gingrich as They Weigh Candidates</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/video/82842064/" class="q story_link bar" data-type="Story" data-id="LW92671A1I4I01">Life After Wall Street: The Walkabout Journey</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/romney-honed-right-skills-in-private-equity-commentary-by-steven-kaplan.html" class="q story_link bar" data-type="Story" data-id="LW7CFO0UQVI901">Kaplan: Romney Honed the Right Skills in Private Equity</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/u-s-stock-futures-rise-before-new-york-philadelphia-manufacturing-data.html" class="q story_link bar" data-type="Story" data-id="LW8NK16K50YP01">U.S. Stocks Gain on U.S. Economic Data</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/imf-s-lagarde-says-escalating-european-crisis-requires-more-cooperation.html" class="q story_link bar" data-type="Story" data-id="LW959S6TTDTW01">IMF’s Lagarde: Europe Crisis ‘Escalating’</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/peripheral-europe-may-face-a-run-on-banks-in-coming-months-kyle-bass-says.html" class="q story_link bar" data-type="Story" data-id="LW97QG1A74E901">Europe to Face Run on Banks: Kyle Bass</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/amazon-kindle-selling-more-than-1m-per-week.html" class="q story_link bar" data-type="Story" data-id="LW98P36S972A01">Amazon: Kindle Selling More Than 1M Per Week</a>
+                      </div>
+                    </li>
+                              </ul>
+            </div>
+
+            <a href="/news/" class="more_url">
+              More News
+            </a>
+          </div>
+                              <div id="recommended_top_news_container" class="clearfix">
+        <div id="recommended_top_news_sub_container">
+          <div class="quotation">Based on your reading history you may be interested in: </div>
+                          <ul id="most_reco_stories" class="news_group">
+                <li class="exclusive">
+            <div class="news_item exclusive clearfix bar">
+              <a data-type='Story' href='/news/2011-12-15/peripheral-europe-may-face-a-run-on-banks-in-coming-months-kyle-bass-says.html'
+                 class='q story_link bar' suid='LW97QG1A74E901'
+                 data-id='1757831'>
+                Europe to Face Run on Banks: Kyle Bass              </a>
+            </div>
+          </li>
+                <li class="exclusive">
+            <div class="news_item exclusive clearfix bar">
+              <a data-type='Story' href='/news/2011-12-14/bernanke-tells-senators-federal-reserve-has-no-plan-to-aid-european-banks.html'
+                 class='q story_link bar' suid='LW7NG60UQVI901'
+                 data-id='1755495'>
+                Bernanke: Fed Has No Plans to Aid EU Banks              </a>
+            </div>
+          </li>
+                <li class="exclusive">
+            <div class="news_item exclusive clearfix bar">
+              <a data-type='Story' href='/news/2011-12-15/senate-leaders-say-they-re-closer-to-resolving-payroll-tax-spending-snags.html'
+                 class='q story_link bar' suid='LW92B26S972F01'
+                 data-id='1757553'>
+                Senate Leaders Say Deal Possible on Payroll Tax              </a>
+            </div>
+          </li>
+                <li class="exclusive">
+            <div class="news_item exclusive clearfix bar">
+              <a data-type='Story' href='/news/2011-12-15/s-p-500-analyst-estimate-revisions-for-dec-15-table-.html'
+                 class='q story_link bar' suid='LW8X8407SXKX01'
+                 data-id='1757271'>
+                S&P 500 Analyst Estimate Revisions for Dec. 15              </a>
+            </div>
+          </li>
+                <li class="exclusive">
+            <div class="news_item exclusive clearfix bar">
+              <a data-type='Story' href='/news/2011-12-15/industrial-output-in-u-s-unexpectedly-shrinks-first-time-in-seven-months.html'
+                 class='q story_link bar' suid='LW90QQ1A1I4H01'
+                 data-id='1757437'>
+                U.S. Industrial Production Unexpectedly Falls              </a>
+            </div>
+          </li>
+                <li class="exclusive">
+            <div class="news_item exclusive clearfix bar">
+              <a data-type='Story' href='/news/2011-12-15/s-p-500-analyst-target-price-changes-for-dec-15-table-.html'
+                 class='q story_link bar' suid='LW8X3K0YHQ0X01'
+                 data-id='1757289'>
+                S&P 500 Analyst Target Price Changes for Dec. 15              </a>
+            </div>
+          </li>
+                <li class="exclusive">
+            <div class="news_item exclusive clearfix bar">
+              <a data-type='Story' href='/news/2011-12-15/banks-say-this-time-is-different-in-wooing-wealthy-women-ceos-as-clients.html'
+                 class='q story_link bar' suid='LT0ZT71A1I4H01'
+                 data-id='1757237'>
+                Banks Wooing Women CEOs Promise Now Is Different              </a>
+            </div>
+          </li>
+                <li class="exclusive">
+            <div class="news_item exclusive clearfix bar">
+              <a data-type='Story' href='/news/2011-12-15/fedex-orders-27-boeing-freighters-as-second-quarter-earnings-top-estimates.html'
+                 class='q story_link bar' suid='LW8X5X0YHQ0X01'
+                 data-id='1757247'>
+                FedEx Profit Beats Estimates, Orders 27 Jets              </a>
+            </div>
+          </li>
+                <li class="exclusive">
+            <div class="news_item exclusive clearfix bar">
+              <a data-type='Story' href='/news/2011-12-15/gold-may-extend-rout-to-enter-bear-market-as-rallying-dollar-hurts-demand.html'
+                 class='q story_link bar' suid='LW816V0YHQ0X01'
+                 data-id='1756055'>
+                Gold Extends Rout as Haven Investors Target Dollar on Europe              </a>
+            </div>
+          </li>
+          </ul>
+
+<script type="text/javascript">
+    $('#recommended_top_news_sub_container').hide();
+
+    if(stories_cookie_val == "a2"){
+        jsonpCall("GET", reco_link, {}, success_callback, error_callback);
+        setTimeout(function(){
+             BLOOMBERG.nonstop_news.event_track_story_reco_tabs();
+            $('#recommended_top_news_sub_container').show();
+            $(".view_story #non_stop_news_module_container .recommended_news_header").mousedown(function(){
+                BLOOMBERG.tracker.EVENTTRACK.record('Story - Reco Test Tracking',"reco_header", "recommended_news_header");
+            });
+            var reco_tabs_news_container = $(".view_story #recommended_top_news_container").find("a");
+            reco_tabs_news_container.each(function(){
+                $(this).mousedown(function(){
+                    BLOOMBERG.tracker.EVENTTRACK.record('Story - Recommended Link Tracking',"recommend_links", this.href);
+                })
+            });
+        }, 2000);
+    }
+</script>
+
+                  </div>
+      </div>
+
+                      <div id="popular_news_container" class="clearfix">
+            <div id="popular_news_sub_container">
+              <ul class="news_group items">
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/wall-street-traders-confounded-as-global-volatility-extends-record-streak.html" class="q story_link bar" data-type="Story" data-id="LW3RGM6K50XY01">Traders Confounded as Volatility Extends Run</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/victoria-s-secret-revealed-in-child-picking-burkina-faso-cotton.html" class="q story_link bar" data-type="Story" data-id="LVWX5G1A1I4H01">Victoria’s Secret Revealed in Child Labor</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/u-s-stock-futures-rise-before-new-york-philadelphia-manufacturing-data.html" class="q story_link bar" data-type="Story" data-id="LW8NK16K50YP01">U.S. Stocks Gain on U.S. Economic Data</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/paulson-s-bright-spot-amid-slump-may-fade-as-gold-drops-to-five-month-low.html" class="q story_link bar" data-type="Story" data-id="LW7L3607SXKX01">Paulson’s Bright Spot May Fade as Gold Plunges</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/morgan-stanley-plans-to-cut-about-1-600-jobs-worldwide-in-first-quarter.html" class="q story_link bar" data-type="Story" data-id="LW906S6K511601">Morgan Stanley to Eliminate About 1,600 Jobs</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-14/merkel-buffeted-by-domestic-political-woes-that-may-deflect-crisis-effort.html" class="q story_link bar" data-type="Story" data-id="LW7G8D0YHQ0X01">Merkel Buffeted by Domestic Disputes That May Sidetrack Her Crisis Efforts</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/jobless-claims-in-u-s-unexpectedly-decline-to-three-year-low-of-366-000.html" class="q story_link bar" data-type="Story" data-id="LW7Q5A1A1I4J01">Jobless Claims in U.S. Drop to Three-Year Low</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/asian-stocks-south-korean-won-retreat.html" class="q story_link bar" data-type="Story" data-id="LW7YLZ0UQVI901">Stocks Climb as U.S. Data Show Stronger Economy; Commodities Erase Gains</a>
+                      </div>
+                    </li>
+                                    <li>
+                      <div class="news_item exclusive clearfix bar">
+                        <a href="/news/2011-12-15/rim-s-botched-playbook-debut-seen-keeping-acquirers-on-sidelines.html" class="q story_link bar" data-type="Story" data-id="LW5SLA6K50XS01">RIM’s Botched PlayBook Keeps Away Acquirers</a>
+                      </div>
+                    </li>
+                              </ul>
+            </div>
+          </div>
+          </div>
+  </div>
+</div>
+ 
+
+    <script type="text/javascript">
+//<![CDATA[
+        if(stories_cookie_val == "a2"){
+            $(".nsn_special_handler #non_stop_news_module_container").removeClass('more_top_news_header');
+            $(".nsn_special_handler #non_stop_news_module_container").removeClass('popular_news_header');
+            $(".nsn_special_handler #non_stop_news_module_container").addClass('recommended_news_header');
+        }
+
+    
+//]]>
+</script>        <script type="text/javascript">$('#non_stop_news_module').hide();</script>
+           <ul class="news_group" id="reco_story_test_a5">
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/senate-leaders-say-they-re-closer-to-resolving-payroll-tax-spending-snags.html" class="q story_link bar" data-id="LW92B26S972F01" data-type="Story" suid="LW92B26S972F01">Senate Leaders Say Deal Possible on Payroll Tax</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                                        </span>
+                                          <span class="timestamp inline">Updated 47 minutes ago</span>        </span>
+          </div>
+</li>
+
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/banks-say-this-time-is-different-in-wooing-wealthy-women-ceos-as-clients.html" class="q story_link bar" data-id="LT0ZT71A1I4H01" data-type="Story" suid="LT0ZT71A1I4H01">Banks Wooing Women CEOs Promise Now Is Different</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                                        </span>
+                                    </span>
+          </div>
+</li>
+
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/voters-see-pitfalls-in-gingrich-as-they-weigh-candidates.html" class="q story_link bar" data-id="LW84B40UQVI901" data-type="Story" suid="LW84B40UQVI901">Voters See Pitfalls in Gingrich as They Weigh Candidates</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                                        </span>
+                                          <span class="timestamp inline">Updated 1 hour ago</span>        </span>
+          </div>
+</li>
+
+        
+            
+<li class="exclusive last">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/video/82842064/" class="q story_link bar" data-id="LW92671A1I4I01" data-type="Story" suid="LW92671A1I4I01">Life After Wall Street: The Walkabout Journey</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                              <span class="has_video story_attachment">&nbsp;</span>
+                                                          </span>
+                                          <span class="timestamp inline">Updated 3 hours ago</span>        </span>
+          </div>
+</li>
+
+        
+    </ul>
+
+<script type="text/javascript">$('#reco_story_test_a5').hide();</script>
+    <div class="component secondary_stories default_ms" id="related_stories_test">
+      <div class="header">
+        <h2>More Stories</h2>
+      </div>
+      <ul class="news_group" id="reco_story_test">
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/liz-taylor-s-cleopatra-robe-wedding-gown-set-auction-record-for-fashion.html" class="q story_link bar" data-id="LW7PWM0UQVI901" data-type="Story" suid="LW7PWM0UQVI901">Liz Taylor’s ‘Cleopatra’ Robe, Wedding Gown Set Fashion Record</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                                        </span>
+                                    </span>
+          </div>
+</li>
+
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/sotheby-s-handles-lockout-costs-rise-2-4-million-ruprecht-given-bonus.html" class="q story_link bar" data-id="LW6JHV0UQVI901" data-type="Story" suid="LW6JHV0UQVI901">Sotheby’s Handles Lockout, Costs Rise $2.4 Million, Ruprecht Given Bonus</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                                        </span>
+                                    </span>
+          </div>
+</li>
+
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/bankers-on-ice-smart-matilda-kate-s-hotel-polar-pooch-london-weekend.html" class="q story_link bar" data-id="LW7BEC1A1I4L01" data-type="Story" suid="LW7BEC1A1I4L01">Bankers on Ice, Smart Matilda, Kate’s Hotel, Polar Pooch: London Weekend</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                                        </span>
+                                    </span>
+          </div>
+</li>
+
+        
+            
+<li class="exclusive last">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-14/nyc-s-ai-fiori-tertulia-head-10-best-new-restaurants-of-2011-ryan-sutton.html" class="q story_link bar" data-id="LW5J2E1A1I4I01" data-type="Story" suid="LW5J2E1A1I4I01">Tertulia Tops 2011 Best New Restaurants List: Ryan Sutton</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                                        </span>
+                                    </span>
+          </div>
+</li>
+
+        
+      </ul>
+      <div class="more">
+        <a style="padding-right: 120px;" onclick="oOobj4.OnClick()" href="javascript:void(0);">
+          <img width="9" border="0" height="9" style="margin-right:5px;" title="Rate These Stories" src="/onlineopinionOO4S/sm_blue_oo.gif?1276630831">Rate These Stories
+        </a>
+        <a href="/news/">More News</a>&nbsp;<span class="goto">»</span>
+      </div>
+    </div>
+    <script type="text/javascript">
+        $('#related_stories_test').hide();
+        if(stories_cookie_val == "a2"){
+            $('#non_stop_news_module').show();
+        }else if(stories_cookie_val == "a1" || stories_cookie_val == "a3"){
+            show_and_q();
+        }else if(stories_cookie_val == "a5"){
+            $('#reco_story_test').replaceWith($('#reco_story_test_a5'));
+            $('#reco_story_test_a5').show();
+            show_and_q();
+        }else if(stories_cookie_val != "a5" && stories_cookie_val != "a4"){
+            jsonpCall("GET", reco_link_test, {}, stories_success_callback, stories_error_callback);
+        }
+
+    </script>
+    
+    <div class="featured_modules clearfix">
+        
+
+
+
+<div class="dfp_ad_box ad_box ">
+    <div class="ad_box_title">Advertisement</div>
+                                                 
+<script xmlns:webad="http://www.bloomberg.com/webad" xmlns:wn="http://www.bloomberg.com/bloomberg-web-news" xmlns:nav="http://www.bloomberg.com/navigation" type="text/javascript">
+     adType = "DART";
+     Keys = "blp.news/muse/auctions/story";
+     dcop_val = "";
+     if (typeof surroundTag == "undefined" || surroundTag == "null") surroundTag = "";
+     if (surroundTagVal != ""){
+         surroundTagVal=BLOOMBERG.util.Cookie.get("surroundId");
+         surroundTagVal="srnd="+surroundTagVal+";";
+     }
+     if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+     if (typeof sub_domain_name == "undefined" || sub_domain_name == "null") sub_domain_name = "";
+     Size = "300x250,300x600";
+     Tile = "2";
+     Position = ";position=right2";
+     if(sub_domain_name == 'bb20ad'){
+       Keys = "blp.test";
+     }
+     ad_location = 'SideBar';
+     if (ad_location == 'Interstitial'){
+        if(no_dfp_interstitial == "false"){
+            CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+        }
+     }else{
+         CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+     }
+
+</script>
+    <script type="text/javascript">
+      surroundTag=BLOOMBERG.util.Cookie.get("surroundId");
+       if(surroundTag == ""){
+          if((surroundTag == "")&&(adid != "")){ // check if the ad should start a surround session only if a surround session has not yet started
+              surroundTag="srnd="+adid+";"; // setup the key-value for a surround session
+              BLOOMBERG.util.Cookie.set("surroundId",adid,"","/"); // store the surround session id in a cookie.  Set the expiration date of the cookie to determine how long the surround session should last.  For example, if the surround session should last just one day, then set the expiration date for the cookie to tomorrow.
+            }
+       }
+       else{
+            surroundTag="srnd="+surroundTag+";";
+       }
+
+    </script>
+
+
+                    </div>
+
+    </div>
+            
+        
+            
+
+    <div class="component secondary_stories" id="popular_stories">
+      <div class="header">
+        
+            <h2><a href='/popular/' class="chevron">Most Popular Stories</a>&nbsp;</h2>
+              </div>
+      <ul class="news_group">
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/wall-street-traders-confounded-as-global-volatility-extends-record-streak.html" class="q story_link bar" data-id="LW3RGM6K50XY01" data-type="Story" suid="LW3RGM6K50XY01">Traders Confounded as Volatility Extends Run</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                                        </span>
+                                          <span class="timestamp inline">Updated 1 hour ago</span>        </span>
+          </div>
+</li>
+
+
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/victoria-s-secret-revealed-in-child-picking-burkina-faso-cotton.html" class="q story_link bar" data-id="LVWX5G1A1I4H01" data-type="Story" suid="LVWX5G1A1I4H01">Victoria’s Secret Revealed in Child Labor</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                  <span class="has_video story_attachment">&nbsp;</span>
+                                                          </span>
+                                    </span>
+          </div>
+</li>
+
+
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/u-s-stock-futures-rise-before-new-york-philadelphia-manufacturing-data.html" class="q story_link bar" data-id="LW8NK16K50YP01" data-type="Story" suid="LW8NK16K50YP01">U.S. Stocks Gain on U.S. Economic Data</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                                        </span>
+                                          <span class="timestamp inline">Updated 31 minutes ago</span>        </span>
+          </div>
+</li>
+
+
+        
+            
+<li class="exclusive ">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/paulson-s-bright-spot-amid-slump-may-fade-as-gold-drops-to-five-month-low.html" class="q story_link bar" data-id="LW7L3607SXKX01" data-type="Story" suid="LW7L3607SXKX01">Paulson’s Bright Spot May Fade as Gold Plunges</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                  <span class="has_video story_attachment">&nbsp;</span>
+                                                          </span>
+                                    </span>
+          </div>
+</li>
+
+
+        
+            
+<li class="exclusive last">
+  <div class="news_item exclusive clearfix bar">
+            <a href="/news/2011-12-15/morgan-stanley-plans-to-cut-about-1-600-jobs-worldwide-in-first-quarter.html" class="q story_link bar" data-id="LW906S6K511601" data-type="Story" suid="LW906S6K511601">Morgan Stanley to Eliminate About 1,600 Jobs</a>        <span class="props">&nbsp;
+                      <span class="attachments">
+                                <span class="has_image story_attachment">&nbsp;</span>
+                                                  <span class="has_video story_attachment">&nbsp;</span>
+                                                          </span>
+                                          <span class="timestamp inline">Updated 1 hour ago</span>        </span>
+          </div>
+</li>
+
+
+        
+      </ul>
+      
+          <div class="more">
+            <a href="/popular/">More Most Popular Stories &raquo;</a>
+          </div>
+          </div>
+
+    <script type="text/javascript">
+      if(stories_cookie_val == "a4"){
+            $('#related_stories_test').clone().insertBefore("#popular_stories").attr('id', 'related_stories_test_a4');
+            $('#related_stories_test').replaceWith($('#popular_stories'));
+            $('#related_stories_test_a4').show();
+            if (BLOOMBERG.queue){
+                setTimeout("BLOOMBERG.queue.refresh_icon('#reco_story_test')", 100);
+            }
+            $(document).ready(function(){
+                $('.view_story #related_stories_test_a4').each(function(){
+                    $(this).mousedown(function(){
+                        BLOOMBERG.tracker.EVENTTRACK.record('Stories - More Stories Module Tracking', "click", window.location.href);
+                    });
+                });
+            });
+      }
+      if(stories_cookie_val == "a3" || stories_cookie_val == "a2"){
+        $(".nsn_special_handler #popular_stories").hide();
+      }
+    </script>
+
+
+        
+                        <div id="bb_lot_18" style="margin-bottom:15px;"><script type="text/javascript">
+document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/N5192.273558.BLOOMBERG/B6101052;sz=330x250;ord='+AD_RND_X+'?"'+'></SCR'+'IPT>');
+</script>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/jump/N5192.273558.BLOOMBERG/B6101052;sz=330x250;ord=1323974187?">
+<IMG SRC="http://ad.doubleclick.net/ad/N5192.273558.BLOOMBERG/B6101052;sz=330x250;ord=1323974187?" BORDER=0 WIDTH=330 HEIGHT=250 ALT="Advertisement"></A>
+</NOSCRIPT></div>
+<script type="text/javascript">
+      $("#bb_lot_18 a").mousedown(function(){
+          BLOOMBERG.tracker.EVENTTRACK.record('Lot_18_Ad', 'click', window.location.href);
+      });
+    </script>        
+        
+
+            <div class="featured_modules clearfix">
+        <div class="ad_box "><div class="ad_box_title">Sponsored Links</div>
+    <div class="FPO_medium_rectangle_ad" id="right_google_1">
+    <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-1979187633561026";
+        google_ad_slot = "7597199020";
+        google_ad_width = 300;
+        google_ad_height = 250;
+        //-->
+    </script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+    </div>
+</div>
+
+        </div>
+    
+                    <div class="featured_modules clearfix">
+        
+
+
+
+<div class="dfp_ad_box ad_box ">
+    <div class="ad_box_title">Advertisement</div>
+                                                 
+<script xmlns:webad="http://www.bloomberg.com/webad" xmlns:wn="http://www.bloomberg.com/bloomberg-web-news" xmlns:nav="http://www.bloomberg.com/navigation" type="text/javascript">
+     adType = "DART";
+     Keys = "blp.news/muse/auctions/story";
+     dcop_val = "";
+     if (typeof surroundTag == "undefined" || surroundTag == "null") surroundTag = "";
+     if (surroundTagVal != ""){
+         surroundTagVal=BLOOMBERG.util.Cookie.get("surroundId");
+         surroundTagVal="srnd="+surroundTagVal+";";
+     }
+     if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+     if (typeof sub_domain_name == "undefined" || sub_domain_name == "null") sub_domain_name = "";
+     Size = "300x250,1x1";
+     Tile = "3";
+     Position = ";position=right3";
+     if(sub_domain_name == 'bb20ad'){
+       Keys = "blp.test";
+     }
+     ad_location = 'SideBar2';
+     if (ad_location == 'Interstitial'){
+        if(no_dfp_interstitial == "false"){
+            CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+        }
+     }else{
+         CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+     }
+
+</script>
+    <script type="text/javascript">
+      surroundTag=BLOOMBERG.util.Cookie.get("surroundId");
+       if(surroundTag == ""){
+          if((surroundTag == "")&&(adid != "")){ // check if the ad should start a surround session only if a surround session has not yet started
+              surroundTag="srnd="+adid+";"; // setup the key-value for a surround session
+              BLOOMBERG.util.Cookie.set("surroundId",adid,"","/"); // store the surround session id in a cookie.  Set the expiration date of the cookie to determine how long the surround session should last.  For example, if the surround session should last just one day, then set the expiration date for the cookie to tomorrow.
+            }
+       }
+       else{
+            surroundTag="srnd="+surroundTag+";";
+       }
+
+    </script>
+
+
+                    </div>
+
+    </div>
+
+    
+            
+    <div class="featured_modules clearfix">
+    <div class="dfp_ad_box ad_box "><div class="ad_box_title">Advertisements</div>
+    <div class="micro_bar_content">
+    <div class="micro_bar_ad micro_bar_space" id="SideBar_micro_1">
+         
+<script xmlns:webad="http://www.bloomberg.com/webad" xmlns:wn="http://www.bloomberg.com/bloomberg-web-news" xmlns:nav="http://www.bloomberg.com/navigation" type="text/javascript">
+     adType = "DART";
+     Keys = "blp.news/muse/auctions/story";
+     dcop_val = "";
+     if (typeof surroundTag == "undefined" || surroundTag == "null") surroundTag = "";
+     if (surroundTagVal != ""){
+         surroundTagVal=BLOOMBERG.util.Cookie.get("surroundId");
+         surroundTagVal="srnd="+surroundTagVal+";";
+     }
+     if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+     if (typeof sub_domain_name == "undefined" || sub_domain_name == "null") sub_domain_name = "";
+     Size = "88x31";
+     Tile = "4";
+     Position = ";position=tradebar01";
+     if(sub_domain_name == 'bb20ad'){
+       Keys = "blp.test";
+     }
+     ad_location = 'Tiny0';
+     if (ad_location == 'Interstitial'){
+        if(no_dfp_interstitial == "false"){
+            CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+        }
+     }else{
+         CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+     }
+
+</script>
+    <script type="text/javascript">
+      surroundTag=BLOOMBERG.util.Cookie.get("surroundId");
+       if(surroundTag == ""){
+          if((surroundTag == "")&&(adid != "")){ // check if the ad should start a surround session only if a surround session has not yet started
+              surroundTag="srnd="+adid+";"; // setup the key-value for a surround session
+              BLOOMBERG.util.Cookie.set("surroundId",adid,"","/"); // store the surround session id in a cookie.  Set the expiration date of the cookie to determine how long the surround session should last.  For example, if the surround session should last just one day, then set the expiration date for the cookie to tomorrow.
+            }
+       }
+       else{
+            surroundTag="srnd="+surroundTag+";";
+       }
+
+    </script>
+
+
+    </div>
+
+          <div class="micro_bar_ad micro_bar_space" id="SideBar_micro_2">
+         
+<script xmlns:webad="http://www.bloomberg.com/webad" xmlns:wn="http://www.bloomberg.com/bloomberg-web-news" xmlns:nav="http://www.bloomberg.com/navigation" type="text/javascript">
+     adType = "DART";
+     Keys = "blp.news/muse/auctions/story";
+     dcop_val = "";
+     if (typeof surroundTag == "undefined" || surroundTag == "null") surroundTag = "";
+     if (surroundTagVal != ""){
+         surroundTagVal=BLOOMBERG.util.Cookie.get("surroundId");
+         surroundTagVal="srnd="+surroundTagVal+";";
+     }
+     if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+     if (typeof sub_domain_name == "undefined" || sub_domain_name == "null") sub_domain_name = "";
+     Size = "88x31";
+     Tile = "5";
+     Position = ";position=tradebar02";
+     if(sub_domain_name == 'bb20ad'){
+       Keys = "blp.test";
+     }
+     ad_location = 'Tiny1';
+     if (ad_location == 'Interstitial'){
+        if(no_dfp_interstitial == "false"){
+            CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+        }
+     }else{
+         CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+     }
+
+</script>
+    <script type="text/javascript">
+      surroundTag=BLOOMBERG.util.Cookie.get("surroundId");
+       if(surroundTag == ""){
+          if((surroundTag == "")&&(adid != "")){ // check if the ad should start a surround session only if a surround session has not yet started
+              surroundTag="srnd="+adid+";"; // setup the key-value for a surround session
+              BLOOMBERG.util.Cookie.set("surroundId",adid,"","/"); // store the surround session id in a cookie.  Set the expiration date of the cookie to determine how long the surround session should last.  For example, if the surround session should last just one day, then set the expiration date for the cookie to tomorrow.
+            }
+       }
+       else{
+            surroundTag="srnd="+surroundTag+";";
+       }
+
+    </script>
+
+
+      </div>
+      
+
+    <div class="micro_bar_ad micro_bar_space" id="SideBar_micro_4">
+         
+<script xmlns:webad="http://www.bloomberg.com/webad" xmlns:wn="http://www.bloomberg.com/bloomberg-web-news" xmlns:nav="http://www.bloomberg.com/navigation" type="text/javascript">
+     adType = "DART";
+     Keys = "blp.news/muse/auctions/story";
+     dcop_val = "";
+     if (typeof surroundTag == "undefined" || surroundTag == "null") surroundTag = "";
+     if (surroundTagVal != ""){
+         surroundTagVal=BLOOMBERG.util.Cookie.get("surroundId");
+         surroundTagVal="srnd="+surroundTagVal+";";
+     }
+     if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+     if (typeof sub_domain_name == "undefined" || sub_domain_name == "null") sub_domain_name = "";
+     Size = "88x31";
+     Tile = "6";
+     Position = ";position=tradebar03";
+     if(sub_domain_name == 'bb20ad'){
+       Keys = "blp.test";
+     }
+     ad_location = 'Tiny2';
+     if (ad_location == 'Interstitial'){
+        if(no_dfp_interstitial == "false"){
+            CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+        }
+     }else{
+         CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+     }
+
+</script>
+    <script type="text/javascript">
+      surroundTag=BLOOMBERG.util.Cookie.get("surroundId");
+       if(surroundTag == ""){
+          if((surroundTag == "")&&(adid != "")){ // check if the ad should start a surround session only if a surround session has not yet started
+              surroundTag="srnd="+adid+";"; // setup the key-value for a surround session
+              BLOOMBERG.util.Cookie.set("surroundId",adid,"","/"); // store the surround session id in a cookie.  Set the expiration date of the cookie to determine how long the surround session should last.  For example, if the surround session should last just one day, then set the expiration date for the cookie to tomorrow.
+            }
+       }
+       else{
+            surroundTag="srnd="+surroundTag+";";
+       }
+
+    </script>
+
+
+    </div>
+
+      
+          <div class="micro_bar_ad micro_bar_space" id="SideBar_micro_5">
+               
+<script xmlns:webad="http://www.bloomberg.com/webad" xmlns:wn="http://www.bloomberg.com/bloomberg-web-news" xmlns:nav="http://www.bloomberg.com/navigation" type="text/javascript">
+     adType = "DART";
+     Keys = "blp.news/muse/auctions/story";
+     dcop_val = "";
+     if (typeof surroundTag == "undefined" || surroundTag == "null") surroundTag = "";
+     if (surroundTagVal != ""){
+         surroundTagVal=BLOOMBERG.util.Cookie.get("surroundId");
+         surroundTagVal="srnd="+surroundTagVal+";";
+     }
+     if (typeof surroundTagVal == "undefined" || surroundTagVal == "null") surroundTagVal = "";
+     if (typeof sub_domain_name == "undefined" || sub_domain_name == "null") sub_domain_name = "";
+     Size = "88x31";
+     Tile = "7";
+     Position = ";position=tradebar04";
+     if(sub_domain_name == 'bb20ad'){
+       Keys = "blp.test";
+     }
+     ad_location = 'Tiny3';
+     if (ad_location == 'Interstitial'){
+        if(no_dfp_interstitial == "false"){
+            CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+        }
+     }else{
+         CallDfpAd(adType, HCat+dcop_val+surroundTagVal, Size, Tile, Keys, Position);
+     }
+
+</script>
+    <script type="text/javascript">
+      surroundTag=BLOOMBERG.util.Cookie.get("surroundId");
+       if(surroundTag == ""){
+          if((surroundTag == "")&&(adid != "")){ // check if the ad should start a surround session only if a surround session has not yet started
+              surroundTag="srnd="+adid+";"; // setup the key-value for a surround session
+              BLOOMBERG.util.Cookie.set("surroundId",adid,"","/"); // store the surround session id in a cookie.  Set the expiration date of the cookie to determine how long the surround session should last.  For example, if the surround session should last just one day, then set the expiration date for the cookie to tomorrow.
+            }
+       }
+       else{
+            surroundTag="srnd="+surroundTag+";";
+       }
+
+    </script>
+
+
+          </div>
+      
+
+      
+
+    </div>
+</div>
+
+    </div>
+
+    
+    <div id="news_last_update" style="display:none;">
+      <span>Last update: <span class="timestamp"><span class="time">3:22 AM ET</span>,&nbsp;<span class="date">Dec 15</span></span></span>
+    </div>
+
+    
+        <!-- sid: awoirQeyXkY4 -->
+    <!-- suid: LW70H66TTDSA01 -->
+        </div>
+        
+      </div>
+            
+      <div id="symac_suggest"></div>
+    </div>
+    
+<div id="footer_container" class="base_container">
+  <div id="footer" class="clearfix">
+    <div id="footer_social" class="footer_group">
+      <div><a id="footer_logo" class="logo_img" href="/">Bloomberg</a></div>
+      <ul>
+        <li><a rel="external" class="facebook" id="footer_facebook" href="http://www.facebook.com/BloombergNews">Bloomberg on<br/>Facebook</a></li>
+        <li><a rel="external" class="twitter" id="footer_twitter" href="http://www.twitter.com/bloombergnews">Follow Bloomberg<br/>on Twitter</a></li>
+        <li class="last"><a rel="external" class="linkedin" id="footer_linkedin" href="http://www.linkedin.com/today/bloomberg.com?trk=tod-src-tnav-1000020-0">Follow Bloomberg<br/>on LinkedIn</a></li>
+      </ul>
+      <div class="mobile-redirect"></div>
+      <script type="text/javascript">
+//<![CDATA[
+          BLOOMBERG.mobile.show_mobile_redirect_link();
+      
+//]]>
+</script>
+
+    </div>
+    <div id="footer_more" class="footer_group">
+      <h4>More from Bloomberg</h4>
+      <ul>
+        <li><a rel="external" id="footer_businessweek" href="http://www.businessweek.com/">Bloomberg Businessweek</a></li>
+        <li><a rel="external" id="footer_businessexchange" href="http://bx.businessweek.com/">Business Exchange</a></li>
+        <li><a rel="external" id="footer_brief" href="http://www.bloomberg.com/brief">Bloomberg Briefs</a></li>
+        <li><a rel="external" id="footer_bgov" href="http://www.bgov.com/">Bloomberg Government</a></li>
+        <li><a rel="external" id="footer_bht" href="http://www.bloomberght.com/">Bloomberg HT</a></li>
+        <li><a rel="external" id="footer_binstitute" href="http://www.bloomberginstitute.com/">Bloomberg Institute</a></li>
+        <li><a rel="external" id="footer_bjapan" href="http://www.bloomberg.co.jp">ブルームバーグ(日本語)</a></li>
+        <li><a rel="external" id="footer_blaw" href="http://www.bloomberglaw.com">Bloomberg Law</a></li>
+      </ul>
+      <ul>
+        <li><a rel="external" id="footer_bblink" href="http://www.bloomberglink.com/">Bloomberg Link</a></li>
+        <li><a href="/markets-magazine/">Bloomberg Markets Magazine</a></li>
+        <li><a rel="external" id="footer_bmart" href="http://www.bmart.com/">Bloomberg Mart</a></li>
+        <li><a rel="external" id="footer_new_energy_finance" href="http://www.newenergyfinance.com/">Bloomberg New Energy Finance</a></li>
+        <li><a rel="external" id="footer_open_symbol" href="http://bsym.bloomberg.com">Bloomberg Open Symbology</a></li>
+        <li><a rel="external" id="footer_bpress" href="http://www.wiley.com/remsection.cgi?discount=BLOOM&amp;navid=404407">Bloomberg Press</a></li>
+        <li><a rel="external" id="footer_bsports" href="http://www.bloombergsports.com/">Bloomberg Sports</a></li>
+        <li><a rel="external" id="footer_jobs_by_indeed" href="http://jobs.bloomberg.com/">Jobs by Indeed</a></li>
+      </ul>
+    </div>
+    <div id="footer_company" class="footer_group">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="/company/">About Bloomberg</a></li>
+        <li><a href="/careers/">Careers</a></li>
+        <li><a href="/about/pressroom/">Press Room</a></li>
+        <li><a class="footer_link" href="http://www.bloombergmedia.com/">Advertising</a></li>
+        <li><a href="/about/contact/">Contact Us</a></li>
+        <li><a href="http://www.bloomberg.cn/">&#20851;&#20110;&#24429;&#21338;&#20013;&#22269;</a></li>
+        <li><a href="http://about.bloomberg.co.jp/">会社概要(日本語)</a></li>    
+      </ul>
+      <ul>
+        <li><a href="/help.html">Help</a></li>
+        <li><a href="/sitemap/">Sitemap</a></li>
+        <li><a href="/notices/trademarks.html">Trademarks</a></li>
+        <li><a href="/apps/feedback">Feedback</a></li>
+        <li><a class="footer_link" href="/notices/tos.html">Terms of Service</a></li>
+        <li><a class="footer_link" href="/notices/privacy.html">Privacy Policy</a></li>
+      </ul>
+    </div>
+    <div id="footer_bottom_part">
+        <div id="opinion_lab">
+          <a href="javascript:void(0);" onClick="oOobj2.OnClick()">
+            <img src="http://cdn.gotraffic.net/v/20111213_150318/onlineopinionOO4S/sm_FAB000_oo.gif" border="0" title="Rate this Page" style="margin-right:5px;" />
+            Rate this Page
+          </a>
+        </div>
+        <div id="copyright_statement">
+          <span>&copy;2011 BLOOMBERG L.P. ALL RIGHTS RESERVED.</span>
+          <a href="http://nytm.org/made" target="_blank" rel="nofollow external" id="made_in_nyc">Made in NYC</a>
+        </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+    if (reg_enabled) {
+            document.write("<scr" + "ipt type='text/javascript' src='http://cdn.gotraffic.net/r/v/20111130_091545/javascripts/breg-min.js'>" + "</scr" + "ipt>");
+            $(document).ready(function() {
+            if (BLOOMBERG.user){ BLOOMBERG.user.init({"u":"https://login.bloomberg.com","enable_tracking_cookies":true}); }
+        });
+    }
+    if (q_enabled && reg_enabled) {
+            document.write("<scr" + "ipt type='text/javascript' src='http://cdn.gotraffic.net/q/v/20111201_180747/javascripts/q-min.js'>" + "</scr" + "ipt>");
+            $(document).ready(function() {
+            if (BLOOMBERG.queue){ BLOOMBERG.queue.init({"url":"https://login.bloomberg.com/q"}); }
+        });
+    }
+</script>
+
+
+    <script type="text/javascript">
+//<![CDATA[
+
+        $(".share").bindShare();
+        window.onload = function()
+        {
+            BLOOMBERG.tracker.EVENTTRACK.record("more_stories", "loaded", "bucket" + getcombo_ga());
+            <!--var hash_array = window.location.hash.split("&");-->
+            <!--var section_name = hash_array[0].substring(1, hash_array[0].length);-->
+            <!--var slot_num = hash_array[1];-->
+            <!--window.location.hash = "";-->
+            var section_name = "";
+            var slot_num = "";
+            sendAJAXRequest( createAJAXRequestor(),'GET','/apps/data?referrer=' + document.referrer + '&section_name=' + section_name + '&slot_id=' + slot_num + '&pid=trackstoryhits&sgid=LW70H66TTDSA01',null,null );
+        }
+    
+//]]>
+</script>    
+    
+            <!--<script type="text/javascript" src="http://static.newstogram.com/bloomberg-v3/js/histogram.js"></script>-->
+        <script type="text/javascript">
+//<![CDATA[
+            $(window).bind("load", function() {
+              $.getScript('http://static.newstogram.com/bloomberg-v3/js/histogram.js',function(){
+                Newstogram.init('cdf74d8e9f86d84da565a74135adf113');
+                Newstogram.pageView();
+              });
+            });
+        
+//]]>
+</script>                <!-- Google Website Optimizer Tracking Script -->
+        <script type="text/javascript">
+            if(typeof(_gat)!='object')document.write('<sc'+'ript src="http'+
+                    (document.location.protocol=='https:'?'s://ssl':'://www')+
+                    '.google-analytics.com/ga.js"></sc'+'ript>')</script>
+        <script type="text/javascript">
+          $(window).bind("load", function() {
+            try {
+                var gwoTracker=_gat._getTracker("UA-11413116-3");
+                gwoTracker._trackPageview("/0168891469/test");
+            }catch(err){}
+          });
+        </script>
+        <!-- End of Google Website Optimizer Tracking Script -->
+    
+
+        
+        
+
+
+    <script type="text/javascript">
+        var disqus_shortname = 'bloombergview';
+        $(window).bind("load", function() {
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        });
+    </script>
+
+        
+
+<div id="third_party_trackers">
+  <script type="text/javascript">
+    $(window).load(function () {BLOOMBERG.comscore.track();});
+  </script>
+  <noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3005059" height="1" width="1" alt="*"></p></noscript>
+        <script src="http://cdn.gotraffic.net/v/20111213_150318/javascripts/s_code_p-min.js" type="text/javascript"></script>  
+          <script src="http://cdn.gotraffic.net/v/20111213_150318/onlineopinionOO4S/oo_engine_c_all-min.js" type="text/javascript"></script>  
+            <script src="http://cdn.gotraffic.net/v/20111213_150318/onlineopinionOO4S/oo_conf_en-US_inline_stories-min.js" type="text/javascript"></script>      
+
+
+      <script type="text/javascript">
+          // <![CDATA[
+          try {
+              var reco_cookie = BLOOMBERG.util.Cookie.get("hprec201108");
+              var reco_more_stories = BLOOMBERG.util.Cookie.get("morestories201112");
+              var opt = BLOOMBERG.util.Cookie.get("opt");
+              var ga_companypage = BLOOMBERG.util.Cookie.get("companypage");
+              var ga_viewvsopinion = BLOOMBERG.util.Cookie.get("bviewopn");
+              var marhptest = '';
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', BLOOMBERG.global_var.gaTrackAcct]);
+              _gaq.push(['_setCustomVar',  1,  "reco_cookie", reco_cookie,  1]);
+              _gaq.push(['_setCustomVar',  2,  "morestories201112", reco_more_stories, 1]);
+              _gaq.push(['_setCustomVar',  3,  "opt",   opt,  1]);
+              _gaq.push(['_setCustomVar',  4,  "companypages",   ga_companypage,  1]);
+              _gaq.push(['_setCustomVar',  5,  "viewvsopinion",   ga_viewvsopinion,  1]);
+                        if(typeof(bbPageTrackUrl) == 'undefined')
+                _gaq.push(['_trackPageview']);
+              else
+                _gaq.push(['_trackPageview', bbPageTrackUrl]);
+
+              (function() {
+                  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+          } catch(err) {
+            //
+          }
+          // ]]>
+      </script>
+
+
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=K05539"></script>
+<script type="text/javascript">
+      K05539.DM_addEncToLoc("NI TAGS", story_ni_code);
+      K05539.DM_tag();
+</script>
+      <script type="text/javascript">
+//<![CDATA[
+    $(window).bind("load", function() {
+      $.getScript('http://log2.quintelligence.com/qlog.js',function(){
+        quintTracker(2);
+      });
+    });
+  
+//]]>
+</script>        <script type='text/javascript'>
+          var _sf_async_config={};
+          _sf_async_config.uid = 15087;
+          _sf_async_config.domain = 'bloomberg.com';
+          _sf_async_config.sections = '';
+          _sf_async_config.authors = 'Rodney Jefferson';
+          (function(){
+            function loadChartbeat() {
+              window._sf_endpt=(new Date()).getTime();
+              var e = document.createElement('script');
+              e.setAttribute('language', 'javascript');
+              e.setAttribute('type', 'text/javascript');
+              e.setAttribute('src',
+                 (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+                 'js/chartbeat.js');
+              document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+               loadChartbeat : function() { oldonload(); loadChartbeat(); };
+          })();
+      </script>
+  
+
+           <!-- START Nielsen Online SiteCensus V6.0 -->
+        <!-- COPYRIGHT 2010 Nielsen Online -->
+        <script type="text/javascript">
+          $(window).load(function () {
+              var d = new Image(1, 1);
+              d.onerror = d.onload = function () {
+               d.onerror = d.onload = null;
+              };
+              d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-905417h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+          });
+        </script>
+        <noscript>
+          <div>
+            <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-905417h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+            width="1" height="1" alt="" />
+          </div>
+        </noscript>
+        <!-- END Nielsen Online SiteCensus V6.0 -->
+    
+  </div>
+<!--
+  production
+  1.152767 : Thu Dec 15 13:36:27 -0500 2011
+-->
+                    <script src="http://cdn.gotraffic.net/v/20111213_150318/onlineopinionv5/oo_engine_all-min.js" type="text/javascript"></script>    <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","32a39e099b",94319,"JVwPEhAJDlRSQ0tKEglBCAMRSRFQWEY=",0,1178,new Date().getTime(),"","","","",""])</script></body>
+</html>
+

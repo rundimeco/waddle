@@ -1,0 +1,506 @@
+
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+	<!-- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"  "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd" > -->
+	<html>
+	<head>
+	<link href="/general.css" type="text/css" rel="stylesheet">
+	<link rel="icon" type="image/gif" href="http://www.managementinpractice.com/images/mip/favicon.gif">
+	<link href="http://mip-live.campden.com/mip.css" type="text/css" rel="stylesheet">
+	<title>Management in Practice - Getting to grips with CQC outcomes and compliance</title>
+	<script type="text/javascript" src="http://www.managementinpractice.com/include/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="http://www.managementinpractice.com/include/javascript.asp"></script>
+	<script type="text/javascript" src="http://www.managementinpractice.com/include/scriptaculous.js?load=effects"></script>
+	<script type="text/javascript" src="http://www.managementinpractice.com/include/managementinpractice.js"></script>
+
+	<script type="text/javascript" src="http://www.pelotoninteractive.com/campden/swfobject.js"></script>
+	<script type="text/javascript" src="http://www.managementinpractice.com/include/peloton.js"></script>
+
+	<link rel="stylesheet" href="http://www.managementinpractice.com/include/lightbox.css"    type="text/css" media="screen" />
+
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+	<script type="text/javascript">
+
+	jQuery(document).ready(function() {
+	
+		if (jQuery(".headlines #im0").length)
+		{
+			window.setInterval('rotateHeadlines()', 5000);
+		}
+		
+		lineUpByID('#gpbcontent','#topstoriescontent');	
+		lineUpByID('#panelNutrition','#panelProfessional');	
+
+
+		/***********************************************
+		* Easy Email Scrambler script- © Dynamic Drive (www.dynamicdrive.com)
+		* This notice MUST stay intact for legal use
+		* Visit http://www.dynamicdrive.com/ for full source code
+		***********************************************/
+		
+		var maildivider="{encrypt@thisemail}" //enter divider you use to divide your email address strings
+		
+		for (i=0; i<=(document.links.length-1); i++)
+		{
+			if (document.links[i].href.indexOf(maildivider)!=-1)
+			document.links[i].href=document.links[i].href.split(maildivider)[0]+"@"+document.links[i].href.split(maildivider)[1]
+		}
+
+	 	jQuery("#ATE_RevealOldQuestions").show();
+	 	jQuery("#ATE_OldQuestions").hide();
+	 
+	 	jQuery("#ATE_HREF_RevealOldQuestions").click(function () {
+	 		jQuery("#ATE_OldQuestions").show();
+	 		jQuery("#ATE_RevealOldQuestions").hide();
+	 		
+	 		jQuery('html, body').animate({
+				scrollTop: $("#ATE_OldQuestions").offset().top
+			}, 2000);
+	 	});
+	});
+	
+	
+	function mipPelotonVideo(sSource, sId, nWidth, nHeight)
+	{
+		insertPelotonVideo(sSource, sId, nWidth, nHeight, 'anonymous');
+	}
+	
+	function styTog(targ_id,sty_attrJ,sty_attrC,set_val)
+		{
+		var targ=document.getElementById(targ_id);
+		var targ_stat="";
+		var targ_sty="";
+		var attr_chk=sty_attrC.toLowerCase()
+		var excp_flag=0;
+		
+		if(attr_chk.indexOf("color")!=-1 || attr_chk.indexOf("font")!=-1)
+			{
+			excp_flag=1;
+			
+			if(!document.getElementById("zedSpan"))
+				{
+				var insSpan=document.createElement("span");
+				insSpan.setAttribute("id","zedSpan");
+				document.body.appendChild(insSpan);
+				}
+	
+			var zS=document.getElementById("zedSpan").style
+			zS[sty_attrJ]=set_val;
+			}
+		
+			if(targ.currentStyle)
+			{  //code for IE
+				if(excp_flag==1)set_val=zS[sty_attrJ];
+				targ_stat=targ.currentStyle[sty_attrJ];
+			}
+			else
+			{  //code for W3C-spec-compatible
+				if(excp_flag==1)
+					{
+					var tst_span=document.getElementById("zedSpan");
+					var tst_sty=document.defaultView.getComputedStyle(tst_span,"");
+						set_val=tst_sty.getPropertyValue(sty_attrC);
+						excp_flag=0;
+					}
+				targ_sty=document.defaultView.getComputedStyle(targ,"");
+				targ_stat=targ_sty.getPropertyValue(sty_attrC);
+			}
+
+			if (targ_stat!=set_val)
+			{
+				try { targ.style[sty_attrJ]=set_val; } catch(e) {}
+			}
+			else
+			{
+				targ.style[sty_attrJ]="";
+			}
+
+		}
+
+	/***********************************************
+	* Encrypt Email script- Please keep notice intact
+	* Tool URL: http://www.dynamicdrive.com/emailriddler/
+	* **********************************************/
+	var encryptedemail_id1=''; 
+	
+	var emailriddlerarray=[109,105,112,64,99,97,109,112,100,101,110,46,99,111,109];
+	for (var i=0; i<emailriddlerarray.length; i++) encryptedemail_id1+=String.fromCharCode(emailriddlerarray[i])
+	</script>
+	
+		<!-- Google Analytics	-->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-1425819-3";
+	urchinTracker();
+	</script>
+	<!-- / Google Analytics	-->
+
+	<meta name="Description" content="eLearning is a useful way to prove competence in key standards &#8211; &amp;#8232;Blue Stream Learning&#8217;s modules are user-friendly and cost-effective">
+
+	<meta name="Keywords"    content="Agenda for Change,Locum GPs,Healthcare assistants,IM&T,Choose and Book,Patient records,Electronic Transfer of Prescriptions,ETP,Medicolegal advice,Health and Safety legislation,Partnership Issues,General Medical Services contract,GMS,Primary healthcare team,Practice manager partners,Nonclinical partners,General practice development,Patient Access,General Out-of-hours care,Disability equality,Waiting times,Opening hours,Walk-in centres,Patient Services,Expert patient programmes,Primary care awards,Patient information,Patient participation groups,PBC, Practice-based commissioning,Quality and Outcomes Framework,QOF,Directed Enhanced Services,DES, Local Enhanced Services,LES,Pharmacy,Drugs,NICE guidance,Medicines management, Practice-based pharmacies,Primary Care Development,Practice management development, Department of Health policy,Private sector involvement,General practice innovation,Risk Management,Compensation claims,Pandemic flu preparation, Violence management,Statutory and Mandatory training">
+ 
+
+	
+				<meta property="og:image" content="http://www.managementinpractice.com/image.asp?iid=9996&itid=13">
+				
+	</head>
+	<body onLoad="roinit();">
+						<div class="topleader widthcontainer">
+							<div class="logo"><a href="http://www.managementinpractice.com/default.asp" title="Home"><img border=0 src="http://www.managementinpractice.com/images/mip/miplogowithstrap.gif" alt="MIP logo"></a></div>
+							<div class="topinfo">
+								<span class="date">Thursday&nbsp;15&nbsp;December&nbsp;2011</span>
+								
+		<a href="http://www.managementinpractice.com/default.asp?page=account.register">Register</a>&nbsp;&nbsp;
+		<a href="http://www.managementinpractice.com/default.asp?page=account.myaccount">Login</a>
+		
+							</div>
+							<div class="topads">
+								
+	<!-- ad_GetRotationCount = 39 -->
+	<div class='advsitewidebanner'><div  style="position:relative;"><object style='display:block;' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0' width=468 height=60 id='adv2_3372'><param name='allowScriptAccess' value='sameDomain' /><param name='movie' value='http://www.managementinpractice.com//adverts/?id=3372&ref=' />
+<param name='FlashVars' value='clickTag=http%3A%2F%2Fwww%2Emanagementinpractice%2Ecom%2Fadverts%2F%3Fid%3D3372%26r%3D1%26ref%3D' />
+<param name='quality' value='high' />
+<param name='bgcolor' value='#ffffff' />
+<param name='wmode' value='transparent' />
+<param name='href' value='http://www.managementinpractice.com//adverts/?id=3372&r=1&ref=' />
+<embed FlashVars="clickTag=http%3A%2F%2Fwww%2Emanagementinpractice%2Ecom%2Fadverts%2F%3Fid%3D3372%26r%3D1%26ref%3D" wmode="transparent" style="position:absolute;left:0;" src='http://www.managementinpractice.com//adverts/?id=3372&ref=' quality='high' bgcolor='#ffffff' width=468 height=60 name="Advert3372" allowScriptAccess='sameDomain' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' />
+</object>
+<div style="z-index:100;position:absolute;padding:0;margin:0;left:0;top:0;"><a target="_new" href='http://www.managementinpractice.com/adverts/?id=3372&r=1&ref='><img src="http://www.managementinpractice.com//images/clear.gif" width=468 Height=60></a></div></div></div>
+
+							</div>
+							<div class="clr"></div>
+						</div> <!-- /topleader /widthcontainer -->
+						
+						<div class="menubar">
+							<div class="widthcontainer">
+								<div class="breadbar">
+									<div class="menu">
+										
+	<ul>
+	<li ><a href="http://www.managementinpractice.com/zone/Commissioning">Commissioning</a></li><li ><a href="http://www.managementinpractice.com/zone/CQC">CQC</a></li><li ><a href="http://www.managementinpractice.com/zone/HR">HR</a></li><li ><a href="http://www.managementinpractice.com/zone/IM&T">IM&amp;T</a></li><li ><a href="http://www.managementinpractice.com/zone/Legislation">Legislation</a></li><li ><a href="http://www.managementinpractice.com/zone/Patient_Services">Patient Services</a></li><li ><a href="http://www.managementinpractice.com/zone/Premises">Premises</a></li><li ><a href="http://www.managementinpractice.com/zone/Primary_Care_Development">Primary Care Development</a></li><li ><a href="http://www.managementinpractice.com/zone/Risk_Management">Risk Management</a></li><li class="last"><a href="http://www.managementinpractice.com/zone/Training">Training</a></li>
+	</ul>
+<!--
+	<a class="first" href="http://www.managementinpractice.com/">Home</a>
+	<a href="http://www.managementinpractice.com/page/news.home">News</a>
+	<a href="http://www.managementinpractice.com/page/features.home">Features</a>
+	<a href="http://www.managementinpractice.com/page/managementzone.home">Management Zones</a>
+	<a href="http://www.managementinpractice.com/page/personalpractice">Personal Practice</a>
+	<a href="http://www.managementinpractice.com/page/subscribe.home">Subscribe</a>
+	<a href="http://www.managementinpractice.com/page/contacts">Contact Us</a>
+-->
+	
+										<!--
+										<div class="rss">
+										<span style="float:right;"><a href="http://www.managementinpractice.com/?page=static&name=RSS">(what's this?)</a></span>
+										<span style="float:right;position:relative;top:1px;margin-right:3px;"><a href="http://feeds.feedburner.com/ManagementInPractice"><img border=0 src="http://www.managementinpractice.com/images/mip/rss-icon.gif" width=16 height=16></a></span>
+										<span style="float:right; margin-right:3px;"><a href="http://feeds.feedburner.com/ManagementInPractice">Get RSS news feed</a></span>
+										</div>
+										-->
+									</div>
+									<div class="upper"></div>
+									<div class="lowerright">
+									
+	<div class="searchbox">
+		<b>Search</b>&nbsp;
+		<form method="get" action="/default.asp">
+		<input type="hidden" name="page" value="article.search">
+		<select id="category.id" name="category.id">
+		<option value="0">All zones</option>
+		<option value="335">Commissioning</option>
+			<option value="546">CQC</option>
+			<option value="326">Finance</option>
+			<option value="329">HR</option>
+			<option value="330">IM&amp;T</option>
+			<option value="331">Legislation</option>
+			<option value="520">Medical Equipment</option>
+			<option value="337">Partnership Issues</option>
+			<option value="332">Patient Access</option>
+			<option value="333">Patient Services</option>
+			<option value="334">Pharmacy and Drugs</option>
+			<option value="336">Premises</option>
+			<option value="327">Primary Care Development</option>
+			<option value="328">Risk Management</option>
+			<option value="325">Training</option>
+			
+		</select>
+		&nbsp;for&nbsp;
+		<input type="text" id="search.text" name="search.text" size=16 value="">
+		
+		<input type="submit" class="submitbutton" value="Search">
+		</form>
+	</div>
+	
+									</div>
+									<div class="lowerleft">
+	<div class="crumbtitle">You are here:</div>
+	<div class="crumbviewport"  id="crumbviewport">
+	<div class="crumbcontainer" id="crumbcontainer">
+	
+	<script type="text/javascript">
+		document.write('<a class="last" href="http://www.managementinpractice.com/article/27749/Getting_to_grips_with_CQC_outcomes_and_compliance" title="Getting to grips with CQC outcomes and compliance">Getting to...</a>');
+	</script>
+	<noscript>
+	<a class="last" href="http://www.managementinpractice.com/article/27749/Getting_to_grips_with_CQC_outcomes_and_compliance" title="Getting to grips with CQC outcomes and compliance">Getting to...</a>
+	</noscript>
+	</div> <!-- /crumbcontainer -->
+	<div class='clr'></div>
+	</div> <!-- /crumbviewport -->
+
+	<script type="text/javascript">
+		var oContainerDiv   = document.getElementById("crumbcontainer");
+		var nContainerWidth = oContainerDiv.offsetWidth;
+
+		var oViewPortDiv    = document.getElementById("crumbviewport");
+		var nViewPortWidth  = oViewPortDiv.offsetWidth;
+		
+		while (nContainerWidth > nViewPortWidth)
+		{
+			var sHTML    = oContainerDiv.innerHTML;
+			var nIndex   = sHTML.indexOf("|");
+			
+			if (nIndex > -1)
+			{
+				oContainerDiv.innerHTML = sHTML.substring(nIndex+1);
+				nContainerWidth = oContainerDiv.offsetWidth;
+			}
+			else
+			{
+				break;
+			}
+		}
+	</script>
+	</div>
+									<div class="clr"></div>
+								</div> <!-- /breadbar -->
+							</div><!-- /widthcontainer -->
+							<div class="clr"></div>
+						</div><!-- /menubar -->
+
+						
+						<div class="sitebody widthcontainer">
+						<div class="leftcol">
+						
+	<div style="border-bottom:solid 3px white;"><!-- quicklinks -->
+	
+		<div class="quicklink" id=""><div class="linkcontainer"><a href="http://www.managementinpractice.com/default.asp">Home</a></div></div>
+		
+		<div class="quicklink" id=""><div class="linkcontainer"><a href="http://www.managementinpractice.com/page/issue.home">Latest Issue</a></div></div>
+		
+		<div class="quicklink" id=""><div class="linkcontainer"><a href="http://www.managementinpractice.com/page/event.home">Events</a></div></div>
+		
+		<div class="quicklink" id=""><div class="linkcontainer"><a href="http://www.managementinpractice.com/page/cpd?cpdmenu=1"><b>CPD Zone</b></a></div></div>
+		
+		<div class="quicklink" id=""><div class="linkcontainer"><a href="http://www.managementinpractice.com/page/event.instancehome?event.id=4&amp;event.locationid=12&amp;event.instanceid=70">Awards</a></div></div>
+		
+		<div class="quicklink" id=""><div class="linkcontainer"><a href="http://www.managementinpractice.com/page/suppliers.home">Suppliers Guide</a></div></div>
+		
+		<div class="quicklink" id=""><div class="linkcontainer"><a href="http://www.managementinpractice.com/static/Special_Offers?ad-rhs-disable=1">Special Offers</a></div></div>
+		
+		<div class="quicklink" id=""><div class="linkcontainer"><a href="http://www.managementinpractice.com/page/advertise">Advertise</a></div></div>
+		
+		<div class="quicklink" id=""><div class="linkcontainer"><a href="http://www.managementinpractice.com/page/bulletin.home">News Email</a></div></div>
+		
+	</div><!-- /quicklinks -->
+	
+	<div class="lefthandpanel">
+		<div class="title">Flu Season Video</div>
+		<div class="content">As practices prepare for the winter flu vaccination season, we've produced a <b><a href="/fluseason">5 minute video</a></b> to help practice managers get ready for a very important and hectic part of the year.</div>
+	</div>
+	
+	<div class="lefthandpanel">
+		<div class="title">Get the magazine</div>
+		<div class="content"><center><a href="http://www.managementinpractice.com/default.asp?page=magazine.register"><img alt="Apply for a free copy here" class="thinborder" src="http://www.managementinpractice.com/image.asp?iid=9859&itid=28" width=150></a></center><div style="padding-right:5px;text-align:center;color:#A3060F">Apply for a free copy here</div></div>
+	</div>
+	
+	<div class="lefthandpanel">
+	<div class="title">Management Zones</div>
+	<div class="content" id="doublespaced">
+	<a href="http://www.managementinpractice.com/zone/Commissioning">Commissioning</a><br>
+		<a href="http://www.managementinpractice.com/zone/CQC">CQC</a><br>
+		<a href="http://www.managementinpractice.com/zone/Finance">Finance</a><br>
+		<a href="http://www.managementinpractice.com/zone/HR">HR</a><br>
+		<a href="http://www.managementinpractice.com/zone/IM&T">IM&amp;T</a><br>
+		<a href="http://www.managementinpractice.com/zone/Legislation">Legislation</a><br>
+		<a href="http://www.managementinpractice.com/zone/Medical_Equipment">Medical Equipment</a><br>
+		<a href="http://www.managementinpractice.com/zone/Partnership_Issues">Partnership Issues</a><br>
+		<a href="http://www.managementinpractice.com/zone/Patient_Access">Patient Access</a><br>
+		<a href="http://www.managementinpractice.com/zone/Patient_Services">Patient Services</a><br>
+		<a href="http://www.managementinpractice.com/zone/Pharmacy_and_Drugs">Pharmacy and Drugs</a><br>
+		<a href="http://www.managementinpractice.com/zone/Premises">Premises</a><br>
+		<a href="http://www.managementinpractice.com/zone/Primary_Care_Development">Primary Care Development</a><br>
+		<a href="http://www.managementinpractice.com/zone/Risk_Management">Risk Management</a><br>
+		<a href="http://www.managementinpractice.com/zone/Training">Training</a><br>
+		
+	</div> <!--/content-->
+	</div> <!--/lefthandpanel-->
+	
+		<br>
+		<a target="_new" title="Supported by AMSPAR" href="http://www.amspar.com/"><img src="http://www.managementinpractice.com/images/mip/amspar.jpg" width=125 height=154 alt="Supported by AMSPAR" style="border:0;margin-top:5px;margin-left:10px;"></a>
+		<a target="_new" title="Royal College of General Practitioners" href="http://www.rcgp.org.uk/"><img src="http://www.managementinpractice.com/images/mip/rcgp.gif" width=125 height=125 alt="RCGP logo" style="border:0;margin-top:5px;margin-left:25px;"></a>
+		<a target="_new" title="@GPpracticeMGMT Twitter feed" href="http://twitter.com/GPpracticeMGMT"><img src="http://www.managementinpractice.com/images/twitter1.gif" width=130 height=24 alt="Twitter feed" style="border:0;margin-top:10px;margin-left:22px;"></a>
+	
+						</div> <!-- /leftcol -->
+						
+							<div class="rightcol">
+							
+	<h2>Advertisement Feature</h2>
+	<div class="contentbar"></div>
+	
+		<table border=0 cellpadding=0 cellspacing=0 width=660>
+		<tr>
+		
+				<td width=440 valign='top' style='padding-top:5px;'>
+				<div class='lo_standard'>		<div class="social-buttons">		<div class="twitter">		<a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>		</div>		<div class="google">		<g:plusone size="small" count="false"></g:plusone>		</div>		<div class="facebook">		<fb:like href="" send="false" layout="button_count" width="45" show_faces="false" font=""></fb:like>		</div> <!-- /facebook -->	</div><h1>Getting to grips with CQC outcomes and compliance</h1>
+<!-- Article Start -->
+<p><b>Thursday 15th December 2011</b></p>
+
+<div class="lo_optionsfloatright" style="width:200px;"><img src="http://www.managementinpractice.com/image.asp?iid=9996&itid=13" width=200 alt="Bluestream logo">
+
+
+
+
+</div> <!-- /lo_optionsfloatright -->
+<p>By 1 April 2013 all GP practices must be registered with the Care Quality Commission (CQC) and declare that they are compliant with 16 'Core Quality and Safety Standards' for the regulated activities they provide. <br /></p>        
+<p>No doubt many practice managers are considering eLearning as a way of proving staff competence in each of the key areas, as it is a sure way of showing who was trained, when training took place and that the trainee achieved the required pass mark to be deemed competent.<br /></p>        
+<p>While it is a fact that eLearning will be an essential tool in the practice manager's toolbox with regard to proving compliance it is important that:<br /></p>        
+<ul>        
+<li>It is easy to use.</li>        
+<li>It is in line with CQC outcomes. </li>        
+<li>It is cost-effective.</li>        
+<li>It provides proof of competency.</li></ul>        
+<p>Blue Stream Learning Limited, an established provider of eLearning to the acute and primary care sectors of the NHS, has developed a suite of interactive training modules that ticks each of &#8232;these boxes.<br /></p>        
+<p>Training information is presented clearly and in an easy-to-navigate format, there are case studies and knowledge tests with randomly selected questions to give a true assessment of competency and a certificate is provided for printing or storing in &#8232;the database.<br /></p>        
+<p>In order to gauge the quality and accuracy of the content in terms of the needs of GP practices, Blue Stream Learning engaged the help of a number of pilot GP practice sites both locally and nationally.<br /></p>        
+<p>Whitemoor Medical Centre in Belper, Derbyshire have piloted Blue Stream's eLearning modules and have recently completed the Information Governance and Fire Safety modules during Quest sessions; feedback has been excellent, with trainees finding the training informative and very easy to navigate. It is also proving very cost-effective in comparison with other traditional methods, with the added benefit of providing auditable &#8232;training records.<br /></p>        
+<p>In addition, the ability to do the training 'at a time and in a place' that is convenient to the trainee enables them to provide training for staff members unable to attend pre-arranged training sessions. They are planning on incorporating further &#8232;modules into next year's training plan. <br /></p>        
+<p>Use of the Blue Stream Learning GP Practice eLearning suite could not be simpler, registration is free and there are no annual subscription fees. The cost is based on a completed training module (there is a bookmark facility to allow a trainee to leave and return to the training module if required). Purchased training courses do not expire and there is no minimum commitment.<br /></p>        
+<p>The suite resides on a secure server and can be accessed by a unique PIN code, which is practice specific. Each trainee registers on the system and is then presented with a menu of CQC outcomes. When each outcome is selected the trainee is able to choose from a drop-down list of compliance-&#8232;related topics.<br /></p>        
+<p>The trainee can access the Management Information System (MIS) to view/print their training record and the practice manager/training manager can access all records for their practice for statistical/audit purposes.<br /></p>        
+<p>There has never been a greater need for a consistent comprehensive training tool within the GP practice environment and Blue Stream Learning Limited has: <br /><br /><span style="font-weight: bold;">The right products at the right time and &#8232;at the right cost.</span><br /><br />Call us for more information on our freephone number 0800 1588661.</p><span style="font-weight: bold;"><br />Blue Stream Learning Limited</span><br />  
+<p>67 King Street<br />Belper<br />Derbyshire DE56 1QA<br /></p>    
+<p><a target="_blank" href="http://www.bluestreamlearning.com/">www.bluestreamlearning.com</a></p>        
+
+
+
+<!-- Article End -->
+<br clear=all></div> <!-- /lo_standard -->
+
+			<div class="articleoptions">
+				<div class="returntotop">
+					<a href="javascript:scroll(0,0)">Return to top</a>
+				</div> <!-- /returntotop -->
+				
+			</div>
+			
+			</td>
+			
+			<td width=220 valign='top' style='padding-left:10px;padding-top:5px'>
+					
+				<div class="panel">
+					<div class="title">USER TOOLS</div>
+					<div class="content">
+					
+			<div class="articleoptions">
+				
+
+				<div class="commentonthis">
+					<a href="mailto:mip-feedback@campden.com?subject=Re: Getting to grips with CQC outcomes and compliance">Have your say - comment on this item</a>
+				</div> <!-- /commentonthis -->
+
+				<div class="email">
+				<a href="#" onClick="popupCentredWindow('http://www.managementinpractice.com/default.asp?404;http://www.managementinpractice.com/article/27749/Getting_to_grips_with_CQC_outcomes_and_compliance&emailtofriend=1', 400,350, false);return false;">Email to friend</a>
+				</div>
+	
+				<div class="print">
+				<a target="_new" href="default.asp?page=article.print&article.id=27749">Print-friendly version</a>
+				</div>
+			</div>
+			
+					</div> <!-- /content -->
+				</div> <!-- /panel -->
+				
+				<div class="panel">
+					<div class="title">Flu Season Video</div>
+					<div class="content">
+					As practices prepare for the winter flu vaccination season, we've produced a <b><a href="/fluseason">5 minute video</a></b> to help practice managers get ready for a very important and hectic part of the year.
+					</div> <!-- /content -->
+				</div> <!-- /panel -->
+			</td>
+			
+		</tr>
+		</table>
+	
+	<div class="clrmargin"></div>
+	</div> <!-- /rightcol -->
+						
+							<div class="mainads">
+	<!-- ad_GetRotationCount = 39 -->
+	<div class='advsitewiderhs'><div  style="position:relative;"><object style='display:block;' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0' width=120 height=120 id='adv2_3443'><param name='allowScriptAccess' value='sameDomain' /><param name='movie' value='http://www.managementinpractice.com//adverts/?id=3443&ref=' />
+<param name='FlashVars' value='clickTag=http%3A%2F%2Fwww%2Emanagementinpractice%2Ecom%2Fadverts%2F%3Fid%3D3443%26r%3D1%26ref%3D' />
+<param name='quality' value='high' />
+<param name='bgcolor' value='#ffffff' />
+<param name='wmode' value='transparent' />
+<param name='href' value='http://www.managementinpractice.com//adverts/?id=3443&r=1&ref=' />
+<embed FlashVars="clickTag=http%3A%2F%2Fwww%2Emanagementinpractice%2Ecom%2Fadverts%2F%3Fid%3D3443%26r%3D1%26ref%3D" wmode="transparent" style="position:absolute;left:0;" src='http://www.managementinpractice.com//adverts/?id=3443&ref=' quality='high' bgcolor='#ffffff' width=120 height=120 name="Advert3443" allowScriptAccess='sameDomain' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' />
+</object>
+<div style="z-index:100;position:absolute;padding:0;margin:0;left:0;top:0;"><a target="_new" href='http://www.managementinpractice.com/adverts/?id=3443&r=1&ref='><img src="http://www.managementinpractice.com//images/clear.gif" width=120 Height=120></a></div></div></div>
+<div class='advsitewiderhs'><div  style="position:relative;"><a target="_new" href='http://www.managementinpractice.com/adverts/?id=3445&r=1&ref='><img border=0 src='http://www.managementinpractice.com/adverts/?id=3445&ref=' width=120 height=120 alt="click here"></a></div></div>
+</div>
+							
+						<!-- </div> --> <!-- /pageleft -->
+						<div class="clr"></div>
+						</div> <!-- /sitebody /widthcontainer -->
+
+						
+
+						<div class="widthcontainer">
+							<div class="lowerads">
+								
+							</div>
+						</div>
+
+						
+	<div class="footer">
+		<div class="blue1"></div>
+		<div class="blue2"></div>
+		<div class="main">
+			
+				<div class="left">&copy; Campden Publishing Limited 2011</div>
+				<div class="right">
+				<a href="http://www.managementinpractice.com/default.asp?page=sitemap">Site Map</a>
+				|
+				<a href="http://www.managementinpractice.com/default.asp?page=accessibility">Accessibility</a>
+				|
+				<a href="http://www.managementinpractice.com/default.asp?page=terms">Terms &amp; Conditions</a>
+				|
+				<a href="http://www.managementinpractice.com/default.asp?page=privacy.policy">Privacy Policy</a>
+				|
+				<a href="http://www.managementinpractice.com/default.asp?page=contacts">Contacts</a>
+				</div>
+				
+		</div>
+		<div class="subtext">
+		Campden Publishing Ltd., 1 St John's Square London EC1M 4PN, is  a company registered in the United Kingdom with Reg. No. 2147432<br>
+		
+			<a href="http://www.campden.com">www.campden.com</a><br><br>
+			
+		</div>
+	</div>
+
+		</div> <!-- /wholepage -->
+		</div> <!-- /background -->
+	<script src="http://www.managementinpractice.com/include/chrisdomroll.js">
+	
+	/****************************************************
+	* DOM Image rollover v3.0: By Chris Poole http://chrispoole.com
+	* Script featured on http://www.dynamicdrive.com
+	* Keep this notice intact to use it :-)
+	****************************************************/
+	
+	</script>
+	<div class="mzsmall"><a href="http://www.modezero.net">Web design, hosting and programming by ModeZero</a></div>
+	</body>
+	</html>	
+	

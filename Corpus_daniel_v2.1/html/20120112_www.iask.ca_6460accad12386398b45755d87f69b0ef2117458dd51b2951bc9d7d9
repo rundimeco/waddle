@@ -1,0 +1,500 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>加拿大邮局开卖龙年邮票 大多大温华裔排队抢_加拿大家园网</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="龙年邮票中国掀热潮 推「跨年套装」 开售反应踊跃 左起﹕陈蕴化、刘菲、Greg Kabatoff宣布全新龙年邮票开卖。 排队市民涌入抢购邮票，大部分为华裔。(冯新摄) （明报）加拿大的中国新年系" />
+    <link href="http://www.iask.ca/templets/style/style.css" rel="stylesheet" media="screen"
+        type="text/css" />
+    <link href="http://www.iask.ca/templets/style/channel_nav.css" rel="stylesheet"
+        media="screen" type="text/css" />
+    <link href="http://www.iask.ca/templets/style/endpage0910.css" rel="stylesheet"
+        media="screen" type="text/css" />
+
+    <script language="javascript" type="text/javascript" src="http://www.iask.ca/include/dedeajax2.js"></script>
+
+    <script language="javascript" type="text/javascript">
+<!--
+function CheckLogin(){
+	  var taget_obj = document.getElementById('_ajax_feedback');
+	  myajax = new DedeAjax(taget_obj,false,false,'','','');
+	  myajax.SendGet2("http://www.iask.ca/member/ajax_feedback.php");
+	  DedeXHTTP = null;
+}
+function postBadGood(ftype,fid)
+{
+	var taget_obj = document.getElementById(ftype+fid);
+	var saveid = GetCookie('badgoodid');
+	if(saveid != null)
+	{
+		var saveids = saveid.split(',');
+		var hasid = false;
+		saveid = '';
+		j = 1;
+		for(i=saveids.length-1;i>=0;i--)
+		{
+			if(saveids[i]==fid && hasid) continue;
+			else {
+				if(saveids[i]==fid && !hasid) hasid = true;
+				saveid += (saveid=='' ? saveids[i] : ','+saveids[i]);
+				j++;
+				if(j==10 && hasid) break;
+				if(j==9 && !hasid) break;
+			}
+		}
+		if(hasid) { alert('您刚才已表决过了喔！'); return false;}
+		else saveid += ','+fid;
+		SetCookie('badgoodid',saveid,1);
+	}
+	else
+	{
+		SetCookie('badgoodid',fid,1);
+	}
+	myajax = new DedeAjax(taget_obj,false,false,'','','');
+	myajax.SendGet2("http://www.iask.ca/plus/feedback.php?aid="+fid+"&action="+ftype+"&fid="+fid);
+}
+function postDigg(ftype,aid)
+{
+	var taget_obj = document.getElementById('newdigg');
+	var saveid = GetCookie('diggid');
+	if(saveid != null)
+	{
+		var saveids = saveid.split(',');
+		var hasid = false;
+		saveid = '';
+		j = 1;
+		for(i=saveids.length-1;i>=0;i--)
+		{
+			if(saveids[i]==aid && hasid) continue;
+			else {
+				if(saveids[i]==aid && !hasid) hasid = true;
+				saveid += (saveid=='' ? saveids[i] : ','+saveids[i]);
+				j++;
+				if(j==20 && hasid) break;
+				if(j==19 && !hasid) break;
+			}
+		}
+		if(hasid) { alert("您已经顶过该帖，请不要重复顶帖 ！"); return; }
+		else saveid += ','+aid;
+		SetCookie('diggid',saveid,1);
+	}
+	else
+	{
+		SetCookie('diggid',aid,1);
+	}
+	myajax = new DedeAjax(taget_obj,false,false,'','','');
+	var url = "http://www.iask.ca/plus/digg_ajax.php?action="+ftype+"&id="+aid;
+	myajax.SendGet2(url);
+}
+function getDigg(aid)
+{
+	var taget_obj = document.getElementById('newdigg');
+	myajax = new DedeAjax(taget_obj,false,false,'','','');
+	myajax.SendGet2("http://www.iask.ca/plus/digg_ajax.php?id="+aid);
+	DedeXHTTP = null;
+}
+
+
+
+-->
+    </script>
+
+
+
+
+ 
+</head>
+<body   oncontextmenu="return false" onselectstart="return false"  oncopy="return false" >
+       <!-- 导航 -->
+    <div class="NTES_nav_">
+        <span class="nav_link" style="padding-left: 0px"><a href="http://www.iask.ca/">
+            首页</a>-<a href="http://news.iask.ca/">新闻</a>-<a href="http://search.iask.ca/">搜索</a>-<a href="http://www.iask.ca/index.html">移民</a>-<a href="http://toronto.iask.ca/">多伦多</a>-<a href="http://vancouver.iask.ca/">温哥华</a>-<a href="http://montreal.iask.ca/">蒙特利尔</a>-<a href="http://calgary.iask.ca/">卡尔加里</a>-<a href="http://forum.iask.ca/">论坛</a>-<a href="http://u.iask.ca/">园友录</a></span>
+        <div class="top_search">
+        </div>
+    </div>
+
+
+   
+    <div class="endArea">
+         <span class="areaEnd"></span>
+         <span class="blank9 blankW"></span>
+
+
+        <div class="colL">
+            <div class="path">
+             <span class="logo"><a href="http://news.iask.ca/"><img src="http://www.iask.ca/templets/images/logo_news2.png" alt="家园新闻" width="80" height="27" /></a></span><span class="crumb"><a href='http://www.iask.ca/'>主页</a> > <a href='http://www.iask.ca/news/'>新闻中心</a> > <a href='http://www.iask.ca/news/canada/'>加国要闻</a> > 正文</span>
+            </div>
+            <!-- /place -->
+            <span class="colEnd"></span>
+
+            <div class="bg_endPage_blue clearfix">
+            <div class="endContent">
+                <h1 id="h1title">
+                    加拿大邮局开卖龙年邮票 大多大温华裔排队抢</h1>
+                <span class="info">加拿大家园 iask.ca 2012-01-11 09:46 来源: 
+                     作者:   <a class="cDRed" href="http://www.iask.ca/news/canada/2012/0111/112179m.html">手机版</a> <span style="display: none">点击: <script src="http://www.iask.ca/plus/count.php?view=yes&aid=112179&mid=1" type='text/javascript' language="javascript"></script>次</span></span><!-- /info -->
+
+
+                <div id="endText">    
+                    
+                  <p>
+
+                    <style> .Nys842 { display:none; } </style>
+<p><strong>加国龙年邮票发售 2邮车特别「妆身」穿梭街头推广</strong> <font color='#FFFFFF'>iask.ca</font> </p>
+<p>邮政局首推「辞旧迎新」纪念版本 <div class='Nys842'>加拿大家园,www.iask.ca</div> </p>
+<p style="text-align: center; "><img alt="" width="448" height="286" align="" border="0" src="http://www.iask.ca/uploads/allimg/120111/10064U256-0.jpg" /> <div class='Nys842'>i Ask . ca</div> </p>
+<p style="text-align: center; ">士嘉堡一间邮务公司销售店女职员Sally展示首天发行的部分龙年邮票产品。 (李守铭摄) <p class='Nys842'>iask.ca</p> </p>
+<p style="text-align: center; "><img alt="" width="448" height="298" align="" border="0" src="http://www.iask.ca/uploads/allimg/120111/10064V609-1.jpg" /> <div class='Nys842'>家园网多伦多,toronto.iask.ca</div> </p>
+<p style="text-align: center; ">这是加拿大邮政局用来在多伦多促销龙年邮票的「秘密武器」。(李敏摄) <p class='Nys842'>加拿大家园,www.iask.ca</p> </p>
+<p style="text-align: center; "><img alt="" width="448" height="672" align="" border="0" src="http://www.iask.ca/uploads/allimg/120111/10064Q1D-2.jpg" /> <span class='Nys842'>加拿大 家 园 网</span> </p>
+<p style="text-align: center; ">在发行首日买到邮票者，有幸获得设计者签名的机会，图为人们正在排队等候之中。(李敏摄) <span class='Nys842'>i Ask . ca</span> </p>
+<p>（明报多伦多）还有不足2个星期就到农历新年﹐趁着龙年将至﹐加拿大邮务公司(Canada Post)乘时推出龙年邮票﹐并同时发行国内、国际版，及首日封等龙年邮票产品﹐引得不少集邮爱好者前往排队购买。为了凸显这个在12生肖中最特殊的中华传统文化代表，邮政局还将两架邮政车特别「妆身」，在街头巷尾向市民推广龙年邮票。 <font color='#FFFFFF'>加国中文搜索,www.iask.ca</font> </p>
+<p>今年加拿大邮务公司共发行了525万枚国内邮票及50万张含有国际邮票的小全张纪念封﹔此外，邮政局还首次推出「辞旧迎新」(Transitional)版纪念邮票，即将兔年和龙年国际邮票设计在同一张纪念封中，代表兔年的结束和龙年的到来。 <span class='Nys842'>i Ask . ca</span> </p>
+<p>为了更加巩固龙年邮票的销量，邮政局还以龙年邮票为背景，为其两架邮政车设计了特别的车身，这两架邮车分别会在多伦多和温哥华两个城市出动，在街头巷尾穿梭的向民众宣传这个特殊的邮票版本。 <p class='Nys842'>家园新闻,news.iask.ca</p> </p>
+<p>出自德裔设计师杰作 <p class='Nys842'>家园论坛,forum.iask.ca</p> </p>
+<p>邮务公司已经连续16年为中国12生肖设计并发行邮票，今年的龙年邮票是第二个系列中的第4套邮票，出自德国裔设计师Louis Fishauf之手。该设计师还曾设计过第一系列的猴年邮票，对中国文化有较深的了解。 <span class='Nys842'>加 拿 大 家园网</span> </p>
+<p>他告诉记者，他曾经去过一次中国，自己对中国的文化也很感兴趣。他知道在「龙」在中国有帝王的称号，金色是王室象徵、红色是新年喜庆的象徵，水是财富的象徵，因此在这套邮票的设计中，他将这几个元素结合在一起，再加上中国传统剪纸艺术的效果，设计出了两款出色的邮票。 <font color='#FFFFFF'>加 拿 大 家 园 网</font> </p>
+<p>家住多伦多市中心的香港移民杜女士昨日一早赶往邮政局购买龙年邮票，她告诉记者，自己虽然不会收集每一年的生肖邮票，但龙年邮票是她必买的邮票之一。「因为龙是我们中国人的象徵，我12年前就买了一套龙年的邮票，今年就一定要继续买一套，希望我还能再活12年，再买多一套!」她说。 <div class='Nys842'>加拿大家园,www.iask.ca</div> </p>
+<p>杜女士昨日购买了国内、国际版小全张各一套，以及一张未切割的海报版纪念封套装(uncut press sheet)，虽然有一些超出了她的预算，但她仍觉得物有所值，并相信该套邮票一定有很大的升值潜力。 <p class='Nys842'>i a s k . c a</p> </p>
+<p><strong>龙年邮票中国掀热潮 推「跨年套装」 开售反应踊跃</strong> <p class='Nys842'>家园网多伦多,toronto.iask.ca</p> </p>
+<p style="text-align: center; "><img alt="" width="448" height="298" align="" border="0" src="http://www.iask.ca/uploads/allimg/120111/09452J634-0.jpg" /> <font color='#FFFFFF'>家 园 网</font> </p>
+<p style="text-align: center; ">左起﹕陈蕴化、刘菲、Greg Kabatoff宣布全新龙年邮票开卖。 <span class='Nys842'>加拿大 家 园 网</span> </p>
+<p style="text-align: center; "><img alt="" width="448" height="298" align="" border="0" src="http://www.iask.ca/uploads/allimg/120111/09452I5R-1.jpg" /> <span class='Nys842'>加 拿 大 家 园 网</span> </p>
+<p style="text-align: center; ">排队市民涌入抢购邮票，大部分为华裔。(冯新摄) <span class='Nys842'>i a s k . c a</span> </p>
+<p style="text-align: center; ">&nbsp; <div class='Nys842'>加 拿 大 家园网</div> </p>
+<p align="center"><img alt="Photo_Asset_1" width="400" height="400" align="" border="0" src="http://www.iask.ca/uploads/allimg/120110/1FR32933-0.jpg" /> <p class='Nys842'>加拿大 家 园 网</p> </p>
+<p align="center"><img alt="Photo_Asset_2" width="400" height="400" align="" border="0" src="http://www.iask.ca/uploads/allimg/120110/1FR351B-1.jpg" /> <div class='Nys842'>家 园 新 闻</div> </p>
+<p>&nbsp; <span class='Nys842'>家园新闻,news.iask.ca</span> </p>
+<p>（明报温哥华）加拿大的中国新年系列龙年纪念邮票昨日正式发行，吸引数十名集邮爱好者在温市中心加拿大邮政局总局外排队抢购。这批由加国设计的纪念邮票在中国已成风潮，有来自中国的访问学者专程前来购买，更有华裔一次狂扫十套，至少一半会寄回国内。 <div class='Nys842'>爱问搜索,m.i a s k.ca</div> </p>
+<p>加拿大邮政局零售部门负责人Greg Kabatoff表示，龙年邮票象徵创新、勇于冒险以及成就，今年除了卡通造型的金箔国内邮资邮票，及「水龙发财」国际邮资邮票外，还发行一组同时含有兔年及龙年邮票的纪念「跨年套装」，象徵由兔年进入龙年。邮政局今年还有六张装的「随身卡」，让发烧友能在新年期间随身携带邮票来拜年。 <span class='Nys842'>家园温哥华,vancouver.iask.ca</span> </p>
+<p>驻温哥华中国总领事馆总领事刘菲指出，邮票就像是名片，可以传播至全世界，向世界各国宣传中国文化。她对加拿大愿意分享中国文化表示欢迎，强调这批充满中国味的邮票，在中国内地也非常受欢迎。 <span class='Nys842'>加拿大 家 园 网</span> </p>
+<p>刘菲认为龙对中国人有非常不同意义，虽然是十二生肖中唯一非现实生物，但自古便代表皇帝及中华民族，中国人更自称是「龙的传人」，等于是代表中国的「符号」。 <p class='Nys842'>加国中文搜索,www.iask.ca</p> </p>
+<p>中国人民大学讲师郭春宁昨日便率先抢购龙年邮票，称他的父亲非常热爱集邮，因此趁在温哥华电影学院访问时，在温市中心邮局总局外排队帮父亲购买。她称自己非常喜欢卡通图案及龙年兔年交替的设计，会将所购买的邮票图片寄给中国的父亲，不排除会买入更多邮票。 <div class='Nys842'>加 拿 大 家 园 网</div> </p>
+<p>本地邮票收藏家王先生昨日则一口气狂扫10套邮票，强调自己每年都会固定购买这些有中国味的纪念邮票，除了自己收藏之外，还会与其他邮票爱好者交换。他说，这10套邮票中会有超过半数寄回国内，自己顶多留下两套来收藏。 <div class='Nys842'>i Ask . ca</div> </p>
+<p>龙年邮票为Louis Fishauf与Charles Vinh两人设计而成，温哥华华人艺术家协会会长陈蕴化则负责其中的书法部分。 <div class='Nys842'>加拿大家园,www.iask.ca</div> </p>
+<p><strong>龙年邮票开卖 民众排队抢</strong> <p class='Nys842'>www.iask.ca</p> </p>
+<p align="center"><img alt="" width="390" height="400" align="" border="0" src="http://www.iask.ca/uploads/allimg/c120111/13262Z16305Q0-15961.jpg" /> <span class='Nys842'>加 拿 大 家 园 网</span> </p>
+<p align="center"><img alt="" width="400" height="247" align="" border="0" src="http://www.iask.ca/uploads/allimg/c120111/13262Z163612P-25300.jpg" /> <font color='#FFFFFF'>加拿大 家 园 网</font> </p>
+<p align="center"><img alt="" width="400" height="245" align="" border="0" src="http://www.iask.ca/uploads/allimg/c120111/13262Z1CbN0-35411.jpg" /> <span class='Nys842'>家园温哥华,vancouver.iask.ca</span> </p>
+<p>经过历时两年的研究、设计、提交方案、修改、绘制，加拿大设计师费绍夫(Louis Fishauf)10日第一次看到他自己设计的龙年邮票制成品，感到十分满意。加拿大邮政总局昨日在多伦多市中心举行中国农历新年生肖邮票的揭幕仪式，第二系列第四套龙年邮票正式面世。 <div class='Nys842'>家 园 网</div> </p>
+<p>(世界日报)加拿大邮政总局邮票服务部经理菲利普斯(Jim Phillips)表示，全球多个国家都有农历新年的庆祝仪式，加拿大邮政总局通过发行深受华人社区和收藏界欢迎的生肖邮票参与庆祝。这套龙年邮票分为国内邮资版和国际邮资版两种，国内版的图案为一条麟纹以金箔装饰的黑龙，邮票底部是以中国古典的绘画元素旋涡状代表水的波纹，右上角有一个繁体龙字。国际版则是一个钻出水面的浮雕龙头，以手工雕刻，双眼炯炯有神，龙须飘逸，龙头点缀着少量金箔，带来灵动的效果，左上角也有一个繁体龙字。两个版本均以中国传统文化中代表好运和幸福的大红色为背景。 <div class='Nys842'>爱问搜索,m.i a s k.ca</div> </p>
+<p>菲利普斯介绍，今年新增了一些独特的收藏品种，例如将兔年和龙年国际版邮票集合在一枚纪念张中，龙头从右侧探入，兔子从左侧跃出，表达新旧交替。含有6枚国际邮资票的邮册，只有钱包大小，便于携带使用。为了宣传龙年邮票，邮政局特别将两部邮政车喷涂上龙年邮票的图案，分别在多伦多和温哥华行驶。 <p class='Nys842'>www.iask.ca</p> </p>
+<p>龙年邮票的设计师费绍夫表示，他有幸多次应邀为邮政总局设计邮票，设计生肖邮票也是第二次，第一系列的猴年邮票也出自他的手笔。为了创作龙年邮票他做了大量的研究工作，从书本、博物馆藏品中观察，并亲自去中国做调查，国内版的设计就是以中华文化传统的剪纸设计中获得灵感。从设计到完成前后历时近两年时间，共有两、叁名设计师提交了设计稿，然后在多个委员会中进行讨论，为此他需要多次前往渥太华和满地可出席讨论会，然后对设计稿进行修改。直至昨日，他才首次看到最终印制完成的邮票，对其效果非常满意，并相信也会受到收藏者的喜爱。 <div class='Nys842'>园友录,u.iask.ca</div> </p>
+<p>昨日有不少市民闻讯赶到市中心的邮局，排队购买新邮票，并请设计师签名。煺休的学校校长谭雷美丹表示，2000年她刚就任副校长时收到第一个龙年首日封，此后陆续收到教师、学生和家长送给她的首日封，表达对她工作的支持和鼓励。从那时起她遇到重要事件或者感兴趣的题材就收集，尤其收集与中国有关的邮票。她将邮票当作教材，当她无法回答青少年的提问时，就到邮票中寻找答案，通过邮票学习令学生的学习兴趣大增。 <div class='Nys842'>加拿大家园,www.iask.ca</div> </p>
+
+
+
+
+
+                </div>
+
+
+                <div class="endPageNum" >
+                    <table align="center"><tr><td><div class="clear"></div></td></tr></table>
+                </div>
+
+
+<span class="blank12"></span>
+<div class="endMore">
+	<span class="dotline"></span>
+
+          <div id="commentlink">
+	  <span class="commentlink  cBlue"><a href="http://forum.iask.ca/commentnews.php?aid=112179&reply=true&typeid=69" target="_blank">家园评论更快了！无跟贴不新闻 我得说几句</a>?<span class="commnum" id="commnum" ><a href="http://forum.iask.ca/commentnews.php?aid=112179&typeid=69" target="_blank">[ 当前共有 <script src="http://www.iask.ca/plus/replycount.php?aid=112179" type='text/javascript' language="javascript"></script> 条评论 ]</a></span></span>
+	 </div>	
+
+    <span id="IEHtml"></span>
+    <span class="dotline"></span>
+</div>
+<span class="blank12"></span>
+
+
+                <!-- /pages -->
+                <!-- //顶踩 -->
+                <div class="newdigg" id="newdigg">
+                    <div class="diggbox digg_good" onmousemove="this.style.backgroundPosition='left bottom';"
+                        onmouseout="this.style.backgroundPosition='left top';" onclick="javascript:postDigg('good',112179)">
+                        <div class="digg_act">
+                            顶一下</div>
+                        <div class="digg_num">
+                            (0)</div>
+                        <div class="digg_percent">
+                            <div class="digg_percent_bar">
+                                <span style="width: 0%"></span>
+                            </div>
+                            <div class="digg_percent_num">
+                                0%</div>
+                        </div>
+                    </div>
+                    <div class="diggbox digg_bad" onmousemove="this.style.backgroundPosition='right bottom';"
+                        onmouseout="this.style.backgroundPosition='right top';" onclick="javascript:postDigg('bad',112179)">
+                        <div class="digg_act">
+                            踩一下</div>
+                        <div class="digg_num">
+                            (0)</div>
+                        <div class="digg_percent">
+                            <div class="digg_percent_bar">
+                                <span style="width: 0%"></span>
+                            </div>
+                            <div class="digg_percent_num">
+                                0%</div>
+                        </div>
+                    </div>
+                </div>
+
+                <script language="javascript" type="text/javascript">getDigg(112179);</script>
+                <!-- //顶踩部份的源码结束 -->
+
+     <span class="dotline"></span>
+
+
+    <div class="addThisBox">
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter" ></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_google"></a>
+<a class="addthis_button_yahoomail"></a>
+<a class="addthis_button_gmail"></a>
+<a class="addthis_button_live"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="standard" g:plusone:count="false"></a>
+<a class="addthis_button_email"></a>
+
+
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ef700d810e223ed"></script>
+<!-- AddThis Button END -->
+
+    </div>
+
+     <span class="blank12"></span>
+    <div class="titleBar1 ui_s1">
+        <h2>相似新闻</h2>
+    </div>
+    <div class="content tab" id="endpage_tab">
+        <ul class="f14blu normal on">
+            <li><a target="_blank"" href="http://www.iask.ca/news/canada/2012/0111/112200.html">移民部长开恩特批 卢光霞儿子来加送别母亲</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+<li><a target="_blank"" href="http://www.iask.ca/news/canada/2012/0111/112199.html">小飞机坠北安省 4死</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+<li><a target="_blank"" href="http://www.iask.ca/news/canada/2012/0111/112194.html">朱锦涛命案 两主嫌判8年、6年</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+<li><a target="_blank"" href="http://www.iask.ca/news/canada/2012/0111/112192.html">加军资货柜 撤阿被掉包</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+<li><a target="_blank"" href="http://www.iask.ca/news/canada/2012/0111/112190.html">加航不想从中国运实验用猴 政府：得经过听证</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+<li><a target="_blank"" href="http://www.iask.ca/news/canada/house/2012/0111/112189.html">皇银CEO∶加国楼市今年恐下跌 应付跌25%没问题</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+<li><a target="_blank"" href="http://www.iask.ca/news/canada/2012/0111/112171.html">中国留学生夫妻遣返：加国造假盗身分</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+<li><a target="_blank"" href="http://www.iask.ca/news/canada/2012/0111/112164.html">最佳导师自掴嘴巴 62%加国家长无暇助子女学习</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+<li><a target="_blank"" href="http://www.iask.ca/news/canada/2012/0111/112162.html">借米雪骗50万 诈称海藻变石油 加国男囚39月</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+<li><a target="_blank"" href="http://www.iask.ca/news/canada/2012/0111/112159.html">环保评比 约克大学蝉联加国第一 全球第14</a>
+                <span class="cDGray f12px">2012-01-11</span></li>
+
+               </ul>
+    </div>
+
+   <span class="blank12"></span>
+   <span class="blank12"></span>
+    <div class="titleBar1 ui_s1">
+        
+    </div>
+
+     <span class="dotline"></span>
+     <div id="copyrightbar" class="content tab">			
+		<ul class="f14blu normal on">
+			<li><span class="cDGray f12px">家园新闻内容来自于各大新闻媒体，部分内容由家园网读者、本地华人社团提供</span></li>
+			<li><span class="cDGray f12px">刊载此文仅为提供更多信息，不代表同意其说法或描述，也不构成投资或其他建议</span></li>
+			<li><span class="cDGray f12px">如发现稿件侵权，或作者不愿在家园网发表文章，请版权拥有者通知家园处理</span></li>
+		</ul>
+
+      </div>
+    <span class="dotline"></span>
+
+    <span class="blank9"></span> 
+
+            </div>
+            <!-- //endContent -->
+
+           </div>
+            <!-- //endPage_blue  -->
+         
+        <span class="colEnd bg_colEnd"></span>
+         <span class="blank9 blankW"></span> 
+
+         
+        </div>
+        <!-- //左边内容结束 -->
+
+        <!-- 右边内容开始 -->
+        <div class="colR">
+
+            <div class="rightContent">
+                <div class="titleBar1 ui_sr">
+                    <h2>加国要闻小编推荐</h2>
+                </div>
+                <span class="blank9"></span>
+                <div class="content">
+                    <ul class="f12bla">
+                        <li><a href="http://www.iask.ca/news/canada/house/2012/0111/112189.html">皇银CEO∶加国楼市今年恐下跌 应付跌25%没问题</a></li><li><a href="http://www.iask.ca/news/canada/2012/0111/112179.html">加拿大邮局开卖龙年邮票 大多大温华裔排队抢</a></li><li><a href="http://www.iask.ca/news/canada/2012/0111/112200.html">移民部长开恩特批 卢光霞儿子来加送别母亲</a></li><li><a href="http://www.iask.ca/news/canada/2012/0111/112155.html">35岁华裔妈妈车内产子 赴医院途中丈夫接生(图</a></li><li><a href="http://www.iask.ca/news/canada/2012/0111/112190.html">加航不想从中国运实验用猴 政府：得经过听证</a></li><li><a href="http://www.iask.ca/news/canada/2012/0111/112171.html">中国留学生夫妻遣返：加国造假盗身分</a></li><li><a href="http://www.iask.ca/news/canada/2012/0111/112164.html">最佳导师自掴嘴巴 62%加国家长无暇助子女学习</a></li><li><a href="http://www.iask.ca/news/canada/2012/0111/112162.html">借米雪骗50万 诈称海藻变石油 加国男囚39月</a></li><li><a href="http://www.iask.ca/news/canada/2012/0111/112158.html">赔了夫人又折兵：加国减免债务公司 白付钱误事</a></li><li><a href="http://www.iask.ca/news/canada/2012/0111/112146.html">加人信用卡债务降3.4% 忧经济放缓 致力还款</a></li>
+                    </ul>
+                </div>
+                <span class="blank6"></span>
+            </div>
+
+    <span class="blank9"></span>
+    <div class="rightContent">
+        <div class="titleBar1 ui_sr">
+            <h2>热图 </h2>
+            <span class="more">
+                 
+            </span>
+        </div>
+        <ul class="picList">
+
+            <li><a target="_blank" href="http://www.iask.ca/news/canada/2012/0111/112171.html" title="中国留学生夫妻遣返"><img src='http://www.iask.ca/uploads/allimg/c120111/13262XO34K40-4F46_lit.jpg' border='0' width='120' height='90' alt='中国留学生夫妻遣返：加国造假盗身分'></a>
+                <h6><a target="_blank" href="http://www.iask.ca/news/canada/2012/0111/112171.html" title="中国留学生夫妻遣返">中国留学生夫妻遣返</a></h6></li><li><a target="_blank" href="http://www.iask.ca/news/canada/house/2012/0111/112189.html" title="皇银CEO∶加国楼市今"><img src='http://www.iask.ca/uploads/allimg/c120111/13262Z14G6130-36092_lit.jpg' border='0' width='120' height='90' alt='皇银CEO∶加国楼市今年恐下跌 应付跌25%没问题'></a>
+                <h6><a target="_blank" href="http://www.iask.ca/news/canada/house/2012/0111/112189.html" title="皇银CEO∶加国楼市今">皇银CEO∶加国楼市今</a></h6></li>
+
+        </ul>
+        <span class="blank20"></span>
+    </div>
+
+            <span class="blank9"></span>
+
+            <div class="rightContent">
+                <div class="titleBar1 ui_sr">
+                    <h2><a target='_blank' href="http://www.iask.ca/info/">热门文章点击排行</a></h2>
+                </div>
+                <span class="blank9"></span>
+                <div class="content">
+                    <ul class="f12bla">
+                       <li><a target='_blank' href="http://www.iask.ca/info/yammy/2011/1217/107628.html">空腹者慎入！图文原创-加国寻常人家海鲜宴</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2011/1212/106596.html">加拿大3年海归半年：再看中加 哪里也没意思</a></li><li><a target='_blank' href="http://www.iask.ca/info/house/2011/1223/108766.html">来加拿大6年 11天买房记 20多万的房(组图)</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2011/1217/107693.html">多少钱够花？高房价的温哥华 剖析我家普通案例</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2011/1225/109258.html">温哥华今天喝了有生最贵一顿早茶：就为了IPAD</a></li><li><a target='_blank' href="http://www.iask.ca/info/car/2011/1221/108433.html">加国考驾照严格吗？事不过三：考驾照全记实</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2011/1227/109518.html">中文名英译的恐怖含义 新移民闹笑话15年后才知</a></li><li><a target='_blank' href="http://www.iask.ca/info/edu/2011/1222/108628.html">不逼学生不知成绩的加拿大式教育 中国移民急了</a></li><li><a target='_blank' href="http://www.iask.ca/info/house/2011/1219/107990.html">加国买房房屋结构谈：与中国不同 坐南朝北最好</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2012/0103/110567.html">也谈移民回国被评：说话洋气、花钱小气、穿着土气</a></li>
+                    </ul>
+                </div>
+                <span class="blank6"></span>
+            </div>
+            <span class="blank9"></span>
+
+           <div class="rightContent">
+                <div class="titleBar1 ui_sr">
+                    <h2><a target='_blank' href="http://www.iask.ca/info/">最新文章点击排行</a></h2>
+                </div>
+                <span class="blank9"></span>
+                <div class="content">
+                    <ul class="f12bla">
+                       <li><a target='_blank' href="http://www.iask.ca/info/life/2012/0104/110886.html">看到加拿大这对难民夫妻：让我不知为谁心酸</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2012/0104/110953.html">金钱铺道！富豪加拿大移民路不平 后路而已</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2012/0104/110887.html">加拿大成为中国贪官乐园4大原因：华人圈门道多</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2012/0104/110919.html">写在移民加拿大一周年之际 温哥华我们来了！</a></li><li><a target='_blank' href="http://www.iask.ca/info/shopping/2012/0108/111642.html">一元抵十元：来加国十年 每月买菜还是4-5百</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2012/0109/111838.html">加拿大免费医保的“代价”：有钱没处花背后</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2012/0109/111849.html">福建人加拿大显威 垄断多伦多华人超市业</a></li><li><a target='_blank' href="http://www.iask.ca/info/finance/2012/0105/111106.html">2012报税新变化盘点：小朋友艺术课可抵税啦</a></li><li><a target='_blank' href="http://www.iask.ca/info/job/2012/0107/111440.html">移民10年：找工“八年抗战“ 做了一次加拿大人</a></li><li><a target='_blank' href="http://www.iask.ca/info/life/2012/0104/110884.html">举报黑工中餐馆续：誓阻加拿大变中国 网友热议</a></li>
+                    </ul>
+                </div>
+                <span class="blank6"></span>
+            </div>
+            <span class="blank9"></span>
+
+           
+           <div class="rightContent">
+                <div class="titleBar1 ui_sr">
+                    <h2>加国要闻点击排行</h2>
+                </div>
+                <span class="blank9"></span>
+                <div class="content">
+                    <ul class="f12bla">
+                        <li><a href="http://www.iask.ca/news/canada/immigration/2012/0110/111941.html">设限不让中国人移民？疯狂造假</a></li><li><a href="http://www.iask.ca/news/canada/immigration/2012/0106/111217.html">加国移民申请十年最低 猛拒中国团聚</a></li><li><a href="http://www.iask.ca/news/canada/2012/0107/111500.html">加国华裔元旦宝宝大小二便闭塞惨死</a></li><li><a href="http://www.iask.ca/news/canada/2012/0106/111293.html">骗取加国公民身份背后新动机 移民部长一语道破</a></li><li><a href="http://www.iask.ca/news/canada/2012/0105/111041.html">带10台IPhone回国赚3千加元 华裔后怕倾家荡产</a></li><li><a href="http://www.iask.ca/news/canada/immigration/2012/0109/111743.html">入籍未待批回流 「无诚意」随时被拒</a></li><li><a href="http://www.iask.ca/news/canada/2012/0106/111352.html">加国Walmart大促销：千种货品狂减价 低至五折</a></li><li><a href="http://www.iask.ca/news/canada/immigration/2012/0108/111634.html">移民部打压有效：抵加中国新移民 大减12%</a></li><li><a href="http://www.iask.ca/news/canada/2012/0107/111548.html">加拿大国籍是非卖品：入籍申请应出示4年税表</a></li><li><a href="http://www.iask.ca/news/canada/2012/0105/111009.html">中国人大战黑人：蒙特利尔中餐馆全武行(视频</a></li>
+                    </ul>
+                </div>
+                <span class="blank6"></span>
+            </div>
+            <span class="blank9"></span>
+
+
+
+        <div class="rightContent">
+                <div class="titleBar1 ui_sr">
+                    <h2>新闻点击排行</h2>
+                </div>
+                <span class="blank9"></span>
+                <div class="content">
+                    <ul class="f12bla">
+                        <li><a href="http://www.iask.ca/news/ent/2012/0108/111686.html">新娘遭强奸 新郎冷眼旁观拍照留念 照片疯传(图</a></li><li><a href="http://www.iask.ca/news/world/2012/0104/110889.html">疯传朝鲜兵变 金正恩被控制</a></li><li><a href="http://www.iask.ca/news/canada/immigration/2012/0110/111941.html">设限不让中国人移民？疯狂造假</a></li><li><a href="http://www.iask.ca/news/canada/immigration/2012/0106/111217.html">加国移民申请十年最低 猛拒中国团聚</a></li><li><a href="http://www.iask.ca/news/canada/2012/0107/111500.html">加国华裔元旦宝宝大小二便闭塞惨死</a></li><li><a href="http://www.iask.ca/news/canada/2012/0106/111293.html">骗取加国公民身份背后新动机 移民部长一语道破</a></li><li><a href="http://www.iask.ca/news/canada/2012/0105/111041.html">带10台IPhone回国赚3千加元 华裔后怕倾家荡产</a></li><li><a href="http://www.iask.ca/news/canada/immigration/2012/0109/111743.html">入籍未待批回流 「无诚意」随时被拒</a></li><li><a href="http://www.iask.ca/news/china/2012/0106/111322.html">回国发外财创意之触目惊心 全民共同腐烂(图)</a></li><li><a href="http://www.iask.ca/news/canada/2012/0106/111352.html">加国Walmart大促销：千种货品狂减价 低至五折</a></li>
+                    </ul>
+                </div>
+                <span class="blank6"></span>
+            </div>
+            <span class="blank9"></span>
+
+
+
+              <div class="rightContent">
+                 <div class="titleBar1 ui_sr"><h2><a href="http://forum.iask.ca/">家园热贴</a></h2>
+                </div>
+                 <span class="blank9"></span>
+
+                <div class="content">
+                    <ul class="f12bla">
+                         <li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529941">中华民族已经到了要脱掉秋裤的时代了</a></li><li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529803">被让座啦。。。</a></li><li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529624">文革第一黄色手抄本《少女之心》</a></li><li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529401">败家的MM们，202outlet都有什么值得买的东东？</a></li><li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529348">1月3号，我们的宝宝出生了</a></li><li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529280">华人在萨省投资农场经历</a></li><li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529276">小和尚就是一农民，而傅雪红同学是战士。</a></li><li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529246">中国父母的误区</a></li><li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529169">噩梦般的出租房屋经历</a></li><li><a target="_blank" href="http://forum.iask.ca/showthread.php?t=529141">我也转一篇影评《为《金陵十三钗》辩护</a></li>
+                    </ul>
+                </div>
+               <span class="blank6"></span>
+
+            </div>
+            
+        </div>
+        <!-- //右边内容结束 -->
+
+        
+        <!-- /pright -->
+    </div>
+     <span class="blank9"></span>
+    <div class="END_nav_">
+          <span class="nav_link" style="padding-left: 0px"><a href="http://www.iask.ca/">
+            家园首页</a>-<a href="http://forum.iask.ca/">家园论坛</a</span>
+        <div class="top_search">
+        </div>
+    </div>
+    <span class="blank9"></span>
+    <div class="footer">
+        <div class="aboutNetease">
+            <ul>
+                <li><a
+                    href="http://accounts.iask.ca/contact/about.aspx">家园简介</a> - <a href="http://accounts.iask.ca/contact/">
+                        广告联系</a> -  <a href="http://client.iask.ca/">客户服务</a>
+                  </li>
+            </ul>
+        </div>
+        <span class="blank12"></span>
+        <!-- 页脚 -->
+        <div class="foot">
+            <div class="copyRight">
+                加拿大家园网 版权所有 2004-2011<br />
+            </div>
+        </div>
+    </div>
+
+    <div class="blank6">
+    </div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        _uacct = "UA-147572-1";
+
+        urchinTracker();
+
+    </script>
+
+    <!-- /footer -->
+
+
+
+</body>
+</html>
+

@@ -1,0 +1,751 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<title>Piękny Ślub: Razem do końca życia - 3 stycznia 2012</title>
+<meta name="description" content="Wśród 37 par, które walczą o nagrodę w plebiscycie na pierwszym miejscu na razie są Dominika i Krzysztof. - 3 stycznia 2012" />
+<meta name="keywords" content="Piękny, Ślub:, Razem, do, końca, życia,Wśród, 37, par, które, walczą, o, nagrodę, w, plebiscycie, na, pierwszym, miejscu, na, razie, są, Dominika, i, Krzysztof.,3 stycznia 2012" />
+<meta name="og:title" content="Piękny Ślub: Razem do końca życia" />
+<meta name="og:description" content="Wśród 37 par, które walczą o nagrodę w plebiscycie na pierwszym miejscu na razie są Dominika i Krzysztof." />
+<meta name="og:url" content="/apps/pbcs.dll/article?AID=/20120103/PIEKNYSLUB01/563808030" />
+
+<meta name="og:image" content="http://www.gs24.pl/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20120103&amp;Category=PIEKNYSLUB01&amp;ArtNo=563808030&amp;Ref=AR&amp;border=0&amp;MaxW=200" />
+<link rel="image_src" href="http://www.gs24.pl/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20120103&amp;Category=PIEKNYSLUB01&amp;ArtNo=563808030&amp;Ref=AR&amp;border=0&amp;MaxW=200" />
+
+
+
+<meta name="robots" content="index,follow" />
+
+<meta name="language" content="pl" />
+<meta name="author" content="www.gs24.pl" />
+<link href="/css/PIEKNYSLUB/PIEKNYSLUB.css" type="text/css" rel="stylesheet" />
+<link href="/css/PIEKNYSLUB/PIEKNYSLUB_article.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/js/jquery-1.4.3.js"></script>
+<script type="text/javascript" src="/js/jquery.preloader.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.5.custom.js"></script>
+<script type="text/javascript" src="/js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/jquery.pollminiajax.js"></script>
+<script type="text/javascript" src="/js/jquery.iframe.js"></script>
+<script type="text/javascript" src="/js/safe_email.js"></script>
+<script type="text/javascript" src="/js/charsets.js"></script>
+<script type="text/javascript" src="/js/jquery.smspolls.js"></script>
+<script type="text/javascript" src="/js/google_maps_v2.js"></script>
+<script type="text/javascript" src="/js/google_maps_groups_v2.js"></script>
+<script type="text/javascript" src="/js/google_swfobject.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+$(document).ready(function(){
+    // col300
+    $('#boxForum').tabs();
+    $('#boxMostRead').tabs();
+    $('#pollMini').pollmini("PIEKNYSLUB01");
+    $("#boxGalleries ul").jcarousel({scroll: 3});
+    $("#boxGalleriesInternet ul").jcarousel({scroll: 3});
+    $("#boxVideos ul").jcarousel({scroll: 3});
+});
+// ]]>
+</script>
+<script type="text/javascript" src="/js/jquery.popupwindow.js"></script>
+<script type="text/javascript" src="/js/jquery.zoomarticletext.js"></script>
+<script type="text/javascript" src="/js/safe_email.js"></script>
+<script type="text/javascript" src="/js/google_swfobject.js"></script>
+<script type="text/javascript" src="/js/google_youtube.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+$(document).ready(function(){
+    $('a.wykop').attr("href","javascript:location.href='http://www.wykop.pl/dodaj?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title)+'&amp;desc='+encodeURIComponent(document.getSelection?document.getSelection():document.selection.createRange().text);");
+    $('a.rss').attr("href","/rss");
+    $('a.report').click(function(){
+        window.open('/apps/pbcs.dll/misc?URL=/templates/gen_report.pbs&link=http%3A%2F%2Fwww.gs24.pl%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20120103%2FPIEKNYSLUB01%2F563808030',"ShowProdWindow","menubars=0,scrollbars=1,resizable=1,height=380,width=300").focus(); return false;
+    });
+    $('a.tiplink').click(function(){
+        window.open('/apps/pbcs.dll/art_tips?Date=20120103&Category=PIEKNYSLUB01&ArtNo=563808030&SiteData=GS&SectionCat=',"ShowProdWindow","menubars=0,scrollbars=1,resizable=1,height=380,width=300").focus(); return false;
+    });
+    $('a.print').click(function(){
+        window.open('/apps/pbcs.dll/article?AID=/20120103/PIEKNYSLUB01/563808030&Template=printpicart',"Print").focus(); return false;
+    });
+    $('a.video').popupwindow("height:465,width:400,toolbar:0,scrollbars:0,status:0,resizable:0,left:50,top:50");
+    $('a.A1').zoomArticleText(11);
+    $('a.A2').zoomArticleText(12);
+    $('a.A3').zoomArticleText(14);
+    $('#articleVideo ul li a').click(function(){
+        showPlayer(0,$(this).attr("href"),0,270,230);
+        return false;
+    });
+});
+// ]]>
+</script>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="Piękny Ślub" href="/apps/pbcs.dll/misc?url=/templates/rss_ovr.pbs&amp;channel=PIEKNYSLUB&amp;mime=xml" />
+<!-- (C)2000-2011 Gemius SA - gemiusTraffic / ver 11.1 / piekny_slub --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('nXCaAXsYm4.qvbpEmXQTTsQ8XfYWIG9CRn_QzVd_Hjb.97');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://mreg.hit.gemius.pl/xgemius.js"></script> 
+
+</head>
+<body id="pieknyslub01">
+    <div id="piano-root"></div>
+    <div id="topBg">
+    <div id="top">
+        <a id="topLogo" href="/apps/pbcs.dll/section?Category=PIEKNYSLUB00">
+            <img src="/images/PIEKNYSLUB/logo_serwisu.gif" alt="Piękny Ślub" />
+        </a>
+        <div class="adholder_logosponsora"></div>
+        <div id="topPortal">
+            <span>Serwis jest częścią portalu</span>
+            <a href="/"><img src="/images/PIEKNYSLUB/logo.png" alt="portal regionalny" /></a>
+        </div>
+        <form method="get" action="/apps/pbcs.dll/search">
+            <fieldset>
+                <input type="text" value="" name="crit" class="inputText"/>
+                <input type="hidden" name="SearchCategory" value="PIEKNYSLUB%" />
+                <input type="hidden" name="Category" value="PIEKNYSLUB" />
+                <input type="hidden" name="daterange" value="20020101,20130410" />
+                <input type="hidden" name="IncludeNoDateArt" value="1" />
+                <input type="submit" value="znajdź kandydata" class="inputSubmit" />
+            </fieldset>
+        </form>
+    </div>
+</div>
+<div id="menuBg">
+    <div id="menu">
+            <ul class="sf-menu sf-navbar">
+                <li class="current"><a href="/apps/pbcs.dll/section?Category=PIEKNYSLUB00">Piękny ślub</a>
+                    <ul>
+                        <li><a href="/apps/pbcs.dll/section?Category=pieknyslub01" id="pieknyslub01menu">Artykuły</a></li>
+                        <li><a href="/apps/pbcs.dll/section?Category=pieknyslub05" id="pieknyslub05menu">Pary</a></li>
+			<li><a href="/apps/pbcs.dll/article?AID=/99999999/pieknyslub01/713569935" id="pieknyslub011menu">Jak głosować</a></li>
+			<li><a href="/apps/pbcs.dll/article?AID=/99999999/pieknyslub01/463563410" id="pieknyslub012menu">Regulamin</a></li>
+			<li><a href="/apps/pbcs.dll/article?AID=/99999999/pieknyslub01/380729670" id="pieknyslub013menu">Wyślij zgłoszenie</a></li>
+			<li><a href="/apps/pbcs.dll/article?AID=/99999999/pieknyslub01/432063244" id="pieknyslub014menu">Nagrody</a></li>
+                        <li><a href="http://www.sweetdeal.pl/home/szczecin" id="pieknyslub015menu">SweetDeal</a></li>
+		    </ul>
+                </li>
+            </ul>
+    </div>
+</div>
+<div class="adholder_gora"></div>
+    <div id="wrapper">
+        <div id="col680">
+            <p id="sectionPath"><a href="/apps/pbcs.dll/section?Category=pieknyslub00">pieknyslub</a> 
+<!-- " -->
+<!-- " -->
+&raquo; <a href="/apps/pbcs.dll/section?Category=PIEKNYSLUB01" id="sectionPathCurrent">Piękny Ślub artykuły</a>
+</p>
+
+            <div class="adholder_belka1"></div>
+            <ul class="articleFunctions">
+<li><a href="#" class="tiplink"><img src="/images/PIEKNYSLUB/articon_email.gif" width="22" height="12" alt="wyślij" title="wyślij znajomemu" /></a></li>
+<li><a href="#" class="print"><img src="/images/PIEKNYSLUB/articon_print.gif" width="16" height="16" alt="wydrukuj" title="wydrukuj" /></a></li>
+<li><a href="#" class="report"><img src="/images/PIEKNYSLUB/articon_report.gif" width="16" height="20" alt="zgłoś błąd" title="zgłoś błąd" /></a></li>
+<li><a href="http://www.egazety.pl/oferta/glos_dziennik_pomorza,147,149.html" rel="nofollow"><img src="/images/PIEKNYSLUB/articon_epaper.gif" width="39" height="13" alt="e-wydanie" title="e-wydanie" /></a></li>
+<li><a href="#" class="rss"><img src="/images/PIEKNYSLUB/articon_rss.gif" width="17" height="17" alt="rss " title="kanał RSS" /></a></li>
+<li><a href="#" class="wykop"><img src="/images/PIEKNYSLUB/articon_wykop.gif" width="16" height="16" alt="wykop" title="wykop to" /></a></li>
+<li><a href="#" title="zmniejsz czcionkę" class="A1">A</a>
+<a href="#" title="czcionka standardowa" class="A2">A</a>
+<a href="#" title="powiększ czcionkę" class="A3">A</a></li>
+</ul>
+            
+<div id="article">
+<p id="articleDate">dodano: <span>3 stycznia 2012, 19:30</span></p>
+<p id="articleTags"><span>tagi:</span><a href="/apps/pbcs.dll/section?Category=TAGI01&amp;Keyword=%B6lub" title="ślub">ślub</a><a href="/apps/pbcs.dll/section?Category=TAGI01&amp;Keyword=piekny_%B6lub" title="piekny ślub">piekny ślub</a></p>
+<h1>Piękny Ślub: Razem do końca życia</h1>
+
+<p id="articleByline">
+
+
+    (af)
+
+</p>
+
+<p id="articleSummary">Wśród 37 par, które walczą o nagrodę w plebiscycie na pierwszym miejscu na razie są Dominika i Krzysztof.</p>
+
+
+<div class="articlePicture">
+    <a class="picture" href="/apps/pbcs.dll/misc?url=/templates/zoom.pbs&amp;Site=GS&amp;Date=20120103&amp;Category=PIEKNYSLUB01&amp;ArtNo=563808030&amp;Ref=AR"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20120103&amp;Category=PIEKNYSLUB01&amp;ArtNo=563808030&amp;Ref=AR&amp;border=0&amp;MaxW=280" alt="Dominika i Krzysztof"  /></a>
+    
+    <p><span>(Archiwum prywatne)</span></p>
+</div>
+
+
+<p>Mają około 1,5 tys. głosów, ale szansę na wygraną ma każda para. Głosowanie trwa do 29 stycznia! Wybierz swoich faworytów. <br /><br />Dominika mieszka w Maciejewie, Krzysztof jest z Brudzewic. Tych dwoje dwudziestolatków poznało się rok temu podczas zabawy w dyskotece w Stargardzie Szczecińskim. <br /><br />- Było to 12 listopada. Ja bawiłam się na imprezie ze znajomymi, a Krzysiek obchodził tam 20 urodziny - opowiada Dominika. - Spotkaliśmy się na parkiecie. Kilka krótkich spojrzeń, później rozmowa i spotkanie następnego dnia przy kolacji. Już wtedy zostaliśmy parą. <br /><br />Okazało się, że oczekiwania Dominiki i Krzysztofa są podobne. Oboje szukali osoby, z którą mogliby spędzić resztę życia. Nie interesowały ich przygody, tylko prawdziwa miłość, na zawsze. <br />- Podobało mi się jak Krzysztof opowiadał o planach na przyszłość, jak dojrzale mówił o rodzinie, uczuciach - wspomina Dominika. - Tak się złożyło, że moje urodziny, które wypadają trzy dni po jego spędziliśmy już, jako para. Po siedmiu miesiącach okazało się, że będziemy mieli dziecko. <br />Ich rodzice domyślali się już wcześniej. Wiadomość o ciąży najbardziej zaskoczyła samą Dominikę, ale była bardzo szczęśliwa. Teraz mieli tworzyć prawdziwą rodzinę. Na początku przyjeżdżali do siebie pokonując ok. 40 km, później zamieszkali razem. Dominika kończyła szkołę w Szczecinie, Krzysztof pracował. <br /><br />- Niestety Amelka, która ma przyjść na świat w lutym ma chorą nerkę - dodaje dziewczyna. - Ten dzień, w którym o tym się dowiedziałam był smutny a zarazem radosny. Dokładnie 15 listopada w moje urodziny pojechałam na badanie USG. Przyjechałam zapłakana. Krzyśka nie było, pomyślałam, że zapomniał o moich urodzinach i badaniu, ale po chwili przyjechał. W prezencie, który dostałam od niego z kwiatami, w ozdobnej świeczce schowany był pierścionek. Drapiąc się po głowie zapytał, czy zostanę jego żoną. Znów się rozpłakałam i natychmiast się zgodziłam. <br /><br />Młodzi planowali ślub we wrześniu, kiedy Amelka będzie już trochę większa. Mama Dominiki znalazła informację o plebiscycie Piękny Ślub, postanowili spróbować sił. Ślub po narodzinach córeczki byłby już pełnym spełnieniem marzeń. <br /><br />- Dominika jest całym moim światem, chociaż nasza córeczka jest chora to wspieramy się i chcemy stworzyć wspaniałą rodzinę - mówi Krzysztof. <br /><br />Więcej na temat plebiscytu, wyniki głosowania na żywo oraz kandydatów znajdziesz na <a href="http://www.gs24.pl/apps/pbcs.dll/section?Category=PIEKNYSLUB00"><b>www.gs24.pl/pieknyslub</b></a></p><div class="adholder_srodek1"></div>
+
+
+
+
+
+<div id="articleConnections">
+    <p>Przeczytaj więcej</p>
+    <ul>
+    
+
+
+
+<li><a href="/apps/pbcs.dll/article?AID=/20120105/PIEKNYSLUB01/381501826" title="Piękny Ślub: Oprócz wesela mamy coś jeszcze">Piękny Ślub: Oprócz wesela mamy coś jeszcze</a>
+<span>(5-01-2012)</span></li>
+
+
+
+
+<li><a href="/apps/pbcs.dll/article?AID=/20111230/PIEKNYSLUB01/357270406" title="Piękny Ślub: Marzą o ślubie, ale zdrowie synka jest najważniejsze">Piękny Ślub: Marzą o ślubie, ale zdrowie synka jest najważniejsze</a>
+<span>(30-12-2011)</span></li>
+
+    
+    </ul>
+</div>
+
+</div>
+
+<div id="facebookLike"><a id="facebookLikeButton" href="#"></a></div>
+<div id="googlePlusOne"><div id="googlePlusOneButton"></div></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {"parsetags": "explicit"}
+</script>
+<script type="text/javascript">
+// ustaw wielkosc czcionki w artykule
+setArticleTextSize();
+$('a.picture').popupwindow("height:640,width:600,toolbar:0,scrollbars:1,status:0,resizable:1,left:50,top:50");
+gapi.plusone.render("googlePlusOneButton");
+var faceBookLikeOptions = {
+  src: href="http://www.facebook.com/plugins/like.php?locale=pl_PL&amp;href="+encodeURIComponent(location.href)+"&amp;layout=standard&amp;show_faces=false&amp;width=460&amp;action=like&amp;colorscheme=light&amp;height=25",
+  attr: { scrolling: "no", frameborder: "0", style: "border:none; overflow:hidden; width:460px; height: 80px;", allowTransparency: "true" },
+  width: 290,
+  height: 30
+};
+$('a#facebookLikeButton').iframe(faceBookLikeOptions);
+</script>
+<!-- USTALENIE ZMIENNYCH DLA KOMENTARZY - VARIABLES FOR ARTICLE COMMENTS -->
+
+
+
+<!-- STATLIVE - STATYSTYKI ARTYKUŁÓW -->
+
+
+<script type="text/javascript" src="http://statystyki.mediaregionalne.pl/stats.php?artno=563808030&amp;category=pieknyslub01&amp;site=GS&amp;date=20120103&amp;title=Pi%EAkny%20%A6lub%3A%20Razem%20do%20ko%F1ca%20%BFycia"></script>
+            <ul class="articleFunctions">
+<li><a href="#" class="tiplink"><img src="/images/PIEKNYSLUB/articon_email.gif" width="22" height="12" alt="wyślij" title="wyślij znajomemu" /></a></li>
+<li><a href="#" class="print"><img src="/images/PIEKNYSLUB/articon_print.gif" width="16" height="16" alt="wydrukuj" title="wydrukuj" /></a></li>
+<li><a href="#" class="report"><img src="/images/PIEKNYSLUB/articon_report.gif" width="16" height="20" alt="zgłoś błąd" title="zgłoś błąd" /></a></li>
+<li><a href="http://www.egazety.pl/oferta/glos_dziennik_pomorza,147,149.html" rel="nofollow"><img src="/images/PIEKNYSLUB/articon_epaper.gif" width="39" height="13" alt="e-wydanie" title="e-wydanie" /></a></li>
+<li><a href="#" class="rss"><img src="/images/PIEKNYSLUB/articon_rss.gif" width="17" height="17" alt="rss " title="kanał RSS" /></a></li>
+<li><a href="#" class="wykop"><img src="/images/PIEKNYSLUB/articon_wykop.gif" width="16" height="16" alt="wykop" title="wykop to" /></a></li>
+<li><a href="#" title="zmniejsz czcionkę" class="A1">A</a>
+<a href="#" title="czcionka standardowa" class="A2">A</a>
+<a href="#" title="powiększ czcionkę" class="A3">A</a></li>
+</ul>
+            <div id="articleComments">
+    <h3>Forum</h3>
+    <ul>
+    <!-- remote --><li>
+<span><strong>Pieczka</strong> | dodano:  3 stycznia, 20:02</span>
+<p>
+<a href="http://forum.gs24.pl/piekny-slub-razem-do-konca-zycia-t40746/page__view__findpost__p__211784" rel="nofollow">.</a>
+</p>
+</li>
+<li id="articleCommentsAll">
+<a href="http://forum.gs24.pl/piekny-slub-razem-do-konca-zycia-t40746/" title="Piękny Ślub: Razem do końca życia">Wszystkie komentarze (1)</a>
+</li>
+
+    </ul>
+    <form action="http://forum.gs24.pl/index.php?act=sxo_post&amp;do=new_post" method="post">
+    <fieldset>
+        <input type="hidden" name="category" value='PIEKNYSLUB01'/>
+        <input type="hidden" name="sxoid" value='563808030' />
+        <input type="hidden" name="sxolink" value='/apps/pbcs.dll/article?AID=/20120103/PIEKNYSLUB01/563808030' />
+        <input type="hidden" name="sxotitle" value='Piękny Ślub: Razem do końca życia' />
+        <input type="submit" value="Dodaj komentarz &raquo;"/>
+    </fieldset>
+    </form>
+    <!-- remote --><!-- remote file is empty -->
+
+</div>
+        </div>
+        <div id="col300">
+            <div id="boxMostRead" class="box300">
+    <h3>Najczęściej czytane</h3>
+    <ul id="boxMostReadTabs">
+        <li class="ui-tabs-selected"><a href="#mostReadList1">dzisiaj</a></li>
+        <li><a href="#mostReadList2">ostatni tydzień</a></li>
+        <li class="last"><a href="#mostReadList3">ostatni miesiąc</a></li>
+    </ul>
+    <div id="mostReadList1">
+        <ul>
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130409/SZCZECIN/130409593" title="Redakcyjny dyżur z inspektorami Państwowej Inspekcji Pracy">Redakcyjny dyżur z inspektorami Państwowej Inspekcji Pracy</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130409/SZCZECIN/130409642" title="Koncepcja przebudowy Starego Miasta">Koncepcja przebudowy Starego Miasta</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130409/STARGARD/130409616" title="Plaga kradzieży w Stargardzie. Kradną alkohol, perfumy i... skarpetki">Plaga kradzieży w Stargardzie. Kradną alkohol, perfumy i... skarpetki</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130409/POGON/130409602" title="Prezes Pogoni chce więcej funduszy od miasta">Prezes Pogoni chce więcej funduszy od miasta</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130409/TURYSTYCZNEPERLYPOMORZA06/130409604" title="Pogoda: Do Szczecina idzie wiosna, nad morzem nadal chłodno">Pogoda: Do Szczecina idzie wiosna, nad morzem nadal chłodno</a>
+</li>
+</ul>
+
+    </div>
+    <div id="mostReadList2" class="ui-tabs-hide">
+        <ul>
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130329/TURYSTYCZNEPERLYPOMORZA1101/130329513" title="Sensacyjne odkrycie na plaży w Świnoujściu [zdjęcia]">Sensacyjne odkrycie na plaży w Świnoujściu [zdjęcia]</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130402/TURYSTYCZNEPERLYPOMORZA1103/130409946" title="Wieża widokowa na Wałach ponownie otwarta [zdjęcia]">Wieża widokowa na Wałach ponownie otwarta [zdjęcia]</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130329/TURYSTYCZNEPERLYPOMORZA06/130329550" title="Nie będzie wiosny do 10 kwietnia!">Nie będzie wiosny do 10 kwietnia!</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130327/KOSZYKOWKA/130329595" title="Drugie zwycięstwo Wilków w play off">Drugie zwycięstwo Wilków w play off</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130402/FLOTA/130409924" title="Dominik Nowak nadal trenerem Floty Świnoujście">Dominik Nowak nadal trenerem Floty Świnoujście</a>
+</li>
+</ul>
+
+    </div>
+    <div id="mostReadList3" class="ui-tabs-hide">
+        <ul>
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130327/KOSZYKOWKA/130329595" title="Drugie zwycięstwo Wilków w play off">Drugie zwycięstwo Wilków w play off</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130329/TURYSTYCZNEPERLYPOMORZA1101/130329513" title="Sensacyjne odkrycie na plaży w Świnoujściu [zdjęcia]">Sensacyjne odkrycie na plaży w Świnoujściu [zdjęcia]</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130327/KOSZYKOWKA/130329597" title="Porażka Wilczyc na koniec rundy zasadniczej">Porażka Wilczyc na koniec rundy zasadniczej</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130329/TURYSTYCZNEPERLYPOMORZA06/130329550" title="Nie będzie wiosny do 10 kwietnia!">Nie będzie wiosny do 10 kwietnia!</a>
+</li>
+
+
+<!-- Wypunktowana lista najczęściej czytanych -->
+<li>
+    <a href="/apps/pbcs.dll/article?AID=/20130328/TURYSTYCZNEPERLYPOMORZA1103/130329580" title="Palma stanie w centrum Szczecina">Palma stanie w centrum Szczecina</a>
+</li>
+</ul>
+
+    </div>
+    <div class="adholder_link"></div>
+</div>
+<div class="adholder_prawa1"></div>
+<div class="box300">
+    <h3>Artykuły</h3>
+    
+    <div class="adholder_link"></div>
+</div>
+<div id="boxGalleries" class="box300">
+    <h3><a href="/apps/pbcs.dll/section?Category=PIEKNYSLUB02" title="Zdjęcia - Piękny Ślub">Zdjęcia</a></h3>
+    
+
+<ul class="jcarousel-skin-box jcarousel-list">
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-1 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130408&amp;Category=TURYSTYCZNEPERLYPOMORZA02&amp;ArtNo=408009999&amp;Ref=PH" title="Piracki galeon w doku w Szczecinie" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130408&amp;Category=TURYSTYCZNEPERLYPOMORZA02&amp;ArtNo=408009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Piracki galeon w doku w Szczecinie" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130408&amp;Category=TURYSTYCZNEPERLYPOMORZA02&amp;ArtNo=408009999&amp;Ref=PH" title="Piracki galeon w doku w Szczecinie">Piracki galeon w doku w Szczecinie</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-2 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130407&amp;Category=SPORT&amp;ArtNo=407009998&amp;Ref=PH" title="Eliminacje do Halowych Mistrzostw Świata w Kartingu" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130407&amp;Category=SPORT&amp;ArtNo=407009998&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Eliminacje do Halowych Mistrzostw Świata w Kartingu" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130407&amp;Category=SPORT&amp;ArtNo=407009998&amp;Ref=PH" title="Eliminacje do Halowych Mistrzostw Świata w Kartingu">Eliminacje do Halowych Mistrzostw Świata w Kartingu</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-3 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130407&amp;Category=SZCZECIN&amp;ArtNo=407009999&amp;Ref=PH" title="Internauci fotografują wiosnę" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130407&amp;Category=SZCZECIN&amp;ArtNo=407009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Internauci fotografują wiosnę" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130407&amp;Category=SZCZECIN&amp;ArtNo=407009999&amp;Ref=PH" title="Internauci fotografują wiosnę">Internauci fotografują wiosnę</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-4 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130406&amp;Category=POGON&amp;ArtNo=406009999&amp;Ref=PH" title="Jagiellonia Białystok - Pogoń Szczecin 1:0" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130406&amp;Category=POGON&amp;ArtNo=406009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Jagiellonia Białystok - Pogoń Szczecin 1:0" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130406&amp;Category=POGON&amp;ArtNo=406009999&amp;Ref=PH" title="Jagiellonia Białystok - Pogoń Szczecin 1:0">Jagiellonia Białystok - Pogoń Szczecin 1:0</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-5 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130405&amp;Category=SZCZECIN&amp;ArtNo=405009999&amp;Ref=PH" title="Pokaz mody rodem z PRL" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130405&amp;Category=SZCZECIN&amp;ArtNo=405009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Pokaz mody rodem z PRL" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130405&amp;Category=SZCZECIN&amp;ArtNo=405009999&amp;Ref=PH" title="Pokaz mody rodem z PRL">Pokaz mody rodem z PRL</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-6 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130404&amp;Category=SZCZECIN&amp;ArtNo=404009999&amp;Ref=PH" title="Kolejka po bilety na kocnert Imany" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130404&amp;Category=SZCZECIN&amp;ArtNo=404009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Kolejka po bilety na kocnert Imany" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130404&amp;Category=SZCZECIN&amp;ArtNo=404009999&amp;Ref=PH" title="Kolejka po bilety na kocnert Imany">Kolejka po bilety na kocnert Imany</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-7 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130403&amp;Category=SZCZECIN&amp;ArtNo=403009999&amp;Ref=PH" title="Wizyta dzieci w elektrowni przy ul. Dąbskiej" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130403&amp;Category=SZCZECIN&amp;ArtNo=403009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Wizyta dzieci w elektrowni przy ul. Dąbskiej" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130403&amp;Category=SZCZECIN&amp;ArtNo=403009999&amp;Ref=PH" title="Wizyta dzieci w elektrowni przy ul. Dąbskiej">Wizyta dzieci w elektrowni przy ul. Dąbskiej</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-8 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130402&amp;Category=SZCZECIN&amp;ArtNo=402009998&amp;Ref=PH" title="Wieża widokowa w Muzeum Narodowym w Szczecinie" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130402&amp;Category=SZCZECIN&amp;ArtNo=402009998&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Wieża widokowa w Muzeum Narodowym w Szczecinie" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130402&amp;Category=SZCZECIN&amp;ArtNo=402009998&amp;Ref=PH" title="Wieża widokowa w Muzeum Narodowym w Szczecinie">Wieża widokowa w Muzeum Narodowym w Szczecinie</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-9 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130402&amp;Category=POGON01&amp;ArtNo=402009999&amp;Ref=PH" title="Pogoń Szczecin - Lech Poznań 0:2. Zdjęcia zrobione dronem" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130402&amp;Category=POGON01&amp;ArtNo=402009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Pogoń Szczecin - Lech Poznań 0:2. Zdjęcia zrobione dronem" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130402&amp;Category=POGON01&amp;ArtNo=402009999&amp;Ref=PH" title="Pogoń Szczecin - Lech Poznań 0:2. Zdjęcia zrobione dronem">Pogoń Szczecin - Lech Poznań 0:2. Zdjęcia zrobione dronem</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-10 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130401&amp;Category=POGON&amp;ArtNo=401009997&amp;Ref=PH" title="Pogoń Szczecin - Lech Poznań 0:2. Zdjęcia z meczu" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130401&amp;Category=POGON&amp;ArtNo=401009997&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Pogoń Szczecin - Lech Poznań 0:2. Zdjęcia z meczu" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130401&amp;Category=POGON&amp;ArtNo=401009997&amp;Ref=PH" title="Pogoń Szczecin - Lech Poznań 0:2. Zdjęcia z meczu">Pogoń Szczecin - Lech Poznań 0:2. Zdjęcia z meczu</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-11 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130401&amp;Category=POGON&amp;ArtNo=401009998&amp;Ref=PH" title="Pogoń Szczecin - Lech Poznań: Kibice obydwu drużyn w drodze na stadion" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130401&amp;Category=POGON&amp;ArtNo=401009998&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt="Pogoń Szczecin - Lech Poznań: Kibice obydwu drużyn w drodze na stadion" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130401&amp;Category=POGON&amp;ArtNo=401009998&amp;Ref=PH" title="Pogoń Szczecin - Lech Poznań: Kibice obydwu drużyn w drodze na stadion">Pogoń Szczecin - Lech Poznań: Kibice obydwu drużyn w drodze na stadion</a>
+</li>
+
+<!-- Ostatnie galerie - box w kolumnie 300 -->
+<li class="jcarousel-item-12 jcarousel-item">
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130331&amp;Category=SWINOUJSCIE&amp;ArtNo=331009999&amp;Ref=PH" title=" Tłumy na Wyspach Wielkanocnych" class="image"><img src="/apps/pbcsi.dll/bilde?Site=GS&amp;Date=20130331&amp;Category=SWINOUJSCIE&amp;ArtNo=331009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=78&amp;MaxH=58&amp;border=0" alt=" Tłumy na Wyspach Wielkanocnych" /></a>
+    <a href="/apps/pbcs.dll/tngallery?Site=GS&amp;Date=20130331&amp;Category=SWINOUJSCIE&amp;ArtNo=331009999&amp;Ref=PH" title=" Tłumy na Wyspach Wielkanocnych"> Tłumy na Wyspach Wielkanocnych</a>
+</li></ul>
+    <p class="more"><a href="/apps/pbcs.dll/section?Category=PIEKNYSLUB02" title="Zdjęcia, fotogalerie" rel="nofollow">więcej &raquo;</a> | <script type="text/javascript">safeEmail('online','gs24.pl','wyślij zdjęcie &raquo;');</script></p>
+</div>
+<div id="boxVideos" class="box300">
+    <h3><a href="/apps/pbcs.dll/section?Category=pieknyslub10" title="Wideo - Piękny Ślub">Wideo</a></h3>
+    <!-- remote to local --><!-- local --><ul class="jcarousel-skin-box jcarousel-list">
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=4FYS9ilcXDE" title="Kiedy nadano Szczecinowi prawa miejskie?">
+<img src="http://i.ytimg.com/vi/4FYS9ilcXDE/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=4FYS9ilcXDE" title="Kiedy nadano Szczecinowi prawa miejskie?">Kiedy nadano Szczecinowi prawa miejskie?</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=rWhM2oyLaTc" title="Wizyta dzieci w elektrociepłowni przy ul. Dąbskiej w Szczecinie">
+<img src="http://i.ytimg.com/vi/rWhM2oyLaTc/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=rWhM2oyLaTc" title="Wizyta dzieci w elektrociepłowni przy ul. Dąbskiej w Szczecinie">Wizyta dzieci w elektrociepłowni przy ul. Dąbskiej w Szczecinie</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=6HZfJ0GwlZ0" title="Mimo wiosny... w Szczecinie wciąż zima">
+<img src="http://i.ytimg.com/vi/6HZfJ0GwlZ0/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=6HZfJ0GwlZ0" title="Mimo wiosny... w Szczecinie wciąż zima">Mimo wiosny... w Szczecinie wciąż zima</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=_s6S8YwjJpc" title="Pikieta Solidarności na Wałach Chrobrego w Szczecinie">
+<img src="http://i.ytimg.com/vi/_s6S8YwjJpc/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=_s6S8YwjJpc" title="Pikieta Solidarności na Wałach Chrobrego w Szczecinie">Pikieta Solidarności na Wałach Chrobrego w Szczecinie</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=tjuP2Ke3wHY" title="Piłkarze Pogoni Szczecin oczami oczennic Liceum Plastycznego">
+<img src="http://i.ytimg.com/vi/tjuP2Ke3wHY/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=tjuP2Ke3wHY" title="Piłkarze Pogoni Szczecin oczami oczennic Liceum Plastycznego">Piłkarze Pogoni Szczecin oczami oczennic Liceum Plastycznego</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=Z5s3nvV8Dyg" title="I Mistrzostwa Szczecina w siatkonodze">
+<img src="http://i.ytimg.com/vi/Z5s3nvV8Dyg/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=Z5s3nvV8Dyg" title="I Mistrzostwa Szczecina w siatkonodze">I Mistrzostwa Szczecina w siatkonodze</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=ql8BZcg6meI" title="IX Mistrzostwa Polski w Submission Fighting ADCC">
+<img src="http://i.ytimg.com/vi/ql8BZcg6meI/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=ql8BZcg6meI" title="IX Mistrzostwa Polski w Submission Fighting ADCC">IX Mistrzostwa Polski w Submission Fighting ADCC</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=fIyQm2m-ZEA" title="Okręty marynarki wojennej w Szczecinie">
+<img src="http://i.ytimg.com/vi/fIyQm2m-ZEA/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=fIyQm2m-ZEA" title="Okręty marynarki wojennej w Szczecinie">Okręty marynarki wojennej w Szczecinie</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=tIsHwRMChj0" title="Dariusz Wdowczyk nowym trenerem Pogoni Szczecin - konferencja">
+<img src="http://i.ytimg.com/vi/tIsHwRMChj0/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=tIsHwRMChj0" title="Dariusz Wdowczyk nowym trenerem Pogoni Szczecin - konferencja">Dariusz Wdowczyk nowym trenerem Pogoni Szczecin - konferencja</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=rEKXXQRDF4s" title="Paweł G. doprowadzony na przesłuchanie">
+<img src="http://i.ytimg.com/vi/rEKXXQRDF4s/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=rEKXXQRDF4s" title="Paweł G. doprowadzony na przesłuchanie">Paweł G. doprowadzony na przesłuchanie</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=tu9Fwpm2p80" title="Joanna Mucha, minister sportu i turystyki w Szczecinie">
+<img src="http://i.ytimg.com/vi/tu9Fwpm2p80/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=tu9Fwpm2p80" title="Joanna Mucha, minister sportu i turystyki w Szczecinie">Joanna Mucha, minister sportu i turystyki w Szczecinie</a>
+</li>
+<li class="jcarousel-item">
+<a class="image" href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=hZZJKGuN9xo" title="Radni i politycy w szczecińskiej stoczni">
+<img src="http://i.ytimg.com/vi/hZZJKGuN9xo/default.jpg" alt="wideo" height="58" />
+</a>
+<a href="/apps/pbcs.dll/section?category=PIEKNYSLUB10&amp;id=hZZJKGuN9xo" title="Radni i politycy w szczecińskiej stoczni">Radni i politycy w szczecińskiej stoczni</a>
+</li>
+</ul>
+
+    <p class="more"><a href="/apps/pbcs.dll/section?Category=pieknyslub10" title="wideo" rel="nofollow">więcej &raquo;</a> | <script type="text/javascript">safeEmail('online','gs24.pl','wyślij film &raquo;');</script></p>
+</div>
+<div class="adholder_prawa2"></div>
+<div id="boxForum" class="box300">
+    <h3><a href="http://forum.gs24.pl" title="forum">Forum</a></h3>
+    <ul id="boxForumTabsList">
+        <li class="ui-tabs-selected"><a href="#boxForumTabs1">Ostatnie</a></li>
+        <li class="last"><a href="#boxForumTabs2">Popularne</a></li>
+    </ul>
+    <div id="boxForumTabs1">
+        <!-- remote --><ul>
+<li><span>dzisiaj, 08:25</span><a href="http://forum.gs24.pl/szczecin-trudny-do-obejscia-sa-szanse-na-zachodnia-obwodnice-t50015/">Szczecin trudny do obejścia. Są szanse na zachodnią obwodnicę?</a></li>
+<li><span>dzisiaj, 08:10</span><a href="http://forum.gs24.pl/koncepcja-przebudowy-starego-miasta-chcemy-odbudowac-serce-szczecina-t50009/">Koncepcja przebudowy Starego Miasta. "Chcemy odbudować serce Szczecina"</a></li>
+<li><span>dzisiaj, 08:06</span><a href="http://forum.gs24.pl/straz-miejska-w-szczecinie-do-likwidacji-inicjatywa-ruchu-palikota-kolibra-i-zielonych-t49996/">Straż miejska w Szczecinie do likwidacji? Inicjatywa Ruchu Palikota, KoLibra i Zielonych</a></li>
+<li><span>dzisiaj, 07:44</span><a href="http://forum.gs24.pl/plaga-kradziezy-w-stargardzie-kradna-alkohol-perfumy-i-skarpetki-t50013/">Plaga kradzieży w Stargardzie. Kradną alkohol, perfumy i... skarpetki</a></li>
+<li><span>dzisiaj, 07:42</span><a href="http://forum.gs24.pl/prezes-pogoni-chce-wiecej-funduszy-od-miasta-t50000/">Prezes Pogoni chce więcej funduszy od miasta</a></li>
+<li><span>dzisiaj, 07:42</span><a href="http://forum.gs24.pl/pogoda-do-szczecina-idzie-wiosna-nad-morzem-nadal-chlodno-t50016/">Pogoda: Do Szczecina idzie wiosna, nad morzem nadal chłodno</a></li>
+</ul>
+
+        <p class="more"><a href="http://forum.gs24.pl" title="forum" rel="nofollow">więcej &raquo;</a></p>
+    </div>
+    <div id="boxForumTabs2" class="ui-tabs-hide">
+        <!-- remote --><ul>
+<li><span>[137]</span><a href="http://forum.gs24.pl/rodzinny-koszmar-w-tramwaju-14-latka-plakala-przy-kontrolerach-t49720/">Rodzinny koszmar w tramwaju: 14-latka płakała przy kontrolerach</a></li>
+<li><span>[80]</span><a href="http://forum.gs24.pl/basen-gorniczy-dlaczego-jest-tu-tyle-wypadkow-sonda-wideo-t49478/">Basen Górniczy. Dlaczego jest tu tyle wypadków? [sonda, wideo]</a></li>
+<li><span>[70]</span><a href="http://forum.gs24.pl/basen-gorniczy-bmw-znow-na-latarni-tym-razem-nikt-nie-ucierpial-t49450/">Basen Górniczy. BMW znów na latarni. Tym razem nikt nie ucierpiał</a></li>
+<li><span>[67]</span><a href="http://forum.gs24.pl/fotoradarem-w-piratow-rano-skontrolowali-ponad-200-aut-t49912/">Fotoradarem w piratów. Rano skontrolowali ponad 200 aut</a></li>
+<li><span>[64]</span><a href="http://forum.gs24.pl/glos-absurdu-pani-kupila-buty-nie-do-chodzenia-tylko-do-ozdoby-t49688/">Głos absurdu: pani kupiła buty nie do chodzenia tylko do... ozdoby</a></li>
+<li><span>[57]</span><a href="http://forum.gs24.pl/basen-gorniczy-postawia-nowy-fotoradar-t49544/">Basen Górniczy: Postawią nowy fotoradar</a></li>
+</ul>
+
+        <p class="more"><a href="http://forum.gs24.pl" title="forum" rel="nofollow">więcej &raquo;</a></p>
+    </div>
+</div>
+<div id="boxPoll" class="box300">
+    <h3><a href="/apps/pbcs.dll/section?Category=SONDY" title="Sonda">Sonda</a></h3>
+    <script type="text/javascript">
+        var pollExists=false;
+    </script>
+    <div id="pollMini">Brak ankiety.</div>
+    <script type="text/javascript">
+        if (!pollExists) { $("#pollMini").preloader(); }
+    </script>
+</div>
+<div class="adholder_prawa4"></div>
+<div id="boxTags" class="box300">
+    <h3><a href="/apps/pbcs.dll/section?Category=tagi" title="Tagi">Tagi</a></h3>
+    <p>Przepraszamy, w tej chwili nie ma tagów.</p>
+</div>
+<div id="boxStrefabiznesu" class="box300">
+    <h3><a href="http://strefabiznesu.gs24.pl/"><img src="/images/PIEKNYSLUB/image18.gif" alt="Strefa Biznesu" /></a></h3>
+    <!-- remote to local --><!-- local --><ul><li>
+<a href="http://www.strefabiznesu.gp24.pl/artykul/szczecin-za-ile-ciepla-majowka">Szczecin: Za ile ciepła majówka</a>
+</li>
+<li>
+<a href="http://www.strefabiznesu.gp24.pl/artykul/animex-food-zatrudnia-stepnica-zadowolona">Animex Food zatrudnia, Stepnica zadowolona</a>
+</li>
+<li>
+<a href="http://www.strefabiznesu.gp24.pl/artykul/kopalnia-kruszyw-w-mielenku-drawskim-do-sadu">Kopalnia kruszyw w Mielenku Drawskim do sądu</a>
+</li>
+<li>
+<a href="http://www.strefabiznesu.gp24.pl/artykul/po-redakacyjnym-dyzurze-jest-kasa-dla-rolnikow">Po redakacyjnym dyżurze. Jest kasa dla rolników</a>
+</li>
+<li>
+<a href="http://www.strefabiznesu.gp24.pl/artykul/w-darlowie-padla-szostka-w-lotto">W Darłowie padła "szóstka" w Lotto</a>
+</li>
+</ul>
+
+</div>
+        </div>
+    </div>
+    <div class="adholder_pasek"></div>
+    <div class="adholder_dol"></div>
+    <div id="bottom">
+    <ul>
+        <li><a href="/apps/pbcs.dll/section?Category=KONTAKT">kontakt</a></li>
+        <li><a href="/apps/pbcs.dll/section?Category=REKLAMA">reklama</a></li>
+        <li><a href="/apps/pbcs.dll/section?Category=REDAKCJA">redakcja</a></li>
+    </ul>
+    <p>Wszelkie prawa zastrzeżone. Media Regionalne sp. z o.o. 2001-2013</p>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+var pianoVariables = {
+    service_id: "273",
+    mode: "bar_normal",
+    method_verify: true
+};
+var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+(function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';
+    var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+})();
+// ]]>
+</script>
+
+<script type="text/javascript" src="http://ad.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "new", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "ad.adocean.pl", id: "es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77"});
+</script><script type="text/javascript">
+$('.adholder_gora').attr('id','ado-w3hRy6oNHGKmGBKnSjqtTAmm4RUw7ccGr_2a.spmvG3.P7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.gora.pieknySlub_gora */
+ado.placement({id: 'ado-w3hRy6oNHGKmGBKnSjqtTAmm4RUw7ccGr_2a.spmvG3.P7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_logosponsora').attr('id','ado-_kzq4zQ0491O0tzIEtCWxv1ybYX25GblyN.YkPZSzo7.X7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.logosponsora.pieknySlub_logosponsora */
+ado.placement({id: 'ado-_kzq4zQ0491O0tzIEtCWxv1ybYX25GblyN.YkPZSzo7.X7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_belka').attr('id','ado-PMWQ8SA_NvZVVjKT.dPEbQNuIhy6Dl5IhEigeCet4xj.l7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.belka.pieknySlub_belka */
+ado.placement({id: 'ado-PMWQ8SA_NvZVVjKT.dPEbQNuIhy6Dl5IhEigeCet4xj.l7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_belka1').attr('id','ado-Cpz1.jSkjZyo0SpYFySI6Qkizz4wgo9IuBCkwLMFq1D.X7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.belka1.pieknySlub_belka1 */
+ado.placement({id: 'ado-Cpz1.jSkjZyo0SpYFySI6Qkizz4wgo9IuBCkwLMFq1D.X7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_srodek1').attr('id','ado-CDVFHF6bPTslmU_63yO4C.RqDaeSW6egeSTFoPGRQHH.h7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.srodek1.pieknySlub_srodek1 */
+ado.placement({id: 'ado-CDVFHF6bPTslmU_63yO4C.RqDaeSW6egeSTFoPGRQHH.h7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_link').attr('id','ado-rrBbj6YY_Aq8P.3MoSfFu09A0KTZEMLwCSjDoMEs9kn._7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.link.pieknySlub_link */
+ado.placement({id: 'ado-rrBbj6YY_Aq8P.3MoSfFu09A0KTZEMLwCSjDoMEs9kn._7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_prawa1').attr('id','ado-cD8LbVwESMd04_i8cURcg3lXA3ggb1Kk2DVGXgL72SX.w7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.prawa1.pieknySlub_prawa1 */
+ado.placement({id: 'ado-cD8LbVwESMd04_i8cURcg3lXA3ggb1Kk2DVGXgL72SX.w7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_prawa2').attr('id','ado-LgT6qha7Q5KMBDzs_5HWr1SEj2ayxg7ILw0RH4w1fbT.Q7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.prawa2.pieknySlub_prawa2 */
+ado.placement({id: 'ado-LgT6qha7Q5KMBDzs_5HWr1SEj2ayxg7ILw0RH4w1fbT.Q7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_prawa4').attr('id','ado-z_r7Lcmn6CrjReNGLyccyaw5w8TOZtHnO3sMKzoqwWX.57');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.prawa4.pieknySlub_prawa4 */
+ado.placement({id: 'ado-z_r7Lcmn6CrjReNGLyccyaw5w8TOZtHnO3sMKzoqwWX.57', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_dol').attr('id','ado-d7P7ZotJ6JsFh6lsMu7pDydIMuAg7P4s2uHmoqEzSwL.U7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.dol.pieknySlub_dol */
+ado.placement({id: 'ado-d7P7ZotJ6JsFh6lsMu7pDydIMuAg7P4s2uHmoqEzSwL.U7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_pasek').attr('id','ado-k7BVvDnsnRzxh2of2DiSMNIDwtNPVZ4NsXHNsnBL8nT.R7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.pasek.pieknySlub_pasek */
+ado.placement({id: 'ado-k7BVvDnsnRzxh2of2DiSMNIDwtNPVZ4NsXHNsnBL8nT.R7', server: 'ad.adocean.pl' });
+</script>
+
+<script type="text/javascript">
+$('.adholder_watermark').attr('id','ado-vzMHBdlLN79tAKXobQtNcI.XIGJPfOM0TOKQsuawLIf..7');
+/* (c)AdOcean 2003-2011, media_regionalne.gs24.pl.watermark.pieknySlub_watermark */
+ado.placement({id: 'ado-vzMHBdlLN79tAKXobQtNcI.XIGJPfOM0TOKQsuawLIf..7', server: 'ad.adocean.pl' });
+</script>
+
+<!-- Begin comScore CMC v.1.0.1 --><script type='text/javascript'>// <![CDATA[function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'div><img src="'+u+'" height="1" width="1" alt="*"><'+'/div>');};sitestat("http://int.sitestat.com/mr/gs24/s?styl_zycia.piekny_slub.piekny-slub.piekny-slub-artykuly.artykul.piekny-slub-razem-do-konca-zycia-20120103&amp;mr_grupa=pr&amp;mr_podgrupa=glos&amp;mr_serwis=gs24&amp;mr_tematycznie=styl_zycia&amp;mr_oddzial=szczecin");// ]]></script><noscript><div><img src="http://int.sitestat.com/mr/gs24/s?styl_zycia.piekny_slub.piekny-slub.piekny-slub-artykuly.artykul.piekny-slub-razem-do-konca-zycia-20120103&amp;mr_grupa=pr&amp;mr_podgrupa=glos&amp;mr_serwis=gs24&amp;mr_tematycznie=styl_zycia&amp;mr_oddzial=szczecin" width="1" height="1" alt="" /></div></noscript><script type='text/javascript' src='/js/sitestat.js'></script><!-- End comScore CMC -->
+<script type="text/javascript" src="http://pliki.serwisyregionalne.pl/cookie/cookies-policy-min.js"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-954015-7']);
+_gaq.push(['_setDomainName', '.gs24.pl']);
+_gaq.push(['_setVar', 'PIEKNYSLUB']);
+_gaq.push(['_addOrganic', 'onet.pl', 'qt']);
+_gaq.push(['_addOrganic', 'szukaj.onet.pl', 'qt']);
+_gaq.push(['_addOrganic', 'katalog.onet.pl', 'qt']);
+_gaq.push(['_addOrganic', 'wp.pl', 'szukaj']);
+_gaq.push(['_addOrganic', 'szukaj.wp.pl', 'szukaj']);
+_gaq.push(['_addOrganic', 'netsprint.pl', 'q']);
+_gaq.push(['_addOrganic', 'google.interia.pl', 'q']);
+_gaq.push(['_addOrganic', 'gooru.pl', 'PHRASE']);
+_gaq.push(['_addOrganic', 'szukaj.gazeta.pl', 'slowo']);
+_gaq.push(['_addOrganic', 'szukaj2.o2.pl', 'qt']);
+_gaq.push(['_addOrganic', 'szukacz.pl', 'q']);
+_gaq.push(['_addOrganic', 'search.live.com', 'q']);
+_gaq.push(['_addOrganic', 'katalog.interia.pl', 'q']);
+_gaq.push(['_addOrganic', 'szukaj.wow.pl', 'q']);
+_gaq.push(['_addOrganic', 'szukaj.gery.pl', 'q']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+</body>
+</html>

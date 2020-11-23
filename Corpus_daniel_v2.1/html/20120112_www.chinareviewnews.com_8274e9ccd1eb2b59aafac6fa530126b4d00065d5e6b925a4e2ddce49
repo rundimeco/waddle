@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!--create time : Wed Jan 11 11:12:47 CST 2012  host : web02-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="中國,評論,新聞,中評網,中評,中評社">
+<title>中國評論新聞：“看病送火車票”　折射春運之殤</title>
+<link href="/resource/css/main.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+	function doZoom(size)
+	{
+		document.getElementById('zoom').style.fontSize=size+'pt';
+	}
+	
+	function getParameter(param)
+	{
+		var query = window.location.search;
+		var iLen = param.length;
+		var iStart = query.indexOf(param);
+		if (iStart == -1)
+		{
+			return "";
+		}
+		iStart += iLen + 1;
+		var iEnd = query.indexOf("&", iStart);
+		if (iEnd == -1)
+		{
+			return query.substring(iStart);
+		}
+	
+		return query.substring(iStart, iEnd);
+	}
+	
+	function getNav()
+	{
+		var key = getParameter("coluid") + "-" + getParameter("kindid");
+
+		if(key == "126-3970")
+		{
+			return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/spec/126">中評社實名網評精選</a> -&gt;&gt; <a href="/crn-webapp/kindOutline.jsp?coluid=126&kindid=3970">最新網評</a>';
+		}
+
+		if(key == "123-0")
+		{
+			return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/msgOutline.jsp?coluid=123">實名網評</a>';
+		}
+
+		if(key == "0-0")
+		{
+			return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/nowOutline.jsp?coluid=0">即時新聞</a>';
+		}
+
+		if(key == "126-3974")
+		{
+			return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/spec/126">中評社實名網評精選</a> -&gt;&gt; <a href="/crn-webapp/kindOutline.jsp?coluid=126&kindid=3974">社會、文教、體育、娛樂</a>';
+		}
+
+		return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/spec/126">中評社實名網評精選</a> -&gt;&gt; <a href="/crn-webapp/kindOutline.jsp?coluid=126&kindid=3970">最新網評</a>';
+	}
+</script>
+</head>
+
+<body bgcolor="#999999" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<div align="center">
+<script type="text/javascript" src="/resource/js/pagehead.js"></script>
+<table width="778" height="300" border="0" cellpadding="20" cellspacing="0" bgcolor="#FFFFFF">
+    <tr> 
+      <td width=60% align="center" valign="top">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr><td width="2%" nowrap="nowrap" height="25" valign="top">
+          <script language="JavaScript">document.write(getNav());</script>
+          </td>
+          <td width="98%" nowrap="nowrap" align="right" valign="top">
+            【<A href="/crn-webapp/doc/docDetailCNML.jsp?coluid=123&kindid=0&docid=101974260" target="_blank">CNML格式</A>】
+            【<A href="javascript:doZoom(13)">大</A> <A href="javascript:doZoom(11)">中</A> <A href="javascript:doZoom(10)">小</A>】
+            【<A href="javascript:window.print();">打 印</A>】&nbsp;
+            </td>
+          </tr>
+          
+		   <tr>
+	          <td align=right valign=top colspan=2 height="25">
+<!-- JiaThis Button BEGIN -->
+<div id="ckepop">
+	<a href="http://www.jiathis.com/share/" class="jiathis jiathis_txt" target="_blank"><img src="http://v2.jiathis.com/code/images/jiathis2.gif" border="0" /></a>
+</div>
+<script type="text/javascript" src="http://v2.jiathis.com/code/jia.js" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+
+	          </td>
+          </tr>
+
+          <tr>
+            <td align="center" colspan=2><font color="#000000" style="font-size: 22px"><strong>“看病送火車票”　折射春運之殤</strong></font></td></tr>
+            
+          <tr><td align=center colspan=2><br><font style="font-size:14px">http://www.chinareviewnews.com</font>
+             &nbsp;&nbsp;2012-01-11 11:05:39&nbsp;&nbsp;</td>
+          </tr>
+        </table>
+        <br>
+        <br>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" height=200>
+          <tr>
+            <td style="font-size: 16px;LINE-HEIGHT: 150%;text-align:justify;text-justify:inter-ideograph;" valign=top id="zoom">　　作者：李兆清　江蘇南通　職員<br><br>　　近日，福州一家醫院推出“共助春運，看病就送火車票”服務，院方稱在院內消費數額達到2000元的患者，可由院方贈送一張返鄉火車票。該醫院門診機構負責人稱，他們只是在做促銷，門診機構會通過去火車站排隊、網絡預訂的方式為患者買火車票。（1月9日《福州晚報》）　<br><br>　　臨近春節，幾億游子等著回家，於是春運也即買票難、交通運輸難、交通擁擠等成為很大的社會問題。如何讓廣大旅客平安到家，這是擺在廣大客運系統職工面前的大問題，也是整個社會面臨的大問題。運力緊張的問題如何緩解，買票的途徑能否多樣化，整個社會都在思考這個問題。於是高鐵、飛機等成為人們的新選擇，網絡購票也走進了人們的生活。<br><br>曾　　有人在廣州亞運會之後揶揄說，中國奧運、亞運辦得很成功，啥時能把春運辦成功呢？雖然有點插科打諢，但反映的卻是真問題。“有錢沒錢，回家過年”，春節是舉家團圓的日子，游子走得再遠，也要回到自己的家鄉。至於買票問題，旅客可以提前幾個星期買，可以通過網絡購票，不必扎堆到回家的時候才去“臨陣磨槍”。不少企業把為員工購票作為員工福利的一部分，通過團購的方式購票免除了職工春節回家難的後顧之憂，這讓職工感受到來自企業的溫暖，也更會把企業當作自己的家，工作會更得力、更用心。<br><br>　　春運成為社會大問題，一是與春節的時令有關，這個時令人們都要回家過年。二是與人人們扎堆回家有關。無論在外多遠，春節的時候總要回家團圓。三是與運力緊張有關。雖然近些年交通基礎設施建設取得了很大的進步，但並沒有從根本上扭轉交通運力緊張的局面。這家醫院“共助春運，看病就送火車票”服務，在院內消費數額達到2000元的患者，可由院方贈送一張返鄉火車票。送火車票成為在這家醫院就醫的一種福利。然而，普通百姓的期望大都是“有啥別有病，沒啥別沒錢”，花到2000元以上的基本不是小病了，也需要一段時間才能康復，這種營銷方式多是一種炒作。<br><br>　　話說“醫者仁心”，又有“救死扶傷，治病救人”的醫道，拯救病人疾苦理應成為人道的一部分。醫院這樣的做法有些不當，卻在一定程度上反映了春運難的社會問題。春運不再難，是整個社會的期盼，而這個目標的實現需要整個社會群策群力。<br><br>　　“看病送火車票”，雖有點在傷口上撒鹽的味道，卻不折不扣地折射出了春運之殤。</td>
+          </tr>
+        </table>
+
+        
+        <br>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td  align=right>
+<!-- JiaThis Button BEGIN -->
+<div id="ckepop">
+	<a href="http://www.jiathis.com/share/" class="jiathis jiathis_txt" target="_blank"><img src="http://v2.jiathis.com/code/images/jiathis2.gif" border="0" /></a>
+</div>
+<script type="text/javascript" src="http://v2.jiathis.com/code/jia.js" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+            【<A href="/crn-webapp/doc/docDetailCNML.jsp?coluid=123&kindid=0&docid=101974260" target="_blank">CNML格式</A>】
+            【<A href="javascript:doZoom(13)">大</A> <A href="javascript:doZoom(11)">中</A> <A href="javascript:doZoom(10)">小</A>】
+            【<A href="javascript:window.print();">打 印</A>】&nbsp;
+            </td>
+          </tr>
+        </table>
+        
+        <br>
+        <table width="95%" border="0" cellpadding="4" cellspacing="0" bgcolor="#cccccc">
+          <tr><td>
+          &nbsp;<strong>相關新聞：</strong>
+          </td></tr>
+          <tr>
+            <td width="100%"  valign="top" id="iid">
+            <ul>
+
+                <li><a href="/doc/123_0_101974256_1.html" target="_blank">稱溺愛老百姓，官員政治需要掃盲</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-11 11:03:39)</em></font></li>
+
+                <li><a href="/doc/123_0_101974214_1.html" target="_blank">台灣選情的最新觀察</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-11 10:41:54)</em></font></li>
+
+                <li><a href="/doc/123_0_101974205_1.html" target="_blank">九二共識是兩岸和平發展的基石，不容否認</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-11 10:39:29)</em></font></li>
+
+                <li><a href="/doc/123_0_101974201_1.html" target="_blank">韓國通往安全最近的路在北京</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-11 10:36:02)</em></font></li>
+
+                <li><a href="/doc/123_0_101974175_1.html" target="_blank">如果蔡英文執政……</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-11 10:29:12)</em></font></li>
+
+                <li><a href="/doc/123_0_101974160_1.html" target="_blank">李登輝助選蔡英文大猜想</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-11 10:18:58)</em></font></li>
+
+                <li><a href="/doc/123_0_101974159_1.html" target="_blank">對近期台灣政壇觀察的一些感言（二）</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-11 10:17:33)</em></font></li>
+
+                <li><a href="/doc/123_0_101974140_1.html" target="_blank">李遠哲力挺蔡英文要為自己做什麼背書？</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-11 10:06:22)</em></font></li>
+
+                <li><a href="/doc/123_0_101974119_1.html" target="_blank">回顧李遠哲力挺人選　真是捏一把冷汗</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-11 10:03:33)</em></font></li>
+
+                <li><a href="/doc/123_0_101973002_1.html" target="_blank">局長變身“舵主”後</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-10 10:53:24)</em></font></li>
+
+              </ul>	
+	  </td>
+          </tr>
+        </table>
+        
+        
+        
+	</td>
+    </tr>
+  </table>
+
+<script type="text/javascript">
+try
+{
+	var obj = document.getElementById("zoom");
+	var imgs = obj.getElementsByTagName("img");
+	for(var i = 0; i < imgs.length; i++)
+	{
+		if(imgs[i].width > 600)
+		{
+			imgs[i].width = 600;
+		}
+	}
+}catch(e){}
+</script>
+<script type="text/javascript" src="/resource/js/pagetail.js"></script>
+<script src="http://www.chinareviewnews.com/crn-webapp/doc/hitdoc.jsp?docid=101974260" ></script>
+</div>
+</body>
+</html>

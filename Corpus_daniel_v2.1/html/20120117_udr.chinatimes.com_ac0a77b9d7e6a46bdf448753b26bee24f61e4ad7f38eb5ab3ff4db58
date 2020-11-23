@@ -1,0 +1,537 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+ 
+<meta property="og:title" content="中時醫療網:年節零食聰明吃 健康無負擔"/>
+<meta property="og:image" content="http://udr.chinatimes.com/imgs/question/201201170008551.jpg"/>
+<meta property="og:description" content="2012-01-17中國時報邱俐穎／台北報導春節假期除了圍爐團聚，糖果餅乾更是少不了的應景年節點心，聊天時一口接一口，無形間許多熱量也跟著吃下肚。營養師提醒，5到6顆的花生糖、牛軋糖，熱量就高達300..."/>
+<meta http-equiv="keywords" content="春節、圍爐、點心、熱量、營養師" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="pragma" content="no-cache">
+<META NAME="Author" CONTENT="Designer by Netsourcer digital‧www.netsourcer.com.tw">
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script src="js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$(".img_over").hover(function(){
+			var src=$(this).attr("src"),n=src.lastIndexOf(".");
+			var s1=src.substring(src,n), s2=src.replace(s1,"");
+			$(this).attr("src", s1+"_over"+s2);
+									 }, function(){
+			var src=$(this).attr("src");
+			$(this).attr("src", src.replace("_over",""));
+										 });
+	})
+function AddFavority(url, title) 
+   { 
+      if (document.all) 
+         window.external.AddFavorite(url, title);
+      else if (window.sidebar) 
+         window.sidebar.addPanel(title, url, "") 
+   }
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+};
+//function main_accept_result(){
+//	alert(window.parent.document.getElementById("result_vs"))
+//};
+function foc(obj,str){
+	if(obj.value==str){
+  	obj.value="";
+	};
+};
+
+function blu(obj,str){
+	if(obj.value==""){
+		obj.value=str;
+  };
+};
+</script>
+<script type="text/javascript">
+$(function(){
+	$(".expect").click(function(){alert("即將推出，敬請期待！！")});
+});
+function replace_kw(){
+	var tmp_html = $("body").html();
+	tmp_html = tmp_html.replace(/療效/g," ");
+	tmp_html = tmp_html.replace(/好康/g," ");
+	tmp_html = tmp_html.replace(/優惠/g," ");
+	tmp_html = tmp_html.replace(/保證/g," ");
+	$("body").html(tmp_html);
+};
+function doctorqa_check(){
+	var result = confirm('本功能需要登入會員，按「確定」切換至會員登錄/註冊會員\n或按「取消」停留至目前頁面。');
+	if(result){
+		location.href = 'member_index.asp?reurl=/news_view.asp';
+	};
+};
+</script>
+<!--[if lt IE 7]>
+<link href="css/ie6png.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+<script type="text/javascript">
+$(function(){
+	var e = document.createElement('script');
+	e.type = 'text/javascript';
+	e.src = 'http://www.chinatimes.com/analytics/udr.js';
+	e.async = true;
+	$("body").append(e);
+});
+</script>
+
+
+<title>年節零食聰明吃 健康無負擔 - 中時醫療網</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background:url(images/index/bg.png);
+}
+-->
+</style>
+</head>
+<body>
+<script src="http://connect.facebook.net/zh_TW/all.js#appId=229417883762258&amp;xfbml=1"></script>
+<div id="fb-root"></div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="150" align="center" valign="top" background="images/index/toplink_bg.png">
+      <table width="980" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="150">
+<table width="980" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="92" align="left" valign="top">
+      <table width="980" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="545" height="92"><a href="index.asp"><img src="images/index/logo.png" width="545" height="92" border="0" /></a></td>
+          <td height="92" align="center" valign="top">
+            <table width="435" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="30" align="right" valign="middle" class="headlink">
+                  <div style="width:435px;height:30px; float:left; position:relative">
+                    <div class="headlink_member"><a href="member_index.asp"><h1>會員專區</h1><br /><h2>JOIN NOW!</h2></a> </div>
+                    <div style="min-width:435px;height:40px; position:absolute; right:0px; top:15px;">│<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://udr.chinatimes.com');" style="cursor:pointer;">設為首頁</a>│<a href="mailto:service@udr.tw?Subject=%B6E%A9%D2%A5Z%B5n">長期徵稿</a>│<a href="mailto:service@udr.tw?Subject=%B6E%A9%D2%A5Z%B5n">診所刊登</a>│<a href="mailto:service@udr.tw?Subject=%BA%F4%AF%B8%B3%5D%ADp">網站設計</a>│<a href="index.asp">回到首頁</a>│<a href="http://udr.chinatimes.com/edm/20120111/20120111.html">電子報</a>│</div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td height="62" align="right" valign="top">
+                  <table width="380" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="52" align="center" valign="bottom">
+                        
+<script type="text/javascript">
+function searchF(i){
+	var gname = $("#gname").val();
+	if(gname!=""){
+		//$("#kw").val(gname);
+		switch(i){
+			case 1:
+				//$("#form_search").attr("action","question_search_"+gname+".html");
+				location.href = "news_search_1_"+gname+".html"
+				break;
+			case 2:
+				//$("#form_search").attr("action","knowledge_search_"+gname+".html");
+				location.href = "knowledge_search_1_"+gname+".html"
+				break;
+			case 3:
+				//$("#form_search").attr("action","doctor_list_1_1_"+gname+".html");
+				location.href = "doctor_search_"+gname+".html"
+				break;
+			case 4:
+				//$("#form_search").attr("action","hospital_list_1_1_"+gname+".html");
+				location.href = "hospital_search_"+gname+".html"
+				break;
+		};
+//		$("#form_search").submit();
+	}else{
+		alert("請輸入搜尋條件");
+	};
+	//return false;
+};
+</script>
+<table width="380" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="160" height="25" align="left" valign="middle"><input type="text" name="gname" id="gname" class="search_box" value="" /></td>
+    <td height="25">
+      <div style="width:220px; height:25px;">
+        <div class="search_button"><a href="javascript:searchF(1);">找新聞</a></div>
+        <div class="search_button"><a href="javascript:searchF(2);">找新知</a></div>
+        <div class="search_button"><a href="javascript:searchF(3);">找醫師</a></div>
+        <div class="search_button"><a href="javascript:searchF(4);">找診所</a></div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top">
+      <div class="toplink_area"> <a href="news_list.html" class="toplink_news">新聞廣場</a> <a href="knowledge_list.html" class="toplink_knowledge">醫學新知</a> <a href="doctorqa_list.asp" class="toplink_question">醫師問與答</a> <a href="doctor_list.asp" class="toplink_doctor">醫師查詢</a> <a href="hospital_list.asp" class="toplink_hospital">診所查詢</a> <a href="#" class="toplink_medicine">藥品查詢</a> <a href="media_list.asp" class="toplink_vedio">影音專區</a> <a href="#" class="toplink_expert">達人專區</a>
+        <div class="toplink_no"></div>
+      </div>
+      <div style="width:940px;height:20px; padding:0 20px" class="submenu">&nbsp;
+        
+      </div>
+    </td>
+  </tr>
+</table>
+</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <table width="980" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="left" valign="middle">
+            <div style="width:980px; min-height:1000px">
+            	
+<script type="text/javascript">
+	$(function(){
+		$("#s32").cycle({timeout:3000,pager:'#s32_pager'});
+		$("#s32").hover(function(){$('#s32').cycle('pause');}, function(){$('#s32').cycle('resume');});
+			   })
+</script>
+<div style="width:980px; height:90px; float:left; margin-bottom:10px">
+  <div id="s32">
+  <a href="adv_count.asp?nid=309" target="_blank" ><img src="imgs/adv/201111110013411.jpg" /></a><a href="adv_count.asp?nid=291" target="_blank" ><img src="imgs/adv/201111100035231.jpg" /></a><a href="adv_count.asp?nid=280" target="_blank" ><img src="imgs/adv/201110280026011.jpg" /></a>
+  </div>
+</div>
+
+              <div style="width:669px; min-height:500px; float:left; margin-right:11px; position:relative">
+                <div  class="news2_list_title">
+                	
+
+<div class="news2_list_run_word_area news2_list_run_word">
+<a href="adv_count.asp?nid=168" target="_blank" >玻尿酸</a>&nbsp;&nbsp; 
+<a href="adv_count.asp?nid=167" target="_blank" >近視雷射</a>&nbsp;&nbsp; 
+<a href="adv_count.asp?nid=166" target="_blank" >人工植牙</a>&nbsp;&nbsp; 
+<a href="adv_count.asp?nid=165" target="_blank" >矯正</a>&nbsp;&nbsp; 
+<a href="adv_count.asp?nid=164" target="_blank" >肉毒桿菌</a>&nbsp;&nbsp; 
+
+</div>
+
+                </div>
+                
+<div id="fb-root"></div><script src="http://connect.facebook.net/zh_TW/all.js#appId=229417883762258&amp;xfbml=1"></script>
+<script type="text/javascript"> 
+$(function(){
+	$("#question_post_submit").click(function(){
+		$.post("aJax/question_action.asp",{"index":"1","id":"1405","cont":$("#question_post_cont").val()},function(data){
+			if(data == "0"){
+				//更新列表
+				$("#question_post_form").hide("slow");
+				$("#question_post_cont").val("");
+				question_post_list(1);
+			};
+		});
+	});
+	question_post_list(1);
+});
+
+function question_post_new(){
+	
+	alert("請先登入會員，方可進行回應！");
+	
+};
+function question_post_list(i){
+	var sourceHtml = "" , tempHtml = "" , xHtml = "" , page = 1 ;
+	sourceHtml += '<div class="news2_view_response_area">';
+	sourceHtml += '	<div class="news2_view_response_bg"><!--content--></div>';
+	sourceHtml += '	<div class="news2_view_response_title">留言：</div>';
+	sourceHtml += '	<div class="news2_view_response_content"><!--account-->│<!--post_time--></div>';
+	sourceHtml += '</div>';
+	$.getJSON("aJax/question_action.asp",{"index":"2","id":"1405","p":i},function(data){
+		if (data.rsc > 0){
+			$("#question_post_count").html(data.rsc+" 篇回響");
+			if(data.total_page > data.page){
+				page = i + 1;
+				$("#questoin_post_page").html('<a href="javascript:question_post_list('+page+');">下一頁</a>');
+			}else{
+				$("#questoin_post_page").html('&nbsp;');
+			};
+			$.each(data.item_list, function(ii,items){
+				tempHtml = sourceHtml ;
+				tempHtml = tempHtml.replace(/<!--content-->/g,items.content) ;
+				tempHtml = tempHtml.replace(/<!--account-->/g,items.account) ;
+				tempHtml = tempHtml.replace(/<!--post_time-->/g,items.post_time) ;
+				xHtml += tempHtml ;
+			});
+			if(i == 1){
+				$("#question_post_list").html(xHtml);
+			}else{
+				$("#question_post_list:last").append(xHtml);
+			};
+		};
+	});
+};
+</script>
+<style type="text/css">
+#question_post_form{
+	display:none;
+}
+</style>
+<div class="index_newsbox_title_bg">
+  <div class="index_newsbox_title"><a style="cursor:default;">年節零食聰明吃 健康無負擔</a></div>
+</div>
+<div  class="news2_view_box_bg">
+  <div class="knowledge2_view_box">
+    
+    	<div class="knowledge2_view_box_photo"><img src="imgs/question/201201170008551.jpg" /></div>
+  	<p>2012-01-17 &nbsp;中國時報&nbsp; 邱俐穎／台北報導 </p>
+<p><br />
+&nbsp;&nbsp;&nbsp; 　春節假期除了圍爐團聚，糖果餅乾更是少不了的應景年節點心，聊天時一口接一口，無形間許多熱量也跟著吃下肚。營養師提醒，5到6顆的花生糖、牛軋糖，熱量就高達300至400大卡，等於一位60公斤、輕度活動量女性一天所需熱量的1/5。要健康過年、肚子不跟著肥一圈，零食餅乾還是淺嘗即止就好。 </p>
+<p><br />
+&nbsp;&nbsp;&nbsp; 　■堅果熱量高 一天限一份 </p>
+<p><br />
+&nbsp;&nbsp;&nbsp; 　洋芋片、瓜子、花生、牛軋糖、魷魚絲&hellip;琳瑯滿目的春節零食熱量比一比，夏威夷火山豆、核桃等堅果類熱量堪稱第一，但台北市立聯合醫院營養部主任金惠民表示，雖然堅果類熱量高，但營養密度也高，吃堅果要秉持一天不超過一份的原則，否則一口一口吃下肚，再怎麼營養、健康的食物也會讓體重增加。 </p>
+<p><br />
+&nbsp;&nbsp;&nbsp; 　金惠民說，堅果富含蛋白質、膳食纖維及鋅、鈣、維生素E等礦物質，其中的油脂更是對健康較好的脂肪酸所組成，去年發表的新版《國民飲食指南》，也建議民眾吃堅果來取代精緻油的攝取，但一天的堅果食用量仍以一份為限。 </p>
+<p><br />
+&nbsp;&nbsp;&nbsp; 　金惠民舉例，夏威夷火山豆4顆、杏仁果8顆、開心果15顆就相當於一茶匙的油脂量，過年吃堅果若不希望體重增加，別忘要適時減少烹調用油，並增加運動量。 </p>
+<p><br />
+&nbsp;&nbsp;&nbsp; 　■3顆花生糖 得走路70分鐘 </p>
+<p><br />
+&nbsp;&nbsp;&nbsp; 　另外，春節零食熱量高，牛軋糖、花生糖、牛肉乾等也都屬於肥滋滋的零食。以花生糖為例，3顆熱量就高達218大卡，等於一位60公斤成人，以每小時4公里時速走路，要走70分鐘才能消耗掉！ </p>
+<p><br />
+&nbsp;&nbsp;&nbsp; 　金惠民說，超過30歲的成年人，除非有運動習慣，否則很少能用運動來消耗吃下的零食熱量。她認為，過年期間要享受美食、不要胖，吃糖果餅乾的重點仍在控制食用總量，民眾不妨以乾燥蔬果乾、低糖果凍、蒟蒻乾等低熱量零食作替代，新鮮水果、紅豆湯、綠豆湯更是健康點心的聰明首選。<br />
+</p>
+  </div>
+</div>
+
+<div class="knowledge2_view_related_links">相關網頁→ <a href="question_search.asp?kw=%E6%98%A5%E7%AF%80">春節</a>　<a href="question_search.asp?kw=%E5%9C%8D%E7%88%90">圍爐</a>　<a href="question_search.asp?kw=%E9%BB%9E%E5%BF%83">點心</a>　<a href="question_search.asp?kw=%E7%86%B1%E9%87%8F">熱量</a>　<a href="question_search.asp?kw=%E7%87%9F%E9%A4%8A%E5%B8%AB">營養師</a>　</div>
+
+<div style="width:669px; min-height:500px; float:left; ">
+  <div style="width:669px; min-height:100px; float:left">
+    <div style="width:669px; height:25px; float:left; margin-bottom:10px"><img src="images/index/new_view/community_response_title.jpg" width="669" height="25" /></div>
+    <div style="width:669px; min-height:100px; float:left; margin-bottom:10px"><fb:comments xid="1001405" width="669" numposts="10" ></fb:comments></div>
+  </div>
+  <div style="width:669px; min-height:100px; float:left">
+    <div style="width:669px; height:25px; float:left; margin-bottom:10px"><img src="images/index/new_view/message_response_title.jpg" /></div>
+    <div style="width:669px; height:20px; float:left; margin:0 0 10px 0 ">
+      <div style="width:60px; height:20px; float:right; font-size:12px; line-height:20px; color:#333; font-family:Verdana" id="question_post_count">0 篇回響</div>
+      <div style="width:64px; height:20px; float:right; margin:0 10px 0 0; cursor:pointer"><a href="javascript:question_post_new();"><img src="images/index/new_view/want-to-speak.jpg" class="img_over" /></a></div>
+    </div>
+    <div style="width:669px; min-height:100px; float:left; ">
+      <div class="news2_view_response_area" id="question_post_form">
+        <div class="news2_view_response_bg" align="right"><textarea name="question_post_cont" id="question_post_cont" style="width:99%; height:80px;"></textarea><br />
+        	<input type="button" name="question_post_submit" id="question_post_submit" value="發表回應" />
+        </div>
+        <div class="news2_view_response_title">&nbsp;</div>
+        <div class="news2_view_response_content"></div>
+      </div>
+      <div id="question_post_list"></div>
+    </div>
+    <div style="width:669px; height:30px; float:left;border-top:1px solid #ccc">
+      <div class="news2_view_page" id="questoin_post_page">&nbsp;</div>
+      <div class="news2_view_back"><a href="news_list.html">回上列表</a></div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div style="width:300px; min-height:500px; float:left;position:relative;">
+              	
+<div style="width:300px; height:150px; float:left; margin-bottom:10px">
+  <div style="width:300px; height:35px; float:left"><img src="images/index/new_view/next_title.png" width="300" height="35" /></div>
+  <div class="news2_view_next_mid_bg">
+    <div style="width:120px; height:90px; float:left; margin-right:10px">
+    <a href="news_view_1406.html">
+    
+  	<img src="imgs/question/201201170010432.jpg" />
+  	
+    </a>
+    </div>
+    <div class="news2_view_next_title"><a href="news_view_1406.html">打通血路－銀杏葉萃取物療效佳</a></div>
+    <div class="news2_view_next_content"> 2012-01-17中國時報李盛雯／台北...</div>
+    <div class="news2_view_next_more"><a href="news_view_1406.html"><img src="images/index/other_title_more.png" alt="#" class="img_over" /></a></div>
+  </div>
+  <div style="width:300px; height:4px; float:left"><img src="images/index/new_view/box_down_bg.png" /></div>
+</div>
+
+                <div style="width:300px; height:250px; float:left; position:relative; margin-bottom:10px">
+                	
+<script type="text/javascript">
+	$(function(){
+		$("#s34").cycle({timeout:3000,pager:'#s34_pager'});
+		$("#s34").hover(function(){$('#s34').cycle('pause');}, function(){$('#s34').cycle('resume');});
+			   })
+</script>
+<style type="text/css">
+	#s34_pager{ position:absolute; right:10px; bottom:10px; z-index:99;}
+	#s34_pager a{ display:block; width:20px; height:19px; text-align:center; color:#AAAAAA; text-decoration:none; line-height:19px; margin-left: 5px; float:left; font-size:13px; background-color:#333333;}
+	#s34_pager a.activeSlide, #s34_pager a:hover{ background-color:#FF6B08; color:#FFF;}
+</style>
+
+<div style="width:300px; height:250px; float:left; position:relative; margin-bottom:10px">
+  <div id="s34" style="width:300px; height:250px;">
+  <a href="adv_count.asp?nid=293" target="_blank" ><img src="imgs/adv/201111140025461.jpg" /></a><a href="adv_count.asp?nid=292" target="_blank" ><img src="imgs/adv/201111140024251.jpg" /></a><a href="adv_count.asp?nid=188" target="_blank" ><img src="imgs/adv/201111140024581.jpg" /></a>
+  </div>
+  <div id="s34_pager"></div>
+</div>
+
+                </div>
+                <div style="width:300px; height:180px; float:left; margin-bottom:10px">
+                    <div style="width:300px; height:35px; float:left"><img src="images/index/news_list/related_reading_title.png" /></div>
+                    
+<div class="most_viewed_mid_bg">
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_258.html">男性健康－血精又血尿男子性福亮紅燈</a></div>
+  </div>
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_773.html">雷射頻繁打小心反黑前功盡棄</a></div>
+  </div>
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_1010.html">3A級超音波乳化術同時解決白內障與老花眼</a></div>
+  </div>
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_527.html">台大：裝葉克膜22%仍陷腦死</a></div>
+  </div>
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_1258.html">積極治療心房顫動降低中風機率</a></div>
+  </div>
+
+</div>
+                  <div style="width:300px; height:4px; float:left"><img src="images/index/news_list/most_viewed_down.png" /></div>
+                </div>
+                <div style="width:300px; height:180px; float:left; margin-bottom:10px">
+                  <div style="width:300px; height:35px; float:left"><img src="images/index/news_list/most_viewed_title.png" /></div>
+                  
+<div class="most_viewed_mid_bg">
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_277.html">國際藥聞－治療黑色素瘤2新藥提升存活率</a></div>
+  </div>
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_348.html">熟男2大警訊性慾減退、勃起不硬</a></div>
+  </div>
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_358.html">電動心臟裝背包他帶著趴趴走</a></div>
+  </div>
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_369.html">健康減重－找對方法善用食材兒童快樂減重</a></div>
+  </div>
+
+  <div  class="most_viewed_area">
+    <div class="most_viewed_icon"><img src="images/index/icon.png" /></div>
+    <div class="most_viewed_name"><a href="news_view_979.html">女人不愛「小」弟弟？才怪！</a></div>
+  </div>
+
+</div>
+                  <div style="width:300px; height:4px; float:left"><img src="images/index/news_list/most_viewed_down.png" /></div>
+                </div>
+                <div style="width:300px; height:35px; float:left; background:url(images/index/right_ad_area_top.png)"></div>
+                
+
+<div style="width:270px; min-height:200px; float:left; background:url(images/index/right_ad_area_mid.png); padding:10px 15px 0px">
+
+  <div class="right_ad_list_area">
+    <div class="right_ad_list_img"><a href="adv_count.asp?nid=312" target="_blank" ><img src="imgs/adv/201111100029491.jpg" /></a></div>
+    <div class="right_ad_list_title"><a href="adv_count.asp?nid=312" target="_blank" >名人，在做什麼？</div>
+    <div class="right_ad_list_content">她有沒有割雙眼皮？他有沒有打玻尿酸？名人都在做什麼？？</div>
+    <div class="right_ad_list_ad"><a href="adv_count.asp?nid=312" target="_blank" ><img src="images/index/other_title_more.png" alt="#" class="img_over" /></a></div>
+  </div>
+
+  <div class="right_ad_list_area">
+    <div class="right_ad_list_img"><a href="adv_count.asp?nid=311" target="_blank" ><img src="imgs/adv/201111100025291.jpg" /></a></div>
+    <div class="right_ad_list_title"><a href="adv_count.asp?nid=311" target="_blank" >那些年的女孩都做了什麼？</div>
+    <div class="right_ad_list_content">同學會見面的老朋友還是跟那些年一樣年輕，他們到底做了什麼？</div>
+    <div class="right_ad_list_ad"><a href="adv_count.asp?nid=311" target="_blank" ><img src="images/index/other_title_more.png" alt="#" class="img_over" /></a></div>
+  </div>
+
+  <div class="right_ad_list_area">
+    <div class="right_ad_list_img"><a href="adv_count.asp?nid=310" target="_blank" ><img src="imgs/adv/201111100020121.jpg" /></a></div>
+    <div class="right_ad_list_title"><a href="adv_count.asp?nid=310" target="_blank" >弱勢搬家扶助合作－祝您放心搬好家</div>
+    <div class="right_ad_list_content">如果搬家可以幫助弱勢團體，何不放心交給他們呢？</div>
+    <div class="right_ad_list_ad"><a href="adv_count.asp?nid=310" target="_blank" ><img src="images/index/other_title_more.png" alt="#" class="img_over" /></a></div>
+  </div>
+
+</div>
+
+                <div style="width:300px; height:5px; float:left; background:url(images/index/right_ad_area_down.png); margin-bottom:10px"></div>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" height="150" align="center" valign="top" background="images/index/down_bg.png">
+      <table width="980" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="center" valign="top"><div style="width:980px; height:140px; margin-top:10px">
+  <div style="width:980px; height:35px; float:left; text-align:center" class="foot_link"> 
+  	<a href="marketing/" target="_blank">行銷中心</a>　　
+  	<a>服務條款</a>　　
+    <a>隱私權政策</a>　　
+    <a>轉載授權</a>　　
+    <a>免責條款</a>　　
+    <a href="mailto:service@udr.tw">刊登廣告</a>　　
+    <a href="http://news.chinatimes.com/">中時電子報</a>　　
+    <a href="mailto:service@udr.tw">聯絡我們</a>　　<a href="index.asp">回到首頁</a>
+  </div>
+  <div style="width:230px; height:105px; float:left"><a href="index.asp"><img src="images/index/foot_logo.png" border="0" /></a></div>
+  <div class="foot_link_conrent">
+  	最佳瀏覽模式：解析度1024x768或以上，瀏覽器建議使用IE8.0或FireFox以上版本以上內容皆由各著作權所有人所提供，請勿擅自引用或轉載，並僅遵循醫事法醫療法藥政條例
+    <h1><a href="http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=L0030001" target="_blank">《藥事法》</a></h1>、
+    <h1><a href="http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=L0040001" target="_blank">《食品衛生管理法》</a></h1>、
+    <h1><a href="http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=L0030013" target="_blank">《化妝品衛生管理條例》</a></h1>
+  等相關規定，若有違反其他相關法令請按<a href="mailto:service@udr.tw" class="foot_rule_b">【我要檢舉】</a>我們將以最快速度通知各著作權所有人且將本文章下架，以維持本平台資訊之公正性及適法性。</div>
+  <div style="width:740px; height:25px; float:right; color:#333;">
+    <div class="foot_udr_name">中時醫療服務網 版權所有
+      <h1> Copyright © 2011China Times Medical Center All Rights Reserved.</h1>
+    </div>
+    <div class="visitors"> </div>
+  </div>
+</div></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

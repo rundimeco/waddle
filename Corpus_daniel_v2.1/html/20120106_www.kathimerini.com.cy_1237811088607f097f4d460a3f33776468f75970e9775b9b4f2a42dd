@@ -1,0 +1,1472 @@
+﻿
+<html>
+<head>
+<title>Η ΚΑΘΗΜΕΡΙΝΗ, kathimerini.com.cy</title>
+<meta name="description" content="Ενημέρωση για πολιτική, οικονομία, αθλητισμό, ποδόσφαιρο, χρηματιστήριο, ψυχαγωγία από την Καθημερινή Κύπρου">
+<meta name="keywords" content="Κύπρος, Πολιτική, football, economy, lifestyle, Real Estate,, Πρωτοσέλιδα, Αρθρογραφία, Cyprus news, stocks, φαρμακεία, farmakia, agores, protoselida, φυσικό αέριο, τρόικα, geek, τεχνολογία, gadgets">
+<meta name="author" content="BDigital Web Solutions">
+<meta name="copyright" content="Copyright  2009, Kathimerini">
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="google-site-verification" content="e82KcGQWs0KsmhQ9fGsYpuJRxo5KjYvJjogZx0iICg0" />
+
+<meta property="og:site_name" content="Η ΚΑΘΗΜΕΡΙΝΗ" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="" /> 
+<meta property="og:url" content="http://www.kathimerini.com.cy/index.php?pageaction=kat&modid=1&artid=71424" />
+<meta property="og:title" content="Η ΚΑΘΗΜΕΡΙΝΗ, kathimerini.com.cy" />
+<meta property="og:description" content="Ενημέρωση για πολιτική, οικονομία, αθλητισμό, ποδόσφαιρο, χρηματιστήριο, ψυχαγωγία από την Καθημερινή Κύπρου" />
+
+<link href="layout/style.css" rel="stylesheet" type="text/css">
+<link href="layout/site.css?20130205_a" rel="stylesheet" type="text/css">
+<link href="modules/ws_mod_kat_01/layout/site.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet"  type="text/css" href="modules/ws_mod_kat_01/blocks/weather/style.css" media="screen" />
+<script language="JavaScript" src="includes/jquery-1.4.2.min.js"></script>
+<script language="JavaScript" src="includes/functions.js"></script>
+<script language="JavaScript" src="modules/ws_mod_kat_01/includes/functions.js?20130206"></script>
+<link rel="stylesheet"  type="text/css" href="tools/lightbox/css/lightbox.css" media="screen" />
+<script type="text/javascript" src="tools/lightbox/js/jquery.lightbox.js"></script>
+<script>
+$(document).ready(function(){
+	$(".lightbox").lightbox();
+});
+</script>
+<script>
+var totalSlides = 0;
+var currentSlide = 1;
+$(document).ready(function(){
+	totalSlides = $('.gal_img').length;
+	if (totalSlides > 0) {
+		GalUpdateNavButtons();
+	}
+});
+</script>
+<script language="JavaScript" src="modules/ws_mod_kat_01/includes/slideshow.js"></script>
+<!-- For iPhone 4 with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+<!-- For first-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f3e8f9e0c95db94"></script>
+<script language="JavaScript" src="modules/ws_mod_kat_01/blocks/weather/functions.js"></script>
+</head>
+<body leftmargin="0" topmargin="0" rightmargin="0" class="zeroheights" >
+<a name="top"></a>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+ var pvar = { cid: "cy-sppmedia", content: "0", server: "secure-uk" };
+ var trac = nol_t(pvar);
+ trac.record().post();
+</script>
+<noscript>
+ <div>
+ <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=cy-sppmedia&amp;cg=0&amp;cc=1&amp;ts=noscript"
+ width="1" height="1" alt="" />
+ </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:#f5f3f4; height:100%">
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+				        <td align="center" valign="top"><table width="990" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="top" style="background-color:#FFFFFF; padding:15px; border-bottom:3px solid #B8B7B7;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="middle" height="36" style="background-image:url(layout/images/top_bm_bg.gif); background-position:top; background-repeat:repeat-x; padding:5px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" class="TopMenu">
+                          <tr>
+                            <td class="text"><a href="index.php?pageaction=kat&modid=6">e-kathimerini NEWSLETTER</a></td>
+                            <td width="17" nowrap align="center"><img src="layout/images/top_menu_sep.gif" width="1" height="24"></td>
+                            <td class="text"><a href="index.php?pageaction=kat&modid=1&sctid=32">ΟΙΚΟΝΟΜΙΚΗ</a></td>
+                            <td width="17" nowrap align="center"><img src="layout/images/top_menu_sep.gif" width="1" height="24"></td>
+                            <td class="text"><a href="index.php?pageaction=kat&modid=1&sctid=29">ΕΝΤΥΠΗ ΕΚΔΟΣΗ</a></td>
+                            <td width="17" nowrap align="center"><img src="layout/images/top_menu_sep.gif" width="1" height="24"></td>
+                            <td class="text"><a href="http://www.kathimerini.gr/" target="_blank">ΕΛΛΗΝΙΚΗ ΕΚΔΟΣΗ</a></td>
+                            <td width="17" nowrap align="center"><img src="layout/images/top_menu_sep.gif" width="1" height="24"></td>
+                            <td class="text"><a href="http://www.ekathimerini.com/" target="_blank">ENGLISH EDITION</a></td>
+                          </tr>
+                        </table></td>
+                        <td align="right"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+          <td valign="top"><!-- Start of Included file -->
+<table border="0" align="right" cellpadding="0" cellspacing="0" class="BlockFindArticles">
+  <form action="javascript:goToFindArticle(document.formSearchBox);" method="post" name="formSearchBox" id="formSearchBox" onsubmit="return ValidateArticlesSearchBlock(this)">
+    <tr>
+      <td valign="middle"><input type="text" id="art_contains" name="art_contains" value="Αναζήτηση" style="width:170px; padding:2px 2px 2px 4px; font-size:11px; color:#9b9b9b; border:0px; height:20px;" onclick="javascript:ClearSearchField(document.formSearchBox)" /></td>
+      <td valign="middle"><input type="image" src="layout/images/search_btn2.gif" width="23" height="20" border="0" style="width:23px; height:20px; border:none;" /></td>
+    </tr>
+  </form>
+</table>
+<!-- End of Included file --></td>
+        </tr>
+                      </table>
+      </td>
+  </tr>
+</table>
+</td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="10" valign="top"></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="50%" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+    <td valign="top">
+      <table border="0" cellspacing="0" cellpadding="4">
+        <tr>
+          <td valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" class="BannersBlock">
+                            <tr>
+                                                              			                			                                  <td height="5" valign="middle"><a href="countclick.php?banid=1446&url=http://www.hublot.com/" target="_blank"><img src="assets/modules/kat/banners/1446/images/hublot.jpg" border="0" alt=""></a></td>
+                			  			                                                          <tr>
+                          </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+</td>
+                        <td width="10" valign="top" nowrap></td>
+                        <td width="76" valign="middle" nowrap align="left"><img src="layout/images/restart_cy.png" alt="restart_cy" /></td>
+                        <td width="472" valign="top" nowrap><table width="100%" border="0" cellspacing="0" cellpadding="0" class="LogoBlock">
+                                                    <tr>
+                            <td height="8" align="center" valign="top"></td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top"><a href="index.php"><img src="layout/images/top_logo.gif" border="0"></a></td>
+                          </tr>
+                          <tr>
+                            <td height="4" align="center" valign="top"></td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top" class="header">www.kathimerini.com.cy</td>
+                          </tr>
+                                                    <tr>
+                            <td height="4" align="center" valign="top"></td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top" class="subheader">Τελευταία ενημέρωση: 09:30</td>
+                          </tr>
+                        </table></td>
+                        <td width="76" valign="top" nowrap></td>
+                        <td width="50%" align="right" valign="top">												<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+    <td valign="top">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" class="BannersBlock">
+                            <tr>
+                                                              			                			                                  <td height="5" valign="middle"><a href="countclick.php?banid=662&url=http://www.zenith-watches.com/en/" target="_blank"><img src="assets/modules/kat/banners/662/images/zenith-jaeger.jpg" border="0" alt=""></a></td>
+                			  			                                                          <tr>
+                          </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+												                        </td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="8"> </td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#c9c9c9"> </td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="8"> </td>
+                  </tr>
+                                    <tr>
+                    <td valign="top" align="center"><div style="width:728px;height:90px;"><script type='text/javascript'>document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=1&'+(new Date()).getTime()+'" width="728" height="90" frameborder="0" scrolling="no"></iframe>');</script></div></td>
+                  </tr>
+                  									                  <tr>
+                    <td valign="top" height="8"> </td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="3" bgcolor="#215187"> </td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="4"> </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="MidMenu">
+                      <tr>
+                        <td valign="middle"><table border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td class="text"><a href="index.php"><strong>HOME</strong></a></td>
+                            <td class="text" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&sctid=10">ΑΠΟΨΕΙΣ</a></td>
+                            <td class="text" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&sctid=40">ΠΡΩΤΟΣΕΛΙΔΑ</a></td>
+                            <td class="text" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&catid=39">ΛΕΜΕΣΟΣ</a></td>
+                                                        <td class="text" style="padding-left:5px;padding-right:5px;"><a style="font-weight:bold;" href="index.php?pageaction=kat&modid=1&sctid=43">ΕΚΛΟΓΕΣ</a></td>
+                          </tr>
+                        </table></td>
+                        <td align="right"><table border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+														                            <td align="right"><iframe src="http://www.facebook.com/plugins/like.php?app_id=150880794954410&amp;href=www.facebook.com/Kathimerini.com.cy&amp;send=false&amp;layout=button_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowTransparency="true"></iframe></td>
+                            <td width="50" align="right" nowrap><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=kathimerini_cy&show_screen_name=false" style="width:200px; height:20px;"></iframe></td>                                                                                    <td style="padding-left:5px" class="text2"><a href="index.php?pageaction=kat&modid=MemAccount&actid=login">Είσοδος</a></td>
+                            <td style="padding-left:10px" class="text2"><a href="index.php?pageaction=kat&modid=MemReg">Εγγραφή</a></td>
+                                                        <td style="padding-left:10px"><a href="index.php?pageaction=kat&modid=1&sctid=45&stptypid=3"><img src="layout/images/apps_icons.gif" width="128" height="26" border="0"></a></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="4"> </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="CategoryMenu">
+  <tr>
+    <td height="34" align="center" style="background-image:url(layout/images/mm_bg.gif); background-position:top; background-repeat:repeat-x;padding:5px 10px 5px 10px;"><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+                                                        <td class="L1"><a href="index.php?pageaction=kat&modid=1&sctid=1" onmouseover="javascript:DisplayMMSubMenu('1', 'sct');" onmouseout="javascript:HideMMSubMenu('1', 'sct');" id="mm_sct_1">ΚΥΠΡΟΣ</a></td>
+                                                <td width="22" nowrap="nowrap" align="center"><img src="layout/images/main_menu_sep.gif" width="1" height="20" /></td>
+                        <td class="L1"><a href="index.php?pageaction=kat&modid=1&sctid=6" onmouseover="javascript:DisplayMMSubMenu('6', 'sct');" onmouseout="javascript:HideMMSubMenu('6', 'sct');" id="mm_sct_6">ΠΟΛΙΤΙΚΗ</a></td>
+                                                <td width="22" nowrap="nowrap" align="center"><img src="layout/images/main_menu_sep.gif" width="1" height="20" /></td>
+                        <td class="L1"><a href="index.php?pageaction=kat&modid=1&sctid=8" onmouseover="javascript:DisplayMMSubMenu('8', 'sct');" onmouseout="javascript:HideMMSubMenu('8', 'sct');" id="mm_sct_8">ΑΘΛΗΤΙΣΜΟΣ</a></td>
+                                                <td width="22" nowrap="nowrap" align="center"><img src="layout/images/main_menu_sep.gif" width="1" height="20" /></td>
+                        <td class="L1"><a href="index.php?pageaction=kat&modid=1&sctid=32" onmouseover="javascript:DisplayMMSubMenu('4', 'mgr');" onmouseout="javascript:HideMMSubMenu('4', 'mgr');" id="mm_mgr_4">ΟΙΚΟΝΟΜΙΚΗ</a></td>
+                                                <td width="22" nowrap="nowrap" align="center"><img src="layout/images/main_menu_sep.gif" width="1" height="20" /></td>
+                        <td class="L1"><a href="index.php?pageaction=kat&modid=1&sctid=25" onmouseover="javascript:DisplayMMSubMenu('25', 'sct');" onmouseout="javascript:HideMMSubMenu('25', 'sct');" id="mm_sct_25">ΕΛΛΑΔΑ</a></td>
+                                                <td width="22" nowrap="nowrap" align="center"><img src="layout/images/main_menu_sep.gif" width="1" height="20" /></td>
+                        <td class="L1"><a href="index.php?pageaction=kat&modid=1&sctid=24" onmouseover="javascript:DisplayMMSubMenu('24', 'sct');" onmouseout="javascript:HideMMSubMenu('24', 'sct');" id="mm_sct_24">ΚΟΣΜΟΣ</a></td>
+                                                <td width="22" nowrap="nowrap" align="center"><img src="layout/images/main_menu_sep.gif" width="1" height="20" /></td>
+                        <td class="L1"><a href="index.php?pageaction=kat&modid=5&mgrid=2" onmouseover="javascript:DisplayMMSubMenu('2', 'mgr');" onmouseout="javascript:HideMMSubMenu('2', 'mgr');" id="mm_mgr_2">GOOD LIFE</a></td>
+                                                <td width="22" nowrap="nowrap" align="center"><img src="layout/images/main_menu_sep.gif" width="1" height="20" /></td>
+                        <td class="L1_sel"><a href="index.php?pageaction=kat&modid=1&sctid=9" onmouseover="javascript:DisplayMMSubMenu('9', 'sct');" onmouseout="javascript:HideMMSubMenu('9', 'sct');" id="mm_sct_9">ΠΟΛΙΤΙΣΜΟΣ</a></td>
+                                                <td width="22" nowrap="nowrap" align="center"><img src="layout/images/main_menu_sep.gif" width="1" height="20" /></td>
+                        <td class="L1"><div style="position:relative"><img src="layout/images/menu_new_icon.gif" width="23" height="12" style="position:absolute; right:-16px; top:-8px;" /><a href="index.php?pageaction=kat&modid=1&sctid=46" onmouseover="javascript:DisplayMMSubMenu('46', 'sct');" onmouseout="javascript:HideMMSubMenu('46', 'sct');" id="mm_sct_46">ΑΓΓΕΛΙΕΣ</a></div></td>
+                                                <td width="22" nowrap="nowrap" align="center"><img src="layout/images/main_menu_sep.gif" width="1" height="20" /></td>
+                        <td class="L1"><div style="position:relative"><img src="layout/images/menu_new_icon.gif" width="23" height="12" style="position:absolute; right:-16px; top:-8px;" /><a href="index.php?pageaction=kat&modid=1&sctid=13" onmouseover="javascript:DisplayMMSubMenu('13', 'sct');" onmouseout="javascript:HideMMSubMenu('13', 'sct');" id="mm_sct_13">GEEK</a></div></td>
+                      </tr>
+    </table></td>
+  </tr>
+  <tr>
+  	<td height="1">                  <div id="sm_sct_1" style="position:absolute;z-index:3000;width:150px; background-color: #0f0f0f; padding:0px; float:left; display:none; margin-top:-10px; margin-left:-8px" onmouseover="javascript:DisplayMMSubMenu('1','sct');" onmouseout="javascript:HideMMSubMenu('1','sct');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:12px 8px 10px 8px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            			            			                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=39">Λεμεσός</a></td>
+            </tr>
+                      </table></td>
+        </tr>
+      </table>
+      </div>
+                                    <div id="sm_sct_6" style="position:absolute;z-index:3000;width:150px; background-color: #0f0f0f; padding:0px; float:left; display:none; margin-top:-10px; margin-left:-8px" onmouseover="javascript:DisplayMMSubMenu('6','sct');" onmouseout="javascript:HideMMSubMenu('6','sct');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:12px 8px 10px 8px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            			            			                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=51">Δημοσκοπήσεις</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=52">Εκλογές</a></td>
+            </tr>
+                      </table></td>
+        </tr>
+      </table>
+      </div>
+                                    <div id="sm_sct_8" style="position:absolute;z-index:3000;width:150px; background-color: #0f0f0f; padding:0px; float:left; display:none; margin-top:-10px; margin-left:-8px" onmouseover="javascript:DisplayMMSubMenu('8','sct');" onmouseout="javascript:HideMMSubMenu('8','sct');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:12px 8px 10px 8px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            			            			                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=20">Κύπρος</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=21">Ελλάδα</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=22">Διεθνή</a></td>
+            </tr>
+                      </table></td>
+        </tr>
+      </table>
+      </div>
+                                    <div id="sm_mgr_4" style="position:absolute;z-index:3000;width:150px; background-color: #0f0f0f; padding:0px; float:left; display:none; margin-top:-10px; margin-left:-8px" onmouseover="javascript:DisplayMMSubMenu('4','mgr');" onmouseout="javascript:HideMMSubMenu('4','mgr');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:12px 8px 10px 8px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            			            			                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=7">Οικονομία</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=35">Real Estate</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=26">Επιχειρήσεις</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=30">Αγορές</a></td>
+            </tr>
+                      </table></td>
+        </tr>
+      </table>
+      </div>
+                                                                                    <div id="sm_mgr_2" style="position:absolute;z-index:3000;width:150px; background-color: #0f0f0f; padding:0px; float:left; display:none; margin-top:-10px; margin-left:-8px" onmouseover="javascript:DisplayMMSubMenu('2','mgr');" onmouseout="javascript:HideMMSubMenu('2','mgr');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:12px 8px 10px 8px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            			            			                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=34">Γυναίκα</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=27">Showbiz</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=16">Ταξίδια</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=15">Γεύσεις</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=33">Εστιατόρια</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&sctid=17">Σινεμά</a></td>
+            </tr>
+                      </table></td>
+        </tr>
+      </table>
+      </div>
+                                    <div id="sm_sct_9" style="position:absolute;z-index:3000;width:150px; background-color: #0f0f0f; padding:0px; float:left; display:none; margin-top:-10px; margin-left:-8px" onmouseover="javascript:DisplayMMSubMenu('9','sct');" onmouseout="javascript:HideMMSubMenu('9','sct');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:12px 8px 10px 8px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            			            			                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=40">Θέατρο - Χορός</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2_sel"><a href="index.php?pageaction=kat&modid=1&catid=41">Μουσική</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=42">Εικαστικά</a></td>
+            </tr>
+                      </table></td>
+        </tr>
+      </table>
+      </div>
+                                    <div id="sm_sct_46" style="position:absolute;z-index:3000;width:150px; background-color: #0f0f0f; padding:0px; float:left; display:none; margin-top:-10px; margin-left:-8px" onmouseover="javascript:DisplayMMSubMenu('46','sct');" onmouseout="javascript:HideMMSubMenu('46','sct');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:12px 8px 10px 8px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            			            			                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=47">ενοικιάζονται</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=48">πωλούνται</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=49">ζητούν εργασία</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=50">θέσεις εργασίας</a></td>
+            </tr>
+                      </table></td>
+        </tr>
+      </table>
+      </div>
+                                    <div id="sm_sct_13" style="position:absolute;z-index:3000;width:150px; background-color: #0f0f0f; padding:0px; float:left; display:none; margin-top:-10px; margin-left:-8px" onmouseover="javascript:DisplayMMSubMenu('13','sct');" onmouseout="javascript:HideMMSubMenu('13','sct');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:12px 8px 10px 8px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            			            			                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=44">νέα</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=45">κινητά - tablets</a></td>
+            </tr>
+                        			                        <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="1" bgcolor="#272727"> </td>
+            </tr>
+            <tr>
+              <td valign="top" height="5"> </td>
+            </tr>
+                        <tr>
+              <td valign="top" class="L2"><a href="index.php?pageaction=kat&modid=1&catid=46">social</a></td>
+            </tr>
+                      </table></td>
+        </tr>
+      </table>
+      </div>
+                  </td>
+  </tr>
+</table>
+
+</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="8"> </td>
+                  </tr>
+				  									                  <tr>
+                    <td valign="top" height="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="100%" valign="top">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="5" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="ArticlesPage">
+  <tr>
+    <td valign="top">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="20" valign="top"> </td>
+        </tr>
+        <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="15" nowrap="nowrap"> </td>
+                <td class="header" width="100%">Πολιτισμός&nbsp;|&nbsp;Μουσική</td>
+                <td width="6" nowrap="nowrap"> </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td height="6"> </td>
+        </tr>
+        <tr>
+          <td height="1" bgcolor="#DDDDDD"> </td>
+        </tr>
+                <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="14"> </td>
+              </tr>
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="15" nowrap="nowrap"> </td>
+                      <td valign="top" width="100%">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td valign="top" width="100%">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+																                                <tr>
+                                  <td height="5" valign="top" class="date">Ημερομηνία:&nbsp;27.12.2011&nbsp;|&nbsp;22:55</td>
+                                </tr>
+                                <tr>
+                                  <td height="6" valign="top"> </td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" class="title_xbig">Πέθανε ο Αμερικανός σαξοφωνίστας Σαμ Ρίβερς</td>
+                                </tr>
+                                                                <tr>
+                                  <td height="6" valign="top"> </td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" class="title2">Κυκλοφόρησε πολλά επαναστατικά άλμπουμ με την εταιρεία Blue Note</td>
+                                </tr>
+                                			                                                          <tr>
+                                  <td height="3" valign="top"> </td>
+                                </tr>
+                                <tr>
+                                  <td height="5" valign="top" class="author_name">Newsroom Κ/ ΑΜΠΕ</td>
+                                </tr>
+                                                                                                                                <tr>
+                                  <td height="10" valign="top"></td>
+                                </tr>
+                                <tr>
+                                  <td height="5" align="left" valign="top">
+                                  	<table width="100" border="0" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td nowrap="nowrap"><div style="position:relative; width:423px; height:282"><div id="ArtPhotoGalBlock_71424" style="display:block; z-index:7; width:423px; height:282; position:absolute; top:0; left:0; text-align:center; vertical-align:center;"><div class="gal_left_arrow" id="ss_prev" style="display:none; top:130px;"><a href="javascript:GalShowPreviousSlide()"><img src="layout/images/gallery_left_btn.png" style="border:0" width="21" height="21" /></a></div>
+<div class="gal_right_arrow" id="ss_next" style="display:none;top:130px;"><a href="javascript:GalShowNextSlide()"><img src="layout/images/gallery_right_btn.png" style="border:0" width="21" height="21" /></a></div><div class="gal_img" style="display: block" id="gal_img_1"><img src="assets/modules/kat/articles/201112/71424/images/det_samrivers1.jpg" border="0" align="left" hspace="0" vspace="0" width="423"  height="282" ></div>
+ </div><div id="ArtVideoBlock_71424" style="display:none; z-index:10; width:423px; height:282; position:absolute; top:0; left:0; text-align:center; vertical-align:center;"><img src="layout/images/loading.gif" width="32" height="32" style="margin-top:125px;" /></div><div id="ViewArtVideoBtn" style="z-index:9; position:absolute; top:89px; left:142px;"></div></div></td>
+                                      </tr>
+									                                      </table>
+                                  </td>
+                                </tr>
+                                                                <tr>
+                                  <td height="10" valign="top"></td>
+                                </tr>
+                                                                <tr>
+                                  <td valign="top"><span class="body"><P>Ο Αμερικανός σαξοφωνίστας Σαμ Ρίβερς, ένας από τους γίγαντες της free jazz, πέθανε από πνευμονία σε ηλικία 88 ετών στο Ορλάντο της Φλόριντα (νοτιοανατολικά), ανακοίνωσε η οικογένειά του. <BR><BR>Γεννημένος στην Οκλαχόμα (κέντρο) σε μια οικογένεια μουσικών, ο Σαμ Ρίβερς είχε αγκαλιάσει το κύμα της be-bop στη δεκαετία του 50 και έπαιξε με την Μπίλι Χόλιντεϊ, πριν συναντηθεί με τον Μάιλς Ντέιβις το 1964 και παίξει στο live Αλμπουμ του, "Miles in Tokyo", την ίδια χρονιά. <BR><BR>Κυκλοφόρησε πολλά επαναστατικά άλμπουμ με την εταιρεία Blue Note, συμπεριλαμβανομένου του "Fuchia Swing Song", και έπαιξε με τον μπασίστα Ντέιβ Χόλαντ και τον ντράμερ Τόνι Ουίλιαμς. <BR><BR><A href="http://www.kathimerini.com.cy/">www.kathimerini.com.cy</A></P></span></td>
+                                </tr>
+                                                                <tr>
+                                  <td height="20" valign="top"> </td>
+                                </tr>
+                                																                                                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td width="10" nowrap="nowrap"> </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="14"> </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        				        		                		        <tr>
+          <td height="1" bgcolor="#DDDDDD"> </td>
+        </tr>
+        <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="6" valign="top"> </td>
+              </tr>
+              <tr>
+                <td valign="top">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="15" nowrap="nowrap"> </td>
+                      <td class="subheader" width="100%">Άλλα άρθρα του ιδίου συγγραφέα</td>
+                      <td width="6" nowrap="nowrap"> </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="6" valign="top"> </td>
+              </tr>
+              <tr>
+                <td height="1" bgcolor="#DDDDDD"> </td>
+              </tr>
+              <tr>
+                <td height="12" valign="top"> </td>
+              </tr>
+              <tr>
+                <td height="5" valign="top">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="15" nowrap="nowrap"> </td>
+                      <td width="100%">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          						                                                                                <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129512">G8: Συνεδρίαση υπουργών Εξωτερικών για Συρία και Β. Κορέα </a>&nbsp;(10/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                                                                        <tr>
+                            <td height="5" valign="top"> </td>
+                          </tr>
+                                                    <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129509">Το γρήγορο βάδισμα πιο ωφέλιμο για την καρδιά από το τρέξιμο </a>&nbsp;(10/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                                                                        <tr>
+                            <td height="5" valign="top"> </td>
+                          </tr>
+                                                    <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129506">Διαδήλωση για το αεροπορικό δυστύχημα του προέδρου Κατσίνσκι</a>&nbsp;(10/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                                                                        <tr>
+                            <td height="5" valign="top"> </td>
+                          </tr>
+                                                    <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129505">Επίθεση ενόπλου με 14 τραυματίες σε πανεπιστήμιο του Τέξας </a>&nbsp;(10/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                                                                        <tr>
+                            <td height="5" valign="top"> </td>
+                          </tr>
+                                                    <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129504">4χρονος πυροβόλησε 6χρονο φίλο του στις ΗΠΑ </a>&nbsp;(10/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                                                                        <tr>
+                            <td height="5" valign="top"> </td>
+                          </tr>
+                                                    <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129497">Ελλάδα: Ένταση τα ξημερώματα στην Ιερισσό</a>&nbsp;(10/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                                                                        <tr>
+                            <td height="5" valign="top"> </td>
+                          </tr>
+                                                    <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129494">Η Αλέκα Παπαρήγα αφήνει το τιμόνι του ΚΚΕ</a>&nbsp;(10/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                                                                        <tr>
+                            <td height="5" valign="top"> </td>
+                          </tr>
+                                                    <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129493">Wall Street: Νέο ρεκόρ για τον Dow Jones</a>&nbsp;(10/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                                                                        <tr>
+                            <td height="5" valign="top"> </td>
+                          </tr>
+                                                    <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129489">Την Τετάρτη η απόφαση για την αύξηση κεφαλαίου της Εθνικής</a>&nbsp;(09/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                                                                        <tr>
+                            <td height="5" valign="top"> </td>
+                          </tr>
+                                                    <tr>
+                            <td>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="4" valign="top" nowrap="nowrap"><img src="layout/images/latest_links_bulllet.gif" width="4" height="13" /></td>
+                                  <td width="7" nowrap="nowrap"> </td>
+                                  <td width="100%" valign="top" class="subtitle"><a href="index.php?pageaction=kat&modid=1&artid=129483">Ανησυχία ΟΗΕ για την καταναγκαστική εργασία στη Μέση Ανατολή</a>&nbsp;(09/04/2013)</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                                                  </table>
+                      </td>
+                      <td width="10" nowrap="nowrap"> </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="12" valign="top"> </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+		              </table>
+    </td>
+  </tr>
+</table>
+</td>
+              </tr>
+                            <tr>
+                <td height="2" valign="top"> </td>
+              </tr>
+              <tr>
+                <td height="1" valign="top" bgcolor="#DDDDDD"> </td>
+              </tr>
+              <tr>
+                <td height="10" valign="top"> </td>
+              </tr>
+							              <tr>
+                <td height="5" align="left" valign="top"><div style="width:468px;height:60px;"><script type='text/javascript'>document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=3&'+(new Date()).getTime()+'" width="468" height="60" frameborder="0" scrolling="no"></iframe>');</script></div></td>
+              </tr>
+                            <tr>
+                <td height="8" valign="top"> </td>
+              </tr>
+            </table>
+          </td>
+          <td width="1" nowrap="nowrap" bgcolor="#DDDDDD"> </td>
+          <td width="340" valign="top" nowrap="nowrap">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                                                                            <tr>
+                      <td valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="GeneralBlock">
+  <tr>
+    <td style="padding:7px; background-color:#E8EDF3">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top"><table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td class="header" style="height:24px; padding:5px 12px 5px 10px; background-color:#FFFFFF">NEWS ROOM</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td valign="top" bgcolor="#FFFFFF" style="padding:15px 7px 10px 7px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                            <tr>
+              <td valign="top" class="title" style="padding-left:3px; padding-right:3px;"><a href="index.php?pageaction=kat&modid=1&artid=129518">ΠΑΟΚ: Πρόταση σε Ανελκά</a>&nbsp;|&nbsp;<span class="date">09:30</span></td>
+            </tr>
+                                                <tr>
+              <td height="7" valign="top"></td>
+            </tr>
+            <tr>
+              <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+            </tr>
+            <tr>
+              <td height="7" valign="top"></td>
+            </tr>
+                        <tr>
+              <td valign="top" class="title" style="padding-left:3px; padding-right:3px;"><a href="index.php?pageaction=kat&modid=1&artid=129517">ΑΕΚ: Με τον Δέλλα μπροστάρη</a>&nbsp;|&nbsp;<span class="date">09:28</span></td>
+            </tr>
+                                                <tr>
+              <td height="7" valign="top"></td>
+            </tr>
+            <tr>
+              <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+            </tr>
+            <tr>
+              <td height="7" valign="top"></td>
+            </tr>
+                        <tr>
+              <td valign="top" class="title" style="padding-left:3px; padding-right:3px;"><a href="index.php?pageaction=kat&modid=1&artid=129516">Ολυμπιακός: Μίτσελ ο… πρωτάρης!</a>&nbsp;|&nbsp;<span class="date">09:27</span></td>
+            </tr>
+                                                <tr>
+              <td height="7" valign="top"></td>
+            </tr>
+            <tr>
+              <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+            </tr>
+            <tr>
+              <td height="7" valign="top"></td>
+            </tr>
+                        <tr>
+              <td valign="top" class="title" style="padding-left:3px; padding-right:3px;"><a href="index.php?pageaction=kat&modid=1&artid=129515">Παναθηναϊκός: Ποντάρει στους Έλληνες </a>&nbsp;|&nbsp;<span class="date">09:24</span></td>
+            </tr>
+                                                <tr>
+              <td height="7" valign="top"></td>
+            </tr>
+            <tr>
+              <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+            </tr>
+            <tr>
+              <td height="7" valign="top"></td>
+            </tr>
+                        <tr>
+              <td valign="top" class="title" style="padding-left:3px; padding-right:3px;"><a href="index.php?pageaction=kat&modid=1&artid=129514">Διαψεύδει για Μίλαν ο Ζούλιο Σέζαρ</a>&nbsp;|&nbsp;<span class="date">09:22</span></td>
+            </tr>
+                      </table></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+                      </td>
+                    </tr>
+                                                                                                                        <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                    <tr>
+                      <td height="1" valign="top" bgcolor="#DDDDDD"> </td>
+                    </tr>
+                    <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                                                                                <tr>
+                      <td valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="8">
+                          <tr>
+                            <td valign="top"><div style="width:300px;height:250px;"><script type='text/javascript'>document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=2&'+(new Date()).getTime()+'" width="300" height="250" frameborder="0" scrolling="no"></iframe>');</script></div></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                                                                                                                        <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                    <tr>
+                      <td height="1" valign="top" bgcolor="#DDDDDD"> </td>
+                    </tr>
+                    <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                                                                                <tr>
+                      <td valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="PopularsBlock">
+  <tr>
+    <td style="padding:7px; background-color:#E8EDF3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td valign="top" class="header" style="padding:2px 2px 9px 2px;">ΔΗΜΟΦΙΛΕΣΤΕΡΑ</td>
+      </tr>
+      <tr>
+        <td valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+        				                    	                        <td valign="middle"><div id="PopBlockTab_0_on" class="tab" style="display:none; background-color:#C8D4E2; padding:5px 6px 5px 6px; margin:0;"><a href="javascript:PopularsBlockDisplayBody(0, 3);">Viewed</a></div><div id="PopBlockTab_0_sel" class="tab_sel" style="display:block; background-color:#FFFFFF; padding:5px 6px 5px 6px; margin:0">Viewed</div></td>
+                                            	                        <td width="1" nowrap="nowrap">
+                        <td valign="middle"><div id="PopBlockTab_1_on" class="tab" style="display:block; background-color:#C8D4E2; padding:5px 6px 5px 6px; margin:0;"><a href="javascript:PopularsBlockDisplayBody(1, 3);">Commented</a></div><div id="PopBlockTab_1_sel" class="tab_sel" style="display:none; background-color:#FFFFFF; padding:5px 6px 5px 6px; margin:0">Commented</div></td>
+                                            	                        <td width="1" nowrap="nowrap">
+                        <td valign="middle"><div id="PopBlockTab_2_on" class="tab" style="display:block; background-color:#C8D4E2; padding:5px 6px 5px 6px; margin:0;"><a href="javascript:PopularsBlockDisplayBody(2, 3);">Shared</a></div><div id="PopBlockTab_2_sel" class="tab_sel" style="display:none; background-color:#FFFFFF; padding:5px 6px 5px 6px; margin:0">Shared</div></td>
+                                  </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td valign="top" bgcolor="#FFFFFF" style="padding:12px 6px 10px 6px;">        		        <div id="PopBlockTab_0_body" style="display:block;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=129492">Στα χέρια του Ομήρου η «τύχη» του Διοικητή </a> </td>
+  </tr>
+          <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+  </tr>
+  <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+    <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=129494">Η Αλέκα Παπαρήγα αφήνει το τιμόνι του ΚΚΕ</a> </td>
+  </tr>
+          <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+  </tr>
+  <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+    <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=129496">Ορατός ο κίνδυνος κατάρρευσης των ΚΑ</a> </td>
+  </tr>
+          <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+  </tr>
+  <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+    <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=129503">Σοβαρά τραυματισμένος εντοπίσθηκε στη Λευκωσία</a> </td>
+  </tr>
+          <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+  </tr>
+  <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+    <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=129491">Champions League: Ντόρτμουντ-Μάλαγα 3-2</a> </td>
+  </tr>
+      </table>
+</div>
+                        		        <div id="PopBlockTab_1_body" style="display:none;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=125822">Γράφει... η παρακάμερα</a> [46]</td>
+  </tr>
+        <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+  </tr>
+  <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+    <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=123606">Η περίοδος χάριτος εξαντλήθηκε</a> [44]</td>
+  </tr>
+        <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+  </tr>
+  <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+    <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=125741">H ψυχρολουσία του νέου Προέδρου</a> [41]</td>
+  </tr>
+        <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+  </tr>
+  <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+    <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=127023">Παρέμβαση: Η Τρ. Κύπρου πρέπει να διασωθεί   </a> [39]</td>
+  </tr>
+        <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top" style="height:1px; background-image:url(layout/images/dotline_hor_bg.gif); background-repeat:repeat-x;"><img src="layout/images/dotline_hor_bg.gif" width="39" height="1" /></td>
+  </tr>
+  <tr>
+    <td height="6" valign="top"></td>
+  </tr>
+    <tr>
+    <td valign="top" class="title" style="padding-left:5px;"><a href="index.php?pageaction=kat&modid=1&artid=126865">Ο Σαρρής είναι επικίνδυνος </a> [33]</td>
+  </tr>
+    </table>
+</div>
+                        		        <div id="PopBlockTab_2_body" style="display:none;"><IFRAME style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; OVERFLOW: hidden; BORDER-LEFT: medium none; WIDTH: 274px; BORDER-BOTTOM: medium none; HEIGHT: 350px" src="http://www.facebook.com/plugins/recommendations.php?site=www.kathimerini.com.cy&app-id=187529538043769&width=250&height=400&header=false&border-color=#FFFFFF&font=verdana" frameBorder=0 scrolling=no allowTransparency></IFRAME>
+</div>
+                </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+                      </td>
+                    </tr>
+                                                                                                                        <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                    <tr>
+                      <td height="1" valign="top" bgcolor="#DDDDDD"> </td>
+                    </tr>
+                    <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                                                                                <tr>
+                      <td valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="8">
+                          <tr>
+                            <td valign="top"><div style="width:300px;height:250px;"><script type='text/javascript'>document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=2&'+(new Date()).getTime()+'" width="300" height="250" frameborder="0" scrolling="no"></iframe>');</script></div></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                                                                                                                        <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                    <tr>
+                      <td height="1" valign="top" bgcolor="#DDDDDD"> </td>
+                    </tr>
+                    <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                                                                                <tr>
+                      <td valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+    <td valign="top">
+      <table width="100%" border="0" cellspacing="1" cellpadding="10" bgcolor="#CCCCCC" class="BlogZone">
+        <tr>
+          <td valign="top" bgcolor="#FFFFFF">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="5" class="header">blogzone</td>
+              </tr>
+              <tr>
+                <td height="10"> </td>
+              </tr>
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    					                                                                                <tr>
+                      <td valign="top" bgcolor="E6EBF1">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="4">
+                          <tr>
+                            <td valign="top">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                                                    <td valign="top" width="10" nowrap="nowrap"><a href="http://www.kathimerini.com.cy/index.php?pageaction=kat&modid=1&artid=129198" /><img src="assets/modules/kat/photo_blocks/11/images/ianos.gif" border="0" /></a></td>
+                                  <td width="6" valign="top" nowrap="nowrap"> </td>
+                                                                    <td valign="top" width="100%">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tr>
+                                        <td valign="top" class="title"><a href="http://www.kathimerini.com.cy/index.php?pageaction=kat&modid=1&artid=129198" />Πολιτικό Παρασκήνιο</a></td>
+                                      </tr>
+                                      <tr>
+                                        <td valign="top" height="6"> </td>
+                                      </tr>
+                                                                            <tr>
+                                        <td valign="top" class="body"><a href="http://www.kathimerini.com.cy/index.php?pageaction=kat&modid=1&artid=129198" />Πώς το loutsiosgate παρασύρει όλο το πολιτικό σύστημα</a></td>
+                                      </tr>
+                                                                          </table>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                                                                                                    <tr>
+                      <td height="3" valign="top"> </td>
+                    </tr>
+                                        <tr>
+                      <td valign="top" bgcolor="D1D9E2">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="4">
+                          <tr>
+                            <td valign="top">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                                                    <td valign="top" width="10" nowrap="nowrap"><a href="http://www.kathimerini.com.cy/index.php?pageaction=kat&modid=1&artid=129182" /><img src="assets/modules/kat/photo_blocks/12/images/image1.jpg" border="0" /></a></td>
+                                  <td width="6" valign="top" nowrap="nowrap"> </td>
+                                                                    <td valign="top" width="100%">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tr>
+                                        <td valign="top" class="title"><a href="http://www.kathimerini.com.cy/index.php?pageaction=kat&modid=1&artid=129182" />Πίσω απο τις κάμερες:</a></td>
+                                      </tr>
+                                      <tr>
+                                        <td valign="top" height="6"> </td>
+                                      </tr>
+                                                                            <tr>
+                                        <td valign="top" class="body"><a href="http://www.kathimerini.com.cy/index.php?pageaction=kat&modid=1&artid=129182" />- Δύο μηνιάτικα ο Λέβι<br />
+- Τα ίδια έλεγε και με Σολάρι<br />
+- Μπαρούφες με Απόλλωνα</a></td>
+                                      </tr>
+                                                                          </table>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                                                                                                    <tr>
+                      <td height="3" valign="top"> </td>
+                    </tr>
+                                        <tr>
+                      <td valign="top" bgcolor="E6EBF1">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="4">
+                          <tr>
+                            <td valign="top">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                                                    <td valign="top" width="10" nowrap="nowrap"><a href="http://www.24man.com.cy//index.php?pageaction=kat&modid=1&artid=8047" /><img src="assets/modules/kat/photo_blocks/13/images/singer.jpg" border="0" /></a></td>
+                                  <td width="6" valign="top" nowrap="nowrap"> </td>
+                                                                    <td valign="top" width="100%">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tr>
+                                        <td valign="top" class="body"><a href="http://www.24man.com.cy//index.php?pageaction=kat&modid=1&artid=8047" />Some say...</a></td>
+                                      </tr>
+                                                                            <tr>
+                                        <td valign="top" height="6"> </td>
+                                      </tr>
+                                      <tr>
+                                        <td valign="top" class="title"><a href="http://www.24man.com.cy//index.php?pageaction=kat&modid=1&artid=8047" />Κοπτοραπτική</a></td>
+                                      </tr>
+                                                                          </table>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                                      </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+                      </td>
+                    </tr>
+                                                                                                                        <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                    <tr>
+                      <td height="1" valign="top" bgcolor="#DDDDDD"> </td>
+                    </tr>
+                    <tr>
+                      <td height="2" valign="top"> </td>
+                    </tr>
+                                                                                <tr>
+                      <td valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="8">
+                          <tr>
+                            <td valign="top"><div style="width:300px;height:250px;"><script type='text/javascript'>document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=2&'+(new Date()).getTime()+'" width="300" height="250" frameborder="0" scrolling="no"></iframe>');</script></div></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                                                                              </table>
+                </td>
+              </tr>
+                          </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</td>
+                  </tr>
+                                  </table></td>
+              </tr>
+                          </table></td>
+          </tr>
+                    <tr>
+            <td valign="top" style="padding:20px 0 15px 0;"><table border="0" cellspacing="0" cellpadding="0" class="BottomMenu">
+              <tr>
+                <td width="163" valign="top" nowrap><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top" class="title" style="padding:0 0 6px 6px;">ΕΙΔΗΣΕΙΣ</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#E0DFDF"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#FCFCFC"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" style="padding:6px 0 0 6px;" class="subtitle"><a href="index.php?pageaction=kat&modid=1&sctid=1">Κύπρος</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=6">Πολιτική</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=8">Αθλητισμός</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=32">Οικονομική</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=25">Ελλάδα</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=24">Κόσμος</a><br>
+                      <a href="index.php?pageaction=kat&modid=5&mgrid=2">GoodLife</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=9">Πολιτισμός</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=11">Περιβάλλον</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=12">Επιστήμη</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=13">Τεχνολογία</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=42">Media</a></td>
+                  </tr>
+                </table></td>
+                <td width="170" valign="top" nowrap style="padding-left:18px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top" class="title" style="padding:0 0 6px 6px;">ΑΛΛΑ ΘΕΜΑΤΑ</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#E0DFDF"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#FCFCFC"></td>
+                  </tr>
+                  <tr>
+                    <td style="padding:6px 0 15px 6px;" class="subtitle"><a href="index.php?pageaction=kat&modid=1&sctid=10">Απόψεις</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=23">Αφιερώματα</a></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="title" style="padding:0 0 6px 6px;">ΕΡΓΑΛΕΙΑ / ΥΠΗΡΕΣΙΕΣ</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#E0DFDF"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#FCFCFC"></td>
+                  </tr>
+                  <tr>
+                    <td style="padding:6px 0 15px 6px;" class="subtitle"><a href="index.php?pageaction=kat&modid=4">Αναζήτηση</a><br>
+                      <a href="index.php?pageaction=kat&modid=6">e-kathimerini</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=29">Έντυπη Έκδοση</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=45&stptypid=3">mobile</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=45&stptypid=3">iPnone</a><br>
+                      <a href="index.php?pageaction=kat&modid=1&sctid=45&stptypid=3">Tablet</a><br>
+                      <a href="http://www.facebook.com/Kathimerini.com.cy" target="fb"><img src="layout/images/fbook_s_icon.png" hspace="0" vspace="1" border="0" align="absmiddle" style="margin-right:4px;"></a>Kathimerini on facebook</td>
+                  </tr>
+                </table></td>
+                <td width="163" valign="top" nowrap style="padding-left:18px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top" class="title" style="padding:0 0 6px 6px;">ΠΛΗΡΟΦΟΡΙΕΣ</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#E0DFDF"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#FCFCFC"></td>
+                  </tr>
+                  <tr>
+                    <td style="padding:6px 0 15px 6px;" class="subtitle"><a href="mailto:info@kathimerini.com.cy">Επικοινωνία</a><br><a href="http://www.kathimerini.com.cy/adinfo/" target="_blank">Διαφήμιση</a><br><a href="index.php?pageid=4&ctype=bm">Ταυτότητα</a></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="title" style="padding:0 0 6px 6px;">SPPMEDIA NETWORK</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#E0DFDF"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#FCFCFC"></td>
+                  </tr>
+                  <tr>
+                    <td style="padding:6px 0 15px 6px;" class="subtitle"><a href="http://www.kathimerini.gr/" target="_blank">Ελληνική Έκδοση</a><br>
+                      <a href="http://www.24news.com.cy" target="_blank">24news.com.cy</a><br>
+                      <a href="http://4troxoi.24man.com.cy/" target="_blank">4troxoi.24man.com.cy</a><br>
+                      <a href="http://www.24sports.com.cy" target="_blank">24sports.com.cy</a><br>
+                      <a href="http://www.madtv.com.cy" target="_blank">madtv.com.cy</a><br>
+                      <a href="http://www.livingetc.com.cy" target="_blank">livingetc.com.cy</a><br>
+                      <a href="http://www.mydeejay.com.cy" target="_blank">mydeejay.com.cy</a></td>
+                  </tr>
+                </table></td>
+                <td width="160" valign="top" nowrap style="padding-left:18px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top" class="title" style="padding:0 0 6px 6px;">SPPMEDIA ACCOUNT</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#E0DFDF"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="1" bgcolor="#FCFCFC"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" style="padding:6px 0 0 6px;" class="subtitle"><a href="index.php?pageaction=kat&modid=MemAccount&actid=login">Login</a><br>
+                      <a href="index.php?pageaction=kat&modid=MemReg">Register</a></td>
+                  </tr>
+                </table></td>
+                <td valign="top" width="258" style="padding-left:20px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top" class="text">&copy;2011 Η ΚΑΘΗΜΕΡΙΝΗ All rigths reserved.<br>
+                      Η ΚΑΘΗΜΕΡΙΝΗ ΠΟΛΙΤΙΚΗ ΚΑΙ ΟΙΚΟΝΟΜΙΚΗ ΕΦΗΜΕΡΙΔΑ ΕΚΔΟΣΗ ΚΥΠΡΟΥ ΛΤΔ</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="text" style="padding-top:15px; padding-bottom:12px;">ΜΙΑ ΚΟΙΝΗ ΕΤΑΙΡΕΙΑ ΤΩΝ ΕΙΔΙΚΩΝ ΕΚΔΟΣΕΩΝ ΛΤΔ ΚΑΙ ΤΩΝ ΚΑΘΗΜΕΡΙΝΩΝ ΕΚΔΟΣΕΩΝ ΑΕ</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" class="text" style="background-image:url(layout/images/bdlogo_bg.gif); background-repeat:no-repeat; height:29px; padding:3px 2px 2px 35px"><a href="http://www.bdigital.com" target="_new">Design & Development by BDigital<br>
+                      Powered by Webstudio</a></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="2" valign="top" bgcolor="#E0DFDF"></td>
+          </tr>
+          <tr>
+            <td height="2" valign="top" bgcolor="#FCFCFC"></td>
+          </tr>
+                    <tr>
+            <td height="20" valign="top"></td>
+          </tr>
+        </table></td>
+				      </tr>
+    </table></td>
+  </tr>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<map name="IpadAppsLinksMap">
+  <area shape="rect" coords="76,43,691,477" href="http://itunes.apple.com/au/app/e-kathemerine-kyprou/id521411248?mt=8" target="_blank">
+</map>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10385152-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+

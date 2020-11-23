@@ -1,0 +1,260 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>自由電子報 - 固定運動的人 薪水比不運動者多</title>
+<meta http-equiv="Content-Language" content="zh-tw" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta name="keywords" content="自由時報,自由電子報,The Liberty Times" />
+<meta name="robots" content="index,follow" />
+<link href="/css/index/style7.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2887146-7']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+function AD_openWindow(ano,target) { //v2.0
+   window.open('http://iservice.libertytimes.com.tw/IService2/ad.php?ano='+ano+'&target='+target+'&source='+document.URL);
+}
+
+function printScreen()
+{        
+    var title = document.getElementById('newtitle').innerHTML;
+		var content = document.getElementById('newcontent').innerHTML;
+		var date = document.getElementById('date').innerHTML;
+		var top = '<div id="header_print"><div class="logo"><a href="http://www.libertytimes.com.tw" target="_blank"><img src="http://www.libertytimes.com.tw/2008/images/img_auto/005/logo_s.gif" alt="" border="0" /></a></div><div class="ad"></div><div id="clear"></div></div><table width="700" border="0" align="center" cellspacing="0" class="text" style="border: 1px solid #E0E0E0; margin-top: 6px; text-align:left;"><tr><td width="747" valign="top" style="border-right: 1px solid #E0E0E0; padding:20px;" class="print">';
+		var bot = '</td></tr></table><table width="700" border="0" align="center" class="t13" style="margin-top:8px;"><tr><td height="44" background="http://www.libertytimes.com.tw/2008/images/img_auto/005/service_bgfooter.gif"><div align="center">自由電子報 版權所有 不得轉載 &copy; 2012 The Liberty Times.       All Rights Reserved.</div></td></tr></table>';
+    var printdetail = window.open("","新聞列印","");
+    printdetail.document.open();
+    printdetail.document.write('<HTML><head><link href="http://www.libertytimes.com.tw/css/index/style7.css" rel="stylesheet" type="text/css" /><link href="http://www.libertytimes.com.tw/css/service/style_order.css" rel="stylesheet" type="text/css" /></head><BODY onload="window.print();window.opener=null;window.close();">'); 
+    printdetail.document.write(top); 
+    printdetail.document.write('<span class="insubject1">'+title+'</span><span class="date">('+date+')</span>'); 
+		printdetail.document.write(content); 
+    printdetail.document.write(bot);
+    printdetail.document.close("</BODY></HTML>");
+}
+//-->
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onResize="leftMargin=getLeftMargin()" class="bgBody">
+<!--Head start-->
+<div id="header">  <div id="topnav"><ul><li>&nbsp;</li>
+      <li><a href="http://www.yes123.com.tw/admin/index.asp" target="_blank">yes123求職網</a></li>
+      <li><a href="#" onClick="open('http://iservice.libertytimes.com.tw/IService2/TalkList.php','','scrollbars=yes,width=620,resizable=yes,toolbar=yes')">新聞發言台</a></li>
+      <li><a  href="http://iservice.libertytimes.com.tw/inform/complain.php" target="_blank">爆料投訴</a></li>
+      <li><a href="http://www.libertytimes.com.tw/Service/ad.htm" target="_blank">廣告刊登</a></li>
+      <li><a href="http://www.libertytimes.com.tw/Service/Order.htm" target="_blank">訂報</a></li>
+      <li><a href="http://www.libertytimes.com.tw/Service/rss.htm" target="_blank">RSS</a></li>
+      <li><a  href="http://iservice.libertytimes.com.tw/inform/complain_1.php?type=3" target="_blank">聯絡我們</a></li></ul>
+  </div>
+  <div id="clear"></div>
+  <div class="logo"><a href="http://www.libertytimes.com.tw/"><img src="/2008/images/img_auto/005/logo_new.gif" alt="" width="220" height="70" border="0"></a></div>
+  <div class="title"><img src="../../../images/img_auto/005/top_title9.gif" alt=""></div>
+  <div class="ad"><script src="../../../../js/ajs/BindexA03.js"></script></div>
+  <div id="clear"></div>
+  <!--channel start-->
+  <div id="navcontainer_frame">    <div id="navcontainer">      <ul id="navlist" class='float-left'>
+        <li><a href="/" id="current">自由新聞</a></li>
+        <li><a href="http://video.libertytimes.com.tw/" target="_blank">影音娛樂</a></li><li><a href="http://iservice.libertytimes.com.tw/3c/" target="_blank">3C 科技</a></li>
+        <li><a href="http://iservice.libertytimes.com.tw/inform/news.php" target="_blank">讀者園地</a></li>
+        <li><a href="http://travel.libertytimes.com.tw/" target="_blank">旅遊玩樂</a></li>
+        <li><a href="http://cheap.libertytimes.com.tw/" target="_blank">好康報報</a></li>
+        <li><a href="http://www.taipeitimes.com/News" target="_blank"> TAIPEI TIMES </a></li>
+        <li><a href="http://blog.libertytimes.com.tw/" target="_blank"> Blog </a></li>
+      </ul>
+    </div>
+    <div id="navcontainer_right">
+      <form name="form1" method="post" action="http://iservice.libertytimes.com.tw/IService2/search.php" target="_blank" style="margin:0">
+        <input type="hidden" name="flag" value="2">
+        新聞查詢：
+        <input type="text" name="InputKey2" size="20">
+        <a href="javascript:form1.submit()"><img src="../../../images/img_auto/005/go-search1.gif" width="29" height="16" align="absmiddle" border="0"></a>
+      </form>
+    </div>
+  </div>
+  <div id="clear"></div>
+  
+</div>
+<a name="top" id="top"></a>
+
+<table width="960" align="center" cellpadding="0" cellspacing="0" style="padding-top:4px;" class="bgTable">
+  <tr>
+  <!--Left Menu start-->
+    <td width="130" valign="top"> 
+      <table width="130" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+        <tr> 
+          <td align="center" class="menutop"></td>
+        </tr>
+      </table>      <script src="menu2.js"></script>
+<script src="../../../../gamebase.js"></script>
+<div style="margin-left:2px"><a href="http://video.libertytimes.com.tw/channel.php?ch=4" target="_blank" onFocus="this.blur()"><img src="../../../images/trailer2.gif" border="0"></a></div>
+
+      <table width="130" cellpadding="0" cellspacing="0" bgcolor="#FCF0CB">
+        <tr> 
+          <td background="../../../images/img_auto/005/tb3.gif"><div align="left">
+		  <img src="../../../images/img_auto/005/dot2.gif" align="absmiddle" />
+		  <span class="bmtitle">服務專區</span></div>
+		  </td>
+        </tr>
+        <tr> 
+          <td> <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#E3C9AE">
+              <tr> 
+                <td bgcolor="#FCF0CB"><table width="100%" align="center" cellpadding="2" cellspacing="0" class="style3">
+                    <tr> 
+                      <td align="center" bgcolor="#FCF0CB"><a class="style2" href="http://iservice.libertytimes.com.tw/inform/complain.php" target="_blank">我要爆料</a> 
+                      ．<a class="style2" href="http://www.libertytimes.com.tw/Service/recruit.htm" target="_blank">自由徵才</a></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#FCF0CB"><a class="style3" href="http://www.libertytimes.com.tw/Service/ad.htm" target="_blank">廣告刊登</a> 
+                      ．<a class="style3" href="http://www.libertytimes.com.tw/Service/Order.htm" target="_blank">訂報服務</a></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#FCF0CB"><a class="style3" href="http://cheap.libertytimes.com.tw/free_list.php?type=%E6%B4%BB%E5%8B%95" target="_blank">活動刊登</a> 
+                      ．<a class="style3" href="http://www.libertytimes.com.tw/Service/climbing.htm" target="_blank">登山活動</a></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#FCF0CB"><a class="style3" href="http://www.taiwanlottery.com.tw/" target="_blank">樂透彩券</a> 
+                      ．<a class="style3" href="http://invoice.etax.nat.gov.tw/" target="_blank">統一發票</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      <script src="/js/ajs/BindexM01.js"></script>
+    </td>
+	<!--Left Menu end-->
+	<!--Main content start-->
+    <td valign="top">
+      <div class="newstopbar"><a href="http://www.libertytimes.com.tw/">首頁</a> > 國際新聞</div>
+      <table class="newsuse"  border="0" cellspacing="2" cellpadding="2" align="center" >
+       <tr>
+          <td width="70" align="left" valign="bottom" id="date" class="style7">2012-1-16</td>
+          <td align="right" valign="bottom"><font size="2">字型：</font><img src="../../../images/img_auto/005/font+.gif" align="absmiddle" id="adjustBig" class="adjustFontShow" onClick="adjustFont('big')"> <img src="../../../images/img_auto/005/font-.gif" align="absmiddle" id="adjustSmall" class="adjustFontHide" onClick="adjustFont('small')"> ∣<a href="#" class="WeaFont" onClick="btnClick='result'; sendRate(document.recommend); document.recommend.submit();">看推薦</a>∣<a href="http://iservice.libertytimes.com.tw/IService2/Talk.php?newsNo=554509" target="_blank" class="WeaFont">發言</a>∣<a href="#" OnClick="printScreen()" class="WeaFont">列印</a>∣<a href="#" onClick="open('http://iservice.libertytimes.com.tw/IService3/forward.php?newsNo=554509','','width=600,height=470,resizable=yes')" class="WeaFont">轉寄</a></td>
+        </tr>
+      </table>
+      <script type="text/javascript" src="/js/community2.js"></script>
+      <div id="K3"><script src="/js/ajs/BindexK03.js"></script></div>
+<hr class="newsGad">
+      <table width="95%" border="0" cellspacing="1" cellpadding="1" align="center">
+        <tr valign="top"> 
+          <td class="content" id="newsContent"> 
+            <!-- replace -->
+            <span class="insubject1" id="newtitle">固定運動的人 薪水比不運動者多</span> 
+						<span id="newcontent"><p>〔編譯陳成良／綜合報導〕規律運動不僅有助強化心肺循環系統、增加免疫功能並維持身材苗條，美國一項研究又給運動找了個好理由：相較於不運動的人，固定運動者的薪水可能多出達9％。</p><p>先前的研究已發現，運動有助消除壓力、排解憂鬱、療傷及預防疾病，但這項研究成果可能是首度建立運動與個人收入之間的關係。研究指出，老闆可能會認為常運動的人不但較有決心，對工作也較投入，所以願意委以重任；愛運動的員工也更可能基於維持身材苗條的精神與身體益處，而更努力工作。</p><p>克里夫蘭大學研究人員以問卷形式，分析1 萬2000人的運動量和薪水之間的關係，發現從事游泳、慢跑，甚至只是在健身房隨意舉舉重的人，薪水比不運動的人高9％；即使是從事像快步走等溫和運動的人，也能帶來較多收入。</p><p>研究人員發現，相較於不運動的人，一星期運動3次者的薪水高出6％至9％；就算1個月只運動1到3次，薪水也多出5％。</p><p>研究報告作者柯斯堤教授說，除了對心臟、體重及其他醫療問題的正面效應外，運動可增進心理功能及精力，這些特點都可以轉化成更高的薪水。</p></span>
+            <!-- replace -->          </td>
+        </tr>
+        <tr>
+          <td><br>
+              <table align="center" cellpadding="10" class="rate">
+                <tr>
+                  <td><form action="http://iservice.libertytimes.com.tw/IService3/rate.php" name="recommend" target="rateWindow" method="post" onSubmit="return sendRate(this)" style="margin:0 0 0 0">
+                    <img src="../../../images/img_auto/005/bg_box3.gif" alt="" width="88" height="28">
+                    <input type="hidden" name="rate" value="3">
+                    <input type="hidden" name="newsNo" value="554509">
+                    <input type="hidden" name="btn">
+                    <input type="image" value="我要推薦" onClick="btnClick='vote'" src="../../../images/img_auto/005/bg_box4.gif"><input type="image" value="看結果" onClick="btnClick='result'" src="../../../images/img_auto/005/bg_box5.gif">
+                  </form></td>
+                </tr>
+              </table>
+             
+            <script src="/js/ajs/BindexK02.js"></script>
+            <script src="/js/ajs/BindexK01.js"></script>
+            <p class="gotop"><a href="#top" class="gotop">▲TOP</a></p>
+          </td>
+        </tr>
+      </table>
+	  </td>
+	<!--Main content end-->
+	<!--Right Menu start-->
+    <td width="240" valign="top" bgcolor="#FCF0CB"> 
+      <table width="240" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td><div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH06.js"></script></div>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH01.js"></script></div>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH02.js"></script></div>
+							<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH03.js"></script></div>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH05.js"></script></div>
+<div style="text-align:center; margin-bottom:3"><script src="/js/ajs/BindexH04.js"></script></div>
+		  
+		  	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr> 
+                    <td width="26" height="25"><img src="../../../images/img_auto/005/mt-1.gif" width="26" height="25" /></td>
+                	<td height="25" background="../../../images/img_auto/005/mt-0.gif" class="style4">國際新聞</td>
+                    <td width="18" height="25"><img src="../../../images/img_auto/005/mt-2.gif" width="18" height="25" /></td>
+                  </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+			<table width=100% cellpadding=3 cellspacing=0 class=inpct>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-int1.htm>棄乘客先逃命 義郵輪落跑船長被捕</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-int2.htm>上任兩天就凸槌 日防相果真外行</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-int3.htm>武警射殺藏人？國際關注北京沉默</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-int4.htm>失業婦哭窮 羅尼直接給現金50元</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-int5.htm>東京前線︰日媒見證台灣成熟民主</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-int6.htm>《中英對照讀新聞》Women pop to the doctor more often than men ’because they really are the sicker sex’ 女人比男人更常看醫生「因她們真的較常生病」</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-int7.htm>挖地道偷領提款機 只夠買二手車</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><a class=related href=today-int8.htm>美國實境秀選美 23歲佳麗摘后冠</a></td>
+						</tr>
+						<tr> 
+							<td valign=top width=12><img src=../../../images/img_auto/005/point.gif /></td>
+							<td width=233 valign=top><span class=focusNews>固定運動的人 薪水比不運動者多</span></td>
+						</tr></table>    </td>
+    <!--Right Menu end-->
+  </tr>
+</table>
+<!--footer start-->
+<table width="960" align="center" cellpadding="3" cellspacing="1" bgcolor="#999999">
+  <tr> 
+    <td align="center" bgcolor="#ECDFB7" class="style3"><a href="http://www.libertytimes.com.tw/">回首頁</a>｜
+      <a class="style3" href="http://www.libertytimes.com.tw/Service/publish.htm" target="_blank">我要投稿</a>｜
+      <a class="style3" href="http://www.libertytimes.com.tw/Service/about.htm" target="_blank">關於我們</a>｜
+      <a class="style3" href="http://www.libertytimes.com.tw/Service/declaration.htm" target="_blank">隱私權政策聲明</a> <br />
+      <font color="#999999" size="2">自由電子報 版權所有 不得轉載 &copy; 2012 The Liberty Times. All Rights Reserved.</font>
+    </td>
+  </tr>
+</table>
+
+<!--footer end-->
+</body>
+</html>

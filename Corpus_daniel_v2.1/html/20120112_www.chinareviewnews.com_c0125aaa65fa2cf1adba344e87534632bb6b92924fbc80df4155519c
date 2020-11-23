@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!--create time : Mon Jan 09 11:00:47 CST 2012  host : web02-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="中國,評論,新聞,中評網,中評,中評社">
+<title>中國評論新聞：福州某醫院稱看病滿2000元就送火車票</title>
+<link href="/resource/css/main.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+	function doZoom(size)
+	{
+		document.getElementById('zoom').style.fontSize=size+'pt';
+	}
+	
+	function getParameter(param)
+	{
+		var query = window.location.search;
+		var iLen = param.length;
+		var iStart = query.indexOf(param);
+		if (iStart == -1)
+		{
+			return "";
+		}
+		iStart += iLen + 1;
+		var iEnd = query.indexOf("&", iStart);
+		if (iEnd == -1)
+		{
+			return query.substring(iStart);
+		}
+	
+		return query.substring(iStart, iEnd);
+	}
+	
+	function getNav()
+	{
+		var key = getParameter("coluid") + "-" + getParameter("kindid");
+
+		if(key == "91-2751")
+		{
+			return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/spec/photoChannel.jsp">圖片頻道</a> -&gt;&gt; <a href="/crn-webapp/kindOutline.jsp?coluid=91&kindid=2751">新聞網首頁圖片2</a>';
+		}
+
+		if(key == "7-0")
+		{
+			return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/msgOutline.jsp?coluid=7">中評電訊</a>';
+		}
+
+		if(key == "48-0")
+		{
+			return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/msgOutline.jsp?coluid=48">社會百態</a>';
+		}
+
+		if(key == "0-0")
+		{
+			return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/nowOutline.jsp?coluid=0">即時新聞</a>';
+		}
+
+		return '您的位置：<a href="/">首頁</a> -&gt;&gt; <a href="/crn-webapp/spec/photoChannel.jsp">圖片頻道</a> -&gt;&gt; <a href="/crn-webapp/kindOutline.jsp?coluid=91&kindid=2751">新聞網首頁圖片2</a>';
+	}
+</script>
+</head>
+
+<body bgcolor="#999999" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<div align="center">
+<script type="text/javascript" src="/resource/js/pagehead.js"></script>
+<table width="778" height="300" border="0" cellpadding="20" cellspacing="0" bgcolor="#FFFFFF">
+    <tr> 
+      <td width=60% align="center" valign="top">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr><td width="2%" nowrap="nowrap" height="25" valign="top">
+          <script language="JavaScript">document.write(getNav());</script>
+          </td>
+          <td width="98%" nowrap="nowrap" align="right" valign="top">
+            【<A href="/crn-webapp/doc/docDetailCNML.jsp?coluid=7&kindid=0&docid=101971667" target="_blank">CNML格式</A>】
+            【<A href="javascript:doZoom(13)">大</A> <A href="javascript:doZoom(11)">中</A> <A href="javascript:doZoom(10)">小</A>】
+            【<A href="javascript:window.print();">打 印</A>】&nbsp;
+            </td>
+          </tr>
+          
+		   <tr>
+	          <td align=right valign=top colspan=2 height="25">
+<!-- JiaThis Button BEGIN -->
+<div id="ckepop">
+	<a href="http://www.jiathis.com/share/" class="jiathis jiathis_txt" target="_blank"><img src="http://v2.jiathis.com/code/images/jiathis2.gif" border="0" /></a>
+</div>
+<script type="text/javascript" src="http://v2.jiathis.com/code/jia.js" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+
+	          </td>
+          </tr>
+
+          <tr>
+            <td align="center" colspan=2><font color="#000000" style="font-size: 22px"><strong>福州某醫院稱看病滿2000元就送火車票</strong></font></td></tr>
+            
+          <tr><td align=center colspan=2><br><font style="font-size:14px">http://www.chinareviewnews.com</font>
+             &nbsp;&nbsp;2012-01-09 10:52:51&nbsp;&nbsp;</td>
+          </tr>
+        </table>
+        <br>
+        <br>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" height=200>
+          <tr>
+            <td style="font-size: 16px;LINE-HEIGHT: 150%;text-align:justify;text-justify:inter-ideograph;" valign=top id="zoom"><TABLE style="MARGIN: 1px 7px 3px 4px" cellSpacing=2 cellPadding=0 align=center border=0>
+        
+              <TR><TD align=center>
+                   <IMG src="http://webpic.chinareviewnews.com/upload/201201/9/101971686.jpg" border=0 name=normal >
+              </TD></TR>
+        
+</TABLE>　　中評社北京1月9日電／8日10時許，有網友在微博上爆料：“看病送火車票，沒病都要去裝病啊！”該網友在這條微博下配了一幅圖，圖上一家門診下的LED屏幕上清楚地顯示著：“共助春運，看病就送火車票”。這一口號立即引發網友關注。<br><br>　　福州新聞網訊，網友爆料的醫院位於福建省福州市。記者在現場拍照，結果從醫院裡闖出兩個人，強行奪走記者的相機並把所拍照片删除。一名自稱是該門診機構負責人的中年男士稱，他們只是在做促銷，門診方通過去火車站排隊、網絡預訂的方式為患者代買火車票。<br><br>　　昨天下午3時許，這家醫院門口的LED屏幕已經不再顯示“看病就送火車票”的字樣。不過，該醫院的博客裡仍寫到：“凡在活動期間，在醫院檢查、看病的外來務工人員，均可由院方代訂春節返鄉火車票。同時，在院內消費數額達到2000元的患者，均可由院方贈送一張返鄉火車票。”記者以看病為由咨詢前台工作人員是否看病真的可以贈送火車票這事，對方仍舊表示可以。</td>
+          </tr>
+        </table>
+
+        
+        <br>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td  align=right>
+<!-- JiaThis Button BEGIN -->
+<div id="ckepop">
+	<a href="http://www.jiathis.com/share/" class="jiathis jiathis_txt" target="_blank"><img src="http://v2.jiathis.com/code/images/jiathis2.gif" border="0" /></a>
+</div>
+<script type="text/javascript" src="http://v2.jiathis.com/code/jia.js" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+            【<A href="/crn-webapp/doc/docDetailCNML.jsp?coluid=7&kindid=0&docid=101971667" target="_blank">CNML格式</A>】
+            【<A href="javascript:doZoom(13)">大</A> <A href="javascript:doZoom(11)">中</A> <A href="javascript:doZoom(10)">小</A>】
+            【<A href="javascript:window.print();">打 印</A>】&nbsp;
+            </td>
+          </tr>
+        </table>
+        
+        <br>
+        <table width="95%" border="0" cellpadding="4" cellspacing="0" bgcolor="#cccccc">
+          <tr><td>
+          &nbsp;<strong>相關新聞：</strong>
+          </td></tr>
+          <tr>
+            <td width="100%"  valign="top" id="iid">
+            <ul>
+
+                <li><a href="/doc/7_0_101962200_1.html" target="_blank">鐵路售票網訪問量過大致系統癱瘓</a> <font color="#999999" style="font-size: 12px"><em>(2012-01-02 08:43:20)</em></font></li>
+
+                <li><a href="/doc/7_0_101851828_1.html" target="_blank">火車票購買大變革　明起動車全面網上售票</a> <font color="#999999" style="font-size: 12px"><em>(2011-09-29 16:10:37)</em></font></li>
+
+                <li><a href="/doc/7_0_101779574_1.html" target="_blank">火車票強制保費隨票價上漲　保額20年不變</a> <font color="#999999" style="font-size: 12px"><em>(2011-07-27 09:38:30)</em></font></li>
+
+                <li><a href="/doc/7_0_101716741_1.html" target="_blank">男子收藏千張火車票　老票上印有“毛語錄”</a> <font color="#999999" style="font-size: 12px"><em>(2011-06-01 09:38:33)</em></font></li>
+
+              </ul>	
+	  </td>
+          </tr>
+        </table>
+        
+        
+        
+	</td>
+    </tr>
+  </table>
+
+<script type="text/javascript">
+try
+{
+	var obj = document.getElementById("zoom");
+	var imgs = obj.getElementsByTagName("img");
+	for(var i = 0; i < imgs.length; i++)
+	{
+		if(imgs[i].width > 600)
+		{
+			imgs[i].width = 600;
+		}
+	}
+}catch(e){}
+</script>
+<script type="text/javascript" src="/resource/js/pagetail.js"></script>
+<script src="http://www.chinareviewnews.com/crn-webapp/doc/hitdoc.jsp?docid=101971667" ></script>
+</div>
+</body>
+</html>

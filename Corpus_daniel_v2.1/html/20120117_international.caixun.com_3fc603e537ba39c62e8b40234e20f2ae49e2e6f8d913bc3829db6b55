@@ -1,0 +1,619 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>EFSF评级遭降推高其中长期债券收益率_财讯.COM</title>
+<meta name="Keywords" content="国际,外汇,市场动态,债券,基金,欧洲联盟,欧洲货币联盟,欧洲" />
+<meta name="Description" content="[世华财讯]EFSF顺利拍卖15.01亿欧元债券，表明所受标普调降该基金评级影响不大，但该基金发行的中长期债券收益率仍承压扩大，其中2021年7月到期的债券收益率较16日扩大0.12个百分点。" />
+<meta name="classification" content="World: Chinese Simplified: 商业: 投资: 理财" />
+<meta name="author" content="财讯网_提供股票、基金、期货与外汇市场的金融资讯，以及个人理财咨询等服务" />
+<meta name="copyright" content="财讯网_中国专业财经网站" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="http://images.caixun.com/styles/common.css" />
+<link rel="stylesheet" type="text/css" href="http://images.caixun.com/styles/news2.css" />
+<link rel="shortcut icon" href="http://images.caixun.com/images/icon/favicon.ico" />
+<script src="http://images.caixun.com/js/library/jquery.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/library/cookie.js" type="text/javascript"></script>
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-1753776201213826");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-1753776201213826", "international_banner");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<script src="http://images.caixun.com/js/common/login.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/article/common.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/article/loopedcarousel.js" type="text/javascript"></script>
+<script src="http://images.caixun.com/js/common/forumapi.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var commentArticleID = "NE034riv";
+	var commentArticleType = 1;
+	var commentAritcleTitle = "EFSF评级遭降推高其中长期债券收益率";
+	var channelID = "00000005";
+	var pageData = '';
+</script>
+</head>
+<body>
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_moveLayers(){
+        var ttop,tleft,h,w;
+        var i,p,v,obj,args=MM_moveLayers.arguments;
+        for (i=0; i<(args.length); i++){
+                if(i == 0){
+                        obj = args[0];
+                        evt=args[2];
+                        evt=evt?evt:window.event;
+                          tleft = evt.clientX+document.body.scrollLeft-5;
+                          ttop  = evt.clientY+document.documentElement.scrollTop-5;
+                }else{
+                        if ((obj=document.getElementById(args[i]))!=null){
+                                if (obj.style){
+                                        obj.style.left = tleft+'px';
+                                        obj.style.top  = ttop+2+'px';
+                                }
+                        }
+                }
+        }
+}
+function MM_showHideLayers() { //v6.0
+    var i,p,v,obj,args=MM_showHideLayers.arguments;
+    for (i=0; i<(args.length-2); i+=3)
+    	if ((obj=MM_findObj(args[i]))!=null){
+        	v=args[i+2];
+            if (obj.style){
+                obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v;
+            }
+            obj.visibility=v;
+    	}
+}
+var stocksCode = '';
+jQuery(document).ready(function(){
+	if ( stocksCode != '' ){
+        var urlMarket = '/app/common/article/getMarketGraph.ajax.php?code=' + stocksCode;
+    	jQuery.ajax({
+				type:'get',
+				contentType:'application/x-www-form-urlencoded; charset=GB2312',
+				url:urlMarket,
+				cache:false,
+				success:function(data){jQuery('#stockmarket').empty().append(data)}
+	    });
+     
+}
+});
+
+function showMarketGraph(name,code){
+	var html="<span id = marketText"+code+">"+name+"("+code+")</span>";
+	document.write(html);
+	var id="marketText"+code;
+	jQuery.ajax({
+				type:'get',
+				contentType:'application/x-www-form-urlencoded; charset=GB2312',
+				url:'/app/common/article/getMarketText.ajax.php?code='+code,
+				cache:false,
+				success:function(data){jQuery('#'+id).empty().append(data);}
+	    });
+}
+//-->
+</script>
+<!------头部 start------>
+<div class="header" style="background:none;">
+  <div class="content-nav2">
+    <div class="content-nav2-left"> <a href="http://www.caixun.com/" target="_self">财讯首页</a>- <a href="http://news.caixun.com/" target="_self">新闻</a>- <a href="http://economy.caixun.com/" target="_self">经济</a>- <a href="http://biz.caixun.com/" target="_self">商业</a>- <a href="http://money.caixun.com/" target="_self">理财</a>- <a href="http://funds.caixun.com/" target="_self">基金</a>- <a href="http://stocks.caixun.com/" target="_self">股票</a>- <a href="http://futures.caixun.com/" target="_self">期货</a>- <a href="http://fx.caixun.com/" target="_self">外汇</a>- <a href="http://life.caixun.com/" target="_self">生活</a>- <a href="http://special.caixun.com/" target="_self">专题</a>- <a href="http://comment.caixun.com/" target="_self">评论</a>- <a href="http://market.caixun.com/" target="_self">解盘</a>- <a href="http://forum.caixun.com/" target="_self">论坛</a>- <a href="http://blog.caixun.com/" target="_self">博客</a>- <a href="http://club.caixun.com/" target="_self">互动</a> </div>
+<p> <a href="http://club.caixun.com/" target="_self"><img src="http://images.caixun.com/images/header/ico_red_cm.gif" alt="财迷会所" />财迷会所</a> <a href="http://service.caixun.com/yzcm/" target="_self"><img src="http://images.caixun.com/images/header/ico_red_yz.gif" alt="益智财迷" />益智财迷</a> <a href="http://service.caixun.com/epress/" target="_self"><img src="http://images.caixun.com/images/header/ico_epa.gif" alt="电子报" />电子报</a> <a href="http://wap.caixun.com/" target="_self"><img src="http://images.caixun.com/images/header/ico_mob.gif" alt="手机版" />手机版</a>
+<div class="clear"></div>
+</p>
+  </div>
+  <div class="clear"></div>
+</div>
+<!------头部 end------>
+<!------主体 start------>
+<div class="content">
+  <div class="w648" style="width:638px; background-color:#fff; border-right:none">
+    <!--<div class="ad620" id="advertisementTop"></div>-->
+	<div class="ad620"><script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9409438"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_29161077_2449754_9409438";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9409438";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script></div>
+    <div class="content-logo marl10">
+      <h1 class="content-logo-img"> <a href="http://www.caixun.com" target="_top"> <img title="财讯" alt="财讯" src="http://images.caixun.com/images/header/logo.gif"></a></h1>
+      <div class="mypos fsimsun fl"><script type="text/javascript">if (channelID!="00000003"){document.write('<a href="http://www.caixun.com/">首页</a>&gt;');}</script><a href="/" id="rtchannelhome">国际</a>&gt;<script type="text/javascript">if (channelID=="00000003")($("#rtchannelhome").attr("href","http://www.caixun.com"));</script>&nbsp;正文</div>
+      <form action="" method="post" class="neiwen2">
+  <input name="" type="text" class="text cgray" value="请输入关键字" id="searchText">
+  <input name="" style="cursor:pointer;" type="button" class="btn" onclick="search_gotoLookupN()"/>
+</form>
+<script type="text/javascript">
+function search_gotoLookupN() {
+	var inputValue = document.getElementById('searchText').value;	
+
+	if(ActionChar(inputValue) == true){
+	}
+	else{
+	  return false;	  
+	}
+}
+var searchText = $("#searchText");
+searchText.focus(function(){
+	var inputValue = $(this).attr('value');
+	if(inputValue == '请输入关键字')
+	{
+		$(this).attr('value','');
+	}
+});
+
+searchText.blur(function(){
+	var inputValue = $(this).attr('value');
+	if(inputValue == '')
+	{
+		$(this).attr('value','请输入关键字');
+	}
+});
+//对字符串进行验证FrankMeng
+
+function ActionChar(s){
+
+   var s = $("#searchText").val();
+
+  if(s ==" " && s=="请输入关键字")
+
+  {
+
+      $("#searchText").focus();
+      return false;
+
+  }
+
+  var reg = /^([a-zA-Z])|([\u0391-\uFFE5]+)|([,])|([\s])|([0-9])$/;
+
+  //var reg1 = /^$/
+
+  var str = s;
+
+  if(str == "")
+
+  {
+
+      alert("对不起关键词不能为空");
+
+	  $("#searchText").focus();
+
+	  //document.all.search.select();
+
+	  return false;
+
+  }else
+
+  {
+
+        var _sivalue=false;
+
+		  for(var i =0; i<str.length;i++){
+
+			 var _iKeyCode =str.substring(i,i+1);
+
+			 if(!reg.test(_iKeyCode)){
+
+			  _sivalue=true;
+
+		      }
+
+		  }
+
+		  if(_sivalue){
+
+			alert("格式不正确!");
+
+			$("#searchText").focus();
+
+	        return false;
+
+		  } else
+          {
+		   if(trim($("#searchText").val())!="请输入关键字" && trim($("#searchText").val())!="")
+		   {
+           var gotoUrl = "http://search.caixun.com/?k="+trim($("#searchText").val());
+	       window.open(encodeURI(gotoUrl));
+		   }else
+		   {
+		   alert("对不起关键词不能为空");
+		      $("#searchText").focus();
+
+			  //document.all.search.select();
+
+			  return false;
+		   }
+		  }		  
+
+  }
+
+}
+function trim(inputString) {
+
+    
+
+    if (typeof inputString != "string") { return inputString; }
+
+       var retValue = inputString;
+
+       var ch = retValue.substring(0, 1);
+
+    while (ch == " ") { 
+
+    //检查字符串开始部分的空格
+
+       retValue = retValue.substring(1, retValue.length);
+
+       ch = retValue.substring(0, 1);
+
+       }
+
+       ch = retValue.substring(retValue.length-1, retValue.length);
+
+    while (ch == " ") {
+
+                 //检查字符串结束部分的空格
+
+                 retValue = retValue.substring(0, retValue.length-1);
+
+                 ch = retValue.substring(retValue.length-1, retValue.length);
+
+              }
+
+              while (retValue.indexOf("  ") != -1) { 
+
+              //将文字中间多个相连的空格变为一个空格
+
+                 retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length); 
+
+              }
+
+              return retValue;
+
+}
+
+</script>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+    <h1>EFSF评级遭降推高其中长期债券收益率</h1>
+	
+    <div class="newstip cgray">2012年01月17日 20:39  已有<em class="cred" id="readnumber1">0</em>人阅读 字号：<s><a href="javascript:doZoom(12)" target="_self">T</a></s> | <s><a href="javascript:doZoom(14)" target="_self" class="cblue fb f14">T</a></s> <a href="javascript:copyToClipboard(document.URL)" target="_self" class="bga">复制链接</a> <a href="javascript:print()" target="_self" class="bgb">打印</a></div>
+    <div class="pagesel" id="guibance">      
+    </div>
+	<script src="http://images.caixun.com/js/article/contentPage.js" type="text/javascript"></script>
+    <div class="info">[世华财讯]EFSF顺利拍卖15.01亿欧元债券，表明所受标普调降该基金评级影响不大，但该基金发行的中长期债券收益率仍承压扩大，其中2021年7月到期的债券收益率较16日扩大0.12个百分点。</div>
+    <div class="newscot" id="Zoom">
+      [世华财讯]EFSF顺利拍卖15.01亿欧元债券，表明所受标普调降该基金评级影响不大，但该基金发行的中长期债券收益率仍承压扩大，其中2021年7月到期的债券收益率较16日扩大0.12个百分点。<br><br>综合媒体1月17日报道，评级机构标注普尔(Standard & Poor's)下调欧洲金融稳定基金（EFSF）投资评级未对该基金发行短期债券带来显著影响，但仍令其发行的长期债券走势承压。<br><br>EFSF 17日顺利拍卖15.01亿欧元6个月期国债，投标倍数为3.1，表明该基金评级被标准普尔下调后，其短期债券的市场信心仍未受明显影响。且这批债券的平均收益率为0.2664%，与同期欧洲债券二级市场中，法国6个月期国债0.261%的收益率大体相当。而同期德国6个月期国债收益率为0.10%。<br><br>这是继EFSF在2011年12月发行3个月期债券后，该基金短期内第二次发行短期债券。欧洲政府官员透露，日本政府申购了这批债券中的8%。<br><br>国际评级机构标准普尔16日将欧洲金融稳定基金(European Financial Stability Facility)的长期信用评级由“AAA”调降至“AA+”，在该机构13日大规模调降法国等欧元区9个成员国的信用评级之后，这一举动就已在预料之中。目前其他两家评级机构惠誉与穆迪仍维持该基金的AAA评级。<br><br>但标准普尔调降EFSF评级消息仍令该基金发行的长期国债承压，其中，EFSF发行的2021年7月到期、票息为3.375%的债券收益率升至3.17%，较16日收盘扩大0.12个百分点，但远低于2011年11月创下的3.96%的收益率峰值。<br><br>EFSF发行的2016年7月到期、票息为2.75%的债券收益率扩大8个基点至2.15%。<br><br>(李军伟 编译)<br><br>	                 
+    </div>
+    <!------分页 start------>
+    
+    <!------分页 end------>
+    <div class="newstip cgray newstip_bot">已有<em class="cred" id="readnumber2">0</em>人阅读 字号：<s><a href="javascript:doZoom(12)" target="_self">T</a></s> | <s><a href="javascript:doZoom(14)" target="_self" class="cblue fb f14">T</a></s> <a href="javascript:copyToClipboard(document.URL)" target="_self" class="bga">复制链接</a> <a href="javascript:print()" target="_self" class="bgb">打印</a> <a href="http://service.caixun.com/rss/" class="bgc" target="_blank">RSS</a> 
+	<div id="sharetitle" class="sharetitle"><a href="###" target="_self" class="bgd">分享</a></div>	
+	<script type="text/javascript">
+function sendurl(){
+	var title = window.document.title;
+	title = title.replace("_财讯.COM","");
+	var url = window.location.href;
+	document.getElementById("kaixin").href='http://www.kaixin001.com/repaste/share.php?rurl='+encodeURIComponent(url)+'&rcontent='+encodeURIComponent('世华财讯―'+title)+'&rtitle='+encodeURIComponent('世华财讯―'+title);    
+	document.getElementById("xianguo").href='http://xianguo.com/service/submitdigg/?link='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title);
+	document.getElementById("tengxun").href='http://v.t.qq.com/share/share.php?url='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title);
+	return false;
+}
+
+function gotoWB(){
+	var title = window.document.title;
+	title = title.replace("_财讯.COM","");
+	var url = window.location.href;
+
+    var content = '<a href="'+url+'" taget="_blank">'+title+'</a>';
+
+	$("#wbexcerpt").attr('value', content);
+	
+	document.wbForm.submit();
+}
+</script>
+
+<form method="POST" target="_blank" name="wbForm" action="http://club.caixun.com/index.php?r=microblog/default/share">
+<input type="hidden" name="excerpt" id="wbexcerpt" />
+</form>
+
+<div class="share" id="share" style="display:none">
+  <ul>
+    <li><a style="cursor:pointer" onclick="gotoWB()">财讯微博</a></li>
+    <li><a href="javascript:window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent('世华财讯―'+window.document.title.replace('_财讯.COM',''))+'&amp;url='+encodeURIComponent
+(window.location.href)+'&amp;source=bookmark','_blank');void(0)">新浪微博</a></li>
+    <li><a href="###" onClick="sendurl()" id="tengxun" target="_blank">腾讯微博</a></li>
+	<li><a title="分享到搜狐微博" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var f='http://t.sohu.com/third/post.jsp?',u=z||d.location,p=['&url=',e(u),'&title=',e(t||d.title),'&content=',c||'utf-8','&pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=660,height=600,left=',(s.width-660)/2,',top=',(s.height-600)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','',window.document.title,'','utf-8'));"/>搜狐微博</a></li>
+    <li><a href="###" onClick="sendurl()" id="kaixin" target="_blank">开心网</a></li>
+    <li><a href="###" onClick="sendurl()" id="xianguo" target="_blank">鲜果网</a></li>
+  </ul>
+</div>
+	</div>
+    <!------相关新闻 start------>
+    <div class="xgxw" style="width:418px;">
+      <h3 class="cred">相关新闻</h3>
+      <ul class="newsxg">        
+		<li>・<a target="_blank" href="http://international.caixun.com/content/20111209/NE032sgq.html">标普:授予EFSF计划发行的短期债券“A-1+”的评级</a><span>2011/12/09</span></li>
+<li>・<a target="_blank" href="http://international.caixun.com/content/20111207/NE032n6u.html">标普指出光明大道 财政联盟是欧洲希望所在</a><span>2011/12/07</span></li>
+<li>・<a target="_blank" href="http://international.caixun.com/content/20111207/NE032lqr.html">标普:欧盟峰会将影响欧央行在危机中扮演的角色</a><span>2011/12/07</span></li>
+<li>・<a target="_blank" href="http://international.caixun.com/content/20111206/NE032lp8.html">标普将EFSF评级列入负面观察名单</a><span>2011/12/06</span></li>
+<li>・<a target="_blank" href="http://international.caixun.com/content/20111130/NE032b9i.html">法财长:EFSF乃欧元债券前身 无意发行核心债券</a><span>2011/11/30</span></li>
+<li>・<a target="_blank" href="http://fx.caixun.com/content/20111128/NE032727.html">欧元区AAA国家抱团 德国酝酿“精锐债券”</a><span>2011/11/28</span></li>
+<li>・<a target="_blank" href="http://international.caixun.com/content/20111108/CX01u8m3.html">EFSF周一发行30亿欧元债券  日本认购达10%</a><span>2011/11/08</span></li>
+<li>・<a target="_blank" href="http://international.caixun.com/content/20111028/NE030ln4.html">惠誉给予扩容后EFSF基金AAA评级</a><span>2011/10/28</span></li>
+<li>・<a target="_blank" href="http://international.caixun.com/content/20110907/NE02t8h1.html">标普:欧元区共同债券评级将以参与方最低评级为准</a><span>2011/09/07</span></li>
+<li>・<a target="_blank" href="http://international.caixun.com/content/20110905/NE02t4ed.html">标普:参与国最低评级决定欧元债券评级</a><span>2011/09/05</span></li>
+
+      </ul>
+    </div>
+    <!------相关新闻 end------>
+    <!------相关推荐 start------>
+    <div class="xgtj">
+      <h3 class="cred">关键词</h3>
+      <div class="xgtj_word cblue">
+	  <a target="_blank" href="http://search.caixun.com/?k=欧洲" class="">欧洲</a>
+<a target="_blank" href="http://search.caixun.com/?k=欧洲货币联盟" class="">欧洲货币联盟</a>
+<a target="_blank" href="http://search.caixun.com/?k=欧洲联盟" class="">欧洲联盟</a>
+<a target="_blank" href="http://search.caixun.com/?k=基金" class="">基金</a>
+<a target="_blank" href="http://search.caixun.com/?k=债券" class="">债券</a>
+<a target="_blank" href="http://search.caixun.com/?k=市场动态" class="">市场动态</a>
+<a target="_blank" href="http://search.caixun.com/?k=外汇" class="">外汇</a>
+<a target="_blank" href="http://search.caixun.com/?k=国际" class="">国际</a>
+<a target="_blank" href="http://search.caixun.com/?k=" class=""></a>
+<a target="_blank" href="http://search.caixun.com/?k=" class=""></a>
+
+	  </div>
+    </div>
+    <!------相关推荐 end------>
+    <div class="clear"></div>
+    <!------发表评论 start------>
+    <div class="comt clearfix" id="initiatecomment">      
+    </div>
+	<script src="http://images.caixun.com/js/article/comment.js" type="text/javascript"></script>
+    <!------发表评论 end------>
+    <!------热门专题 start------>
+	<div class="specialimage">
+  <div id="subject" class="subject">
+    <div class="top">
+      <h3 class="cred">热门专题</h3>
+      <a href="###" class="previous"><img src="http://images.caixun.com/images/common/ico_12.gif" alt="向左" /></a> 
+	  <a href="###" class="next"><img src="http://images.caixun.com/images/common/ico_13.gif" alt="向右" /></a> 
+	</div>
+    <div class="container">
+      <ul class="slides">
+        <!--热门专题开始-->
+        <li><a target="_blank" href="http://economy.caixun.com/special/chunyun2012/"><img src="http://images.caixun.com/houtai/201112/2011123117111568463783.jpg" width="120" height="90" alt="中国春运之变！" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/chunyun2012/">中国春运之变！</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/nianzhongjiang/"><img src="http://images.caixun.com/houtai/201108/2011081613272906047862.jpg" width="120" height="90" alt="年终奖那点事儿" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/nianzhongjiang/">年终奖那点事儿</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/wlaq/"><img src="http://images.caixun.com/houtai/201104/2011042314385196214166.jpg" width="120" height="90" alt="银行用户信息疑遭泄露" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/wlaq/">银行用户信息疑遭泄露</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/1001100100000000821/"><img src="http://images.caixun.com/houtai/201112/2011122707281683224737.jpg" width="120" height="90" alt="蒙牛含毒不能道歉了事" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/1001100100000000821/">蒙牛含毒不能道歉了事</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/shangyerenwu/"><img src="http://images.caixun.com/houtai//201112/201112072042521001100100000000111.jpg" width="120" height="90" alt="商界2011：面孔与记忆" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/shangyerenwu/">商界2011：面孔与记忆</a></p>
+</li><li><a target="_blank" href="http://economy.caixun.com/special/sdcx/"><img src="http://images.caixun.com/houtai/201006/9451781704c23330350abd.jpg" width="120" height="90" alt="2012中国经济十大猜想" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/sdcx/">2012中国经济十大猜想</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/1001100100000000805/"><img src="http://images.caixun.com/houtai/201112/2011122015241047846836.jpg" width="120" height="90" alt="防辐射服是个传说？" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/1001100100000000805/">防辐射服是个传说？</a></p>
+</li><li><a target="_blank" href="http://economy.caixun.com/special/xysmzy/"><img src="http://images.caixun.com/houtai/200904/73879221649f6b1ba40013.jpg" width="120" height="90" alt="2012中国需要什么主义" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/xysmzy/">2012中国需要什么主义</a></p>
+</li><li><a target="_blank" href="http://economy.caixun.com/special/1001100100000000672/"><img src="http://images.caixun.com/houtai/201112/2011120915384241899574.jpg" width="120" height="90" alt="盘点2011中国财经生活" /></a>
+    <p><a target="_blank" href="http://economy.caixun.com/special/1001100100000000672/">盘点2011中国财经生活</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/gongsi/"><img src="http://images.caixun.com/houtai//201112/201112141011571001100100000000125.jpg" width="120" height="90" alt="盘点2011：公司的选择" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/gongsi/">盘点2011：公司的选择</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/loushi/"><img src="http://images.caixun.com/houtai/201006/17289879714c0e22dba2941.jpg" width="120" height="90" alt="聚焦楼市双限令" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/loushi/">聚焦楼市双限令</a></p>
+</li><li><a target="_blank" href="http://biz.caixun.com/special/dianxinliantong/"><img src="http://images.caixun.com/houtai/201108/2011080912442873997054.jpg" width="120" height="90" alt="电信联通遭遇反垄断" /></a>
+    <p><a target="_blank" href="http://biz.caixun.com/special/dianxinliantong/">电信联通遭遇反垄断</a></p>
+</li><!---->
+		<!--热门专题结束-->
+      </ul>
+    </div>    
+  </div>
+  <div class="clear"></div>
+</div>
+<script type="text/javascript">
+	$(function(){
+		$('#subject').loopedCarousel({
+			spacing: 18
+		});
+	});
+</script>
+    <!------热门专题 end------>
+  </div>
+  <div class="w320">
+    <!------财讯推广 start------>
+    <div class="blank10"></div>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>财讯推广</h2>
+      </div>
+      <ul class="newsa newsf12 cblue fsimsun" id="advertisementWord">
+      </ul>
+    </div>
+    <!------财讯推广 end------>
+    <!------广告插入 start------>
+    <!--<div class="ad320_260" id="advertisement"></div>-->
+	<div class="ad300_250"><script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9432028"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_29161077_2449754_9432028";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9432028";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script> 
+</div>
+    <!------广告插入 end------>
+    <!------论坛相关 start------>
+    <div class="blank10"></div>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>论坛相关</h2>
+      </div>
+      <ul class="newsa cblue">
+        <li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116793743223288-1-1.html">拉登之死带来的“经济效应”</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116527510468103-1-1.html">大宗商品暴跌 引发市场恐慌</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-1012116729208271301-1-1.html">外管局：人民币升值不会直接导致外汇储备损失 </a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-317085-1-1.html">火电企业亏损 发改委上调多地电价</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-315237-1-1.html">新兴经济体急防“热钱”涌入</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-315232-1-1.html">中国巴西将拓展能源矿业领域投资</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-304614-1-1.html">2011年春节期间国际客货班轮航线休航共5个航班</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-304547-1-1.html">埃及多个城市骚乱 数万人跪求总统下台</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-304538-1-1.html">你认为全球经济面临的最大风险是什么?</a></li><li>・<a target="_blank" href="http://forum.caixun.com/thread-304535-1-1.html">高端装备制造望成热点 甚至出大牛股</a></li><!---->
+      </ul>
+    </div>
+    <!------论坛相关 end------>
+    <!------个股行情 start------>
+    <div class="borda bgwhite" id="stockmarket">      
+    </div>
+    <!------论坛相关 end------>
+    <!------新闻排行 start------>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>新闻排行</h2>
+      </div>
+      <ul class="newsa newsph cblue">
+        <li><a target="_blank" href="http://international.caixun.com/content/20120117/NE034qp2.html">日本命名钓鱼岛 中国应以牙还牙？</a></li><li><a target="_blank" href="http://international.caixun.com/content/20120117/CX01uupf.html">日命名钓鱼岛 东南海双受制中国何以应对</a></li><li><a target="_blank" href="http://international.caixun.com/content/20120117/NE034r56.html">不堪压力 罗马劫杀华人嫌疑人畏罪自杀</a></li><li><a target="_blank" href="http://international.caixun.com/content/20120117/CX01uuu1.html">朝鲜为何弃用能让敌人肝胆俱裂的“铿锵女主播”？</a></li><li><a target="_blank" href="http://international.caixun.com/content/20120117/NE034r0l.html">中台同声抗日 日本钓鱼岛命名小心引火烧身</a></li><li><a target="_blank" href="http://international.caixun.com/content/20120117/NE034r8i.html">日方头脑莫简单 钓鱼岛不是谁起名就归谁</a></li><li><a target="_blank" href="http://international.caixun.com/content/20120117/CX01uuob.html">日方头脑过于简单 钓鱼岛不是谁起名就归谁</a></li><li><a target="_blank" href="http://international.caixun.com/content/20120116/NE034p1q.html">告别北京后 洪博培无奈挥手告别总统梦</a></li><li><a target="_blank" href="http://international.caixun.com/content/20120117/CX01uul4.html">美国担忧无法承受中国核反击 或进入战略平衡</a></li><li><a target="_blank" href="http://international.caixun.com/content/20120117/NE034qrn.html">前驻华大使总统梦碎 洪博培赔了夫人又折兵？</a></li><!---->
+      </ul>
+    </div>
+    <!------新闻排行 end------>
+    <!------财讯推荐 start------>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>财讯推荐</h2>
+      </div>
+      <ul class="newsa cblue">
+        <li>・<a target="_blank" href="http://fx.caixun.com/content/20120117/NE034qdb.html">标普调降EFSF信用评级至“AA+”</a></li><li>・<a target="_blank" href="http://fx.caixun.com/content/20120117/NE034qc8.html">无碍EFSF贷款能力</a></li><li>・<a target="_blank" href="http://international.caixun.com/content/20120117/NE034qe6.html">法国“藐视”标普</a></li><li>・<a target="_blank" href="http://international.caixun.com/content/20120117/NE034qcd.html">德政府:无需对EFSF采取行动</a></li><li>・<a target="_blank" href="http://international.caixun.com/content/20120116/NE034oek.html">专家解读下调评级后果？</a></li><li>・<a target="_blank" href="http://international.caixun.com/content/20120117/CX01uuil.html">欧元区还能稳定吗？</a></li><li>・<a target="_blank" href="http://fx.caixun.com/content/20120117/NE034qi5.html">希腊违约预期再浮现</a></li><li>・<a target="_blank" href="http://international.caixun.com/content/20120117/NE034qp2.html">日本命名钓鱼岛 中国应以牙还牙？</a></li><li>・<a target="_blank" href="http://international.caixun.com/content/20120117/NE034qat.html">日本拟为钓鱼岛命名</a></li><li>・<a target="_blank" href="http://international.caixun.com/content/20120117/NE034r0l.html">中台同声抗日 日本钓鱼岛命名小心引火烧身</a></li><!---->
+      </ul>
+    </div>
+    <!------财讯推荐 end------>
+    <!------博客推荐 start------>
+    <div class="borda bgwhite">
+      <div class="nwrtit cred">
+        <h2>博客推荐</h2>
+      </div>
+      <ul class="newsa cblue">
+        <li>・<a target="_blank" href="http://blog.caixun.com/1011101819900321464/viewspace-1012101116579845925.html">多方山穷水尽 大盘考验2580点</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101061207982218/viewspace-1012101083470037790.html">八省份公布地方债 海南债务率超93%</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101763566759726/viewspace-1012101359166510779.html">养生必晓：数数女人老得快的十大原委</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101028609519668/viewspace-1012101615324142923.html">美债降级 一个时代的终结？</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101658959107650/viewspace-1012101073052093781.html">中国股市的四大历史机遇（8月8日） </a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101028609519668/viewspace-1012101759791778755.html">解决出租司机罢工岂能一吊了之？</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101645279106293/viewspace-1012101261823151964.html">网上逃犯年底前自首有“优惠”</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101864467375675/viewspace-1012101250612667401.html">中国人为何生活得像驴子?</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101028609519668/viewspace-1012101820470469915.html">铁道部，请珍惜血染的动车残骸</a></li><li>・<a target="_blank" href="http://blog.caixun.com/1011101864467375675/viewspace-1012101054794505417.html">业内人士称5年后北京或面临保姆荒</a></li><!---->
+      </ul>
+    </div>
+    <!------博客推荐 end------>
+	<!--合作广告 start-->
+	<!--google ad-->
+    <div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-1753776201213826";
+/* 300x250, 创建于 08-7-1 */
+google_ad_slot = "8472505445";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<!--baidu ad-->
+<div class="blank10"></div>
+    <div align="center">
+<script type="text/javascript">/*300*250，创建于2011-7-20*/ var cpro_id = 'u547227';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+
+<script>var foja_mm_flag=true;</script>
+<script>var foja_mm_pos=1;</script>
+<script>var foja_mm_style='sytle1-1';</script>
+<script>var foja_mm_info=1;</script>
+<script src='http://union.mingrunad.com/proxy/miner.jsp?wid=7&cid=5'></script>
+	<!--合作广告 end-->
+  </div>
+  <div class="clear"></div>
+</div>
+<!------主体 end------>
+<!------底部 start------>
+<div class="footer">
+<div class="footnav"> <a href="http://www.caixun.com/include/footer/navigation.html" target="_blank">网站地图</a>|
+  <div id="footerlink"> <a href="http://www.caixun.com/include/footer/cxjs.html" target="_blank">关于我们</a>| <a href="http://www.caixun.com/include/footer/gsdt.html" target="_blank">公司动态</a>| <a href="http://www.caixun.com/include/footer/hzhb.html" target="_blank">合作伙伴</a>| <a href="http://www.caixun.com/include/footer/cpyc.html" target="_blank">诚征英才</a>| <a href="http://www.caixun.com/include/footer/zzqsm.html" target="_blank">著作权申明</a>| <a href="http://www.caixun.com/include/footer/ysqsm.html" target="_blank">隐私权保护</a>| <a href="http://www.caixun.com/include/footer/mzsm.html" target="_blank">免责申明</a>| <a href="http://www.caixun.com/include/footer/adquote.html" target="_blank">广告服务</a>| <a href="http://www.caixun.com/include/footer/lxwm.html" target="_blank">联系我们</a>| <a href="http://www.caixun.com/yqlj/" target="_blank">友情链接</a> </div>
+</div>
+<p>Copyright &copy; 2011 caixun.com All rights reserved. 版权所有财讯.com <a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007022800619" target="_blank"><img alt="版权" src="http://images.caixun.com/images/footer/cp.gif"></a><a href="http://ulic.baidu.com/client/clientDetailCerInfo.do?id=1740" target="_blank"><img alt="百度大联盟认证绿色会员" src="http://images.caixun.com/images/footer/logo_lm.gif"></a></p>
+<p><a class="gray" href="http://www.miibeian.gov.cn/" target="_blank">京ICP备07028176号</a> 京公网安备110301000051号</p>
+</div>
+<!------底部 end------>
+<!--百度统计代码-->
+<script type="text/javascript"> 
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F85ed4b194c2b844325d6954ed724c818' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!--集团系统代码-->
+<script language="javascript" src="http://gather.shushang-z.cn/Gather/scripts/visittrack.js" type="text/javascript"></script> <script type="text/javascript"> visittrack_siteId = '25'; visittrack_url = 'http://gather.shushang-z.cn/Gather/trace.do'; VisitTrack.visittrack_log( visittrack_siteId, visittrack_url); </script>
+<!--GA代码-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22871819-1']);
+  _gaq.push(['_setDomainName', '.caixun.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" src="http://www.caixun.com/clickheat/js/clickheat.js"></script>
+<script type="text/javascript">
+<!--
+clickHeatGroup = '';
+if (window.location.pathname == '/content/20111117/CX01ubnl.html')
+{
+ clickHeatGroup = 'cx01ubnl';
+}
+if (window.location.pathname == '/content/20111117/CX01ubot.html')
+{
+ clickHeatGroup = 'cx01ubot';
+}
+if (window.location.pathname == '/content/20111124/CX01udsm.html')
+{
+ clickHeatGroup = 'cx01udsm';
+}
+if (window.location.pathname == '/content/20111124/CX01uds5.html')
+{
+ clickHeatGroup = 'cx01uds5';
+}
+if (window.location.pathname == '/content/20111124/CX01uduq.html')
+{
+ clickHeatGroup = 'cx01uduq';
+}
+if (clickHeatGroup != '')
+{
+ clickHeatSite = 'international.caixun.com/';
+ clickHeatServer = 'http://www.caixun.com/clickheat/click.php';
+ initClickHeat();
+}
+//-->
+</script>
+<script src="http://images.caixun.com/js/article/ad.js" type="text/javascript"></script>
+<script src="/app/common/article/counter.php?rklsrecid=NE034riv&tjwzbt=EFSF%C6%C0%BC%B6%D4%E2%BD%B5%CD%C6%B8%DF%C6%E4%D6%D0%B3%A4%C6%DA%D5%AE%C8%AF%CA%D5%D2%E6%C2%CA&tjfbsj=2012-01-17+20%3A39%3A00&wzymrecid=00000005&tjwzlj=http://international.caixun.com/content/20120117/NE034riv.html"></script>
+</body>
+</html>
+

@@ -1,0 +1,2420 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:pas="http://pluck.vancouversun.com/2009/pluckApplicationServer">
+<head><base href="http://www.vancouversun.com/health/" />
+<!-- this script must be the first element in the head -->
+<script src="https://sso.canada.com/sso.js" type="text/javascript"></script>
+<script type="text/javascript">
+	JANRAIN.SSO.CAPTURE.check_login({
+		sso_server: 'https://sso.canada.com',
+		client_id: 'r9pez9besbxys2z6dbgsy5gdzzczd4zb',
+		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx',
+		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers',
+		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html'
+	});
+</script>
+
+
+
+
+<script type="text/javascript" src="/js/CDMScriptManager-1.0.js"></script>
+<script type="text/javascript">
+	CDMScriptManager.load('/js/jquery-1.2.6.min.js');
+	CDMScriptManager.load('/js/slider.js');
+</script>
+<script type="text/javascript">
+     CDMScriptManager.load('/js/pluck/pluckLocal.js');
+</script>
+<script type="text/javascript">
+     CDMScriptManager.load(pluckScriptUrl);
+     CDMScriptManager.load('/js/pluck/pluck.js');
+</script>
+<script type="text/javascript" src="/js/jquery-hoverintent.js"></script>
+<script type="text/javascript" src="/js/headernav_tab.js"></script>
+<script type="text/javascript" src="http://pluck.vancouversun.com/ver1.0/Content/ua/scripts/pluckApps.js?skipCSS=true"></script>
+<!-- membership js files -->
+<script type="text/javascript" src="/js/members/json.js"></script>
+<script type="text/javascript" src="/js/members/member.js"></script>
+
+<script type="text/javascript" src="/js/ooyala/story-vid-embed.js"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/global.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/grid.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/header.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/header_nav.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/components.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/widgets.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/featurebox.css" /><link rel="stylesheet" type="text/css" media="screen" href="/css/footer.css" />
+<!-- membership css -->
+<link href="/css/members/member.css" type="text/css" rel="stylesheet" media="screen" />
+<!--[if IE 6]>
+<link href="/members/css/member_ie6.css" type="text/css" rel="stylesheet" media="screen" />
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="http://pluck.vancouversun.com/ver1.0/content/ua/css/pluckAll.css" />
+	<!--[if IE 6]>
+			<link rel="stylesheet" type="text/css" href="http://pluck.vancouversun.com/ver1.0/content/ua/css/pluckAll.ie6.css" />
+	<![endif]-->
+	<style type="text/css">
+		.pluck-comm .pluck-user-persona {
+			display: block !important;
+		}
+	</style>
+<link rel="stylesheet" type="text/css" href="/css/pluckcommentsOverride.css" />
+
+<!--/vancouversun/branding.inc -->
+
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/branding.css" />
+
+<!-- -----The following Coding is for the Advertising.com Web Beacon ---- -->
+<!-- ----------------- DO NOT REMOVE THIS CODING ------------------------ -->
+<img src="https://secure.ace-tag.advertising.com/action/type=830451604/bins=1/rich=0/mnum=1516/xsordnm=vancouversun/logs=0" height="1" width="1" border="0" style="display:none;" />
+<!-- -----The preceding Coding is for the Advertising.com Web Beacon ---- -->
+<!-- ----------------- DO NOT REMOVE THIS CODING ------------------------ -->
+
+<!--/vancouversun/branding.inc -->
+<link rel="stylesheet" type="text/css" media="screen" href="/css/heatmap.css" /><title>One in 10 can't afford prescriptions</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/story.css" />
+<script type="text/javascript" src="/js/storyChromefix.js"></script>
+<meta property="og:title" content="One in 10 can't afford prescriptions">
+<meta property="og:type" content="cwi:health_story">
+<meta property="og:url" content="http://www.vancouversun.com/health/afford+prescriptions/6006453/story.html">
+<meta property="og:image" content="http://www.vancouversun.com/images/icon512x512_VS.jpg">
+<meta property="og:site_name" content="www.vancouversun.com">
+<meta property="fb:admins" content="USER_ID">
+<meta property="og:description" content="As premiers from around the country gather in Victoria to discuss health care, a new study from the University of B.C. finds that one in 10 Canadians can't afford their prescription medication."><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="Keywords" content="Canada &amp; World Postmedia News STRY VASN N UTF8 2012-06-15 05:00:00Z Victoria (British Columbia) Law , Michael Canadian Medical Association University of British Columbia Michael Law Final b05 Health and Fitness Health Care Issues Medical Drug Therapy Medical Treatments and Procedures Paying for Health Care Prescription Drugs" /><meta name="Description" content="As premiers from around the country gather in Victoria to discuss health care, a new study from the" /><meta name="PubDate" content="2012-01-16" /><meta name="Author" content="Robert Hiltz" /></head>
+
+<body class="health" >
+	<div id="page">
+		<div class="pagewrapper">
+
+			<div class="adwrapper">
+				<div id="leaderboard">
+				 	<!-- /leaderboard.inc -->
+
+	<div class="ad">
+		<div class="bannerContainer">
+			<div id="dartad1">
+<!-- legoctl: ctl01 --><!-- NO CACHE: dartad1 -->
+
+                        <script type="text/javascript">
+                        function getCookies() { return ""; }
+                        </script>
+                        <script type="text/javascript">
+                        Array.prototype.uniqueAry = function ()
+                        {
+                            var r = new Array();
+                            o:for(var i = 0, n = this.length; i < n; i++)
+                            {
+                                for(var x = 0, y = r.length; x < y; x++)
+                                {
+                                    if(r[x]==this[i])
+                                    {
+                                        continue o;
+                                    }
+                                }
+                                r[r.length] = this[i];
+                            }
+                            return r;
+                        }
+
+                        function getCookie(cookieName)
+                        {
+                            var dc = document.cookie;
+
+                            //load external cookies from .canada.com if not currently on .canada.com
+                            if (location.hostname.match(/\.canada\.com$/gi) == null)
+                                dc += ";" + getCookies(); //append to existing document cookie
+
+                            var cookie_str = ""; //this string will contain the value of the cookie name
+                            var needle = "[A-Za-z0-9_-]*" + cookieName + "[A-Za-z0-9_-]*=[^;]+";
+                            var regex = new RegExp(needle, "gi");
+                            var matches = dc.match(regex);
+                            if (matches != null)
+                            {
+                                for (var x = 0; x < matches.length; x++)
+                                    matches[x] = matches[x].substring(matches[x].indexOf("=")+1).replace(new RegExp("[\\s]+$", "g"), ""); //remove keyname prefix and trim
+                                cookie_str = matches.join(",");
+                                matches = cookie_str.split(",");
+                                matches = matches.uniqueAry(); //remove duplicates
+                                cookie_str = matches.join(";") + ";";
+                            }
+                            return unescape(cookie_str);
+                        }
+
+                        function getAdCookie()
+                        {
+                            return getCookie("adcookie");
+                        }
+
+                        function setSurroundCookie(value)
+                        {
+                            document.cookie = "surroundId=" + escape(value) + "; path=/";
+                        }
+
+                        function getSurroundCookie()
+                        {
+                            var dc = document.cookie;
+                            var prefix = "surroundId=";
+                            var begin = dc.indexOf("; " + prefix);
+                            if (begin == -1)
+                            {
+                                begin = dc.indexOf(prefix);
+                                if (begin != 0) return null;
+                            }
+                            else
+                            {
+                                begin += 2;
+                            }
+                            var end = document.cookie.indexOf(";", begin);
+                            if (end == -1) end = dc.length;
+                            return unescape(dc.substring(begin + prefix.length, end));
+                        }
+
+                        // Setup for surround session.
+                        var adid = ""; // used in the ad to start a surround session
+                        var surroundTag = getSurroundCookie(); // Get surround session id from the cookie
+                        if(surroundTag == null) // check if there was a surround session id in the cookie
+                        {
+                            surroundTag = "";
+                        }
+                        else
+                        {
+                            surroundTag = "srnd="+surroundTag+";"; // finish setting up the key-value for the ad tags
+                        }
+
+                        //Setup for adcookie.
+                        var adcookieTag = getAdCookie(); // Get the ad cookie string
+                        </script>
+                    
+                        <script type="text/javascript">
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vs_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=35682926?"; // script ad code with adcookie, used for debug
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vs_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=35682926?"><\/script>');
+                        </script>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
+                        {
+                            surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        <noscript>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/vs_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;ord=35682926?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/vs_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;ord=35682926?" /></a>
+                </noscript>
+</div>
+
+		</div>
+	</div>
+
+<!-- /leaderboard.inc -->
+				</div>
+				<!-- leaderboard ends -->
+			</div>
+			<!-- adwrapper ends -->
+			<div class="headerwrapper">
+				<div id="networkbar">
+					<div class="networkbar">
+						<!--/vancouversun/header_networkbar.inc -->
+
+	<div id="weatherspot">
+		<!--/vancouversun/header_search_box_top.inc -->
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/search/autocomplete.css" />
+		<div id="headersearch" class="headersearch">
+			<div class="formrow">
+				<ul class="hr_items quicklinks">
+					<li class="q-links"><a href="http://www.vancouversun.com/shopping/"><span>Shopping</span></a> | <a href="http://www.legacy.com/can-vancouver/Obituaries.asp"><span>Obituaries</span></a> | <a href="/life/diversions/"><span>Horoscopes</span></a> | <a href="/life/diversions/"><span>Lotteries</span></a></li>
+				</ul>
+				<div class="clear">&nbsp;</div>
+				<form name="searchform" action="http://www.vancouversun.com/search/search.html">
+					<ul class="form_newspaper">
+						<li class="formbutton">
+							<a class="" href="Javascript:void(1);" onClick="doSearch();"><span>Search</span></a>
+						</li>
+						<li class="forminput">
+							<input type="text" class="input_newspaper" id="q" name="q" onclick="this.focus();this.value='';" onblur="this.value=!this.value?'Search vancouversun.com...':this.value;" value="Search vancouversun.com..." />
+						</li>
+						<li class="formicon">
+							<a class="" href="Javascript:void(1);" onClick="doSearch();"><span>Search</span></a>
+						</li>
+					</ul>
+				</form>
+				<div class="clear">&nbsp;</div>
+				<ul class="hr_items" id="ypg">
+					<li class="ypg-icon"><a href="http://vancouversun.yellowpages.ca"><span>YellowPages</span></a></li>
+					<li class="ypg"><a href="http://vancouversun.yellowpages.ca">Find a business or person</a>&nbsp;</li>
+				</ul>
+			</div>
+		</div>
+		<!-- headersearch ends -->
+
+		<script type="text/javascript">
+			CDMScriptManager.load("http://www.vancouversun.com/js/autocomplete/jquery.autocomplete.min.js");
+		</script>
+		
+		<script language="javascript">
+			function doSearch() {
+				var q = document.getElementById("q").value.replace(/[^0-9a-zA-Z\s*]/g,"");
+				q = q.replace(/ /g,"+");
+				if (q.length == 0) {
+					alert("Please enter your search criteria");
+					return;
+				}
+				var dname = document.domain; 
+				if ( dname=="driving.ca") {
+					document.location.href="http://www.driving.ca/vancouver/search/search.html?q=" + escape(q);
+					}
+				else {
+					document.location.href="http://www.vancouversun.com/search/search.html?q=" + escape(q);
+				}
+			}
+			//FAST WAVE 1
+			//add javascript to hook up search text box in header
+			//set up autocomplete on search box in header			
+			jQuery(document).ready(function() {
+				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", {
+					dataType: 'jsonp',
+					parse: function(data) {
+						var rows = new Array();
+						data = data.Terms;
+						for(var i=0; i<data.length; i++){
+							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] };
+						}
+						return rows;
+					},
+					resultsClass: "fast_wave_results",
+					formatItem: function(row, i, n) {
+						return  row.Term;
+					},
+					cacheLength: 0,
+					extraParams: {
+						format: "json"
+					},
+					minChars: 1,
+					max: 10,
+					highlight: function(value, term) {
+						var pos = value.toLowerCase().indexOf(term.toLowerCase());
+						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>";
+					},
+					scroll: false,
+					selectFirst: false
+				}); 
+			});
+		</script>
+							
+<!--/vancouversun/header_search_box_top.inc -->
+		<!--/vancouversun/header_weather.inc -->
+
+	<div id="weather2" class="bubble bubbleweather">
+<!-- legoctl: ctl02 --><!-- CACHE HIT: weather2 -->
+<div class="bubble bubbleweather"><div class="top"><div class="left">Â </div><div class="right">Â </div></div><div class="center"><a href="/findit/weather/"><h4>Weather Centre</h4></a></div><div class="bottom"><div class="left">Â </div><div class="right">Â </div></div><div class="clear">Â </div></div><div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ion.gif"></div><div class="temperature">1&#176;C</div><div class="clear">Â </div><div class="forecast"><div class="current">Overcast</div><a href="/weather/index.html?city=vancouver&amp;rg=bc"><b>Vancouver</b></a><ul class="bullet"><li><a href="/weather/index.html?city=vancouver&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear">Â </div></div></div>
+ 
+
+<!--/vancouversun/header_weather.inc -->
+	</div>
+	<!-- weatherspot ends -->
+	<!--/header_networkbar_global.inc -->
+
+		<ul class="network_dropdown">
+			<li class="ss-nopad" id="subscriber_services"><a href="http://members.canada.com/canada/vancouversun/subscribers/selfserve/index.html?site=cc&brand=vancouversun"><span>Subscriber Services</span></a></li>
+			<li id="home_delivery"><a href="https://contests.canada.com/vancouversun/subscribe/index.html"><span>Start Home Delivery</span></a></li>
+			<li id="digital_edition"><a href="http://digital.vancouversun.com">Digital Edition</a></li>
+			<li id="digital_edition"><a href="/mobile-site/index.html"><span>Mobile Products</span></a></li>
+		</ul>
+		<!-- networkbar ends -->
+		<ul class="cc_dropdown">
+			<li class="cc">
+				<a href="http://www.canada.com/" class="ccn_network"><span>canada.com network</span></a>
+				<div class="cc-dropdown">
+					<div class="cc-dropdown-content">
+						<div class="wrapper_0_10_0_10">
+							<div class="col_170">
+								<div class="col_160">
+									<div class="section_title">
+										<h3><span>Newspapers</span></h3>
+										<div class="clear">&nbsp;</div>
+									</div>
+									<div class="clear">&nbsp;</div>
+									<div id="textlinks">
+										<div class="featurecontent">
+											<ul class="bullet">
+												<li><a href="http://www.nationalpost.com/"><span>National Post</span></a></li>
+												<li><a href="http://www.timescolonist.com/"><span>Victoria Times Colonist</span></a></li>
+												<li><a href="http://www.theprovince.com/"><span>The Province (Vancouver)</span></a></li>
+												<li><a href="http://www.vancouversun.com/"><span>Vancouver Sun</span></a></li>
+												<li><a href="http://www.edmontonjournal.com/"><span>Edmonton Journal</span></a></li>
+												<li><a href="http://www.calgaryherald.com/"><span>Calgary Herald</span></a></li>
+												<li><a href="http://www.leaderpost.com/"><span>Regina Leader-Post</span></a></li>
+												<li><a href="http://www.thestarphoenix.com/"><span>Saskatoon StarPhoenix</span></a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col_160">
+								<div class="section_title">
+									<h3><span>&nbsp;</span></h3>
+									<div class="clear">&nbsp;</div>
+								</div>
+								<div class="clear">&nbsp;</div>
+								<div id="textlinks">
+									<div class="featurecontent">
+										<ul class="bullet">
+											<li><a href="http://www.windsorstar.com/"><span>Windsor Star</span></a></li>
+											<li><a href="http://www.ottawacitizen.com/"><span>Ottawa Citizen</span></a></li>
+											<li><a href="http://www.montrealgazette.com/"><span>The Gazette (Montreal)</span></a></li>
+											<li><a href="http://www.dose.ca/"><span>DOSE</span></a></li>
+											<li><a href="http://www.canada.com/postmediacommunitypublishing/"><span>Postmedia Community Publishing</span></a></li>
+											<li><a href="http://www.canada.com/nanaimodailynews/"><span>Nanaimo Daily News</span></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="clear">&nbsp;</div>
+						</div>
+						<!-- wrapper ends-->
+					</div>
+				</div>
+			</li>
+		</ul>
+
+<!--/header_networkbar_global.inc -->
+
+<!--/vancouversun/header_networkbar.inc -->
+					</div>
+					<!-- networkbar ends -->
+					<div id="loginstatusbar">
+						<!--/common/loginstatusbar.inc -->
+
+<div id="loginstatusbarchild"></div>
+
+<script>
+	function handlePostLogin() {
+		// change the login status bar to reflect a logged in state
+		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");
+
+		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html";
+		else window.location.reload();
+	}
+
+	function handlePostLogout() {
+		// change the login status bar to reflect a logged out state
+		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");
+		
+		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html";
+		else window.location.reload();
+	}
+
+	function dologout() {
+		// create the hidden logout iframe
+		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true';
+		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body');
+	}
+
+	function renderLoginStatusBar(user) {
+		var user = user.User;
+		var statusBarHtml = "";
+
+		if (user.IsLoggedIn) {
+			statusBarHtml += "<ul>";
+			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>";
+			statusBarHtml += " " + profileLink;
+			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>";
+			statusBarHtml += "</ul>";
+		}
+		else {
+			statusBarHtml += "<ul>";
+			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Log in</a></li>";
+			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Register</a></li>";
+			statusBarHtml += "</ul>";
+		}
+		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml;
+	}
+</script>
+
+<script>jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");</script>
+
+<!--/common/loginstatusbar.inc -->
+					</div>
+					<!-- loginstatusbar ends -->
+				</div>
+				<!-- networkbar ends -->
+				<div class="clear">&nbsp;</div>
+				<div class="logosearchbar">
+					<div id="logocol">
+						<!--/vancouversun/header_logo.inc -->
+
+		<!--/header_feature_left.inc -->
+		<div class="headersponsor" id="callout_left">
+			<div class="logo">
+				<div id="syndication3">
+<!-- legoctl: ctl03 --><!-- CACHE HIT: syndication3 -->
+<!-- Source="3305138.atom" --><div class="section_title"><h3><span>Special series</span></h3></div><div id="featurewidget" class="spotlight_right_image"><div class="featurecontent"><div class="newsimage"><a href="http://www.vancouversun.com/news/pensions/index.html"><img border="0" src="4982211.bin?size=90x90" alt="A fist full of dollars" title="A fist full of dollars"></a><span class="photo_credit"></span></div><h1><a href="http://www.vancouversun.com/news/pensions/index.html"><span>Funding your retirement</span></a></h1><p class="newscontent">Planning for your golden years</p><ul class="morelink"><li><a href="http://www.vancouversun.com/news/pensions/index.html"><span>more Â»</span></a></li></ul></div></div><div class="clear">Â </div></div>
+
+			</div>
+		</div>
+<!--/header_feature_left.inc -->
+
+		<div class="newspaperlogo">
+			<h1><a href="/index.html"> <span>The Vancouver Sun</span> </a></h1>
+		</div>
+		<!-- newspaperlogo ends -->
+
+		<!--/header_feature_right.inc -->		
+		<div class="headersponsor" id="callout_right">
+			<div class="logo">
+				<div id="syndication4">
+<!-- legoctl: ctl04 --><!-- CACHE HIT: syndication4 -->
+<!-- Source="3305138.atom" --><div class="section_title"><h3><span>Online Now</span></h3></div><div id="featurewidget" class="spotlight"><div class="featurecontent"><div class="newsimage"><a href="Golden+Globe+winners/6000539/story.html"><img border="0" src="6000475.bin?size=90x90" alt="The winner for Best Performance by an Actor in a Motion Picture Drama George Clooney poses with the trophy at the 69th annual Golden Globe Awards at the Beverly Hilton Hotel in Beverly Hills, California, January 15, 2012." title="The winner for Best Performance by an Actor in a Motion Picture Drama George Clooney poses with the trophy at the 69th annual Golden Globe Awards at the Beverly Hilton Hotel in Beverly Hills, California, January 15, 2012."></a><span class="photo_credit"></span></div><h1><a href="Golden+Globe+winners/6000539/story.html"><span>And the Golden Globe winners are...</span></a></h1><p class="newscontent">George Clooney, Michelle Williams, Meryl Streep and Steven Spielberg walk away with major awards at the Golden Globes.</p><ul class="morelink"><li><a href="Golden+Globe+winners/6000539/story.html"><span>more Â»</span></a></li></ul></div></div><div class="clear">Â </div></div>
+
+			</div>
+		</div>
+<!--/header_feature_right.inc -->
+
+<!--/vancouversun/header_logo.inc -->
+					</div>
+					<!-- logocol ends -->
+					<div id="weatherspot">
+						<!--/vancouversun/header_weather.inc -->
+
+	<div id="weather5" class="bubble bubbleweather">
+<!-- legoctl: ctl05 --><!-- CACHE HIT: weather5 -->
+<div class="bubble bubbleweather"><div class="top"><div class="left">Â </div><div class="right">Â </div></div><div class="center"><a href="/findit/weather/"><h4>Weather Centre</h4></a></div><div class="bottom"><div class="left">Â </div><div class="right">Â </div></div><div class="clear">Â </div></div><div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ion.gif"></div><div class="temperature">1&#176;C</div><div class="clear">Â </div><div class="forecast"><div class="current">Overcast</div><a href="/weather/index.html?city=vancouver&amp;rg=bc"><b>Vancouver</b></a><ul class="bullet"><li><a href="/weather/index.html?city=vancouver&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear">Â </div></div></div>
+ 
+
+<!--/vancouversun/header_weather.inc -->
+					</div>
+					<!-- weatherspot ends -->
+					<div id="searchcol">
+						<div class="searchwrapper">
+							<!--/vancouversun/header_search_box.inc -->		
+<!--/vancouversun/header_search_box.inc -->
+						</div>
+						<!-- Search  wrapper ends -->
+					</div>
+					<!-- searchcol ends -->
+				</div>
+				<!-- logosearchbar ends -->
+			</div>
+			<!-- headerwrapper ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="navbar">
+				<div class="navbarwrapper">
+					<!--/vancouversun/header_nav.inc -->
+
+<ul id="navcontent">
+<li id="home" class="mainnav">
+<a class="navitem" href="/index.html"><span><img src="/images/header/home.gif"/></span></a>
+</li>
+<li id="news" class="mainnav">
+<a class="navitem" href="/news/"><span>News</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="/news/metro/index.html"><span>Metro</span></a></li>
+<li><a href="/news/u-report/index.html"><span>U-Report</span></a></li>
+<li><a href="/news/national/index.html"><span>National</span></a></li>
+<li><a href="/news/world/index.html"><span>World</span></a></li>
+<li><a href="/gangs/index.html"><span>Gangs</span></a></li>
+<li><a href="/news/education/index.html"><span>Education</span></a></li>
+<li><a href="/news/health/index.html"><span>Health</span></a></li>
+<li><a href="/weather/index.html?city=vancouver&rg=bc"><span>Weather</span></a></li>
+<li><a href="/news/traffic-cameras/index.html"><span>Traffic and Transit</span></a></li>
+<li><a href="/datacentral/index.html"><span>Database</span></a></li>
+<li><a href="/news/todays-paper/index.html"><span>Today&rsquo;s Paper</span></a></li>
+<li class="lastlink"><a href="/podcasts/index.html"><span>Podcasts</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="opinion" class="mainnav">
+<a class="navitem" href="/opinion/"><span>Opinion</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="http://blogs.vancouversun.com/category/staff"><span>Staff Blogs</span></a></li>
+<li><a href="http://blogs.vancouversun.com/category/community"><span>Community Blogs</span></a></li>
+<li><a href="/opinion/letters/index.html"><span>Letters</span></a></li>
+<li><a href="/columnists/index.html"><span>Columnists</span></a></li>
+<li><a href="/opinion/editorials/index.html"><span>Editorials-Columns</span></a></li>
+<li><a href="/opinion/op-ed/index.html"><span>Op&ndash;Ed</span></a></li>
+<li><a href="/opinion/editorial-cartoons/index.html"><span>Editorial Cartoon</span></a></li>
+<li class="lastlink"><a href="/opinion/community-of-interest/index.html"><span>Community of Interest</span></a></li>
+<!--li class="lastlink"><a href="/opinion/unews/index.html"><span>Unews</span></a></li-->
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="business" class="mainnav">
+<a class="navitem" href="/business/"><span>Business</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="/business/your-money/index.html"><span>Your Money</span></a></li>
+<li><a href="/business/smallbusiness/index.html"><span>Small Business</span></a></li>
+<li><a href="/business/economy/index.html"><span>Economy</span></a></li>
+<li><a href="/business/industry/index.html"><span>Industry</span></a></li>
+<li><a href="/business/resources/index.html"><span>Resources</span></a></li>
+<li><a href="/business/workplace/index.html"><span>Workplace</span></a></li>
+<li><a href="/business/innovation/index.html"><span>Innovation</span></a></li>
+<li><a href="/business/technology/index.html"><span>Technology</span></a></li>
+<li><a href="/business/asia-pacific/index.html"><span>Asia Pacific</span></a></li>
+<li><a href="/business/financial_calculators.html"><span>Calculators</span></a></li>
+<li><a href="/business/real-estate/index.html"><span>Real Estate</span></a></li>
+<li><a href="/business/agriculture/index.html"><span>Agriculture &amp; Food</span></a></li>
+<li><a href="/business/keeping-track/index.html"><span>Keeping Track</span></a></li>
+<li><a href="/business/energy/index.html"><span>Energy</span></a></li>
+<li><a href="/business/insurance/index.html"><span>Insurance</span></a></li>
+<li><a href="http://www.financialpost.com/markets/"><span>Markets on FP</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="sports" class="mainnav">
+<a class="navitem" href="/sports/"><span>Sports</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="/sports/hockey/vancouver-canucks/index.html"><span>Canucks-Hockey</span></a></li>
+<li><a href="/sports/football/lions/index.html"><span>Lions-Football</span></a></li>
+<li><a href="/sports/soccer/index.html"><span>Whitecaps-Soccer</span></a></li>
+<li><a href="/sports/baseball/index.html"><span>Baseball</span></a></li>
+<li><a href="/sports/basketball/index.html"><span>Basketball</span></a></li>
+<li><a href="/sports/golf/index.html"><span>Golf</span></a></li>
+<li><a href="/mma/"><span>MMA/Boxing</span></a></li>
+<li><a href="/sports/tennis/index.html"><span>Tennis</span></a></li>
+<li><a href="/sports/autoracing/index.html"><span>Racing</span></a></li>
+<li><a href="/sports/winter-sports/index.html"><span>Winter Sports</span></a></li>
+<li><a href="http://www.vancouversun.com/sports/olympics-anniversary/index.html"><span>2010 Olympics Legacy</span></a></li>
+<li><a href="http://www.vancouversun.com/2012sunrun/event/news.html"><span>Sun Run</span></a></li>
+<li class="lastlink"><a href="/sports/skiguide/index.html"><span>Ski Guide </span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="entertainment" class="mainnav">
+<a class="navitem" href="/entertainment/"><span>Entertainment</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="/entertainment/movie-guide/index.html"><span>Movies</span></a></li>
+<li><a href="/entertainment/television/index.html"><span>Television</span></a></li>
+<li><a href="/entertainment/television/tv-listings/index.html"><span>TV Listings</span></a></li>
+<li><a href="/entertainment/music/index.html"><span>Music</span></a></li>
+<li><a href="/entertainment/books/index.html"><span>Books</span></a></li>
+<li><a href="/entertainment/celebrity/index.html"><span>Celebrity</span></a></li>
+<li><a href="/entertainment/theatre-listings/index.html"><span>Theatre</span></a></li>
+<li><a href="/entertainment/listings/index.html?cbResetParam=1"><span>What's On</span></a></li>
+<li class="lastlink"><a href="/life/festival-guide/index.html"><span>Fairs &frasl; Festivals</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="life" class="mainnav">
+<a class="navitem" href="/life/"><span>Life</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="/2011sunrun/index.html"><span>2011 Sun Run</span></a></li>
+<li><a href="/health/index.html"><span>Wellness</span></a></li>
+<li><a href="/life/fashion-beauty/index.html"><span>Fashion &amp; Beauty</span></a></li>
+<li><a href="/life/food/index.html"><span>Food</span></a></li>
+<li><a href="/life/food/wine-country/index.html"><span>Wine</span></a></li>
+<li><a href="/life/pets/index.html"><span>Pets</span></a></li>
+<!--li><a href="http://insider.vancouversun.com"><span>Restaurant Insider</span></a></li-->
+<li><a href="/life/parenting/index.html"><span>Parenting</span></a></li>
+<li><a href="/life/relationships/index.html"><span>Relationships</span></a></li>
+<li><a href="/life/diversions/index.html"><span>Diversions - Comics &amp; Games</span></a></li>
+<li><a href="/life/in-the-garden/index.html"><span>In the Garden</span></a></li>
+<li><a href="/life/environment/index.html"><span>Environment</span></a></li>
+<li class="lastlink"><a href="/life/eat-drink/index.html"><span>Eat &frasl; Drink</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="technology" class="mainnav">
+<a class="navitem" href="/technology/"><span>Technology</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="/technology/gaming/index.html"><span>Gaming</span></a></li>
+<li><a href="/technology/tech-biz/index.html"><span>Tech &#8211; Biz</span></a></li>
+<li><a href="/technology/internet/index.html"><span>Internet</span></a></li>
+<li><a href="/technology/space/index.html"><span>Space</span></a></li>
+<li><a href="/technology/science/index.html"><span>Science</span></a></li>
+<li class="lastlink"><a href="/technology/youtube/index.html"><span>Best of YouTube</span></a></li>
+<li><a href="/mobile-site/index.html"><span>Download Sun Apps</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="travel" class="mainnav">
+<a class="navitem" href="/travel/"><span>Travel</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="/sports/skiguide/index.html"><span>Ski Guide</span></a></li>
+<li><a href="/travel/ideas/"><span>Trip Ideas</span></a></li>
+<li><a href="/travel/tools/"><span>Tools &amp; Tips</span></a></li>
+<li><a href="/travel/community/"><span>Community</span></a></li>
+<li class="lastlink"><a href="/travel/destinations/index.html"><span>Destination Guides</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="topics" class="mainnav">
+<a class="navitem" href="/topics/"><span>Topics</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="/topics/topic_browse.html?type=Person"><span>People</span></a></li>
+<li><a href="/topics/topic_browse.html?type=City"><span>Places</span></a></li>
+<li><a href="/topics/topic_browse.html?type=Misc"><span>Miscellaneous</span></a></li>
+<li class="lastnoline"><a href="/topics/topic_browse.html?type=Organization"><span>Organizations</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="navSeparator"><span></span></li>
+<li id="jobs" class="mainnav">
+<a class="navitem" href="http://www.working.com/vancouversun/index.html"><span>Jobs</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="http://www.working.com/vancouversun"><span>Home</span></a></li>
+<li><a href="http://jobs.vancouversun.com/careers/jobsearch?new=1&searchType=advanced"><span>Search Jobs</span></a></li>
+<li><a href="http://www.working.com/vancouversun/resources/"><span>Resources</span></a></li>
+<li><a href="http://jobs.vancouversun.com/careers/mediaKit/vert"><span>Post Jobs</span></a></li>
+<li><a href="http://jobs.vancouversun.com/jobs/jobseeker"><span>Jobseekers</span></a></li>
+<li><a href="http://jobs.vancouversun.com/careers/employer"><span>Employer Login</span></a></li>
+<li class="lastlink"><a href="http://shopping.vancouversun.com/SS/Page.aspx?ptype=SS_TILE&secid=96343&pagenum=1&facing=false"><span>Top Employers</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="cars" class="mainnav">
+<a class="navitem" href="http://www.driving.ca/vancouversun/index.html"><span>Cars</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="http://www.driving.ca/vancouversun/buy-car/new/index.html"><span>New</span></a></li>
+<li><a href="http://www.driving.ca/vancouversun/buy-car/used/index.html"><span>Used</span></a></li>
+<li><a href="/cardeals/index.html"><span>Weekly Specials</span></a></li>
+<li><a href="http://www.driving.ca/vancouversun/sell-car/index.html"><span>Sell</span></a></li>
+<li><a href="http://www.driving.ca/vancouversun/research-car/index.html"><span>Research & Compare</span></a></li>
+<li><a href="http://www.driving.ca/vancouversun/research-car/news/index.html"><span>News & Events</span></a></li>
+<li><a href="http://www.driving.ca/vancouversun/videos/index.html"><span>Videos</span></a></li>
+<li class="lastlink"><a href="http://www.driving.ca/vancouversun/special-features/index.html"><span>Features</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="homes" class="mainnav">
+<a class="navitem" href="http://www.househunting.ca/vancouversun/"><span>Homes</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="http://www.househunting.ca/vancouversun/new-home-development/index.html"><span>New Home Developments</span></a></li>
+<li><a href="http://www.househunting.ca/vancouversun/at-home/index.html"><span>At Home</span></a></li>
+<li><a href="http://www.househunting.ca/vancouversun/new-and-notable/index.html"><span>New and Notable</span></a></li>
+<li><a href="http://www.househunting.ca/vancouversun/out-of-town-properties/index.html"><span>Out Of Town Properties</span></a></li>
+<li><a href="http://www.househunting.ca/vancouversun/bought-sold/index.html"><span>Bought&#47;Sold</span></a></li>
+<li><a href="http://www.homesanddesign.ca/"><span>Westcoast Homes &amp; Design Magazine</span></a></li>
+<li><a href="http://www.househunting.ca/vancouversun/Home-Renovating/index.html"><span>Renovating</span></a></li>
+<li class="lastlink"><a href="http://www.househunting.ca/vancouversun/decorating/index.html"><span>Decorating</span></a></li>
+<!--li><a href="http://www.househunting.ca/vancouversun/sale-and-rent/index.html"><span>For Sale/Rent</span></a></li>
+<li><a href="http://www.househunting.ca/vancouversun/Buying-Homes/index.html"><span>Real Estate Advice</span></a></li>
+<li><a href="http://www.househunting.ca/vancouversun/Homes-and-Gardens/index.html"><span>Gardening</span></a></li>
+<li><a href="http://www.househunting.ca/vancouversun/Vacation-Homes/index.html"><span>Vacation Homes</span></a></li>
+<li><a href="/mikeholmes"><span>Mike Holmes</span></a></li-->
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+<li id="classifieds" class="mainnav">
+<a class="navitem" href="http://vancouversun.oodle.com/"><span>Classifieds</span></a>
+<div class="subnav">
+<div class="subnavcontent">
+<div class="wrapper_5_5_0_5">
+<div class="col_160 tagged">
+<div id="textlinks">
+<div class="featurecontent">
+<ul class="bullet">
+<li><a href="http://classifieds.canada.com/celebrating/vancouver/index.html"><span>Announcements</span></a></li>
+<li><a href="http://personals.canada.com/?CCCityNear=1535"><span>Dating</span></a></li>
+<li><a href="http://www.legacy.com/obituaries/vancouversun/"><span>Obituaries</span></a></li>
+<li><a href="http://www.working.com/vancouversun/index.html"><span>Job Listings</span></a></li>
+<li><a href="http://autos.canada.com/index.html?branding=vancouver"><span>Car Listings</span></a></li>
+<li><a href="http://www.househunting.ca"><span>Real Estate For Sale/Rent</span></a></li>
+<li><a href="http://www.vancouversun.com/shopping"><span>Shopping</span></a></li>
+<li><a href="http://classifieds.canada.com/vancouversun/placead/placead_index.html"><span>Place an Ad</span></a></li>
+<li class="lastlink"><a href="http://www.flyercity.ca?p=vancouversun"><span>FlyerCity</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="dottedline"></div>
+</div>
+</div>
+</li>
+</ul>
+<div class="clear">&nbsp;</div>
+<div class="dmiss">
+<div class="dmiss-word">Don't miss: </div>
+<div id="syndication6">
+<!-- legoctl: ctl06 --><!-- CACHE HIT: syndication6 -->
+<!-- Source="828008.atom" --><ul class="bullet">
+  <li>
+    <a href="http://taiyangbao.ca">
+      <span>Chinese News</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/pensions/index.html">
+      <span>Pensions</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/2012sunrun/index.html">
+      <span>Sun Run</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/special-series/index.html">
+      <span>Sun at 100</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/sports/skiguide/index.html">
+      <span>Ski Guide</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vansunkidsfund.ca/">
+      <span>Adopt-a-school</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/studentvideos/index.html">
+      <span>Student videos</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/vancouver-125/index.html">
+      <span>Van 125</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/estore/index.html">
+      <span>eStore</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/todays-paper/index.html">
+      <span>Today's Paper</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/videos/video.html">
+      <span>Video</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="">
+    <span></span>
+  </a> Â»
+			<a class="rss" href="http://www.vancouversun.com/828008.ATOM"><span>RSS</span></a></div></div>
+
+<div class="clear">&nbsp;</div>
+</div>
+<!--/vancouversun/header_nav.inc -->
+				</div>
+				<!-- navbarwrapper ends -->
+			</div>
+			<!-- navabr ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="contentbody">
+			
+				<div class="promobannerwrapper">
+					<!-- /promobanner_story.inc -->
+	<div id="dartad7">
+<!-- legoctl: ctl07 --><!-- NO CACHE: dartad7 -->
+
+                        <script type="text/javascript">
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vancouversun.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=35682926?"; // script ad code with adcookie, used for debug
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vancouversun.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=35682926?"><\/script>');
+                        </script>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
+                        {
+                            surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        <noscript>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/vancouversun.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;ord=35682926?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/vancouversun.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;ord=35682926?" /></a>
+                </noscript>
+</div>
+
+<!-- /promobanner_story.inc -->
+				</div>
+				<!-- promobannerwrapper ends -->
+				<div class="clear">&nbsp;</div>
+			
+				<div class="bodywrapper">
+					
+					 
+
+
+<div class="clear">&nbsp;</div>
+
+
+<div class="col_640">
+	
+	<div class="clear">&nbsp;</div>
+	<div id="LEGO_story">
+<!-- legoctl: ctl08 --><!-- CACHE HIT: LEGO_story -->
+
+
+<div id="storypage" class="story_content" xmlns:fb="urn:facebook.com:fb"><div class="wrapper_0_20_0_0"><script type="text/javascript">
+				CDMScriptManager.load('/js/SpiderRedirect.js');
+			</script><script type="text/javascript">
+				CDMScriptManager.load('/js/pluck/pluckLocal.js');
+				CDMScriptManager.load('http://pluck.vancouversun.com/ver1.0/Direct/DirectProxy');
+				CDMScriptManager.load('/js/pluck/pluck.js');				
+				CDMScriptManager.load('/js/adsync/adSyncLibrary.js');
+			</script><script type="text/javascript">
+				if (typeof dartad_url != 'undefined') {
+					var dd = adSync.ParseDartAdUrl(dartad_url);
+					cwZoneAd=dd["zone"];
+					cwSiteAd =dd["site"];
+					cwKeyAd=dd["keyValues"];
+				}else {
+					cwSiteAd = "vs_bh.com"; // plug in the Ad site variable
+					cwZoneAd= "health/story"; // plug in the ad zone.
+					cwKeyAd="kw=ron;kw=health"; // plug in the Ad key words.
+				}	
+			</script>
+		
+			<script type="text/javascript">
+	
+				var addthis_pub = 'canada.com';
+
+				function tabClick(eventText, hasVideo, id, classname, pause,syncAds)
+				{	
+					//the statsEvent and Ad Refresh have been disabled on the story tab clicks
+					//I've left the code in the xsl (just commented out), in case the decision gets reversed.
+									
+					//omniture event
+					//statsEvent(eventText);	
+					
+					//set tab
+					if(hasVideo)
+						switchTab(id,classname, pause);
+					else
+						setClass(id, classname);
+
+					//refresh ads
+					//if(syncAds)
+						//adSync.TriggerAdSynch();
+				}
+
+				function statsEvent(eventText)
+				{
+					//omniture event
+					s.prop38=s.pageName + eventText;
+					s.events='';
+					void(s.t());				
+				}
+
+				function showTab(firstentrytype)
+				{
+					var tab = getQueryVar('tab');
+					var tabclass = '';
+
+					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == ''))
+						tabclass = 'story_photo_content';
+					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala') && tab == ''))
+						tabclass = 'story_video_content';
+					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == ''))
+						tabclass = 'story_interactive_content';
+
+					if (tabclass != '')
+						setClass('storypage', tabclass);
+				}
+				function EmailThis(qs, emailViewer) 
+				{
+					var url = "http://" + window.location.hostname + window.location.pathname;
+					var id = "";
+
+					id = getQueryVar("id");
+					if (id != "")
+					{
+						url = addQS(url, "id=" + id);
+					}
+					if (qs != "")
+					{
+						url = addQS(url, qs);
+					}
+					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html";
+					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380')
+				}
+				function getQueryVar(key) 
+				{
+					var qs = window.location.search.substring(1);
+					var arrQS = qs.split("&");
+					var value = "";
+
+					for (i=0; i<arrQS.length; i++) {
+						var ft = arrQS[i].split("=");
+						if (ft[0] == key) {
+							value =  ft[1];
+						}
+					}
+
+					return value;
+				}
+				function addQS(theURL, QS)
+				{
+					var url = theURL;
+					if (QS != '')
+					{
+						if (url.indexOf("?") == -1)	{
+							url += "?" + QS;
+						} 
+						else {
+							url += "%26amp;" + QS;
+						}
+					}
+					return url;
+				}
+				function openWindow(theURL, WinName, WinFeatures) {
+					window.open(theURL, WinName, WinFeatures);
+				}
+				function jumpToAnchor(anchor) 
+				{
+					window.location = String(window.location).replace(/\#.*$/, "") + anchor;
+				}
+				function showAd(story_elem, ad_elem, ad_wrapper, offset) {
+					var eosPos = Y(story_elem);
+					var adPos = Y(ad_wrapper);
+					var showAd = false;
+					var offsetPos = 0;
+					
+					if (eosPos >= adPos)
+					{
+						showAd = true;
+					}
+					else
+					{
+						offsetPos = eosPos + offset;
+						if (offsetPos >= adPos)
+						{
+							showAd = true;
+						}
+					}
+
+					// write out ad include
+					if (showAd == true)
+					{
+					   document.getElementById(ad_elem).style.display = "block"; 
+					}
+				}				
+				function X(id) {
+					var obj = document.getElementById(id);
+					var x = obj.offsetLeft
+
+					while (obj = obj.offsetParent) x += obj.offsetLeft
+					return x
+				}
+				function Y(id) {
+					var obj = document.getElementById(id);
+					var y = obj.offsetTop
+
+					while (obj = obj.offsetParent) y += obj.offsetTop
+					return y
+				}
+
+			</script>
+			<script>CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10");</script>
+
+		
+	<div id="storyheader"><div class="headline"><h1>One in 10 can't afford prescriptions</h1></div><div class="clear">Â </div><div class="subheadline"><h2></h2></div><div class="clear">Â </div><div class="byline">
+<span class="name">By Robert Hiltz, Postmedia News</span>
+<span class="timestamp">January 17, 2012</span>
+<span id="lblComment" class="comments"></span>
+</div><div class="clear">Â </div></div>
+						
+							<!-- /story_share_bar_1.inc -->
+	
+<script type="text/javascript" src="http://pluck.canada.com/ver1.0/Direct/JavascriptSDKFullProxy"></script>
+
+<div class="sharebar">
+<!-- /story_share_bar_1.inc end -->
+
+						
+						
+						
+							<!-- /story_share_bar_2.inc -->
+	<div class="recomm">
+		<script src="http://connect.facebook.net/en_US/all.js#xfbml=1">
+		</script><fb:like layout="button_count" show_faces="true" width="120" action="recommend"></fb:like>
+	</div>
+<!-- /story_share_bar_2.inc end -->
+						
+						
+						
+							<!-- /story_share_bar_3.inc -->
+	<div class="tweet">
+		<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	</div>
+<!-- /story_share_bar_3.inc end -->
+						
+						
+						
+							<!-- /story_share_bar_4.inc -->
+	<div class="plusone">
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		<g:plusone size="medium" count="true"></g:plusone>
+	</div>
+<!-- /story_share_bar_4.inc end -->
+						
+						
+						
+							<!-- /story_share_bar_6.inc -->
+	<div class="share">
+		<span class="st_sharethis_custom"></span>
+	</div>
+</div>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+		stLight.options({
+				publisher:'8f205be9-8545-4fa3-a030-c83238b6a3e5',
+				offsetLeft:'-265',
+				onhover: false,
+				embeds:'true',
+		});
+</script>
+<!-- /story_share_bar_6.inc end -->
+						
+						<script type="text/javascript">
+						showTab("text/html");
+					</script></div><div class="clear">Â </div>
+		
+			<script type="text/javascript">
+				function resizeImage() {
+					var imgBox = document.getElementById('imageBox');
+					var photo = document.getElementById('storyphoto');
+
+					if (imgBox != null && photo != null)
+					{
+						if(photo.width >= 460) 
+						{
+							imgBox.className = 'imagesize460';
+						}
+						else 
+						{
+							if(photo.width >= 300) 
+							{
+								imgBox.className = 'imagesize310';
+							}
+							else 
+							{
+								imgBox.className = 'imageboxpadding';
+							}
+							imgBox.style.width = photo.width + 'px';
+						}
+					}
+				}
+				function getStoryFontSize() {
+					var storyfontsize = getCookie('storyfontsize');
+					var storyfontimage = getCookie('storyfontimage');
+
+					// use cookied value, if present
+					if (storyfontsize != null)
+					{
+						setClass('story_content',storyfontsize); 
+						if (storyfontimage != null)
+						{
+							setClass('fontsizecontainer',storyfontimage); 
+						}
+					}
+					else	// default it to para14 if no cookie
+					{
+						setClass('story_content','para14'); 
+						setClass('fontsizecontainer','size02');
+					}
+				}
+				function setStoryFontSize(storyfontsize,storyfontimage) {
+					setClass('story_content',storyfontsize); 
+					setClass('fontsizecontainer',storyfontimage);
+					setCookie('storyfontsize', storyfontsize, '365', '/', '', '');
+					setCookie('storyfontimage', storyfontimage, '365', '/', '', '');
+				}
+				function setCookie( name, value, expires, path, domain, secure ) {
+					// set time
+					var today = new Date();
+					today.setTime( today.getTime() );
+
+					if ( expires )
+					{
+						expires = expires * 1000 * 60 * 60 * 24; //days
+					}
+					var expires_date = new Date( today.getTime() + (expires) );
+
+					document.cookie = name + "=" + escape( value ) +
+					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+					( ( path ) ? ";path=" + path : "" ) + 
+					( ( domain ) ? ";domain=" + domain : "" ) +
+					( ( secure ) ? ";secure" : "" );
+				}
+				function getCookie( check_name ) {
+					// split this cookie up into name/value pairs
+					var a_all_cookies = document.cookie.split( ';' );
+					var a_temp_cookie = '';
+					var cookie_name = '';
+					var cookie_value = '';
+					var b_cookie_found = false; // set boolean t/f default f
+					
+					for ( i = 0; i < a_all_cookies.length; i++ )
+					{
+						// split apart each name=value pair
+						a_temp_cookie = a_all_cookies[i].split( '=' );
+						
+						// and trim left/right whitespace while we're at it
+						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+					
+						// if the extracted name matches passed check_name
+						if ( cookie_name == check_name )
+						{
+							b_cookie_found = true;
+							// we need to handle case where cookie has no value but exists (no = sign, that is):
+							if ( a_temp_cookie.length > 1 )
+							{
+								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+							}
+							// note that in cases where cookie is initialized but no value, null is returned
+							return cookie_value;
+							break;
+						}
+						a_temp_cookie = null;
+						cookie_name = '';
+					}
+					if ( !b_cookie_found )
+					{
+						return null;
+					}
+				}				
+			</script>
+		
+	<div id="story_content"><div class="col_480"><div class="col_460"><div id="storycontent" class="para18"><div id="page1"><p>As premiers from around the country gather in Victoria to discuss health care, a new study from the University of B.C. finds that one in 10 Canadians can't afford their prescription medication.</p><p>According to the UBC researchers, two-thirds of the population pays for prescription drugs out-of-pocket, to the tune of $4.6 billion in 2010.</p><p>"I think for the vast majority of Canadians who have drug plans, almost all require them to pay at least a part of the cost of the prescription drugs they receive," UBC's Michael Law said. "So that puts prescription drugs on the table in terms of trading off."</p><p>He said this leads some people to decide the cost of the medication is more than they can afford. When people decide not to take their prescription drugs, it sets off the possibility they are putting themselves at further risk of illness, putting a potentially higher burden on the health care system.</p><p>The researchers found uninsured low-income people had a 35-per-cent chance of not paying for medications, compared with less than four per cent of high-income insured people.</p><p>"It's a small portion of the population, but it's an important one. It's the people who you'd most expect to be affected by cost," Law said.</p><p>Law said the best way to ensure people take prescribed drugs is to lower or eliminate the cost of them, a topic often avoided in the national discussion about medicare.</p><p>Among the other findings in the study, published in the Canadian Medical Association Journal, people in B.C. are the least likely to take prescribed drugs, at a rate of nearly one-in-five (17 per cent)</p><div class="copyright">Â© Copyright (c) The Vancouver Sun</div></div><div class="clear">Â </div><div class="rule_grey_solid">Â </div><div class="clear">Â </div><div class="story_tool_hr"><div class="story_tool"><ul class="bullet"><li class="email"><a href="javascript:EmailThis('','/story_emailthis.html');"><span>E-mail this Article</span></a></li><li class="print"><a href="javascript:openWindow('/story_print.html?id=6006453&amp;sponsor=','StoryPrint','scrollbars=yes,toolbar=yes,menubar=yes,resizable=yes,width=680,height=650');"><span>Print this Article</span></a></li><li class="share"><span class="st_sharethis">Share this Article</span></li></ul></div></div><div class="clear">Â </div><div class="rule_grey_solid">Â </div><div class="clear">Â </div></div></div></div><div class="col_160"><div class="wrapper_0_20_0_0"><div class="clear">Â </div>
+					 
+					   <!-- geo_location.inc -->
+<div name="geo_stories_around" id="geo_stories_around">
+	<div class="pop-top">
+		<a href="javascript:show_geo_stories();">
+			<img src="/images/heatmap/poptop.jpg" alt="Click here for the hottest stories being read by people in your neighbourhood and across the country." />
+		</a>
+	</div>
+	<div class="pop-bot">
+		<a href="javascript:geolb.mask(jQuery('body'),geolb.getHtmlLearn());">
+			<img src="/images/heatmap/popbot.jpg" alt="Click here for the hottest stories being read by people in your neighbourhood and across the country." />
+		</a>
+	</div>
+</div>
+<div class="story_v2_function"><div id="geo_stories_v2" class="story_v2"></div></div>
+<div id="location_refresh">Location refreshed</div>
+<script type="text/javascript">
+	var geoloc_service_domain = "app.canada.com";
+	var geoloc_postproxy_domain = window.location.hostname+"";
+	CDMScriptManager.load('/js/geo_location.js');
+</script>
+<!-- geo_location.inc -->
+					 
+					<div class="clear"></div><div class="clear">Â </div><div class="story_tool_vr"><div class="story_tool"><div class="section_title"><h3><span>Story Tools</span></h3></div><div class="clear">Â </div><ul class="bullet"><li class="email"><a href="javascript:EmailThis('','/story_emailthis.html');"><span>E-mail this Article</span></a></li><li class="print"><a href="javascript:openWindow('/story_print.html?id=6006453&amp;sponsor=','StoryPrint','toolbar=yes,menubar=yes,scrollbars=yes,resizable=yes,width=680,height=650');"><span>Print this Article</span></a></li><li id="liComment" class="comments"></li><script>jQuery('#liComment').hide();</script></ul><div class="clear">Â </div><div class="fontsize_label">Font:</div><ul id="fontsizecontainer" class="size01"><li><a href="javaScript:setStoryFontSize('para11','size00');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para12','size01');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para14','size02');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para16','size03');"><span>*</span></a></li><li><a href="javaScript:setStoryFontSize('para16C','size04');"><span>*</span></a></li></ul><script type="text/javascript">
+								// load up cookied story font size
+								getStoryFontSize();
+							</script><div class="clear">Â </div><div class="imagesize_label">Image:</div><ul id="imagesizecontainer" class="size01"><li><a href="javascript:setClass('imageBox','imagesize170'); setClass('imageizecontainer','size00');"><span>*</span></a></li><li><a href="javascript:setClass('imageBox','imagesize310'); setClass('imageizecontainer','size01');"><span>*</span></a></li><li><a href="javascript:setClass('imageBox','imagesize460'); setClass('imageizecontainer','size02');"><span>*</span></a></li><li><a href="javaScript:setClass('imageBox','imagesize460'); setClass('imageizecontainer','size02');"><span>*</span></a></li></ul></div></div><div class="clear">Â </div><div class="story_relatedstories"></div><div class="clear">Â </div><div class="sister_publication_links"></div><div class="clear">Â </div><div class="sister_publication_links"><div id="syndication0">
+<!-- legoctl: ctl08$ctl01 --><!-- CACHE MISS: syndication0 -->
+<!-- Source="/scripts/Sp6Related.aspx?id=6006453&source=inform" --></div>
+</div><div class="clear">Â </div></div></div></div><div class="col_620"><div id="soundoff"><a name="Comments">Â </a><pas:newspaper1_pluck_comments plckRefreshPage="false" plckCommentOnKeyType="article" plckCommentOnKey="SP6:6006453" plckDiscoverySection="VASN_health" plckArticleTitle="One in 10 can't afford prescriptions" plckDiscoverCategories="Health and Fitness,Health Care Issues,Medical Drug Therapy,Medical Treatments and Procedures,Paying for Health Care,Prescription Drugs" plckSort="TimeStampDescending" plckAnonymousPostingAllowed="false" plckPersonaDisabled="true" plckCommentSubmitDisabled="true" xmlns:pas="http://pluck.vancouversun.com/2009/pluckApplicationServer"></pas:newspaper1_pluck_comments></div></div><script>
+								jQuery('#soundoff').addClass('hideCommentForm');
+							</script></div><div class="clear" xmlns:fb="urn:facebook.com:fb">Â </div><hr id="EoS" style="visibility:hidden" xmlns:fb="urn:facebook.com:fb"></div>
+
+	<!-- /includes/video_beacon.inc -->
+<script type="text/javascript">
+		var playingAd;
+		document.write("<img id='vid1' height='1' width='1'>");
+		function videoScore(evt){
+			playingAd=evt.data.isAd;
+			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=10276888&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
+		}
+		if (typeof tpController != 'undefined') {
+ 		   tpController.addEventListener("OnMediaStart", "videoScore");
+		}
+	</script>
+<!-- /includes/video_beacon.inc -->
+
+
+</div>
+<!-- col_640 ends -->
+<div class="col_300">
+	<div id="relatedtopics">
+		
+<div id="ctl09_relatedtopics">
+	<div class="section_title">
+		<h3><span>Related Topics</span></h3>
+	</div>
+	<!-- title_section ends -->
+	<div class="clear">&nbsp;</div>
+	<ul id="ctl09_ulTopicResults" class="bullet">
+	<li><a href="/health/topic.html?t=Organization&q=University+of+British+Columbia"><span>University of British Columbia</span></a></li><li><a href="/health/topic.html?t=Topic&q=Health+and+Fitness"><span>Health and Fitness</span></a></li><li><a href="/health/topic.html?t=Topic&q=Health+Care+Issues"><span>Health Care Issues</span></a></li></ul>
+</div>
+
+
+	</div>
+	<!-- relatedtopics ends -->
+	<div class="clear">&nbsp;</div>
+	<div class="bigboxwrapper">
+		<!-- /bigboxad.inc -->
+	
+	<div style="text-align:center;" class="bboxContainer">
+		<div id="dartad10">
+<!-- legoctl: ctl10 --><!-- NO CACHE: dartad10 -->
+
+                        <script type="text/javascript">
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vs_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=35682926?"; // script ad code with adcookie, used for debug
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vs_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=35682926?"><\/script>');
+                        </script>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
+                        {
+                            surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        <noscript>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/vs_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;ord=35682926?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/vs_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;ord=35682926?" /></a>
+                </noscript>
+</div>
+
+	</div>
+
+<!-- /bigboxad.inc -->
+	</div>
+	<!-- bigboxwrapper ends -->
+	<div class="clear">&nbsp;</div>
+    
+	<div class="clear">&nbsp;</div>
+	
+	<div class="clear">&nbsp;</div>
+	<!--/mostpopular.inc -->
+
+ <div class="tabbox_300">
+    <div class="top">
+      <div class="section_title">
+        <h3><span>Most Popular News</span></h3>
+      </div>
+      <!-- section title ends -->
+    </div>
+    <!-- top ends -->
+    <div class="center">
+		
+		<div id="mostpopular" class="tab_id_01">
+					<div class="textheadlines">
+						<div class="sectiontab">
+							<ul class="tab">
+								<li class="tab01"><a href="javascript:setClass('mostpopular','tab_id_01');"><span>Most Read</span></a></li>
+								<li class="tab02"><a href="javascript:setClass('mostpopular','tab_id_02');"><span>E-mailed</span></a></li>
+								<li class="tab03"><a href="javascript:setClass('mostpopular','tab_id_03');"><span>Commented </span></a></li>
+							</ul>
+							<!-- tab ends -->
+						</div>
+						<!-- sectiontab ends -->
+						<div class="clear">&nbsp;</div>
+						<div class="content content_01">
+							<div id="syndication11">
+<!-- legoctl: ctl11 --><!-- CACHE HIT: syndication11 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
+  <li>
+    <a href="/Sidney+Crosby+doomsday+clock+resumes+ticking/6004695/story.html">
+      <span>Sidney Crosbyâs NHL doomsday clock resumes ticking</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Petra+Kvitova+recovers+advance+Australian+Open/6005061/story.html">
+      <span>Petra Kvitova recovers to advance at Australian Open</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Canucks+Kesler+happy+with+coach+Vigneault+critique+game/6004583/story.html">
+      <span>Canucksâ Kesler not happy with coach Vigneault's critique of his game</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Snow+flurries+cold+weather+continue+across+Metro+Vancouver/5997062/story.html">
+      <span>Snow flurries and cold weather set to continue across Metro Vancouver</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Ducks+catch+rival+Canucks+fowl+night/6000466/story.html">
+      <span>Ducks catch rival Canucks on a 'fowl' night</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Sarah+Burke+improving+still+critical+sedated+days+after+crash/6004387/story.html">
+      <span>Sarah Burke not improving, still critical, sedated days after ski crash</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="/most-popular-articles.html">
+    <span>more</span>
+  </a> Â»
+			<a class="rss" href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.vancouversun.com%2Fhealth%2FInspectors%2Bcriticize%2Bplan%2Bcancel%2Bfood%2Bsafety%2Binitiatives%2F6002555%2Fstory.html&amp;h=TAQENOF-hAQEthj1NQr1mu2qYy3dGB4WzQjG_L0hFx37JnA"><span>RSS</span></a></div></div>
+
+						</div>
+						<!-- content ends -->
+						<div class="content content_02">
+							<div id="syndication12">
+<!-- legoctl: ctl12 --><!-- CACHE HIT: syndication12 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=email" --><ul class="bullet">
+  <li>
+    <a href="/Deepak+Chopra+yoga+centre+opens+Vancouver/6000127/story.html">
+      <span>Deepak Chopra yoga centre opens in Vancouver</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Soccer+jailed+siphoning+more+than+from+Richmond+youth/6003505/story.html">
+      <span>Soccer mom jailed for siphoning more than $200,000 from Richmond youth</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Snow+flurries+cold+weather+continue+across+Metro+Vancouver/5997062/story.html">
+      <span>Snow flurries and cold weather set to continue across Metro Vancouver</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Sarah+Burke+improving+still+critical+sedated+days+after+crash/6004387/story.html">
+      <span>Sarah Burke not improving, still critical, sedated days after ski crash</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Most+stressful+jobs+2012/6002375/story.html">
+      <span>Most stressful jobs of 2012</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Conceal+baby+Asian+abortion+trend+CMAJ+editorial/6003046/story.html">
+      <span>Conceal baby's sex due to Asian abortion trend: CMAJ editorial</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="/most-popular-articles.html">
+    <span>more</span>
+  </a> Â»
+			<a class="rss" href="http://www.vancouversun.com/travel/Whistler+Arts/6006458/story.html?id=6006458"><span>RSS</span></a></div></div>
+
+						</div>
+						<!-- content ends -->
+						<div class="content content_03">
+							<!-- cwi:syndication source="/scripts/mostpopular.aspx?stattype=comment&TimeRestriction=24" template="MostPopular" MoreViewer="/most-popular-articles.html" MoreTitle="more" StartAtDoc="1" maxdocs="6" / -->
+							<div id="mostCommented"></div>
+							<script>setMostCommented("mostCommented", 6, 15);</script>
+						</div>
+						<!-- content ends -->
+					</div>
+					<!-- textheadlines ends -->
+				</div>
+				<!-- mostpopular ends -->
+				<div class="clear">&nbsp;</div>
+				<!--/sponsor_hr.inc -->
+
+				<div class="sponsor_hr">
+					<div class="sponsor">
+						<div class="label">
+							<span>Sponsored By</span>
+						</div>
+						<div class="logo">
+							<!-- cwi:dartad Loc="sponsor,top" sz="80x30" / -->
+						</div>
+					</div>
+					<!-- sponsor ends-->
+				</div>
+				<!-- sponsor_hr ends-->
+
+<!--/sponsor_hr.inc -->
+    	</div>
+    	<!-- center ends -->
+	<div class="clear">&nbsp;</div>
+    <div class="bottom">&nbsp;</div>
+    <!-- bottom ends -->
+  </div>
+  <!-- tabbox_300 ends -->
+
+<!--/mostpopular.inc -->
+	<div class="clear">&nbsp;</div>
+	<!--/includes/breaking_news_alert.inc -->
+
+    <div id="newsalert">
+      <div class="section_title">
+        <h3><span>Breaking News Alerts</span></h3>
+      </div>
+      <!-- section_title ends -->
+      <div class="clear">&nbsp;</div>
+      <div class="alerttype"> <span>Sign up to receive e-mail alerts on breaking news from The Vancouver Sun.</span> </div>
+      <div class="clear">&nbsp;</div>
+      <form name="vancouvernewsalertsubscribeform" method="POST" action="http://members.canada.com/scripts/subscribe.aspx">
+        <input type="hidden" name="returnurl" value="http://www.vancouversun.com/about-vancouver-sun/thankyou.html">
+        <input type="hidden" name="errorurl" value="http://www.vancouversun.com/about-vancouver-sun/error.html">
+        <input type="hidden" name="newsletter" value="breakingnewsalert-vancouver">
+        <input name="email" type="text" class="input_alert" value="you@canada.com">
+        <div class="col_80">
+          <div class="submitbutton"> <a href="Javascript:void(1);" onclick="Javascript:document.vancouvernewsalertsubscribeform.submit();"><span>Submit</span></a> </div>
+          <!-- submitbutton ends -->
+        </div>
+        <!-- col_80 ends-->
+      </form>
+      <div class="clear">&nbsp;</div>
+      <ul class="bullet">
+        <li> <a href="http://www.canada.com/aboutus/privacy.html" target="_blank"><span>Our Privacy Statement</span></a> </li>
+      </ul>
+    </div>
+    <!-- newsalert ends -->
+    
+<!--/includes/breaking_news_alert.inc -->
+
+	<div class="clear">&nbsp;</div>
+	<!--/health/storycontent.inc -->
+
+	<script src="/js/ooyala/pmPlayer.js?c034" type="text/javascript">
+</script>
+<div class="ooyalavideo" id="9iNmRkMjrWOUZ-9hzDBV2TWeBRvDKGtJ">
+  <div class="ooyalavideo300">
+    <div id="player2videogallery">
+      <div class="line paddingB10px">
+        <div class="tabs marginB10px">
+          <div id="R0ODdkMjqWI788TuOg7TAHvHmu_nHD92" class="selected">Diet and Fitness</div>
+          <div id="R4OTdkMjrnvUMLD95LVr_pwaLggL8Xue" class="divider">Child and Teen</div>
+          <div id="BqcTl2Mjq9iNdDKb5D8DixuYDiicqDdw">Chronic Pain Series</div>
+        </div>
+        <div class="playerContent">
+          <div id="player2Div" class="playerMain">
+            <script type="text/javascript">
+                        document.write('<script language="JavaScript1.1" src="http://player.ooyala.com/player.js?wmode=transparent&playerContainerId=player2Div&callback=pmplayer2.PlayerCallbackEvent&playerId=player2&width=300&height=226&embedCode=R0ODdkMjqWI788TuOg7TAHvHmu_nHD92&'+pmAd.get()+'" ><\/script>');
+                    </script>
+          </div>
+          <div class="vidInfo hidden">
+            <div class="title">
+            </div>
+            <div class="description">
+            </div>
+          </div>
+          <div class="paginator">
+          </div>
+          <div class="playList">
+            <div class="playListContent">
+            </div>
+          </div>
+        </div>
+        <div class="mask">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+        	var pmplayer2;
+        	pmplayer2 = new ooYala.PMPlayer('player2', 'player2Div', 'pmplayer2', 'R0ODdkMjqWI788TuOg7TAHvHmu_nHD92', '300','226', "90x60", 4, true, true);
+                           pmplayer2.Init();
+                            
+                          	pmplayer2.SetUpTabs();
+                            </script>
+
+<!--/health/storycontent.inc -->
+
+	<div class="clear">&nbsp;</div>
+	<div id="bigboxwrapperlower" class="bigboxwrapper">
+		<!-- /bigboxadlower.inc -->
+
+	<div id="bigboxlower" style="text-align:center;" class="bboxContainer">
+		<div id="dartad14">
+<!-- legoctl: ctl14 --><!-- NO CACHE: dartad14 -->
+
+                        <script type="text/javascript">
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vs_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=35682926?"; // script ad code with adcookie, used for debug
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vs_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=35682926?"><\/script>');
+                        </script>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
+                        {
+                            surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        <noscript>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/vs_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;ord=35682926?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/vs_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vs;ck=health;page=story;kw=vs;ord=35682926?" /></a>
+                </noscript>
+</div>
+
+	</div>
+
+<!-- /bigboxadlower.inc -->
+	</div>
+	<!-- bigboxwrapper ends -->
+	<div class="clear">&nbsp;</div> 
+	
+	<div class="clear">&nbsp;</div>
+</div>
+<!-- col_300 ends -->
+<div class="clear">&nbsp;</div>
+<!-- /health/googlestoryad.inc -->
+
+			<script language="javascript">
+				<!--
+				 google_ad_client   = 'ca-pub-1718995873402338';
+				 google_ad_output   = 'js';
+				 google_max_num_ads = '3';
+				 google_hints       = 'health';
+				 google_safe        = 'high';
+				 google_kw_color    = '#E2A9A9';
+				 google_ad_channel  = 'vancouver-sun-health-story';
+				 google_adtest = 'off';
+				 google_feedback = 'on';
+				// -->
+			</script>
+			<script language="javascript">
+			<!--
+				function google_ad_request_done(google_ads) {
+					document.write('<div class="googleadwrapper">');
+					document.write('<div class="box_e5e5e5">');
+					document.write('<div class="box_content">');
+					document.write('<div class="section_title_no_line">');
+					document.write('<h3>');
+					document.write('<a href="' + google_info.feedback_url + '" target="_blank"><span>Ads by Google</span></a>');
+					document.write('</h3>');
+					document.write('</div>');
+					document.write('<div class="clear">&nbsp;</div>');
+  					var i;
+ 					// Display each ad in turn
+					for(i = 0; i < google_ads.length; ++i) {
+						document.write('<div class="col_300">');
+						document.write('<div class="wrapper_10_10_10_10">');
+						document.write('<a target="_blank" class="toplink" href="' + google_ads[i].url +'"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">');
+						document.write('<b>' + google_ads[i].line1 + '</b></a>');
+						document.write('<div class="clear">&nbsp;</div>');
+						document.write(google_ads[i].line2);
+						document.write('<div class="clear">&nbsp;</div>');
+						document.write(google_ads[i].line3);
+						document.write('<div class="clear">&nbsp;</div>');
+						document.write('<a target="_blank" href="' + google_ads[i].url + '"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">' + google_ads[i].visible_url + '</a>');
+						document.write('</div>');
+						document.write('</div>');
+					}
+					document.write('</div>');
+					document.write('</div>');
+					document.write('</div>');
+				}
+			// -->
+			</script>
+			<script language="javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+<!-- /health/googlestoryad.inc -->
+<div class="clear">&nbsp;</div>
+<!-- /footerfeature.inc -->
+
+<div id="footerfeature" class="footerfeature">
+	<div class="footer_title">
+		<span class="start_quote">&nbsp;</span>
+		<span class="title">Inside The Vancouver Sun</span>
+		<span class="end_quote">&nbsp;</span>
+	</div>
+    <!-- footer_title ends -->
+	<div class="clear">&nbsp;</div>
+		 <div id="syndication15">
+<!-- legoctl: ctl15 --><!-- CACHE HIT: syndication15 -->
+<!-- Source="/Scripts/Aggregate.aspx?source=950769.atom,4&source=969791.atom,6" --><script>
+			   CDMScriptManager.load("/js/slider.js");
+			</script>
+<div class="col_67" style="position:relative;" id="FooterFeature_2_LeftNav">
+  <div class="nav" id="FooterFeature_2_LeftNavChild">
+    <a href="javascript: void(0)" id="FooterFeature_2_LeftNavButton">
+      <img style="position:relative;left:0px;top:0px;" alt="" title="" src="http://www.ottawacitizen.com/images/left_arrow_normal.gif" class="" onmouseover="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_hover.gif&quot;;" onmouseout="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_normal.gif&quot;;" onmousedown="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_active.gif&quot;;this.style.top='1px';this.style.left='1px';" onmouseup="javascript:this.src=&quot;http://www.ottawacitizen.com/images/left_arrow_normal.gif&quot;;this.style.top='0px';this.style.left='0px';">
+    </a>
+  </div>
+</div>
+<div class="contentwrapper" style="overflow:hidden;position:relative;float:left;" id="FooterFeature_2_Window">
+  <div style="position:relative;" id="FooterFeature_2_Content">
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_0">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="Updated+Photos+Deadly+Italian+cruise+ship+accident/5999111/story.html">
+                    <img border="0" src="6007409.bin?size=140x95" alt="Rescuers place explosive charges on the emerged side of the cruise liner Costa Concordia prior to entering on January 17, 2012. The Costa Concordia grounded in front of the harbour of Isola del Giglio after hitting underwater rocks on January 13. Rescuers searched for 29 people still unaccounted for from the wreck of a luxury liner off the coast as the arrested captain faced a hearing with investigators." title="Rescuers place explosive charges on the emerged side of the cruise liner Costa Concordia prior to entering on January 17, 2012. The Costa Concordia grounded in front of the harbour of Isola del Giglio after hitting underwater rocks on January 13. Rescuers searched for 29 people still unaccounted for from the wreck of a luxury liner off the coast as the arrested captain faced a hearing with investigators.">
+                  </a>
+                </div>
+                <h1>
+                  <a href="Updated+Photos+Deadly+Italian+cruise+ship+accident/5999111/story.html">
+                    <span>
+                      <span>Updated Photos: Deadly Italian cruise ship accident</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_1">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://www.vancouversun.com/life/fashion-beauty/fashion/6000409/story.html?tab=PHOT">
+                    <img border="0" src="6001967.bin?size=140x95" alt="The verdict from the Golden Globes red carpet Sunday, according to Gazette Style Editor Eva Friede? Glee's Dianna Agron in red, with a laser-cut bodice of swans, and shredded skirt. Ouch." title="The verdict from the Golden Globes red carpet Sunday, according to Gazette Style Editor Eva Friede? Glee's Dianna Agron in red, with a laser-cut bodice of swans, and shredded skirt. Ouch.">
+                  </a>
+                </div>
+                <h1>
+                  <a href="http://www.vancouversun.com/life/fashion-beauty/fashion/6000409/story.html?tab=PHOT">
+                    <span>
+                      <span>Photos: Fashion stars of the Golden Globes</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_2">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="http://www.vancouversun.com/news/pensions/photos+how+not+to+retire/6004597/story.html">
+                    <img border="0" src="1991895.bin?size=140x95" alt="creditcards_reu.jpg" title="creditcards_reu.jpg">
+                  </a>
+                </div>
+                <h1>
+                  <a href="http://www.vancouversun.com/news/pensions/photos+how+not+to+retire/6004597/story.html">
+                    <span>
+                      <span>Photos: 10 worst spending habits if you want to retire early</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_3">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="Photos+Does+Golden+Globe+award+best+actress+predict+Oscar+winner/6004596/story.html">
+                    <img border="0" src="6004628.bin?size=140x95" alt="Women awards" title="Women awards">
+                  </a>
+                </div>
+                <h1>
+                  <a href="Photos+Does+Golden+Globe+award+best+actress+predict+Oscar+winner/6004596/story.html">
+                    <span>
+                      <span>Photos: Does the Golden Globe award for best actress predict the Oscar winner?</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_4">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/world/story.html?id=6007749">
+                    <img border="0" src="6007770.bin?size=140x95" alt="Francesco Schettino" title="Francesco Schettino">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/news/world/story.html?id=6007749">
+                    <span>
+                      <span>'Get back on board,' captain ordered</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_5">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/story.html?id=6004353">
+                    <img border="0" src="6004365.bin?size=140x95" alt="Diamond Jubilee stamp" title="Diamond Jubilee stamp">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/news/story.html?id=6004353">
+                    <span>
+                      <span>Gallery: Canadian stamps honour Queen</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_6">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/entertainment/Stephen+Colbert+mocks+politics/6002604/story.html">
+                    <img border="0" src="6002611.bin?size=140x95" alt="TV Personality Stephen Colbert attends IAVA's Fifth Annual Heroes Gala at Cipriani 42nd Street on November 9, 2011 in New York City." title="TV Personality Stephen Colbert attends IAVA's Fifth Annual Heroes Gala at Cipriani 42nd Street on November 9, 2011 in New York City.">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/entertainment/Stephen+Colbert+mocks+politics/6002604/story.html">
+                    <span>
+                      <span>Stephen Colbert for president?</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_7">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/life/fashion-beauty/story.html?id=6002304">
+                    <img border="0" src="6002319.bin?size=140x95" alt="Angelina Jolie" title="Angelina Jolie">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/life/fashion-beauty/story.html?id=6002304">
+                    <span>
+                      <span>Golden age at the Globes</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_8">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/travel/mustard+museum+Only+Wisconsin/5939413/story.html">
+                    <img border="0" src="5991958.bin?size=140x95" alt="Mustard Museum's Barry Levenson says, &quot;Welcome to my midlife crisis.&quot;" title="Mustard Museum's Barry Levenson says, &quot;Welcome to my midlife crisis.&quot;">
+                  </a>
+                </div>
+                <h1>
+                  <a href="/travel/mustard+museum+Only+Wisconsin/5939413/story.html">
+                    <span>
+                      <span>Man's massive mustard museum</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_9">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear">Â </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="Hello+Lindsay+Lohan/5976386/story.html">
+                    <img border="0" src="5924246.bin?size=140x95" alt="Actress Lindsay Lohan is shown in a photo from the January/February 2012 issue of Playboy Magazine." title="Actress Lindsay Lohan is shown in a photo from the January/February 2012 issue of Playboy Magazine.">
+                  </a>
+                </div>
+                <h1>
+                  <a href="Hello+Lindsay+Lohan/5976386/story.html">
+                    <span>
+                      <span>Hello, Lindsay Lohan ... itâs the tax man</span>
+                    </span>
+                  </a>
+                </h1>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="col_67" style="position:relative;" id="FooterFeature_2_RightNav">
+  <div class="nav" id="FooterFeature_2_RightNavChild">
+    <a href="javascript: void(0)" id="FooterFeature_2_RightNavButton">
+      <img style="position:relative;left:0px;top:0px;" alt="" title="" src="http://www.ottawacitizen.com/images/right_arrow_normal.gif" class="" onmouseover="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_hover.gif&quot;;" onmouseout="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_normal.gif&quot;;" onmousedown="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_active.gif&quot;;this.style.top='1px';this.style.left='1px';" onmouseup="javascript:this.src=&quot;http://www.ottawacitizen.com/images/right_arrow_normal.gif&quot;;this.style.top='0px';this.style.left='0px';">
+    </a>
+  </div>
+</div>
+<script language="javascript">
+
+		var FooterFeature_2_Object = null;
+                jQuery(function() {
+			FooterFeature_2_Object = new MultiSlider2('FooterFeature_2_Window', 'FooterFeature_2_Content', 'FooterFeature_2_Entry', 10, 5, 1500, 5);
+
+			jQuery('#FooterFeature_2_LeftNavButton').click(function() { FooterFeature_2_Object.slideLeft('FooterFeature_2_Object');}) ;
+			jQuery('#FooterFeature_2_RightNavButton').click(function() { FooterFeature_2_Object.slideRight('FooterFeature_2_Object');}) ;
+		});
+	    </script></div>
+
+		 <div class="clear">&nbsp;</div>
+</div>
+
+<!-- /footerfeature.inc -->
+<div class="clear">&nbsp;</div>
+<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cCzF5auuSr35fradbiUt4I&s=132"></script>
+
+					
+				</div>
+				<!-- bodywrapper ends -->
+			</div>
+			<!-- contentbody ends -->
+			<div class="clear">&nbsp;</div>
+			<div class="footer">
+				<!-- /footer.inc -->
+
+	<div class="clear">&nbsp;</div>
+	<div id="footer">
+		<div class="footer_top">
+			<ul class="footer_list_top">
+				<li><a href="/index.html"><span>Home</span></a></li>
+				<li><a href="/news/index.html"><span>News</span></a></li>
+				<li><a href="/opinion/index.html"><span>Opinion</span></a></li>
+				<li><a href="/business/index.html"><span>Business</span></a></li>
+				<li><a href="/sports/index.html"><span>Sports</span></a></li>
+				<li><a href="/entertainment/index.html"><span>Entertainment</span></a></li>
+				<li><a href="/life/index.html"><span>Life</span></a></li>
+				<li><a href="/health/index.html"><span>Health</span></a></li>
+				<li><a href="/technology/index.html"><span>Technology</span></a></li>
+				<li><a href="/travel/index.html"><span>Travel</span></a></li>
+				<li class="footerclassifieds"><a href="/jobs/index.html"><span>Jobs</span></a></li>
+				<li class="footerclassifieds"><a href="/cars/index.html"><span>Cars</span></a></li>
+				<li class="footerclassifieds"><a href="http://www.househunting.ca/vancouversun"><span>Homes</span></a></li>
+				<li class="footerclassifieds"><a href="http://vancouversun.oodle.com/"><span>Classifieds</span></a></li>
+			</ul>
+		</div>
+		<!-- footer_top ends -->
+		<div class="clear">&nbsp;</div>
+		<div class="wrapper_0_10_0_10">
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Don't Miss</span></h3></div></li>
+					</ul>
+					<div id="syndication16">
+<!-- legoctl: ctl16 --><!-- CACHE HIT: syndication16 -->
+<!-- Source="828008.atom" --><ul class="bullet">
+  <li>
+    <a href="http://taiyangbao.ca">
+      <span>Chinese News</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/pensions/index.html">
+      <span>Pensions</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/2012sunrun/index.html">
+      <span>Sun Run</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/special-series/index.html">
+      <span>Sun at 100</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/sports/skiguide/index.html">
+      <span>Ski Guide</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vansunkidsfund.ca/">
+      <span>Adopt-a-school</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/studentvideos/index.html">
+      <span>Student videos</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/vancouver-125/index.html">
+      <span>Van 125</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/estore/index.html">
+      <span>eStore</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/news/todays-paper/index.html">
+      <span>Today's Paper</span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.vancouversun.com/videos/video.html">
+      <span>Video</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="">
+    <span></span>
+  </a> Â»
+			<a class="rss" href="http://www.vancouversun.com/828008.ATOM"><span>RSS</span></a></div></div>
+
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Most Popular</span></h3></div></li>
+					</ul>
+					<div id="syndication17">
+<!-- legoctl: ctl17 --><!-- CACHE HIT: syndication17 -->
+<!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
+  <li>
+    <a href="Sidney+Crosby+doomsday+clock+resumes+ticking/6004695/story.html">
+      <span>Sidney Crosbyâs NHL doomsday clock resumes ticking</span>
+    </a>
+  </li>
+  <li>
+    <a href="Petra+Kvitova+recovers+advance+Australian+Open/6005061/story.html">
+      <span>Petra Kvitova recovers to advance at Australian Open</span>
+    </a>
+  </li>
+  <li>
+    <a href="Canucks+Kesler+happy+with+coach+Vigneault+critique+game/6004583/story.html">
+      <span>Canucksâ Kesler not happy with coach Vigneault's critique of his game</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">Â </div>
+<div class="morelinks">
+  <a href="/news/most-popular-articles.html">
+    <span></span>
+  </a> Â»
+			<a class="rss" href="http://www.vancouversun.com/sports/Brian+Ching+changes+mind+joins+Impact+training+camp/6004465/story.html?id=6004465"><span>RSS</span></a></div></div>
+
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Formats</span></h3></div></li>
+						<li><a href="/about-vancouver-sun/sitemap.html"><span>Sitemap / RSS</span></a></li>
+						<li><a href="http://vancouversun.com/contests/"><span>Contests</span></a></li>
+						<li><a href="/opinion/blogs/index.html"><span>Blogs</span></a></li>
+						<li><a href="/columnists/index.html"><span>Columnists</span></a></li>
+						<li><a href="/news/photos/index.html"><span>Photo Galleries</span></a></li>
+						<li><a href="/news/videos/index.html"><span>Videos</span></a></li>
+						<li><a href="/mobile-site/"><span>Mobile</span></a></li>
+						<li><a href="http://itunes.apple.com/ca/app/the-vancouver-sun/id406561903?mt=8" target="_blank"><span>iPad App</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_160">
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><div class="section_title"><h3><span>Vancouver Sun</span></h3></div></li>
+						<li><a href="/about-vancouver-sun/aboutus.html"><span>About Us</span></a></li>
+						<li><a href="/about-vancouver-sun/contactus.html"><span>Contact Us</span></a></li>
+						<li><a href="http://jobs.vancouversun.com/jobs/results/keyword/postmedia/vancouver-british+columbia-canada?radius=150"><span>Work for Us</span></a></li>
+						<li><a href="/about-vancouver-sun/advertising.html"><span>Advertise with Us</span></a></li>
+						<li><a href="https://members.canada.com/rss/newsubscription.aspx?site=cc&provider=canada&brand=vancouversun"><span>Subscribe to the Print Edition</span></a></li>
+						<li><a href="http://www.canada.com/vancouversun/info/survey/index.html"><span>Rate Our Delivery Service and WIN</span></a></li>
+						<li><a href="http://www.canada.com/vancouversun/features/nie/teachers_resources.html"><span>Newspaper in Education</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_160 ends -->
+			<div class="col_300">
+				<ul class="footer_list_middle">
+					<li><div class="section_title"><h3><span>Tools</span></h3></div></li>
+					<li>
+						<div class="formsearchbar">
+							<form name="searchform" onSubmit="footerSearch();return false;">
+								<input type="text" id="f" name="f" maxlength="1024" onclick="this.value='';" onblur="this.value=!this.value?'Search vancouversun.com...':this.value;" value="Search vancouversun.com..." />
+								<div class="formbutton">
+									<a class="" href="Javascript:void(1);" onClick="footerSearch();"><span>Search</span></a>
+								</div>
+							</form>
+							<!-- formbutton ends -->
+						</div>
+						<!-- formsearchbar ends -->
+					</li>
+				</ul>
+				<div class="clear">&nbsp;</div>
+				<div class="col_160">
+					<div class="col_140">
+						<ul class="footer_list_middle">
+							<li><a href="http://www.working.com/vancouversun/index.html"><span>Search for a Job</span></a></li>
+							<li><a href="http://www.driving.ca/vancouversun/index.html"><span>Buy/Sell a Car</span></a></li>
+							<li><a href="http://www.househunting.ca/vancouversun/sale-and-rent/index.html"><span>Real Estate Listings</span></a></li>
+							<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn?_SWCATID=10149607&_TRK=061" target="_blank"><span>SwarmJam Sweet Deals</span></a></li>
+						</ul>
+					</div>
+					<!-- col_140 ends -->
+				</div>
+				<!-- col_160 ends -->
+				<div class="col_140">
+					<ul class="footer_list_middle">
+						<li><a href="http://classifieds.canada.com/vancouversun/placead/placead_index.html"><span>Place a Classified Ad</span></a></li>
+						<li><a href="/news/email-alerts.html"><span>E-mail Alerts</span></a></li>
+											<li><a href="http://www.flyercity.ca/?p=vancouversun"><span>Flyercity.ca</span></a></li>
+												<li><a href="http://taiyangbao.ca"><span>TaiYangBao.ca</span></a></li>
+					</ul>
+				</div>
+				<!-- col_140 ends -->
+			</div>
+			<!-- col_300 ends -->
+		</div>
+		<!-- wrapper_0_10_0_10 ends -->
+		<div class="clear">&nbsp;</div>
+		<div class="rule">&nbsp;</div>
+		<div class="clear">&nbsp;</div>
+		<div class="footer_bottom">
+			<ul class="footer_list_bottom">
+				<li class="footer_canadacom no_background"><a href="http://www.canada.com"><span>canada.com Logo</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/index.html"><span>About canada.com</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/privacy.html"><span>Privacy Statement</span></a></li>
+				<li><a href="http://www.canada.com/aboutus/termsofservice.html"><span>Terms</span></a></li>
+				<li class="no_background"><a href="http://www.canada.com/aboutus/copyright.html"><span>Copyright &amp; Permissions</span></a></li>
+				<li class="footer_copyright no_background">
+					&copy; 2008 - 2011 Postmedia Network Inc. All rights reserved.
+					<div class="clear">&nbsp;</div>
+					Unauthorized distribution, transmission or republication strictly prohibited.
+				</li>
+			</ul>
+		</div>
+		<!-- footer_bottom ends -->
+	</div>
+	<!-- footer ends -->
+	<div class="clear">&nbsp;</div>
+	<script language="javascript">
+		function footerSearch() {
+			var q = document.getElementById("f").value.replace(/ /g,"+");
+			if (q.length == 0) {
+				alert("Please enter your search criteria");
+				return;
+			}
+			var dname = document.domain; 
+			if ( dname=="driving.ca") {
+				document.location.href="http://www.driving.ca/vancouversun/search/search.html?q=" + escape(q);
+				}
+			else {
+				document.location.href="/search/search.html?q=" + escape(q);
+			}
+		}
+	</script>
+	<script language="javascript">
+		document.getElementById("f").value = document.getElementById("q").value;
+	</script>
+	<!-- publishflow -->
+	<script type='text/javascript'>
+		var _sf_async_config={uid:2832,domain:'vancouversun.com'};
+		(function(){
+			function loadPublishflow() {
+				window._sf_endpt=(new Date()).getTime();
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src',(('https:' == document.location.protocol) ? 
+										'https://s3.amazonaws.com/' : 'http://s3.amazonaws.com/') + 'publishflow/javascript/data.js');
+				document.body.appendChild(e);
+			}
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != 'function') ?
+										loadPublishflow : 
+										function() { 
+											oldonload();
+											loadPublishflow();
+										};
+		})();
+	</script>
+	<!-- end publishflow -->
+
+<!-- /footer.inc -->
+
+			</div>
+			<!-- footer ends -->
+
+		</div>
+		<!-- pagewrapper ends -->
+	</div>
+	<!-- page ends -->
+<form name="frmPage" method="post" action="story.html" id="frmPage">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTEzNDI5MTg1N2RkxzSks6aG42M+G3jidb+0wXygyhA=" />
+</form>
+                        <!-- SiteCatalyst code version: H.17.
+                        Copyright 1997-2008 Omniture, Inc. More info available at
+                        http://www.omniture.com -->
+
+                        <script language='JavaScript' type='text/javascript' src='/js/account_s_code.js'></script>
+                        <script language='JavaScript' type='text/javascript' src='http://www.canada.com/js/global_canwest_s_code.js'></script>
+                        <script language='JavaScript' type='text/javascript' src='/js/local_s_code.js'></script>
+                
+                        <script language='JavaScript' type='text/javascript'>
+                        <!--
+                        /* You may give each page an identifying name, server, and channel on
+                        the next lines. */
+                        s.pageName='/health/story.html';
+                        s.server=window.location.hostname.toLowerCase();
+                        s.channel='health';
+                        s.pageType='';
+                        s.prop1='health';
+                        s.prop2='health';
+                        s.prop3='canwest';
+                        s.prop4='Non-Registered';
+                        s.prop5=s.prop4 + ': ' + s.pageName;
+                        s.prop6='Postmedia News/FREE';
+                        s.prop7='Postmedia News';
+                        s.prop8='6006453';
+                        s.prop9='';
+                        s.prop10='';
+                        s.prop11='';
+                        s.prop13='';
+                        s.prop23=document.title;
+                        s.prop24=s.prop8;
+                        s.prop25='story';
+                        s.prop26='health';            
+                        s.prop27='';  
+                        s.prop28=''; 
+                        s.prop29='';
+                        s.prop36='Canada & World'; 
+                        s.prop37='vs_bh.com'; 
+                        s.prop43='';
+                        s.prop44='';
+                        /* E-commerce Variables */
+                        
+                        s.events='';
+                        s.products='';
+                        s.purchaseID='';
+                        s.transactionID = s.purchaseID;
+                        
+                        /* s.prop48 for story only */
+                        s.prop48='Robert Hiltz, Postmedia News';
+                                      
+                        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+                        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+                        <script language='JavaScript' type='text/javascript'><!--
+                        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+                        //--></script><noscript><a href='http://www.omniture.com/' title='Web Analytics'>
+                        <img src='http://canwest.112.207.net/b/ss/canwestglobal,canvancouver/5/92656081?pageName=/health/story.html&g=http%3a%2f%2fwww.vancouversun.com%2fhealth%2fafford%2bprescriptions%2f6006453%2fstory.html%3fid%3d6006453&ch=health&sv=www.vancouversun.com&c1=health&c2=health&c7=Postmedia+News&c8=6006453&c23=One+in+10+can't+afford+prescriptions&c25=story&c26=health&c27=&c28=&c35=vancouver+sun&c41=canwestglobal,canvancouver' alt='' width='5' height='5' /></a></noscript><!--/DO NOT REMOVE/-->
+                        <!-- End SiteCatalyst code version: H.17. --></body>
+</html>
+<!-- WPGCCWEB48 47 -->
+

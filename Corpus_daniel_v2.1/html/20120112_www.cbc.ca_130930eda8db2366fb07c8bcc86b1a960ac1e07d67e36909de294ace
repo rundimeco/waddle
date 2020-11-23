@@ -1,0 +1,1531 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+
+
+<!-- value options: normal|major -->
+
+
+<!-- value options: <string> -->
+
+
+<!-- value options: <string> -->
+
+
+<!-- value options: <string> -->
+
+
+<!-- value options: </path/to/file> -->
+
+
+<!-- value options: </path/to/ept/file> -->
+
+
+<!-- value options: </path/to/ept/file> -->
+
+
+<!-- value option: </path/to/regional/file> -->
+
+
+<!-- value options: </path/to/file> -->
+
+
+<!-- value options: </path/to/file> -->
+
+
+<!-- value options: </path/to/file> | null -->
+
+
+<!-- value options: </path/to/file> -->
+
+
+<!-- value options: </path/to/file> | null-->
+
+
+<!-- value options: </path/to/file> | null-->
+
+
+<!-- value options: </path/to/file> | null -->
+
+
+<!-- value options: </path/to/file> | null-->
+
+
+<!-- value options: true|false -->
+
+
+<!-- value options: </path/to/css>|<empty> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta name="application-name" content="www.cbc.ca" />
+<meta name="msapplication-tooltip" content="CBC.ca is Canada's Online Information Source." />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+<meta name="msapplication-starturl" content="/" />
+<meta name="msapplication-window" content="width=1024;height=768" />
+<meta name="msapplication-task" content="name=CBC;action-uri=http://www.cbc.ca/;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=CBC News;action-uri=http://www.cbc.ca/news;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=CBC Sports;action-uri=http://www.cbc.ca/sports;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Watch CBC Television;action-uri=http://www.cbc.ca/video;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Listen to CBC Radio;action-uri=http://www.cbc.ca/video/#/Radio;icon-uri=/favicon.ico"/>
+
+    
+    <meta name="date" content="2012/01/11" />
+
+
+
+<script type="text/javascript" src="/g/i/global.js" id="yuiglobalnode"></script>
+<script type="text/javascript" src="/g/i/loader.js"></script>
+
+
+<link rel="stylesheet" href="/i/css/v11/scripts.css" type="text/css" media="screen" />
+
+	
+	
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Hospitals crammed in Saskatoon - Saskatchewan - CBC News</title>
+ 	<meta name="keywords" content="saskatoon hospital beds saskatchewan saskatoon health region" />
+ 	<meta name="description" content="Officials in Saskatoon say they have brought in extra staff and are assigning overtime hours in an effort to cope with what they are calling an unprecedented surge in hospital patients.
+
+" />
+	<meta name="robots" content="noarchive" />
+	
+	
+	
+	
+	<link rel="image_src" href="/gfx/images/news/topstories/2012/01/11/hi-st-pauls-hospital-saskat.jpg" />
+	<meta property="og:image" content="/gfx/images/news/topstories/2012/01/11/hi-st-pauls-hospital-saskat.jpg" />
+
+	<link rel="stylesheet" href="/i/news/v10/css/news.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/i/regional/v11/css/masthead.css" />
+	<link rel="stylesheet" href="/i/news/v10/css/storypage.css" type="text/css" media="screen" />
+	<!--[if IE 6]> 
+<style type="text/css">
+	#right {
+		display:inline;
+		margin:0px;
+	}
+
+	.third {
+		margin:0px;
+	}
+
+	#content #newsheadlines {
+		margin-right:5px;
+	}
+
+	#content #storybody {
+		margin-right:0px;
+		padding-right:0px;
+	}
+</style>
+<![endif]-->
+
+	<link rel="stylesheet" href="/i/news/v10/css/storypage-print.css" type="text/css" media="print" />
+	<script src="/includes/js/sst.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/emailer/js/story-email-form.js"></script>
+</head>
+<body>
+	<!-- ClickTale Top part -->
+	<script type="text/javascript">
+		var WRInitTime=(new Date()).getTime();
+	</script>
+	<!-- ClickTale end of Top part -->
+	<script type="text/javascript">
+		//<![CDATA[
+		var advertising_zone="canada";
+		var advertising_section="canada";
+		var advertising_category="saskatchewan";
+		//]]>
+	</script>
+	<script type="text/javascript" src="/g/stats/cbc_sitecatalyst.js"></script> 
+<script type="text/javascript" src="/g/stats/sccore.js"></script> 
+<script type="text/javascript" src="/g/stats/linktracker.js"></script> 
+	<script type="text/javascript">/* <![CDATA[ */ advertising_content_category = 'Canada'; /* ]]> */</script>
+<script type="text/javascript">/* <![CDATA[ */ advertising_content_category = 'Saskatchewan'; /* ]]> */</script>
+
+	<div id="shadow">
+		<div id="accessibilitylinks">
+	<h2>Accessibility Links</h2>
+	<ul>
+		<li><a href="#content" id="skipnav" title="skip to main content">Skip to main content</a></li>
+		
+		<li><a href="/accessibility/" title="skip to cbc accessibility page">Skip to CBC accessibility page</a></li>
+	</ul>
+</div>
+<div id="gnwrap">
+<div id="gnadww" class="clearfix">
+	<div id="gnweather">&nbsp;</div>
+	
+<div id="masthead-ad" class="ad-728x90">
+	<script type="text/javascript" src="/includes/ads/masthead_ads.js"></script>
+	<script type="text/javascript">
+		/* <[![CDATA */ 
+		
+			var q = "/ept/html/story/2012/01/11/sk-saskatoon-hospital-space-120111.html";
+		
+		try {
+			if(window.top !== window.self) {
+				Ads.iframeSrcParse();
+			}
+		} catch(e) {}
+		Ads.displayAd();	
+		/* ]]> */
+	</script>
+	<noscript><a href="http://ad.doubleclick.net/ad/cbc.ca/nozone/;pos=topleader;dcopt=ist;tile=1;sz=728x90;page="story";section="null";category="null";ord=123456789?"  target="_blank"><img src="http://ad.doubleclick.net/ad/cbc.ca/nozone/;dcopt=ist;tile=1;sz=728x90;page="story";section="null";category="null";ord=123456789?"  width="728"  height="90"  border="0"  alt="Advertisment"  /></a></noscript>
+</div>
+
+
+</div>
+<div id="gn" class="v10">
+	<h2>CBC Global Header Navigation</h2>
+	<div id="gnav">
+		<ul id="gnavl">
+			<li id="gnhome"><a href="http://www.cbc.ca" title="CBC.ca Home Page" target="_top"><span>CBC.ca</span></a></li>
+			<li id="gnnews" class="btn">
+				<a class="em" href="http://www.cbc.ca/news" target="_top">News</a>
+				<a id="gnnewsdd" class="caret" href="http://www.cbc.ca/news" target="_top">news drop down menu</a>
+			</li>
+			<li id="gnsports" class="btn">
+				<a class="em" href="http://www.cbc.ca/sports" target="_top">Sports</a>
+				<a id="gnsportsdd" class="caret" href="http://www.cbc.ca/sports" target="_top">sports drop down menu</a>
+			</li>
+			<li id="gnradio" class="btn">
+				<a class="em" href="http://www.cbc.ca/radio" target="_top">Radio</a>
+				<a id="gnradiodd" class="caret" href="http://www.cbc.ca/radio" target="_top">radio drop down menu</a>
+			</li>
+			<li id="gntv" class="btn">
+				<a class="em" href="http://www.cbc.ca/television" target="_top">TV</a>
+				<a id="gntvdd" class="caret" href="http://www.cbc.ca/television" target="_top">tv drop down menu</a>
+			</li>
+			<li id="gnmyr" class="btn lnk">
+				<a id="gnmyrem" class="em" href="http://www.cbc.ca/canada" target="_top">My Region <em>drop down menu</em></a>
+				<span id="gnmyrdd" class="caret">&nbsp;</span>
+			</li>
+			<li id="gnmore" class="btn lnk">
+				<a id="gnmoreem" href="http://www.cbc.ca/sitemap/" class="em" target="_top">More <em>drop down menu</em></a>
+				<span id="gnmoredd" class="caret">&nbsp;</span>
+			</li>
+			<li id="gnwatch" class="btn">
+				<a id="gnwatchem" href="http://www.cbc.ca/video" class="em" target="_top">Watch </a>
+				<a id="gnwatchdd" href="http://www.cbc.ca/video" class="caret">Watch <em>drop down menu</em></a>
+			</li>
+			<li id="gnlisten" class="btn">
+				<a id="gnlistenem" href="http://www.cbc.ca/video/#/Radio" class="em" target="_top">Listen</a>
+				<a id="gnlistendd" href="http://www.cbc.ca/video/#/Radio" class="caret">Listen <em>drop down menu</em></a>
+			</li>
+		</ul>
+		<form name="gnsearch" action="http://www.cbc.ca/gsa/" accept-charset="utf-8" method="GET" id="gnsrch" target="_top">
+			<label for="q">Search CBC.ca</label>
+			<input type="text" name="q" value="Search" id="gnq" />
+			<label for="s">Submit Search</label>
+			<input type="submit" name="s" id="gns" value="" title="Search"/></form>
+		<ul id="gnlogin">
+			<li class="btn"><a id="gnsignupmodal" href="http://www.cbc.ca/membercentre/Register.aspx" target="_top">Sign Up</a></li>
+			<li class="btn last"><a id="gnloginmodal" href="https://sso.cbc.ca/SSOAuthenticationDomain.ashx?mode=login&redirecturl=http://www.cbc.ca/" target="_top">Log In</a></li>
+		</ul>
+	</div>
+	<div id="dropzone">&nbsp;</div>
+</div>
+
+</div>
+<script type="text/javascript">
+if (!_CBC_LOADER.modules.cbc_globalnav) _CBC_LOADER.modules.cbc_globalnav = { type:"js", fullpath:"/i/o/globalnav/v10/globalnav-min.js", requires: ['cbc_core', 'node', 'event'] };
+if (!_CBC_LOADER.modules.cbc_globalnav_menu_style) _CBC_LOADER.modules.cbc_globalnav_menu_style = { type:"css", fullpath:"/i/o/globalnav/v10/css/dropdown.css" };
+YUI(_CBC_LOADER).use('cbc_globalnav', function(Y, result){
+	if (result.success){
+		CBC.namespace("CBC.APP").globalnav = new CBC.APP.Globalnav();
+		var params = {};
+		
+		
+		CBC.APP.globalnav.init(Y, params);
+		CBC.APP.Instances.add("globalnav",CBC.APP.globalnav);
+	}
+});
+</script>
+		<div id="body">
+				
+<div id="masthead" class="sask mastNews">
+	<div class="logo">
+		<a href="http://www.cbc.ca/news/"><img src="/i/regional/v11/img/cbclogo_sprite.png" alt="cbc masthead logo" /></a>
+	</div>
+	<div class="regionLogo">
+		<a href="http://www.cbc.ca/sask/">
+			Saskatchewan
+		</a>
+	</div>
+	
+	
+
+
+
+
+
+
+	
+        <!-- Morning Edition -->
+        
+        
+        
+        
+        
+  	
+
+	
+		<div id="functionalMod">
+			<span class="flag live">LIVE</span>
+			<span class="region">Sask</span>
+			<a class="morestreams" href="#">More Streams</a>		
+		
+			<div class="showinfo">
+				<div class="nowplaying">
+					<a href="/morningedition/">
+					The Morning Edition	
+					</a>
+				</div>
+								
+				<div class="listen">
+					
+					<a href="/video/radio-popup.html?networkKey=cbc_radio_one&amp;programKey=regina">Listen Live</a>
+											
+				</div>
+			
+			</div>
+			
+		</div>
+		
+		<div id="functionalModImage">
+			<img src="/sask/images/masthead/sheila_coles.png" alt="host picture" />
+		</div>
+		
+	
+
+</div>
+<script type="text/javascript" src="/i/regional/v11/js/functionalmod.js"></script>			
+			
+<div id="breadcrumbnav" class="bcnv11">
+	<div id="zone" class="canada">
+<h2>
+<a href="/news">CBC News </a><span>Canada</span>
+</h2><div id="znewstopics">
+<h3><span class="dnone">Major Stories</span>In The News</h3>
+<ul>
+	<li><a href="http://www.cbc.ca/news/world/story/2012/01/11/f-syria-ormiston.html">CBC in Syria</a></li>
+	<li><a href="http://www.cbc.ca/news/us-election-blog/">U.S. campaign blog</a></li>
+	<li><a href="http://www.cbc.ca/news/interactives/auto-show-2012/index.html">Detroit auto show</a></li>
+	<li><a href="http://www.cbc.ca/news/world/story/2012/01/09/f-rfa-common-haiti.html">Haiti two years later</a></li>
+</ul>
+</div>
+
+
+
+ 
+
+
+
+
+ 
+
+
+</div><h2 class="dnone">CBC News Navigation</h2><ul id="zones" class="clearfix">
+<li><a href="/news/">Home</a></li>
+<li><a href="/news/world/">World</a></li>
+<li class="current"><a href="/news/canada/">Canada</a></li>
+<li><a href="/news/politics/">Politics</a></li>
+<li><a href="/news/business/">Business</a></li>
+<li><a href="/news/health/">Health</a></li>
+<li><a href="/news/arts/">Arts &amp; Entertainment</a></li>
+<li><a href="/news/technology/">Technology &amp; Science</a></li>
+<li class="zright divide "><a href="/news/community/">Community</a></li>
+<li class="zright "><a href="/weather/">Weather</a></li>
+<li class="zright divide last "><a href="/video/#/News">Video</a></li>
+</ul><div id="subnav" class="clearfix">
+<ul id="zbreadcrumb">
+<li class="level1"><a href="/news/canada/">Canada</a></li>
+<li class="level2"><a href="/sask/">SK</a></li>
+</ul>
+<ul id="subzones">
+<li><a href="/sask/news/">News</a></li>
+<li><a href="/sask/community/">Events</a></li>
+<li><a href="/sask/weather/">Weather</a></li>
+<li><a href="/sask/programs/">Programs</a></li>
+<li><a href="/video/#/News/Canada/Saskatchewan">Video</a></li>
+<li><a href="/video/#/Radio/Local_Shows/Saskatchewan">Audio</a></li>
+<li class="subright "><a href="/sask/contact/">Contact Us</a></li>
+</ul>
+</div>
+
+</div> 
+			<div id="content" class="story content clearfix">
+				<div id="storyhead">
+					
+
+
+
+<div class="headline"><h1>Hospitals crammed in Saskatoon</h1></div>
+
+<h5 class="byline">
+
+<a href="/news/credit.html">CBC News</a>
+</h5>
+
+<h4 class="posted">Posted:
+
+Jan 11, 2012   4:47 PM CST
+
+
+</h4>
+
+<h4 class="lastupdated">Last Updated: 
+
+Jan 11, 2012   9:20 PM CST
+
+
+</h4>
+<span class="socialicons rec" title="2000480326">&nbsp;</span>
+
+
+				</div>
+				<div id="left">
+					
+
+
+	<div id="leadmedia"></div>
+	
+
+
+					
+					<div id="storymiddle" role="complementary">
+
+						
+<div id="sharecount" class="sclt-share"></div>
+
+						
+						
+
+
+
+						
+
+<!-- START OF UGC -->
+
+<!-- END OF UGC -->
+<!-- MEDIA CLIPS -->
+<!-- END MEDIA CLIPS -->
+
+<!-- LINK BUNDLE - FOOTNOTE -->
+
+
+<!-- END LINK BUNDLE - FOOTNOTE -->
+						
+	
+					</div>
+					<div id="storybody" aria-labelledby="storyhead" role="main">
+
+						
+
+<span class="photo left" style="width:302px"><img src="/gfx/images/news/photos/2012/01/11/mi-st-pauls-hospital.jpg" alt="Officials in Saskatoon say their hospitals, including St. Paul's, are filled. " /><em>Officials in Saskatoon say their hospitals, including St. Paul's, are filled. </em> <em class="credit">(CBC)</em></span><p>Officials in Saskatoon say they have brought in extra staff and are assigning overtime hours in an effort to cope with what they are calling an unprecedented surge in hospital patients.</p>
+<p>"Saskatoon Health Region care providers in Saskatoon’s three hospitals are facing and addressing an extremely busy period, with a demand for inpatient beds that is not subsiding," officials said Wednesday.</p>
+<p>At a news conference, officials said they are used to dealing with a jump in patients during the holiday season, but this year has been busier than ever before and has lasted well into January.</p>
+<p>"We have more patients than we're able to have room for with high capacity right now," Pam Molnar, a nursing manager at St. Paul's Hospital, said. "We just never had it for this extended period of time before."</p>
+<p>Molnar said no single illness accounts for the high volume.</p>
+<p>Officials said they are finding space wherever they can, with some day surgery and recovery room beds being used for the overflow.</p>
+<p>They say that while Saskatoon is a growing city, they are not sure if they need to add more patient beds.</p>
+<p>The health region hopes the extra demand subsides.</p>
+
+
+
+	
+					</div>
+
+					
+<div id="storytools" class="wrap8 clearfix sclt-share">
+	<h3 class="metanav">Share Tools</h3>
+	<ul>
+		<li><a class="storytool" href="/news/feedback/index_typo.html?" onclick="location.href=this.href + document.title; return false;">Report Typo</a></li>
+		<li><a class="storytool" href="/contact/">Send Feedback</a></li>
+		<li id="sharetools"></li>
+	</ul>
+</div>
+
+					
+<div id="socialcomments"></div>
+
+					
+				</div>
+				<div id="right">
+
+					<div class="module clearfix" id="connected">
+	<h3>Stay Connected with CBC News</h3>
+	<ul>
+		<li><a class="connect scmobile" title="CBC Mobile Services" href="/mobile/services/">Mobile</a></li>
+		<li><a class="connect scfb" title="Follow CBC News on Facebook" href="http://www.facebook.com/cbcnews">Facebook</a></li>
+		<li><a class="connect scpodcast" title="CBC News Podcasts" href="/podcasting/?newsandcurrent">Podcasts</a></li>
+		<li><a class="connect sctwitter" title="Follow CBC News on Twitter" href="http://twitter.com/CBCNews/cbc-news">Twitter</a></li>
+		<li><a class="connect scalert" title="CBC News Email and SMS alerts" href="https://membercentre.cbc.ca/NewsSubscription.aspx">Alerts</a></li>
+		<li><a class="connect scnews" title="CBC News Email newsletters" href="https://membercentre.cbc.ca/NewsSubscription.aspx">Newsletter</a></li>
+	</ul>
+</div>
+					<span class="offLeft">Big Box Advertisement</span>
+					
+
+
+<div id="advert300x250">
+	<div class="ad300x250 ad-300x250">
+		<script type="text/javascript">
+			/* <![CDATA[ */
+				if(typeof(Ads) != "undefined") {
+					Ads.displayBigBox();
+				} else {
+					document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+ advertising_site + '/' + advertising_zone + ';pos=topbox;tile=2;sz=300x250;page='+ advertising_page_type +';section='+advertising_section+';category='+advertising_category+';contcat='+advertising_content_category+';'+advertising_keyword+advertising_surround_session+'ord=' + ord + '?" type="text/javascript"><\/script>');
+				}
+			/* ]]> */
+		</script>
+		<noscript><a href="http://ad.doubleclick.net/ad/cbc.ca/nozone/;pos=topbox;tile=2;sz=300x250;page=story;section=null;category=null;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/cbc.ca/nozone/;tile=2;sz=300x250;page=story;section=null;category=null;ord=123456789?" width="300" height="250" border="0" alt="Advertisment" /></a></noscript>
+	</div>
+</div>
+
+
+					<div id="sectionheadlines" class="module">
+						<h3>Latest Saskatchewan News Headlines</h3>
+						
+<div class="topstories">
+
+	<div class="topstory  clearfix">
+		<div class="leadimage"><a href="/news/canada/saskatchewan/story/2012/01/12/sk-fire-saskatoon-1201.html"><img src="/gfx/images/news/topstories/2012/01/12/mi-saskatoon-fire-120111-default.jpg" alt="10 flee from Saskatoon house fire" border="0" /></a></div>
+		<dl>
+			<dt class="headline"><a href="/news/canada/saskatchewan/story/2012/01/12/sk-fire-saskatoon-1201.html">10 flee from Saskatoon house fire</a> <span class="socialicons" title="2000480419"></span>
+			</dt>
+			<dd class="lead"><a href="/news/canada/saskatchewan/story/2012/01/12/sk-fire-saskatoon-1201.html">Two people were injured in a Saskatoon residential fire early Thursday morning.</a> <a href="/news/canada/saskatchewan/story/2012/01/12/sk-fire-saskatoon-1201.html" class="more">more <span>&raquo;</span></a></dd>
+		</dl>
+	</div>
+
+	<div class="morestories">
+	<dl>
+		
+		<dt class="headline"><a href="/news/canada/saskatchewan/story/2012/01/11/sk-saskatoon-hospital-space-120111.html">Hospitals crammed in Saskatoon</a> <span class="mediaicons"><img src="/includes/gfx/icon_video.gif" border="0" class="mediaicons-vid" alt="Video" /></span> <span class="socialicons" title="2000480326"></span>
+		</dt>
+		<dd class="lead">Officials in Saskatoon say they have brought in extra staff and are assigning overtime hours in an effort to cope with what they are calling an unprecedented surge in hospital patients.   <a href="/news/canada/saskatchewan/story/2012/01/11/sk-saskatoon-hospital-space-120111.html" class="more">more <span>&raquo;</span></a></dd>
+		
+		<dt class="headline"><a href="/news/canada/saskatchewan/story/2012/01/12/sk-school-closures-response-1201.html">NDP calls for 2nd look at school closures</a>
+		</dt>
+		<dd class="lead">The NDP wants the province to review the closures of two Regina schools, but the minister of education says it's not going to happen. <a href="/news/canada/saskatchewan/story/2012/01/12/sk-school-closures-response-1201.html" class="more">more <span>&raquo;</span></a></dd>
+		
+		<dt class="headline"><a href="/news/canada/saskatchewan/story/2012/01/11/sk-hawk-crash-report-120111.html">Engine failure blamed in 2008 training jet crash</a> <span class="socialicons" title="2000480333"></span>
+		</dt>
+		<dd class="lead">A broken blade in a jet engine has been determined as the cause of a crash in 2008 at 15 Wing Moose Jaw, home to one of the air force's flight training schools.   <a href="/news/canada/saskatchewan/story/2012/01/11/sk-hawk-crash-report-120111.html" class="more">more <span>&raquo;</span></a></dd>
+		
+		<dt class="headline"><a href="/news/canada/saskatchewan/story/2012/01/11/sk-kensington-traffic-120111.html">Traffic worries in Saskatoon's west end</a>
+		</dt>
+		<dd class="lead">Dozens of people who live in Saskatoon's west end showed up for a public meeting to hear how the city plans to manage traffic into a new neighborhood.   <a href="/news/canada/saskatchewan/story/2012/01/11/sk-kensington-traffic-120111.html" class="more">more <span>&raquo;</span></a></dd>
+		
+	</dl>
+	
+	</div>
+</div>
+					</div>
+					
+					
+					<div id="watchlisten" class="module">
+						
+	
+	
+
+
+	
+	
+	
+	
+
+
+
+
+	
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+	
+
+
+<h2>Most Recent</h2>
+<div class="v11tabs">
+	<ul class="tab1">
+	
+		
+		<li class="tab1"><a href="#avWatch" onclick="sst.st(this,'newstabs'); return false;">Watch</a></li>
+		
+		
+		
+		<li class="tab2"><a href="#avListen" onclick="sst.st(this,'newstabs'); return false;">Listen</a></li>
+		
+		
+	</ul>
+</div>
+
+
+<div class="clearfix">
+					
+	<div class="tab1" id="avWatch">
+        
+        
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+	
+		
+
+
+	
+		
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+	
+			
+
+<div id="promoContainer-0" class="cbccarousel playlistcarousel ccol4">
+	<a class="prev" href="#prev" title="Previous" onclick="_cbc_loadCarousel({containerId:'promoContainer-0',type:'mediaplayerplaylist',direction:'l',pagination:false,slidesVisible:1});return false;">Show previous slide</a>
+	<div class="pcwrap">
+		<div class="slides clearfix" id="promoContainer-0slides">
+
+
+			<script type="text/javascript" src="/i/o/playlist/v11/init.js"> 
+              var o = {
+				  containerId: 'promoContainer-0slides',
+                  categoryId: '1304131310',
+                  categoryPath: '/News/Canada/Saskatchewan',
+                  startIndex: '1',
+                  endIndex: '6'
+              };
+            </script>
+
+
+		</div>
+	</div>
+	<a class="next" href="#next" title="Next" onclick="_cbc_loadCarousel({containerId:'promoContainer-0',type:'mediaplayerplaylist',direction:'r',pagination:false,slidesVisible:1});return false;">Show next slide</a>
+</div>
+
+	
+
+	
+        
+	</div>
+	
+
+					
+	<div class="tab2" id="avListen" style="display:none">
+        
+        
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+	
+		
+
+
+	
+		
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+	
+			
+
+<div id="promoContainer-1" class="cbccarousel playlistcarousel ccol4">
+	<a class="prev" href="#prev" title="Previous" onclick="_cbc_loadCarousel({containerId:'promoContainer-1',type:'mediaplayerplaylist',direction:'l',pagination:false,slidesVisible:1});return false;">Show previous slide</a>
+	<div class="pcwrap">
+		<div class="slides clearfix" id="promoContainer-1slides">
+
+
+			<script type="text/javascript" src="/i/o/playlist/v11/init.js"> 
+              var o = {
+				  containerId: 'promoContainer-1slides',
+                  categoryId: '1558597428',
+                  categoryPath: '/Radio/Local_Shows/Saskatchewan',
+                  startIndex: '1',
+                  endIndex: '6'
+              };
+            </script>
+
+
+		</div>
+	</div>
+	<a class="next" href="#next" title="Next" onclick="_cbc_loadCarousel({containerId:'promoContainer-1',type:'mediaplayerplaylist',direction:'r',pagination:false,slidesVisible:1});return false;">Show next slide</a>
+</div>
+
+	
+
+	
+				
+	</div>
+			
+</div>
+					</div>
+					
+					
+					<div id="newsheadlines" class="module">
+						<h3>Top News Headlines</h3>
+						
+<div class="topstories">
+
+	<div class="topstory  clearfix">
+		<div class="leadimage"><a href="/news/world/story/2012/01/12/syria-protests-assad-arab-league.html"><img src="/gfx/images/news/topstories/2012/01/12/hi-syria-protests-852-default.jpg" alt="Syria protests continue against defiant Assad" border="0" /></a></div>
+		<dl>
+			<dt class="headline"><a href="/news/world/story/2012/01/12/syria-protests-assad-arab-league.html">Syria protests continue against defiant Assad</a> <span class="mediaicons"><img src="/includes/gfx/icon_video.gif" border="0" class="mediaicons-vid" alt="Video" /></span> <span class="socialicons" title="2000480412"></span>
+			</dt>
+			<dd class="lead"><a href="/news/world/story/2012/01/12/syria-protests-assad-arab-league.html">Anti-government protesters rallied for another night on the outskirts of Damascus, hours after Syrian President Bashar al-Assad made a surprise appearance at a pro-regime rally in the city centre, where he again vowed to end the months-long revolt against his rule.</a> <span class="mediaicons"><img src="/includes/gfx/icon_video.gif" border="0" class="mediaicons-vid" alt="Video" /></span> <a href="/news/world/story/2012/01/12/syria-protests-assad-arab-league.html" class="more">more <span>&raquo;</span></a></dd>
+		</dl>
+	</div>
+
+	<div class="morestories">
+	<dl>
+		
+		<dt class="headline"><a href="/news/world/story/2012/01/12/marines-taliban-video-urinating.html">Afghan president condemns U.S. marines urination video</a>
+		</dt>
+		<dd class="lead">Afghan President Hamid Karzai condemns a video depicting what appears to be four U.S. marines urinating on the corpses of Taliban fighters, calling the apparent actions "completely inhumane" and demanding that the U.S. military punish the marines.   <a href="/news/world/story/2012/01/12/marines-taliban-video-urinating.html" class="more">more <span>&raquo;</span></a></dd>
+		
+		<dt class="headline"><a href="/news/politics/story/2012/01/12/rae-rcmp-file.html">RCMP spied on Bob Rae in 1960s</a>
+		</dt>
+		<dd class="lead">Newly declassified documents reveal the RCMP spied on Bob Rae during his student activist days and likely amassed a personal file on the future interim Liberal leader. <a href="/news/politics/story/2012/01/12/rae-rcmp-file.html" class="more">more <span>&raquo;</span></a></dd>
+		
+		<dt class="headline"><a href="/news/world/story/2012/01/11/f-haiti-housing-reconstruction.html">Haiti's struggle to build better homes after quake</a> <span class="socialicons" title="2000480330"></span>
+		</dt>
+		<dd class="lead">Innovative building technology is one hope for the future in Haiti, where more than 500,000 people still live in temporary camps two years after a devastating earthquake. <a href="/news/world/story/2012/01/11/f-haiti-housing-reconstruction.html" class="more">more <span>&raquo;</span></a></dd>
+		
+		<dt class="headline"><a href="/news/world/story/2012/01/12/british-spies-torture-case.html">U.K. spies won't face charges for Guantanamo torture</a>
+		</dt>
+		<dd class="lead">Agents working for Britain's spy agencies won't face criminal charges over their alleged complicity in the mistreatment of former Guantanamo detainees, the country's top prosecutor says.  <a href="/news/world/story/2012/01/12/british-spies-torture-case.html" class="more">more <span>&raquo;</span></a></dd>
+		
+	</dl>
+	<div class="moreheadlines-link more"><a href="/news/more.html">More Headlines <span>&raquo;</span></a></div>
+	</div>
+</div>
+					</div>
+															
+					<div class="module">
+    <div class="v11tabs">
+        <ul class="tab1">
+            <li class="tab1"><a href="#" onclick="sst.st(this,'mostpopulartabs'); return false;">Most Viewed</a></li>
+            <li class="tab2"><a id="commentedlink" href="#" onclick="sst.st(this,'mostpopulartabs'); return false;">Most Commented</a></li>
+        </ul>
+    </div>
+    <div id="mostpopulartabs" class="clearfix">
+        <div class="tab1 mostviewed">
+            <dl>
+  	<dt class="headline"><a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/01/11/sk-passport-photo-rejections.html">Passport officials expect to reject many photos</a></dt>
+ 	<dt class="headline"><a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/01/11/sk-wall-emergency-1201.html">Man visited emergency 150 times, Wall says</a></dt>
+ 	<dt class="headline"><a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/01/11/sk-kensington-traffic-120111.html">Traffic worries in Saskatoon's west end</a></dt>
+ 	<dt class="headline"><a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/01/11/sk-saskatoon-hospital-space-120111.html">Hospitals crammed in Saskatoon</a></dt>
+ 	<dt class="headline"><a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/01/11/sk-icy-walks-bylaw-120111.html">Icy walks raise bylaw questions</a></dt>
+ 	<dt class="headline"><a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/01/11/sk-hawk-crash-report-120111.html">Engine failure blamed in 2008 training jet crash</a></dt>
+ 	<dt class="headline"><a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/01/11/sk-blind-spot-documentary-120111.html">Fatherhood in aboriginal families examined in show</a></dt>
+ 	<dt class="headline"><a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/01/11/sk-harold-smeltzer-arrested-1201.html">Paroled child killer back behind bars</a></dt>
+ 	<dt class="headline"><a href="http://www.cbc.ca/news/canada/saskatchewan/story/2012/01/04/sk-officer-suspended-demoted-120104.html">Sex on duty costs Saskatoon police officer </a></dt>
+</dl>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+        </div>
+        <div class="tab2" style="display:none;">
+            <div id="cmtContainerId"></div>
+            <script type="text/javascript" src="/i/o/sm/v10/init.js"> 
+                var o = { 
+                    commentsEnabled: false, 
+                    iconsContainerIds: ['headlines'], 
+                    discoveries: [ 
+                        { 
+                            activity: 'Commented', 
+                            containerId: 'cmtContainerId', 
+                            age: 7, 
+                            count: 9, 
+                            sections: ['canada'],
+                            categories: ['saskatchewan']
+                        }
+                    ] 
+                };
+            </script>
+        </div>
+    </div>  
+</div>					
+					<div class="module inline">
+	<h2><a href="/manitoba/features/">Features &raquo;</a></h2>
+    <div class="promogrp">
+		<div class="promos clearfix" style="margin-left: 0px;">
+	    	<div class="promogrp"><div class="promos clearfix">
+    <div class="promo lrg">
+       <h3>
+          <a href="/news/canada/saskatchewan/story/2012/01/05/sk-cbc-saskatoon-proposed-expansion.html"> 
+             <img src="/sask/images/promos/saskatoon-190.jpg" width="190" height="106" alt="CBC announces Saskatoon morning radio show" />
+             <span class="flag">Expanded local service</span>
+             <strong class="headline">CBC announces Saskatoon morning radio show</strong>
+             <span class="synopsis">New show will launch in 15 months</span>  
+          </a>
+       </h3>
+    </div>
+</div></div>    
+		</div>
+	</div>
+
+</div>
+
+<div class="module inline">
+	<h2><a href="/sask/community/">Events &raquo;</a></h2>
+    <div class="promogrp">
+		<div class="promos clearfix">
+	    	<div class="promo lrg">
+   <h3>
+      <a href="http://www.cbc.ca/sask/community/mt/2012/01/blind-spot---what-happened-to-canadas-aboriginal-fathers.html"> 
+         <img src="http://www.cbc.ca/sask/community/mt/assets_c/2012/01/BlindSpot_R1 thumb-thumb-190xauto-156570.jpg" width="190" height="106" alt=""  /> 
+         <!--<span class="flag"></span>-->
+         <strong class="headline">BLIND SPOT - What Happened to Canada's Aboriginal Fathers? </strong>
+         <span class="synopsis">Join us for a free documentary screening on January 12....</span>  
+      </a>
+   </h3>
+</div>
+
+    
+		</div>
+	</div>
+</div>										
+										
+					<!--googleoff: all-->
+					<div class="google_ads module"><span class="offLeft">Big Box Advertisement</span><div id="remnant300x250">
+	<div class="ad300x250 ad-300x250">
+		<script type="text/javascript">
+			// <![CDATA[
+			document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/cbc.remnant.ca/' + advertising_zone + ';pos=bottombox;tile=3;sz=300x250;page='+ advertising_page_type +';section='+advertising_section+';category='+advertising_category+';contcat='+advertising_content_category+';'+advertising_keyword+advertising_surround_session+'ord=' + ord + '?" type="text/javascript"><\/script>');
+			// ]]>
+		</script>
+		<noscript><a href="http://ad.doubleclick.net/ad/cbc.ca/nozone/;pos=bottombox;tile=3;sz=300x250;page=story;section=null;category=null;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/cbc.ca/nozone/;tile=3;sz=300x250;page=story;section=null;category=null;ord=123456789?" width="300" height="250" border="0" alt="Advertisment" /></a></noscript>
+	</div>
+</div>
+</div>
+					<!--googleon: all-->
+				</div>
+			</div>
+			
+			
+			<div id="dontmiss" class="module altstyle">
+				
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+	
+		
+
+
+	
+		
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+	
+			
+
+
+<div id="promoContainer-2" class="cbccarousel promocollection ccol12">
+	<a title="Previous" class="preprev" href="#prev" onclick="_cbc_loadCarousel({containerId:'promoContainer-2',type:'promocollection',slidesVisible:6,direction:'l'});return false;">Show previous slide</a>
+	<div class="promogrpwrap">
+		<div class="promogrp"><h2>Don't Miss</h2><div class="promos clearfix">
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2012/01/10/sk-pig-speen-weather-predicting-1201.html">
+    <img src="/gfx/images/news/topstories/2012/01/04/fi-stock_thermometer-460.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">AUDIO</span>
+    <strong class="headline">Pig spleen predictions</strong>
+    <span class="synopsis">Saskatchewan man predicts the weather</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2012/01/05/sk-e-waste-electronics-1201.html">
+    <img src="/gfx/images/news/topstories/2012/01/05/fi-ewaste-stock.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">NEWS</span>
+    <strong class="headline">E-waste customers lining up</strong>
+    <span class="synopsis">Post-Christmas electronics getting recycled</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/31/sk-ereader-struggles-1231.html">
+    <img src="/gfx/images/news/topstories/2011/12/31/hi-ereader-struggles-1231.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">CONSUMER</span>
+    <strong class="headline">WATCH | E-reader struggles</strong>
+    <span class="synopsis">People with e-readers are struggling to download books from libraries</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/29/sk-stick-fix-1229.html">
+    <img src="/gfx/images/news/topstories/2011/12/29/hi-hockey-sticks-broken-111229.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">SPORTS</span>
+    <strong class="headline">WATCH | Broken stick fix</strong>
+    <span class="synopsis">Two Sask. men say they have a cheap way to fix broken carbon fiber hockey sticks</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/29/sk-wall-looks-ahead.html">
+    <img src="/gfx/images/news/topstories/2011/12/29/hi-wall-year-ender-111229.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">POLITICS</span>
+    <strong class="headline">WATCH | Brad Wall looks ahead</strong>
+    <span class="synopsis">Premier Brad Wall speaks about his four-year vision for Saskatchewan</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/29/sk-mayan-calendar-1229.html">
+    <img src="/gfx/images/news/topstories/2011/12/29/li-mayan-rtr2ox7r.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">NEWS</span>
+    <strong class="headline">World will not end in 2012, says Regina man</strong>
+    <span class="synopsis">Mayan timekeeper says end of Mayan calendar does not mean end of the world</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="http://www.cbc.ca/sask/north/general/2011/12/17/the-community-pulls-together-to-help-the-carles/">
+    <img src="/gfx/images/news/promos/2011/12/18/pi-carle-fundraiser-111217.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">La Ronge</span>
+    <strong class="headline">Pancake breakfast raises money for family who lost home</strong>
+    <span class="synopsis"></span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/15/sk-holiday-meal-kitchener-school-111215.html">
+    <img src="/gfx/images/news/topstories/2011/12/15/hi-community-meal.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">COMMUNITY</span>
+    <strong class="headline">Serving up holiday cheer</strong>
+    <span class="synopsis">Casino workers help out at community dinner</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/16/sk-time-capsule-photo-gallery-1112.html">
+    <img src="/gfx/images/news/topstories/2011/12/16/hi-wall-capsule-1112.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">PHOTO GALLERY</span>
+    <strong class="headline">1909 capsule opened</strong>
+    <span class="synopsis">Premier Brad Wall takes a peek at the past</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/15/sk-time-capsule-leg-111215.html">
+    <img src="/gfx/images/news/topstories/2011/12/15/hi-leg-time-capsule.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">Time capsule </span>
+    <strong class="headline">1909 artifacts pulled from legislature </strong>
+    <span class="synopsis"></span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/09/sk-fsin-anniversary-111209.html">
+    <img src="/gfx/images/news/promos/2011/12/14/promo-john-tootoosis-esask.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">FSIN Anniversary</span>
+    <strong class="headline">10 key dates in FSIN history</strong>
+    <span class="synopsis"></span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/04/sk-lawrence-swiegers-skate-canada-regina.html">
+    <img src="/gfx/images/news/photos/2011/12/04/si-lawrence-swiegers-cbc.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">SPORTS</span>
+    <strong class="headline">Sask. skaters win</strong>
+    <span class="synopsis">Gold medal win at Skate Canada competition</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="http://www.cbc.ca/sports/football/opinion/2011/12/10-things-we-learned-this-cfl-season.html">
+    <img src="/gfx/images/sports/photos/2011/12/05/lulay-travis-620-cp-111127.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">SEASON WRAP</span>
+    <strong class="headline">10 things we learned this season</strong>
+    <span class="synopsis">From young QB stars to rebuilding the Riders</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/04/sk-cobalt-bomb-therapy-museum.html">
+    <img src="/gfx/images/news/topstories/2011/12/04/hi-cobalt-bomb-museum.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">NEWS</span>
+    <strong class="headline">Cobalt bomb comes to museum</strong>
+    <span class="synopsis">Pioneering cancer-fighting gear recognized</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/business/story/2011/12/07/f-vp-buckner-fraud.html">
+    <img src="/gfx/images/news/authorbio/2011/03/02/diannebuckner140x80.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">DIANNE BUCKNER</span>
+    <strong class="headline">Are your employees ripping you off?</strong>
+    <span class="synopsis">Are your employees ripping you off?</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/business/story/2011/12/06/wheat-crop-report.html">
+    <img src="/gfx/images/news/topstories/2011/10/13/hi-grain-wheat.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">BUSINESS</span>
+    <strong class="headline">Big year for wheat, canola</strong>
+    <span class="synopsis">Records were set for crops in Western Canada </span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/01/sk-teens-hiv-1201.html">
+    <img src="/gfx/images/news/topstories/2011/12/01/sk-aids-testing-cp7746456.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">NEWS</span>
+    <strong class="headline">More Sask. teens getting HIV</strong>
+    <span class="synopsis">Health officials notice a disturbing trend</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/01/sk-plains-hotel-demolition.html">
+    <img src="/gfx/images/news/photos/2009/08/12/sk-plains-develope-090812.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">NEWS</span>
+    <strong class="headline">Plains Hotel comes down</strong>
+    <span class="synopsis">Piece of Regina history lost</span></a></h3> 
+</div>
+
+
+
+<div class="promo med">
+   <h3><a href="/news/canada/saskatchewan/story/2011/12/02/sk-prairie-dog-threatened.html">
+    <img src="/gfx/images/news/topstories/2011/12/02/hi-prairie-dog1.jpg" border="0" height="" width="" alt="" />
+    <span class="flag">NEWS</span>
+    <strong class="headline">Prairie dog threatened</strong>
+    <span class="synopsis">Many of them located in Saskatchewan</span></a></h3> 
+</div>
+
+</div></div>		
+	</div>
+	<a title="Next" class="prenext" href="#next" onclick="_cbc_loadCarousel({containerId:'promoContainer-2',type:'promocollection',slidesVisible:6,direction:'r'});return false;">Show next slide</a>
+</div>
+
+							
+			</div>	
+			
+			
+		</div>
+		<div id="footer" class="v10">
+	<h2>CBC Global Footer Navigation</h2>
+	<div id="ftr-ptls" class="clearfix">
+		<div class="main">
+		<h3>CBC.ca</h3>
+		<ul>
+			<!--<li><a target="_top" href="#">CBC Media Player</a></li>-->
+			<li><a target="_top" href="http://www.cbc.ca/aboriginal/">Aboriginal</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/books/">Books</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/contests/">Contests</a></li>
+			<li><a target="_top" href="http://archives.cbc.ca/">Digital Archives</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/documentaries/">Documentaries</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/kids/">Kids</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/kidscbc/">Kids' CBC Preschool</a></li>
+		</ul>
+		<ul>
+			<li><a target="_top" href="http://www.kidscbcwonderworld.ca/">Kids' CBC Wonder World</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/news/">News</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/parents/">Parents</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/programguide/">Program Guide</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/radio/">Radio</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/sports/">Sports</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/television/">Television</a></li>
+		</ul>
+		<ul>
+			<li><a target="_top" href="https://membercentre.cbc.ca/">CBC Member Centre</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/video/">CBC Player</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/shop/">CBC Shop</a></li>
+		</ul>
+		</div>
+		<div class="main corp">
+		<h3>Corporate</h3>
+		<ul>
+			<li><a target="_top" href="http://www.cbc.radio-canada.ca/">About CBC</a></li>
+			<li><a target="_top" href="http://www.cbc.radio-canada.ca/docs/disclosure/">Transparency and Accountability</a></li>
+			<li><a target="_top" href="http://cbc.radio-canada.ca/jobs/">Jobs</a></li>
+			<li><a target="_top" href="http://cbc.radio-canada.ca/facilities/toronto">Visit the Canadian Broadcasting Centre</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/productionfacilities/">Production Facilities</a></li>
+			<li><a target="_top" href="http://cbcmobileproductions.ca/">Mobile Production Rentals</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/ombudsman/">Ombudsman</a></li>
+			<li><a target="_top" href="http://cbc.radio-canada.ca/media/">CBC: Get the Facts</a></li>
+		</ul>
+		<ul>
+			<li><a target="_top" href="http://www.cbc.ca/independentproducers/">Independent Producers</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/pitch/">Pitch a Radio or Audio Program</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/programsales/">Program and Content Sales</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/archivesales/">Archive Sales</a></li>
+			<li><a target="_top" href="http://www.cbclearning.ca/">Educational Sales</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/services/tapes_tr.html">Tapes, Transcripts and Image Assets</a></li>
+			<li><a target="_top" href="http://www.cbc.radio-canada.ca/dtv/">Digital TV</a></li>
+		</ul>
+		</div>
+	</div>
+	<div id="ftr-connect" class="clearfix">
+		<h3>Stay Connected</h3>
+		<ul>
+			<li><a target="_top" href="http://www.cbc.ca/mobile/services/">Mobile</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/rss/">RSS</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/podcasting/">Podcasts</a></li>
+			<!--<li><a target="_top" href="http://twitter.com/cbc">Twitter</a></li>-->
+			<li class="last"><span>Member Services:</span><a target="_top" href="https://membercentre.cbc.ca/CurrentSubscriptions.aspx">Newsletters &amp; Alerts</a></li>
+			<!--<li class="last"><a target="_top" href="#">More CBC Tools &amp; Services</a></li>-->
+		</ul>
+	</div>
+	<div id="ftr-core" class="clearfix">
+	<h3>CBC Links</h3>
+	<ul class="terms clearfix">
+		<li><a target="_top" href="http://www.cbc.ca/aboutcbc/discover/termsofuse.html">Terms Of Use</a></li>
+		<li><a target="_top" href="http://www.cbc.ca/permissions/">Reuse &amp; Permissions</a></li>
+		<li><a target="_top" href="http://www.cbc.ca/revenuegroup/">Advertise</a></li>
+		<li><a target="_top" href="http://www.cbc.ca/aboutcbc/discover/privacy.html">Privacy</a></li>
+		<!--<li><a target="_top" href="#">Accessibility</a></li>-->
+		<li><a target="_top" href="http://www.cbc.ca/sitemap/">Site Map</a></li>
+		<li><a target="_top" href="http://www.cbc.ca/contact/">Contact Us</a></li>
+	</ul>
+	<a id="ftr-cbcrc" target="_top" href="http://www.cbc.radio-canada.ca/">CBC Radio-Canada</a>
+	<div id="ftr-end" class="clearfix">
+		<span>Copyright &copy; CBC 2012</span>
+		<ul class="affs">
+			<li><a target="_top" href="http://www.cbc.radio-canada.ca/">cbc.radio-canada.ca</a></li>
+			<li><a target="_top" href="http://www.cbc.ca/">cbc.ca</a></li>
+			<li><a target="_top" href="http://www.radio-canada.ca/">radio-canada.ca</a></li>
+		</ul>
+	</div>
+</div>
+
+</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	</div>
+	
+<script type="text/javascript">
+	YUI(_CBC_LOADER).use('cbc_core', 'node', 'gigya', function(Y, result){
+		if (result.success){
+			var conf = {
+				APIKey:CBC.SETTINGS.getVal('gigyaApiKey')
+			};
+				
+			var ua = new gigya.services.socialize.UserAction();
+			ua.setUserMessage("Share this CBC content");
+			ua.setLinkBack(document.location.href);
+			
+			ua.setTitle("Hospitals crammed in Saskatoon");
+			
+			var cid = '';
+			
+				cid = "Canada";
+			
+			var params1 ={
+				userAction:ua,
+				shareButtons:'facebook, twitter, google-plusone, share, email',
+				containerID: "sharecount",
+				cid:cid,
+				layout:'vertical'
+			};
+			var params2 ={
+				userAction:ua,
+				shareButtons:'facebook, twitter, google-plusone, share, email',
+				containerID: "sharetools",
+				showCounts: "none",
+				cid:cid,
+				layout:'horizontal'
+			};
+			var params3 ={
+				userAction:ua,
+				shareButtons:'facebook, twitter, google-plusone, share, email',
+				containerID: "sharetoolstwo",
+				showCounts: "none",
+				cid:'',
+				layout:'horizontal'
+			};
+			if(Y.one("#sharecount"))
+				gigya.services.socialize.showShareBarUI(conf,params1);
+			if (Y.one("#sharetools"))
+				gigya.services.socialize.showShareBarUI(conf,params2);
+			if (Y.one("#sharetoolstwo"))
+				gigya.services.socialize.showShareBarUI(conf,params3);
+		}
+	});
+</script>
+
+	
+	<script type="text/javascript" src="/i/o/sm/v10/init.js">
+
+	var o = {
+		iconsContainerIds: ['storyhead','right'],
+		commentsContainerId: 'socialcomments',
+		articleKey: '2000480326',
+		commentsEnabled: true,
+		scmo: 'ApprovalRequired',
+		scped: '2012/01/14 11:59:00 PM',
+		scpm: 'Comments are [B]open[/B] and welcome until Saturday, January 14, 2012 at 11:59 p.m. ET.\nWe reserve the right to close comments before then.',
+		scem: 'This story is now closed to commenting.',
+		cd: '2012/01/12 09:29:21'
+	};
+
+</script>
+	
+<script type="text/javascript">
+	//<![CDATA[
+	if (!_CBC_LOADER.modules.video_json_request) _CBC_LOADER.modules.video_json_request = { type:"js", fullpath:"/video/js/JSONRequest.js" };
+	if (!_CBC_LOADER.modules.video_theplatform_playlist) _CBC_LOADER.modules.video_theplatform_playlist = { type:"js", fullpath:"/video/js/ThePlatformPlaylist.js", requires: ['video_json_request', 'yui2_domevent', 'cbc_old_core']};
+	if (!_CBC_LOADER.modules.cbc_story_media) _CBC_LOADER.modules.cbc_story_media = { type:"js", fullpath:"/i/js/v11/media.js", requires: ['cbc_core', 'node', 'event-custom', 'event', 'video_theplatform_playlist']};
+	
+
+	YUI(_CBC_LOADER).use('cbc_story_media', function(Y, result){
+		if (result.success){
+			CBC.namespace("CBC.APP").storymedia = new CBC.APP.StoryMedia();
+	  	var params = {};
+	  	params.instance = "storymedia";
+	  	
+	  	
+	  	 params.leadvideo ='2186054692';
+	  	CBC.APP.storymedia.init(Y, params);
+	  	CBC.APP.Instances.add("storymedia",CBC.APP.storymedia);
+		}
+	});
+	//]]>
+</script>
+
+	
+<script type="text/javascript">
+/* <![CDATA[ */
+	if (!_CBC_LOADER.modules.news_link_track) _CBC_LOADER.modules.news_link_track = { type:"js", fullpath:"/i/news/v10/js/linktrack.js", requires: ['cbc_core', 'node', 'event']};
+	YUI(_CBC_LOADER).use('news_link_track', function(Y, result){
+		if (result.success){
+			CBC.namespace("CBC.APP").newslinktrack = new CBC.APP.NewsLinkTrack();
+	  	var params = {};
+	  	params.instance = "newslinkstrack";
+	  	 params.mode = 'sp';
+	  	CBC.APP.newslinktrack.init(Y, params);
+	  	CBC.APP.Instances.add("newslinktrack",CBC.APP.newslinktrack);
+		}
+	});
+/* ]]> */
+</script>
+
+	<script type="text/javascript">
+//<![CDATA[
+try{
+	if(!CBC) { var CBC = {}; }
+	if(!CBC.APP) { CBC.APP = {}; }
+	if(!CBC.APP.SC) { CBC.APP.SC = {}; }
+	CBC.APP.SC.QueryString = "contentarea=news&amp;contenttype=story&amp;title=2012/01/11/sk-saskatoon-hospital-space-120111&amp;subsection1=regions&amp;subsection2=saskatchewan";
+	
+		CBC.APP.SC.storyTitle = "Hospitals%20crammed%20in%20Saskatoon";
+	
+}catch(e){
+}
+//]]>
+</script>
+
+	<script type="text/javascript" src="/g/stats/pagetracker.js"></script>
+<script type="text/javascript">
+if (typeof COMSCORE == 'undefined') {
+	YUI(_CBC_LOADER).use('comscore', function(Y,result) {
+		if (result.success) {
+		if (typeof advertising_zone != 'string') 
+			var advertising_zone = '';
+				COMSCORE.beacon({c1:2,c2:3005684,c3:"",c4:escape(window.location.href),c5:"CBC.ca-CanadianNewsSportsEntertainmentKidsDocsRadioTV",c6:advertising_zone,c7:escape(window.location.href),c8:escape(document.title),c9:escape(document.referrer),c15:""});
+		}
+	});
+}
+</script>
+<!-- <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=3005684&c3=&c4=cbc.ca&c5=CanadianNewsSportsEntertainmentKidsDocsRadioTV&c6=&c15=&cj=1" alt=""/></noscript> -->
+<script type="text/javascript" src="/g/i/pinning.js"></script>
+	
+	<!-- ClickTale Bottom part -->
+	<div id="ClickTaleDiv" style="display: none;"></div>
+	<script type='text/javascript'>
+		document.write(unescape("%3Cscript%20src='"+ (document.location.protocol=='https:'?'https://clicktale.pantherssl.com/':'http://s.clicktale.net/')+ "WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var ClickTaleSSL=1;
+		if(typeof ClickTale=='function') ClickTale(2944,0.003,"www08");
+	</script>	
+	
+</body>
+</html>
+
+

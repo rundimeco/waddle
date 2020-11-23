@@ -1,0 +1,614 @@
+
+
+
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Τραγωδία της σήψης και της απληστίας - Η Αυγή online</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<link rel="stylesheet" type="text/css" href="common/css/all.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/arthro.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/kathgoria.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/katigoria_ypokatigoria.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/super_front.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/arxeio.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/entheta.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/apopseis.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/search_results.css" />
+	<link rel="stylesheet" type="text/css" href="common/css/entheta_inside.css" />
+	<link rel="StyleSheet" href="common/jscripts/dtree/dtree.css" type="text/css" />
+	<script type="text/javascript" src="common/scripts/scripts.js"></script>
+	<script type="text/javascript" src="common/jscripts/dtree/dtree.js"></script>
+	<script type="text/javascript" src="common/scripts/avgiajax.js"></script>
+	<script type="text/javascript" src="common/scripts/AC_RunActiveContent.js"></script>
+</head>
+<body>
+	<!--page-->
+	<div id="page">
+		<!--header-->
+		<div id="header">
+				<h1><a href="http://www.avgi.gr/StartPageAction.action">HAYGH</a></h1>
+				<!-- top banner -->
+				<div style="top:54px;left:640px;position:absolute;">
+					
+					
+				</div>
+				<!-- end of top banner -->
+				<!-- 
+				<img style="top:54px;left:677px;position:absolute;" src="common/images/alpha_version.jpg"/>
+				<div style="top:98px;left:807px;position:absolute;"><img src="common/images/arrow02.gif"/>&nbsp;&nbsp;<a style="text-decoration:none;color:#464748;" href="SearchOldArticleActionshow.action"/>Δείτε την παλιά έκδοση</a></div>
+				 -->
+				<div class="rss">
+					<!-- <a class="rsslink" style="margin-right:60px;" href="RSSTermsAction.action?termID=488647">Βουλευτικές Εκλογές '09</a> -->
+					<a class="rsslink" href="RSSStartPage.action">rss feeds</a>
+				</div>
+				<div class="date">
+					<strong id="dayid"></strong>
+					<em id="dateid"></em>
+				</div>
+				<script>showDate('dayid','dateid');</script>
+			<ul>
+				<li>
+						
+							<a class="epikairotita_new" style="background:url(common/images/EPIKAIROTITA_3_TAB.gif) no-repeat;" href="StartPageAction.action">
+								ΕΠΙΚΑΙΡΟΤΗΤΑ
+							</a>
+						
+						
+				</li>
+				<!-- 
+				<li>
+					
+					
+						<a class="focus_new" href="#">
+							ΦΟΚΟΥΣ
+						</a>
+					
+				</li>
+				 -->
+				<li>
+						
+						
+						<a class="gnomi_new" href="OpinionsMainActionshow.action">
+							ΓΝΩΜΗ
+						</a>
+						
+					
+				</li>
+				<li>
+						
+						
+							<a class="entheta_new" href="InsetsMainActionshow.action">
+								ΕΝΘΕΤΑ
+							</a>
+						
+					
+					
+					
+				</li>
+				<li>
+						
+						
+							<a class="odigoi_new" href="GuidesMainActionshow.action">
+								ΟΔΗΓΟΙ
+							</a>
+						
+				</li>
+			</ul>
+			<div class="subcat_container">
+				
+					<ul>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=21">ΠΟΛΙΤΙΚΗ </a>
+						</li>
+						<li >
+							<a href="DepartmentActionshow.action?departmentID=22">ΕΛΛΑΔΑ </a>
+						</li>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=23">ΔΙΕΘΝΗ </a>
+						</li>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=24">ΟΙΚΟΝΟΜΙΑ </a>
+						</li>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=25">ΑΘΛΗΤΙΣΜΟΣ </a>
+						</li>
+						<li class="menu_selected">
+						<a href="DepartmentActionshow.action?departmentID=26">ΠΟΛΙΤΙΣΜΟΣ </a>
+						</li>
+						<li >
+						<a href="DepartmentActionshow.action?departmentID=27">ΠΕΡΙΒΑΛΛΟΝ </a>
+						</li>
+					</ul>
+				
+				
+				
+				
+			</div>
+		</div>
+		<!--columns-holder-->
+		<div id="columns-holder">
+			<div class="top">
+				<!-- 
+				<div class="form-area">
+					<form id="simple-search-form-id" action="SearchArticleActionsearch.action" method="post">
+						<fieldset>
+							<label>Aναζήτηση</label>
+							<div>
+								<input type="text" class="text" name="searchCriterion"/>
+							</div>
+							<input type="image" class="btn" src="common/images/search-btn.gif"/>
+						</fieldset>
+					</form>
+				</div>
+				 -->
+				
+				<ul>
+					<li><a href="StartPageAction.action">Aρχική</a></li>
+					
+						
+						
+							<li><a href="DepartmentActionshow.action?departmentID=26">ΠΟΛΙΤΙΣΜΟΣ</a></li>
+						
+					
+						
+						
+							<li><a href="ColumnActionshow.action?columnID=261">ΘΕΑΤΡΟ</a></li>
+						
+					
+						
+							<li>Τραγωδία της σήψης και της απληστίας</li>
+						
+						
+					
+				</ul>
+			</div>
+			
+			
+
+
+
+
+
+<!--entheta title-->		
+<!-- 
+
+
+
+
+
+
+	<div style="padding-top:10px;font-size:24px;"><img src="common/images/politismos_header.gif"/> / ΘΕΑΤΡΟ</div>
+
+
+
+
+ -->
+<!--content-->
+<div id="content_arthro" style="margin-top:15px;">
+	<div class="block">
+		<div class="title_Main" id="titleID">
+			Τραγωδία της σήψης και της απληστίας
+		</div>
+		<div class="left-col" style="background:none;">
+			<div class="article_header">
+				<!--  
+				<div class="title" id="titleID">
+					Τραγωδία της σήψης και της απληστίας
+				</div>
+				-->
+				<div class="author">
+				
+				
+					<span style="font-weight:bold" id="writerID">&nbsp;</span>
+				
+				
+				</div>
+				<div class="date">
+				Ημερομηνία δημοσίευσης: <span style="font-weight:bold" id="datePubID">13/01/2012</span>
+				</div>
+				
+					<div class="box_arhtro" id="articlePhotoID">
+						<div class="box-top_arhtro">
+							<div class="box-btm_arhtro">
+								<form>
+									<input type="hidden" name="photoIndex" id="photoIndexID" value="0"/>
+								</form>
+								
+								<img id="photoID" width="458" style="padding-left:2px;" src="images/photoarchive/2012/1/12/MacbethΒ&#xA9;StavrosPetropoulos-9_high.jpg?w=458" alt="" />
+								
+									<ul class="arrow">
+										
+										
+									</ul>
+																			
+							</div>
+						</div>
+					</div>
+				
+				<div class="main" id="articleTextID">
+					
+						<p>Με μια τραγωδία... επίκαιρη ή, καλύτερα, που δεν έπαψε ποτέ να είναι επίκαιρη αναμετράται ο σκηνοθέτης Θωμάς Μοσχόπουλος, παρουσιάζοντας από την Τετάρτη 18 Ιανουαρίου και έως τις 25 Φεβρουαρίου στην Κεντρική Σκηνή της Στέγης Γραμμάτων και Τεχνών μια φιλόδοξη σκηνική πρόταση για τον <i>Μακμπέθ</i> του Σαίξπηρ.</p>
+<p>Αυτή η πιο σκοτεινή από τις τραγωδίες του Σαίξπηρ είναι ένα από τα ελάχιστα έργα της παγκόσμιας δραματουργίας που δεν χρειάζονται καμία επικαιροποίηση, γιατί μπορεί διαρκώς να αποτελέσει υλικό για ένα θέατρο ζωντανό, παλλόμενο και συγκλονιστικό. Ο <i>Μακμπέθ</i> σκιαγραφεί με μελανά χρώματα τη σήψη της εξουσίας και την υπέρμετρη φιλοδοξία του ανθρώπου, που τον αποκτηνώνει και τον οδηγεί στον θάνατο.</p>
+<p>Γραμμένο σε μια εποχή δραματικών κρίσεων και μεταβολών σε πολιτικό, κοινωνικό και ιδεολογικό επίπεδο για τη Βρετανία αλλά και ολόκληρη την Ευρώπη, που χαρακτηρίζεται από τρομοκρατία, καταστολή, κοινωνική και ιδεολογική αστάθεια, μπορεί εύκολα να βάλει τον σκηνοθέτη στον πειρασμό των εύκολων αναγωγών στην εποχή μας. Ο Θωμάς Μοσχόπουλος το προσεγγίζει επιδιώκοντας να αναδείξει τις κρυφές συνδέσεις του με το σήμερα, χωρίς όμως να καταφεύγει σε περιττές επικαιροποιήσεις. Ενδιαφέρεται πρωτίστως για την απόδοση της σχέσης μεταξύ πραγματικού και ψευδαισθησιακού, αναγνωρίζοντας στο αριστούργημα αυτό της ελισαβετιανής εποχής τα χαρακτηριστικά ενός πρώιμου μπαρόκ έργου και στηριγμένος στη συνύπαρξη ρεαλισμού και αντιρρεαλισμού, φορμαλιστικής και υπερφυσικής διάστασης.</p>
+<p>Το στόχο αυτό υπηρετεί η μετάφραση του Δημήτρη Δημητριάδη, καθώς και ένα σύνολο καταξιωμένων ηθοποιών, οι Αργύρης Ξάφης, Άννα Μάσχα, Ξένια Καλογεροπούλου, Κώστας Μπερικόπουλος, Θάνος Τοκάκης, Γιώργος Χρυσοστόμου, Αστέρης Πελτέκης, Γιώργος Παπαγεωργίου, Δημήτρης Νασιούλας, Κωνσταντίνος Βουδούρης, ενώ τα σκηνικά και τα κοστούμια επιμελήθηκε η Έλλη Παπαγεωργακοπούλου. Μετά την παράσταση της 3ης Φεβρουαρίου θα ακολουθήσει συζήτηση του κοινού με τον σκηνοθέτη Θωμά Μοσχόπουλο.</p>
+					
+					
+				</div>
+				<!--pagination-->
+				<!-- 
+				<div id="pagination">
+					<div class="navigate_prev" >Προηγούμενη σελίδα</div>
+					<div class="pages" align="center">
+						<ul>
+							<li style="background:none">1</li>
+							<li><a href="#">2</a></li>
+							<li><a href="#">3</a></li>
+							<li><a href="#">4</a></li>
+							<li><a href="#">5</a></li>
+							<li><a href="#">6</a></li>
+						</ul>								
+					</div>
+					<div class="navigate_next"><a href="#">Επόμενη σελίδα</a></div>
+				</div>
+				 -->
+									<!--
+				<div id="box_actions">
+					<div class="box-top_actions">
+						<div class="box-btm_actions">
+							<ul>
+								<li class="send" >
+									<a href="javascript:sendAnnotatedMailTo('Τραγωδία της σήψης και της απληστίας','http://www.avgi.gr/ArticleActionshow.action?articleID=663013')">
+										Αποστολή με email
+									</a>
+								</li>
+								<li class="print" ><a href="javascript:printArticle();">Εκτύπωση</a></li>
+								<li class="spread" >
+									<a target="_blank" href="http://www.stumbleupon.com/submit?url=http://www.avgi.gr/ArticleActionshow.action?articleID=663013&title=Τραγωδία της σήψης και της απληστίας"><img style="border:none;" src="common/images/stumbleupon.png"/></a>
+ 
+									<a target="_blank" href="#"><img style="border:none;" src="common/images/wordpress.png"/></a>
+									<a target="_blank" href="#"><img style="border:none;" src="common/images/blogger.png"/></a>
+								</li>
+							</ul>
+					    </div>
+					</div>
+				</div>
+									 -->
+				
+				<!-- 
+				<div id="comments">
+					<ul>
+						<li><a name="comments" href="#">Σχόλια</a></li>
+					</ul>	
+				</div>
+				
+				Δεν υπάρχουν σχόλια
+				
+				
+				<div class="form_label">Αφήστε το σχόλιο σας </div>
+				<div id="form">
+					 <form action="ArticleActionaddComment.action">
+						<input name="articleID" type="hidden" value="663013"/>
+						<p><input type="text" name="name" id="name" class="text_entry" /><span class="form_label">Ονοματεπώνυμο</span></p>
+						<p><input type="text" name="email" id="email" class="text_entry" /><span class="form_label">E-mail</span></p>
+						<p><textarea name="comments" class="area"></textarea><span class="form_label_top">Μήνυμα</span></p>
+						<input type="submit" value="Αποστολή" class="sub_btn" />
+					</form>
+				</div>
+				 -->
+			</div>
+		</div>
+		<div class="right-col">
+			<div id="box_info">
+				<div class="box-top_info">
+					<div class="box-btm_info">
+						<ul>
+							<li class="send"><a href="javascript:sendAnnotatedMailTo('Τραγωδία της σήψης και της απληστίας','http://www.avgi.gr/ArticleActionshow.action?articleID=663013')">Αποστολή με mail</a></li>
+							<li class="print"><a href="javascript:printArticle();">Εκτύπωση</a></li>
+							<!-- 
+							<li class="comment"><a href="#comments">Σχολιάστε το άρθρο</a></li>
+							 -->
+							<li class="spread"><a href="#">Διαδώστε το άρθρο</a></li>
+							<li>
+								<a target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.avgi.gr/ArticleActionshow.action?articleID=663013&title=Τραγωδία της σήψης και της απληστίας"><img style="border:none;margin-top:5px;" src="common/images/Google.png"/></a>&nbsp;Google<br/>
+								<a target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.avgi.gr/ArticleActionshow.action?articleID=663013&t=Τραγωδία της σήψης και της απληστίας"><img style="border:none;" src="common/images/facebook.png"/></a>&nbsp;Facebook<br/>
+								<a target="_blank" href="http://del.icio.us/post?url=http://www.avgi.gr/ArticleActionshow.action?articleID=663013&title=Τραγωδία της σήψης και της απληστίας"><img style="border:none;" src="common/images/delicious.png"/></a>&nbsp;Delicious<br/>
+								<a target="_blank" href="https://twitter.com/share?url=http://www.avgi.gr/ArticleActionshow.action?articleID=663013"><img style="border:none;" src="common/images/twitter.png"/></a>&nbsp;Twitter<br/>
+								<a target="_blank" href="http://www.stumbleupon.com/submit?url=http://www.avgi.gr/ArticleActionshow.action?articleID=663013&title=Τραγωδία της σήψης και της απληστίας"><img style="border:none;" src="common/images/stumbleupon.png"/></a>&nbsp;Stumble</br>
+								<a target="_blank" href="http://buzz.reality-tape.com/submit.php?url=http://www.avgi.gr/ArticleActionshow.action?articleID=663013"><img width="16" style="border:none;" src="common/images/buzz.png"/></a>&nbsp;Buzz
+							</li>
+						</ul>								
+					</div>
+				</div>
+			</div>
+			<!-- 
+			
+			 -->
+			
+				<div id="box_etiketes">
+					<div class="box_etiketes-top_info">
+						<div class="box_etiketes-btm_info">
+							<ul>
+								<li class="title" >Ετικέτες άρθρου</li>
+								
+									
+									
+									<li class="white" ><a href="TermsActionshowArticles.action?termID=1257">Θέατρο</a></li>
+									
+									
+								
+							</ul>								
+						</div>
+					</div>
+				</div>
+			
+			
+			
+		</div>
+	</div>
+</div>
+
+
+	
+
+		
+			<!--sidebar-->
+			<div id="sidebar" style="padding-top:15px;">
+				<div id="cse-search-form" style="width: 100%;">Loading</div>
+				<script src="//www.google.com/jsapi" type="text/javascript"></script>
+				<script type="text/javascript"> 
+				  google.load('search', '1', {language : 'el', style : google.loader.themes.ESPRESSO});
+				  google.setOnLoadCallback(function() {
+				    var customSearchControl = new google.search.CustomSearchControl('003364420328047504427:byixxu4pilu');
+				    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+				    var options = new google.search.DrawOptions();
+				    options.enableSearchboxOnly("http://www.avgi.gr/SearchArticleActionsearch.action");
+				    customSearchControl.draw('cse-search-form', options);
+				  }, true);
+				</script>
+				 <style type="text/css">
+				  input.gsc-input {
+				    border-color: #A25B08;
+				  }
+				  input.gsc-search-button {
+				    border-color: #461200;
+				    background-color: #461200;
+				  }
+				</style>
+				
+				
+					<object width="300" height="250"><param name="movie" value="images/photoarchive/banners/300x250URL.swf"/><embed src="images/photoarchive/banners/300x250URL.swf" width="300" height="250"></embed></object>
+					<br><br>
+				
+				
+					
+					
+						
+						
+						
+					
+		
+			
+<div class="box">
+	<div class="box-top" style="background:url(common/images/sidebar-box-top-bg_BIG.gif) no-repeat;">
+		<div id="opinionID">
+			<div class="box-btm">
+				<!-- <div class="grafoyn" style="height:35px"> --><!--YG_2_3-->
+				<div class="grafoyn">
+					<a href="OpinionsMainActionshow.action">
+					<img style="border:none" src="common/images/grafoyn-title_new.gif"/>
+					</a>
+					
+					<div class="box-label">
+						<ul >
+							<li><a href="OpinionsMainActionshowCol.action?columnID=476635">ΠΟΛΙΤΙΣΜΟΣ</a></li>						
+						</ul>
+					</div>
+					
+				</div>
+				
+				
+					<div class="text" >
+					<h5>ΠΟΛΙΤΙΣΜΟΣ</h5>
+						<h4 style="margin-top:12px;"><a href="ArticleActionshow.action?articleID=663338">Το kitsch και πώς να το λατρέψετε</a></h4>
+						<h3>
+							
+							Σάββατο 14 Ιανουαρίου 2012
+						</h3>
+						<p>Αυτό που κυριαρχεί χρόνια στην Εθνική Πινακοθήκη είναι το kitsch ως αισθητική επιλογή, με την κ. Μαρίνα Λαμπράκη - Πλάκα αρχιέρειά του. </p>
+					</div>
+				
+					<div class="text" >
+					<h5>ΠΟΛΙΤΙΣΜΟΣ</h5>
+						<h4 style="margin-top:12px;"><a href="ArticleActionshow.action?articleID=662499">Μικρή πατρίδα</a></h4>
+						<h3>
+							
+							Τετάρτη 11 Ιανουαρίου 2012
+						</h3>
+						<p>Ό,τι είναι η καρδιά και ο νους</p>
+					</div>
+				
+					<div class="text" >
+					<h5>ΠΟΛΙΤΙΣΜΟΣ</h5>
+						<h4 style="margin-top:12px;"><a href="ArticleActionshow.action?articleID=659882">Τα Χριστούγεννα του αντάρτη</a></h4>
+						<h3>
+							
+							Παρασκευή 23 Δεκεμβρίου 2011
+						</h3>
+						<p>Είχε απλωθεί σε πολλά μέρη ο εμφύλιος πόλεμος. Οι εξεγερμένοι αντάρτες έλεγχαν μεγάλες περιοχές. Λόγω του χειμώνα οι μάχες είχαν λιγοστέψει και οι αντιμαχόμενοι είχαν την ευκαιρία να ξεκουραστούν και να ανασυντάξουν τις δυνάμεις για τις επόμενες συγκρούσεις που σχεδίαζαν</p>
+					</div>
+				
+				
+			</div>
+		</div>
+	</div>
+</div>
+<br/>
+				
+					
+					
+						
+						
+						
+					
+		
+			
+<div class="tab-area" style="margin-bottom:15px; margin-top: -10px;">
+	<h4></h4>
+	<ul class="top-list">
+		
+			<li>
+				<a class="active" href="javascript:void(0);" onclick="updateDepartmentPopulars(26, this)">
+				<span>
+					ΠΟΛΙΤΙΣΜΟΣ
+				</span>
+				</a>
+			</li>
+		
+		<li><a  href="javascript:void(0);" onclick="updatePopulars(-1, this)"><span>Όλα</span></a></li>
+		<li><a href="javascript:void(0);" onclick="updatePopulars(1, this)"><span>Επικαιρότητα</span></a></li>
+		<li><a href="javascript:void(0);" onclick="updatePopulars(3, this)"><span>Απόψεις</span></a></li>
+	</ul>
+	<div class="tab" id="popularsID">
+		<ul>
+			
+				
+				<li >
+				14/01/2012<br>
+				<a href="ArticleActionshow.action?articleID=663300">Ας κάνουμε το 2012 τη χρονιά που θα (ξανα)ανακαλύψουμε την (πολλή) καλή καινούργια μουσική...</a></li>
+			
+				
+				<li id="other_color1">
+				14/01/2012<br>
+				<a href="ArticleActionshow.action?articleID=663310">Στη Βουλή η κλοπή έργων από την Εθνική Πινακοθήκη</a></li>
+			
+				
+				<li >
+				14/01/2012<br>
+				<a href="ArticleActionshow.action?articleID=663301">Λίλα Αδαμάκη: «Ο ρόλος της λυρικής τραγουδίστριας έχει διαφοροποιηθεί δραστικά σε σχέση με το παρελθόν...»</a></li>
+			
+				
+				<li id="other_color1">
+				19/11/2011<br>
+				<a href="ArticleActionshow.action?articleID=652700">Θοδωρής Αμπαζής: «Η παρτιτούρα ενός soundtrack δεν είναι λευκή...»</a></li>
+			
+				
+				<li >
+				13/01/2012<br>
+				<a href="ArticleActionshow.action?articleID=662989">Το θέατρο εξορίζεται από την εκπαίδευση;</a></li>
+			
+				
+				<li id="other_color1">
+				14/05/2011<br>
+				<a href="ArticleActionshow.action?articleID=616201">Θεατρικές παραστάσεις</a></li>
+			
+		</ul>
+	</div>
+</div>
+				
+					
+						
+						
+					
+					
+						
+						
+						
+					
+		
+			
+
+<div class="entyph" style="margin-bottom:20px;">
+	<h3></h3>
+	<div class="inner">
+		<div>
+			
+				<img width="132" src="images/firstPage/2012/01/14/01.jpg?w=132" alt="" />
+				<!-- 
+				<img width="132" src="ServeFileActionviewFirstPage.action?photoPath=/2012/01/14/01.jpg" alt="" />
+				 -->
+			
+			<dl>
+				<dt>Αριθμός φύλλου:&nbsp;</dt>
+				<dd>11307</dd>
+				<dt>Ημερομηνία:&nbsp;</dt>
+				<dd>14/01/2012</dd>
+			</dl>
+			<ul>
+				<li>
+					
+					<a href="ServeFileActionsavePdf.action?photoPath=/2012/01/14/20120114.pdf">Κατεβάστε το σημερινό φύλλο σε μορφή PDF (10Mb)</a>
+					
+				</li>
+				<li>
+					<a href="ArchiveActionshow.action">Αρχείο Αυγής online</a>
+				</li>
+				<li>
+					<a href="SearchOldArticleActionshow.action">Αρχείο Παλαιών Φύλλων</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+				
+			</div>
+		</div>
+		
+
+
+
+
+		<div id="footer">
+			<ul>
+				<li>EΠΙΚΑΙΡΟΤΗΤΑ:</li>
+				<li><a href="DepartmentActionshow.action?departmentID=22">ΕΛΛΑΔΑ</a></li>
+				<li><a href="DepartmentActionshow.action?departmentID=23">ΔΙΕΘΝΗ</a></li>	
+				<li><a href="DepartmentActionshow.action?departmentID=21">ΠΟΛΙΤΙΚΗ</a></li>
+				<li><a href="DepartmentActionshow.action?departmentID=24">ΟΙΚΟΝΟΜΙΑ</a></li>
+				<li><a href="DepartmentActionshow.action?departmentID=26">ΠΟΛΙΤΙΣΜΟΣ</a></li>
+				<li><a href="DepartmentActionshow.action?departmentID=25">ΑΘΛΗΤΙΣΜΟΣ</a></li>
+			</ul>
+			<ul>
+				<li>ENΘΕΤΑ:</li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=28">Ο ΔΑΙΜΩΝ ΤΗΝ ΟΙΚΟΛΟΓΙΑΣ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=30">ΠΑΙΔΕΙΑ ΚΑΙ ΚΟΙΝΩΝΙΑ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=29">ΑΝΑΓΝΩΣΕΙΣ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=31">ΕΝΘΕΜΑΤΑ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=451565">ΔΙΕΘΝΗΣ ΤΥΠΟΣ</a></li>
+				<li><a href="InsetsMainActionshowDep.action?departmentID=470780">ΕΝΤΟΣ ΦΥΛΟΥ</a></li>
+			</ul>
+			<ul>
+				<li>ΑΠΟΨΕΙΣ:</li>
+				<li><a href="OpinionsMainActionshowDep.action?departmentID=32">ΓΝΩΜΗ</a></li>
+				<li><a href="OpinionsMainActionshowDep.action?departmentID=34">ΣΤΗΛΕΣ</a></li>
+				<li><a href="OpinionsMainActionshowDep.action?departmentID=33">ΑΡΘΡΟΓΡΑΦΙΑ</a></li>
+				<!-- 
+					<li><a href="OpinionsMainActionshowDep.action?departmentID=35">BLOGS</a></li> 
+				-->
+			</ul>
+			<div>
+				<a class="link" href="mailto:editors@avgi.gr">Επικοινωνία</a>
+				<a href="#" class="logo">HAYGH</a>
+				<p>Το περιεχόμενο <a target="_blank" href="http://creativecommons.org/licenses/by-nc/3.0/gr/">διατίθεται</a> ελεύθερα χωρίς περιορισμούς υπό τον όρο της παραπομπής στην αρχική του πηγή, για μη-εμπορικούς σκοπούς, Created by <a class="vtrip" target="_blank" href="http://www.vtrip.net">Virtual Trip, Ltd</a></p>
+				<p style="margin-left:65px">Ο ιστοτόπος αναπτύχθηκε με εργαλεία ελεύθερου λογισμικού - λογισμικού ανοιχτού κώδικα</p>
+			</div>
+		</div>
+	</div>
+	 
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-380276-5");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+	 
+</body>
+</html>

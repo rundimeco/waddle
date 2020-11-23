@@ -1,0 +1,647 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>人間衛視-人間新聞</title>
+<link rel="icon" href="http://www.bltv.tv/images/blogo.ico" type="image/x-icon"/>
+<link rel="icon" href="/blogo.ico" type="image/x-icon"/>
+<link rel="bookmark" href="http://www.bltv.tv/images/blogo.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="http://www.bltv.tv/images/blogo.ico" type="image/x-icon"/>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.bltv.tv/images/blogo.ico"/>
+<link href="/style.css" rel="stylesheet" type="text/css" />
+<LINK title=SmallText media=screen,print href="text_s.css" type=text/css rel=stylesheet>
+<LINK title=MediumText media=screen,print href="text_m.css" type=text/css rel=stylesheet>
+<LINK title=LargeText media=screen,print href="text_l.css" type=text/css rel=stylesheet>
+<script src="/Scripts/comm.js" type="text/JavaScript"></script>
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="/Scripts/functions.js" type="text/javascript"></script>
+</head>
+
+<body onLoad="MM_preloadImages('/images/menu1o.gif','/images/menu2o.gif','/images/menu3o.gif','/images/menu4o.gif','/images/menu6o.gif','/images/menu7o.gif','/images/btn_search1.gif','/images/btn_more1.gif','/images/menu8o.gif','/images/menu5o.gif')">
+<!--天START-->
+<div id="header">
+<div id="topMenu"><a href="http://member.fgsou.com.tw/index.php">會員登入</a>∣<a href="http://member.fgsou.com.tw/index.php">會員中心</a>∣<a href="http://member.fgsou.com.tw/member_agreement.php">加入會員</a>∣<A HREF="#" onclick="setHome();">設成首頁</A> ∣<a href="http://www.fgsou.com.tw/index.php">回到人間大學</a>∣<a href="/">回首頁</a></div>
+<div><script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://ad.bltv.tv/www/delivery/ajs.php':'http://ad.bltv.tv/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?campaignid=11");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://ad.bltv.tv/www/delivery/ck.php?n=abcdde13&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_top'><img src='http://ad.bltv.tv/www/delivery/avw.php?campaignid=11&amp;n=abcdde13' border='0' alt='' /></a></noscript>
+    </div>
+</div>
+<!--天END-->
+<!--MENU START-->
+<div id="menu">
+<ul>
+  <li id="menua" class="submenu"><a href="/about/"><img src="/images/spacer.gif" width="80" height="37" border="0"></a>
+    <ul>
+    <li><a href="/about/">關於人間</a></li>
+    <li><a href="/about/?f=landmark">重要里程碑</a></li>
+    <li><a href="/about/?f=channel">頻道表</a></li>
+	<li><a href="/about/?f=live">直播說明</a></li>
+	<li><a href="/tree.php">人間許願樹</a></li>
+	<li><a href="/about/?f=download">下載專區</a></li>
+	<li><a href="/faq.php">常見問答</a></li>
+    </ul>
+  </li>
+  <li id="menub" class="submenu"><a href="/program/"><img src="/images/spacer.gif" width="80" height="37" border="0"></a>
+    <ul>
+    <li><a href="/program/">節目首頁</a></li>
+    <li><a href="/program/?f=list">節目總覽</a></li>
+    <li><a href="/program/?f=auth">節目授權</a></li>
+    <li><a href="http://bbs.bltv.tv/viewforum.php?f=26" target="bltv">主持人專區</a></li>    
+    <li><a href="/program/?f=week">節目表</a></li>
+    </ul>
+  </li>
+  <li id="menuc" class="submenu"><a href="/news/"><img src="/images/spacer.gif" width="80" height="37" border="0"></a>
+    <ul>
+    <li><a href="/news/">新聞首頁</a></li>
+    <li><a href="/news/?f=list">分類新聞</a></li>
+    <li><a href="http://bbs.bltv.tv/viewforum.php?f=26" target="bltv">主播專區</a></li>
+    </ul>
+  </li><li id="menud" class="submenu"><a href="http://shop.fgsou.com.tw/index.php"><img src="/images/spacer.gif" width="80" height="37" border="0"></a></li>
+  <li id="menue" class="submenu"><a href="/about/?f=audience"><img src="/images/spacer.gif" width="80" height="37" border="0"></a>
+    <ul>
+    <li><a href="/about/?f=audience">收視人間</a></li>
+    </ul>
+  </li>
+  <li id="menug" class="submenu"><a href="/about/?f=fundation"><img src="/images/spacer.gif" width="160" height="37" border="0"></a>
+    <ul>
+    <li><a href="/about/?f=fundation">關於基金會</a></li>
+    <li><a href="http://www.bltv.tv/events/fundation/fundation0.htm">五塊福田</a></li>
+    <li><a href="http://member.fgsou.com.tw/member_donate.php">歡喜贊助</a></li>
+    </ul>
+  </li>
+  <li id="menuh" class="submenu"><a href="http://www.fgsou.com.tw/index.php" target="_blank"><img src="/images/spacer.gif" width="110" height="37" border="0"></a>
+  </li>
+    <li id="menui" class="submenu"><a href="http://bbs.bltv.tv/" target="_blank"><img src="/images/spacer.gif" width="80" height="37" border="0"></a>  </li>
+</ul>
+</div><!--MENU END-->
+<div id="content">
+	<!--左邊區塊START-->
+    <div id="left">
+  <div><img src="/images/sideTop.gif" width="230" height="10" /></div>
+  <!--左邊按鈕START-->
+  	<!--左邊按鈕START-->
+	<div class="tableTop">
+		  <table width="100%" border="0" cellspacing="2" cellpadding="2">
+            <tr>
+              <td align="center"><a href="http://www.bltv.tv/about/?f=audience" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image25','','/images/leftBtn2o.jpg',1)"><img src="/images/leftBtn2.jpg" name="Image25" width="203" height="33" border="0" id="Image25" /></a></td>
+            </tr>
+            <tr>
+              <td align="center"><img src="/images/divLine.gif" width="210" height="2" /></td>
+            </tr>
+            <tr>
+              <td align="center"><a href="../member/rss.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image26','','/images/leftBtn3o.jpg',1)"><img src="/images/leftBtn3.jpg" name="Image26" width="203" height="33" border="0" id="Image26" /></a></td>
+            </tr>
+          </table>
+</div>
+	<!--左邊按鈕END-->  <!--左邊按鈕END-->
+  <!--合作媒體START-->
+  <table width="230" border="0" cellpadding="0" cellspacing="0" bgcolor="#e7e7e8">
+    <tr>
+      <td height="40" valign="bottom"><img src="/images/titleB_corp.jpg" width="230" height="35" /></td>
+    </tr>
+    <tr>
+      <td><div class="product">
+        <ul>
+      <li><a href="http://www.ctitv.com.tw/new/index/index.html" target="_blank">中天電視</a></li>
+<li><a href="http://news.google.com.tw/" target="_blank">Google新聞</a></li>
+<li><a href="http://www.merit-times.com.tw/" target="_blank">人間福報</a></li>
+<li><a href="http://www.ifeng.com/" target="_blank">鳳凰衛視</a></li>
+<li><a href="http://www.ctitv.com/new/news/index.html" target="_blank">中天新聞</a></li>
+<li><a href="http://life.fgs.org.tw/content/content.php" target="_blank">人間通訊社</a></li>
+        </ul>
+      </div></td>
+    </tr>
+    <tr>
+      <td height="10" align="center"><img src="/images/divLine.gif" width="210" height="2" /></td>
+    </tr>
+  </table>
+  <!--合作媒體END-->
+  
+  <!--左邊廣告區START-->
+  <div id="leftAD">
+<!-- 左一 -->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.bltv.tv/www/delivery/ajs.php':'http://ad.bltv.tv/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?campaignid=3");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.bltv.tv/www/delivery/ck.php?n=a7cf0c41&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.bltv.tv/www/delivery/avw.php?campaignid=3&amp;n=a7cf0c41' border='0' alt='' /></a></noscript>
+<br />
+<br />
+<!-- 左二 -->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.bltv.tv/www/delivery/ajs.php':'http://ad.bltv.tv/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?campaignid=4");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.bltv.tv/www/delivery/ck.php?n=aed19f6d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.bltv.tv/www/delivery/avw.php?campaignid=4&amp;n=aed19f6d' border='0' alt='' /></a></noscript>
+<br />
+<br />
+<!-- 左3 -->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.bltv.tv/www/delivery/ajs.php':'http://ad.bltv.tv/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?campaignid=5");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.bltv.tv/www/delivery/ck.php?n=a5b971bf&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.bltv.tv/www/delivery/avw.php?campaignid=5&amp;n=a5b971bf' border='0' alt='' /></a></noscript>
+<br />
+<br />
+<!-- 左4 -->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.bltv.tv/www/delivery/ajs.php':'http://ad.bltv.tv/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?campaignid=6");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.bltv.tv/www/delivery/ck.php?n=abc6e1dd&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.bltv.tv/www/delivery/avw.php?campaignid=6&amp;n=abc6e1dd' border='0' alt='' /></a></noscript>
+<br />
+<br />
+<!-- 左5 -->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.bltv.tv/www/delivery/ajs.php':'http://ad.bltv.tv/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?campaignid=7");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.bltv.tv/www/delivery/ck.php?n=af115918&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.bltv.tv/www/delivery/avw.php?campaignid=7&amp;n=af115918' border='0' alt='' /></a></noscript>
+<br />
+<br />
+<!-- 左6 -->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.bltv.tv/www/delivery/ajs.php':'http://ad.bltv.tv/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?campaignid=8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.bltv.tv/www/delivery/ck.php?n=ac182851&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.bltv.tv/www/delivery/avw.php?campaignid=8&amp;n=ac182851' border='0' alt='' /></a></noscript>
+<br />
+<br />
+</div>
+<!-- 左一 -->
+ 
+  <!--左邊廣告區END-->
+  <div><img src="/images/sideDown.gif" width="230" height="10" /></div>
+</div>
+	<!--左邊區END-->
+    <!--中間區塊START-->
+    <script language="JavaScript">
+<!--
+var printPopup=0;
+function popUpPrint(id)
+{
+  if(printPopup)
+  {
+    if(!printPopup.closed) printPopup.close();
+  }
+  printPopup = open("news_print.php?cid="+id, 'printPopup');
+}
+
+//-->
+</script> 
+<div id="main">
+  <!--現在位置-->
+  <div id="path">現在位置： <span><a href="/news/">人間新聞</a></span><img src="/images/icon_path.gif" width="15" height="15" align="absmiddle"><span ><a href="/news/?f=list">分類新聞</a></span><img src="/images/icon_path.gif" width="15" height="15" align="absmiddle"><span >人文‧教育新聞</span></div>
+  <!--現在位置-->
+  <br />
+  <table width="520" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img src="/images/main520_top.gif" width="520" height="15" /></td>
+    </tr>
+    <tr>
+      <td align="center" background="/images/main520_bg.gif"><!--公益新聞START-->
+            <table width="500" height="24" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><div id="news2">
+                  <h1 class="Hcontent">網購超商年菜 注意保存方式<br></h1>
+                                      <div style="text-align:center"><script type="text/javascript">
+				AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','480','height','420','src','http://www.youtube.com/v/TAhTPILwNKM?hl=zh&rel=0','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','wmode','transparent','movie','http://www.youtube.com/v/TAhTPILwNKM?hl=zh&rel=0' ); //end AC code
+				</script><noscript>
+				  		<object width="480" height="420" >
+                        <param name="movie" value="http://www.youtube.com/v/TAhTPILwNKM?hl=zh&rel=0"></param>
+                        <param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param>
+                        <embed src="http://www.youtube.com/v/TAhTPILwNKM?hl=zh&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="420"></embed></object></noscript>                      
+                    </div>
+                                   
+                    <table width="100%" border="0" cellspacing="1" cellpadding="2">
+                      <tr>
+                        <td width="48%" class="txt_dgray"><span class="txt_title">發表時間：</span>2012-01-12 11:40</td>
+                        <td width="20%" align="right" class="txt_dgray"><span class="txt_title">字級設定：</span></td>
+                        <td width="32%" class="txt_dgray"><span class="txt_main">
+                        <a href="#" onClick="setActiveStyleSheet('SmallText', 1);fontline('wstyle');return false;"><img title="字級：小" src="/images/font_s.gif" width="20" name="ImageNCss" id="fss" height="16" border="0"> </a>
+                        <a href="#" onclick="setActiveStyleSheet('MediumText', 1);fontline('wstyle');return false;"><img title="字級：中" src="/images/font_m.gif" name="ImageNCsm" id="fsm" width="20" height="16" border="0"> </a>
+                        <a href="#" onclick="setActiveStyleSheet('LargeText', 1);fontline('wstyle');return false;"><img title="字級：大" src="/images/font_l.gif" name="fsl" id="fsl" width="20" height="16" border="0"></a>
+                        </span></td>
+                      </tr>
+                      <tr>
+                        <td colspan="2" class="txt_dgray">記者：邱雯琪 羅執中&nbsp;&nbsp;台北報導</td>
+                        <td class="txt_dgray"><a href="#" onclick="popUpPrint('10900');return false;" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image45','','/images/btn1_print1.gif',1)"><img src="/images/btn1_print.gif" name="Image45" width="90" height="20" border="0"></a></td>
+                      </tr>
+                    </table>
+                  <br>
+                  <span class="content">衛生署食品藥物管理局日前針對國內超商預購以及網購年菜進行調查，只有1家不符合食品衛生規範，經過衛生署輔導後已改善，提醒民眾，選購年菜時應注意保存、運送方式以及外觀包裝是否完整，才能確保食品的新鮮衛生。<br />
+<br />
+農曆新年進入倒數階段，許多民眾透過不同管道選購年菜，近期超夯的超商預購以及網購年菜，也加入戰局，為了保障民眾吃得健康，衛生署食品藥物管理局日前針對超商預購以及網路人氣年菜進行食品安全調查，41家業者中只有1家不符合規定，由衛生署輔導改善。<br />
+<br />
+衛生署表示，將持續加強輔導網購相關產品製造業者，並提醒選購年菜時，應了解年菜販售網頁以及標註的保存、運送方式是否完整正確；由於年菜多為冷凍熟食，民眾在食用前，應依包裝指示將產品退冰，充份加熱後再食用。<br />
+<br />
+另外，不符合食品衛生規範者，衛生署已輔導廠商改善，民眾在收到年菜食品時，應確認運送溫度是否符合標準、外包裝是否清潔完整，確保年菜的品質以及食用的衛生安全。</span><br />
+                  <span class="content"></span>
+                  <SCRIPT language=JavaScript type=text/JavaScript>setActiveStyleSheet(getCookie('wstyle'),0);fontline('wstyle');</SCRIPT>
+                  </td>
+              </tr>
+            </table> 
+          <!--公益新聞END-->
+                  
+            <!--活動情報START-->
+            <div class="project">
+              <table width="500" height="24" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="left" valign="bottom" class="titleBg"><img src="/images/mainTitle_eduM.gif" width="120" height="21" border="0" usemap="#Map"></td>
+                </tr>
+                <tr>
+                  <td><ul>
+                <li><a href="/news/index.php?f=content&cid=10904"><span class="content">民間團體反賭 要求總統.立委候選人表態</span></a></li>
+<li><a href="/news/index.php?f=content&cid=10901"><span class="content">店家堅持好食材 每道料理都有色、香、味</span></a></li>
+<li><a href="/news/index.php?f=content&cid=10899"><span class="content">新北市抽驗金針食品 5件含過量二氧化硫</span></a></li>
+<li><a href="/news/index.php?f=content&cid=10898"><span class="content">北中南四地促銷活動 嚴選各地優良農特產品</span></a></li>
+<li><a href="/news/index.php?f=content&cid=10888"><span class="content">餵母乳親子情 母乳能製手工皂</span></a></li>
+                    </ul></td>
+                </tr>
+              </table>
+            </div>
+          <!--活動情報END-->
+                </td></tr>
+    <tr>
+      <td><img src="/images/main520_down.gif" width="520" height="17" /></td>
+    </tr>
+  </table>
+</div>
+<map name="Map" id="Map"><area shape="rect" coords="2,2,93,19" href="?f=list&sid=2" /><area shape="rect" coords="93,2,120,20" href="/rss/news.php?sid=2" /></map>    <!--中間區塊END-->
+	<!--右邊區塊START-->
+		<script language="javascript" src="/Scripts/tvScroll.js"></script>
+    <script language="javascript">
+	imgSrc = "";
+	rowCount = 4;
+		collects.push(new Array("林致成返鄉 專業指導高效健身操", "/images/news/13263453805725375.jpeg" , "/news/?f=content&cid=10905"));
+		collects.push(new Array("民間團體反賭 要求總統.立委候選人表態", "/images/news/1326345359141311688.jpeg" , "/news/?f=content&cid=10904"));
+		collects.push(new Array("黴漿菌引發呼吸道感染 好發於學齡前兒童", "/images/news/132634151618606652.jpeg" , "/news/?f=content&cid=10903"));
+		collects.push(new Array("流感疫情增溫 1/10再添2名死亡案例", "/images/news/1326341485886538365.jpeg" , "/news/?f=content&cid=10902"));
+		collects.push(new Array("店家堅持好食材 每道料理都有色、香、味", "/images/news/13263414571787291544.jpeg" , "/news/?f=content&cid=10901"));
+		collects.push(new Array("網購超商年菜 注意保存方式", "/images/news/1326341412552120821.jpeg" , "/news/?f=content&cid=10900"));
+		collects.push(new Array("新北市抽驗金針食品 5件含過量二氧化硫", "/images/news/13263413771466080957.jpeg" , "/news/?f=content&cid=10899"));
+		collects.push(new Array("北中南四地促銷活動 嚴選各地優良農特產品", "/images/news/13263413531079860989.jpeg" , "/news/?f=content&cid=10898"));
+		collects.push(new Array("年度貧老圍爐餐會 邀請101位獨居長者出席", "/images/news/1326341323596240669.jpeg" , "/news/?f=content&cid=10897"));
+		collects.push(new Array("園遊會尾牙 公益團體邀請街友過好年", "/images/news/13263389241371282017.jpeg" , "/news/?f=content&cid=10896"));
+		collects.push(new Array("多元宗教早餐祈福會 紐約道場應邀出席", "/images/news/1326338196146274021.jpeg" , "/news/?f=content&cid=10895"));
+		collects.push(new Array("工作機會難找 失業民眾待援手", "/images/news/1326338170774940285.jpeg" , "/news/?f=content&cid=10894"));
+		</script>
+    <div id="right">
+      <div><img src="/images/sideTop.gif" width="230" height="10" /></div>
+      <!--搜尋START-->
+      <script type="text/javascript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+}
+//-->
+</script>
+	<div>
+      <script language="javascript">
+	  <!-- 
+	  	function SearchAdv(){
+			var f = document.search;
+			var c =	f.searchCat.options[f.searchCat.selectedIndex].value;
+			S = f.SearchKey.value;
+			S = S=="關鍵字"?'':S;
+			location.href="/search.php?SearchKey="+S+"&searchCat="+c+"&sd=3";
+			
+		}
+		
+		
+		function clearKey(obj){
+			if(obj.value=="關鍵字"){
+				obj.value="";
+			}else if(obj.value==""){
+				obj.value="關鍵字";
+			}
+		}
+		
+		function goSearch(obj){
+			var v = obj.SearchKey.value;
+		 	if(v=='關鍵字' || v==''){
+				alert('請輸入關鍵字或按【進階】鍵')
+				return false;
+			}else{
+				return true;
+			}			
+		}
+	  //-->
+	  </script>
+
+<table width="210" height="35" border="0" cellpadding="0" cellspacing="0">
+      <form action="/search.php" enctype="application/x-www-form-urlencoded" name="search" method="post" onsubmit="return goSearch(this);">
+          <tr>
+            <td width="72" valign="top"><input name="SearchKey" type="text" class="inputBox" value="關鍵字" size="5" onmouseout="clearKey(this);" onmouseover="clearKey(this);" /></td>
+            <td width="70" valign="top"><label>
+              <select name="searchCat" class="inputBox">
+                <option value="P" >節目</option>
+                <option value="N" >新聞</option>
+                <!--option value="M" >人間影音</option-->
+                <option value="S" >購物</option>
+            </select>
+            <input type="hidden" name="sd" value="3" />
+            </label></td>
+            <td width="30" align="right"><input type="image" src="/images/btn_go.gif" name="Image51" width="25" height="20" border="0" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image51','','/images/btn_go1.gif',1)"></td>
+            <td width="48" align="right"><a href="javascript:SearchAdv()" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image52','','/images/btn_searchmore1.gif',1)"><img src="/images/btn_searchmore.gif" name="Image52" width="40" height="20" border="0" onclick="location.href='search.php';"></a></td>
+          </tr>
+          <tr>
+            <td height="10" colspan="4"><img src="/images/divLine.gif" width="210" height="2" /></td>
+          </tr>
+          </form>
+      </table>
+    </div>      <!--搜尋END-->
+      <br />
+      <!--最新新聞START-->
+      <div>
+      <table width="230" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="left"><img src="/images/titleB_news.jpg" width="230" height="35"></td>
+        </tr>
+        <tr>
+          <td align="center"><a href="javascript:void(0);" onclick="prevCol();" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image42','','/images/btn_up1.gif',1)"><img src="/images/btn_up.gif" name="Image42" width="210" height="20" border="0" id="Image42" /></a></td>
+        </tr>
+        <tr>
+          <td align="center">  	
+        <div id="recommend" style="background-color:#FFFFFF">
+          <ul>
+                      <li><a href="/news/?f=content&cid=10905" id="elmLink1"><img id="elmImg1" src="/images/news/13263453805725375.jpeg" width="200" height="100" border="0" class="pic175" /></a><br />
+              <a href="/news/?f=content&cid=10905" id="elmLinkA1"><span id="elmTitle1">林致成返鄉 專業指導高效健身操</span></a><br />
+            </li>
+                      <li><a href="/news/?f=content&cid=10904" id="elmLink2"><img id="elmImg2" src="/images/news/1326345359141311688.jpeg" width="200" height="100" border="0" class="pic175" /></a><br />
+              <a href="/news/?f=content&cid=10904" id="elmLinkA2"><span id="elmTitle2">民間團體反賭 要求總統.立委候選人表態</span></a><br />
+            </li>
+                      <li><a href="/news/?f=content&cid=10903" id="elmLink3"><img id="elmImg3" src="/images/news/132634151618606652.jpeg" width="200" height="100" border="0" class="pic175" /></a><br />
+              <a href="/news/?f=content&cid=10903" id="elmLinkA3"><span id="elmTitle3">黴漿菌引發呼吸道感染 好發於學齡前兒童</span></a><br />
+            </li>
+                      <li><a href="/news/?f=content&cid=10902" id="elmLink4"><img id="elmImg4" src="/images/news/1326341485886538365.jpeg" width="200" height="100" border="0" class="pic175" /></a><br />
+              <a href="/news/?f=content&cid=10902" id="elmLinkA4"><span id="elmTitle4">流感疫情增溫 1/10再添2名死亡案例</span></a><br />
+            </li>
+                    </ul>
+        </div></td>
+        </tr>
+       
+        <tr>
+          <td align="center"><a href="javascript:void(0);" onclick="nextCol();" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image43','','/images/btn_down1.gif',1)"><img src="/images/btn_down.gif" name="Image43" width="210" height="20" border="0" id="Image43" /></a></td>
+        </tr>
+      </table>	<div class="more"><a href="?list" class="txt_dpurple">瀏覽更多新聞</a></div>
+    </div>
+ 
+
+  <!--天氣START-->
+
+<script language="Javascript">
+
+window.appVersion = window.navigator.appVersion;if(window.appVersion!=null){ window.appVersion = window.appVersion.toUpperCase(); window.MacIE5 = ((window.appVersion.toUpperCase().indexOf("MSIE") >=0) && (window.appVersion.toUpperCase().indexOf("MACINTOSH") >=0) && (window.appVersion.indexOf("5.0") >=0));};window.OPR =(window.opera!=null)|| false;window.IE = (document.all && (!window.OPR))|| false;window.IE55 = (window.IE && window.createPopup!=null && document.createComment==null) || false;window.MOZ = (window.outerWidth && !window.OPR && (window.navigator.product!=null)) || false;window.IE50 = (window.IE && (document.createTextNode!=null) && (window.createPopup==null)) || false;window.IE60= (window.IE && document.createComment!=null ) || false;window.IE40 = (document.all && !window.IE50 && !window.IE55 && !window.IE60 &&(window.opera==null) ) || false;window.MS =( window.navigator.userAgent.toLowerCase().indexOf("windows") >= 0 ) || false ;window.MAC =( window.navigator.appVersion.toLowerCase().indexOf("mac") >= 0 ) || false ;window.CSS1 = (document.compatMode!=null)||false;window.GDA = (( window.IE55 || window.IE50 || window.MOZ || window.IE60 ) && !window.MAC);if(window.IE){ window.WIN98 = (window.navigator.userAgent.toLowerCase().indexOf("windows 98")>=0); /* windows 98 has serous pronlem with DirectX when use filter, we need to remove that;*/};function gObj(ID){if(document.getElementById==null){document.getElementById = document.all;};if(ID==null){return null;};return document.getElementById(ID);};function gTags(srcDocument, TagName){if(document.getElementsByTagName==null){return (new Array());};if(TagName==null){return (new Array());};return srcDocument.getElementsByTagName(TagName);};function gAttr(srcObj,attributeName){if(srcObj==null || attributeName==null){return null;};if(srcObj.getAttribute == null){return null ;};attributeName = srcObj.getAttribute(attributeName);if(attributeName==""){attributeName=null};return attributeName;};
+
+</script>
+
+<style>
+
+#nwr{margin:0 0 4px 0;font-size:120%;height:80px;overflow:hidden;position:relative;display:none;}#nwr table td{font-size:13px;}#nwr table td{font-size/**/:/**/100%;}#nwr font, #nwr table td, #nwr table td a{white-space:nowrap;}#nwr div{padding:0 0 0 5px;visibility:hidden;position:absolute;top:999px;left:0;}#nwr marquee{height:1em;display:block;}#nwr font, #nwr table td, #nwr table td a{white-space:nowrap !important;}#nwr marquee table td a, #nwr marquee b{width:auto !important;}/*commercial_nw*/
+
+</style>
+
+<script language="Javascript">
+
+function sText_onkeydown(ev){ if(self!=top){return true;}; ev = ev || window.event; var ek = ev.keyCode;if(ek==13){sForm_Submit(false,true);return false;};if( (ek == 9) ){window.clearTimeout(sText.M);if(!ev.shiftKey){var e1= gObj("sb_tab"+sBody.tid);var e2= gObj("sb_tab"+(sBody.tid+1));if(e2!=null){var v = sText.value;sText.value="";sch_TabOnBlur(e1);sch_TabOnFocus(e2);sText.value = v;if(window.MOZ){sText.M = setTimeout("sText.focus()",800);};return false;};}else{var e1= gObj("sb_tab"+sBody.tid);var e2= gObj("sb_tab"+(sBody.tid-1));if(e2!=null){sText.oldV = (sText.oldV==null)?"":sText.oldV;sText.oldV = (sText.value=="")?sText.oldV:sText.value;sText.value="";sch_TabOnFocus(e2);sch_TabOnBlur(e1);setTimeout("sText.value=sText.oldV",500);ev.returnValue=false;ev.cancelBubble = true;if(window.MOZ){sText.M = setTimeout("sText.focus()",800);};doBackground(e2);return false;}else{var m4l = gTags(gObj('m4l'),'a')[3];m4l.focus();};};return true;};};
+
+</script>
+	<div>
+		  <table width="200" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+			  <td width="210" align="left"><img src="/images/weather_top.gif" width="200" height="40" /></td>
+			</tr>
+             <tr>
+			  <td align="center" height="90" background="/images/weather_bg.gif"><div id=nwr delay=3.5>
+<div><table width="180" border="0" cellspacing="1" cellpadding="2">
+				<tr>
+				  <td width="60" align="left"><img src="/images/weather/23.gif" width="50" height="30" /></td>
+				  <td width="48" align="right"><span class="price">13～17</span></td>
+				  <td width="56" align="left"><img src="/images/C.gif" width="20" height="30" align="absmiddle" /></td>
+				</tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_o">宜蘭地區</td>
+				  </tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_main">陣雨</td>
+				  </tr>
+			  </table></div>
+			 <div><table width="180" border="0" cellspacing="1" cellpadding="2">
+				<tr>
+				  <td width="60" align="left"><img src="/images/weather/7.gif" width="50" height="30" /></td>
+				  <td width="48" align="right"><span class="price">18～22</span></td>
+				  <td width="56" align="left"><img src="/images/C.gif" width="20" height="30" align="absmiddle" /></td>
+				</tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_o">高屏地區</td>
+				  </tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_main">多雲時晴</td>
+				  </tr>
+			  </table></div>
+			 <div><table width="180" border="0" cellspacing="1" cellpadding="2">
+				<tr>
+				  <td width="60" align="left"><img src="/images/weather/7.gif" width="50" height="30" /></td>
+				  <td width="48" align="right"><span class="price">17～21</span></td>
+				  <td width="56" align="left"><img src="/images/C.gif" width="20" height="30" align="absmiddle" /></td>
+				</tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_o">南部地區</td>
+				  </tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_main">多雲時晴</td>
+				  </tr>
+			  </table></div>
+			 <div><table width="180" border="0" cellspacing="1" cellpadding="2">
+				<tr>
+				  <td width="60" align="left"><img src="/images/weather/7.gif" width="50" height="30" /></td>
+				  <td width="48" align="right"><span class="price">13～21</span></td>
+				  <td width="56" align="left"><img src="/images/C.gif" width="20" height="30" align="absmiddle" /></td>
+				</tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_o">南投</td>
+				  </tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_main">多雲時晴</td>
+				  </tr>
+			  </table></div>
+			 <div><table width="180" border="0" cellspacing="1" cellpadding="2">
+				<tr>
+				  <td width="60" align="left"><img src="/images/weather/7.gif" width="50" height="30" /></td>
+				  <td width="48" align="right"><span class="price">14～22</span></td>
+				  <td width="56" align="left"><img src="/images/C.gif" width="20" height="30" align="absmiddle" /></td>
+				</tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_o">中部地區</td>
+				  </tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_main">多雲時晴</td>
+				  </tr>
+			  </table></div>
+			 <div><table width="180" border="0" cellspacing="1" cellpadding="2">
+				<tr>
+				  <td width="60" align="left"><img src="/images/weather/11.gif" width="50" height="30" /></td>
+				  <td width="48" align="right"><span class="price">12～18</span></td>
+				  <td width="56" align="left"><img src="/images/C.gif" width="20" height="30" align="absmiddle" /></td>
+				</tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_o">北部地區</td>
+				  </tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_main">多雲</td>
+				  </tr>
+			  </table></div>
+			 <div><table width="180" border="0" cellspacing="1" cellpadding="2">
+				<tr>
+				  <td width="60" align="left"><img src="/images/weather/11.gif" width="50" height="30" /></td>
+				  <td width="48" align="right"><span class="price">14～16</span></td>
+				  <td width="56" align="left"><img src="/images/C.gif" width="20" height="30" align="absmiddle" /></td>
+				</tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_o">桃竹苗地區</td>
+				  </tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_main">多雲</td>
+				  </tr>
+			  </table></div>
+			 <div><table width="180" border="0" cellspacing="1" cellpadding="2">
+				<tr>
+				  <td width="60" align="left"><img src="/images/weather/17.gif" width="50" height="30" /></td>
+				  <td width="48" align="right"><span class="price">13～17</span></td>
+				  <td width="56" align="left"><img src="/images/C.gif" width="20" height="30" align="absmiddle" /></td>
+				</tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_o">基隆北海岸</td>
+				  </tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_main">陰有雨</td>
+				  </tr>
+			  </table></div>
+			 <div><table width="180" border="0" cellspacing="1" cellpadding="2">
+				<tr>
+				  <td width="60" align="left"><img src="/images/weather/23.gif" width="50" height="30" /></td>
+				  <td width="48" align="right"><span class="price">16～18</span></td>
+				  <td width="56" align="left"><img src="/images/C.gif" width="20" height="30" align="absmiddle" /></td>
+				</tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_o">花蓮地區</td>
+				  </tr>
+				<tr>
+				  <td colspan="3" height="20" align="left" class="txt_main">陣雨</td>
+				  </tr>
+			  </table></div>
+			 </div>
+
+<script language="Javascript">
+
+var nwr = gObj("nwr");function RenderNWR(){if(nwr && (window.IE || window.MOZ) && (!window.MAC)){nwr.Hover = false;nwr.onmouseover = function(){this.Hover = true;};nwr.onmouseout = function(){this.Hover = false;};nwr.style.display = "block";nwr.divs = new Array();var divs = gTags(nwr,"div");var tbs = gTags(nwr,"table");var tds = gTags(nwr,"td");for(i=0;i<tbs.length;i++){if(gAttr(tbs[i],"width")){tbs[i].removeAttribute("width");};};for(i=0;i<tds.length;i++){if(gAttr(tds[i],"width")){tds[i].removeAttribute("width");};};var scrolldelay = gAttr(nwr,"delay") || 2.5;if(isNaN(scrolldelay )){nwr.style.display="none"; return;};scrolldelay = Math.max(parseFloat(scrolldelay) * 1000 ,1000);for(i=0;i<divs.length;i++){nwr.divs[i] = divs[i];divs[i].m = setTimeout("void(0)",0);divs[i].n = i;divs[i].o = 10;divs[i].style.top = nwr.offsetHeight*2 + "px";if(divs[i].id==null || divs[i].id == ""){divs[i].id = "_marquee_" + i;};divs[i].flyin = function(){clearTimeout(this.m);this.style.visibility = "visible"; var b = this.n-1;if(b<0){b = nwr.divs.length-1;};if(this.o >0 ){if(this.parentNode.Hover == false){this.o +=-2;this.style.top = ((this.parentNode.offsetHeight * this.o/10))+ "px";};this.m = setTimeout("gObj('"+this.id+"').flyin()",100);}else{this.o = 0;var n = this.n+1;if(n > (nwr.divs.length-1)){n =0;};n = gObj("_marquee_" + n);if(n.id !=this.id){this.m = setTimeout("gObj('"+this.id+"').flyout()",(scrolldelay));n.m = setTimeout("gObj('"+n.id+"').style.top='900px';gObj('"+n.id+"').flyin()",(scrolldelay-0));};};};divs[i].flyout = function(){clearTimeout(this.m); if(this.o < 10 ){if(this.parentNode.Hover == false){this.o+=2;this.style.top = ( -(this.o/10 * this.offsetHeight) -2) + "px";};this.m = setTimeout("gObj('"+this.id+"').flyout()",100);}else{this.o = 10;this.style.top = this.parentNode.offsetHeight*2 + "px";};};};if(divs.length >0){divs[0].style.top = "1px";divs[0].flyin();};}else if(nwr){nwr.style.display="block";nwr.style.overflow = "visible";nwr.style.height="auto";var divs = gTags(nwr,"div");if( divs.length>=1){divs[0].style.position = "static";divs[0].style.visibility = "visible";};};};function RenderNWR98(){nwr.style.display = "block";var divs = gTags(nwr,"div");var tbs = gTags(nwr,"table");var tds = gTags(nwr,"td");for(i=0;i<tbs.length;i++){if(gAttr(tbs[i],"width")){tbs[i].removeAttribute("width");};};for(i=0;i<tds.length;i++){if(gAttr(tds[i],"width")){tds[i].removeAttribute("width");};};divs = new Array();divs = gTags(nwr,"div");var marquee = "";for(i=0;i<divs.length;i++){marquee+= "<div style='margin:0 0 0.2em 0;white-space:nowrap;display:block;visibility:visible;position:static;'>" + divs[i].innerHTML+ "</div>";};nwr.innerHTML = "<marquee direction=up scrolldelay=200 scrollamount=1 onmouseover='this.stop()' onmouseout='this.start()'>" + marquee +"</marquee>" ;};if(window.WIN98){RenderNWR98();}else{RenderNWR();}
+
+</script>        
+        
+        </td>
+			</tr>
+					<tr>
+					  <td align="left"><img src="/images/weather_down.gif" width="200" height="25" border="0" /></td>
+					</tr>
+				  </table>
+				</div>
+     <!--天氣END-->
+  <div id="rightDown"><img src="/images/sideDown.gif" width="230" height="10" /></div>
+</div>
+	
+	<!--右邊區塊END-->
+</div>
+<!--地 START-->
+﻿<div id="footer"><a href="http://www.fgs.org.tw" target="_blank">佛光山全球資訊網</a> | <a href="http://www.merit-times.com.tw/" target="_blank">人間福報</a> | <a href="http://www.vg.com.tw/" target="_blank">如是我聞</a> | <a href="/about/?f=fundation" target="_self">佛光山電視弘法基金會</a> | <a href="http://life.fgs.org.tw/content/content.php" target="_blank">人間通訊社</a> | <a href="http://www.bltv.tv/about/?f=links" target="_self">網站相關交流</a> | <a href="http://www.bltv.tv/about/?f=audience" target="_self">網路直播</a>  <br />
+  <a href="http://www.bltv.tv/faq.php" target="_self">常見問答</a> | <a href="http://www.bltv.tv/about/?f=service" target="_self">客服中心</a>  | <a href="http://www.104.com.tw/jobbank/cust_job/introduce.cfm?j=48604229486c3e2052423c1d1d1d1d5f2443a363189j56" target="_blank">人間徵才</a>  | <a href="http://bbs.bltv.tv/viewforum.php?f=11&sid=f1257dd67dd8d0fc7bd64175ccfd17fc" target="_blank">網站公告</a>  | <a href="/sitemap.php" target="_self">網站導覽</a> | <a href="/about/?f=map" target="_self">交通資訊</a> |<a href="http://member.fgsou.com.tw/member_donate.php" target="_self">歡喜贊助</a><br />
+  <br />
+  <br />
+  人間電視股份有限公司 地址：台北市110信義區松隆路327號9樓 客服專線：886-2-87872324 <br />
+  Copyright &copy; Beautiful Life Television. All rights reserved. <br />
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6486164-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--地 END-->
+</body>
+</html>
+

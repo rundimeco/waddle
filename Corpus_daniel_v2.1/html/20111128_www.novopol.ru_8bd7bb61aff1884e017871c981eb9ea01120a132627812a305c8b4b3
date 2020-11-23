@@ -1,0 +1,450 @@
+<script language="javascript">
+function image(ImgToOpen)
+{
+	W=400;H=300;
+	tmp=window.open('photo'+ImgToOpen+'.html','','scrollbars=no,resizable=no,top=80, left=180, width='+W+',height='+H);
+//	tmp.document.write('<html><head><title></title></head><body leftmargin=2 topmargin=2><img src='+ImgToOpen+'></body></html>');
+	void(0);
+}
+</script><html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<title>Новая Политика - Дети возвращаются в Дом ребенка Можайской  женской колонии</title>
+
+	<META NAME="keywords" CONTENT="Дом ребенка,Можайская женская колония, воспитанники">
+	<META NAME="description" CONTENT="Пресс-служба управления ФСИН РФ по Московской области сообщает, что воспитанники Дома ребенка Можайской женской колонии, ранее госпитализированные с простудными заболеваниями, вернутся в учреждение.    По данным УФСИН, из Дома ребенка Можай...">
+	<META NAME="robots" CONTENT="all">
+	<META NAME="revisit" CONTENT="1">
+
+	<link rel="stylesheet" type="text/css" href="css/css.css">
+
+</head>
+
+
+
+<body leftmargin=0 topmargin=0 rightmargin=0 bottommargin=0 marginwidth=0 marginheight=0 bgcolor=white style="margin-top: 12px;"><noindex><font style="font-size: 8 px;"><!--begin of Top100--><a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?597908" alt="Rambler's Top100" width=1 height=1 border=0></a><!--end of Top100 code--><!--Rating@Mail.ru COUNTER--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<img src="http://top.list.ru/counter'+
+'?id=747423;js='+js+a+';rand='+Math.random()+
+'" height=1 width=1/>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><img
+src="http://top.list.ru/counter?js=na;id=747423"
+height=1 width=1 alt=""/></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER--><!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet--><!-- SpyLOG f:0210 -->
+<script language="javascript"><!--
+Mu="u5860.02.spylog.com";Md=document;Mnv=navigator;Mp=1;
+Mn=(Mnv.appName.substring(0,2)=="Mi")?0:1;Mrn=Math.random();
+Mt=(new Date()).getTimezoneOffset();
+Mz="p="+Mp+"&rn="+Mrn+"&tl=0&ls=0&ln=0&t="+Mt;
+My="";
+My+="<img src='http://"+Mu+"/cnt?cid=586002&"+Mz+"&r="+escape(Md.referrer)+"&pg="+escape(window.location.href)+"' border=0  width=1 height=1  alt='SpyLOG'>";
+Md.write(My);//--></script><noscript>
+<img src="http://u5860.02.spylog.com/cnt?cid=586002&p=1" alt='SpyLOG' border='0'  width=1 height=1 >
+</noscript>
+<!-- SpyLOG  --></font></noindex><br><table border=0 cellpadding=0 cellspacing=0 width=970 align=center>
+	<tr>
+		<td width=12><img src=img/e.gif width=12 height=1></td>
+		<td><table width=946 border=0 cellpadding=0 cellspacing=0>
+<tr>
+
+<td width=470><a href=index.html><img src=img/16.gif width=450 height=80 border=0 alt="Интернет-журнал 'Новая Политика'" style="margin-right: 10px;"></a></td>
+
+<td valign=top><table border=0 cellpadding=0 cellspacing=0 width=258>
+
+<tr><td valign=top width=7><img src=img/17.gif width=7 height=10 style="margin-bottom: 7px;"></td><td><a class=t41 href=-myagkoe-ujestochenie-text110241.html>Педофилам оставили лазейки</a></td></tr><tr><td valign=top width=7><img src=img/17.gif width=7 height=10 style="margin-bottom: 7px;"></td><td><a class=t41 href=-ubit-shkolu--text110283.html>Убить школу – 2</a></td></tr><tr><td valign=top width=7><img src=img/17.gif width=7 height=10 style="margin-bottom: 7px;"></td><td><a class=t41 href=-sotsialisticheskoe-nastuplenie-text110018.html>Социалистическое наступление</a></td></tr><tr><td valign=top width=7><img src=img/17.gif width=7 height=10 style="margin-bottom: 7px;"></td><td><a class=t41 href=-byudjetnaya-oborona-text110004.html>Бюджетная оборона</a></td></tr></table></td>
+
+<td align=right valign=top><table border=0 cellpadding=0 cellspacing=0 style="margin-bottom: 11px;">
+
+<form action=search.html method=POST>
+<tr>
+<td><input type=text name="searchstr" size=20 style="width: 180px;"></td><td align=right><input type=submit value="ОК"></td>
+</tr>
+
+<input type=hidden name="keywrds_flag" value="F">
+<input type=hidden name="mode" value="new">
+<input type=hidden name="marker_section_code" value="2">
+</form>
+</table>
+
+
+
+<table border=0 cellpadding=0 cellspacing=0 width=210 style="margin-bottom: 4px;">
+<tr>
+<td><a class=t22 href=news.html>НОВОСТИ</a></td>
+<td><a class=t22 href=material.html>СТАТЬИ</a></td>
+<td align=center><a class=t22 href=opinion.html>ИНТЕРВЬЮ</a></td>
+<td align=right><a class=t22 href=theme.html>ТЕМЫ</a></td>
+</tr>
+</table>
+
+<table border=0 cellpadding=0 cellspacing=0 width=210>
+<tr>
+<td align=left><a class=t22 href=column.html>КОЛОНКИ</a></td>
+<td align=left><a class=t22 href=subject.html>СЮЖЕТЫ</a></td>
+<td align=center><a class=t22 href=person.html>ПЕРСОНЫ</a></td>
+<td align=right><a class=t22 href=author.html>АВТОРЫ</a></td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan=3 width=946><img src=img/2.gif width=946 height=1 style="margin-top: 4px; margin-bottom: 4px;"></td>
+</tr>
+
+<tr>
+<td colspan=3>
+
+
+<a class=t51 href=politics.html>ПОЛИТИКА</a>&nbsp;&nbsp;&nbsp; 
+<a class=t51 href=world.html>В МИРЕ</a>&nbsp;&nbsp;&nbsp; 
+<a class=t51 href=economics.html>ЭКОНОМИКА</a>&nbsp;&nbsp;&nbsp; 
+<a class=t51 href=society.html>ОБЩЕСТВО</a>&nbsp;&nbsp;&nbsp; 
+<a class=t51 href=incident.html>ПРОИСШЕСТВИЯ</a>&nbsp;&nbsp;&nbsp; 
+<a class=t51 href=culture.html>КУЛЬТУРА</a>&nbsp;&nbsp;&nbsp; 
+<a class=t51 href=sport.html>СПОРТ</a>&nbsp;&nbsp;&nbsp; 
+
+
+</td>
+</tr>
+
+</table>
+</td>
+		<td width=12><img src=img/e.gif width=12 height=1></td>
+	</tr>
+  	<tr>
+  		<td></td>
+  		<td colspan=3 width=946><img src=img/3.gif width=946 height=2 style="margin-top: 4px;"></td>
+  		<td></td>
+  	</tr>
+
+</table><table border=0 cellpadding=0 cellspacing=0 width=970 align=center>
+	<tr>
+		<td><img src=img/e.gif width=12 height=1></td>
+		<td valign=top width=714><table border=0 cellpadding=0 cellspacing=0 align=center valign=top width=714>
+			<tr>
+				<td valign=top width=714><table border=0 cellpadding=0 cellspacing=0>
+	<tr>
+		<td colspan=2><p class=t1><a class=t1 href=news.html>Новости</a></p></td>
+	</tr>
+	<tr><td width=714><img src=img/2.gif width=714 height=1></td></tr>
+	<tr><td width=714><img src=img/e.gif width=714 height=12></td></tr></table></td>
+			</tr>
+		</table><table border=0 cellpadding=0 cellspacing=0 align=center valign=top width=714>
+			<tr>
+				<td valign=top width=232 bgcolor=#EEEEEE align=center background=img/18.gif><table border=0 cellpadding=0 cellspacing=0 width=232 bgcolor=white><tr>
+		<td align=right><a class=t6 href="print-text113284.html">&nbsp;версия для печати&nbsp;</a></td>
+		<td valign=top><img src=img/6.gif width=13 height=13 align=center></td>
+	</tr>
+
+	<tr>
+	   <td><img src=img/e.gif width=207 height=12 align=center></td>
+	   <td><img src=img/e.gif width=13 height=12 align=center></td>
+	</tr>
+</table><img src=img/w.gif width=232 height=10 align=center><img src=img/19.gif width=232 height=1 align=center><table border=0 cellpadding=0 cellspacing=0 width=220 align=center><tr><td><img src=img/e.gif width=1 height=12></td></tr><tr><td valign=top align=center><a href=-krizis-k-nam-prihodit-text113275.html><img align=center vspace=0 hspace=12 border=0 src=pict/201111/04454500600060.jpg width=060 height=060 alt="Кризис к нам приходит" title="Кризис к нам приходит"></a></td><td rowspan=2 valign=top><p class=t18><a href=-krizis-k-nam-prihodit-text113275.html class=t6>Тенденции</a><br><a href=-krizis-k-nam-prihodit-text113275.html class=t18>Кризис к нам приходит</a></p></td></tr><tr><td><img src=img/e.gif width=1 height=30></td></tr><tr><td valign=top align=center><a href=-malenkie-shalosti-bolshogo-pravitelstva--text113250.html><img align=center vspace=0 hspace=12 border=0 src=pict/201111/04454000600060.jpg width=060 height=060 alt="Маленькие шалости 'большого правительства'" title="Маленькие шалости 'большого правительства'"></a></td><td rowspan=2 valign=top><p class=t18><a href=-malenkie-shalosti-bolshogo-pravitelstva--text113250.html class=t6>Скандал</a><br><a href=-malenkie-shalosti-bolshogo-pravitelstva--text113250.html class=t18>Маленькие шалости "большого правительства"</a></p></td></tr><tr><td><img src=img/e.gif width=1 height=30></td></tr><tr><td valign=top align=center><a href=-mejdu-byurokratiey-i-oligarhiey-text113207.html><img align=center vspace=0 hspace=12 border=0 src=pict/201110/04391200600060.jpg width=060 height=060 alt="Между бюрократией и олигархией" title="Между бюрократией и олигархией"></a></td><td rowspan=2 valign=top><p class=t18><a href=-mejdu-byurokratiey-i-oligarhiey-text113207.html class=t6>Тенденции</a><br><a href=-mejdu-byurokratiey-i-oligarhiey-text113207.html class=t18>Между бюрократией и олигархией</a></p></td></tr><tr><td><img src=img/e.gif width=1 height=30></td></tr><tr><td valign=top align=center><a href=-vkladyi-bez-vostrebovaniya-text113198.html><img align=center vspace=0 hspace=12 border=0 src=pict/201111/04451800600060.jpg width=060 height=060 alt="Вклады без востребования" title="Вклады без востребования"></a></td><td rowspan=2 valign=top><p class=t18><a href=-vkladyi-bez-vostrebovaniya-text113198.html class=t6>Финансы</a><br><a href=-vkladyi-bez-vostrebovaniya-text113198.html class=t18>Вклады без востребования</a></p></td></tr><tr><td><img src=img/e.gif width=1 height=30></td></tr><tr><td valign=top align=center><a href=-konets-besplatnoy-meditsinyi-text113176.html><img align=center vspace=0 hspace=12 border=0 src=pict/201111/04451300600060.jpg width=060 height=060 alt="Конец бесплатной медицины" title="Конец бесплатной медицины"></a></td><td rowspan=2 valign=top><p class=t18><a href=-konets-besplatnoy-meditsinyi-text113176.html class=t6>Забота о народе</a><br><a href=-konets-besplatnoy-meditsinyi-text113176.html class=t18>Конец бесплатной медицины</a></p></td></tr><tr><td><img src=img/e.gif width=1 height=30></td></tr></table></td>
+
+				<td width=12><img src=img/e.gif width=12 height=1></td>
+
+				<td valign=top width=470><table border=0 cellpadding=0 cellspacing=0 width=470 bgcolor=white><tr>
+		<td><h1>Дети возвращаются в Дом ребенка Можайской  женской колонии</h1><p class=t7>28 ноября 2011, 18:30</p><table width=200 border=0 cellpadding=0 cellspacing=0 align=right style="margin-top: 10px; margin-left: 12px; margin-bottom: 10px;"><tr>
+				<td><img src=depot/2/113/113284_q_200x150.jpg border=0 alt="Дети возвращаются в Дом ребенка Можайской  женской колонии" title="Дети возвращаются в Дом ребенка Можайской  женской колонии"></td>
+			</tr><tr>
+				<td><img src=img/2.gif width=200 height=1 style="margin-top: 10px; margin-left: 0px; margin-right: 0px;"></td>
+			</tr>
+			<tr>
+				<td><p class=s>Ключевые слова: <a class=s href=-dom-rebenka-key24605.html>Дом ребенка</a>, <a class=s href=-mojayskaya-jenskaya-koloniya-key24980.html>Можайская женская колония</a>, <a class=s href=--vospitanniki-key24981.html>воспитанники</a></p><table><tr>
+		<td valign=top><img src=img/10.gif width=11 height=10 vspace=3></td>
+		<td><a class=t11 href=text112304.html>Против замначальника Можайской колонии возбудили уголовное дело</a></td>
+   </tr><tr>
+		<td valign=top><img src=img/10.gif width=11 height=10 vspace=3></td>
+		<td><a class=t11 href=text112295.html>Астахов о трагедии в Можайске: такой Дом ребенка нужно закрыть</a></td>
+   </tr></table></td>
+			</tr>
+			<tr>
+				<td><img src=img/2.gif width=200 height=1 vspace=1></td>
+			</tr>
+		</table><p>Пресс-служба управления ФСИН РФ по Московской области сообщает, что воспитанники Дома ребенка Можайской женской колонии, ранее госпитализированные с простудными заболеваниями, вернутся в учреждение.</p>
+
+<p>По данным УФСИН, из Дома ребенка Можайской женской колонии были госпитализированы 59 малышей в возрасте до полутора лет из-за вспышки респираторного заболевания.</p>
+
+<p>Двадцать семь здоровых детей по решению Роспотребнадзора и медицинского управления ФСИН России были размещены в медицинских учреждениях области для того, чтобы провести дизинфекциронные мероприятия во всех помещениях Дома ребенка.</p>
+
+<p>По данным главного врача Можайской ЦРБ Алексея Деревянко, из-за вспышки респираторного заболевания в Доме ребенка в начале ноября заболел сто один ребенок. Одна девочка скончалась.</p>
+
+<p>По данным Роспотребнадзора, у воспитанников зарегистрированы пневмония, бронхит и острая вирусная инфекция. По этому факту возбуждено уголовное дело.</p>
+
+<p>В настоящее время дом ребенка при колонии готов принять выписанных из стационаров Подмосковья детей. Вначале детей разместят в карантинном отделении, затем малыши вернутся в группы.</p><p class=k>По&nbsp;материалам&nbsp;источника: <a href=routine/sourcefwd/index.php?id=113284&sid=0 class=k target=_blank>news.mail.ru</a></p><br></td>
+	</tr>
+	<tr><td><img src=img/e.gif width=1 height=14></td></tr>
+</table>
+</td>
+			</tr>
+
+	<tr>
+		<td valign=top width=232 bgcolor=#EEEEEE align=center background=img/18.gif><img src=img/19.gif width=232 height=1></td>
+		<td width=12><img src=img/e.gif width=12 height=1></td>
+		<td valign=top></td>
+	</tr>
+
+
+      </table><table border=0 cellpadding=0 cellspacing=0 align=center valign=top width=714>
+			<tr>
+  				<td width=714><img src=img/e.gif width=714 height=12></td>
+		  	</tr>
+			<tr>
+  				<td width=714><img src=img/3.gif width=714 height=1></td>
+		  	</tr>
+			<tr>
+				<td><!-- Яндекс.Директ -->
+<script type="text/javascript">
+//<![CDATA[
+yandex_partner_id = 68243;
+yandex_site_bg_color = 'FFFFFF';
+yandex_site_charset = 'utf-8';
+yandex_ad_format = 'direct';
+yandex_font_size = 1;
+yandex_direct_type = 'flat';
+yandex_direct_border_type = 'block';
+yandex_direct_limit = 3;
+yandex_direct_border_color = '000000';
+yandex_direct_title_color = 'BD0000';
+yandex_direct_url_color = '006600';
+yandex_direct_all_color = 'C00000';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = 'C00000';
+yandex_direct_favicon = true;
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+//]]>
+</script><a href=group1787.html><img src=pict/201108/04282207140100.gif   width=714 height=100 border=0 align=center vspace=12></a>
+
+</td>
+		   </tr>
+  		</table><table border=0 cellpadding=0 cellspacing=0 width=714 align=center>
+  	<tr>
+  		<td width=714 colspan=3><img src=img/3.gif width=714 height=1></td>
+  	</tr>
+  	<tr>
+  		<td width=714 colspan=3><img src=img/e.gif width=714 height=12></td>
+  	</tr>
+	<tr>
+		<td width=232 bgcolor=#EEEEEE valign=top bgcolor=#EEEEEE align=center background=img/18.gif><img src=img/19.gif width=232 height=1 align=center><div id="novoteka">Загружается, подождите...</div></td>
+		<td width=12><img src=img/e.gif width=12 height=1></td>
+		<td width=470 valign=top><!--<img src=img/e.gif width=470 height=12 align=center>-->
+<table width=470 border=0 bgcolor=#D0D0D0 cellspacing=1 cellpaddig=0><tr><td bgcolor=#F0F0FF>
+
+<!-- MarketNews Start --> 
+<div id="MarketGid6303"><center> 
+<a href="http://marketgid.com/" target="_blank">Загрузка...</a> 
+</center></div> 
+<!-- MarketNews End -->
+
+</td></tr>
+</table>
+
+<br><div id="rtn4p_8365"><a href="http://ru.redtram.com"  target="_blank">Загрузка ...</a></div>
+<script language="javascript" type="text/javascript" src="http://js.ru.redtram.com/n4p/n/o/novopol.ru_id_8365.js"></script></td>
+	</tr>
+	<tr>
+		<td valign=top width=232 bgcolor=#EEEEEE align=center background=img/18.gif><img src=img/19.gif width=232 height=1></td>
+		<td width=12><img src=img/e.gif width=12 height=1></td>
+		<td valign=top></td>
+	</tr>
+</table></td>
+		<td><img src=img/e.gif width=12 height=1></td>
+		<td valign=top width=220><table border=0 cellpadding=0 cellspacing=0 width=220>
+	<tr>
+		<td colspan=2><p class=t1><a class=t1 href=news.html>Главные новости</a></p></td>
+	</tr>
+	<tr><td width=220><img src=img/2.gif width=220 height=1></td></tr>
+	</table><table border=0 cellpadding=0 cellspacing=0 width=220><tr><td><img src=img/e.gif width=1 height=12></td></tr><tr><td valign=top width=40><p class=t11>17:17</p></td><td><p class=t11><a class=t11 href=-v-den-vyiborov-moskovskie-oppozitsioneryi-soberutsya--text113279.html>В День выборов московские оппозиционеры соберутся в метро</a></p></td></tr><tr><td valign=top width=40><p class=t11>16:44</p></td><td><p class=t11><a class=t11 href=-belorusskie-pravozaschitniki-vstupilis-za-minskih-ter-text113274.html>Белорусские правозащитники вступились за "минских террористов"</a></p></td></tr><tr><td valign=top width=40><p class=t11>16:36</p></td><td><p class=t11><a class=t11 href=-pravozaschitniki-magnitskogo-zabili-do-smerti-sotrudn-text113273.html>Правозащитники: Магнитского забили до смерти сотрудники "Матросской тишины"</a></p></td></tr><tr><td valign=top width=40><p class=t11>14:54</p></td><td><p class=t11><a class=t11 href=-za-nedelyu-do-vyiborov-na-jivoy-jurnal-vozobnovilis-a-text113264.html>За неделю до выборов на "Живой журнал" возобновились атаки</a></p></td></tr><tr><td valign=top width=40><p class=t11>14:22</p></td><td><p class=t11><a class=t11 href=-rojdestvenskiy-post-hristiane-vspominayut-kak-svyatyi-text113261.html>Рождественский пост: христиане вспоминают, как святые питались травой</a></p></td></tr><tr><td valign=top width=40><p class=t11>13:45</p></td><td><p class=t11><a class=t11 href=-v-krasnodarskom-krae-ot-imeni-yabloka-vyipustili-gaze-text113258.html>В Краснодарском крае от имени "Яблока" выпустили газету "Червяки"</a></p></td></tr><tr><td valign=top width=40><p class=t11>12:35</p></td><td><p class=t11><a class=t11 href=-nachalo-zimyi-v-moskve-budet-anomalno-teplyim-text113248.html>Начало зимы в Москве будет аномально теплым</a></p></td></tr><tr><td valign=top width=40><p class=t11>12:08</p></td><td><p class=t11><a class=t11 href=-poyas-bogoroditsyi-patriarhu-dokladyivayut-o-chudesah-text113245.html>Пояс Богородицы: патриарху докладывают о чудесах</a></p></td></tr><tr><td valign=top width=40><p class=t11>11:52</p></td><td><p class=t11><a class=t11 href=-v-chite-deti-sirotyi-rasskazali-kak-nad-nimi-izdevayu-text113242.html>В Чите дети-сироты рассказали, как над ними издеваются</a></p></td></tr><tr><td valign=top width=40><p class=t11>11:30</p></td><td><p class=t11><a class=t11 href=-smi-kottedji-na-rublevke-pusteyut-text113239.html>СМИ: коттеджи на Рублевке пустеют</a></p></td></tr><tr><td valign=top width=40><p class=t11>07:50</p></td><td><p class=t11><a class=t11 href=-chaves-protiv-pamyatnikov-ego-persone-text113231.html>Чавес против памятников его персоне</a></p></td></tr><tr><td valign=top width=40><p class=t11>07:39</p></td><td><p class=t11><a class=t11 href=-zemletryasenie-proizoshlo-na-sahaline-text113230.html>Землетрясение произошло на Сахалине</a></p></td></tr><tr><td valign=top width=40><p class=t11>03:18</p></td><td><p class=t11><a class=t11 href=--edinaya-rossiya-vyidvinula-putina-kandidatom-v-prezi-text113211.html>"Единая Россия" выдвинула Путина кандидатом в президенты</a></p></td></tr><tr><td><img src=img/e.gif width=1 height=12></td></tr></table><!-- Яндекс.Директ -->
+<script type="text/javascript">
+//<![CDATA[
+yandex_partner_id = 68243;
+yandex_site_bg_color = 'FFFFFF';
+yandex_site_charset = 'utf-8';
+yandex_ad_format = 'direct';
+yandex_font_size = 1;
+yandex_direct_type = 'vertical';
+yandex_direct_border_type = 'block';
+yandex_direct_limit = 3;
+yandex_direct_border_color = '000000';
+yandex_direct_title_color = 'BD0000';
+yandex_direct_url_color = '006600';
+yandex_direct_all_color = 'C00000';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = 'C00000';
+yandex_direct_favicon = true;
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+//]]>
+</script><img src=img/e.gif width=1 height=12 align=center><table border=0 cellpadding=0 cellspacing=0 width=220>
+	<tr>
+		<td colspan=2><p class=t1><a class=t1 href=society.html>Общество</a></p></td>
+	</tr>
+	<tr><td width=40><img src=img/2.gif width=40 height=1></td><td width=180><img src=img/2.gif width=180 height=1></td></tr>
+	<tr><td width=220 colspan=2><img src=img/e.gif width=220 height=12></td></tr><tr>
+<td colspan=2><p class=t11><b>28 ноября 2011</b></p></td>
+</tr><tr>
+			<td valign=top width=40><p class=t11>18:30</p></td>
+			<td><p class=t11><a class=t11 href="-deti-vozvraschayutsya-v-dom-rebenka-mojayskoy-jenskoy-text113284.html">Дети возвращаются в Дом ребенка Можайской  женской колонии</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>18:07</p></td>
+			<td><p class=t11><a class=t11 href="-so-sleduyuschego-goda-talonyi-tehosmotra-mogut-stat-d-text113283.html">Со следующего года талоны техосмотра могут стать дешевле</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>17:14</p></td>
+			<td><p class=t11><a class=t11 href="-v-detsadah-moskvyi-mogut-poyavitsya-kuklyi-invalidyi-text113278.html">В детсадах Москвы могут появиться куклы-инвалиды</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>16:57</p></td>
+			<td><p class=t11><a class=t11 href="-genprokuratura-zayavila-chto-sudit-kraverov-vtoroy-ra-text113277.html">Генпрокуратура заявила, что судить Краверов второй раз нельзя</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>16:36</p></td>
+			<td><p class=t11><a class=t11 href="-pravozaschitniki-magnitskogo-zabili-do-smerti-sotrudn-text113273.html">Правозащитники: Магнитского забили до смерти сотрудники "Матросской тишины"</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>14:56</p></td>
+			<td><p class=t11><a class=t11 href="-nachalo-magnitnoy-buri-mnogie-pochuvstvuyut-uje-segod-text113265.html">Начало магнитной бури многие почувствуют уже сегодня</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>14:37</p></td>
+			<td><p class=t11><a class=t11 href="-hudojnik-dekorator-boris-krasnov-poka-v-rossiyu-ne-so-text113262.html">Художник-декоратор Борис Краснов пока в Россию не собирается</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>14:22</p></td>
+			<td><p class=t11><a class=t11 href="-rojdestvenskiy-post-hristiane-vspominayut-kak-svyatyi-text113261.html">Рождественский пост: христиане вспоминают, как святые питались травой</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>12:35</p></td>
+			<td><p class=t11><a class=t11 href="-nachalo-zimyi-v-moskve-budet-anomalno-teplyim-text113248.html">Начало зимы в Москве будет аномально теплым</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>12:09</p></td>
+			<td><p class=t11><a class=t11 href="-o-narusheniyah-na-vyiborah-mojno-soobschit-na-goryach-text113244.html">О нарушениях на выборах можно сообщить на "горячую линию" МВД</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>12:08</p></td>
+			<td><p class=t11><a class=t11 href="-poyas-bogoroditsyi-patriarhu-dokladyivayut-o-chudesah-text113245.html">Пояс Богородицы: патриарху докладывают о чудесах</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>11:52</p></td>
+			<td><p class=t11><a class=t11 href="-v-chite-deti-sirotyi-rasskazali-kak-nad-nimi-izdevayu-text113242.html">В Чите дети-сироты рассказали, как над ними издеваются</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>11:30</p></td>
+			<td><p class=t11><a class=t11 href="-smi-kottedji-na-rublevke-pusteyut-text113239.html">СМИ: коттеджи на Рублевке пустеют</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>10:51</p></td>
+			<td><p class=t11><a class=t11 href="-v-peterburge-sumeli-ostanovit-navodnenie-text113236.html">В Петербурге сумели остановить наводнение</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>10:38</p></td>
+			<td><p class=t11><a class=t11 href="-dorogi-v-moskve-paralizovali-probki-text113234.html">Дороги в Москве парализовали пробки</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>07:03</p></td>
+			<td><p class=t11><a class=t11 href="-kirkorov-stal-ottsom-text113227.html">Киркоров стал отцом</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>04:56</p></td>
+			<td><p class=t11><a class=t11 href="-dostup-k-poyasu-bogoroditsyi-prekratilsya-text113219.html">Доступ к поясу Богородицы прекратился</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>04:31</p></td>
+			<td><p class=t11><a class=t11 href="-apl-yuriy-dolgorukiy-proizvedet-pusk-raket-bulava--text113217.html">АПЛ "Юрий Долгорукий" произведет пуск ракет "Булава"</a></p></td>
+		</tr><tr>
+<td colspan=2><p class=t11><b>25 ноября 2011</b></p></td>
+</tr><tr>
+			<td valign=top width=40><p class=t11>18:08</p></td>
+			<td><p class=t11><a class=t11 href="-v-dagestane-proshel-mnogotyisyachnyiy-miting-protiv-p-text113205.html">В Дагестане прошел многотысячный митинг против произвола</a></p></td>
+		</tr><tr>
+			<td valign=top width=40><p class=t11>17:45</p></td>
+			<td><p class=t11><a class=t11 href="-sobyanin-polovina-videokamer-na-ulitsah-ne-rabotaet-text113204.html">Собянин: половина видеокамер на улицах не работает</a></p></td>
+		</tr></table></td>
+		<td><img src=img/e.gif width=12 height=1></td>
+	</tr>
+</table><br><table border=0 cellpadding=0 cellspacing=0 width=970 align=center>
+  	<tr>
+  		<td></td>
+  		<td width=300><img src=img/3.gif width=300 height=2 style="margin-top: 4px; margin-bottom: 2px;"></td>
+  		<td width=12><img src=img/3.gif width=12 height=2 style="margin-top: 4px; margin-bottom: 2px;"></td>
+  		<td width=634><img src=img/3.gif width=634 height=2 style="margin-top: 4px; margin-bottom: 2px;"></td>
+  		<td></td>
+  	</tr><tr>
+  		<td></td>
+  		<td colspan=3 valign=bottom><table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<a class=t22 href=map.html>КАРТА САЙТА</a>&nbsp;&nbsp;
+<a class=t22 href=project.html#about>О ПРОЕКТЕ</a>&nbsp;&nbsp;
+<a class=t22 href=project.html#staff>РЕДАКЦИЯ</a>&nbsp;&nbsp;
+<a class=t22 href=project.html#interplay>СОТРУДНИЧЕСТВО</a>&nbsp;&nbsp;
+<a class=t22 href=project.html>ПАРТНЕРЫ</a>&nbsp;&nbsp;
+<a class=t22 href=contact.html>КОНТАКТЫ</a>&nbsp;&nbsp;
+<a class=t22 href=center.html>ЦЕНТР "НОВАЯ ПОЛИТИКА"</a>
+</td>
+</tr>
+</table></td>
+  		<td></td>
+	</tr>
+	<tr>
+  		<td></td>
+  		<td colspan=3 valign=bottom><img src=img/3.gif width=946 height=1 style="margin-top: 2px; margin-bottom: 12px;"></td>
+  		<td></td>
+	</tr><tr>
+		<td width=12><img src=img/e.gif width=12 height=1></td>
+		<td colspan=3><noindex><table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=88><!--begin of Top100 logo--><a href="http://top100.rambler.ru/cgi-bin/stats_top100.cgi?597908"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width=88 height=31 border=0></a><!--end of Top100 logo --></td>
+
+<td width=12><img src=img/e.gif width=12 height=1></td>
+
+<td width=88><!--Rating@Mail.ru LOGO--><a target=_top
+href="http://top.mail.ru/jump?from=747423"><img
+src="http://top.list.ru/counter?id=747423;t=239;l=1"
+border=0 height=31 width=88
+alt="Рейтинг@Mail.ru"/></a><!--/LOGO--></td>
+
+
+<td width=12><img src=img/e.gif width=12 height=1></td>
+
+<td width=31><!--LiveInternet logo--><a href="http://www.liveinternet.ru/click"
+target="_blank"><img src="//counter.yadro.ru/logo?44.1"
+title="LiveInternet"
+alt="" border="0" width="31" height="31"/></a><!--/LiveInternet--></td>
+
+
+<td width=12><img src=img/e.gif width=12 height=1></td>
+
+<td width=31><a href=http://www.google.com/intl/ru/analytics/><img src=depot/30/google.gif width=31 height=31 border=0></a></td>
+
+
+
+<td width=12><img src=img/e.gif width=12 height=1></td>
+
+<td width=88><a href="http://www.yandex.ru/cy?base=0&host=www.novopol.ru"><img src="http://www.yandex.ru/cycounter?www.novopol.ru" width=88 height=31 alt="Яндекс цитирования" border=0></a></td>
+
+<td width=12><img src=img/e.gif width=12 height=1></td>
+
+<td>
+<p class=t7>Цитирование и перепечатка приветствуются<br>при ссылке на интернет-журнал "НОВАЯ ПОЛИТИКА" (www.novopol.ru).
+<br>Главный редактор -  Олег Недумов. Телефон редакции: +7&nbsp;(495)&nbsp;783-9839 &nbsp;&nbsp;E-mail:&nbsp;<a class=t6 href=mailto:welcome@novopol.ru>welcome@novopol.ru</a></p>
+</td>
+
+</tr>
+</table></noindex></td>
+		<td width=12><img src=img/e.gif width=12 height=1></td>
+	</tr><tr>
+  		<td></td>
+  		<td colspan=3 width=946><img src=img/3.gif width=946 height=2 style="margin-top: 12px; margin-bottom: 12px;"></td>
+  		<td></td>
+  	</tr>
+  	<tr>
+  		<td></td>
+		<td colspan=3><p class=ss><!--45989582394--></p></td>
+  		<td></td>
+	</tr></table><br></center><script type="text/javascript"> 
+    var MarketGidDate = new Date(); 
+    document.write('<scr'+'ipt type="text/javascript" '+'src="http://jsn.dt00.net/n/o/novopol.ru.6303.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+ '" charset="utf-8" ></scr'+'ipt>'); 
+</script></body>
+</html>

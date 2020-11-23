@@ -1,0 +1,1795 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="pl" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
+<meta name="robots" content="noarchive" />
+<link type="text/css" rel="stylesheet" href="http://www.polityka.pl/_resource/css/1"/>     
+
+<link type="text/css" rel="stylesheet" href="http://www.polityka.pl/_resource/css/15"/>     
+
+
+
+    <title>Niezdrowe relacje lekarz - pacjent | Medycyna dobrych manier - strona 1 - Polityka.pl</title>
+    <meta name="Description" content="Ponad połowa osób przewlekle chorych deklaruje, że nie przestrzega zaleceń lekarskich! Nie ufają medycynie czy raczej obcesowym lekarzom?"/>
+    <meta name="Keywords" content="zdrowie, "/>
+
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.polityka.pl/_resource/fs/css/jquery.lightbox-0.5.css"/>
+<link rel="stylesheet" href="http://www.polityka.pl/_resource/fs/css/jquery.fancybox.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+	function getContextPath() {
+		var contextPath = '${path}';
+		return contextPath;
+	}	
+</script>
+
+<script type="text/javascript" src="http://www.polityka.pl/_resource/fs/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://www.polityka.pl/_resource/fs/js/jquery.lightbox-0.5.min.js"></script>
+<script type="text/javascript" src="http://www.polityka.pl/_resource/fs/js/jquery.fancybox-1.2.1.js"></script> 
+<script type="text/javascript" src="http://www.polityka.pl/_resource/fs/js/polityka.js"></script>
+<link type="text/css" rel="stylesheet" href="http://www.polityka.pl/_resource/fs/css/moduleSelect.css"/>
+<link type="text/css" rel="stylesheet" href="http://www.polityka.pl/_resource/fs/css/autocomplete.css"/>
+<script type="text/javascript" src="http://www.polityka.pl/_resource/fs/js/jquery-ui-1.7.2.custom.min.js"></script>
+
+
+	<script type="text/javascript">
+		$("#cookiesPopup").ready(function() {
+			$("a#noCookiesPopupTrigger").fancybox({
+				'showCloseButton' : false,
+				'hideOnOverlayClick' : false,
+				'enableEscapeButton' : false,
+				'hideOnContentClick': false,
+				centerOnScroll: true,
+				frameHeight:150
+			});
+			jQuery.post("/cookies/check_cookies.html", {mode: "add"},  function() {
+		  		jQuery.post("/cookies/check_cookies.html", {mode : "check"},  function(data) {
+		  			if (data == 'FALSE') {
+						$('#noCookiesPopupTrigger').click();
+		  			}
+				});
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		function isPrintPage() {
+			return false;
+		}
+	</script>
+
+	<script type="text/javascript">
+				function isUserLoggedIn() {
+			return false;
+		}
+	</script>
+
+
+
+</head>
+<body>
+<!-- (C) 2000-2008 Gemius SA - gemiusAudience / ver 11.1 / pp.polityka.pl / nauka-->
+<script type="text/javascript">
+ <!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('nArrQoh8QNMWR3K7Al5KG4aS71vp0I_4JmmaIH2X2Rz.x7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://idm.hit.gemius.pl/pp_gemius.js"></script><!-- end: gemiusaud -->
+<!-- tynt -->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('cpaocqouGr4iATadbi-bnq');Tynt.i={"ap":"Więcej pod adresem"};
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- end tynt -->
+<!-- ipad -->
+<script type="text/javascript"> 
+
+jQuery.cookie = function(name, value, options) {
+    if (typeof value != 'undefined') { // name and value given, set cookie
+        options = options || {};
+        if (value === null) {
+            value = '';
+            options.expires = -1;
+        }
+        var expires = '';
+        if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+            var date;
+            if (typeof options.expires == 'number') {
+                date = new Date();
+                date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+            } else {
+                date = options.expires;
+            }
+            expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE
+        }
+        // CAUTION: Needed to parenthesize options.path and options.domain
+        // in the following expressions, otherwise they evaluate to undefined
+        // in the packed version for some reason...
+        var path = options.path ? '; path=' + (options.path) : '';
+        var domain = options.domain ? '; domain=' + (options.domain) : '';
+        var secure = options.secure ? '; secure' : '';
+        document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+    } else { // only name given, get cookie
+        var cookieValue = null;
+        if (document.cookie && document.cookie != '') {
+            var cookies = document.cookie.split(';');
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = jQuery.trim(cookies[i]);
+                // Does this cookie string begin with the name we want?
+                if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+};
+
+
+$(document).ready(function() {
+var isiPad = navigator.userAgent.match(/iPad/i) != null;
+
+if (isiPad && $.cookie("ipadad")!="yes1") {
+
+ $("#container").hide();
+ $("body").append( '<div id="ipadad"> <div style="width: 100%; height:100%; text-align: center; font-size:14px; font-family:Arial, Helvetica, sans-serif; background-image:url(http://www.polityka.pl/download/polityka/tlo.jpg)"><br /><br /><br /><br /><br /><img src="http://www.polityka.pl/download/polityka/polityka.png" width="240" /><br /><br /><p>Od 26 stycznia pełne wydania POLITYKI dostępne są w aplikacji na iPadzie.<br /><br />Aplikacja jest bezpłatna. <br />W aplikacji dostępny jest jeden darmowy numer.</p> <br /><br />  <br /><a href="http://itunes.apple.com/pl/app/polityka/id403482333?mt=8#">Pobierz aplikację</a> <br /><br /><a href="http://itunes.apple.com/pl/app/polityka/id403482333?mt=8#"><img src="http://www.polityka.pl/download/polityka/app_store.png" width="300" border="0" /></a><br /><br />lub <a id="gotopage" href="#">kliknij tu, by przejść do serwisu</a>  <br /><br /><br /><br /><br />  </div></div>');
+
+ var date = new Date();
+ date.setTime(date.getTime() + (6 * 60 * 60 * 1000));
+ $.cookie("ipadad", "yes1", { expires: date, path: '/' });
+
+ $("#gotopage").click(function() {
+   $("#ipadad").hide();
+   $("#container").show();
+ });
+}});
+
+</script><!-- end of ipad -->
+
+<div id="container" class="two_columns">
+
+    <div id="ad_place1">
+        <!-- BBelements one2many Position: Polityka(4057) / Nauka(5) / billboard(2) / billboard 750x100 750x100(30) -->
+<!-- HowTo: Place this code into the html page there the ad should appear. -->
+<div id='bmone2n-4057.5.2.30'>
+<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/4057/5/2/30/'><img src='http://go.arbopl.bbelements.com/please/showit/4057/5/2/30/?typkodu=img&keywords=' width='750' height='100' style='border-width:0' alt='' /></a></div></noscript>
+</div><!-- end: topbanner -->
+    </div><!-- end of #ad_place1 -->
+    
+    <!-- start module:Alert|ALERT --><!-- end module:Alert|ALERT -->
+<!-- end: alert -->
+    
+    <div class="clear"></div>
+
+    <div id="header">   
+		<h1 id="logo">
+			<!-- start module:Logotyp - nauka|HEADER --><a title="Polityka"  href="http://www.polityka.pl" >
+	<img  alt="Polityka" title="Polityka"   src="http://www.polityka.pl/_resource/fs/http://www.polityka.pl/_resource/fs/img/polityka_logo.png"  />
+</a>
+<a title="Nauka" class="second_title" href="http://www.polityka.pl/nauka">
+	<img src="http://www.polityka.pl/_resource/fs/res/dzial-win-nauka.png" title="Nauka" alt="Nauka" />
+</a>
+
+<!-- end module:Logotyp - nauka|HEADER -->
+<!-- end: logo -->
+	 	</h1><!-- end of #logo -->
+		<div id="top_options"> 
+			<div class="navigation" id="menu0">   
+				<!-- start module:Linki w winiecie|HEADER_LINKS --><div class="right" id="headerLinks">
+    <ul>
+    			    	<li class="">
+    		<a href="http://polityka.pl">Polityka.pl</a>
+    	</li>
+		    			    	<li class="">
+    		<a href="http://polityka.pl/opolityce">O Polityce</a>
+    	</li>
+		    			    	<li class="">
+    		<a href="http://archiwum.polityka.pl/?autologin=true">Archiwum</a>
+    	</li>
+		    			    	<li class="shop_ico">
+    		<a href="http://skleppolityki.pl">Sklep</a>
+    	</li>
+		    			    	<li class="forum_ico">
+    		<a href="http://polityka.pl/forum">Forum</a>
+    	</li>
+		    	    </ul>
+</div>
+<!-- end module:Linki w winiecie|HEADER_LINKS -->
+<!-- end: header_links -->
+			</div><!-- end of #menu0 --> 
+			
+			<div class="clear"></div>
+			<div id="login_field">
+			<!-- start module:Logowanie2|SSO_LOGIN --><script type="text/javascript">
+	var initialUsernameString = 'wpisz login lub e-mail';
+	var initialPasswordString = 'wpisz hasło';
+	
+	function initDialog() {
+		  $('.passwordField').hide();
+		  $('.fakePasswordField').show();
+		  
+		  $('.fakePasswordField').each(function() {
+		    this.value = initialPasswordString;
+		  });
+		  
+		  $('.usernameField').each(function() {
+		    		    this.value = initialUsernameString;
+		    		  });
+		  
+		  $('.usernameField').blur(function(node) {
+		  	var trimmed = jQuery.trim(this.value);
+		  	if (trimmed == '') {
+		    	this.value = initialUsernameString;
+		    }
+		  });
+		  
+		  $('.usernameField').focus(function(node) {
+		  	if (this.value == initialUsernameString) {
+		    	this.value = '';
+		    }
+		  });
+		  
+		  $('.fakePasswordField').focus(function(node) {
+		  	$('.fakePasswordField').hide();
+		  	$('.passwordField').show();
+		  	$('.passwordField:visible').each(function() {this.focus()});
+		  });
+		  
+		  $('.passwordField').blur(function(node) {
+		  	var trimmed = jQuery.trim(this.value);
+		  	if (trimmed == '') {
+		  		$('.passwordField').hide();
+		  		$('.fakePasswordField').show();
+		    	$('.fakePasswordField:visible').each(function() {this.value = initialPasswordString});
+		    }
+		  });
+		  
+	}
+	
+	function closeDialog() {
+		$('.login-error').hide();
+	}
+
+	$('.login-module-div').ready(function() {
+	
+	$("a#popupTrigger").fancybox({
+		'hideOnContentClick': false,
+		overlayShow: true,
+		centerOnScroll: true,
+		frameHeight:150,
+		callbackOnShow: initDialog,
+		callbackOnClose: closeDialog
+		
+	}); 
+	
+	
+	 	  
+	 	 
+	});
+</script>
+
+
+<div class="login-module-div">
+<div class="login-outer-div">
+	<a id="registrationLink" rel="nofollow" href="http://www.polityka.pl/account?state=BEFORE_NEW_USER&amp;fromUrl=http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read">zarejestruj się</a> |
+	<span style="display:none;"> 	
+		<a id="popupTrigger" class="loginButton" href="#loginPopup">zaloguj</a>
+	</span>
+		<a id="ssoPopupTrigger" class="loginButton" href="http://www.polityka.pl/sso/login?login_success=http%3A%2F%2Fwww.polityka.pl%2Fnauka%2Fzdrowie%2F1522545%2C1%2Cniezdrowe-relacje-lekarz---pacjent.read&login_error=http%3A%2F%2Fwww.polityka.pl%2Fnauka%2Fzdrowie%2F1522545%2C1%2Cniezdrowe-relacje-lekarz---pacjent.read%3FshowLoginForm%3Dtrue">zaloguj</a>
+</div>
+
+<div style="display: none;">
+	<div id="loginPopup">
+		<div class="login_box"> 
+        	<div class="panel">
+        		<span id="login_header">
+        			Logowanie
+        		</span>            
+        	</div>   
+        	
+        	        	
+        	
+        	
+        	
+        		<form id="usernamePasswordLoginForm" method="post" action="http://www.polityka.pl/sso/login">
+        	
+        			<div>    	
+        				<input type="hidden" name="command" value="login_without_sso" />        						
+        				<input type="text" class="text usernameField" name="username" maxlength="128" />
+        			    <input type="password" class="text passwordField" name="password" maxlength="128" />
+        			    <input type="text" class="text fakePasswordField" name="fakePassword" maxlength="128" />
+        			    
+        			    <input type="hidden" name="login_success" value="http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read"/>
+        			    <input type="hidden" name="login_error" value="http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read"/>
+        			    
+        			    <input type="submit" class="button red_button" value="OK" />
+        			</div>
+        			
+        			<ul>
+        			   <li><a rel="nofollow" href="http://www.polityka.pl/account?state=BEFORE_NEW_USER&amp;fromUrl=http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read">zarejestruj się&nbsp;&raquo;</a> </li>
+        			 	<li><a href="http://www.polityka.pl/account?state=BEFORE_PASSWORD_RESET_REQUEST&amp;fromUrl=http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read">zapomniałem hasła&nbsp;&raquo;</a> </li>
+        	
+        			</ul>
+        			
+        		</form>
+        	       
+			</div><!-- login_box -->
+	</div>
+</div>
+</div>
+<!-- end module:Logowanie2|SSO_LOGIN -->
+<!-- end: login_field -->
+			</div>
+		
+			<div class="clear"></div>
+			<!-- start module:Wyszukiwarka|SEARCH --><div id="search_field">
+  <form action="http://www.polityka.pl/search" method="get" >
+            <div>
+    	<input name="phrase" value="wpisz słowo lub frazę" class="text" onfocus="if(this.value == 'wpisz słowo lub frazę') this.value='';" /> 
+        <input name="search" value="szukaj" type="submit" title="szukaj" class="button" />
+	</div>
+</form>
+</div>
+<!-- end module:Wyszukiwarka|SEARCH -->
+<!-- end: search_field -->
+
+		</div><!-- end of #top_options -->
+		
+		<!-- start module:reklama: hp na wydruku / 10/2011|STATIC_HTML --><div id="printAd" style="float: right; margin-top: 20px; display: none;">
+	<a style="text-decoration: none;" href="http://go.arbopl.bbelements.com/please/redirect/1611/1/1/33/?param=120881/137315_0_" target="_blank">
+		<img alt="Polityka" src="http://www.polityka.pl/multimedia/_resource/res/20017273" alt='' height="67px"/>
+	</a>
+
+	<script type="text/javascript">
+		if (isPrintPage()) {
+			var trackingImg = document.createElement('img');
+			trackingImg.src = 'http://go.arbopl.bbelements.com/please/showit/1611/1/1/33/?typkodu=img&_idplan=137315';
+			trackingImg.border = '0';
+			trackingImg.alt = '';
+			
+			var trackingImg2 = document.createElement('img');
+			trackingImg2.src = 'http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=3100973&PluID=0&ord=20110913&rtu=-1';
+			trackingImg2.border = '0';
+			trackingImg2.alt = '';
+
+			var printAdNode = document.getElementById('printAd');
+			
+			printAdNode.insertBefore(trackingImg, printAdNode.firstChild);
+			printAdNode.insertBefore(trackingImg2, printAdNode.firstChild);
+			
+			printAdNode.style.display = 'block';
+			
+		}
+	</script>
+</div>
+
+<!-- end module:reklama: hp na wydruku / 10/2011|STATIC_HTML -->
+<!-- end: print_page_ad -->
+				
+		<div class="clear"></div>
+    </div><!-- end header --> 
+    <!-- start module:Nawigacja|NAVIGATION --><div id="menu_1" class="navigation">
+        <ul id="menu_1_lvl1">
+            <li class="first ">
+        	        
+			            <a  href="http://www.polityka.pl/kraj" >
+			            					            					            		Kraj
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/swiat" >
+			            					            					            		Świat
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/spoleczenstwo" >
+			            					            					            		Społeczeństwo
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/rynek" >
+			            					            					            		Rynek
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/kultura" >
+			            					            					            		Kultura
+				            				            				            </a>
+            
+                    </li>
+            <li class="current">
+        	        
+			            <a  href="http://www.polityka.pl/nauka" >
+			            					            					            		Nauka
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/historia" >
+			            					            					            		Historia
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/blogi" >
+			            					            					            		Blogi
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/galerie" >
+			            					            					            		Galerie
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/paszportypolityki" >
+			            					            					            		Paszporty Polityki
+				            				            				            </a>
+            
+                    </li>
+            <li class="last ">
+        	        
+			            <a  href="http://www.polityka.pl/odkryjszwajcarie" >
+			            					            					            		Odkryj Szwajcarię
+				            				            				            </a>
+            
+                    </li>
+        </ul>
+        <div class="clear"></div>
+        <ul id="menu_1_lvl2">
+            <li class="first ">
+        	        
+			            <a  href="http://www.polityka.pl/nauka/obserwatoriumpolityki" >
+			            					            					            		Obserwatorium Polityki
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/nauka/ekologia" >
+			            					            					            		Ekologia
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/nauka/komputeryiinternet" >
+			            					            					            		Komputery i internet
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/nauka/technika" >
+			            					            					            		Technika
+				            				            				            </a>
+            
+                    </li>
+            <li class="current">
+        	        
+			            <a  href="http://www.polityka.pl/nauka/zdrowie" >
+			            					            					            		Zdrowie
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/nauka/czlowiek" >
+			            					            					            		Człowiek
+				            				            				            </a>
+            
+                    </li>
+            <li class="">
+        	        
+			            <a  href="http://www.polityka.pl/nauka/wszechswiat" >
+			            					            					            		Wszechświat
+				            				            				            </a>
+            
+                    </li>
+            <li class="last ">
+        	        
+			            <a  href="http://www.polityka.pl/nauka/natura" >
+			            					            					            		Natura
+				            				            				            </a>
+            
+                    </li>
+        </ul>
+        <div class="clear"></div>
+</div>
+<!-- end module:Nawigacja|NAVIGATION -->
+<!-- end: navigation -->
+            
+    <div class="clear"></div>
+    
+    <div id="content">
+        <div id="columns">
+            <div id="column_left">
+                <div class="ad_box ad_small">
+                    <!-- start module:orange belka 658x35|STATIC_HTML --><a href="http://www.akademiaorange.pl/about/" target="_blank"><img src="http://www.polityka.pl/download/orange/orange658x35.jpg" width="658" height="35" border="0"/></a>
+<!-- end module:orange belka 658x35|STATIC_HTML -->
+<!-- end: static_add -->
+                </div>   <!-- end .ad_box -->
+                <!-- start module:Artykuł|ARTICLE_TEXT --><div id="article" class="full_article">
+            <div class="article_head">
+            <div class="authors">Paweł Walewski</div>
+            <div class="date_and_size">
+                <span>5 stycznia 2012</span>
+                <ul class="font_size navigation">
+                    <li><a onclick="smallFont();" class="size_1">1</a></li>
+                    <li><a onclick="mediumFont();" class="size_2">2</a></li>
+                    <li><a onclick="largeFont();" class="size_3">3</a></li>           
+                </ul>
+            </div> <!-- end .date_and_size -->
+        </div> <!-- end .article_head -->
+        
+                <h3 class="main">Niezdrowe relacje lekarz - pacjent</h3>
+                <h2>Medycyna dobrych manier</h2>
+        
+                    <div class="article_lead">Ponad połowa osób przewlekle chorych deklaruje, że nie przestrzega zaleceń lekarskich! Nie ufają medycynie czy raczej obcesowym lekarzom?</div>
+			
+			
+    		                
+        <div class="related_content left" style="width: 260px;"><div class="article_gallery" style="width: 260px;"><div class="gallery_photo"><a href="http://static.polityka.pl:80/_resource/res/path/a8/cb/a8cb8272-2fd0-4055-840c-bc292d4b2ead_665x665" class="art-attached-image" title="&#377;r&oacute;de&#322; niepos&#322;usze&#324;stwa chorych nale&#380;y szuka&#263; w gabinetach lekarskich, w kt&oacute;rych lekarze nie potrafili porozumie&#263; sie z pacjentami. &copy;JCB Prod/PantherMedia"><span class="magnifier_ico">Powiększ</span><img src="http://static.polityka.pl:80/_resource/res/path/a8/cb/a8cb8272-2fd0-4055-840c-bc292d4b2ead_260x" alt="&#377;r&oacute;de&#322; niepos&#322;usze&#324;stwa chorych nale&#380;y szuka&#263; w gabinetach lekarskich, w kt&oacute;rych lekarze nie potrafili porozumie&#263; sie z pacjentami."></img></a><span class="photo_desc">&#377;r&oacute;de&#322; niepos&#322;usze&#324;stwa chorych nale&#380;y szuka&#263; w gabinetach lekarskich, w kt&oacute;rych lekarze nie potrafili porozumie&#263; sie z pacjentami.</span>
+</div>
+</div>
+<div class="related_news"><div class="top_panel"><span>Czytaj także</span></div>
+<ul><li><h4><a href="http://www.polityka.pl/nauka/zdrowie/1522009,1,optymisci-zdrowieja-szybciej.read?backTo=http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read" rel="nofollow">Optymiści zdrowieją szybciej</a></h4><p>Aby leczyć, trzeba się tego nauczyć. A kto wie, jak chorować? Współczesna nauka daje pewną...</p></li></ul></div>
+</div>
+<p>Dla Anny Jarosz, dziennikarki i&nbsp;szefowej działu medycznego magazynu &bdquo;Zdrowie&rdquo;, rozmowy z&nbsp;lekarzami to codzienność. Gdy jednak podczas przypadkowego badania dowiedziała się, że sama zakażona jest wirusem zapalenia wątroby typu C i&nbsp;czeka ją ciężka kuracja, poczuła się kompletnie bezradna. &ndash; <em>Lekarz wręczył mi kartkę z&nbsp;rozpoznaniem HCV i&nbsp;wyszedł bez słowa wyjaśnienia. Wiedziałam, co oznacza ten skr&oacute;t, ale zostałam sama z&nbsp;myślami, co dalej</em> &ndash; opowiada Anna. W&nbsp;tej sytuacji dziennikarsko-medyczne doświadczenie nie zmniejsza lęku ani nie likwiduje zagubienia, z&nbsp;kt&oacute;rym każdy pacjent musi sobie poradzić. &ndash; <em>Nie oczekiwałam, by rozkładano przede mną czerwone dywany. Ale pacjenci łakną rzeczowych informacji, tymczasem niewielu lekarzy potrafi i&nbsp;chce z&nbsp;nimi szczerze rozmawiać</em>.</p>
+<p>Najbardziej dotkliwy okazał się brak rzetelnych informacji na temat skutk&oacute;w ubocznych, mogących wystąpić podczas kuracji silnymi lekami, zwłaszcza interferonem. &ndash; <em>Usłyszałam od lekarki tylko tyle, że czeka mnie ciężki rok. Wręczyła mi kartkę z&nbsp;listą możliwych działań niepożądanych, na kt&oacute;re muszę być przygotowana: nudności, podwyższona temperatura, złe samopoczucie, wypadanie włos&oacute;w.</em></p>
+<p>Wszystko podane z&nbsp;wersji <em>light</em>, tymczasem życie okazało się <em>hard</em>: zamiast nudności &ndash; silne wymioty, łagodne sformułowanie o&nbsp;podwyższeniu temperatury należało zinterpretować jako gorączkę powyżej 40 stopni z&nbsp;dreszczami, głowę oszpeciły łyse placki. &ndash; <em>Wpadłam w&nbsp;panikę, gdy pewnej nocy dostałam krwawej biegunki, bo nikt mnie nie uprzedził, że to też skutek działania interferonu. Nikt nie doradził, jak pielęgnować wysuszoną jak pergamin sk&oacute;rę. Nikt nie m&oacute;wił o&nbsp;depresji, ograniczając się do zdawkowych pytań: Jak się pani czuje?</em></p>
+<p>Nie śpię &ndash; odpowiadałam podczas wizyt kontrolnych. I&nbsp;co wtedy? Siadam do komputera. Aha &ndash; przytakiwał lekarz i&nbsp;chował wzrok w&nbsp;dokumentach. &ndash; <em>Miałam wrażenie, że jest zawstydzony kontaktem z&nbsp;poważnie chorym człowiekiem. Kilka og&oacute;lnych pytań i&nbsp;dalej, następny czeka w&nbsp;kolejce.</em></p>
+<p><strong>Choroba - ciąg upokorzeń</strong></p>
+<p>Doświadczenie choroby, kt&oacute;rą trzeba zaakceptować, uczy innego spojrzenia na świat, ale dla pacjent&oacute;w to także ciąg upokorzeń, bo kontakty ze zbiurokratyzowaną i&nbsp;odhumanizowaną służbą zdrowia muszą być odtąd regularne. Konieczność rejestrowania się na badania, przesuwanie termin&oacute;w wizyt, oczekiwanie tygodniami na spotkanie z&nbsp;lekarzem. Podpisujesz kwitki, otrzymujesz leki na kolejny miesiąc i&nbsp;co noc zasypiasz z&nbsp;niepewnością, jak będziesz się po nich czuć. W&nbsp;tym męczącym rytmie wyczekiwania żyją miliony przewlekle chorych: z&nbsp;rakiem, chorobami reumatycznymi, cukrzycą, astmą, nadciśnieniem.</p>
+<p>Mariola Kosowicz, kierownik Zakładu Psychoonkologii w&nbsp;warszawskim Centrum Onkologii: &ndash; <em>Aby pacjenci byli gotowi podjąć trudy leczenia, nie wystarczy wystarać się o&nbsp;najlepszą kurację. Trzeba ich jeszcze do niej przekonać, by wytrwali.</em> Wielu nie wytrzymuje, tak dzielnie jak Anna, narzuconego reżimu: dwa razy dziennie tabletki do łykania, co siedem dni zastrzyk w&nbsp;udo &ndash; i&nbsp;tak przez 48 tygodni. Bez gwarancji, że wirus uda się usunąć z&nbsp;organizmu. Dni, kiedy nie musiała się kłuć, były jeszcze gorsze, bo dopiero wtedy podany lek objawiał pełnię swojego działania &ndash; nieludzkim zmęczeniem, wstrętem do jedzenia, drżeniem rąk i&nbsp;torsjami.</p>
+<p>Lekarzom, kt&oacute;rzy mają pretensję do chorych o&nbsp;brak cierpliwości i&nbsp;lekceważenie zaleceń, rzadko przychodzi do głowy, że źr&oacute;deł nieposłuszeństwa tak naprawdę należy szukać w&nbsp;ich własnym gabinecie, w&nbsp;kt&oacute;rym nie potrafili porozumieć się z&nbsp;pacjentem. &ndash; <em>Gdybym wiedziała, co mnie czeka, lepiej przygotowałabym się na najgorsze</em> &ndash; tłumaczy Anna, kt&oacute;ra mieszka sama. &ndash; <em>Kładąc się do ł&oacute;żka, postawiłabym przy nim miskę, pamiętałabym o&nbsp;mokrym ręczniku.</em></p>
+
+        
+        <div class="article_footer">
+            
+                    
+                        <a href="http://www.polityka.pl/nauka/zdrowie/1522545,2,niezdrowe-relacje-lekarz---pacjent.read" class="read_more right">czytaj dalej&nbsp;&raquo;</a>
+                        
+            <div class="clear"></div>
+            
+            <ul class="navigation option_panel">  
+            	                	<li class="print_ico"><a href="javascript:printArticle()">drukuj</a></li>
+                                <li class="recommend_ico"><a href="javascript:recommendThis()">poleć stronę</a></li>
+                <li class="facebook_ico"><a href="javascript:shareOnFacebook('http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read')">facebook</a></li>
+                <li class="wykop_ico"><a href="javascript:wykopTo()">wykop</a></li>
+				
+									                                                        <li class="forum_ico"><a href="http://www.polityka.pl/forum/1111125.thread">dyskusja <span>(6)</span></a></li>
+                        													                                <li class="small_pagination right">
+                    <ul class="font_size small_pagination">
+                        <li class="current"><a href="http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read">1</a></li>
+<li><a href="http://www.polityka.pl/nauka/zdrowie/1522545,2,niezdrowe-relacje-lekarz---pacjent.read">2</a></li>
+<li><a href="http://www.polityka.pl/nauka/zdrowie/1522545,3,niezdrowe-relacje-lekarz---pacjent.read">3</a></li>
+
+                    </ul>
+                </li>
+                            </ul>
+                            
+        </div>  <!-- end .article_footer -->    
+        
+        			
+        
+             <div id="recommend-article-popup" class="recommend-popup" style="display: none">
+    <div class="recommend-popup-header">
+        <div style="border-top: 3px solid #828282 !important; float: left;">
+            <span style="margin-top: 3px !important;">Poleć stronę</span>
+        </div>
+        <div style="float: right"><img src="http://www.polityka.pl/_resource/fs/img/close.png" alt="Zamknij" title="Zamknij" onclick="closeRecommendationDialog();"/></div>
+    </div>
+    <br/>
+    <form id="recommend-article-form" action="">
+        <fieldset>
+            <input type="hidden" id="recommend-article-id" value="1522545"/>
+
+            <div>
+                <label for="recommend-from-email">Od: podaj swój e-mail</label>
+                <input style="width: 250px;" type="text" id="recommend-from-email"/>
+            </div>
+            <div>
+                <label for="recommend-to-email">Do: podaj e-mail adresata</label>
+                <input style="width: 250px;" type="text" id="recommend-to-email"/>
+            </div>
+            <div>
+                <label for="recommend-message">Możesz dopisać wiadomość:</label>
+                <textarea rows="" cols="" style="height: 100px; width: 250px; padding: 0;" id="recommend-message"></textarea>
+                <input id="recommend-submit" type="button" class="submit" value="Wyślij" onclick="sendRecommendation();"/>
+                <img style="vertical-align: bottom;" width="16" height="16" src="http://www.polityka.pl/_resource/fs/img/ajax_loading_small.gif" id="recommend-loading" alt=""/>
+            </div>
+        </fieldset>
+    </form>
+</div>
+<script type="text/javascript">
+    $(function() {
+        $("#recommend-article-popup").dialog({
+            autoOpen: false,
+            modal: true,
+            width: 335,
+            close: function() {
+                $("#recommend-article-form")[0].reset();
+            }
+        });
+    });
+
+    function showRecommendationDialog() {
+        $("#recommend-article-popup").dialog('open');
+        $("#recommend-loading").hide();
+        $("#recommend-submit").show();
+    }
+
+    function sendRecommendation() {
+        $("#recommend-submit").hide();
+        $("#recommend-loading").show();
+        jQuery.post("/articles/ajax_recommend.html", {
+            articleId: $("#recommend-article-id").val(),
+            fromEmail: $("#recommend-from-email").val(),
+            toEmail: $("#recommend-to-email").val(),
+            additionalMessage: $("#recommend-message").val()
+        }, function(data) {
+            $("#recommend-loading").hide();
+            closeRecommendationDialog();
+        });
+    }
+
+    function closeRecommendationDialog() {
+        $("#recommend-article-form")[0].reset();
+        $("#recommend-article-popup").dialog('close');
+    }
+</script>			 
+		<script type="text/javascript">
+    		function mediumFont() {
+            	$("#article").removeClass( 'large_font' );
+				$("#article").removeClass( 'small_font' );	
+            }
+			
+    		function largeFont() {
+            	$("#article").addClass( 'large_font' );
+				$("#article").removeClass( 'small_font' );				
+            }
+    		function smallFont() {
+            	$("#article").removeClass( 'large_font' );
+				$("#article").addClass( 'small_font' );	
+            }
+            
+            		</script>
+        <script type="text/javascript">
+        $(function() {
+        	$('a.art-attached-image').lightBox({
+                txtImage: 'Obrazek',
+                txtOf: 'z',
+                imageLoading: 'http://www.polityka.pl/_resource/fs/img/lightbox-ico-loading.gif',
+                imageBtnPrev: 'http://www.polityka.pl/_resource/fs/img/lightbox-btn-prev.gif',
+                imageBtnNext: 'http://www.polityka.pl/_resource/fs/img/lightbox-btn-next.gif',
+                imageBtnClose: 'http://www.polityka.pl/_resource/fs/img/lightbox-btn-close.gif',
+                imageBlank: 'http://www.polityka.pl/_resource/fs/img/lightbox-blank.gif'
+        	});
+        });
+			$("a#popupTrigger").fancybox({
+		
+	}); 
+
+    	   $(function() {	   
+    			$("a.art-attached-video").fancybox({
+    				//'titlePosition'		: 'inside',
+    				//'transitionIn'		: 'none',
+    				//'transitionOut'		: 'none',
+    				'hideOnContentClick': false,
+    				'centerOnScroll': true,
+					//'autoDimensions' 	: true
+					'frameWidth'			: 590+2,
+					'frameHeight' 			: 477+3
+    			});
+    			/*
+    			$("a.art-attached-video span.video_preview_container").mouseenter(function() {
+    				$("a.art-attached-video span.video_preview_button").show();
+    			});
+    			
+    			$("a.art-attached-video span.video_preview_container").mouseleave(function() {
+    				$("a.art-attached-video span.video_preview_button").hide();
+    			});
+    			*/
+    		});
+
+        </script>
+    
+</div>
+
+<!-- end module:Artykuł|ARTICLE_TEXT -->
+<!-- end: main -->
+            </div><!-- end of #column_left -->
+
+            <div id="column_right">
+                <div class="ad_box">  
+                    <div class="clear"></div>
+                    
+<!-- BBelements one2many Position: Polityka(4057) / Nauka(5) / rectangle(6) / box 300x250 300x250(36) -->
+<!-- HowTo: Place this code into the html page there the ad should appear. -->
+<div id='bmone2n-4057.5.6.36'>
+<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/4057/5/6/36/'><img src='http://go.arbopl.bbelements.com/please/showit/4057/5/6/36/?typkodu=img&keywords=' width='300' height='250' style='border-width:0' alt='' /></a></div></noscript>
+</div><!-- end: rec300x250 -->    
+                </div>
+                
+                <!-- start module:Najczęściej czytane - Nauka|MOST_POPULAR --><script type="text/javascript">
+  function displayTab(number) {
+    var contentPrefix = "#mostPopular1326575397236" + " ul.most_read";
+    var prefixUl = "#mostPopular1326575397236" + " ul li";
+    var eq = ":eq(" + number + ")";
+    jQuery(prefixUl + eq).addClass("current");
+    jQuery(prefixUl).not(prefixUl + eq).removeClass("current");
+    jQuery(contentPrefix + eq).show();
+    jQuery(contentPrefix).not(contentPrefix + eq).hide();
+    return false;
+  }
+</script>
+
+<div id="mostPopular1326575397236" class="tabs_box ">
+  <ul class="navigation tabs_menu">
+    <li class="current first"><a href="#" onclick="return displayTab(0);">Najczęściej czytane</a></li>
+    	<li><a href="#" onclick="return displayTab(1);">Komentowane</a></li>
+	<li class="last"><a href="#" onclick="return displayTab(2);">Polecane</a></li>
+	  </ul>
+  <div class="clear"></div>
+    <ul class="most_read" style="">
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/technika/1522637,1,czy-nadchodzi-kres-motoryzacji.read">Czy nadchodzi kres motoryzacji?</a>
+          </h4>  
+                          <span class="author">Edwin Bendyk</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/komputeryiinternet/1522925,1,amerykanski-politolog-przewiduje-przyszlosc.read">Amerykański politolog przewiduje przyszłość</a>
+          </h4>  
+                          <span class="author">Edwin Bendyk</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/wszechswiat/1522213,1,jesli-na-ksiezycu-jest-woda---to-jestesmy-w-domu.read">Jeśli na Księżycu jest woda - to jesteśmy w domu.</a>
+          </h4>  
+                          <span class="author">Michał Różyczka</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/zdrowie/1522253,1,nalogi-to-rodzaj-choroby---jak-to-leczyc.read">Nałogi to rodzaj choroby - jak to leczyć?</a>
+          </h4>  
+                          <span class="author">Wojciech Mikołuszko</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read">Niezdrowe relacje lekarz - pacjent</a>
+          </h4>  
+                          <span class="author">Paweł Walewski</span>
+              </li>
+      </ul>
+  	  <ul class="most_read" style="display:none">
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/ekologia/1522755,1,falszywi-prorocy-gmo-cz-2-gilles-eric-seralini.read">Fałszywi prorocy GMO: cz. 2. Gilles-Eric Seralini</a>
+          </h4>  
+                          <span class="author">Marcin Rotkiewicz</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/ekologia/1522751,1,falszywi-prorocy-gmo-cz1-arpad-pusztai.read">Fałszywi prorocy GMO: cz.1. Arpad Pusztai</a>
+          </h4>  
+                          <span class="author">Marcin Rotkiewicz</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/ekologia/1522669,1,falszywi-prorocy-gmo-cz-4-percy-schmeiser.read">Fałszywi prorocy GMO: cz. 4. Percy Schmeiser</a>
+          </h4>  
+                          <span class="author">Marcin Rotkiewicz</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/ekologia/1522493,1,kto-nie-lubi-gmo.read">Kto nie lubi GMO?</a>
+          </h4>  
+                          <span class="author">Marcin Rotkiewicz</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/ekologia/1522671,1,falszywi-prorocy-gmo-cz-5-irina-wladimirowna-jermakowa.read">Fałszywi prorocy GMO: cz 5. Irina Władimirowna Jermakowa</a>
+          </h4>  
+                          <span class="author">Marcin Rotkiewicz</span>
+              </li>
+      </ul>
+      <ul class="most_read" style="display:none">
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/technika/1522637,1,czy-nadchodzi-kres-motoryzacji.read">Czy nadchodzi kres motoryzacji?</a>
+          </h4>  
+                          <span class="author">Edwin Bendyk</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/zdrowie/1522545,1,niezdrowe-relacje-lekarz---pacjent.read">Niezdrowe relacje lekarz - pacjent</a>
+          </h4>  
+                          <span class="author">Paweł Walewski</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/ekologia/1522493,1,kto-nie-lubi-gmo.read">Kto nie lubi GMO?</a>
+          </h4>  
+                          <span class="author">Marcin Rotkiewicz</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/czlowiek/1522923,1,czy-spoleczenstwo-to-fikcja.read">Czy społeczeństwo to fikcja?</a>
+          </h4>  
+                          <span class="author">Edwin Bendyk</span>
+              </li>
+          <li>
+                  <h4>
+            <a href="http://www.polityka.pl/nauka/wszechswiat/1522213,1,jesli-na-ksiezycu-jest-woda---to-jestesmy-w-domu.read">Jeśli na Księżycu jest woda - to jesteśmy w domu.</a>
+          </h4>  
+                          <span class="author">Michał Różyczka</span>
+              </li>
+      </ul>
+</div>
+<!-- end module:Najczęściej czytane - Nauka|MOST_POPULAR --><!-- start module:Społeczeństwo - autopromo|AUTOPROMOTION --><div id="autopromotion_7692053335683662317" class="" >
+
+	<a href="http://www.polityka.pl/nauka/czlowiek/1522923,1,czy-spoleczenstwo-to-fikcja.read" class="autopromotion_link">
+		<span class="autopromotion_container"
+				style="background-image: url('http://static.polityka.pl:80/_resource/res/path/02/56/025601a2-8dc2-4929-b19d-b6f8f1e96bf0_f300x190');">
+			<span class="autopromotion_inner_container">
+			
+				<span class="autopromotion_title_container" style="background-color: #D81233;">
+					<span class="autopromotion_upper_title">
+						<span>
+							Nowe spojrzenie 
+						</span>
+					</span>
+					<span class="autopromotion_title">
+						<span>
+							na społeczeństwo
+						</span>
+					</span>
+				</span>
+			</span>
+			
+		</span>
+	</a>
+
+</div>
+<!-- end module:Społeczeństwo - autopromo|AUTOPROMOTION --><!-- start module:autopromo - foto tygodnia|AUTOPROMOTION --><div id="autopromotion_4991917868917469903" class="" >
+
+	<a href="http://www.polityka.pl/galerie/1523085,1.read" class="autopromotion_link">
+		<span class="autopromotion_container"
+				style="background-image: url('http://static.polityka.pl:80/_resource/res/path/34/35/3435c4d6-4ac1-4653-850a-7d9b248c83f6_f300x190');">
+			<span class="autopromotion_inner_container">
+			
+				<span class="autopromotion_title_container" style="background-color: #D81233;">
+					<span class="autopromotion_upper_title">
+						<span>
+							FOTO TYGODNIA
+						</span>
+					</span>
+					<span class="autopromotion_title">
+						<span>
+							Co&nbsp;to&nbsp;jest...
+						</span>
+					</span>
+				</span>
+			</span>
+			
+		</span>
+	</a>
+
+</div>
+<!-- end module:autopromo - foto tygodnia|AUTOPROMOTION --><!-- start module:Blogi na nauce|MANUAL_BLOG_LIST --><div class="border_box">
+    <h3 class="text_replace">
+        <a href="http://www.polityka.pl/blogi">            <img src="http://www.polityka.pl/_resource/fs/res/img-blogi.png" alt="blogi" title="blogi"/>
+            <span>blogi</span>
+        </a>    </h3>
+
+    <ul class="news_list small_list no_photo">
+                                        <li>		            
+                	                    <span class="author">Blog szalonych naukowców</span>
+                    
+                    <h4><a href="http://naukowy.blog.polityka.pl/2012/01/03/pachnacy-doppler/">Pachnący Doppler&nbsp;&raquo;</a></h4>
+
+                    <p>
+                        <a href="http://naukowy.blog.polityka.pl/2012/01/03/pachnacy-doppler/">Już kiedyś na tym blogu pisałem o swoim ograniczonym postrzeganiu muzyki. To były komentarze pod wpisem Piotra Panka „Muzyczny daltonizm Darwina i Freuda„. Niedawno przyszło mi do głowy jeszcze jedno skojarzenie typu poznawczego. </a>
+                    </p>
+
+                    <p class="article_info">
+                        <span class="date_ico">3-01-2012 10:41</span>
+                        <span class="bubble_ico">komentarzy 13</span>
+                    </p>
+                </li>
+                                                            <li>		            
+                	                    <span class="author">Edwin Bendyk</span>
+                    
+                    <h4><a href="http://bendyk.blog.polityka.pl/2012/01/10/przyszlosc-kultury-przyszlosc-polityki-kulturalnej-zaproszenie-na-seminarium/">Przyszłość kultury, przyszłość polityki kulturalnej – zaproszenie na seminarium&nbsp;&raquo;</a></h4>
+
+                    <p>
+                        <a href="http://bendyk.blog.polityka.pl/2012/01/10/przyszlosc-kultury-przyszlosc-polityki-kulturalnej-zaproszenie-na-seminarium/">Serdecznie zapraszam na kolejne, ostatnie już w tym semestrze seminarium z cyklu „Kultura i rozwój”. Tym razem poświęcone będzie „polityce kulturalnej opartej na wiedzy”, czyli o tym w jaki sposób zarządzać sferą życia przechodzącą gwałtowne zmiany (m.in. na skutek cyfryzacji)? </a>
+                    </p>
+
+                    <p class="article_info">
+                        <span class="date_ico">10-01-2012 07:44</span>
+                        <span class="bubble_ico">komentarzy 0</span>
+                    </p>
+                </li>
+                                                            <li>		            
+                	                    <span class="author">Marek Penszko</span>
+                    
+                    <h4><a href="http://penszko.blog.polityka.pl/2012/01/11/duzy-ptaszek/">Duży ptaszek&nbsp;&raquo;</a></h4>
+
+                    <p>
+                        <a href="http://penszko.blog.polityka.pl/2012/01/11/duzy-ptaszek/">Ile najwięcej wielokątów można wyciąć z płaszczyzny – lub lepiej, by były granice, z koła – prostymi (cięciwami)? Niezbyt trudno ustalić, że n^2/2 – 3n/2 + 1. </a>
+                    </p>
+
+                    <p class="article_info">
+                        <span class="date_ico">11-01-2012 00:15</span>
+                        <span class="bubble_ico">komentarzy 6</span>
+                    </p>
+                </li>
+                            </ul>
+        <div class="clear"></div>
+</div>
+<!-- end module:Blogi na nauce|MANUAL_BLOG_LIST --><!-- start module:Galeria na Nauce|MANUAL_GALLERY_LIST --><script type="text/javascript">
+    jQuery(function() {
+        jQuery("div#manualGalleryList1326575739543 ul li:first").addClass("first");
+        jQuery("div#manualGalleryList1326575739543 ul li:last").addClass("last");
+        displayGalleryTab(0);
+    });
+
+    function displayGalleryTab(number) {
+        var prefixA = "#manualGalleryList1326575739543" + " a.manual_gallery_list_lead";
+        var prefixUl = "#manualGalleryList1326575739543" + " ul li";
+        var eq = ":eq(" + number + ")";
+        jQuery(prefixUl + eq).addClass("current");
+        jQuery(prefixUl).not(prefixUl + eq).removeClass("current");
+        jQuery(prefixA + eq).show();
+        jQuery(prefixA).not(prefixA + eq).hide();
+        return false;
+    }
+</script>
+
+<div id="manualGalleryList1326575739543" class="tabs_box ">
+    <ul class="navigation tabs_menu">
+                <li><a href="#" onclick="return displayGalleryTab(0);">Zdjęcia</a></li>
+                    <li><a href="#" onclick="return displayGalleryTab(1);">Wymarłe</a></li>
+                    <li><a href="#" onclick="return displayGalleryTab(2);">Wizualizacje</a></li>
+                    <li><a href="#" onclick="return displayGalleryTab(3);">Chaiten</a></li>
+                </ul>
+    <div class="clear"></div>
+                <a class="manual_gallery_list_lead" href="http://www.polityka.pl/galerie/1522887,1,nauka-2011.read">
+            <strong class="photo_description"><span>Nauka 2011 </span></strong>
+    <img width="269px" height="179px" title="Nauka 2011 " alt="Nauka 2011 " src="http://static.polityka.pl:80/_resource/res/path/1d/91/1d911dc2-87bd-48cf-93c6-0da22f1e6560_f269x179"/>
+</a>
+            <a class="manual_gallery_list_lead" href="http://www.polityka.pl/galerie/1521707,1,poczet-wymarlych.read">
+            <strong class="photo_description"><span>Poczet wymarłych</span></strong>
+    <img width="269px" height="179px" title="Poczet wymarłych" alt="Poczet wymarłych" src="http://static.polityka.pl:80/_resource/res/path/da/fe/dafe833d-ead4-4747-83a8-a71d344fc6fa_f269x179"/>
+</a>
+            <a class="manual_gallery_list_lead" href="http://www.polityka.pl/galerie/1519510,1,zobaczyc-niedostrzegalne.read">
+            <strong class="photo_description"><span>Zobaczyć niedostrzegalne</span></strong>
+    <img width="269px" height="179px" title="Zobaczyć niedostrzegalne" alt="Zobaczyć niedostrzegalne" src="http://static.polityka.pl:80/_resource/res/path/70/69/706930fb-59ca-474f-aa71-dade6173080c_f269x179"/>
+</a>
+            <a class="manual_gallery_list_lead" href="http://www.polityka.pl/wakacje/galeriewakacyjne/1517550,1,zasypane-miasto---galeria.read">
+            <strong class="photo_description"><span>Zasypane miasto</span></strong>
+    <img width="269px" height="179px" title="Zasypane miasto" alt="Zasypane miasto" src="http://static.polityka.pl:80/_resource/res/path/5c/88/5c881bdd-8b61-46f2-8d27-128b505cef6f_f269x179"/>
+</a>
+        <a href="http://www.polityka.pl/galerie" class="right link">inne galerie&nbsp;&raquo;</a>
+    <div class="clear"></div>
+</div>
+<!-- end module:Galeria na Nauce|MANUAL_GALLERY_LIST --><!-- start module:Reklama - Business Click|STATIC_HTML --><div class="252592ea2d852cbf3477c3f7212348b4617928f193c6fbf304586eaddc503f1c"></div>
+<script type="text/javascript" src="http://ads.businessclick.pl/master/"></script>
+<!-- end module:Reklama - Business Click|STATIC_HTML --><!-- start module:Newsletter Polityka - zapisz sie|NEWSLETTER --><script type="text/javascript">
+	var contextPath = '';
+	
+	function doAjax(type, url, params, onSuccess, onError412, onError420) {
+	    	jQuery.ajax({
+	    		type: type,
+	    		url: contextPath + url,
+	    		data: params,
+	    		success: function(data){
+	    			onSuccess(data);
+	    		},
+	    		error: function (request, textStatus, errorThrown) {
+	    			if (request.status == 412) {
+	    				onError412(request);
+	    			} else if (request.status == 420 && typeof onError420 == "function") {
+	    				onError420(request);
+	    			} else {
+	    				alert("Unexpected " + textStatus + " " + request.status + ": " + request.statusText);
+	    			}
+	    		}
+	    	});
+	}
+	
+	$('#newsletter-module3017587549117361914').ready(function() {
+					var initialEmailString = 'wpisz swój e-mail';
+			
+			$('.newsletterEmail').each(function() {
+		    	this.value = initialEmailString;
+		  	});
+		  	
+			$('.newsletterEmail').blur(function(node) {
+			  	var trimmed = jQuery.trim(this.value);
+			  	if (trimmed == '') {
+			    	this.value = initialEmailString;
+			    }
+			});
+			
+			$('.newsletterEmail').focus(function(node) {
+			  	if (this.value == initialEmailString) {
+			    	this.value = '';
+			    }
+		  	});
+					  	
+			});
+	
+	
+	function subscribeForNewsletter() {
+					var email = $('#newsletterEmailField3017587549117361914')[0].value;
+			if (!validateEmail(email)) {
+				alert('Nieprawidłowy adres email.');
+				return false;
+			}
+			
+		var newsletterId = 1;
+		var newState = true;
+		
+			    	var params = {newsletterId: newsletterId, newState: newState, email: email};	
+	    	        
+        var loadingNode = $('#changeSubscriptionStateLoading3017587549117361914');
+        loadingNode.show();
+                
+        doAjax(
+    			"POST", 
+    			'/portal_modules/ajax_newsletter_change_subscription_state.html', 
+    			params, 
+    			function(data) {
+    				loadingNode.hide();
+    				onChangeSubscriptionState(data);
+    			}, 
+    			function(request) {
+    				loadingNode.hide();
+    				alert('Wystąpił błąd podczas zmiany ustawień dotyczących newsletterów.');
+    			}
+    	);
+	}
+	
+	function onChangeSubscriptionState(data) {
+	    if (data == 'OK') {
+	    	beforeShowBottomMessage();
+	    	hideSubscribeButton();
+		    var subscribeNode = getSubscribeNode();
+		    		    	subscribeNode.innerHTML = 'Na podany adres wysłaliśmy wiadomość potwierdzającą. By dokończyć proces sprawdź swoją skrzynkę pocztową i kliknij zawarty w niej link.';
+		    	    } else if (data == 'ALREADY_SENT') { 
+	    	beforeShowBottomMessage();
+	    	hideSubscribeButton();
+	    	var subscribeNode = getSubscribeNode();
+	    	subscribeNode.innerHTML = 'Na ten adres wysłaliśmy emaila z prośbą o potwierdzenie subskrybcji newslettera. Jeżeli nie otrzymałeś emaila, proszę skontaktuj się z nami pod adresem polityka@polityka.com.pl';
+	    } else if (data == 'ALREADY_SUBSCRIBED') {
+	    	beforeShowBottomMessage(); 
+	    	var subscribeNode = getSubscribeNode();
+	    	subscribeNode.innerHTML = 'Ten adres email jest już dopisany do listy wysyłkowej newslettera.';
+	    } else if (data == 'EMAIL_ERROR') {
+	    	alert("Wystąpił błąd podczas wysyłania maila - czy adres email jest prawidłowy?");
+	    } else {
+		    alert("Wystąpił błąd: " + data);
+	    }
+    }
+    
+    function beforeShowBottomMessage() {
+    	var bottomList = $('#bottomList3017587549117361914');
+    	var bottomMessage = $('#bottomMessage3017587549117361914');
+    	var descriptionContainer = $('#newsletterDescriptionContainer3017587549117361914');
+    	bottomList.hide();
+    	descriptionContainer.hide();
+    	bottomMessage.show();
+    }
+    
+    function hideSubscribeButton() {
+    	var subscribeButton = $('#subscribeButton3017587549117361914');
+    	subscribeButton.hide();
+    }
+    
+    function getSubscribeNode() {
+    	return $('#bottomMessage3017587549117361914')[0];
+    }
+    
+    function validateEmail(email) {
+	   var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+	   var address = email;
+	   return reg.test(address);
+	}
+</script>
+
+<div id="newsletter-module3017587549117361914" class="border_box last_edition " >
+	 		<img id="newsletter_header_img" src="http://www.polityka.pl/_resource/fs/res/img-newsletter.png" alt="Newsletter" title="Newsletter" />
+	 
+
+	<div class="clear"></div>
+
+	<div id="newsletter_field3017587549117361914">
+		<span id="newsletterContainer3017587549117361914">
+			<span id="newsletterDescriptionContainer3017587549117361914">
+				Zamów newsletter, by otrzymywać najciekawsze artykuły na swój adres e-mail
+					<span id="changeSubscriptionStateLoading3017587549117361914" style="display: none;">
+	          			<img src="/img/ajax_loading_small.gif" alt="" />
+	          		</span>
+				<br />
+			</span>
+			
+							<input id="newsletterEmailField3017587549117361914" name="newsletterEmail" class="text newsletterEmail" value="wpisz swój e-mail"/>
+						
+			<input id="subscribeButton3017587549117361914"
+				onclick="subscribeForNewsletter();"
+				type="submit" class="button" title="zamów newsletter" value="zamów"/>
+		</span>
+	</div><!-- end of #search_field -->
+	
+	<div class="clear"></div>
+	
+	<ul id="bottomList3017587549117361914" class="navigation small_horizontal_menu">
+		<li class="first_position_in_horizontal_menu">
+			<a href="http://www.polityka.pl/newslettery/newsletterpolityka">zobacz przykład</a>
+		</li>
+		<li class="last_position_in_horizontal_menu">
+			<a href="http://www.polityka.pl/opolityce/1500085,1,regulamin-korzystania-z-serwisu-politykapl.read">polityka prywatności</a>
+		</li>
+   	</ul>
+	
+	<span id="bottomMessage3017587549117361914" class="moduleMessage" style="display:none;">
+    	
+	</span>	
+	
+	<div class="clear"></div>
+
+</div>
+<!-- end module:Newsletter Polityka - zapisz sie|NEWSLETTER -->
+<!-- end: right -->
+
+            </div><!-- end of #column_right -->
+        
+        </div> <!-- end #columns --> 
+    </div><!-- end #content -->
+    <div class="clear"></div>  
+    <div class="left">
+    	<!-- start module:Nagrody Naukowe Polityki 2011 pod HP|STATIC_HTML --><!-- end module:Nagrody Naukowe Polityki 2011 pod HP|STATIC_HTML --><!-- start module:Domknięcie na wszystkich stronach - działy|SECTIONS_LIST --><div class="clear"></div>
+<ul class="bottom_news navigation">
+            <li>                                                          
+        <h4 class="category"><a href="http://www.polityka.pl/kraj">Kraj&nbsp;»</a></h4>
+        			
+          <a href="http://www.polityka.pl/kraj/analizy/1523301,1,podpalil-sie-pod-kancelaria-mowil-prawde.read"><img src="http://static.polityka.pl:80/_resource/res/path/bb/03/bb039da8-2545-4c40-96d3-d63e983e7eb3_f120x80" class="center " alt="Śledztwo w sprawie nieprawidłowości w Urzędzie Skarbowym Warszawa-Praga wznowiono i przedłużono do połowy kwietnia."/></a>
+                <ul class="short_list">
+                                    <li class="main_article">
+                          <a href="http://www.polityka.pl/kraj/analizy/1523301,1,podpalil-sie-pod-kancelaria-mowil-prawde.read">Podpalił się pod kancelarią. Mówił prawdę&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/kraj/1523293,1,premier-po-sprawie-prok-przybyla.read">Premier po sprawie prok. Przybyła&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/kraj/analizy/1522917,1,armia-kupuje-smiglowce-ktory-wybierze.read">Armia kupuje śmigłowce. Który wybierze?&nbsp;&raquo;</a>
+		  </li>
+                  </ul>   
+      </li>
+                <li>                                                          
+        <h4 class="category"><a href="http://www.polityka.pl/swiat">Świat&nbsp;»</a></h4>
+        			
+          <a href="http://www.polityka.pl/swiat/analizy/1523181,1,tajwan--wschodni-tygrys-w-rozkroku.read"><img src="http://static.polityka.pl:80/_resource/res/path/88/af/88afda36-c2dc-46fa-aabc-088ba03e66bb_f120x80" class="center " alt="Zrzutka zwolenników Demokratycznej Partii Postępowej na wiecu w Tajpej, grudzień 2011 r."/></a>
+                <ul class="short_list">
+                                    <li class="main_article">
+                          <a href="http://www.polityka.pl/swiat/analizy/1523181,1,tajwan--wschodni-tygrys-w-rozkroku.read">Tajwan – wschodni tygrys w rozkroku&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/swiat/ludzie/1522903,1,co-sie-dzieje-za-kulisami-komunistycznej-partii-chin.read">Co się dzieje za kulisami Komunistycznej Partii Chin&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/swiat/analizy/1522989,1,londyn---portret-gospodarza-igrzysk.read">Londyn - portret gospodarza igrzysk&nbsp;&raquo;</a>
+		  </li>
+                  </ul>   
+      </li>
+                <li>                                                          
+        <h4 class="category"><a href="http://www.polityka.pl/spoleczenstwo">Społeczeństwo&nbsp;»</a></h4>
+        			
+          <a href="http://www.polityka.pl/spoleczenstwo/artykuly/1522521,1,ian-fleming---bond-doskonaly.read"><img src="http://static.polityka.pl:80/_resource/res/path/c4/c6/c4c645b9-f402-4926-8525-d2324b6bb083_f120x80" class="center " alt="Ian Fleming trafił w tęsknoty czytelników i kinomanów znakomicie, skoro w tyle lat po śmierci (zmarł w 1964 r.) autor Bonda ma nadal główną licencję na zabijanie."/></a>
+                <ul class="short_list">
+                                    <li class="main_article">
+                          <a href="http://www.polityka.pl/spoleczenstwo/artykuly/1522521,1,ian-fleming---bond-doskonaly.read">Ian Fleming - Bond doskonały&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/spoleczenstwo/artykuly/1522975,1,czy-franciszek-smuda-poprowadzi-polakow-do-zwyciestwa.read">Czy Franciszek Smuda poprowadzi Polaków do zwycięstwa?&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/spoleczenstwo/artykuly/1522523,1,damski-fetysz---buty.read">Damski fetysz - buty&nbsp;&raquo;</a>
+		  </li>
+                  </ul>   
+      </li>
+                <li>                                                          
+        <h4 class="category"><a href="http://www.polityka.pl/rynek">Rynek&nbsp;»</a></h4>
+        			
+          <a href="http://www.polityka.pl/rynek/ekonomia/1522911,1,polska-zawalczy-o-unijny-budzet.read"><img src="http://static.polityka.pl:80/_resource/res/path/7c/82/7c8271b9-5186-4ae9-bcd1-272789e2dbab_f120x80" class="center " alt="Musimy trzymać kciuki za Duńczyków, którzy po nas przejmują prezydencję w UE, aby udało im się rozwiązać jak najwięcej spornych kwestii."/></a>
+                <ul class="short_list">
+                                    <li class="main_article">
+                          <a href="http://www.polityka.pl/rynek/ekonomia/1522911,1,polska-zawalczy-o-unijny-budzet.read">Polska zawalczy o unijny budżet&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/rynek/ludzie/1522987,1,jewgienij-kasperski---hakerzy-mu-nie-straszni.read">Jewgienij Kasperski - hakerzy mu nie straszni&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/rynek/gospodarka/1523077,1,apokalipsa-moze-byc-oplacalna.read">Apokalipsa może być opłacalna&nbsp;&raquo;</a>
+		  </li>
+                  </ul>   
+      </li>
+                <li>                                                          
+        <h4 class="category"><a href="http://www.polityka.pl/kultura">Kultura&nbsp;»</a></h4>
+        			
+          <a href="http://www.polityka.pl/kultura/aktualnoscikulturalne/1523123,1,ksiazkowa-zima-z-kryminalem-2012.read"><img src="http://static.polityka.pl:80/_resource/res/path/f9/41/f941365b-061a-4069-9236-486776fada02_f120x80" class="center " alt=""/></a>
+                <ul class="short_list">
+                                    <li class="main_article">
+                          <a href="http://www.polityka.pl/kultura/aktualnoscikulturalne/1523123,1,ksiazkowa-zima-z-kryminalem-2012.read">Książkowa „Zima z kryminałem” 2012&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/kultura/rozmowy/1523195,1,dziewczyna-ktora-narysowala-stan-wojenny.read">Dziewczyna, która narysowała stan wojenny&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/kultura/aktualnoscikulturalne/1522959,1,co-przyciagnie-nas-przed-ekrany.read">Co przyciągnie nas przed ekrany?&nbsp;&raquo;</a>
+		  </li>
+                  </ul>   
+      </li>
+                <li>                                                          
+        <h4 class="category"><a href="http://www.polityka.pl/nauka">Nauka&nbsp;»</a></h4>
+        			
+          <a href="http://www.polityka.pl/nauka/1522945,1,kilka-pomyslow-na-zniszczenie-swiata.read"><img src="http://static.polityka.pl:80/_resource/res/path/08/6d/086df1f1-253d-4e6b-bd80-d8fa948728ab_f120x80" class="center " alt="Licząc od narodzin Chrystusa, koniec świata wieszczono już kilkadziesiąt razy. Świat jednak wciąż istnieje, ale kiedyś będzie się musiał skończyć. To pewne."/></a>
+                <ul class="short_list">
+                                    <li class="main_article">
+                          <a href="http://www.polityka.pl/nauka/1522945,1,kilka-pomyslow-na-zniszczenie-swiata.read">Kilka pomysłów na zniszczenie świata&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/nauka/czlowiek/1522923,1,czy-spoleczenstwo-to-fikcja.read">Czy społeczeństwo to fikcja?&nbsp;&raquo;</a>
+		  </li>
+                                    <li >
+                          <a href="http://www.polityka.pl/nauka/komputeryiinternet/1522925,1,amerykanski-politolog-przewiduje-przyszlosc.read">Amerykański politolog przewiduje przyszłość&nbsp;&raquo;</a>
+		  </li>
+                  </ul>   
+      </li>
+      </ul>
+<!-- end module:Domknięcie na wszystkich stronach - działy|SECTIONS_LIST -->
+<!-- end: bottom_part -->
+    </div>
+    <div id="bottomSummary" class="right">
+    	<!-- start module:Spis treści - wąski - w stopce|SUMMARY -->	
+<div class="botton_border_box last_edition">
+	<a href="http://www.polityka.pl/spistresci"><span>W numerze</span></a>
+	<a href="http://www.polityka.pl/spistresci">
+		<img src="http://static.polityka.pl:80/_resource/res/path/5e/8b/5e8b31b9-9478-4fe3-9243-a31565a0e07d_100x" alt="Polityka 02/2012" />
+    </a>
+    <ul class="left edition_menu">
+                  <li>
+            <a href="http://www.polityka.pl/opolityce/1501735,1,polityka-do-sluchania.read">Polityka do słuchania&nbsp;&raquo;</a>
+          </li>
+                  <li>
+            <a href="http://www.egazety.pl/oferta/polityka,59,59.html">E-wydanie&nbsp;&raquo;</a>
+          </li>
+                  <li>
+            <a href="http://skleppolityki.pl/pl,category,108849,polityka,prenumerata.html">Prenumerata&nbsp;&raquo;</a>
+          </li>
+                  <li>
+            <a href="http://archiwum.polityka.pl">Archiwum&nbsp;&raquo;</a>
+          </li>
+            </ul> 
+  <div class="clear"></div> 
+</div>
+
+<!-- end module:Spis treści - wąski - w stopce|SUMMARY -->
+<!-- end: bottom_news -->
+    </div>
+    <div class="clear"></div> 
+    	<!-- start module:Autorzy Polityki|AUTHORS --><script type="text/javascript">
+  var firstVisibleId = 1;
+  jQuery(function() {
+    jQuery("a[id^=authors1326575575563]").click(function() {
+      if(this.id.charAt(this.id.length - 1) == 'a') {
+        if(firstVisibleId > 2) {
+          jQuery("#authors1326575575563 > a").show();
+        } else {
+          jQuery("#authors1326575575563 > a:eq(0)").hide();
+        }
+        
+        jQuery("li[id$=s" + (firstVisibleId - 1) + "]").show();
+        jQuery("li[id$=s" + (firstVisibleId + 11 - 1) + "]").hide();
+        
+        --firstVisibleId;
+      } else {
+        if(59 > 1) {
+          jQuery("#authors1326575575563 > a:eq(0)").show();
+        }
+        if(59 > firstVisibleId + 11) {
+          jQuery("#authors1326575575563 > a:eq(1)").show();
+        } else {
+          jQuery("#authors1326575575563 > a:eq(1)").hide();
+        }
+        
+        jQuery("li[id$=s" + firstVisibleId + "]").hide();
+        jQuery("li[id$=s" + (firstVisibleId + 11) + "]").show();
+        
+        ++firstVisibleId;
+      }
+      
+      return false;
+    });
+  });
+</script>
+
+<div id="authors1326575575563" class="polityka_authors ">
+  <div class="panel">
+    <h3>Autorzy POLITYKI</h3>    
+  </div>
+  <a id="authors1326575575563a" href="#" style="display:none" class="scroll_left">«</a>
+  <ul class="navigation">
+          <li id="authors1326575575563s1" >
+        <a href="http://www.polityka.pl/search?author=Janina Paradowska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/09/28/0928a772-3b9e-48be-80a3-351bb3d7babd_f43x43" alt="Janina Paradowska"/>
+                    <strong>Janina Paradowska</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s2" >
+        <a href="http://www.polityka.pl/search?author=Jacek Żakowski&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/f2/d9/f2d99e0c-10cd-42ff-bd83-83d6f1ee2571_f43x43" alt="Jacek Żakowski"/>
+                    <strong>Jacek Żakowski</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s3" >
+        <a href="http://www.polityka.pl/search?author=Mariusz Janicki&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/96/9d/969df513-0ce4-4fa5-a95d-56747c9410c7_f43x43" alt="Mariusz Janicki"/>
+                    <strong>Mariusz Janicki</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s4" >
+        <a href="http://www.polityka.pl/search?author=Wiesław Władyka&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/0c/e2/0ce2baec-f5c6-427b-81cc-e91154186c95_f43x43" alt="Wiesław Władyka"/>
+                    <strong>Wiesław Władyka</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s5" >
+        <a href="http://www.polityka.pl/search?author=Daniel Passent&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/ee/ce/eece6f21-4c31-47c8-bffb-e883a4cd6f85_f43x43" alt="Daniel Passent"/>
+                    <strong>Daniel Passent</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s6" >
+        <a href="http://www.polityka.pl/search?author=Marek Ostrowski&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/1d/ab/1dab9096-d4a7-4c3a-9250-fc2d61977e6e_f43x43" alt="Marek Ostrowski"/>
+                    <strong>Marek Ostrowski</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s7" >
+        <a href="http://www.polityka.pl/search?author=Adam Szostkiewicz&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/72/ac/72aca5fe-1d01-4447-8000-80985b7445bd_f43x43" alt="Adam Szostkiewicz"/>
+                    <strong>Adam Szostkiewicz</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s8" >
+        <a href="http://www.polityka.pl/search?author=Joanna Solska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/41/2c/412cca8a-1ba4-4016-a83f-43228e6d523f_f43x43" alt="Joanna Solska"/>
+                    <strong>Joanna Solska</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s9" >
+        <a href="http://www.polityka.pl/search?author=Zdzisław Pietrasik&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/8e/7d/8e7d8a4d-09b6-4781-9006-0978477386b3_f43x43" alt="Zdzisław Pietrasik"/>
+                    <strong>Zdzisław Pietrasik</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s10" >
+        <a href="http://www.polityka.pl/search?author=Edwin Bendyk&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/68/34/683476af-1f85-4c52-8086-23f4e02cdc68_f43x43" alt="Edwin Bendyk"/>
+                    <strong>Edwin Bendyk</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s11" >
+        <a href="http://www.polityka.pl/search?author=Jerzy Baczyński&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/c7/c1/c7c1322c-b916-41ac-8e7e-ec4982cdbd25_f43x43" alt="Jerzy Baczyński"/>
+                    <strong>Jerzy Baczyński</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s12" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Martyna Bunda&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/a8/10/a8103733-add1-4498-94ea-f63afbc2712a_f43x43" alt="Martyna Bunda"/>
+                    <strong>Martyna Bunda</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s13" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Krzysztof Burnetko&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/f8/87/f8878fb4-5edb-4070-9e6d-7b7b0aa76d09_f43x43" alt="Krzysztof Burnetko"/>
+                    <strong>Krzysztof Burnetko</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s14" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Joanna Cieśla&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/2f/79/2f79b243-7033-4610-8a77-086776d9370d_f43x43" alt="Joanna Cieśla"/>
+                    <strong>Joanna Cieśla</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s15" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Jan Dziadul&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/9e/45/9e45f0a6-3d9d-4244-b801-dc82dfcfc865_f43x43" alt="Jan Dziadul"/>
+                    <strong>Jan Dziadul</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s16" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Roman Frister&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/f1/c7/f1c7974b-c4f2-4341-9551-e88f2af2cc4d_f43x43" alt="Roman Frister"/>
+                    <strong>Roman Frister</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s17" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Andrzej Garlicki&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/49/58/49587710-1bd0-4c67-9cf5-4533187c708d_f43x43" alt="Andrzej Garlicki"/>
+                    <strong>Andrzej Garlicki</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s18" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Edyta Gietka&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/2c/c6/2cc6f12c-0ec7-4084-a12d-2ce155163804_f43x43" alt="Edyta Gietka"/>
+                    <strong>Edyta Gietka</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s19" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Adam Grzeszak&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/bf/a4/bfa43b32-e76f-41ce-a7aa-cc4015717cb9_f43x43" alt="Adam Grzeszak"/>
+                    <strong>Adam Grzeszak</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s20" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Marek Henzler&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/d9/96/d996f578-80f0-47d9-8d84-2cc18e6fc6c4_f43x43" alt="Marek Henzler"/>
+                    <strong>Marek Henzler</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s21" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Cezary Kowanda&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/f3/1e/f31eb0a9-022d-422d-8194-ca455dca31f0_f43x43" alt="Cezary Kowanda"/>
+                    <strong>Cezary Kowanda</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s22" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Marcin Kołodziejczyk&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/f3/6a/f36aaee8-13e8-4582-9792-6b1572840e37_f43x43" alt="Marcin Kołodziejczyk"/>
+                    <strong>Marcin Kołodziejczyk</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s23" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Agnieszka Krzemińska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/84/3a/843a566d-e7da-422b-ace7-f93a68cddf7b_f43x43" alt="Agnieszka Krzemińska"/>
+                    <strong>Agnieszka Krzemińska</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s24" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Adam Krzemiński&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/7f/f6/7ff65afd-8d1d-408b-869f-f603a4665df5_f43x43" alt="Adam Krzemiński"/>
+                    <strong>Adam Krzemiński</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s25" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Aneta Kyzioł&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/76/9a/769ae45d-faee-4b6a-851f-7e14a9484324_f43x43" alt="Aneta Kyzioł"/>
+                    <strong>Aneta Kyzioł</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s26" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Krystyna Lubelska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/03/d9/03d94eb1-0208-4ecf-8ee9-f2b4e8fc280b_f43x43" alt="Krystyna Lubelska"/>
+                    <strong>Krystyna Lubelska</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s27" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Cezary Łazarewicz&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/d2/1c/d21c5194-1a5b-4353-bc7d-90908f4c89dc_f43x43" alt="Cezary Łazarewicz"/>
+                    <strong>Cezary Łazarewicz</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s28" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Wojciech Markiewicz&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/5a/1e/5a1ed1a5-1886-4b3c-875d-80a9f9942cdf_f43x43" alt="Wojciech Markiewicz"/>
+                    <strong>Wojciech Markiewicz</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s29" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Bianka Mikołajewska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/a5/4b/a54b0b01-52ed-4fb2-8388-727efce16c62_f43x43" alt="Bianka Mikołajewska"/>
+                    <strong>Bianka Mikołajewska</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s30" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Sławomir Mizerski&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/21/b1/21b11974-1f7b-4001-a4cd-b0f73fabaf28_f43x43" alt="Sławomir Mizerski"/>
+                    <strong>Sławomir Mizerski</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s31" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Krzysztof Mroziewicz&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/f7/94/f7946433-1c39-45a3-b8c1-d29a6f4c32ba_f43x43" alt="Krzysztof Mroziewicz"/>
+                    <strong>Krzysztof Mroziewicz</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s32" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Tadeusz Olszański&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/1f/25/1f253006-c72e-4d2f-850b-f3b631f8c2ae_f43x43" alt="Tadeusz Olszański"/>
+                    <strong>Tadeusz Olszański</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s33" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Mirosław Pęczak&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/b8/22/b82232dc-5659-44fa-bfa8-159123cedec3_f43x43" alt="Mirosław Pęczak"/>
+                    <strong>Mirosław Pęczak</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s34" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Joanna Podgórska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/9a/1e/9a1e8b16-06d2-412b-8bd3-cfe517edbdfc_f43x43" alt="Joanna Podgórska"/>
+                    <strong>Joanna Podgórska</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s35" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Piotr Pytlakowski&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/1e/04/1e045c51-80b1-4c15-9a86-e99b3a2f36ee_f43x43" alt="Piotr Pytlakowski"/>
+                    <strong>Piotr Pytlakowski</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s36" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Marcin Rotkiewicz&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/62/0f/620f8028-a218-4ffb-9116-f105403d2f37_f43x43" alt="Marcin Rotkiewicz"/>
+                    <strong>Marcin Rotkiewicz</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s37" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Piotr Sarzyński&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/4a/e8/4ae83a5f-ae4f-49c4-870f-a7814f47527a_f43x43" alt="Piotr Sarzyński"/>
+                    <strong>Piotr Sarzyński</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s38" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Wawrzyniec Smoczyński&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/3d/41/3d413ac0-4a41-4363-8513-679620f139dd_f43x43" alt="Wawrzyniec Smoczyński"/>
+                    <strong>Wawrzyniec Smoczyński</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s39" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Justyna Sobolewska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/a4/e1/a4e1ec74-4c03-4614-8e14-460937d7826e_f43x43" alt="Justyna Sobolewska"/>
+                    <strong>Justyna Sobolewska</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s40" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Ryszarda Socha&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/d8/ae/d8aee6df-36ab-4c7a-898d-ac80255a6bb9_f43x43" alt="Ryszarda Socha"/>
+                    <strong>Ryszarda Socha</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s41" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Piotr Stasiak&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/91/93/919372b2-240b-4e5a-b149-92f18b88c34b_f43x43" alt="Piotr Stasiak"/>
+                    <strong>Piotr Stasiak</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s42" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Dorota Szwarcman&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/e0/f3/e0f39e49-3c85-4ca5-827e-ae5de4f5eee2_f43x43" alt="Dorota Szwarcman"/>
+                    <strong>Dorota Szwarcman</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s43" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Urszula Szyperska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/4f/75/4f751e07-03e5-4c7e-ade7-fb84df934e38_f43x43" alt="Urszula Szyperska"/>
+                    <strong>Urszula Szyperska</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s44" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Paweł Tarnowski&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/64/24/6424c5fc-42c0-4fae-9757-9ddd24e8b636_f43x43" alt="Paweł Tarnowski"/>
+                    <strong>Paweł Tarnowski</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s45" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Paweł Walewski&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/75/0e/750eb1ad-03bb-45e8-86b8-a82f95fbb96d_f43x43" alt="Paweł Walewski"/>
+                    <strong>Paweł Walewski</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s46" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Jagienka Wilczak&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/35/4c/354c2d97-8eea-460d-8510-9d755e9d988d_f43x43" alt="Jagienka Wilczak"/>
+                    <strong>Jagienka Wilczak</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s47" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Ewa Wilk&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/20/98/209812d4-6978-41fd-a0f8-c501efbe8f99_f43x43" alt="Ewa Wilk"/>
+                    <strong>Ewa Wilk</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s48" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Jędrzej Winiecki&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/1b/36/1b366edd-6917-499e-8db2-3b2da52bc421_f43x43" alt="Jędrzej Winiecki"/>
+                    <strong>Jędrzej Winiecki</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s49" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Ewa Winnicka&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/61/02/610292ef-69e5-44b0-b87e-78359a0c14ed_f43x43" alt="Ewa Winnicka"/>
+                    <strong>Ewa Winnicka</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s50" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Paweł Wrabec&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/ff/42/ff422c39-4019-4a4b-acaa-21331499d87e_f43x43" alt="Paweł Wrabec"/>
+                    <strong>Paweł Wrabec</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s51" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Janusz Wróblewski&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/ba/d9/bad93572-a1e7-4e51-8b5a-4dcd52072e3b_f43x43" alt="Janusz Wróblewski"/>
+                    <strong>Janusz Wróblewski</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s52" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Agnieszka Zagner&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/8f/89/8f89320b-ae19-40a7-8d81-dc6931172c72_f43x43" alt="Agnieszka Zagner"/>
+                    <strong>Agnieszka Zagner</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s53" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Piotr Adamczewski&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/37/04/37040174-6878-45fb-8099-6596ec47c2d2_f43x43" alt="Piotr Adamczewski"/>
+                    <strong>Piotr Adamczewski</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s54" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Grzegorz Rzeczkowski&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/7d/12/7d12b47c-a091-4a5d-b008-2185e99603e2_f43x43" alt="Grzegorz Rzeczkowski"/>
+                    <strong>Grzegorz Rzeczkowski</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s55" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Anna Dąbrowska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/8d/2e/8d2e7e3d-df3a-48ef-994d-655aaf94acb7_f43x43" alt="Anna Dąbrowska"/>
+                    <strong>Anna Dąbrowska</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s56" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Juliusz Ćwieluch&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/6b/57/6b5783e3-4301-493e-8354-855bf4550480_f43x43" alt="Juliusz Ćwieluch"/>
+                    <strong>Juliusz Ćwieluch</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s57" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Przemek Berg&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/52/77/52778161-a157-42ec-bad7-4dad6e02cbc7_f43x43" alt="Przemek Berg"/>
+                    <strong>Przemek Berg</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s58" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Bartek Chaciński&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/f7/94/f794c040-bcaa-4742-8cf0-c649bcbb7108_f43x43" alt="Bartek Chaciński"/>
+                    <strong>Bartek Chaciński</strong>
+        </a>
+      </li>
+          <li id="authors1326575575563s59" style="display:none">
+        <a href="http://www.polityka.pl/search?author=Magda Papuzińska&amp;propertyName=publishDate">
+                      <img src="http://static.polityka.pl:80/_resource/res/path/30/7e/307e0d8c-96c4-4fd8-8d40-1af3994b9987_f43x43" alt="Magda Papuzińska"/>
+                    <strong>Magda Papuzińska</strong>
+        </a>
+      </li>
+      </ul>        
+  <a id="authors1326575575563b" href="#" class="scroll_right">»</a>
+</div>
+<div class="clear authors_border"></div> 
+<!-- end module:Autorzy Polityki|AUTHORS --><!-- start module:orange nauka belka 980x35|STATIC_HTML --><a href="http://www.akademiaorange.pl/about/" target="_blank"><img src="http://www.polityka.pl/download/orange/orange_nauka980x35.jpg" width="980" height="35" border="0"/></a>
+<!-- end module:orange nauka belka 980x35|STATIC_HTML -->
+<!-- end: bottom_authors -->
+    <div class="clear"></div>  
+    <div id="footer">
+        <!-- start module:footer - statyczny html|STATIC_HTML --><div id="footer_left">
+<div id="index_footer">
+ <ul class="navigation">
+  <li class="first">
+   <a href="/opolityce">O Polityce</a>
+  </li>
+  <li>
+   <a href="/opolityce/1500087,1,redakcja-polityki.read">Redakcja</a>
+  </li>				
+  <li class="last">
+   <a href="http://lesniczowkanibork.pl">Leśniczówka Nibork - Dom Pracy Twórczej</a>
+  </li>
+  <li class="clear">
+  </li>
+<br/>
+  <li class="first">
+   <a href="mailto:internet@polityka.com.pl">Napisz do nas</a>
+  </li>
+  <li>
+   <a href="/biuroreklamy">Biuro reklamy</a>
+  </li>
+  <li class="last">
+   <a href="/opolityce/1500085,1,regulamin-korzystania-z-serwisu-politykapl.read">Regulaminy</a>
+  </li>
+   <li class="clear">
+  </li>
+    <li class="first">
+   	 <a href="http://www.presseurop.eu/pl" target="_blank"><img src="_resource/fs/img/presseurop.png" alt="presseurop" border="0"/></a>
+  	</li>
+    <li class="first">
+   	<a href="http://www.tygodnikforum.pl/forum/index.jsp?place=Menu01&news_cat_id=-1&layout=0">Tygodnik FORUM</a>
+  	</li>
+    <li class="last">
+   	<a href="http://technopolis.polityka.pl/">Technopolis - o grach z kulturą</a>
+	</li>
+ </ul> 
+ <!-- navigation -->  
+</div>			
+</div>  
+ <!-- end #footer_left -->
+		
+<div id="footer_right">
+ <p>Wykonanie <a href="http://www.javatech.com.pl/">Javatech</a> | Prawa autorskie © S.P. Polityka <a href="http://polityka.pl"><img src="_resource/fs/img/polityka_logo_small.png" alt="polityka" title="polityka" height="28" width="109" /></a></p>
+</div>
+<!-- end #footer_right -->  
+<!-- end module:footer - statyczny html|STATIC_HTML -->
+<!-- end: footer -->
+    </div><!-- end #footer -->
+
+</div><!-- end #container -->
+<!-- BBelements one2many Position: Polityka.pl(4057) / Nauka(5) / pixel(1) / pixel 1x1(33) -->
+<!-- HowTo: Place this code into the html page there the ad should appear. -->
+<div id='bmone2n-4057.5.1.33'>
+<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/4057/5/1/33/'><img src='http://go.arbopl.bbelements.com/please/showit/4057/5/1/33/?typkodu=img&keywords=' width='1' height='1' style='border-width:0' alt='' /></a></div></noscript>
+</div><!-- end: PixelBiz -->
+<!-- BBelements one2many code -->
+<!-- HowTo: All the ad codes must be above this code! -->
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<script type='text/javascript' src='http://go.arbopl.bbelements.com/bb/bb_one2n.js?1281505240'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+var bbkeywords=''; //fill in: 'key1;key2;..'
+bmone2n.addPosition('4057.5.2.30','');
+bmone2n.addPosition('4057.5.1.33','');
+bmone2n.addPosition('4057.5.6.36','');
+bmone2n.getAd('go.arbopl.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''));
+/* ]]> */</script>
+<div id='bmone2t-4057.5.2.30' style='display:none;text-align:center'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('4057.5.2.30'); /* ]]> */</script></div>
+<div id='bmone2t-4057.5.1.33' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('4057.5.1.33'); /* ]]> */</script></div>
+<div id='bmone2t-4057.5.6.36' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('4057.5.6.36'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script><!-- end: SilnikBiz -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11208742-1");
+pageTracker._trackPageview();
+} catch(err) {}</script><!-- end: GA -->
+
+
+<a id="noCookiesPopupTrigger" style="display:none;" href="#cookiesPopup"></a>
+<div id="cookiesPopup" style="display: none;">
+	<p class="cookiesPopup"> Ta strona do poprawnego działania wymaga włączenia mechanizmu "ciasteczek" w przeglądarce. </p>
+	<a href="http://www.polityka.pl"> Powrót na stronę główną </a>
+</div>
+
+</body>
+</html>

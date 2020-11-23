@@ -1,0 +1,343 @@
+
+
+
+
+
+
+      
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="description" content="NEW DELHI: Beware, your daily glass of good health could actually be doing you harm. As much as 70% of milk samples picked up from the capital by a government agency failed to conform to standards." /><meta name="keywords" content="news" /><meta property="fb:admins" content="100001837105818" /><meta property="fb:app_id" content="107674452645178" /><meta property="og:title" content="70% of milk in Delhi, country is adulterated" /><meta property="og:type" content="article" /><meta property="og:url" content="http://articles.timesofindia.indiatimes.com/2012-01-10/india/30611460_1_samples-milk-powder-central-food-laboratory" /><meta property="og:image" content="http://timesofindia.indiatimes.com/photo/11429998.cms" /><meta property="og:description" content="NEW DELHI: Beware, your daily glass of good health could actually be doing you harm. As much as 70% of milk samples picked up from the capital by a government agency failed to conform to standards...." />
+        <script type="text/javascript">
+        function pm_fixIEImg(img) {
+            if (navigator.userAgent.indexOf('MSIE 8') == -1 && navigator.userAgent.indexOf('MSIE 7') == -1 && navigator.userAgent.indexOf('MSIE 6') == -1) return img;
+            var parent = img.parentNode;
+            img.onerror = function() { this.parentNode.removeChild(this); }
+            img.src = 'broken';
+            return parent;
+        }
+
+        function pm_imageFailed(div) {
+            pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('mod-articleimage') == -1) div = div.parentNode;
+            if (div != null) { div.parentNode.removeChild(div); pm_removeTextMargin(); }
+        }
+
+        function pm_imageFailedGallery(div) {
+            pm_fixIEImg(div);
+            while (div.parentNode != null && div.nodeName != 'LI') div = div.parentNode;
+            if (div != null) { div.parentNode.removeChild(div); pm_updateGallery(); }
+        }
+
+        function pm_updateGallery() {
+            if (typeof updateGallery == 'function') updateGallery();
+            else setTimeout('pm_updateGallery();', 100);
+        }
+
+        function pm_imageFailedFeatured(div) {
+            var logo = 'http://timesofindia.indiatimes.com/photo/5580817.cms'
+            if (logo != '') {
+                div.parentNode.parentNode.className = 'photowrapper photowrapper-logo';
+                div.className = 'featured-logo';
+                div.src = logo;
+                return;
+            }
+            div = pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('mod-homepageimage') == -1) div = div.parentNode;
+            if (div != null) div.parentNode.removeChild(div);
+        }
+
+        function pm_imageFailedRelatedLink(div) {
+            div = pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('image') == -1) div = div.parentNode;
+            if (div != null) {
+                var pN = div.parentNode;
+                pN.removeChild(div);
+                while (pN.parentNode != null && pN.className.indexOf('image-body') == -1) pN = pN.parentNode;
+                if (pN != null) pN.className = 'text-body';
+            }
+        }
+
+        function pm_imageFailedRelatedPhoto(div) {
+            div = pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('photos') == -1) div = div.parentNode;
+            if (div != null) div.parentNode.removeChild(div);
+        }
+
+        function pm_removeTextMargin() {
+            var by = document.getElementById('mod-article-byline');
+            var tx = document.getElementById('mod-a-body-first-para');
+            if (by != null) by.style.marginRight = '0px';
+            if (tx != null) tx.style.marginRight = '0px';
+        }
+        </script>
+        <title>70% of milk in Delhi, country is adulterated - Times Of India</title><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><link rel="canonical" href="http://articles.timesofindia.indiatimes.com/2012-01-10/india/30611460_1_samples-milk-powder-central-food-laboratory" />
+        <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+        <!-- Times Trends Code Part 1 - add it just under opening  <head> tag before any other javascript -->
+
+        <script language="javascript">
+            function blockError(){return true;}
+            window.onerror = blockError;
+            var dtTT_startofpage = new Date();
+            var rndtno = Math.random();
+            var timeslog_channel_url = 'articles.timesofindia.indiatimes.com';
+            document.write('<img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.indiatimes.com/timeslog.dll/topcnt?CHUR=articles.timesofindia.indiatimes.com&randomno='+ rndtno +'" align="left"/>');
+        </script>
+        <noscript>
+            <img width="0" height="0" border="0" style="display:none;visibility:hidden;" src="http://timeslog.indiatimes.com/timeslog.dll/topcnt?CHUR=articles.timesofindia.indiatimes.com&nojs=1"/>
+        </noscript>
+        <script src="/tracker.js.php?b5a15d581c15acfdf559ae49457c364ce473ef1e" type="text/javascript"></script>
+        <script type="text/javascript">
+                    setCookie("pmk_tn", "ap-TOI_Blended_Ads", 3600);
+                    var sessId = getCookie("sessid");
+                    if (!sessId) {
+                        sessId = guid();
+                        setCookie("sessid", sessId, (30*60));
+                    }
+                    var uuId = getCookie("uuid");
+                    if (!uuId) {
+                        uuId = sessId;
+                        setCookie("uuid", uuId, (60*60*24*30*12*24));
+                    }
+                    var traffic_provider = getParamFromPMCookie("s");
+                    if(!traffic_provider) {
+                        traffic_provider = derive_traffic_provider();
+                        putParamIntoPMCookie("s", traffic_provider);
+                    }
+                    var traffic_type = getParamFromPMCookie("n");
+                    if(!traffic_type) {
+                        traffic_type = derive_traffic_type();
+                        putParamIntoPMCookie("n", traffic_type);
+                    }
+                    referring_domain = get_referring_domain();
+
+                    var tracSessParams = "sessid="+sessId+"&uuid="+uuId+"&s="+traffic_provider+"&n="+traffic_type+"&rd="+referring_domain;
+
+                    var query = get_query();
+                    if(query) {
+                        tracSessParams = tracSessParams + "&q=" + query;
+                    }
+                    var referring_url = get_referring_url();
+                    if(referring_url) {
+                        tracSessParams = tracSessParams + "&ru=" + encode(referring_url);
+                    }
+                    var user_agent = navigator.userAgent;
+                    if(user_agent) {
+                        tracSessParams = tracSessParams + "&ua=" + encode(user_agent);
+                    }
+                </script>
+                <link rel="stylesheet" type="text/css" href="/css/ap-TOI_Blended_Ads.css?b5a15d581c15acfdf559ae49457c364ce473ef1e" media="all" /><meta property="og:site_name" content="The Times Of India" /><script type="text/javascript">function downloadJSAtOnload(){var element, js;element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/sn.php?out=js&t=70%25+of+milk+in+Delhi%2C+country+is+adulterated&u=http%3A%2F%2Ftimesofindia.indiatimes.com%2Findia%2F70-of-milk-in-Delhi-country-is-adulterated%2Farticleshow%2F11429910.cms%3Fintenttarget%3Dno&l=AddThis%3B&i=mod-sm-badge-top-defer&p=TimesofIndia");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/sn.php?out=js&t=70%25+of+milk+in+Delhi%2C+country+is+adulterated&u=http%3A%2F%2Ftimesofindia.indiatimes.com%2Findia%2F70-of-milk-in-Delhi-country-is-adulterated%2Farticleshow%2F11429910.cms%3Fintenttarget%3Dno&l=Twitter_Large-Facebook_RecommendLarge-StumbleUpon_Large-&i=mod-sm-badge-defer&p=TimesofIndia");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/modal/modal.js.php?i=mod-article-image&g=false&c=30611460&j=10&p=TimesofIndia&b5a15d581c15acfdf559ae49457c364ce473ef1e");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/featured-image-offset.js.php?id=mod-article-image-lt&z=b5a15d581c15acfdf559ae49457c364ce473ef1e");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/featured-image-offset.js.php?id=mod-article-image-ct&z=b5a15d581c15acfdf559ae49457c364ce473ef1e");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/featured-image-offset.js.php?id=mod-article-image-rt&z=b5a15d581c15acfdf559ae49457c364ce473ef1e");document.body.appendChild(element);}if (window.addEventListener){window.addEventListener("load", downloadJSAtOnload, false);}else if (window.attachEvent){window.attachEvent("onload", downloadJSAtOnload);}else window.onload = downloadJSAtOnload;</script></head><body><!-- Layout starts --><div id="layout"><!-- Area starts: top --><div id="area-top" style=""><div id="mod-nav" style="" class="mod-timesofindianav"><!-- Module starts: nav (Nav) -->
+            <script type="text/javascript">
+            function resizeNav(iframe) {
+                // set the domain to same as nav to fix cross site scripting           
+                document.domain = 'indiatimes.com'; 
+            
+                // get height of their header (drawn different heights if sub sections)
+                var iframes = document.getElementById('mod-nav').getElementsByTagName('iframe');
+                if (iframes == null || iframes.length == 0) return;
+                var header = iframes[0].contentWindow.document.getElementById('header');
+                if (header == null) return;
+                var navHeight = header.offsetHeight;
+
+                // update the iframe height
+                if (iframe.style.setAttribute) iframe.style.setAttribute('height', navHeight);
+                else iframe.style.height = navHeight + 'px';
+            }
+            </script><iframe onload="resizeNav(this);" src=http://timesofindia.indiatimes.com/pmtoinavigation/11429910.cms scrolling=no frameborder=0 width=100% height=219px></iframe><!-- Module ends: nav--></div><div id="mod-breadcrumb" style="" class="mod-timesofindiaarticlepagebreadcrumb mod-articlepagebreadcrumb mod-breadcrumb"><!-- Module starts: breadcrumb (ArticlePageBreadcrumb) --><span class="bc-text">You are here: </span><span class="home-link"><a  href="http://www.timesofindia.indiatimes.com">Home</a></span><span class="bread-crumb-separator">></span><span class="archive-link"><a  href="/">Collections</a></span><span class="bread-crumb-separator">></span><span class="keyword"><a  href="/keyword/detergent"><strong>Detergent</strong></a></span><!-- Module ends: breadcrumb--></div></div><!-- Area ends: top--><!-- Area starts: center-w-left --><div id="area-center-w-left" style=""><!-- Area starts: article-side --><div id="area-article-side" style="float:right;"><div id="mod-sm-badge-top" style="" class="mod-timesofindiasocialmedia mod-socialmedia"><!-- Module starts: sm-badge-top (SocialMedia) --><div id="mod-sm-badge-top-defer"><script type="text/javascript">/* Javascript deferred */</script></div><div class="addthis_toolbox addthis_default_style" id="mod-sm-badge-top-defer_addthis" style="display:none;"><script type="text/javascript">var addthis_options = "digg, twitter, facebook, stumbleupon, delicious, friendfeed, buzz, slashdot, reddit, mixx, fark, linkedin, aim, google, myspace, newsvine, technorati, tumblr, typepad, wordpress, more";var addthis_exclude = "print";var addthis_pub     = "archivedigger";</script><a addthis:url="http://timesofindia.indiatimes.com/india/70-of-milk-in-Delhi-country-is-adulterated/articleshow/11429910.cms?intenttarget=no" class="addthis_button_email" title="Email"></a><a addthis:url="http://timesofindia.indiatimes.com/india/70-of-milk-in-Delhi-country-is-adulterated/articleshow/11429910.cms?intenttarget=no" class="addthis_button_print" title="Print"></a><a addthis:url="http://timesofindia.indiatimes.com/india/70-of-milk-in-Delhi-country-is-adulterated/articleshow/11429910.cms?intenttarget=no" class="addthis_button_reddit" title="Reddit"></a><a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', 'http://timesofindia.indiatimes.com/india/70-of-milk-in-Delhi-country-is-adulterated/articleshow/11429910.cms?intenttarget=no', '70%25+of+milk+in+Delhi%2C+country+is+adulterated');" onmouseout="addthis_close();" onclick="return addthis_sendto();" class="addthis_button_expanded" title="More Choices"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script></div><!-- Module ends: sm-badge-top--></div><div id="mod-sm-badge" style="" class="mod-timesofindiasocialmedia mod-socialmedia"><!-- Module starts: sm-badge (SocialMedia) --><div id="mod-sm-badge-defer"><script type="text/javascript">/* Javascript deferred */</script></div><div class="addthis_toolbox addthis_default_style" id="mod-sm-badge-defer_addthis" style="display:none;"><script type="text/javascript">var addthis_options = "digg, twitter, facebook, stumbleupon, delicious, friendfeed, buzz, slashdot, reddit, mixx, fark, linkedin, aim, google, myspace, newsvine, technorati, tumblr, typepad, wordpress, more";var addthis_exclude = "print";var addthis_pub     = "archivedigger";</script><a addthis:url="http://timesofindia.indiatimes.com/india/70-of-milk-in-Delhi-country-is-adulterated/articleshow/11429910.cms?intenttarget=no" class="addthis_button_email" title="Email"></a><a addthis:url="http://timesofindia.indiatimes.com/india/70-of-milk-in-Delhi-country-is-adulterated/articleshow/11429910.cms?intenttarget=no" class="addthis_button_print" title="Print"></a><a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', 'http://timesofindia.indiatimes.com/india/70-of-milk-in-Delhi-country-is-adulterated/articleshow/11429910.cms?intenttarget=no', '70%25+of+milk+in+Delhi%2C+country+is+adulterated');" onmouseout="addthis_close();" onclick="return addthis_sendto();" class="addthis_button_expanded" title="More Choices"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script></div><!-- Module ends: sm-badge--></div></div><!-- Area ends: article-side--><div id="mod-article-header" style="" class="mod-timesofindiaarticleheader mod-articleheader"><!-- Module starts: article-header (ArticleHeader) --><h1 class="multi-line-title-1">70% of milk in Delhi, country is adulterated</h1><!-- Module ends: article-header--></div><!-- Area starts: article-first-block --><div id="area-article-first-block" style=""><div id="mod-article-byline" style="" class="mod-timesofindiaarticlebyline mod-articlebyline"><!-- Module starts: article-byline (ArticleByline) --><span class="pubdate">Kounteya Sinha, TNN</span><span class="separator"> </span><span>Jan 10, 2012, 02.33AM IST</span><!-- Module ends: article-byline--></div><div id="mod-rel-ads" style="" class="mod-relatedtopics"><!-- Module starts: rel-ads (RelatedTopics) --><div id="mod-rel-ads" style="" class="mod-relatedtopics"><!-- Module starts: rel-ads (RelatedTopics) --><div class="header">Tags:</div><ul><li><a href="http://timesofindia.indiatimes.com/topic/The-Samples-(musician)">The samples</a>|</li><li><a href="http://timesofindia.indiatimes.com/topic/The-Rest-(musician)">the rest</a>|</li><li><a href="http://timesofindia.indiatimes.com/topic/skim-milk-powder">skim milk powder</a></li></ul><!-- Module ends: rel-ads--></div></ul><!-- Module ends: rel-ads--></div><div id="mod-article-image" style="float:right;" class="mod-timesofindiaarticlepageimage mod-articlepageimage mod-articleimage"><!-- Module starts: article-image (ArticlePageImage) --><div id="mod-article-image-box" style=" width:280px; height:200px;"><ul class="main-image" style=" width:280px; height:200px;"><li style=" width:280px; height:200px;"><a id="mod-article-image-link" class="thickbox" onclick="return false;" target="_blank" href="http://timesofindia.indiatimes.com/photo/11429998.cms" title=""><img src="http://timesofindia.indiatimes.com/photo/11429998.cms" title="" alt="" style=" width:280px; height:144.8px;" onerror="pm_imageFailed(this);"/></a></li></ul></div><script src="/modal/js/lazyload-min.js" type="text/javascript"></script><!-- Module ends: article-image--></div><div id="mod-a-body-first-para" style="margin-right: 280px;" class="mod-timesofindiaarticletext mod-articletext"><!-- Module starts: a-body-first-para (ArticleText) --><p><p>NEW DELHI: Beware, your daily glass of good health could actually be doing you harm. As much as 70% of milk samples picked up from the capital by a government agency failed to conform to standards.</p><p> Of the 71 samples randomly taken from Delhi for testing by the Food Safety Standards Authority of India (FSSAI), 50 were found to be contaminated with glucose and skim milk powder (SMP), which is usually added to milk in the lean season to enhance volumes.</p><!-- Module ends: a-body-first-para--></div></div><!-- Area ends: article-first-block--><div class="float" style="clear:both;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-ctr-lt-in-top" style="" class="mod-adcpc"><!-- Module starts: ctr-lt-in-top (AdCpc) --><script type="text/javascript"> var adSkipCounter = 0; </script>
+<script type="text/javascript"> //<![CDATA[
+  var loc = window.location.href + "";
+  var float = "";
+  google_hints = "sample size milk powder";google_ad_client="pub-3198794349084862";
+google_ad_output="js";
+google_ad_channel="9476698791,8541039911,5372863901,5858161323";
+google_ad_type="text";
+google_image_size="300x250";
+google_safe="high";
+google_feedback="on";
+google_max_num_ads="4";
+google_skip="" + adSkipCounter + "";
+google_adtest="off";
+google_page_url=document.URL;
+
+function google_ad_request_done(ads) {
+  if (ads.length == 0) { return; } // If no ads are returned then dont build the ad block
+  if (ads[0].bidtype == "CPC") { adSkipCounter += ads.length; } // Increment ad skip counter when cpc
+  google_ad_request_done_internal(ads, "", "", "true", "custom_medium_rectangle", "", "", "pgtp=article&kwInURL=true&pi=72&ci=30611460&cat=food+%26+drink&pe_id=30611460&tv=ap-TOI_Blended_Ads&toi_nav_type=full&rna=pub-3198794349084862&rn=g&rnrci=9476698791&rnrcn=g7-TOI-Property&rncci=8541039911&rnccn=g7-food+%26+drink&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=5858161323&rnlcn=5858161323&rnp=c&rt=cpc&paidClick=1&placement_id=ctr-lt-in-top", "", "", "", "", "", "ap-TOI_Blended_Ads", "The Times Of India");
+}
+//]]></script>
+<script type="text/javascript" src="/google_ad_request.js.php"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script><!-- Module ends: ctr-lt-in-top--></div><div id="mod-a-body-after-first-para" style="" class="mod-timesofindiaarticletextwithadcpc mod-timesofindiaarticletext mod-articletext"><!-- Module starts: a-body-after-first-para (ArticleTextWithAdCpc) --><p> Elsewhere in the 33 states and UTs study, milk was found adulterated with detergent, fat and even urea, besides the age-old dilution with water. Across the country, 68.4% of <a href="http://timesofindia.indiatimes.com/topic/The-Samples-(musician)">the samples</a> were found contaminated.</p><p> Only in Goa and Puducherry did 100% of the samples tested conform to required standards. At the other end were West Bengal, Bihar, Chhattisgarh, Jharkhand, Orissa and Mizoram, where not a single sample tested met the norms.</p><p> Other prominent states fared just a shade better. Around 89% of the samples tested from <a href="http://timesofindia.indiatimes.com/topic/Gujarat">Gujarat</a>, 83% from Jammu & Kashmir, 81% from Punjab, 76% from Rajasthan, 70% from Delhi and Haryana and 65% from Maharashtra failed the test. Around half of the samples from Madhya Pradesh (48%) also met a similar fate.</p><p> States with comparatively better results included Kerala where 28% of samples did not conform to the FSSAI standards, Karnataka (22%), Tamil Nadu (12%) and Andhra Pradesh (6.7%).</p><p> The samples were collected randomly and analysed from 33 states totaling a sample size of 1,791. Just 31.5% of the samples tested (565) conformed to the FSSAI standards while <a href="http://timesofindia.indiatimes.com/topic/The-Rest-(musician)">the rest</a> 1,226 (68.4%) failed the test.</p><p> A study conducted by Food Safety Standards Authority of India (FSSAI) across 33 states has found that milk was adulterated with detergent, fat and even urea, besides the age-old practice of diluting it with water. Across the country, 68.4% of the samples were found contaminated.</p><p> These were sent to government laboratories like Department of Food and Drug Testing of Puducherry, Central Food Laboratory in Pune, Food Reasearch and Standardization Laboratory in Ghaziabad, State Public Health Laboratory in Guwahati and Central Food Laboratory, Kolkata, for testing against presence of adulterants like fat, neutralizers, hydrogen peroxide, sugar, starch, glucose, urea, detergent, formalin and vegetable fat.</p><p> Detergent was found in 103 samples (8.4%). "This was because milk tanks were not properly washed. Detergents in milk can cause health problems," FSSAI official told TOI. The non-conforming samples in rural areas numbered 381 (31%) out of which 64 (16.7%) were packet milk and 317 (83.2%) were loose samples.</p><p> In urban areas, the number of non-confirming samples were 845 (68.9%) out of which 282 (33.3%) were packed and 563 (66.6%) were loose.</p><p> The most common adulteration was that of fat and solid not food (SNF), found in 574 (46.8%) of the non-conforming samples. This, scientists say, is because of dilution of milk with water. The second highest parameter of non-conformity was skim milk powder in 548 samples (44.69%) which includes presence of glucose in 477 samples. Glucose could have been added to milk probably to enhance SNF.</p><!-- Module ends: a-body-after-first-para--></div><div id="mod-a-body-after-first-para-ad-cpc" style="" class="mod-adcpc"><!-- Module starts: a-body-after-first-para-ad-cpc (ad-cpc) -->
+<script type="text/javascript"> //<![CDATA[
+  var loc = window.location.href + "";
+  var float = "";
+  google_hints = "sample size milk powder";google_ad_client="pub-3198794349084862";
+google_ad_output="js";
+google_ad_channel="9476698791,8541039911,2937121613,5858161323";
+google_ad_type="text";
+google_image_size="600x125";
+google_safe="high";
+google_feedback="on";
+google_max_num_ads="2";
+google_skip="" + adSkipCounter + "";
+google_adtest="off";
+google_page_url=document.URL;
+
+function google_ad_request_done(ads) {
+  if (ads.length == 0) { return; } // If no ads are returned then dont build the ad block
+  if (ads[0].bidtype == "CPC") { adSkipCounter += ads.length; } // Increment ad skip counter when cpc
+  google_ad_request_done_internal(ads, "", "", "true", "wide_rectangle", "", "", "pgtp=article&kwInURL=true&pi=72&ci=30611460&cat=food+%26+drink&pe_id=30611460&tv=ap-TOI_Blended_Ads&toi_nav_type=full&rna=pub-3198794349084862&rn=g&rnrci=9476698791&rnrcn=g7-TOI-Property&rncci=8541039911&rnccn=g7-food+%26+drink&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=5858161323&rnlcn=5858161323&rnp=c&rt=cpc&paidClick=1&placement_id=a-body-after-first-para-ad-cpc", "", "", "", "", "", "ap-TOI_Blended_Ads", "The Times Of India");
+}
+//]]></script>
+<script type="text/javascript" src="/google_ad_request.js.php"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script><!-- Module ends: a-body-after-first-para-ad-cpc--></div><div class="float" style="clear:both;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-a-body-after-second-para" style="" class="mod-timesofindiaarticletextwithadcpc mod-timesofindiaarticletext mod-articletext"><!-- Module starts: a-body-after-second-para (ArticleTextWithAdCpc) --><p> The report asked state enforcement authorities to check whether the new FSSAI rules are being complied with. An earlier first-of-its-kind study of milk boiling habits that involved 2,400 women across eight major cities had found that Chandigarh leads the pack in boiling milk, doing it more than three times a day. While 84% women in Kolkata boiled milk for more than five minutes, about 46% of women in Pune preferred to boil milk in high temperatures. The study, by the Indian Medical Academy, said, "About 49% boil milk more than thrice before consumption. Around 56% boil it for more than 5 minutes, and 73% don't stir while boiling," said Dr Pawan Gupta, IMA.</p><p> <strong>Times View</strong></p><p> This only confirms that food adulteration is common in India. Even milk, consumed primarily by children, isn't spared. What's particularly worrying is the kind of substances used to adulterate, including toxic chemicals. This shows the trade off between the risk of getting caught and the 'reward' of huge profits is skewed heavily in favour of the latter. The government must focus on raising the risks to the adulterator. One way of doing this is by hiking the penalty, including making it analogous to attempt to murder in extreme cases. It's equally important to regularly check foodstuff for adulteration and ensure speedy trials.</p><!-- Module ends: a-body-after-second-para--></div><div id="mod-a-body-after-second-para-ad-cpc" style="" class="mod-adcpc"><!-- Module starts: a-body-after-second-para-ad-cpc (ad-cpc) -->
+<script type="text/javascript"> //<![CDATA[
+  var loc = window.location.href + "";
+  var float = "";
+  google_hints = "sample size milk powder";google_ad_client="pub-3198794349084862";
+google_ad_output="js";
+google_ad_channel="9476698791,8541039911,1298301604,5858161323";
+google_ad_type="text";
+google_image_size="600x125";
+google_safe="high";
+google_feedback="on";
+google_max_num_ads="2";
+google_skip="" + adSkipCounter + "";
+google_adtest="off";
+google_page_url=document.URL;
+
+function google_ad_request_done(ads) {
+  if (ads.length == 0) { return; } // If no ads are returned then dont build the ad block
+  if (ads[0].bidtype == "CPC") { adSkipCounter += ads.length; } // Increment ad skip counter when cpc
+  google_ad_request_done_internal(ads, "", "", "true", "wide_rectangle", "", "", "pgtp=article&kwInURL=true&pi=72&ci=30611460&cat=food+%26+drink&pe_id=30611460&tv=ap-TOI_Blended_Ads&toi_nav_type=full&rna=pub-3198794349084862&rn=g&rnrci=9476698791&rnrcn=g7-TOI-Property&rncci=8541039911&rnccn=g7-food+%26+drink&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=5858161323&rnlcn=5858161323&rnp=c&rt=cpc&paidClick=1&placement_id=a-body-after-second-para-ad-cpc", "", "", "", "", "", "ap-TOI_Blended_Ads", "The Times Of India");
+}
+//]]></script>
+<script type="text/javascript" src="/google_ad_request.js.php"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script><!-- Module ends: a-body-after-second-para-ad-cpc--></div><div id="mod-featured-title" style="" class="mod-text"><!-- Module starts: featured-title (Text) -->FEATURED ARTICLES<!-- Module ends: featured-title--></div><div id="mod-article-image-lt" style="float:left;" class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"><!-- Module starts: article-image-lt (FeaturedImage) --><div class="photowrapper"><a  href="/2012-01-05/health/30481232_1_vitamin-d-levels-obese-children-blood-pressure"><img src="http://timesofindia.indiatimes.com/photo/11007604.cms" onerror="pm_imageFailedFeatured(this);" ></a></div><div class="text-area"><div class="title"><a  href="/2012-01-05/health/30481232_1_vitamin-d-levels-obese-children-blood-pressure"><h2>Low Vitamin D ups diabetes risk in kids</h2></a></div></div><!-- Module ends: article-image-lt--></div><div id="mod-article-image-ct" style="float:left;" class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"><!-- Module starts: article-image-ct (FeaturedImage) --><div class="photowrapper"><a  href="/2011-12-12/beauty/30257897_1_sunscreen-skin-pigmentation"><img src="http://timesofindia.indiatimes.com/photo/10267992.cms" onerror="pm_imageFailedFeatured(this);" ></a></div><div class="text-area"><div class="title"><a  href="/2011-12-12/beauty/30257897_1_sunscreen-skin-pigmentation"><h2>17 tips for healthy hair and skin</h2></a></div></div><!-- Module ends: article-image-ct--></div><div id="mod-article-image-rt" style="float:left;" class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"><!-- Module starts: article-image-rt (FeaturedImage) --><div class="photowrapper"><a  href="/2011-12-02/tv/30467275_1_veena-malik-bigg-boss-pakistani-actress"><img src="http://timesofindia.indiatimes.com/photo/10957341.cms" onerror="pm_imageFailedFeatured(this);" ></a></div><div class="text-area"><div class="title"><a  href="/2011-12-02/tv/30467275_1_veena-malik-bigg-boss-pakistani-actress"><h2>Veena Malik bares it all for FHM</h2></a></div></div><!-- Module ends: article-image-rt--></div><div class="float" style="clear:both;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-featured-more" style="" class="mod-text"><!-- Module starts: featured-more (Text) -->More:<!-- Module ends: featured-more--></div><!-- Area starts: two-col-1 --><div id="area-two-col-1" style="float:left;"><div id="mod-hp-article-list-1" style="" class="mod-timesofindiaarticles mod-articles"><!-- Module starts: hp-article-list-1 (Articles) --><div class="article"><div class="title"><h2><a title="Move over 'Sheila', 'Chikni chameli' is here" href="/2011-12-25/news-interviews/30556630_1_katrina-kaif-song-chikni-chameli-agneepath">Move over 'Sheila', 'Chikni chameli' is here</a></h2></div></div><div class="article"><div class="title"><h2><a title="Porn star doesn't mean prostitute:Sunny Leone" href="/2011-11-20/tv/30419723_1_entertainment-industry-star-parents">Porn star doesn't mean prostitute:Sunny Leone</a></h2></div></div><div class="article"><div class="title"><h2><a title="PSEB Class 10th result 2011: Only 1 student on merit list from govt schools" href="/2011-06-15/education/29661227_1_merit-list-pass-percentage-students">PSEB Class 10th result 2011: Only 1 student on merit list from govt schools</a></h2></div></div><!-- Module ends: hp-article-list-1--></div></div><!-- Area ends: two-col-1--><!-- Area starts: two-col-2 --><div id="area-two-col-2" style="float:right;"><div id="mod-hp-article-list-2" style="" class="mod-timesofindiaarticles mod-articles"><!-- Module starts: hp-article-list-2 (Articles) --><div class="article"><div class="title"><h2><a title="Aakash tablet available to Mumbai students for Rs 1,000" href="/2011-12-21/hardware/30541715_1_tablet-students-mumbai-university">Aakash tablet available to Mumbai students for Rs 1,000</a></h2></div></div><div class="article"><div class="title"><h2><a title="Blackberry PlayBook tablets get 50 per cent cheaper in India" href="/2011-12-28/hardware/30564454_1_blackberry-playbook-tablets-ipad">Blackberry PlayBook tablets get 50 per cent cheaper in India</a></h2></div></div><div class="article"><div class="title"><h2><a title="iPhone 3GS price cut to Rs 19,990" href="/2011-06-24/gadgets-special/29698629_1_3gs-iphone-android">iPhone 3GS price cut to Rs 19,990</a></h2></div></div><!-- Module ends: hp-article-list-2--></div></div><!-- Area ends: two-col-2--><div class="float" style="clear:both;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-readers-comment" style="" class="mod-readerscomment"><!-- Module starts: readers-comment (ReadersComment) --><script type="text/javascript">
+            function resizeComment(iframe) {
+                // set the domain to same as nav to fix cross site scripting
+                document.domain = 'indiatimes.com';
+                // get height of their header (drawn different heights if sub sections)
+                var iframes = document.getElementById('mod-readers-comment').getElementsByTagName('iframe');
+                if (iframes == null || iframes.length == 0) return;
+                var header = iframes[0].contentWindow.document.getElementById('cmtMainBox');
+                if (header == null) return;
+                var navHeight = header.offsetHeight;
+                // update the iframe height
+                if (iframe.style.setAttribute) iframe.style.setAttribute('height', navHeight);
+                else iframe.style.height = navHeight + 'px';
+            }
+            </script><iframe onload="resizeComment(this);" src="http://timesofindia.indiatimes.com/pmcomment/11429910.cms" scrolling="no" frameborder="0"  width="630px;"></iframe><!-- Module ends: readers-comment--></div></div><!-- Area ends: center-w-left--><!-- Area starts: left --><div id="area-left" style=""><div id="mod-left-sky" style="" class="mod-adcpc"><!-- Module starts: left-sky (AdCpc) -->
+<script type="text/javascript"> //<![CDATA[
+  var loc = window.location.href + "";
+  var float = "";
+  google_hints = "sample size milk powder";google_ad_client="pub-3198794349084862";
+google_ad_output="js";
+google_ad_channel="9476698791,8541039911,3471429470,5858161323";
+google_ad_type="text,image";
+google_image_size="300x250";
+google_safe="high";
+google_feedback="on";
+google_max_num_ads="4";
+google_skip="" + adSkipCounter + "";
+google_adtest="off";
+google_page_url=document.URL;
+
+function google_ad_request_done(ads) {
+  if (ads.length == 0) { return; } // If no ads are returned then dont build the ad block
+  if (ads[0].bidtype == "CPC") { adSkipCounter += ads.length; } // Increment ad skip counter when cpc
+  google_ad_request_done_internal(ads, "", "", "true", "medium_rectangle", "", "", "pgtp=article&kwInURL=true&pi=72&ci=30611460&cat=food+%26+drink&pe_id=30611460&tv=ap-TOI_Blended_Ads&toi_nav_type=full&rna=pub-3198794349084862&rn=g&rnrci=9476698791&rnrcn=g7-TOI-Property&rncci=8541039911&rnccn=g7-food+%26+drink&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=5858161323&rnlcn=5858161323&rnp=c&rt=cpc&paidClick=1&placement_id=left-sky", "", "", "", "", "", "ap-TOI_Blended_Ads", "The Times Of India");
+}
+//]]></script>
+<script type="text/javascript" src="/google_ad_request.js.php"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script><!-- Module ends: left-sky--></div><div id="mod-ctr-lt" style="" class="mod-adstil"><!-- Module starts: ctr-lt (AdStil) -->	<script type="text/javascript">
+var RN = new String (Math.random());
+var RNS = RN.substring (2,11);
+document.write('<iframe src=\"http://adstil.indiatimes.com/RealMedia/ads/adstream_sx.ads/www.timesofindia.com/TOI2009_PerfectMarket/index.html/1'+RNS+'@Right1?\" WIDTH=300 HEIGHT=250 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor=\"#000000\"> </iframe>')</script><!-- Module ends: ctr-lt--></div><div id="mod-related-articles" style="" class="mod-relatedarticlessimplelist mod-relatedarticles"><!-- Module starts: related-articles (RelatedArticlesSimpleList) --><div class="header">RELATED ARTICLES</div><ul><li><a  title="Milk sold in AP safe, unadulterated: Survey" href="/2012-01-04/hyderabad/30588567_1_milk-adulteration-milk-powder-samples"><span class="title">Milk sold in AP safe, unadulterated: Survey</span></a><br /><span class="date">January 4, 2012</span></li><div class="delimiter"></div><li><a  title="KNN team collects khoya samples" href="/2010-02-21/kanpur/28133522_1_khoya-pankaj-srivastava-knn"><span class="title">KNN team collects khoya samples</span></a><br /><span class="date">February 21, 2010</span></li><div class="delimiter"></div><li><a  title="Over 130 litres of adulterated milk seized; 1 held" href="/2010-08-30/allahabad/28320327_1_synthetic-milk-absence-of-proper-facilities-team-of-health-officials"><span class="title">Over 130 litres of adulterated milk seized; 1 held</span></a><br /><span class="date">August 30, 2010</span></li></ul><!-- Module ends: related-articles--></div><div id="mod-rel-kw" style="" class="mod-relatedkeywordssimplelist mod-relatedkeywords"><!-- Module starts: rel-kw (RelatedKeywordsSimpleList) --><div class="header">IN-DEPTH COVERAGE</div><ul><li><a  href="/keyword/detergent">Detergent</a></li></ul><!-- Module ends: rel-kw--></div></div><!-- Area ends: left--><!-- Area starts: bottom --><div id="area-bottom" style=""><div id="mod-ln-bt" style="" class="mod-line"><!-- Module starts: ln-bt (Line) --><div style="border-top:3px solid #BE0000; height:1px; width:100%;"></div></center><!-- Module ends: ln-bt--></div><!-- Area starts: bottom-bt --><div class="float" style="clear:both;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="area-bottom-bt" style=""><div id="mod-logo-footer" style="float:left;" class="mod-text"><!-- Module starts: logo-footer (Text) --><a  href="http://timesofindia.indiatimes.com" target="_new" >THE TIMES OF INDIA</a><!-- Module ends: logo-footer--></div><div id="mod-copyright" style="float:left;" class="mod-text"><!-- Module starts: copyright (Text) -->© 2012 Bennett, Coleman & Co. Ltd. All rights reserved<!-- Module ends: copyright--></div><div id="mod-kw-index" style="float:right;" class="mod-text"><!-- Module starts: kw-index (Text) --><a  href="/keywords" target="_new" >Index by Keyword</a><!-- Module ends: kw-index--></div><div id="mod-pipe-bt1" style="float:right;" class="mod-text"><!-- Module starts: pipe-bt1 (Text) -->|<!-- Module ends: pipe-bt1--></div><div id="mod-date-index" style="float:right;" class="mod-indexbydate mod-text"><!-- Module starts: date-index (IndexByDate) --><a  href="/2012/jan/10" target="_new" >Index by Date</a><!-- Module ends: date-index--></div></div><!-- Area ends: bottom-bt--><!-- Area starts: bottom-bt --><div class="float" style="clear:both;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="area-bottom-bt" style=""><div id="mod-footer-link-text" style="float:left;" class="mod-text"><!-- Module starts: footer-link-text (Text) --><a  href="http://www.timesofindia.com" target="_new" >www.timesofindia.com</a><!-- Module ends: footer-link-text--></div><div id="mod-feedback" style="float:right;" class="mod-text"><!-- Module starts: feedback (Text) --><a  href="http://timesofindia.indiatimes.com/feedback.cms" target="_new" >Feedback</a><!-- Module ends: feedback--></div><div id="mod-pipe-bt2" style="float:right;" class="mod-text"><!-- Module starts: pipe-bt2 (Text) -->|<!-- Module ends: pipe-bt2--></div><div id="mod-privacy" style="float:right;" class="mod-text"><!-- Module starts: privacy (Text) --><a  href="http://www.indiatimes.com/policyterms/1554651.cms" target="_new"  rel="nofollow" >Privacy Policy</a><!-- Module ends: privacy--></div><div id="mod-pipe-bt3" style="float:right;" class="mod-text"><!-- Module starts: pipe-bt3 (Text) -->|<!-- Module ends: pipe-bt3--></div><div id="mod-tos" style="float:right;" class="mod-text"><!-- Module starts: tos (Text) --><a  href="http://www.indiatimes.com/policyterms/3441503.cms" target="_new"  rel="nofollow" >Terms of Use</a><!-- Module ends: tos--></div><div id="mod-pipe-bt4" style="float:right;" class="mod-text"><!-- Module starts: pipe-bt4 (Text) -->|<!-- Module ends: pipe-bt4--></div><div id="mod-advertise-withus" style="float:right;" class="mod-text"><!-- Module starts: advertise-withus (Text) --><a  href="http://advertise.indiatimes.com" target="_new" >Advertise with us</a><!-- Module ends: advertise-withus--></div></div><!-- Area ends: bottom-bt-->
+<script type='text/javascript'>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21462242-1']);
+  _gaq.push(['_setVar', 'Template-ap-TOI_Blended_Ads']);
+  _gaq.push(['_setCustomVar', 1, 'Template', 'Template-ap-TOI_Blended_Ads', 3]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-198011-4']);
+ _gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- Part 2 add it just before closing body tag -->
+
+<script language="javascript" src="http://timestrends.indiatimes.com/timestrend_v13.js"></script>
+<noscript><img width="1" height="1" src="http://timeslog.indiatimes.com/timeslog.dll/pgcnt?CHUR=articles.timesofindia.indiatimes.com&nojs=1"></noscript>
+
+<!-- End Code for timesofindia.indiatimes.com -->
+
+<script> 
+		    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+		
+			</script><script> 
+		  COMSCORE.beacon({
+		    c1:2,
+		    c2:6036484,
+		    c3:"",
+		    c4:"",
+		    c5:"",
+		    c6:"",
+		    c15:"" });
+		
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&c3=&c4=&c5=&c6=&c15=&cj=1"></noscript>
+
+<script type="text/javascript">
+var _sf_async_config={uid:10538,domain:"articles.timesofindia.indiatimes.com"};
+		(function(){
+		  function loadChartbeat() {	
+	          window._sf_endpt=(new Date()).getTime();
+		    var e = document.createElement('script');
+		    e.setAttribute('language', 'javascript');	
+		    e.setAttribute('type', 'text/javascript');
+		    e.setAttribute('src', (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") + "static.chartbeat.com/js/chartbeat.js");				    document.body.appendChild(e);	
+				  }			
+	  var oldonload = window.onload;		
+	  window.onload = (typeof window.onload != 'function') ?    loadChartbeat : function() {
+		 oldonload(); 
+		loadChartbeat(); };			
+		})();				
+ </script>
+            
+<!-- START Nielsen Online SiteCensus V6.0 --> 
+<!-- COPYRIGHT 2010 Nielsen Online --> 
+<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js"> 
+</script> 
+<script type="text/javascript"> 
+ var pvar = { cid: "in-timesinternet", content: "0", server: "secure-uk" };
+ var trac = nol_t(pvar);
+ trac.record().post();
+</script> 
+<noscript> 
+ <div> 
+ <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=in-timesinternet&amp;cg=0&amp;cc=1&amp;ts=noscript"
+ width="1" height="1" alt="" /> 
+ </div> 
+</noscript> 
+<!-- END Nielsen Online SiteCensus V6.0 --> 
+
+</div><!-- Area ends: bottom--></div><!-- Layout ends --><script type="text/javascript">
+                      //<![CDATA[
+                      document.write("<iframe onload=\"params='"+window.tracSessParams+"&pgtp=article&kwInURL=true&pi=72&ci=30611460&cat=food+%26+drink&pe_id=30611460&tv=ap-TOI_Blended_Ads&toi_nav_type=full&rna=pub-3198794349084862&rn=g&rnrci=9476698791&rnrcn=g7-TOI-Property&rncci=8541039911&rnccn=g7-food+%26+drink&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=5858161323&rnlcn=5858161323&rnp=c&rt=cpc&pageLoad=1';tracker();params='';\" frameborder=\"0\" width=\"0\" height=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"position:absolute;display:none;overflow-x:hidden;overflow-y:scroll;\"></iframe>");
+                      //]]>
+                    </script></body></html>

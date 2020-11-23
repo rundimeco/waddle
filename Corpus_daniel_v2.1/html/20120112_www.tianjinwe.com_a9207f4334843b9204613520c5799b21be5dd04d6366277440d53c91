@@ -1,0 +1,681 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content='深圳回应史上最牛工资单:"人均年薪30万"没违规'>
+<meta name="keywords" content='住宅租赁;自有物业;制度缺陷;最牛工资;年薪'>
+<title>天津网-深圳回应史上最牛工资单:"人均年薪30万"没违规</title>
+<base target="_blank"/>
+<link href="http://www.tianjinwe.com/images/20110422_public.css" rel="stylesheet" type="text/css" IGNOREAPD="1">
+<link href="http://www.tianjinwe.com/images/20110422_header.css" rel="stylesheet" type="text/css" IGNOREAPD="1">
+<link href="http://www.tianjinwe.com/images/20110422_footer.css" rel="stylesheet" type="text/css" IGNOREAPD="1">
+<link href="http://www.tianjinwe.com/images/publicdoc_20110526.css" rel="stylesheet" type="text/css" IGNOREAPD="1">
+<script type="text/javascript">
+<!--大中小代码-->
+function fontZoom(size)
+{ 
+document.getElementById('fontzoom').style.fontSize=size+'px'
+}
+<!--大中小代码-->
+</script>
+<script type="text/javascript" src="http://www.tianjinwe.com/images/tjw_share_jquery.js" IGNOREAPD="1"></script>
+<script type="text/javascript" language="javascript">
+function CreateShare() {
+	function makeurl(url) {
+		url = url.replace(/{url}/ig, encodeURIComponent("http://www.tianjinwe.com/tianjin/tbbd/201201/t20120112_4976286.html"));
+		url = url.replace(/{title}/ig, encodeURIComponent("深圳回应史上最牛工资单:"人均年薪30万"没违规"));
+		url = url.replace(/{site}/ig, encodeURI("http://www.tianjinwe.com"));
+		url = url.replace(/{pic}/ig, '');
+		url = url.replace(/{cont}/ig, encodeURIComponent("深圳回应史上最牛工资单:"人均年薪30万"没违规"));
+		url = url.replace(/{content}/ig, encodeURIComponent("深圳回应史上最牛工资单:"人均年薪30万"没违规"));
+		return url;
+	}
+	var ct = $('.share').append('<ul class=\"t10\"></ul>');
+	ct = ct.find('ul');
+	var item = [
+		[0, 0, 682, 550, '腾讯QQ微博', 'http://v.t.qq.com/share/share.php?title={title}&url={url}&appkey=91669eaf0787447ebb7f10936a2d75f3&site={site}&pic={pic}'],
+		[0, 1, 597, 500, '新浪微博', 'http://v.t.sina.com.cn/share/share.php?appkey=65464560&url={url}&title={title}'],
+		[1, 0, 700, 500, '开心网', 'http://www.kaixin001.com/repaste/bshare.php?rtitle={title}&rurl={url}&rcontent={cont}'],
+		[1, 1, 615, 440, 'QQ空间', 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={url}&title={title}&pic={pic}'],
+		[1, 2, 945, 440, 'QQ校友', 'http://pengyou.qq.com/index.php?mod=usershare&act=onekey&to=xiaoyou&url={url}&title={title}'],
+		[1, 3, 1020, 620, '百度Hi', 'http://apps.hi.baidu.com/share/?url={url}&title={title}&content={content}'],
+		[1, 4, 732, 620, '网易微博', 'http://t.163.com/article/user/checkLogin.do?source={site}&info={cont}'],
+		[1, 5, 700, 500, '人人网', 'http://share.renren.com/share/buttonshare.do?link={url}&title={title}'],
+		[1, 6, 560, 298, '猫扑推客', 'http://tk.mop.com/api/post.htm?url={url}&title={title}&desc={content}'],
+		[1, 7, 995, 525, '飞信', 'http://space.feixin.10086.cn/api/share?source={site}&title={content}&url={url}'],
+		[1, 8, 660, 470, '搜狐微博', 'http://t.sohu.com/third/post.jsp?&url={url}&title={title}&content=utf-8&pic={pic}'],
+		[1, 9, 700, 500, '淘江湖', 'http://share.jianghu.taobao.com/share/addShare.htm?url={url}&title={title}&content={content}']
+	];
+	var html = '';
+	$.each(item, function(i, n){
+		var btn = $('<li></li>').attr('title', '分享到“' + n[4] + "”").click(function(){
+			var url = makeurl(n[5]);
+			window.open(url, '', 'width=' + n[2] + ', height=' + n[3] + ', top=' + (window.screen.availHeight - 40 - n[3]) / 2 + ', left=' + (window.screen.availWidth - 10 - n[2]) / 2 + ', toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
+		});
+		if(n[0] == 0) btn.addClass('w').attr('style', 'background-position:' + (-n[1] * 16) + 'px 0px');
+		else if(n[0] == 1) btn.attr('style', 'background-position:' + (-n[1] * 16) + 'px -16px');
+		ct.append(btn);
+	});
+}
+
+</script>
+</head>
+
+<body>
+<!--<div id="topadv">
+	<div id="topadv_left"><img src="../../../images/TXadv01.jpg" /></div>
+	<div id="topadv_right"><img src="../../../images/TXadv02.jpg" /></div>
+</div>-->
+<div id="mainBox">
+	<div id="toptool">
+		<div id="public-logo"><img src="../../../images/public-logo.jpg" alt="天津网" /></div>
+		<div class="scrollnew">
+		  <div style="float:left; color:#8e2f33;"><a href="../../../hotnews/zxxx/" class="red_title">滚动新闻</a>：</div><div style="float:left; width:360px; overflow:hidden;"><div class="tx_gdxw" style=" width:334px!important;width:344px; overflow:hidden; height:20px;" >
+		<SPAN id="tick" >&nbsp;</SPAN>
+		<SPAN id="cursor" style="width:344px; overflow:hidden"></SPAN>
+		<script language=javascript>
+
+		var arrNewsItems = new Array();
+
+	
+			arrNewsItems.push(new Array("韩国一反应堆故障停机", '../../../hotnews/zxxx/201201/t20120112_4976032.html'));
+	
+			arrNewsItems.push(new Array("小牛顶翻凯尔特人 易建联未能亮相", '../../../hotnews/zxxx/201201/t20120112_4975952.html'));
+	
+			arrNewsItems.push(new Array("北京市２０１２年将继续着力保障和改善民生", '../../../hotnews/zxxx/201201/t20120112_4975950.html'));
+	
+			arrNewsItems.push(new Array("国家公务员局：全面推进公务员职业道德建设", '../../../hotnews/zxxx/201201/t20120112_4975945.html'));
+	
+			arrNewsItems.push(new Array("我国竞争性选拔公务员力度不断加大", '../../../hotnews/zxxx/201201/t20120112_4975944.html'));
+	
+			arrNewsItems.push(new Array("调查显示：哈尔滨市八成以上居民拥有自有住房", '../../../hotnews/zxxx/201201/t20120112_4975943.html'));
+	
+			arrNewsItems.push(new Array("海南警方悬赏１０万元搜捕南京抢劫案嫌疑人", '../../../hotnews/zxxx/201201/t20120112_4973976.html'));
+	
+			arrNewsItems.push(new Array("也门下令解除首都武装", '../../../hotnews/zxxx/201201/t20120112_4973784.html'));
+	
+			arrNewsItems.push(new Array("韩国一反应堆故障停机", '../../../hotnews/zxxx/201201/t20120112_4973550.html'));
+	
+			arrNewsItems.push(new Array("塞浦路斯放行俄“军火船”", '../../../hotnews/zxxx/201201/t20120112_4973414.html'));
+
+
+		var intTickSpeed = 2000;var intTickPos = 0;var tickLocked = false;var fadeTimerID;var autoTimerID = 0;
+		var intTypeSpeed = 16;var intCurrentPos = 0;var currentText = '';var currentLink = '';var strText = '';var isFirstPass = true;
+		</script>
+		
+</div>
+
+<script language=javascript>
+
+function initButtons() {
+	getLinkElems();
+	playFirstTicker();
+}
+
+function prevArticle() {
+  if (tickLocked == false) {
+	  if (intTickPos == 0) {
+	    intTickPos = arrNewsItems.length-1;
+	  } else {
+	    intTickPos--;
+		}
+		setArticle(intTickPos);
+	}
+}
+function nextArticle() {
+	if (tickLocked == false) {
+	  if (intTickPos == arrNewsItems.length-1) {
+	    intTickPos = 0;
+	  } else {
+	    intTickPos++;
+		}
+		setArticle(intTickPos);
+	}
+}
+function typeText() {
+	if(intCurrentPos < currentText.length) {
+		strText += currentText.charAt(intCurrentPos);
+		setSpan(strText,currentLink);
+		intCurrentPos++;		
+	} else if (intCurrentPos == currentText.length) {
+		strText += currentText.charAt(intCurrentPos);
+		setSpan(strText,currentLink);
+		clearInterval(typeInterval);
+		hideCursor();
+	} else if (intCurrentPos > currentText.length){
+		setSpan(strText,currentLink);
+		clearInterval(typeInterval);
+		hideCursor();
+	}
+}
+function setSpan(strText, strLink) {
+		var tickElem = document.getElementById("tick");
+		var tickFirstChild =  tickElem.firstChild;
+		var tickLinkElem = document.createElement("a");
+		tickLinkElem.setAttribute('href', strLink);
+    	tickLinkElem.setAttribute('target', '_blank');
+		tickLinkElem.setAttribute('id', 'tickContentLink');
+		tickLinkElem.setAttribute('style', 'color:#004372');
+		tickText = document.createTextNode(strText);
+		tickLinkElem.appendChild(tickText);
+		tickElem.replaceChild(tickLinkElem,tickFirstChild);
+		getLinkElems();
+}
+function getLinkElems() {
+	var tickerElem = document.getElementById("tick"); 
+	var tickerAElem = tickerElem.getElementsByTagName("a"); 
+	for (var i=0; i < tickerAElem.length; i++) {
+    tickerAElem[i].onmouseover = stopTicker;
+   	tickerAElem[i].onmouseout = resumeTicker;
+  }
+}
+
+function setArticle(intPos) {
+	if(arrNewsItems[intPos]!=null) {
+		tickLocked = true;
+		intCurrentPos = 0;
+		strText = '';
+		setSpan('', '#');
+		showCursor();
+		currentText = arrNewsItems[intPos][0];
+		currentLink = arrNewsItems[intPos][1];
+		typeInterval = setInterval( "typeText()", intTypeSpeed);
+		tickLocked = false;
+  }
+}
+function playTicker() {
+  isInFirstTimeout = false;
+	if (autoTimerID != 0) {
+		clearInterval(typeInterval);
+		nextArticle();
+  }
+  autoTimerID = self.setTimeout("playTicker()", intTickSpeed);
+}
+function playFirstTicker() {
+	if(isFirstPass == true) {
+		hideCursor();
+		setSpan(arrNewsItems[0][0],arrNewsItems[0][1]);
+		isFirstPass = false;
+		typeInterval = setInterval('',0);
+		isInFirstTimeout = true;
+		autoTimerID = self.setTimeout("playFirstTicker()", intTickSpeed);
+	}
+	else if(isFirstPass == false) {
+		clearTimeout(autoTimerID);
+		isInFirstTimeout = false;
+		setArticle(intTickPos);
+		playTicker();
+	}
+}
+function stopTicker() {
+	clearTimeout(autoTimerID);
+}
+function resumeTicker() {
+	clearTimeout(autoTimerID);
+	autoTimerID = self.setTimeout("playTicker()", intTickSpeed);
+}
+function delayTicker() {
+    clearTimeout(autoTimerID);
+	clearInterval(typeInterval);
+  autoTimerID = self.setTimeout("playTicker()", intTickSpeed * 2);
+}
+function hideCursor() {
+	document.getElementById("cursor").className = "hidden";
+}
+
+function showCursor() {
+	document.getElementById("cursor").className = "";
+}
+initButtons();
+
+</script></div></div>
+		<div class="headeradv">
+			<script src="/images/qssx/page_1_1.js" type="text/javascript" IGNOREAPD="1"></script>
+		</div>
+		<div class="headeradv">
+			<script src="/images/qssx/page_1_2.js" type="text/javascript" IGNOREAPD="1"></script>
+		</div>
+	</div>
+	<div class="nav">
+	<div class="navleft"></div>
+	<div class="navmain">
+		<ul>
+			<li><a href="http://www.tianjinwe.com">首页</a></li>
+			<li><a href="http://www.tianjinwe.com/tianjin/">天津</a></li>
+			<li><a href="http://www.tianjinwe.com/tianjin/tjyw/">民生</a></li>
+			<li><a href="http://www.tianjinwe.com/tianjin/tjsh/">社会</a></li>
+			<li class="Dbg"><a href="http://www.tianjinwe.com/tianjin/tjbh/">滨海</a></li>
+			<li><a href="http://www.tianjinwe.com/hotnews/">天下</a></li>
+			<li><a href="http://www.tianjinwe.com/hotnews/gn/">国内</a></li>
+			<li><a href="http://www.tianjinwe.com/hotnews/gj/">国际</a></li>
+			<li class="Dbg"><a href="http://www.tianjinwe.com/rollnews/">滚动</a></li>
+			<li><a href="http://www.tianjinwe.com/business/">财经</a></li>
+			<li><a href="http://www.tianjinwe.com/sports/">体育</a></li>
+			<li><a href="http://www.tianjinwe.com/cul/">文化</a></li>
+			<li class="Dbg"><a href="http://www.tianjinwe.com/hot/tdzt/">专题</a></li>
+			<li><a href="http://bb.tianjinwe.com/">网上帮办</a></li>
+			<li class="Dbg"><a href="http://www.tianjinwe.com/tianjin/jsbb/">即时播报</a></li>
+			<li><a href="http://epaper.tianjinwe.com/tjrb">天津日报</a></li>
+			<li><a href="http://epaper.tianjinwe.com/mrxb">每日新报</a></li>
+			<li><a href="http://epaper.tianjinwe.com/cskb">城市快报</a></li>
+			<li><a href="http://bbs.tianjinwe.com">论坛</a></li>
+
+		</ul>
+	</div>
+	<div class="navright"></div>
+</div>
+
+	<div class="blankbg"></div>
+	<div class="clear"></div>
+	
+	<div class="rightshadow">
+		<div class="mainleft">
+			<div class="position">
+				<span>当前位置：</span><a href="../../../">首页</a>&nbsp;|&nbsp;<a href="../../">天津频道</a>&nbsp;|&nbsp;<a href="../">特别报道</a>
+			</div>
+			<div class="document">
+				<h1><!--title-->深圳回应史上最牛工资单:"人均年薪30万"没违规<!--/title--></h1>
+				<h4>来源：燕赵晚报&nbsp;&nbsp;关键字：<span><!--keyword-->住宅租赁;自有物业;制度缺陷;最牛工资;年薪<!--/keyword--></span>&nbsp;&nbsp;作者：<!--author--><!--/author-->&nbsp;&nbsp;<!--date-->2012-01-12 17:14<!--/date--></h4>
+				<div class="document_con" id="fontZoom">
+					<!--content--><!--enpcontent--><p>　　时隔一年之后，因为“审计署报告证实属实”，曾引发网民广泛关注和质疑的深圳住宅租赁管理服务中心“最牛工资单”事件日前再度成为媒体和网络关注的焦点。该中心主管单位深圳市住建局有关负责人11日接受记者采访时称，相关行为属于“制度缺陷”，“最牛工资”问题“已在2011年度内全部整改完毕”。</p><p>　　<strong>网民质疑</strong></p><p>　　<strong>“史上最牛工资”</strong></p><p>　　2010年12月，一则《史上最高公务员工资》的网帖在网上广为流传，其中提到“深圳市住宅租赁管理服务中心现有各类员工共65名，而该中心全年人员工资1913万元，人均年薪近30万，年薪最高的68万，最低的也有25万。这还不包括其他发放的实物以及现金等”。</p><p>　　这一报告一度引发网民高度关注和强烈批评。而今年年初的最新信息则显示，国家有关部门的审计查明，这一“最牛工资单”基本属实。</p><p>　　至此，“最牛工资”再次挑动了社会的敏感神经。</p><p>　　<strong>为何对相关责任人没严肃处理</strong></p><p>　　媒体称，报告表示，因地方财政及国土房产主管部门未对其“自有物业”进行资产清查和产权认定，导致应作为国有资产管理的所谓“自有物业”收入变成了该租赁中心为员工发放高工资、高福利的来源。对此，不少网友质疑，该中心把国家财产当成“自有物业”，拿的国家钱，肥了自家地，属于严重违纪违规行为。</p><p>　　不少网友质疑，出了这么大的事，只是让领导退回在财政领取的2万元薪水，处罚太轻。</p><p>　　深圳市住建局表示，对于租赁中心这类经费自给、管理模式类似企业化管理的事业单位，深圳市已经从2009年开始着手进行改革，按深圳市有关规定，设置了实施绩效工资制度改革三年(2009—2011)过渡期，“这起事件并非只是深圳市住宅租赁管理服务中心独有，有些是体制改革当中的一些问题，因此处罚没有依据”。</p><div style="display:none">
+<SCRIPT LANGUAGE="Javascript">
+window.HLBath=1;
+</SCRIPT>
+</div><!--/enpcontent--><!--/content-->
+			  	</div>
+			 	<div class="megas"><SCRIPT LANGUAGE="JavaScript">
+<!--
+function createPageHTML(_nPageCount, _nCurrIndex, _sPageName, _sPageExt){
+	if(_nPageCount == null || _nPageCount<=1){
+		return;
+	}
+
+	var nCurrIndex = _nCurrIndex || 0;
+
+	/*if(nCurrIndex == 0)
+		document.write("<span style='float:left;height:20px;'>上一页</span>&nbsp;");
+	else
+		document.write("<a href=\""+_sPageName+"_" + (_nCurrIndex-1) + "."+_sPageExt+"\" target='_self' style='float:left;height:20px;'>上一页</a>&nbsp;");*/
+		
+	if(nCurrIndex == 0)
+		document.write("<span>1</span>&nbsp;");
+	else
+		document.write("<a href=\""+_sPageName+"."+_sPageExt+"\" target='_self'>1</a>&nbsp;");
+
+	for(var i=1; i<_nPageCount; i++){
+		if(nCurrIndex == i)
+			document.write("<span>"+(i+1) + "</span>&nbsp;");
+		else
+			document.write("<a href=\""+_sPageName+"_" + i + "."+_sPageExt+"\" target='_self'>"+(i+1)+"</a>&nbsp;");		
+	}
+
+	/*if(nCurrIndex == _nPageCount)
+		document.write("<span>下一页</span>&nbsp;");
+	else
+		document.write("<a href=\""+_sPageName+"_" + (_nCurrIndex+1) + "."+_sPageExt+"\" target='_self'>下一页</a>&nbsp;");*/
+
+}
+//WCM置标
+createPageHTML(1, 0, "t20120112_4976286", "html");	
+//-->
+</SCRIPT></div>
+				<div class="author">责任编辑：<!--editor-->	李淼川 <!--/editor--></div>
+				<div class="tool">【<a href="javascript:fontZoom(20)" target="_self" class="black_title12">大</a> <a href="javascript:fontZoom(14)" target="_self" class="black_title12">中</a> <a href="javascript:fontZoom(12)" target="_self" class="black_title12">小</a>】</div>
+				<div class="share">
+					<div style="float:left; line-height:20px; font-size:12px; color:#000;">分享到：</div>
+					<script type="text/javascript">CreateShare()</script>
+				
+					<ul class="t10" style="float:left;">
+						<li style="background-position: 0px 0px;" title="分享到“腾讯QQ微博”"></li>
+						<li style="background-position: -16px 0px;"  title="分享到“新浪微博”"></li>
+						<li style="background-position: -0px -16px;" title="分享到“开心网”"></li>
+						<li style="background-position: -16px -16px;" title="分享到“QQ空间”"></li>
+						<li style="background-position: -32px -16px;" title="分享到“QQ校友”"></li>
+						<li style="background-position: -48px -16px;" title="分享到“百度Hi”"></li>
+						<li style="background-position: -64px -16px;" title="分享到“网易微博”"></li>
+						<li style="background-position: -80px -16px;" title="分享到“人人网”"></li>
+						<li style="background-position: -96px -16px;" title="分享到“猫扑推客”"></li>
+						<li style="background-position: -112px -16px;" title="分享到“飞信”"></li>
+						<li style="background-position: -128px -16px;" title="分享到“搜狐微博”"></li>
+						<li style="background-position: -144px -16px;" title="分享到“淘江湖”"></li>
+					</ul>
+				</div>
+				<div style="float:left; line-height:20px; width:140px; text-align:right;">[<a href="http://bbs.tianjinwe.com" class="black_title12">进入论坛</a>]</div>
+				<div class="mainbot">
+					<div class="relatenews">
+						<div class="relatenews_title">更多关于&nbsp;<span>住宅租赁;自有物业;制度缺陷;最牛工资;年薪</span>&nbsp;的新闻：</div>
+						<ul>
+						
+							<li><a href="./t20120112_4972470.html" title="中青报：“天价工资”事件算不算集体贪污" class='black_title12'>中青报：“天价工资”事件算不算集体贪污</a></li>
+						
+							<li><a href="./t20120112_4970409.html" title="深圳住建局称下属事业单位人均年薪30万 未违规" class='black_title12'>深圳住建局称下属事业单位人均年薪30万 未违规</a></li>
+						
+							<li><a href="../../../hotnews/txjj/201201/t20120111_4964102.html" title="深圳1家事业单位人均年薪超30万 处罚仅收回2万" class='black_title12'>深圳1家事业单位人均年薪超30万 处罚仅收回2万</a></li>
+						
+							<li><a href="../../../rollnews/201105/t20110525_3855554.html" title="买家改买为租 广州住宅租赁登记备案量环比增2倍" class='black_title12'>买家改买为租 广州住宅租赁登记备案量环比增2倍</a></li>
+						
+							<li><a href="../../../rollnews/201104/t20110425_3617186.html" title="哈市住宅销售市场观望趋势增强 住宅租赁价走高" class='black_title12'>哈市住宅销售市场观望趋势增强 住宅租赁价走高</a></li>
+						
+							<li><a href="../../../rollnews/201104/t20110425_3616443.html" title="一季度哈市住宅销售市场降温 房屋租价上涨明显" class='black_title12'>一季度哈市住宅销售市场降温 房屋租价上涨明显</a></li>
+						
+							<li><a href="../../../rollnews/201104/t20110414_3540424.html" title="一季度北京高档住宅价格环比跌6.6%" class='black_title12'>一季度北京高档住宅价格环比跌6.6%</a></li>
+						
+							<li><a href="../../tjcj/201103/t20110309_3477972.html" title="住宅租赁市场迎来“小阳春”(图)" class='black_title12'>住宅租赁市场迎来“小阳春”(图)</a></li>
+						
+						</ul>
+					</div>
+					<div class="mainbotadv">
+						<script src="http://60.30.119.163:8081/adintrs/adintrs/data/script/adlocation_104/adlocation_104.js" IGNOREAPD="1"></script>
+					</div>
+				</div>
+			</div>
+			<div class="recommendnews">
+				<h2><a href="../../../jhpd/wzylm/jctj/" class="write_title14">精彩推荐</a></h2>
+				<div class="recommendnews_con">
+				
+					<ul class="recommendimg">
+					
+						<li><a href="../../jsbb/201201/t20120112_4972134.html"><img src="../../jsbb/201201/W020120112388141716527.jpg" width='130' height='90' border='0'/></a><a href="../../jsbb/201201/t20120112_4972134.html" title="《非诚勿扰》再添光头" class='black_title12'>《非诚勿扰》再添光头</a></li>
+					
+						<li><a href="../../jsbb/201201/t20120112_4971958.html"><img src="../../jsbb/201201/W020120112389096716577.jpg" width='130' height='90' border='0'/></a><a href="../../jsbb/201201/t20120112_4971958.html" title="小沈阳新剧日薪50万" class='black_title12'>小沈阳新剧日薪50万</a></li>
+					
+						<li><a href="../../../hotnews/gj/sj/201201/t20120112_4972704.html"><img src="../../../hotnews/gj/sj/201201/W020120112386311870135.jpg" width='130' height='90' border='0'/></a><a href="../../../hotnews/gj/sj/201201/t20120112_4972704.html" title="“无裤乘地铁日”" class='black_title12'>“无裤乘地铁日”</a></li>
+					
+						<li><a href="../../../sports/dgjt/201201/t20120112_4973413.html"><img src="../../../sports/dgjt/201201/W020120112423973590241.jpg" width='130' height='90' border='0'/></a><a href="../../../sports/dgjt/201201/t20120112_4973413.html" title="巴拉圭“乳神”小清新" class='black_title12'>巴拉圭“乳神”小清新</a></li>
+					
+					</ul>
+					<ul class="recommendtitle1">
+					
+						<li>·<a href="../../jsbb/201201/t20120111_4964822.html" title="天津团购电影票成主流 限价令或将拯救原价票" class='black_title14'>天津团购电影票成主流 限价令或将拯救原价票</a></li>
+					
+						<li>·<a href="../../jsbb/201201/t20120112_4971495.html" title="赵本山爱徒小沈阳汤潮二度“泄歌门”" class='black_title14'>赵本山爱徒小沈阳汤潮二度“泄歌门”</a></li>
+					
+						<li>·<a href="../../../hotnews/gj/ss/201201/t20120112_4972491.html" title="“强盗”狒狒爱抢食被处死 曾遭枪击超50次 图" class='black_title14'>“强盗”狒狒爱抢食被处死 曾遭枪击超50次 图</a></li>
+					
+						<li>·<a href="../../../hotnews/gj/ss/201201/t20120112_4972082.html" title="日本佐贺市聘请中国留学生面对面服务中国游客" class='black_title14'>日本佐贺市聘请中国留学生面对面服务中国游客</a></li>
+					
+						<li>·<a href="../../../hotnews/gj/ss/201201/t20120112_4971956.html" title="“乐圣”贝多芬亲笔信曝光 信中抱怨缺钱又得病" class='black_title14'>“乐圣”贝多芬亲笔信曝光 信中抱怨缺钱又...</a></li>
+					
+					</ul>
+					<ul class="recommendtitle2">
+					
+						<li>·<a href="../../../hotnews/gj/ss/201201/t20120112_4971873.html" title="美国“虎妈”教育方式大转弯宣称现在懂得放手" class='black_title14'>美国“虎妈”教育方式大转弯宣称现在懂得放手</a></li>
+					
+						<li>·<a href="../../../hotnews/gn/szts/201201/t20120112_4972237.html" title="苏湘渝枪杀案嫌犯系同一人 多地悬赏225万缉凶" class='black_title14'>苏湘渝枪杀案嫌犯系同一人 多地悬赏225万缉凶</a></li>
+					
+						<li>·<a href="../../../hotnews/gn/szts/201201/t20120112_4972523.html" title="河南红十字会原党组书记获刑10年 与女下属有染" class='black_title14'>河南红十字会原党组书记获刑10年 与女下属...</a></li>
+					
+						<li>·<a href="../../../hotnews/gn/szts/201201/t20120112_4972777.html" title="17岁男子拍下14岁女友裸照 数月后分手勒索钱财" class='black_title14'>17岁男子拍下14岁女友裸照 数月后分手勒索...</a></li>
+					
+						<li>·<a href="../../../hotnews/gn/szts/201201/t20120112_4972908.html" title="《潜伏》逃犯演员被以抢劫罪批捕 曾经逃亡13年" class='black_title14'>《潜伏》逃犯演员被以抢劫罪批捕 曾经逃亡...</a></li>
+					
+					</ul>
+				
+				</div>
+				<div class="docadv"><script src="http://60.30.119.163:8081/adintrs/adintrs/data/script/adlocation_105/adlocation_105.js" IGNOREAPD="1"></script></div>
+			</div>
+		</div>
+		
+		<div class="mainright">
+			<div class="column_xwrd">
+				<h2><a href="http://www.tianjinwe.com/tianjin/index.html" class="write_title14">新闻热点</a></h2>
+				<div class="column_xwrdcon">
+				<ul>
+				
+					
+					<li>·<a href="../../../hotnews/txjj/201201/t20120112_4974232.html" title="铁道部门：春运网上订票明年或开多家“分店”" class='black_title12'>铁道部门：春运网上订票明年或开多家“分店”</a></li>
+					
+					<li>·<a href="../../../business/tjjj/201201/t20120112_4972275.html" title="统计局：去年12月CPI同比上涨4.1% 创15个月新低" class='black_title12'>统计局：去年12月CPI同比上涨4.1% 创15个月新低</a></li>
+					
+				
+				
+					
+					<li>·<a href="../../../hotnews/txjj/201201/t20120112_4974851.html" title="周立波挺郭德纲骂狗仔：敢偷拍就别怪人“活拍”你" class='black_title12'>周立波挺郭德纲骂狗仔：敢偷拍就别怪人“活...</a></li>
+					
+					<li>·<a href="../../../hotnews/txjj/201201/t20120112_4974459.html" title="矮个劫匪的悲剧：1米6抢1米7 想捂嘴够不着被抓" class='black_title12'>矮个劫匪的悲剧：1米6抢1米7 想捂嘴够不着被抓</a></li>
+					
+				
+				
+					
+					<li>·<a href="../../tjwy/201201/t20120112_4975991.html" title="周铁农：要和平要稳定要发展是两岸大势" class='black_title12'>周铁农：要和平要稳定要发展是两岸大势</a></li>
+					
+					<li>·<a href="../../tjwy/201201/t20120112_4975977.html" title="天津市消协发布消费提示：慎选快递 贵物保价 先验后签" class='black_title12'>天津市消协发布消费提示：慎选快递 贵物保价...</a></li>
+					
+				
+				
+					
+					<li>·<a href="../../../sports/czlt/201201/t20120112_4975946.html" title="三巨头低迷56分加时输球 保罗27+11送热火首连败" class='black_title12'>三巨头低迷56分加时输球 保罗27+11送热火首连败</a></li>
+					
+					<li>·<a href="../../../sports/czlt/201201/t20120112_4975691.html" title="悉尼赛李娜逆转进决赛 击碎科维托娃登No.1美梦" class='black_title12'>悉尼赛李娜逆转进决赛 击碎科维托娃登No.1美梦</a></li>
+					
+				
+				</ul>
+				</div>
+			</div>
+			
+			<div class="listadv"><script src="http://60.30.119.163:8081/adintrs/adintrs/data/script/adlocation_103/adlocation_103.js" IGNOREAPD="1"></script></div>
+			
+			<div class="column_dtts">
+				<h2 style="color:#fff;">道听图说</h2>
+				<div class="column_dttscon">
+				
+					<ul>
+					
+						<li><a href="../../../cul/qs1/201201/t20120112_4973689.html"><img src="../../../cul/qs1/201201/W020120112436936565754.jpg" width='130' height='90' border='0'/></a><p><a href="../../../cul/qs1/201201/t20120112_4973689.html" title="仨已婚男人分享一个她" class='black_title12'>仨已婚男人分享一个她</a></p></li>
+					
+						<li><a href="../../../cul/qs1/201201/t20120112_4973687.html"><img src="../../../cul/qs1/201201/W020120112435185310783.jpg" width='130' height='90' border='0'/></a><p><a href="../../../cul/qs1/201201/t20120112_4973687.html" title="做神秘女人5天情夫" class='black_title12'>做神秘女人5天情夫</a></p></li>
+					
+						<li><a href="../../../sports/dgjt/201201/t20120112_4973553.html"><img src="../../../sports/dgjt/201201/W020120112431325782415.jpg" width='130' height='90' border='0'/></a><p><a href="../../../sports/dgjt/201201/t20120112_4973553.html" title="小贝携爱子返回洛杉矶" class='black_title12'>小贝携爱子返回洛杉矶</a></p></li>
+					
+						<li><a href="../../../hotnews/gj/sj/201201/t20120112_4972578.html"><img src="../../../hotnews/gj/sj/201201/W020120112379997652056.jpg" width='130' height='90' border='0'/></a><p><a href="../../../hotnews/gj/sj/201201/t20120112_4972578.html" title="猩猩版“思想者”" class='black_title12'>猩猩版“思想者”</a></p></li>
+					
+						<li><a href="../../../hotnews/gn/ktss/201201/t20120112_4973258.html"><img src="../../../hotnews/gn/ktss/201201/W020120112408686093800.jpg" width='130' height='90' border='0'/></a><p><a href="../../../hotnews/gn/ktss/201201/t20120112_4973258.html" title="揭秘中国十大明星空姐" class='black_title12'>揭秘中国十大明星空姐</a></p></li>
+					
+						<li><a href="../../../hotnews/gn/ktss/201201/t20120112_4973135.html"><img src="../../../hotnews/gn/ktss/201201/W020120112405589210824.jpg" width='130' height='90' border='0'/></a><p><a href="../../../hotnews/gn/ktss/201201/t20120112_4973135.html" title="盘点《西游记》美女" class='black_title12'>盘点《西游记》美女</a></p></li>
+					
+					</ul>
+				
+				</div>
+			</div>
+			
+			<div class="column_tjzx">
+				<h2><a href="http://zxuc.tianjinwe.com/" class="write_title14">天津资讯</a></h2>
+				<div class="column_tjzxcon">
+					<script src="http://car.tianjinwe.com/webcms/zxcommon1.js" IGNOREAPD="1"></script>
+				</div>
+			</div>
+			
+			<div style="float:left;">
+				<iframe src="http://bbs.tianjinwe.com/tjrbmodule/list.php" width="312" height="308" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+			</div>
+			
+			<div class="column_wsbb">
+				<h2><a href="http://bb.tianjinwe.com/" class="write_title14">网上帮办</a></h2>
+				<div class="column_wsbbcon">
+				
+					<div class="wsbbconleft">
+					
+						<a href="http://www.tianjinwe.com/tianjin/jsbb/201201/t20120110_4956620.html"><img src="../../../jhpd/wzylm/bb/201201/W020120110581023281347.jpg" width='130' height='90' border='0'/></a><a href="http://www.tianjinwe.com/tianjin/jsbb/201201/t20120110_4956620.html" target="_blank" title="比亚迪新车15公里起火" class='black_title12'>比亚迪新车15公里起火</a>
+					
+					</div>
+					<ul>
+					
+						<li>·<a href="http://www.tianjinwe.com/tianjin/jsbb/201201/t20120110_4956629.html" target="_blank" title="水榭花都购房返现迟未兑现" class='black_title12'>水榭花都购房返现迟...</a></li>
+					
+						<li>·<a href="http://www.tianjinwe.com/tianjin/jsbb/201201/t20120110_4956442.html" target="_blank" title="昆俞家园春节前用气难" class='black_title12'>昆俞家园春节前用气难</a></li>
+					
+						<li>·<a href="http://www.tianjinwe.com/tianjin/jsbb/201201/t20120110_4956047.html" target="_blank" title="壳牌加油站拒为车主擦玻璃" class='black_title12'>壳牌加油站拒为车主...</a></li>
+					
+						<li>·<a href="http://www.tianjinwe.com/tianjin/jsbb/201201/t20120109_4951170.html" target="_blank" title="暗访：网购电动车欺诈" class='black_title12'>暗访：网购电动车欺诈</a></li>
+					
+						<li>·<a href="http://www.tianjinwe.com/tianjin/jsbb/201201/t20120109_4948662.html" target="_blank" title="房本面积缩减采暖费不减" class='black_title12'>房本面积缩减采暖费不减</a></li>
+					
+					</ul>
+				
+					<div class="telephone">&nbsp;&nbsp;热线：022-28201031&nbsp;&nbsp;网址：<a href="http://bb.tianjinwe.com/">bb.tianjinwe.com</a></div>
+				</div>
+			</div>
+			
+			<div class="column_tjsh">
+				<h2><a href="http://www.tianjinwe.com/tianjin/tjsh/" class="write_title14">天津社会</a></h2>
+				<div class="column_tjshcon">
+					
+					<ul>
+					
+					<li>·<a href="../../tjsh/lnrs/201201/t20120112_4971941.html" title="天津网友发现内河客运站旧址 是否恢复漕运惹争议" class='black_title12'>天津网友发现内河客运站旧址 是否恢复漕运惹...</a></li>
+					
+					<li>·<a href="../../tjsh/lnrs/201201/t20120112_4972000.html" title="天津“最窄自行车道”仅1.5米 并排勉强过两辆自行车" class='black_title12'>天津“最窄自行车道”仅1.5米 并排勉强过两...</a></li>
+					
+					<li>·<a href="../../tjsh/lnrs/201201/t20120112_4971627.html" title="天津市烟花爆竹上市 比去年多百余种新品" class='black_title12'>天津市烟花爆竹上市 比去年多百余种新品</a></li>
+					
+					<li>·<a href="../../tjsh/lnrs/201201/t20120112_4971702.html" title="火车票实名制操作难 天津旅行社暂停春运期间火车游" class='black_title12'>火车票实名制操作难 天津旅行社暂停春运期间...</a></li>
+					
+					<li>·<a href="../../tjsh/lnrs/201201/t20120112_4971616.html" title="天航津陕冀联招百名准空乘 漂亮脸蛋不是最重要的" class='black_title12'>天航津陕冀联招百名准空乘 漂亮脸蛋不是最重...</a></li>
+					
+					<li>·<a href="../../tjsh/lnrs/201201/t20120112_4971251.html" title="天津周末气温小幅回升适合逛街 今最高气温2℃" class='black_title12'>天津周末气温小幅回升适合逛街 今最高气温2℃</a></li>
+					
+					</ul>
+					
+				</div>
+			</div>
+			
+			<div class="column_wlrd">
+				<h2><a href="http://www.tianjinwe.com/hotnews/wlrd/" class="write_title14">网络热点</a></h2>
+				<div class="column_wlrdcon">
+				
+					<div class="wlrdconleft">
+					
+						<a href="../../../hotnews/wlrd/201201/t20120112_4975689.html"><img src="../../../hotnews/wlrd/201201/W020120112583640152022.jpg" width='80' height='90' border='0'/></a><a href="../../../hotnews/wlrd/201201/t20120112_4975689.html" title="流动人口成年轻化" class='black_title12'>流动人口成年轻化</a>
+					
+					</div>
+					<ul>
+					
+						<li>·<a href="../../../hotnews/wlrd/201201/t20120111_4965109.html" title="买火车票“刷票”" class='black_title12'>买火车票“刷票”</a></li>
+					
+						<li>·<a href="../../../hotnews/wlrd/201201/t20120109_4949239.html" title="南京枪击劫案背后" class='black_title12'>南京枪击劫案背后</a></li>
+					
+						<li>·<a href="../../../hotnews/wlrd/201201/t20120108_4943654.html" title="春运大幕今开启" class='black_title12'>春运大幕今开启</a></li>
+					
+						<li>·<a href="../../../hotnews/wlrd/201201/t20120107_4939383.html" title="个人住房信息联网" class='black_title12'>个人住房信息联网</a></li>
+					
+						<li>·<a href="http://www.tianjinwe.com/hotnews/txjj/201201/t20120106_4931584.html" target="_blank" title="宋柯辞职改卖烤鸭" class='black_title12'>宋柯辞职改卖烤鸭</a></li>
+					
+					</ul>
+				
+				</div>
+			</div>
+			
+			<div class="column_tjsh">
+				<h2><a href="http://www.tianjinwe.com/cul/" class="write_title14">情感·倾诉</a></h2>
+				<div class="column_tjshcon">
+					
+					<ul>
+					
+					<li>·<a href="../../../cul/qs1/201201/t20120112_4973689.html" title="仨已婚男人分享一个她" class='black_title12'>仨已婚男人分享一个她</a></li>
+					
+					<li>·<a href="../../../cul/qs1/201201/t20120112_4973687.html" title="做神秘女人5天情夫" class='black_title12'>做神秘女人5天情夫</a></li>
+					
+					<li>·<a href="../../../cul/qs1/201201/t20120111_4963819.html" title="少妇口述：那晚老公第一次让我兴奋" class='black_title12'>少妇口述：那晚老公第一次让我兴奋</a></li>
+					
+					<li>·<a href="../../../cul/qs1/201201/t20120110_4956624.html" title="离婚后 我去找别人" class='black_title12'>离婚后 我去找别人</a></li>
+					
+					<li>·<a href="../../../cul/qs1/201201/t20120110_4956452.html" title="口述：与小三纠缠十年 最后我们都输了" class='black_title12'>口述：与小三纠缠十年 最后我们都输了</a></li>
+					
+					<li>·<a href="../../../cul/qs1/201201/t20120109_4949604.html" title="流产男友骂我水性杨花" class='black_title12'>流产男友骂我水性杨花</a></li>
+					
+					</ul>
+					
+				</div>
+			</div>
+			
+			<div class="column_tjsh">
+				<h2><a href="http://www.tianjinwe.com/hotnews/" class="write_title14">新闻回顾</a></h2>
+				<div class="column_tjshcon">
+					
+					<ul>
+					
+					<li>·<a href="../../../business/tjjj/201201/t20120112_4974360.html" title="可口可乐称橙汁中含杀真菌剂美汁源或牵涉其中" class='black_title12'>可口可乐称橙汁中含杀真菌剂美汁源或牵涉其中</a></li>
+					
+					<li>·<a href="../../../hotnews/txjj/201201/t20120112_4971626.html" title="江西龙凤胎疑因食用圣元奶粉发病 致1死1伤 图" class='black_title12'>江西龙凤胎疑因食用圣元奶粉发病 致1死1伤 图</a></li>
+					
+					<li>·<a href="../../../hotnews/txjj/201201/t20120112_4974459.html" title="矮个劫匪的悲剧：1米6抢1米7 想捂嘴够不着被抓" class='black_title12'>矮个劫匪的悲剧：1米6抢1米7 想捂嘴够不着被抓</a></li>
+					
+					<li>·<a href="../../../hotnews/txjj/201201/t20120112_4971491.html" title="央视春晚主持人阵容爆大冷门 李思思毕福剑上位" class='black_title12'>央视春晚主持人阵容爆大冷门 李思思毕福剑上位</a></li>
+					
+					<li>·<a href="../../../hotnews/txjj/201201/t20120112_4971482.html" title="苏湘渝枪杀案嫌犯系同一人 多地悬赏225万缉凶" class='black_title12'>苏湘渝枪杀案嫌犯系同一人 多地悬赏225万缉凶</a></li>
+					
+					<li>·<a href="../../../hotnews/txjj/201201/t20120112_4971499.html" title="《潜伏》演员吉思光被以抢劫罪批捕 曾暴力袭警" class='black_title12'>《潜伏》演员吉思光被以抢劫罪批捕 曾暴力袭警</a></li>
+					
+					</ul>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="bottomshadow"></div>
+</div>
+<script type="text/javascript">
+var channel=encodeURIComponent("天津频道");
+</script>
+<script type="text/javascript">
+var lt_img=document.createElement('img');					
+var url = location.href;									
+var type = "3zhuaqu";
+//var h = url.indexOf("?") == -1?url.length:url.indexOf("?");
+//url = url.substring(0,h);									
+var m=new Date().getTime();									
+var c=escape(m*1000+Math.round(Math.random()*1000));		
+var user="";		
+var editor=encodeURIComponent("李淼川");
+var author=encodeURIComponent("");
+var column=encodeURIComponent("特别报道");
+var strt='深圳回应史上最牛工资单:"人均年薪30万"没违规'.replace(/\"/g," ");
+var title=encodeURIComponent(strt);
+var source=encodeURIComponent("燕赵晚报");
+var pbtime="2012-01-12";
+
+with(document){
+	var ref = referrer==""?m_ws02("SMYUV"):referrer;		
+	if(cookie.indexOf("SMYUV=")<0){cookie="SMYUV="+c+";path=/;expires=Sun, 29 July 2046 00:00:00 UTC;domain=tianjinwe.com";user=c;}
+	else user=m_ws02("SMYUV");									
+}
+
+window.onload = function() {
+	lt_img.src = "http://xwtj.tianjinwe.com/cloud.gif?tjwtype=" +type+ "&tjwurl=" +url+ "&tjwreferrer=" +ref+ "&tjwuser=" +user+ "&tjwtitle=" +title+ "&tjwauthor=" +author+ "&tjweditor=" +editor+ "&tjwcolumn=" +column+ "&tjwchannel=" +channel+ "&tjwsource=" +source+ "&tjwpbtime=" +pbtime+ "&end";
+		}
+
+function m_ws02(name) { 
+	var arg = name + "=";
+	var alen = arg.length; 
+	var clen = document.cookie.length;
+	var i = 0; 
+	while (i < clen) 
+		{ var j = i + alen; 
+		if (document.cookie.substring(i, j) == arg) return m_ws01(j); 
+		i = document.cookie.indexOf(" ", i) + 1; 
+		if (i == 0) break; } 
+	return ""; 
+}
+function m_ws01(offset) { 
+	var endstr = document.cookie.indexOf (";", offset); 
+	if (endstr == -1) endstr = document.cookie.length; 
+	return unescape(document.cookie.substring(offset, endstr));
+}
+</script>
+<div id="footer">
+	<div id="footercon"><a href="http://www.tianjinwe.com/bottom/gywm.html" class="black_title12">关于我们</a> - <a href="http://www.tianjinwe.com/together/jtjj/index.html" class="black_title12">集团简介</a> - <a href="http://www.tianjinwe.com/bottom/bqsm.html" class="black_title12">版权声明</a> - <a href="http://www.tianjinwe.com/bottom/ggkl.html" class="black_title12">集团广告刊例</a> - <a href="http://www.tianjinwe.com/bottom/lxwm.html" class="black_title12">联系我们</a>
+	<p>天津日报社版权所有 Copyright 2010-2020 天津日报社</p><p>集团办公室:022-28201111 集团总编室：022-28202222 天津网：400-60-96260</p><p>津ICP备07001863号  互联网新闻信息服务许可证 1212007001  增值电信业务经营许可证 B2-20070196</p><p>广播电视节目制作经营许可证（津）字第070号  信息网络传播视听节目许可证号：0210476</p></div>
+</div>
+<div style="display:none">
+<script src="http://s11.cnzz.com/stat.php?id=2192548&web_id=2192548" language="JavaScript"></script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F1e80de8378094480b1f638d60fbf7304' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+</div>
+</body>
+</html>

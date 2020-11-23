@@ -1,0 +1,794 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>途牛发布春节出游调查报告&nbsp;六成受调者选择自助游 消费_新闻中心_解放牛网</title><meta name="robots" content="follow,index">
+<meta name="keywords" content="途牛发布春节出游调查报告&nbsp;六成受调者选择自助游,消费"/>
+<meta name="description" content="途牛发布春节出游调查报告&nbsp;六成受调者选择自助游"/>
+<link href="/style/global.css" rel="stylesheet" type="text/css" />
+<base target="_blank"/>
+<script type="text/javascript" src="/js/slidebox.js"></script>
+<script type="text/JavaScript" src="/js/jquery-1.3.2.js"></script>
+<script type="text/JavaScript" src="/js/my_msg.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<script type="text/javascript" src="/js/common_use.js"></script>
+<script type="text/JavaScript" src="/js/comment.js?path="></script>
+<script type="text/javascript" src="/js/friend.js"></script>
+<link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen" />
+<script type="text/JavaScript" src="/js/topic.js"></script>
+<script type="text/JavaScript">
+	function sendToFriend(title){
+		var url = window.location.href;
+		url = url.replace("&","*");
+		var gourl = '/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoSendToFriendPre&title='+title+'&url='+url
+		gourl=encodeURI(gourl);
+        gourl=encodeURI(gourl);
+		showIframe('发给朋友',gourl,480,300,true);
+	}
+	function showComments(id,pageNum) {
+		var page = "";
+		if(pageNum != null) {
+			page = "&pagelist.currentPage="+pageNum;
+		}
+		$("#comment").load('/MainServlet?go=JFDAILY_COMMENT_PG_CommentSearch&d'+new Date().getTime()+'&searchBean.relatedType=n&searchBean.relatedId='+id+page);
+		//$("#comment").load('/MainServlet?go=JFDAILY_COMMENT_PG_CommentSearch&searchBean.relatedType=n&searchBean.relatedId='+id+page);
+	}
+	
+	$(document).ready(function(){
+		$('#hrefCollect').click(function(){
+		
+			var aId='1';
+			$.ajax({
+				url: '/MainServlet?go=Tag_PG_FavoritesAdd',
+				type: 'post',
+				data: {'favorites.ownerId' : aId,'favorites.relatedType':'n','favorites.relatedId':'2504142','favorites.title':'途牛发布春节出游调查报告&nbsp;六成受调者选择自助游','favorites.url':location.href,'isAjax':'1'},
+				error: function(){
+					showDialog(0);
+				},
+				success: function(msg){
+					if($.trim(msg)=="false")	
+						showDialogAcc('106','null');
+					else if($.trim(msg)=="login")	
+						showLogin();
+					else if($.trim(msg)=="exception")
+						//showMsg(0);				
+						showDialog('0');
+					else if($.trim(msg)=='true'){
+						//showMsg(1);
+						$('#addFav').html(parseInt($('#addFav').html())+1);
+						showDialogAcc('105','null');
+					}else{
+						var url=location.href;
+						var index=url.indexOf("http://");
+						index=url.indexOf("/",index+7);
+						url=url.substring(index+1,url.length);
+						location.href='/MainServlet?go=PUB_AUTH_PG_GoToLogin&url='+url;
+					}
+				}
+			});
+		});
+	});
+	
+	function digg(id, digg) {
+		if(!$.isReady){
+			return;
+		}
+		$.ajax({
+			url: '/MainServlet?go=Tag_PG_DiggAdd',
+			type: 'post',
+			data:{
+				'digg.relatedId' : id,
+				'digg.relatedType' : '1',
+				'digg.diggType' : digg
+				},
+			error: function(){
+				alert("顶出了问题！");
+			},
+			success: function(msg){
+				if($.trim(msg) == "false" || $.trim(msg)=="exception") {
+					showDialog(10);
+				} else {
+					if(digg == '1')
+						$('#diggNum').html(parseInt($('#diggNum').html())+1);
+					//showDialog(1);
+				}
+			}
+		});
+	}
+</script>
+<script type="text/JavaScript">
+try{
+top.document.title;
+}
+catch(e){
+top.location.href = self.location.href;
+} 
+
+//$(document).ready(function(){showFeedback();});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9252455-15']);
+  _gaq.push(['_setDomainName', '.jfdaily.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body onLoad="showFeedback();">
+<!--header-->
+
+
+
+<!-- main menu begin -->
+
+<div id="topbar"><div class="box">
+	<div class="m f-grey-12-n">
+		<a id="title_1" href="/" target="_blank">解放牛网首页</a>
+ 		| 
+		<span class='f-gren3-1224-b'><a id="title_2" href="/c/1_1_y.htm" target="_blank">新闻中心</a></span>
+        <a id="title_5" href="/c/topic.htm" target="_blank">专题</a>
+		<a id="title_4" href="/MainServlet?go=JFDAILY_TOPIC_PG_TopicIndex" target="_blank">牛选话题</a>
+		 |
+		<span class='f-gren3-1224-b'><a id="title_6" href="/MainServlet?go=JFDAILY_NEWHOME_PG_CommunityHome" target="_blank">放牛社区</a></span>
+		<a id="title_7" href="/c/cow.htm" target="_blank">我爱放牛</a>
+		<a id="title_8" href="/MainServlet?go=JFDAILY_MSG_PG_MessageIndex" target="_blank">牛人知道</a>
+		 |
+		<span class='f-gren3-1224-b'><a id="title_9" href="/MainServlet?go=jfdaily_stopick_pg_StockIndex" target="_blank">新闻涨停版</a></span>
+		 | <span class='f-gren3-1224-b'>定制</span>
+		 <a id="title_11" href="http://niuyou.jfdaily.com/" target="_blank">牛油</a>
+		 | 
+		<a id="title_13" href="/help/webmap.html#dzb" target="_blank">电子报</a>
+	</div>
+	
+	
+		 
+		  <div class="log f-grey-12-n" >
+		  	<iframe name="accountStatusFrame" id="accountStatusFrame" src="/app?m=changeAccountStatus"  width="270" height="25" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+		  </div>
+</div>
+</div>
+<!-- main menu end -->
+<!--header-->
+<div id="wrap">
+
+<!--ad-->
+<div class="ad">
+
+<script src="http://yinyong.jfdaily.com/adintrs/adintrs/data/script/adlocation_105/adlocation_105.js" IGNOREAPD="1"></script>
+
+</div>
+<!--ad-->
+
+<!--main-->
+<div id="Part">
+
+<div id="left">
+<!-- 
+<h2 class="A-s01"><span class="capimg
+"><img src="/images/blank.gif" width="115" height="30" /></span><span class="capname f-black-14-n">您所在的位置：<a href="/">首页</a> > <a href="/c/1_1_y.htm">新闻频道</a> > <a href="/c/363_1_1.htm">消费</a> > 正文</span></h2>	
+ -->
+
+<!--如果是分类新闻-->
+<h2 class="A-s01"><span class="capimg"><img src="/images/blank.gif" width="115" height="30" /></span><span class="capname f-black-14-n"><a href="/c/1_1_y.htm">专稿首页</a>|<a href="/c/1_1_r.htm">记者即时播报</a>|<a href="/c/241_1_1.htm">社会</a>|<a href="/c/242_1_1.htm">国际</a>|<a href="/c/243_1_1.htm">国内</a>|<a href="/c/244_1_1.htm">上海</a>|<a href="/c/22_1_1.htm">财经</a>|<a href="/c/361_1_1.htm">娱乐</a>|<a href="/c/362_1_1.htm">体育</a>|<a href="/c/363_1_1.htm">消费</a>|<a href="/c/364_1_1.htm">生活</a>|<a href="/c/441_1_1.htm">图片</a>|<a href='/c/video.htm'>视频</a></span></h2>
+<!--如果是分类新闻-->
+
+	<div class="abox article">
+    
+    <div class="f-black-1224">您所在的位置：<a href="/">首页</a> > <a href="/c/1_1_y.htm">本网专稿</a> > <a href="/c/363_1_1.htm">消费</a> > 正文</div>
+    
+    
+    
+	<h4></h4>
+	<h1>【记者即时播报】途牛发布春节出游调查报告&nbsp;六成受调者选择自助游</h1>
+	<h4></h4>
+	<div class="ori">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td>发布者：<a href="/space/3341">李宝花</a> 时间：2012-01-12 15:34:35 来源：解放牛网</td>
+				<td class="favor-ico">【<a href="#" id="hrefCollect" onClick="return false;">收藏</a>】[<span id="addFav">0</span>]</td>
+			</tr>
+		</table>
+	
+	【<a href="/MainServlet?go=JFDAILY_COMMENT_PG_NewsComment&relatedId=2504142&relatedType=n">评论<span id="spa_cmtCount">0</span></a> 
+	<a href="/MainServlet?go=JFDAILY_COMMENT_PG_NewsComment&relatedId=2504142&relatedType=n">查看</a>】
+	【<a href="#commentdiv" target="_self">我要评论</a>】
+	<!-- 【<a href="/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoSearch&searchBean.type=t&searchBean.relatedId=2504142">话题</a>】 -->
+	【<a target="_blank" href="/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoNew&relatedId=2504142&relatedType=n">发起话题</a>】</div>
+
+	
+	<div class="para">途牛发布春节出游调查报告<br />
+六成受调者选择自助游<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 记者 李宝花<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 晨报讯 龙年将至，不少市民已经提前安排好了春节出游计划。日前，途牛旅游网针对价格、热点、出游方式等消费者最为关心的出游问题在网民中进行了问卷调查。途牛旅游网《春节出游问卷调查》数据显示，出游目的地、出游方式、出游费用是受访网民最为关注的几大问题。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 途牛旅游网《春节出游问卷调查》数据显示，春节旅游国内线路将呈现南北两头热的局面，南方以海南为首，北方以哈尔滨等地区的冰雪游为主；我国港澳以及出境短线的东南亚、出境长线的中东、日韩等比较受市民青睐。途牛旅游网度假产品部总监魏斌称，由于今年元旦与春节假期相隔较近，因此元旦期间以短线游为主，市场较为平缓，大部分游客的出游需求转移到春节。龙年春节期间市场总体形势可以概括为：国内游稳中有升，出境游持续火爆。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 途牛旅游网《春节出游问卷调查》数据显示，45%的受访者年龄在26-34岁，39%的受访者年龄在18-25岁，70、80后消费者的出游热情，将给春节旅游市场带来巨大的拉动。另一组调查数据显示，70%的受访者为女性，女性在对于春节的计划中，除了日常传统的购物外，对出游的关注较男性更为明显。目前，在线预订旅游线路日趋成为年轻市民出游的首选。其中，47%的受访者有春节出游经验，很大一部分年轻市民度过春节的方式已经从传统的逐家拜年转变成了春节出游。有春节出游经验的受访者中，六成以上的网民选择了自驾游、自助游或半自助游的春节出游方式，自由度较高的出游方式更受欢迎；暂无春节出游经验的网民同样倾向于自助游或半自助游的出游方式。<br />
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 在春节出游时间的选择上，63%的受访网民倾向在大年初一至大年初四出游，18%的受访网民倾向在春节前出游，19%的网民倾向在大年初五以后出游。途牛旅游网度假产品部总监魏斌称，由于春节期间机位、住宿较紧张，出游市民尽量选择将年假与春节黄金周结合起来，前几天回家过年，后几天出游，避开客流高峰。数据显示，春节团期的价格变化极为明显，价格高位主要集中在大年初一至初三，最高涨幅甚至翻番。调查数据显示，春节出游逐渐成为年轻家庭的一种生活方式后，市民更加注重丰富的旅游体验，个性化、便捷化的旅游趋势越来越强，出游市民也更加乐意为优质的旅游服务支付一定的旅游费用，近7成的受访网民最为接受人均3000元左右的出游消费标准。<br /></div>
+
+<!--page-->
+
+<div class="dig-pages">
+
+	<div class="clearit"></div></div>
+
+<!--page-->
+
+<!--huati-->
+<div id="relatedTopic"></div>
+<script type="text/javascript">$("#relatedTopic").load("/message/topic_inc.jsp?d"+new Date().getTime(),{'articleId' : 2504142});</script>
+<!--huati-->
+
+<div class="author">本文栏目：<a href="/c/363_1_1.htm">消费</a> 
+作者：<a href="/space/3341/">李宝花</a></div>
+
+
+
+
+
+<!--tool-->
+
+<div class="too">
+<ul>
+<li class="ico01" onClick="digg(2504142, '1');return false;" style="cursor: pointer;"><span id="diggNum">1</span></li>
+<li class="ico02" onClick="window.open('/MainServlet?go=BLOG_ARTICLE_PG_BlogArticleNew&id=2504142')" style="cursor: pointer;">写进博客</li>
+<li class="ico03" onClick="window.open('/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoNew&relatedId=2504142&relatedType=n')" style="cursor: pointer;">发起话题</li>
+<li class="ico04" onClick="window.open('/MainServlet?go=JFDAILY_MSG_PG_MessageNew&type=1&id=3341')" style="cursor: pointer;">提问作者</li>
+<!--<li class="ico06">
+<div class="arti_share_box">
+    <a style="cursor:pointer" onClick="divshow()">分享此文</a>
+    <div id="jf_share_win" class="popwin">
+        <UL class="f-grey-1220">
+            <LI><a style="cursor: pointer;" onClick="sendToFriend('途牛发布春节出游调查报告&nbsp;六成受调者选择自助游')" class="share_mail_ico">发给朋友</a></LI>
+            <!-分享到开心网开始->
+          <LI><a style="cursor: pointer;" href="#" onClick="Sendkx(); return false;" class="share_kx_ico">分享到开心网</a></LI>
+            <!-分享到开心网结束->
+            <!-分享到google开始->
+           <LI><a  style="cursor: pointer;" rel="nofollow" href="#" onClick="void window.open('http://www.google.com/bookmarks/mark?op=edit&bkmk='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title),'google'); return false;" class="share_google_ico">分享到Google书签</a>
+            <!-分享到google结束-></LI>
+        </UL>
+        <img src="/images/close.jpg" onClick="divhide()" class="close">
+    </div>
+</div>
+</li>
+<div style="display:none;">
+	<form name="kaixin001_repaste" action="http://www.kaixin001.com/repaste/share.php" method="post" target="_blank">
+		<input type="hidden" name="rtitle" value="">
+		<input type="hidden" name="rcontent" value="">
+		<input type="hidden" name="rurl" value="">
+	</form>
+</div>-->
+<li class="ico07" onClick="window.open('/c/1_1_y.htm')" style="cursor: pointer;">新闻首页</li>
+</ul>
+</div>
+<!--tool-->
+<div class="clearit"></div>
+
+<!--share-->
+<div id="jf_share">
+<UL>
+<form target="_blank" method="post" action="http://www.kaixin001.com/repaste/share.php" name="kaixin001_repaste">
+	<input type="hidden" value="" name="rtitle">
+	<input type="hidden" value="" name="rcontent">
+	<input type="hidden" value="" name="rurl">
+</form>
+<li><a style="cursor: pointer;" href="#" onClick="Sendkx(); return false;" class="share_kx_ico">分享到开心网</a></li>
+
+<li><a style="cursor: pointer;" href="#" onClick="Sendqq(); return false;" class="share_qq_ico">分享到QQ微博</a></li>
+<li><a style="cursor: pointer;" href="#" onClick="Sendsina(); return false;" class="share_sina_ico">分享到新浪微博</a></li>
+<li><a style="cursor: pointer;" href="#" onClick="Sendren(); return false;" class="share_rr_ico">分享到人人网</a></li>
+<li><a style="cursor: pointer;" href="#" onClick="Sendtb(); return false;" class="share_tb_ico">分享到淘江湖</a></li>
+<li><a style="cursor: pointer;" href="#" onClick="Send163(); return false;" class="share_163_ico">分享到网易微博</a></li>
+</UL>
+<div class="clearit"></div>
+</div> 
+<!--share end-->
+
+
+<!--relate-->
+
+<div class="relate" id="relate">
+<ul id="T_Menu_02" class="f-black-1424-b">
+<li class="t"><a href="#" class="on" id="S_Menu_02_1">延展阅读</a></li>
+<li class="k f-1218"></li>	
+</ul>
+
+<div class="clearit"></div>
+<div class="cbox">
+	 <div id="S_Cont_02_1">
+	 <script type="text/JavaScript" src="/js/hlxgweb/rdlist.js"></script>
+	 </div>
+	 </div>
+</div>
+<!--relate-->
+<!--searchbox-->
+
+
+
+<link rel="stylesheet" type="text/css" href="/style/global.css" />
+
+<script type="text/JavaScript" src="/js/common_use.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen" />
+
+<script type="text/JavaScript">
+//非法字符过滤( or---->或,not_----->非,and ----->与 )
+
+// 过滤空格，实现java中的trim功能：
+String.prototype.trim=function(){
+	return this.replace(/(^\s*)|(\s*$)/g, "");
+}
+function judgeValue(SearchKey,isValid){       
+	var reExpression=/(%|\*|\+|\=|\-|\/|\?|\.|\。|\&|\:|\：)+/g;		
+	var x=reExpression.test(SearchKey);
+	if(isValid && x) {
+		alert("检索词中含有非法字符!");
+		$('#key').val('');
+	}
+	return x;
+}
+
+function submitSearchContentIt() {
+	var keyWords = $("#key").val();
+	// 去掉前后的空格：
+	keyWords = keyWords.trim();
+	if(keyWords=="") {
+		showDialog(99);
+		return false;
+	}
+	if(judgeValue(keyWords)) {
+		showDialog(997);
+		$('#keyWords').val('');
+		return false;
+	}
+	var searchwordTemp="";
+
+	var keywordsValueArray = keyWords.split(" ");
+	var sTemp="";
+	var element = "";
+	var j = 0;
+	for(var i=0;i<keywordsValueArray.length;i++) {
+		element = keywordsValueArray[i];
+		if(element=="" || element=="not" || element=="or" || element=="and" || element=="in"){
+			continue;
+		}
+		j++;
+		if(j==1){
+			sTemp = element;
+			continue;
+		}
+		sTemp = sTemp + " and " + element;
+	}
+	searchwordTemp = " doctitle =("+sTemp+") or contents =("+sTemp+") ";
+
+	var searchForm = document.getElementById("searchContentForm");
+	document.getElementById("word").value = searchwordTemp;
+	document.getElementById("id").value = "1121";
+	searchForm.action = "http://find.jfdaily.com/search_utf.asp";
+	searchForm.submit();
+}
+</script>
+<form id="searchContentForm" action="http://find.jfdaily.com/search_utf.asp" target="_blank" method="get" onsubmit="submitSearchContentIt();return false;"><input type="hidden" name="validateRequest" value="ecf465e1ec68bb5a5895e380f9ebdff6">
+<input type="hidden" name="searchword" id="word"/>
+<input type="hidden" name="channelid" id="id"/>
+<div class="c-searchbox">
+<span class="f-gren2-14" style="vertical-align: middle">查看更多相关新闻</span>
+<input type="text" style="width: 380px; vertical-align: middle" name="key" id="key"/>
+<a href="#" onclick="submitSearchContentIt();return false;" target="_blank"><img src="/images/i_search.gif" align="absmiddle" height="18"/></a>
+</div>
+</form>
+<br />
+<!--searchbox-->
+
+<!--pinglun 评论 -->
+
+<div name="commentbox" id="commentbox" class="commentbox">
+	<div class="bj-p10-p5">
+		<div id="comment"></div>
+		<script>showComments(2504142);</script>
+		<div class="clearit"></div>
+		
+		<input type="hidden" id="commentType" value="n"/>
+		<input type="hidden" id="parentId" value="-1"/>
+		<input type="hidden" id="relatedType" value="n"/>
+		<input type="hidden" id="relatedId" value="2504142"/>
+		<input type="hidden" id="columnId" value="363"/>
+		<input type="hidden" id="commentTitle" value=" "/>
+		<input type="hidden" id="relatedFp" value="3341" />
+		<div id="commentdiv">
+
+
+
+<div id="commentPannel"></div>
+<script>loadCommentPannel("","n");</script></div>
+		
+	</div>
+</div>
+
+<!--pinglun-->
+<!--warning-->
+
+<div class="warn f-grey2-14">本文版权归解放牛网所有，任何媒体、网站或个人未经本网协议授权不得转载、链接、转帖或以其他方式复制发布/发表。</div>
+
+<!--warning-->
+	</div>
+</div>
+<div id="right">
+	<!--订阅邮件报-->
+	<script>
+	  function sendMail(id){
+	  var email = /^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/;
+	  if(!email.exec(id)){
+	  alert("请输入正确的email地址");
+	  return false;
+	  }else
+	 
+	   window.open("http://niuyou.jfdaily.com/NewMediaClient/Register.aspx?email="+id,'','');
+	  }
+	</script>
+	<div class="rbox bj-p5">
+		<input type="text" id="search_id" class="inputstyle03" value="输入您的E-mail地址订阅牛油" size="35"/>
+		<a onclick='sendMail($("#search_id").val())'  class="f-b-org2-12">订阅</a>
+		<script>inputText($("#search_id"), "输入您的E-mail地址订阅牛油");</script>
+	</div>
+	<!--订阅邮件报-->
+   <script src="http://yinyong.jfdaily.com/adintrs/adintrs/data/script/adlocation_108/adlocation_108.js" IGNOREAPD="1"></script> 
+    
+	<!--发布者信息-->
+
+
+	
+
+
+
+
+
+
+
+
+
+<div class="rbox-a">
+<div class="in">
+<h2 class="Ch2-s03"><span class="capname jfico02 f-black-14-b">发布此文的牛人</span><span
+	class="capmore f-black-12-b"><a href="/MainServlet?go=PUB_AUTH_PG_WebAccountRegister">我要注册</a> | <a href="/MainServlet?go=PUB_AUTH_PG_GoToLogin">牛友登录</a></span></h2>
+<div class="bj-p10-p20">
+<div class="ImgTxt07">
+<div class="IT07_img"><img src="/jfimg/2009-33/387889.jpg" style="cursor: pointer;" onclick="window.open('/space/3341/');"
+	width="75" height="75" /></div>
+
+<div class="IT07_txt">
+<div class="f-black-1222-b"><a href="/space/3341/">李宝花</a><br />
+<div class="rank-t"><img src="/images/blank.gif" height="20" class="star01" title="活跃度"/><img src="/images/blank.gif" height="20" class="star004" title="活跃度"/></div>
+<br><span class="f-org-12">三级牛仔</span><br />
+积分:<span class="f-org-12">3504</span></div>
+</div>
+<div class="clearit"></div>
+<p class="f-black-1222-b">新闻晨报 <span class="f-blue2-12"><a
+	href="/MainServlet?go=biztool_push_pg_CowBoysSearch">其他记者信息</a></span></p>
+<p class="f-black-1224">文章：<span class="f-org-12"><a href="/MainServlet?go=jfdaily_barn_pg_BarnSearch&userId=3341">336</a></span>
+博客：<span class="f-org-12"><a href="/blog/3341/">93</a></span></p>
+<p class="f-black-1224">评论：<span class="f-org-12"><a href="/MainServlet?go=BLOG_COMMENT_PG_BolgoCommentSearch&accountId=3341&me=y">7</a></span>
+话题：<span class="f-org-12"><a href="/MainServlet?go=jfdaily_barn_pg_TopicSearch&flag=n&userId=3341">0</a></span></p>
+<p class="f-black-1224">圈子：暂无加入圈子</p>
+<div class="bj-sp5"></div>
+<div class="bj-center"><span class="f-b-org-12"><a href="#"
+	onclick="addFriend(3341);return false;">[加为好友]</a></span>
+<span class="f-b-org-12"><a
+	href="/MainServlet?go=JFDAILY_MSG_PG_MessageNew&type=1&id=3341">[我要提问]</a></span> <span
+	class="f-b-org-12"><a href="/space/3341/">[逛逛牛舍]</a></span></div>
+</div>
+<div class="clearit"></div>
+</div>
+</div>
+</div>
+
+
+	<!--发布者信息-->
+<!--***发布的更多牛文-->
+
+<div class="rbox"><h2 class="Ch2-s02 f-black-12-b"><span class="capname"><a href="/space/3341" class="f-blue-12-b">李宝花</a>发布的更多牛文</span><span class="capmore f-grey-12"></span></h2>
+ <div class="bj-p10-p5 c-box"><ul class="f-grey-1220">
+
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2504155.htm" class="f-org-12" title="中西部航线50元超值自游飞">中西部航线50元超值自游飞</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2504142.htm" class="f-org-12" title="途牛发布春节出游调查报告&nbsp;六成受调者选择自助游">途牛发布春节出游调查报告&nbsp;六成受调者选择自助游</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2503800.htm" class="f-org-12" title="洋山保税港区拟扩区&nbsp;&nbsp;">洋山保税港区拟扩区&nbsp;&nbsp;</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2503751.htm" class="f-org-12" title="两年内浦东中小学心理教师持证上岗&nbsp;&nbsp;">两年内浦东中小学心理教师持证上岗&nbsp;&nbsp;</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2503745.htm" class="f-org-12" title="临港产业区公共租赁房开工">临港产业区公共租赁房开工</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2503741.htm" class="f-org-12" title="浦东九成标准化菜场食品信息可追溯">浦东九成标准化菜场食品信息可追溯</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2491091.htm" class="f-org-12" title="锦江电商获支付业务许可证&nbsp;“锦江e卡通”持证上岗">锦江电商获支付业务许可证&nbsp;“锦江e卡通”持证上岗</a></li>
+		
+		<li>·[<a href="/c/1_1_y.htm" target="_blank">新闻</a>] <a href="/a/2488474.htm" class="f-org-12" title="浦东1路延伸至2号线广兰路站">浦东1路延伸至2号线广兰路站</a></li>
+		
+</ul>
+<div class="line00-p5"></div>
+	<div class="bj-center"><span class="f-blue-12-b">我也要发表</span> <span class="f-b-org-12"><a href="/MainServlet?go=biztool_cms_pg_CowNewsAddPre&flag=f">[放牛]</a></span> <span class="f-b-org-12"><a href="/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoNew&relatedId=2504142&relatedType=n">[话题]</a></span> <span class="f-b-org-12"><a href="/MainServlet?go=BLOG_ARTICLE_PG_BlogArticleNew">[博客]</a></span></div>
+</div>
+</div>
+
+<!--***发布的更多牛文-->
+
+	<!-- ad -->
+	<div class="ad">
+<script src="http://yinyong.jfdaily.com/adintrs/adintrs/data/script/adlocation_100/adlocation_100.js"></script>
+	
+	
+	</div>
+	<!-- ad -->
+<!--本文栏目-->
+<!--本文栏目-->
+<div class="rbox bj-h-all">
+<h2 class="Ch2-s02">
+<div class="capname">
+<span class="f-black-12-b">本文栏目：</span>
+<span class="f-org-12">
+<a href="/c/1_1_y.htm">新闻频道</a>  |  <a href="/c/363_1_1.htm">消费</a>
+</span></div></h2>
+
+
+	<div class="bj-p5 c-box">
+	<div class="f-black-1222-b">关注本文的用户热荐栏目内容...</div>
+
+	<div class="line00-p5"></div>
+	<ul class="f-grey-1222">
+	 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2502475.htm" title="钱币邮票收藏有人气没“钱途”">钱币邮票收藏有人气没“钱途”</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2499591.htm" title="《2012》带火旅游地&nbsp;西藏、黄石公园大热">《2012》带火旅游地&nbsp;西藏、黄石公园大热</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2499544.htm" title="春节营销早早启动&nbsp;金龙来了年味浓了">春节营销早早启动&nbsp;金龙来了年味浓了</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2498663.htm" title="海口免税店开业“烧旺”岁末海南游">海口免税店开业“烧旺”岁末海南游</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2492715.htm" title="800公里以上航线&nbsp;&nbsp;燃油费降至130元">800公里以上航线&nbsp;&nbsp;燃油费降至130元</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2490778.htm" title="鲜牛奶一年间涨价15%">鲜牛奶一年间涨价15%</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2488230.htm" title="商圈集体促销不打烊&nbsp;店堂爆棚“血拼”迎新(图)">商圈集体促销不打烊&nbsp;店堂爆棚“血拼”迎新(图)</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2487563.htm" title="血拼狂潮来袭，管住你的卡">血拼狂潮来袭，管住你的卡</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶1</span>-->
+·<a href="/a/2487551.htm" title="八佰伴跨年血拼&nbsp;iPhone4一小时抢光(图)">八佰伴跨年血拼&nbsp;iPhone4一小时抢光(图)</a></li>
+ 
+<li><!--<span class="f-b-gren2-12">顶2</span>-->
+·<a href="/a/2473696.htm" title="婴幼儿奶粉“超高端”之路能走多远">婴幼儿奶粉“超高端”之路能走多远</a></li>
+
+</ul></div>
+
+<div class="line00"></div>
+  <div class="bj-p10-p5">
+ 
+<div class="ImgTxt06">
+		 
+	
+		<div class="IT06_img"><a href="/a/2488230.htm"><img src="/jfimg/2012-01/4630995.jpg" width="120" height="90" border="0" /></a><span class="f-blue2-12"><a href="/a/2488230.htm" title="商圈集体促销不打烊 店堂爆棚“血拼”迎新(图)">商圈集体促销不打烊 店堂爆棚“血拼”迎新(图)</a></span></div>
+	     
+	
+		<div class="IT06_img"><a href="/a/2487551.htm"><img src="/jfimg/2011-53/4629833.jpg" width="120" height="90" border="0" /></a><span class="f-blue2-12"><a href="/a/2487551.htm" title="八佰伴跨年血拼 iPhone4一小时抢光(图)">八佰伴跨年血拼 iPhone4一小时抢光(图)</a></span></div>
+	    <div class="line00"></div>
+	      
+	
+		<div class="IT06_img"><a href="/a/2453418.htm"><img src="/jfimg/2011-51/4555337.jpg" width="120" height="90" border="0" /></a><span class="f-blue2-12"><a href="/a/2453418.htm" title="老字号“触电”网上卖糖炒栗子(图)">老字号“触电”网上卖糖炒栗子(图)</a></span></div>
+	     
+	
+		<div class="IT06_img"><a href="/a/2447438.htm"><img src="/jfimg/2011-50/4543151.jpg" width="120" height="90" border="0" /></a><span class="f-blue2-12"><a href="/a/2447438.htm" title="孕妇冒雨赶场“抢”打折婴儿用品(图)">孕妇冒雨赶场“抢”打折婴儿用品(图)</a></span></div>
+	    
+
+		  </div>
+  
+  </div>
+  
+  <div class="clearit"></div>
+</div>
+
+<!--本文栏目-->
+<!--对本文的评价-->
+<!--<div class="rbox">
+ <h2 class="Ch2-s02 f-black-12-b"><span class="capname">关注本文的用户热荐栏目内容...</span><span class="capmore f-grey-12"><a href="/c/363_1_1.htm">更多&gt;&gt;</a></span></h2>
+ -->
+
+
+  
+<!--</div>
+
+本文栏目-->
+
+<!--他们可能与你有同样的喜好-->
+<div class="rbox">
+<h2 class="Ch2-s02 f-black-12-b">
+<span class="capname">他们可能与你有同样的喜好</span>
+<span class="capmore f-grey-12"><a href="/MainServlet?go=PUB_AUTH_PG_WebAccountSearch">更多</a>&gt;&gt;</span>
+</h2>
+
+
+
+<div class="bj-p10-p5 a-favor">
+<ul class="f-blue-1216">
+
+<li><img src="/jfimg/2009-39/624433.JPG" style="cursor: pointer;" onClick="window.open('/space/3561');" width="48" height="48"/><br/>
+	<a href="/space/3561">alison</a></li>
+	
+<li><img src="/jfimg/2009-27/130098.JPG" style="cursor: pointer;" onClick="window.open('/space/2481');" width="48" height="48"/><br/>
+	<a href="/space/2481">六月</a></li>
+	
+<li><img src="/jfimg/user/photo/vest/022.jpg" style="cursor: pointer;" onClick="window.open('/space/3042');" width="48" height="48"/><br/>
+	<a href="/space/3042">缓慢下坠</a></li>
+	
+<li><img src="/jfimg/user/photo/vest/149.jpg" style="cursor: pointer;" onClick="window.open('/space/3167');" width="48" height="48"/><br/>
+	<a href="/space/3167">遗弃之子</a></li>
+	
+<li><img src="/jfimg/2009-37/592810.jpg" style="cursor: pointer;" onClick="window.open('/space/2803');" width="48" height="48"/><br/>
+	<a href="/space/2803">咖啡厅里</a></li>
+	
+<li><img src="/jfimg/2009-38/602246.jpg" style="cursor: pointer;" onClick="window.open('/space/2821');" width="48" height="48"/><br/>
+	<a href="/space/2821">yay</a></li>
+	
+<li><img src="/jfimg/user/photo/vest/164.jpg" style="cursor: pointer;" onClick="window.open('/space/3182');" width="48" height="48"/><br/>
+	<a href="/space/3182">哈三花四</a></li>
+	
+<li><img src="/jfimg/user/photo/vest/165.jpg" style="cursor: pointer;" onClick="window.open('/space/3183');" width="48" height="48"/><br/>
+	<a href="/space/3183">爆牙Jane</a></li>
+	
+</ul>
+<div class="clearit"></div>
+</div>
+</div>
+
+<!--他们可能与你有同样的喜好-->
+
+<!--相关新闻股-->
+<div class="rbox bj-h-all"><h2 class="Ch2-s02 f-black-12-b"><span class="capname">热门新闻股</span><span class="capmore f-grey-12"><a href="/MainServlet?go=jfdaily_stopick_pg_StockIndex">更多</a>&gt;&gt;</span></h2>
+<div class="">
+<div class="bj-sp5"></div>
+    <div class="bj-p5"><h1 class="f-black-1318-b"><a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6281">谢霆锋与张柏芝真的复合了吗？</a></h1><span class="btn00 btn04"><a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6281">详情</a></span>
+	  <div class="ImgTxt05">
+	    <div class="IT05-img"><img src="/jfimg/stock/6281_small.jpg" width="150" height="107" /></div>
+	    <div class="IT05-txt">现价:<span class="f-org-12">50</span><br/>发行:<span class="f-org-12">2012-01-04</span><br/> <span class="btn05"><a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6281&isSupport=true">看涨买入</a></span><br/><span class="btn05"><a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6281&isSupport=flase">投反对票</a></span></div>
+	  </div><div class="jn03">
+	  <div class="keylink f-blue-12"><a href="/help/help_htg.html">新闻股</a> <a href="/help/help_htg.html#ht07">如何下单</a> <a href="/help/help_htg.html#ht09">如何撤单</a> <a href="/help/help_htg.html#ht10">炒股窍门</a> <a href="/help/help_htg.html#ht03">牛币</a></div>
+	  <ul class="f-grey-12-n">
+	  	
+	  <li><span class="f-gren-12">WBSMZ</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6262" title="微博会全面实行实名制吗？">微博会全面实行实名制吗？</a>&nbsp;&nbsp;<span class="f-org-12">现价：50</span> </li>
+
+	   
+	  <li><span class="f-gren-12">HYBZ</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6241" title="上海会大规模实施公交车沪语报站吗？">上海会大规模实施公交车沪语报</a>&nbsp;&nbsp;<span class="f-org-12">现价：62</span> </li>
+
+	   
+	  <li><span class="f-gren-12">ZBJV</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6221" title="存款准备金率会连续下调吗？">存款准备金率会连续下调吗？</a>&nbsp;&nbsp;<span class="f-org-12">现价：40</span> </li>
+
+	   
+	  <li><span class="f-gren-12">CPDJ</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6201" title="上海车牌拍卖价还会连续下跌吗？">上海车牌拍卖价还会连续下跌吗</a>&nbsp;&nbsp;<span class="f-org-12">现价：49</span> </li>
+
+	   
+	  <li><span class="f-gren-12">LCPC</span> <a href="/MainServlet?go=jfdaily_stopick_pg_StockFrontDetail&stockId=6181" title="浙江绿城会成为中超的“雷曼兄弟”吗？">浙江绿城会成为中超的“雷曼兄</a>&nbsp;&nbsp;<span class="f-org-12">现价：41</span> </li>
+
+	   
+	  </ul>
+	  </div>
+    </div>
+</div>
+</div>
+
+<!--相关新闻股-->
+
+<!--专 题-->
+<div class="rbox"><h2 class="Ch2-s02 f-black-12-b"><span class="capname">专 题</span><span class="capmore f-grey-12"><a href="/c/topic.htm">更多&gt;&gt;</a></span></h2>
+
+
+  <div class="bj-p10-p5">  <div class="ImgTxt08">
+        <div class="IT08_img"><img src="/jfimg/2012-02/4661805.jpg" width="85" height="65" /></div>
+        
+          <div class="IT08_txt2"><h1 class="f-black-1218-b"><a href="http://zt.jfdaily.com/xwzt/news/2011/Z4r_70404/index.htm">2012年上海两会</a></h1>
+		  <p class="f-grey-1218">转型之路如何走得更顺畅，哪些非热点不该被忽视？市政协探索建言献策新方式</p>
+		</div>
+        </div>
+<div class="line00-p5"></div>
+ <div class="ImgTxt08">
+        <div class="IT08_img"><img src="/jfimg/2011-40/4321002.png" width="85" height="65" /></div>
+        
+          <div class="IT08_txt2"><h1 class="f-black-1218-b"><a href="http://zt.jfdaily.com/xwzt/news/2011/z3_69844/index.htm">记者新春走基层</a></h1>
+		  <p class="f-grey-1218">两位小姑娘坚守“春运售票大卖场”咨询台，每天站立9小时答疑挨骂手冻僵</p>
+		</div>
+        </div>
+<div class="line00-p5"></div>
+
+</div>
+</div>
+
+<!--专题-->
+
+
+</div>
+<div class="clearit"></div>
+</div>
+<!--main-->
+</div>
+<!--footer-->
+<!-- 简版尾 -->
+
+<div class="wrap">
+<div class="clearit bj-sp20"></div>
+
+ 
+ 
+<div class="f-black-12-n bj-grey-bordert-2 bj-p10-p5">
+  <div class="bj-center"> | <a href="http://old.jfdaily.com/others/jtap/200808/t20080805_335183.htm" target="_blank"><span class="f-black-12-n">集团视频</span></a> | <a href="http://old.jfdaily.com/2006/other/jiefang.pps" target="_blank"><span class="f-black-12-n">集团概况</span></a> | <a href="http://zt.jfdaily.com/others/z3_63584/index.htm" target="_blank">集团行风监督</a> | <a href="http://old.jfdaily.com/others/zhaopin/index.htm" target="_blank"><span class="f-black-12-n">集团招聘信息</span></a> | <a href="http://old.jfdaily.com/2007/other/caigou/index.htm" target="_blank"><span class="f-black-12-n">集团采购信息</span></a> | <a href="http://jiansuo.jfdaily.com" target="_blank"><span class="f-black-12-n">集团资料检索</span></a> | <span class="f-black-12-n"><a href="/help/ad_page.html" target="_blank">广告服务</a></span> |  <a href="/help/webmap.html" target="_blank"><span class="f-black-12-n">网站地图</span></a> | <br />
+    解放牛网 版权所有   未经许可不得转载 <img height="32" src="http://www.jfdaily.com/images/icp.gif" width="38" align="absmiddle">沪ICP证010099 <br/>
+    广播电视节目制作经营许可证 沪字第335号 信息网络传播视听节目许可证 0908329<br/>
+</div>
+</div></div>
+<div style="display: none"><script src="http://s14.cnzz.com/stat.php?id=2284402&web_id=2284402" language="JavaScript"></script></div>
+
+<!--footer-->
+
+
+
+
+
+
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-9252455-4");pageTracker._trackPageview();} catch(err) {}</script>
+</body>
+
+
+
+
+
+</html>

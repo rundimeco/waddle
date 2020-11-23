@@ -1,0 +1,750 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.iatronet.gr/rss.asp?cat_id=333" />
+<link rel="shortcut icon" href="http://www.iatronet.gr/favicon.ico">
+<title>Ειδήσεις - Νέα - Επιστήμη & Ζωή - Επανάσταση στο χώρο των εμβολίων η συζευγμένη τεχνολογία</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Ειδήσεις,Νέα,Επιστήμη,Ζωή,Επανάσταση,στο,χώρο,των,εμβολίων,η,συζευγμένη,τεχνολογία">
+<meta name="description" content="Η συζευγμένη τεχνολογία των εμβολίων έφερε την επανάσταση στον εμβολιασμό των παιδιών αλλά πλέον και των ενηλίκων.">
+<link href="http://s46.abimg.gr/src/global.css" rel="stylesheet" type="text/css" />
+<link href="http://s46.abimg.gr/src/global_print.css" rel="stylesheet" type="text/css" media="print" />
+<link href="http://s46.abimg.gr/src/cnt.css" rel="stylesheet" type="text/css" title="default" />
+<link href="http://s46.abimg.gr/src/cnt_big.css" rel="alternate stylesheet" type="text/css" title="big" />
+<script src="http://s46.abimg.gr/src/mainmenu.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://s46.abimg.gr/src/tabs.js"></script>
+<script type="text/javascript" src="http://s46.abimg.gr/src/ajax.js"></script>
+<script type="text/javascript" src="http://s46.abimg.gr/src/marquee.js"></script>
+<script type="text/javascript" src="http://s46.abimg.gr/src/styleswitcher.js"></script>
+<script type="text/javascript" src="http://s46.abimg.gr/src/tooltip.js"></script>
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'></script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-7145532362585910");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-7145532362585910", "120x300_News");
+GA_googleAddSlot("ca-pub-7145532362585910", "160x600_News");
+GA_googleAddSlot("ca-pub-7145532362585910", "300x250_News");
+GA_googleAddSlot("ca-pub-7145532362585910", "468x60_News");
+GA_googleAddSlot("ca-pub-7145532362585910", "728x90_News");
+GA_googleAddSlot("ca-pub-7145532362585910", "Webover_News");
+GA_googleAddSlot("ca-pub-7145532362585910", "TextAd");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/el_GR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="site">
+	<div id="hdrbnr">
+	<script type='text/javascript'>
+GA_googleFillSlot("728x90_News");
+</script>
+	</div>
+	<div id="hdrlgn">
+			<div id="hdrlgntitle">Είσοδος Μελών</div>
+            <script type="text/javascript">ajaxpage('includes/userconnect.asp?redir=','contentarea')</script>
+			<div id="contentarea"></div>
+	</div>	
+	<img src="http://s46.abimg.gr/img/sitewhite.gif" width="1000" height="3" /><br>
+	<div id="sitewhite">
+		<div id="hdrlogobar">
+			<div id="hdrlogo"><a href="default.asp"><img src="http://s46.abimg.gr/img/iatronet_logo.gif" width="160" height="57" alt="iatronet.gr - υγεία, διατροφή, ομορφιά, φυσική κατάσταση, ειδήσεις, νέα, κατάλογοι υγείας" /></a></div>
+			<div id="hdrbar">
+
+					<div id="hdrbarlinks"><a href="authors.asp">Δίκτυο Συνεργατών</a> | <a href="category.asp?cat_id=51">Α' Βοήθειες</a> | <a href="newscategorydrugs.asp" style="color:#F78B33;">Προειδοποιήσεις Φαρμάκων</a> | <img src="http://s46.abimg.gr/img/rss10x10.gif" width="10" height="10" style="margin-bottom:-1px;"> <a href="entries.asp?en_id=79" style="color:#F78B33;">RSS Feeds</a> | <img src="http://s46.abimg.gr/img/icon_widget.gif" width="10" height="10" style="margin-bottom:-1px;"> <a href="widgets/">Widgets</a></div><div id="hdrbartabs">
+  <ul>
+	<li><a href="family.asp?fam_id=8"><span>Άνδρας</span></a></li>
+    <li><a href="family.asp?fam_id=9"><span>Γυναίκα</span></a></li>
+	<li><a href="family.asp?fam_id=23"><span>Παιδί</span></a></li>
+	<li><a href="family.asp?fam_id=24"><span>Τρίτη Ηλικία</span></a></li>
+  </ul>
+</div>    <script language="JavaScript">
+function CheckSF() {
+if ( (document.frmSearch.q.value.length<3) ) {
+		alert("Παρακαλούμε εισάγετε τουλάχιστον 3 χαρακτήρες στο πεδίο αναζήτησης");
+		document.frmSearch.q.focus();
+		return false; }
+else {
+  return true;
+ }
+}
+</script>
+<form ID="frmSearch" name="frmSearch" method="GET" action="results.asp" onSubmit="return CheckSF()">
+	  <input id="q" name="q" type="text" class="srchform">
+	  <input type="Submit" class="srchformbtn" value="Αναζήτηση" id="Submit" name="btnSearch">
+	  <div id="asearch"><a href="search.asp">Αναλυτική αναζήτηση</a></div>
+	  <div id="hdrbardate">Τελευταία Ενημέρωση: Σάββατο, 14 Ιανουαρίου 2012</div>
+</form>					
+			</div>
+		</div>
+            <div id="container">
+				<div id="leftcol">
+							<a href="video/" class="vmenu4">Video <span>&nbsp;από το iatronet.gr</span></a>
+                            <a href="ygeia.asp" class="vmenu">Υγεία</a><div class="menumain"></div>
+                            <div class="menusub">
+								<div><ul>
+										<li><a href="category.asp?cat_id=51">Α' Βοήθειες</a></li>
+										<li><a href="category.asp?cat_id=26">Αιματολογία</a></li>
+										<li><a href="category.asp?cat_id=30">Αλλεργιολογία</a></li>
+										<li><a href="category.asp?cat_id=25">Αναπνευστικό</a></li>
+										<li><a href="category.asp?cat_id=16">Γυναικολογία</a></li>
+                                        <li><a href="category.asp?cat_id=495">Μαιευτική - Εγκυμοσύνη</a></li>
+										<li><a href="category.asp?cat_id=28">Δερματολογία</a></li>
+										<li><a href="category.asp?cat_id=50">Εναλλακτικές Θεραπείες</a></li>
+										<li><a href="category.asp?cat_id=31">Ενδοκρινολογία</a></li>
+										<li><a href="category.asp?cat_id=49">Ιατρικές Εξετάσεις</a></li>
+										<li><a href="category.asp?cat_id=42">Ιατρική Εργασίας</a></li>
+										<li><a href="category.asp?cat_id=34">Καρδιολογία</a></li>
+										<li><a href="category.asp?cat_id=45">Λοιμώδεις Νόσοι</a></li>
+										<li><a href="category.asp?cat_id=32">Νευρολογία</a></li>
+										<li><a href="category.asp?cat_id=46">Οδοντιατρική</a></li>
+										<li><a href="category.asp?cat_id=84">Ορθοπεδική - Ρευματολογία</a></li>
+										<li><a href="category.asp?cat_id=37">Ουρολογία</a></li>
+										<li><a href="category.asp?cat_id=15">Οφθαλμολογία</a></li>
+										<li><a href="category.asp?cat_id=43">Παθολογία</a></li>
+										<li><a href="category.asp?cat_id=47">Παιδιατρική</a></li>
+										<li><a href="category.asp?cat_id=35">Πεπτικό / Ήπαρ</a></li>
+										<li><a href="category.asp?cat_id=52">Περιβάλλον &amp; Υγεία</a></li>
+                                        <li><a href="category.asp?cat_id=38">Πλαστική Χειρουργική</a></li>
+										<li><a href="category.asp?cat_id=29">Σεξουαλική Υγεία</a></li>
+										<li><a href="category.asp?cat_id=41">Φυσική Ιατρική &amp; Αποκατάσταση</a></li>
+										<li><a href="category.asp?cat_id=507">Χειρουργική</a></li>
+										<li><a href="category.asp?cat_id=33">Ψυχική Υγεία</a></li>
+										<li><a href="category.asp?cat_id=36">Ωτορινολαρυγγολογία</a></li>
+								</ul></div>
+							</div>
+							
+							<a href="diatrofi.asp" class="vmenu">Διατροφή</a><div class="menumain"></div>
+							<div class="menusub">
+								<div><ul>
+									<li><a href="category.asp?cat_id=19">Σωστή Διατροφή</a></li>
+									<li><a href="category.asp?cat_id=140">Πρόληψη Ασθενειών</a></li>
+									<li><a href="category.asp?cat_id=58">Θρεπτικές Ουσίες</a></li>
+									<li><a href="category.asp?cat_id=141">Τρόφιμα &amp; Ροφήματα</a></li>
+									<li><a href="category.asp?cat_id=57">Ασθένειες &amp; Διατροφή</a></li>
+									<li><a href="category.asp?cat_id=20">Αδυνάτισμα - Δίαιτα</a></li>
+									<li><a href="category.asp?cat_id=60">Παιδική Διατροφή</a></li>
+									<li><a href="category.asp?cat_id=61">Υγιεινή Μαγειρική</a></li>
+                                    <li><a href="category.asp?cat_id=434">Ζαχαροπλαστική</a></li>
+								</ul></div>
+							</div>
+							
+							<a href="omorfia.asp" class="vmenu">Ομορφιά</a><div class="menumain"></div>
+							<div class="menusub">
+								<div><ul>
+									<li><a href="category.asp?cat_id=67">Πρόσωπο</a></li>
+									<li><a href="category.asp?cat_id=68">Σώμα</a></li>
+									<li><a href="category.asp?cat_id=66">Συμβουλές</a></li>
+								</ul></div>
+							</div>
+							
+							<a href="fysiki-katastasi.asp" class="vmenu">Φυσική Κατάσταση</a><div class="menumain"></div>
+							<div class="menusub">
+								<div><ul>
+									<li><a href="category.asp?cat_id=22">Γυμναστική &amp; 'Ασκηση</a></li>
+									<li><a href="category.asp?cat_id=72">Παιδί &amp; 'Αθληση</a></li>
+								</ul></div>
+							</div>
+
+                            <a href="sex-zoi.asp" class="vmenu">Σεξ &amp; Ζωή</a><div class="menumain"></div>
+							<div class="menusub">
+								<div><ul>
+									<li><a href="category.asp?cat_id=424">Το σεξ σήμερα</a></li>
+									<li><a href="category.asp?cat_id=425">Τα κλειδιά της ηδονής</a></li>
+									<li><a href="category.asp?cat_id=426">Σχέση - γάμος</a></li>
+									<li><a href="category.asp?cat_id=427">Σεξουαλικές διαταραχές</a></li>
+									<li><a href="category.asp?cat_id=428">Σεξουαλικά νοσήματα</a></li>
+									<li><a href="category.asp?cat_id=429">Αντισύλληψη</a></li>
+                                    <li><a href="category.asp?cat_id=430">Παιδί, γονείς &amp; σεξ</a></li>
+									<li><a href="category.asp?cat_id=431">Διατροφή &amp; σεξ</a></li>
+									<li><a href="category.asp?cat_id=432">Σεξ &amp; τρίτη ηλικία</a></li>
+								</ul></div>
+							</div>
+
+							<a href="narkotika-alcool.asp" class="vmenu">Ναρκωτικά - Αλκοόλ</a><div class="menumain"></div>
+							<div class="menusub">
+								<div><ul>
+									<li><a href="category.asp?cat_id=390">Πρόληψη</a></li>
+									<li><a href="category.asp?cat_id=388">Είδη Ναρκωτικών</a></li>
+									<li><a href="category.asp?cat_id=391">Θεραπεία</a></li>
+									<li><a href="category.asp?cat_id=392">Προβλήματα Υγείας</a></li>
+									<li><a href="category.asp?cat_id=393">Αλκοόλ</a></li>
+									<li><a href="entries.asp?en_id=80">Χρήσιμα Links</a></li>
+								</ul></div>
+							</div>
+
+							<a href="category.asp?cat_id=348" class="vmenu2">Τέρψη &amp; Ζωή</a>
+                            
+                            <a href="iatriko-forum/" class="vmenu2">Ιατρικό Φόρουμ</a>
+
+							<a href="quizzes.asp" class="vmenu2">Εργαλεία &amp; Quiz</a>
+
+							<a href="ktiniatriki.asp" class="vmenu">Κτηνιατρική</a><div class="menumain"></div>
+							<div class="menusub">
+								<div><ul>
+									<li><a href="category.asp?cat_id=109">Υγεία</a></li>
+									<li><a href="category.asp?cat_id=110">Συμβουλές</a></li>
+								</ul></div>
+							</div>
+
+							<a href="newscategory.asp" class="vmenu3">Ειδήσεις - Νέα</a><div class="menumain"><img src="http://s46.abimg.gr/img/bgmenu_orng_btn.gif"></div>
+							<div class="menusub">
+								<div><ul>
+									<li><a href="newscategory.asp?cat_id=333">Επιστήμη &amp; Ζωή</a></li>
+									<li><a href="newscategory.asp?cat_id=334">Υγεία &amp; Business</a></li>
+									<li><a href="newscategory.asp?cat_id=335">Περίθαλψη &amp; Ασφάλιση</a></li>
+									<li><a href="newscategory.asp?cat_id=336">Προϊόντα &amp; Υπηρεσίες</a></li>
+									<li><a href="newscategory.asp?cat_id=385">Βουλή &amp; Υγεία</a></li>
+                                    <li><a href="newscategory.asp?cat_id=505">Εταιρική Κοινωνική Ευθύνη</a></li>
+									<li><a href="newscategory.asp?cat_id=337">Συνεντεύξεις</a></li>
+									<li><a href="newscategory.asp?cat_id=338">Απόψεις - Σχόλια</a></li>
+                                    <li><a href="newscategorydrugs.asp">Προειδοποιήσεις Φαρμάκων</a></li>
+								</ul></div>
+							</div>
+						<script type="text/javascript">
+							initShowHideDivs();
+						</script>
+						<a href="http://doctors.iatronet.gr" target="_blank"><img src="http://s46.abimg.gr/img/docs.gif" style="padding:2px 0;" alt="Πληροφορίες για Ιατρούς - http://doctors.iatronet.gr" /></a>
+                        <div id="socialmedia"><a href="http://twitter.com/iatronet" target="_blank"><img src="http://s46.abimg.gr/img/ico_twitter.gif" alt="Ακολουθήστε το iatronet.gr στο twitter" /></a><a href="http://www.facebook.com/iatronet" target="_blank"><img src="http://s46.abimg.gr/img/ico_facebook.gif" alt="Ακολουθήστε το iatronet.gr στο facebook" /></a></div>
+                <div id="adv120">Προβολή<br>
+                <script type='text/javascript'>
+GA_googleFillSlot("120x300_News");
+</script>
+                </div>
+<div class="spcr"></div>
+<fb:like-box href="http://www.facebook.com/iatronet" width="160" height="360" show_faces="true" border_color="#BBDAEF" stream="false" header="false"></fb:like-box>
+		<div class="spcr"></div>
+
+
+		<div class="spcr"></div>
+							
+            <b class="b1"></b><b class="b2"></b>
+                <div class="bxhh"><h3><img src="http://s46.abimg.gr/img/quizzes.gif" align="right">Μετρητές<br />υγείας - ευεξίας</h3></div>
+                <div class="bxb">
+                    <div class="bxhdiv">
+                    	<ul>
+							<li><a href="members/anger/">Έλεγχος Θυμού</a></li>
+                            <li><a href="members/duedate/">Υπολογισμός Ημερομηνίας Γέννας</a></li>
+                            <li><a href="members/sensitiveskin/">Ευαίσθητο Δέρμα</a></li>
+							<li><a href="members/sexweight/">Βάρος &amp; Σεξ</a></li>
+							<li><a href="members/bac/">Υπολογισμός Περιεκτικότητας Αλκοόλ στο Αίμα (BAC)</a></li>
+							<li><a href="members/bmi/">Υπολογισμός Δείκτη Μάζας Σώματος (BMI)</a></li>
+							<li><a href="members/idealweight/">Υπολογισμός Ιδανικού Σωματικού Βάρους</a></li>
+							<li><a href="members/bodyfat/">Υπολογισμός Σωματικού Λίπους</a></li>
+							<li><a href="members/dietsleep/">Ύπνος &amp; Παχυσαρκία</a></li>
+                            <li><a href="members/exelixi-logou-omilias-paidiou/">Εξέλιξη λόγου &amp; ομιλίας παιδιού - Σύντομο τεστ ανίχνευσης</a></li>
+                            <li><a href="members/reumatoeidis-arthritida/">Ρευματοειδής Αρθρίτιδα - Τεστ Αυτοαξιολόγησης</a></li>
+						</ul>
+                    </div>
+                </div>
+            <b class="b2"></b><b class="b1"></b>
+				<div id="adv160">Προβολή<br>
+				<script type='text/javascript'>
+GA_googleFillSlot("160x600_News");
+</script>
+				</div>
+				</div>
+				<div id="midcol" class="article">
+
+                    <h2><a href="default.asp">Αρχική Σελίδα</a><a href="newscategory.asp">Ειδήσεις - Νέα</a><a href="newscategory.asp?cat_id=333">Επιστήμη & Ζωή</a></h2>
+
+                    
+                    
+                    <h1>Επανάσταση στο χώρο των εμβολίων η συζευγμένη τεχνολογία</h1>
+
+                    <p class="grey">Ημερομηνία δημοσίευσης: 13 Ιανουαρίου 2012</p>
+
+                    <div class="spcr"></div>
+                    
+                    <b class="b1"></b><b class="b2"></b>
+                        <div class="bxb">
+                            <div id="articletools">
+                            <div class="left">
+                            <a href="emailarticle.asp?art_id=17044"><img src="http://s46.abimg.gr/img/icon_mail.gif" alt="Αποστολή με email"> Αποστολή</a>
+                            <a href="javascript:window.print();"><img src="http://s46.abimg.gr/img/icon_print.gif" alt="Εκτύπωση"> Εκτύπωση</a> 
+                            <img src="http://s46.abimg.gr/img/icon_textsize.gif" alt="Μέγεθος κειμένου"> Μέγεθος κειμένου <a href="javascript:;" onClick="setActiveStyleSheet('default');return false;" style="padding:0"><img src="http://s46.abimg.gr/img/icon_zoom_out.gif" alt="Σμίκρυνση"></a> <a href="javascript:;" onClick="setActiveStyleSheet('big');return false;"><img src="http://s46.abimg.gr/img/icon_zoom_in.gif" alt="Μεγέθυνση"></a>
+                            <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=iatronet" style="padding:0" target="_blank"><img src="http://s46.abimg.gr/img/icon_share.gif" alt="Μοιραστείτε το"> Μοιραστείτε το:</a>
+                            </div>
+							<div class="right"><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_linkedin"></a><a class="addthis_button_compact"></a></div>
+                            <script type="text/javascript">var addthis_config = {ui_click: true,data_track_clickback: true,ui_cobrand: "iatronet.gr",ui_header_color: "#0080c6",ui_header_background: "#e7f0f7",ui_offset_top: 4,ui_offset_left: -107,services_compact: 'facebook, twitter, linkedin, live, gmail, yahoomail, favorites, more',services_exclude: 'email, print'}</script>
+                            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=iatronet"></script>
+							<div class="clear"></div>
+                            </div>
+                        </div>
+                    <b class="b2"></b><b class="b1"></b>
+
+					<div class="spcr"></div>
+                    
+                    <fb:like show_faces="false" width="500" font="tahoma"></fb:like>
+
+                            <div id="adv468">Προβολή
+                            <script type='text/javascript'>
+GA_googleFillSlot("468x60_News");
+</script>
+                            </div>
+							  
+					  <div style="float:right;margin:20px 0 10px 10px;"><img src="http://i46.abimg.gr/enimerosi/laboratory-qc-225.jpg" width="225" height="100" /></div>
+					  
+                        <p>
+
+<p>Η συζευγμένη τεχνολογία των εμβολίων έφερε την επανάσταση στον εμβολιασμό των παιδιών αλλά πλέον και των ενηλίκων. Τα συζευγμένα εμβόλια παράγονται όταν την πολυσακχαριδική κάψα (το εξωτερικό περίβλημα) ενός μικροβίου την ενώσουμε (διαδικασία σύζευξης) με μια πρωτεΐνη φορέα. Με την ένωση αυτή βοηθάμε τον οργανισμό μας και παράγει κάποια ειδικά μνημονικά κύτταρα (Β-κύτταρα μνήμης) τα οποία με την σειρά τους ‘θυμούνται’ το μικρόβιο για μακρύ χρονικό διάστημα έως και δια βίου παράγοντας πολλά και εξειδικευμένα αντισώματα να το αντιμετωπίσουν αποτελεσματικότερα όταν χρειαστεί.</p>
+
+<p>Τα παλαιότερης τεχνολογίας εμβόλια περιείχαν μόνο την πολυσακχαριδική κάψα του μικροβίου με αποτέλεσμα να κρίνεται αναγκαία η επαναχορήγηση τους ανά τακτά χρονικά διαστήματα</p>
+
+<p>Συνοψίζοντας τα πλεονεκτήματα της προσφέρει:</p>
+
+<p>1. Μακρά ‘ανοσιακή μνήμη’. Ο οργανισμός θυμάται το μικρόβιο για μακρύ χρονικό διάστημα έως και δια βίου (τα παλαιά πολυσακχαριδικά εμβόλια ήθελαν επανάληψη ανά τακτά χρονικά διαστήματα). Έτσι με μια μόνο εμβολιαστική δόση (στους ενήλικες) μπορεί να θωρακίσουμε τον οργανισμό μας δια βίου.</p>
+
+<p>2. Υψηλότερο τίτλο εξειδικευμένων αντισωμάτων. Κατά την επαφή με το μικρόβιο παράγονται περισσότερα και ειδικά αντισώματα (σε σχέση με τα παλαιότερης τεχνολογίας εμβόλια) έτσι ώστε να καταπολεμηθεί αποτελεσματικότερα ο εισβολέας στον οργανισμό μας </p>
+
+<p>3. Αποτελεσματικότερη καταπολέμηση της μικροβιακής αντοχής. Η αλόγιστη χρήση των αντιβιοτικών δημιουργεί ανθεκτικότερα μικρόβια που αυτά με τη σειρά τους χρειάζονται περισσότερα και αποτελεσματικότερα αντιβιοτικά για να καταπολεμηθούν. Ο αποτελεσματικός εμβολιασμός προλαμβάνει την νόσο και σπάει τον φαύλο κύκλο της δημιουργίας ανθεκτικών στα αντιβιοτικά υπέρ-μικροβίων.</p>
+
+<p>
+	<span class="HeadArticle1">Σχετικά με τη χρήση του Prevenar 13 σε ενηλίκους 50 ετών και άνω</span></p>
+
+<p>Το Prevenar 13 (συζευγμένο πολυσακχαριδικό πνευμονιοκοκκικό εμβόλιο [13-δυναμο, προσροφημένο]) έλαβε έγκριση από την Ευρωπαϊκή Επιτροπή τον Οκτώβριο του 2011, για την επέκταση της ένδειξής του βάσει της ευρωπαϊκής άδειας κυκλοφορίας του για την ενεργή ανοσοποίηση με στόχο την πρόληψη μέσω εμβολίου της διεισδυτικής νόσου που προκαλείται από το Streptococcus pneumoniae σε ενήλικες ηλικίας 50 ετών και άνω.</p>
+
+<p>Η διεισδυτική πνευμονιοκοκκική νόσος (ΔΠΝ), συμπεριλαμβανομένων των δύο πιο συχνών εκδηλώσεών της, της βακτηριακής πνευμονίας και της μηνιγγίτιδας, είναι ένα κορυφαίο πρόβλημα δημόσιας υγείας με σημαντική σχετιζόμενη νοσηρότητα και θνησιμότητα σε παγκόσμιο επίπεδο. Περίπου το 80% της ΔΠΝ στους ενήλικες είναι βακτηριακή πνευμονία.</p>
+
+<p>Prevenar 13: Το μοναδικό συζευγμένο πνευμονιοκοκκικό εμβόλιο για ενηλίκους ηλικίας 50 ετών και άνω. Το Prevenar 13 παρέχει κάλυψη ενάντια στους 13 πιο συχνούς πνευμονιοκοκκικούς ορότυπους που προκαλούν τη νόσο σε ενήλικες, συμπεριλαμβανομένων εκείνων που σχετίζονται με αυξημένη θνησιμότητα καθώς και αντίσταση στα αντιβιοτικά.</p>
+
+<p>Σύμφωνα με την Ευρωπαϊκή Περίληψη Χαρακτηριστικών Προϊόντος, το Prevenar 13 θα πρέπει να χορηγείται κατά προτεραιότητα άσχετα από την προηγούμενη κατάσταση εμβολιασμού κατά του πνευμονιόκοκκου, εφόσον το δοσολογικό σχήμα του απλού πολυσακχαρδικού πνευμονιοκοκκικού εμβολίου θεωρείται σκόπιμο.</p>
+
+<p>Το Prevenar 13 είναι το μοναδικό συζευγμένο εμβόλιο που λαμβάνει έγκριση από την Ευρωπαϊκή Επιτροπή για ενηλίκους ηλικίας 50 ετών και άνω για την πρόληψη της διεισδυτικής πνευμονιοκοκκικής νόσου.</p>
+
+<p>Μέσω της τεχνολογίας των πνευμονιοκοκκικών συζευγμάτων που χρησιμοποιείται στο Prevenar 13, οι αλυσίδες των πολυσακχαριτών που υπάρχουν στην επιφάνεια κάθε βακτηριακού στελέχους προσαρτώνται σε μια πρωτεΐνη-μεταφορέα.</p>
+
+<p>Το Prevenar 13 χρησιμοποιεί την πρωτεΐνη-μεταφορέα CRM197, η οποία συμπληρώνει περισσότερα από 20 έτη εμπορικής χρήσης σε εμβόλια.</p>
+
+<p>Μέσω της χρήσης μιας πρωτεΐνης-μεταφορέα, ένα συζευγμένο εμβόλιο ενεργοποιεί αρκετές οδούς του ανοσοποιητικού συστήματος και θεωρείται ότι εδραιώνει μια ‘ανοσολογική μνήμη’.</p>
+
+<p>Το Prevenar 13 έχει μελετηθεί εκτενώς σε κλινικές μελέτες Φάσης 3 Το πρόγραμμα κλινικών μελετών για τη χρήση του Prevenar 13 συμπεριέλαβε περισσότερους από 6.000 ενήλικες ηλικίας 50 ετών και άνω.</p>
+
+<p>Οι μελέτες αναφοράς κατέδειξαν ότι σε ενήλικες ηλικίας 50 ετών και άνω που δεν έχουν εμβολιαστεί προηγουμένως και είναι ανοσοποιημένοι, το Prevenar 13:1 Προκάλεσε μη κατώτερη αντι-πνευμονιοκοκκική λειτουργική ανταπόκριση συγκρίσιμη με αυτή του υπάρχοντος εγκεκριμένου πολυσακχαρδικού πνευμονιοκοκκικού εμβολίου (PPV) σε όλους τους κοινούς ορότυπους.</p>
+
+<p>Προκάλεσε μεγαλύτερη αντι-πνευμονιοκοκκική λειτουργική ανοσολογική ανταπόκριση από το PPV στην πλειονότητα των κοινών ορότυπων.</p>
+
+<p>Σε ασθενείς ηλικίας 60 με 64 ετών που δεν είχαν εμβολιαστεί προηγουμένως, το Prevenar 13 προκάλεσε στατιστικά σημαντική υψηλότερη ανοσολογική ανταπόκριση σε σύγκριση με το PPV για τους οκτώ κοινούς ορότυπους και για τον ορότυπο 6Α, ο οποίος είναι μοναδικός στο Prevenar 13. Επιπροσθέτως, το Prevenar 13 αποδείχθηκε πως είναι εξίσου ανοσογόνο σε ενήλικες ηλικίας 50 με 59 ετών και ενήλικες ηλικίας 60 με 64 ετών για όλους τους ορότυπους που περιέχονται στο εμβόλιο.</p>
+
+<p>Η απόφαση της ΕΕ επιτρέπει τη χρήση μονής δόσης του Prevenar 13 σε ενήλικες ηλικίας 50 ετών και άνω και υποστηρίζει την ταυτόχρονη χορήγηση του Prevenar 13 με το τριδύναμο αδρανοποιημένο εμβόλιο της εποχικής γρίπης (TIV).</p>
+
+<p>Στις κλινικές μελέτες, το Prevenar 13 βρέθηκε να έχει αποδεκτό προφίλ ασφαλείας σε ενήλικες ηλικίας 50 ετών και άνω.</p>
+
+<p>
+	<span class="HeadArticle1">Διεισδυτική Πνευμονιοκοκκική Νόσος (ΔΠΝ)</span></p>
+
+<p>Η πνευμονιοκοκκική νόσος (ΠΝ) προκαλείται από το βακτήριο Streptococcus pneumoniae, γνωστό και ως πνευμονιόκοκκος, το οποίο μπορεί να προσβάλλει ανθρώπους όλων των ηλικιών, παρόλο που τα μικρά παιδιά, οι μεγαλύτερης ηλικίας ενήλικες και τα άτομα με συγκεκριμένες χρόνιες ιατρικές παθήσεις διατρέχουν αυξημένο κίνδυνο. Η πνευμονιοκοκκική νόσος μπορεί να οδηγήσει σε σημαντική νοσηρότητα και θνησιμότητα στους ηλικιωμένους ενήλικες.</p>
+
+<p>Αν και λιγότερο συχνή από τη μη διεισδυτική πνευμονιοκοκκική νόσο, η διεισδυτική πνευμονιοκοκκική νόσος (ΔΠΝ) είναι συνήθως πιο σοβαρή. </p>
+
+<p>Εκδηλώνεται όταν βακτήρια εισβάλλουν σε μέρη του σώματος που συνήθως δεν απαντώνται βακτήρια, όπως το αίμα ή το εγκεφαλονωτιαίο υγρό και περιλαμβάνει τη βακτηριακή πνευμονία (λοίμωξη των πνευμόνων με βακτήρια στο αίμα), τη βακτηριαιμία (βακτήρια στο αίμα) και τη μηνιγγίτιδα (λοίμωξη των ιστών που περιβάλλουν τον εγκέφαλο και το νωτιαίο μυελό). </p>
+
+<p>Βάσει των επιδημιολογικών μελετών, περίπου το 80% της διεισδυτικής πνευμονιοκοκκικής νόσου σε ενήλικες είναι βακτηριακή πνευμονία.</p>
+
+<p>
+	<span class="HeadArticle1">Φορτίο της Νόσου</span></p>
+
+<p>Η ΔΠΝ είναι μια σοβαρή νόσος με υψηλό προσωπικό και κοινωνικό κόστος και το φορτίο αναμένεται να αυξηθεί καθώς ο πληθυσμός γηράσκει.</p>
+
+<p>Ακόμη και σε οικονομικά ανεπτυγμένες περιοχές, η ΔΠΝ έχει υψηλή θνησιμότητα.</p>
+
+<p>Στην Ευρώπη και τις Ηνωμένες Πολιτείες, η ετήσια επίπτωση της ΔΠΝ μπορεί να φτάνει και τις 85 περιπτώσεις ανά 100.000 ασθενείς.</p>
+
+<p>Στην Αγγλία και την Ουαλία, η εκτίμηση για το κόστος ανά εισαγωγή στο νοσοκομείο για ασθενείς με ΔΠΝ ηλικίας 65 ετών και άνω ανήλθε περίπου σε 8.360€ (σύμφωνα με στοιχεία του 1999). Η μέση διάρκεια νοσηλείας κυμάνθηκε από 13 έως 18 ημέρες στο νοσοκομείο για άτομα μη υψηλού κινδύνου ηλικίας 65 ετών και άνω, κατά τη διάρκεια της περιόδου από το 1995 έως το 1998.</p>
+
+<p>Παρομοίως στην Τσεχία, το συνολικό άμεσο κόστος 156 ασθενών που νοσηλεύθηκαν με μηνιγγίτιδα, μια σοβαρή μορφής της ΔΠΝ, την περίοδο 2000-2006, ήταν 22.180.080 CZK (Τσεχικές Κορώνες) (περίπου 883.000€). </p>
+
+<p>Επιπλέον, οι ασθενείς παρέμειναν στο νοσοκομείο κατά μέσο όρο για 23 ημέρες.</p>
+
+<p>
+	<span class="HeadArticle1">Αιτίες</span></p>
+
+<p>Τα πνευμονιοκοκκικά βακτήρια μεταδίδονται με την έκθεση σε σταγονίδια – συμπεριλαμβανομένων του βήχα και του φτερνίσματος- από ένα άτομο που έχει προσβληθεί ή είναι φορέας των βακτηρίων.</p>
+
+<p>
+	<span class="HeadArticle1">Παράγοντες Κινδύνου</span></p>
+
+<p>Ηλικία: Το κατά πόσο το άτομο είναι ευάλωτο στην ΔΠΝ έχει σαφή σχέση με την ηλικία.</p>
+
+<p>Η ΔΠΝ μπορεί να προσβάλει ανθρώπους κάθε ηλικίας, αλλά οι ηλικιωμένοι ενήλικες, καθώς και τα βρέφη, διατρέχουν ιδιαίτερο κίνδυνο.</p>
+
+<p>Ο επιπολασμός και η σοβαρότητα ορισμένων λοιμωδών νοσημάτων αυξάνουν με την ηλικία των ασθενών, εν μέρει εξαιτίας της γήρανσης του ανοσοποιητικού συστήματος.</p>
+
+<p>Υποκείμενα προβλήματα υγείας: Η ανάπτυξη συνοσηρότητας ή υποκείμενων προβλημάτων υγείας που είναι πιο διαδεδομένα σε μεγαλύτερες ηλικίες, επίσης αυξάνει τον κίνδυνο πνευμονιοκοκκικής λοίμωξης.</p>
+
+<p>Σε αυτά περιλαμβάνονται:</p>
+
+<ul>
+	
+<li>αλκοολισμός </li>
+	
+<li>άσθμα </li>
+	
+<li>κάπνισμα </li>
+	
+<li>ΧΑΠ (Χρόνια Αποφρακτική Πνευμονοπάθεια) </li>
+	
+<li>διαβήτης </li>
+</ul>
+
+<p>Προηγούμενη αναπνευστική ιϊκή λοίμωξη (π.χ. γρίπη) Καρδιοπάθεια, ηπατική ή νεφρική νόσος δρεπανοκυτταρική νόσος.</p>
+
+<p>
+	<span class="HeadArticle1">Συμπτώματα</span></p>
+
+<p>Τα συμπτώματα της ΔΠΝ ποικίλλουν ανάλογα με τον ιδιαίτερο τύπο της κλινικής νόσου και της σοβαρότητάς της. Παραδείγματος χάριν, τα συμπτώματα της πνευμονιοκοκκικής μηνιγγίτιδας μπορούν να περιλαμβάνουν πυρετό, κεφαλαλγία και δυσκαμψία του αυχένα, ενώ στα συμπτώματα της πνευμονιοκοκκικής πνευμονίας μπορούν να περιλαμβάνονται πυρετός, ρίγη, βήχας και δύσπνοια.</p>
+
+<p>
+	<span class="HeadArticle1">Διάγνωση</span></p>
+
+<p>Οι ιατροί μπορούν να διαγνώσουν την ΔΠΝ βάσει της συμπτωματολογίας, μιας σωματικής εξέτασης και κάνοντας ιατρικές εξετάσεις. Στις ιατρικές εξετάσεις περιλαμβάνονται η ακτινογραφία θώρακος και η λήψη δειγμάτων για την εύρεση των βακτηρίων στο προσβεβλημένο μέρος του σώματος (π.χ. αίμα ή εγκεφαλονωτιαίο υγρό).</p>
+
+<p>
+	<span class="HeadArticle1">Θεραπεία και Πρόληψη</span></p>
+
+<p>Παρόλο που οι πνευμονιοκοκκικές λοιμώξεις μπορούν να θεραπευτούν με αντιβιοτικά, η αντίσταση του Streptococcus pneumoniae στα αντιβιοτικά είναι ένα πρόβλημα που συνεχώς αυξάνεται σε όλη την Ευρώπη. Το Ευρωπαϊκό Κέντρο Πρόληψης και Ελέγχου Νοσημάτων ενημερώνει ότι η ανοσοποίηση έχει δείξει ότι μειώνει τον επιπολασμό των ανθεκτικών στα αντιβιοτικά πνευμονιόκοκκων.</p></p>
+	                        
+                
+                <fb:like show_faces="false" width="500" font="tahoma"></fb:like>
+
+                <div class="spcr"></div>
+
+                <b class="b1"></b><b class="b2"></b>
+                    <div class="bxb">
+                        <div id="articletools">
+                        <div class="left">
+                        <a href="emailarticle.asp?art_id=17044"><img src="http://s46.abimg.gr/img/icon_mail.gif" alt="Αποστολή με email"> Αποστολή</a>
+                        <a href="javascript:window.print();"><img src="http://s46.abimg.gr/img/icon_print.gif" alt="Εκτύπωση"> Εκτύπωση</a> 
+                        <img src="http://s46.abimg.gr/img/icon_textsize.gif" alt="Μέγεθος κειμένου"> Μέγεθος κειμένου <a href="javascript:;" onClick="setActiveStyleSheet('default');return false;" style="padding:0"><img src="http://s46.abimg.gr/img/icon_zoom_out.gif" alt="Σμίκρυνση"></a> <a href="javascript:;" onClick="setActiveStyleSheet('big');return false;"><img src="http://s46.abimg.gr/img/icon_zoom_in.gif" alt="Μεγέθυνση"></a>
+                        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=iatronet" style="padding:0" target="_blank"><img src="http://s46.abimg.gr/img/icon_share.gif" alt="Μοιραστείτε το"> Μοιραστείτε το:</a>
+                        </div>
+                        <div class="right"><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_linkedin"></a><a class="addthis_button_compact"></a></div>
+                        <div class="clear"></div>
+                        </div>
+                    </div>
+                <b class="b2"></b><b class="b1"></b>
+
+                <div class="spcr"></div>
+                <div class="spcr"></div>
+                <a href="/iatriko-forum/"><img src="http://s46.abimg.gr/img/iatriko_forum_btn.gif" alt="Έχετε απορίες; - Ρωτήστε τους Ειδικούς μας" /></a><a href="http://www.facebook.com/iatronet" target="_blank"><img src="http://s46.abimg.gr/img/facebook_btn.gif" alt="Ακολουθήστε το iatronet.gr στο facebook" hspace="10" /></a><a href="http://twitter.com/iatronet" target="_blank"><img src="http://s46.abimg.gr/img/twitter_btn.gif" alt="Ακολουθήστε το iatronet.gr στο twitter" /></a>
+                <div class="spcr"></div>
+                
+<div class="spcr"></div>
+
+
+<div class="spcr"></div><b class="b1"></b><b class="b2"></b><div class="bxhh"><h3>Σύνδεσμοι διαφημιζομένων</h3></div><div class="bxb"><div class="bxhdiv">
+<script type='text/javascript'>
+GA_googleFillSlot("TextAd");
+</script>
+<br />
+<a href="http://qsurvey.gmisurveys.com/dc/index.html?p=eK01Wd" target="_blank">«Τι άλλο πίνεις εκτός από γάλα? ...απάντησε και κέρδισε ένα ταξίδι στην Θεσσαλονίκη»</a>
+</div></div><b class="b2"></b><b class="b1"></b>
+
+<div class="spcr"></div>
+<div id="adv468">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7145532362585910";
+/* 300x250_articles, created 2/8/10 */
+google_ad_slot = "4745470400";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+				</div>
+				<div id="rightcol">
+
+			<a href="http://www.iatronet.gr/symptom-checker/" title="Έλεγχος συμπτωμάτων για εσάς και την οικογένειά σας"><img src="http://s46.abimg.gr/img/teaser-symchk-300x70.png" alt="Έλεγχος συμπτωμάτων για εσάς και την οικογένειά σας" /></a>
+            <div class="spcr"></div>
+            <a href="http://www.iatronet.gr/jobs/" title="Θέσεις Έργασίας - Γιατροί, Χειρουργοι, Ιατρικοι Επισκεπτες, Νοσοκομες και Επαγγέλματα Υγείας" class="left"><img src="http://s46.abimg.gr/img/teaser-jobs-145x60.png" alt="Θέσεις Έργασίας - Γιατροί, Χειρουργοι, Ιατρικοι Επισκεπτες, Νοσοκομες και Επαγγέλματα Υγείας" /></a>
+            <a href="http://www.iatronet.gr/iatriko-forum/" title="Ιατρικό Φόρουμ - Οι ειδικοί απαντούν στα ερωτήματά σας" class="right"><img src="http://s46.abimg.gr/img/teaser-forum-145x60.png" alt="Ιατρικό Φόρουμ - Οι ειδικοί απαντούν στα ερωτήματά σας" /></a>
+
+            <div class="spcr"></div>
+            <script type="text/javascript">ajaxpage('includes/endoscopemenu.asp','endoscopearea')</script>
+			<div id="endoscopearea"></div>
+            <script type="text/javascript">
+				startMarquee();
+			</script>
+
+			<div class="spcr"></div>
+
+                <b class="b1"></b><b class="b2c"></b>
+                    <div class="bxbc">
+                        <div class="bxbbdiv">
+							<div id="nwstbs_tabView2">
+								<div class="nwstbs_aTab">
+                                        <div class="ctlgmain">Ιατροί</div>
+                                        <div class="ctlgsub">
+                                            <div><img src="http://s46.abimg.gr/img/doctors.jpg"><a href="servdoctors.asp">Αναζητήστε εύκολα &amp; γρήγορα Ιατρούς<br>της ειδικότητας που σας ενδιαφέρει</a></div>
+                                        </div>
+                                        <div class="ctlgmain">Νοσοκομεία</div>
+                                        <div class="ctlgsub">
+                                            <div><img src="http://s46.abimg.gr/img/hospital.jpg"><a href="servhospitals.asp">Αναζητήστε Νοσοκομεία ανά περιοχή<br>&amp; δείτε ποια εφημερεύουν</a></div>
+                                        </div>
+                                        <div class="ctlgmain">Φαρμακεία</div>
+                                        <div class="ctlgsub">
+                                            <div><img src="http://s46.abimg.gr/img/pharmacy.jpg"><a href="servpharmas.asp">Αναζητήστε Φαρμακεία ανά περιοχή &amp;<br>δείτε τις εφημερίες σε Αθήνα &amp; Θεσ/νίκη</a></div>
+                                        </div>
+                                        <div class="ctlgmain">Διαγνωστικά Κέντρα</div>
+                                        <div class="ctlgsub">
+                                            <div><img src="http://s46.abimg.gr/img/diagnostics.jpg"><a href="servdcenters.asp">Αναζητήστε Διαγνωστικά Κέντρα<br>ανά περιοχή</a></div>
+                                        </div>
+                                        <div class="ctlgmain">Φαρμακευτικές Εταιρείες</div>
+                                        <div class="ctlgsub">
+                                            <div><img src="http://s46.abimg.gr/img/pharm_company.jpg"><a href="servphindustries.asp">Δείτε αναλυτικά στοιχεία για τις<br>Φαρμακευτικές Εταιρείες στην Ελλάδα</a></div>
+                                        </div>
+                                        <div class="ctlgmain">Υγεία στο Διαδίκτυο</div>
+                                        <div class="ctlgsub">
+                                            <div><img src="http://s46.abimg.gr/img/globe.jpg"><a href="entries.asp?en_id=6">Εδώ θα βρείτε κατηγοριοποιημένες<br>πηγές πληροφόρησης θεμάτων υγείας</a></div>
+                                        </div>
+								</div>
+								<div class="nwstbs_aTab">
+                                        <div class="ctlgmain">Δωρεάν Newsletter</div>
+                                        <div class="ctlgsub">
+                                            <div><a href="newsletter.asp">Ενημερωθείτε κάθε εβδομάδα για τα τελευταία άρθρα και νέα του iatronet.gr</a></div>
+                                        </div>
+                                        <div class="ctlgmain">Θερμιδομετρητής</div>
+                                        <div class="ctlgsub">
+                                            <div><a href="members/calcalc/">Μάθετε πόσες θερμίδες χρειάζεστε καθημερινά<br>για να διατηρήσετε το βάρος σας</a></div>
+                                        </div>
+                                        <div class="ctlgmain">Αξιολόγηση Κινδύνου Κατάθλιψης</div>
+                                        <div class="ctlgsub">
+                                            <div><a href="members/depression/">Μάθετε εάν εσείς ή κάποιο αγαπημένο σας πρόσωπο υποφέρετε από κατάθλιψη</a></div>
+                                        </div>
+                                        <div class="ctlgmain">Τι είδους Πονοκέφαλο έχετε;</div>
+                                        <div class="ctlgsub">
+                                            <div><a href="members/headache/">Συμπληρώστε τις ερωτήσεις και μάθετε από τι είδους πονοκέφαλο υποφέρετε</a></div>
+                                        </div>
+                                        <div class="ctlgmain">Ρωτήστε τους Ειδικούς</div>
+                                        <div class="ctlgsub">
+                                            <div><a href="iatriko-forum/sendquestion.asp">Υποβάλετε την ερώτηση ή απορία σας στους Συνεργάτες του iatronet.gr</a></div>
+                                        </div>
+								</div>
+                                <script type="text/javascript">
+									initShowHideCtlgs();
+								</script>
+							</div>
+							<script type="text/javascript">
+							initTabs('nwstbs_tabView2',Array('Κατάλογοι Υγείας','Υπηρεσίες Μελών'),0,290,100);
+							</script>
+                        </div>
+                    </div>
+                </b><b class="b2"></b><b class="b1"></b>
+				
+				<div id="adv300">Προβολή<br>
+				<script type='text/javascript'>
+GA_googleFillSlot("300x250_News");
+</script>
+				</div>
+				
+				<div class="spcr"></div>
+
+			
+                <b class="b1"></b><b class="b2"></b>
+                <div class="bxhh"><h3>Δείτε επίσης</h3></div>
+                    <div class="bxbb">
+                        <div class="bxbbdiv">
+							<div id="nwstbs_tabView3">
+								<div class="nwstbs_aTab">
+                                        <ul>
+										
+                                        <li><a href="newsarticle.asp?art_id=17030" onMouseOver="showWMTT('t17030')" onMouseOut="hideWMTT()">Μηχάνημα ανάγνωσης του DNA σε μια ημέρα</a><div class="tooltip" id="t17030">Μηχάνημα ανάγνωσης DNA σε μια ημέρα Εταιρία βιοτεχνολογίας ανακοίνωσε ότι ανέπτυξε μηχάνημα που αποκωδικοποιεί το ατομικό DNA σε μια ημέρα, με κόστος 1.000 δολάρια.</div></li>
+										
+                                        <li><a href="newsarticle.asp?art_id=17020" onMouseOver="showWMTT('t17020')" onMouseOut="hideWMTT()">Έρευνα συνδέει τις στατίνες με τον κίνδυνο εμφάνισης διαβήτη 2 σε μεγαλύτερες γυναίκες</a><div class="tooltip" id="t17020">Οι στατίνες μπορεί ενδεχομένως να αυξήσουν την πιθανότητα εμφάνισης διαβήτη 2 σε ορισμένους ανθρώπους.
+
+</div></li>
+										
+                                        <li><a href="newsarticle.asp?art_id=16988" onMouseOver="showWMTT('t16988')" onMouseOut="hideWMTT()">Γιατί ορισμένοι άνθρωποι ξεπερνούν τα 110 χρόνια</a><div class="tooltip" id="t16988">Άνθρωποι που ζουν 110 χρόνια ή περισσότερο έχουν ίδιο αριθμό γονιδίων σχετιζόμενων με νόσους με ανθρώπους στο γενικό πληθυσμό, αλλά μπορεί ενδεχομένως να ωφελούνται από την παρουσία προστατευτικών γονιδίων που τους βοηθούν να ζουν τόσα χρόνια, αναφέρουν ερευνητές.
+
+</div></li>
+										
+                                        <li><a href="newsarticle.asp?art_id=16944" onMouseOver="showWMTT('t16944')" onMouseOut="hideWMTT()">Ο Γ. Παπανδρέου υποβλήθηκε σε αφαίρεση κύστης </a><div class="tooltip" id="t16944">Ο Πρόεδρος του ΠΑΣΟΚ, κ. Γεώργιος Παπανδρέου, υποβλήθηκε με τοπική αναισθησία σε αφαίρεση κύστης αριστεράς παρειάς.</div></li>
+										
+                                        <li><a href="newsarticle.asp?art_id=16942" onMouseOver="showWMTT('t16942')" onMouseOut="hideWMTT()">&#8242;Ερρίκος Ντυνάν&#8242;: μείωση πληρότητας και κατάληψη εργαζομένων</a><div class="tooltip" id="t16942">Δραματικά μειωμένη είναι η πληρότητα του νοσοκομείου 'Ερρίκος Ντυνάν' στο ξεκίνημα του 2012, καθώς σήμερα, οι νοσηλευόμενοι ασθενείς είναι μόλις 44, επί δυναμικότητας 230 κλινών.
+
+</div></li>
+										
+                                        </ul>
+								</div>
+								<div class="nwstbs_aTab">
+                                        <ul>
+				
+									
+											<li><a href="article.asp?art_id=4386" onMouseOver="showWMTT('t4386')" onMouseOut="hideWMTT()">1. Κρυολόγημα: Συμπτώματα και επιπλοκές</a><div class="tooltip" id="t4386">Το κοινό κρυολόγημα είναι ο τυπικός όρος που χρησιμοποιείται για να περιγραφεί μια ιογενής λοίμωξη της ανώτερης αναπνευστικής οδού. Είναι ήπιο με απότομη έναρξη και βραχεία πορεία, αυτοπεριοριζόμενο και σπάνια προκαλεί σοβαρές επιπλοκές.</div></li>
+											
+											<li><a href="article.asp?art_id=4405" onMouseOver="showWMTT('t4405')" onMouseOut="hideWMTT()">2. Η φαρμακευτική αντιμετώπιση του κρυολογήματος</a><div class="tooltip" id="t4405">Δεν υπάρχει φάρμακο για τη θεραπεία του κοινού κρυολογήματος αλλά οι προσπάθειες αντιμετώπισης εστιάζονται στην ανακούφιση των συμπτωμάτων. Επομένως, ο ρόλος του φαρμακοποιού είναι να επιλέξει την κατάλληλη θεραπεία βάσει των συμπτωμάτων του ασθενή.</div></li>
+											
+											<li><a href="article.asp?art_id=1189" onMouseOver="showWMTT('t1189')" onMouseOut="hideWMTT()">α. Ιστορικό της ΜΚΟ Τηλεειδοποίησης & Βοήθειας στο Σπίτι</a><div class="tooltip" id="t1189">Η ευαίσθητη κοινωνική ομάδα των ηλικιωμένων (65 ετών και άνω) αριθμεί στην Ελλάδα 2.500.000 ανθρώπους και αποτελεί το 19% του πληθυσμού της χώρας μας.</div></li>
+											
+											<li><a href="article.asp?art_id=1190" onMouseOver="showWMTT('t1190')" onMouseOut="hideWMTT()">β. Προφίλ Γραμμής Ζωής για ηλικιωμένους</a><div class="tooltip" id="t1190">Έχει πρόγραμμα δράσης για παροχή φροντίδας, προστασίας και ασφάλειας στους ηλικιωμένους, συνεργαζόμενη με τις Διευθύνσεις Κοινωνικής Μέριμνας των Δήμων.</div></li>
+											
+											<li><a href="article.asp?art_id=1191" onMouseOver="showWMTT('t1191')" onMouseOut="hideWMTT()">γ. Στόχοι της ΜΚΟ ΓΡΑΜΜΗ ΖΩΗΣ</a><div class="tooltip" id="t1191">Τα στελέχη του Συντονιστικού Κέντρου Διαχείρισης Κλήσεων της ΜΚΟ ΓΡΑΜΜΗ ΖΩΗΣ, ενεργοποιούν έναν ανθρώπινο μηχανισμό από εξειδικευμένα στελέχη της οργάνωσης, ομάδες εθελοντών, αλλά και φορείς της πολιτείας, προκειμένου να συνδράμουν τον ηλικιωμένο τη δεδομένη στιγμή.</div></li>
+											
+                                        </ul>
+								</div>
+								<div class="nwstbs_aTab">
+                                <ul>
+								
+                                    <li><a href="iatriko-forum/pathologia/question/7920/">Πότε υπαρχει συχνοουρια?Τι βλαβες προκαλει ??</a></li>
+                                 
+                                    <li><a href="iatriko-forum/pathologia/question/7888/">Φαρμακα χοληστειρινη τριγλυκεριδιων παρενεργειες</a></li>
+                                 
+                                    <li><a href="iatriko-forum/pathologia/question/7842/">Βγαζω συχνα αφθες</a></li>
+                                 
+                                    <li><a href="iatriko-forum/pathologia/question/7834/">Ιδανικη ποσσοτητα νερου</a></li>
+                                 
+                                    <li><a href="iatriko-forum/pathologia/question/7830/">Μουδιασμα στα δαχτυλα </a></li>
+                                 
+                                    <li><a href="iatriko-forum/pathologia/question/7827/">Πιεση-καψιμο στομαχου</a></li>
+                                 
+                                   </ul>
+								</div>
+							</div>
+							<script type="text/javascript">
+							initTabs('nwstbs_tabView3',Array('Ειδήσεις','Σχετικά Άρθρα','Ερωτήσεις Χρηστών'),0,290,100);
+							</script>
+                        </div>
+                    </div>
+                <b class="b2"></b><b class="b1"></b>
+		
+
+				<script type="text/javascript">ajaxpage('includes/todayarticles.asp','todayarticles')</script>
+                <div id="todayarticles"></div>
+
+<div class="spcr"></div>
+<b class="b1"></b><b class="b2"></b>
+<div class="bxhh"><h3><img src="http://s46.abimg.gr/img/icon_facebook_boxtitle.gif" align="right" style="margin-top:1px;">Συστάσεις</h3></div>
+<fb:recommendations site="iatronet.gr" font="tahoma" border_color="#BBDAEF" header="false" style="margin-top:-1px;"></fb:recommendations>
+
+<div class="spcr"></div>
+<iframe src="http://www.euro2day.gr/content_boxes/news_300.aspx" style="width:300px; height:330px;" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="300" height="120"><param name="movie" value="http://s46.abimg.gr/files/altzheimer_hellas_300x120b.swf" /><param name="quality" value="high" /><embed src="http://s46.abimg.gr/files/altzheimer_hellas_300x120b.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="120"></embed></object>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+		<div class="spcr"></div>
+
+		<div id="ftr">
+            <div class="col">
+                <h3>Το «ευ ζην» με ένα κλικ!</h3>
+                <ul>
+                    <li><a href="ygeia.asp">Υγεία</a></li>
+                    <li><a href="diatrofi.asp">Διατροφή</a></li>
+                    <li><a href="omorfia.asp">Ομορφιά</a></li>
+                    <li><a href="fysiki-katastasi.asp">Φυσική Κατάσταση</a></li>
+                    <li><a href="sex-zoi.asp">Σεξ &amp; Ζωή</a></li>
+                    <li><a href="narkotika-alcool.asp">Ναρκωτικά - Αλκοόλ</a></li>
+                    <li><a href="category.asp?cat_id=348">Τέρψη &amp; Ζωή</a></li>
+                    <li><a href="ktiniatriki.asp">Κτηνιατρική</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h3><a href="newscategory.asp">Ειδήσεις - Νέα</a></h3>
+                <ul>
+                    <li><a href="newscategory.asp?cat_id=333">Επιστήμη &amp; Ζωή</a></li>
+                    <li><a href="newscategory.asp?cat_id=334">Υγεία &amp; Business</a></li>
+                    <li><a href="newscategory.asp?cat_id=335">Περίθαλψη &amp; Ασφάλιση</a></li>
+                    <li><a href="newscategory.asp?cat_id=336">Προϊόντα &amp; Υπηρεσίες</a></li>
+                    <li><a href="newscategory.asp?cat_id=385">Βουλή &amp; Υγεία</a></li>
+                    <li><a href="newscategory.asp?cat_id=505">Εταιρική Κοινωνική Ευθύνη</a></li>
+                    <li><a href="newscategory.asp?cat_id=337">Συνεντεύξεις</a></li>
+                    <li><a href="newscategory.asp?cat_id=338">Απόψεις - Σχόλια</a></li>
+                    <li><a href="newscategorydrugs.asp">Προειδοποιήσεις Φαρμάκων</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h3><a href="video/">Video</a></h3>
+                <div class="spcr"></div>
+                <h3><a href="entries.asp?en_id=81">Κατάλογοι Υγείας</a></h3>
+                <ul>
+                    <li><a href="servdoctors.asp">Ιατροί</a></li>
+                    <li><a href="servhospitals.asp">Νοσοκομεία</a></li>
+                    <li><a href="servpharmas.asp">Φαρμακεία</a></li>
+                    <li><a href="servdcenters.asp">Διαγνωστικά Κέντρα</a></li>
+                    <li><a href="servphindustries.asp">Φαρμακευτικές Εταιρείες</a></li>
+                    <li><a href="entries.asp?en_id=6">Υγεία στο Διαδίκτυο</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h3>Πρόσθετα</h3>
+                <ul>
+                    <li><a href="symptom-checker/">Έλεγχος συμπτωμάτων</a></li>
+                    <li><a href="iatriko-forum/">Ιατρικό Φόρουμ</a></li>
+                    <li><a href="jobs/">Θέσεις Έργασίας</a></li>
+                    <li><a href="endoscope.asp">Ενδοσκόπιο</a></li>
+                    <li><a href="quizzes.asp">Εργαλεία &amp; Quiz</a></li>
+                    <li><a href="http://gripi.iatronet.gr">Αφιέρωμα στη Γρίπη</a></li>
+                    <li><a href="newsletter.asp">Δωρεάν Ενημερώσεις</a></li>
+                    <li><a href="authors.asp">Δίκτυο Συνεργατών</a></li>
+                    <li><a href="pollresults.asp">Δημοσκοπήσεις</a></li>
+                    <li><a href="http://www.facebook.com/iatronet" target="_blank"><img src="http://s46.abimg.gr/img/icon_facebook.gif" width="10" height="10" style="margin-bottom:-1px;"> Το iatronet.gr στο facebook</a></li>
+                    <li><a href="http://twitter.com/iatronet" target="_blank"><img src="http://s46.abimg.gr/img/icon_twitter.gif" width="10" height="10" style="margin-bottom:-1px;"> Το iatronet.gr στο twitter</a></li>
+                </ul>
+            </div>
+            
+			<div class="colright">
+                <h3>Πιστοποίηση</h3>
+                <a href="https://www.hon.ch/HONcode/Greek/?HONConduct411367" target="_blank"><img src="http://www.honcode.ch/HONcode/Seal/HONConduct411367_s.gif" width="49" height="72" title="Πληρούμε τις προδιαγραφές του κώδικα δεοντολογίας «Health on the Net» (HON) περί αξιόπιστων πληροφοριών υγείας: επιβεβαιώστε" /></a>
+				Πληρούμε τις προδιαγραφές του <a href="http://www.hon.ch/HONcode/Greek/" target="_blank">κώδικα δεοντολογίας «Health on the Net» (HON) περί αξιόπιστων πληροφοριών υγείας</a>: <a href="https://www.hon.ch/HONcode/Greek/?HONConduct411367" target="_blank"><b>επιβεβαιώστε</b></a>
+                <div class="clear"></div>
+                <h4><a href="widgets/"><img src="http://s46.abimg.gr/img/icon_widget.gif">Widgets</a></h4>
+                <a href="widgets/">Ενσωματώστε περιεχόμενο του iatronet στο site ή στο blog σας</a>
+            </div>
+            
+            <div class="clear"></div>
+		</div>
+
+		<div id="ftr">
+            <div class="left">
+	            &copy; iatronet.gr 1999-2012 &nbsp;|&nbsp; Website by <a href="http://www.theratron.gr" target="_blank">Theratron</a> | <a href="entries.asp?en_id=78">Ermis Silver Award 2006</a>
+            </div>
+            <div class="right">
+				<a href="default.asp">Αρχική Σελίδα</a> | <a href="entries.asp?en_id=1">Ταυτότητα</a> | <a href="entries.asp?en_id=4">Επικοινωνία</a> | <a href="entries.asp?en_id=2">Όροι Χρήσης</a> | <a href="entries.asp?en_id=3">Προσωπικά Δεδομένα</a> | <a href="http://ads.iatronet.gr" target="_blank">Διαφημιστείτε στο iatronet.gr</a>
+            </div>
+            <div class="clear"></div>
+		</div>
+	</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-186778-1";
+urchinTracker();
+</script>
+
+<!-- START Nielsen Online SiteCensus V6.0 --><!-- COPYRIGHT 2009 Nielsen Online -->
+<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+ var pvar = { cid: "gr-euro2day", content: "0", server: "secure-uk" };
+ var feat = { surveys_enabled: 1, sample_rate: 0.05 };
+ var trac = nol_t(pvar, feat);
+ var _rsND = trac.getSchemeHost(); // For compatibility with v53 surveys
+ var _rsCI = "gr-euro2day"; // For compatibility with v53 surveys
+ trac.record().post().do_sample();
+</script>
+<noscript><div><img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=gr-euro2day&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" /></div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<script type='text/javascript'>
+GA_googleFillSlot("Webover_News");
+</script>
+</body>
+</html>

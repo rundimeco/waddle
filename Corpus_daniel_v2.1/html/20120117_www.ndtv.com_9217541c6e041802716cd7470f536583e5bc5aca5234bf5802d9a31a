@@ -1,0 +1,911 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+        <meta name="description" content="Patients at a New York City hospital are getting billed for tens of millions of dollars because of a computer error." >
+<meta name="keywords" content="hospital bill error, hospital bill in millions" >
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<title>Hospital mistakenly bills patients for millions</title>
+<link href="http://cdn.ndtv.com/static/css/inside.css?version-01-01-2012" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://feeds2.feedburner.com/NdtvNews-TopStories" rel="alternate" type="application/rss+xml" title="NDTV Top Stories" >
+<link href="http://cdn.ndtv.com/static/css/colorbox.css?version-1" media="screen" rel="stylesheet" type="text/css" >
+<meta property="og:title" content="Hospital mistakenly bills patients for millions"/>
+<meta property="og:image" content="http://cdn.ndtv.com/static/images/ndtv_logo_black.gif"/>
+<meta property="og:url" content="http://www.ndtv.com/article/world/hospital-mistakenly-bills-patients-for-millions-167705"/>
+<meta property="og:site_name" content="NDTV.com"/>
+<meta property="og:description" content="Patients at a New York City hospital are getting billed for tens of millions of dollars because of a computer error."/>
+        <link rel="shortcut icon" href="http://www.ndtv.com//favicon.ico" type="image/x-icon" />
+        <link href="http://www.ndtv.com/news/css/homepage_common.css?version-09112011" rel="stylesheet" type="text/css" />
+        <link href="http://www.ndtv.com/news/css/new_homepage_all.css?version-04012011" rel="stylesheet" type="text/css"/>
+        <script language='JavaScript' type='text/javascript' src='http://www.ndtv.com/news/js/customsymb.min.js?version-04012011'></script>
+        
+<script type="text/javascript" src="http://cdn.ndtv.com/static/js/common_script.js?version-04012011"></script>
+<script type="text/javascript" src="http://cdn.ndtv.com/static/js/script.js?version-04012011"></script>
+<script type="text/javascript">
+    //<!--
+
+    var mobile_article_page = 'http://www.ndtv.com/article/view/world/167705?device=iphone';
+    JS_Mobile_Redirect();
+    //-->
+</script>
+<script type="text/javascript" src="http://cdn.ndtv.com/static/js/jquery.colorbox-min.js?version-1"></script>
+        <script type="text/javascript">
+            set_image_url('http://cdn.ndtv.com/static/images/');
+            var base_url = 'http://www.ndtv.com/';
+            var _sf_startpt=(new Date()).getTime();
+            document.domain="ndtv.com";
+        </script>
+        <style type="text/css">
+            @font-face {
+                font-family: 'RupeeForadianRegular';
+                src: url('http://www.ndtv.com/static/fonts/rupee_foradian.eot');
+                src: local('☺'), url('http://www.ndtv.com/static/fonts/rupee_foradian.ttf') format('truetype'), url('http://www.ndtv.com/static/fonts/rupeeforadian-webfont.svg#webfontR5hylf0C') format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+
+            .rupee {font-family: 'RupeeForadianRegular';}
+            .rupee span {position:absolute;text-indent: -9999em;left:-9999em;}
+
+            .fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
+               display: none !important;
+            }
+        </style>
+        <!-- Begin comScore Tag -->
+            <script>
+              var _comscore = _comscore || [];
+              _comscore.push({ c1: "2", c2: "9548033" });
+              (function() {
+                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                el.parentNode.insertBefore(s, el);
+              })();
+            </script>
+            <noscript>
+              <img src="http://b.scorecardresearch.com/p?c1=2&c2=9548033&cv=2.0&cj=1" />
+            </noscript>
+        <!-- End comScore Tag -->
+                    <link rel="canonical" href="http://www.ndtv.com/article/world/hospital-mistakenly-bills-patients-for-millions-167705" />
+            </head>
+
+    <body>
+                
+        
+
+
+
+
+
+
+
+
+
+<div style="margin-bottom:0;" class="globalnav clr">
+    <div class="globalbar clr">
+        <div class="globalbar_wrap">
+            <div class="globalbar_nav">
+                <ul>
+                    <li class="current"><a title="NDTV" href="http://www.ndtv.com/">NDTV</a></li>
+                    <li><a title="NDTV Profit" href="http://profit.ndtv.com/">Profit</a></li>
+                    <li><a title="Khabar" href="http://khabar.ndtv.com/">Khabar</a></li>
+                    <li><a title="Movies" href="http://movies.ndtv.com/">Movies</a></li>
+                    <li><a title="Cricket" href="http://sports.ndtv.com/cricket">Cricket</a></li>
+                    <li><a title="Good Times" href="http://goodtimes.ndtv.com/">Good Times</a></li>
+                    <li class="last"><a  title="Recipes" href="http://cooks.ndtv.com/">Recipes</a></li>
+                </ul>
+            </div>
+            <div class="global_social">
+                <!--span class="so_gmail"></span-->
+                <!-- <a href="http://www.facebook.com/campaign/landing.php?campaign_id=237467320636">
+                    <span class="so_fbook"></span>
+                </a>
+                <a href="http://www.ndtv.com/news/redirect/url.php?from=headerIcon&amp;forward_url=http://twitter.com/ndtv">
+                    <span class="so_tweet"></span>
+                </a> -->
+                <a href="http://www.ndtv.com/rss">
+                    <span class="so_rss"></span>
+                </a>
+                <form method="get" name="searchform" action="http://www.ndtv.com/search" class="float_l">
+                    <div class="top_search wid315_2">
+                        <input type="text" class="searchbox" value="" name="q" id="q">
+                        <a onclick="Javascript:document.searchform.submit();" class="searchgo"></a>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div class="container masthead_hm">
+    <div class="container1">
+        <div class="container2 masthead_hm_cont">
+            <div class="logo">
+                <a href="http://www.ndtv.com/">
+                    <img border="0" src="http://cdn.ndtv.com/static/images/ndtv_logo_black.gif" title="NDTV.com homepage" alt="NDTV.com homepage">
+                </a>
+                <p class=""><b>Updated:</b> January 17, 2012 18:46 IST</p>
+            </div>
+            <div class="ad_common">
+                <div style="float: left; margin-top: 5px; position: relative; z-index: 9980;" id="zzbanner728x90">
+        <!-- NEW TAG begin ZEDO for channel:  Inside Story Page , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+        <script language="JavaScript">
+            var zflag_nid="767"; var zflag_cid="4/2/1"; var zflag_sid="0"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+            if(typeof kwd  == 'undefined')kwd = '';
+            var zflag_kw=kwd;
+        </script>
+        <script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
+        <!-- end ZEDO for channel:  Inside Story Page , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+    </div>
+
+            
+        </div>
+        </div>
+    </div>
+</div>
+
+        <div id="contentbody" class="clr">
+            <div id="contentbodywrap">
+                <div id="contentbodycont">
+                    <div class="topnavigation_hm">
+                <ul>
+        <li><a href="http://www.ndtv.com/">Home</a></li>
+                <li><a href="http://www.ndtv.com/video/live/channel/ndtv24x7">Live TV</a></li>
+        <li><a href="http://www.ndtv.com/video/">Video</a></li>
+        <li><a href="http://www.ndtv.com/article/list/india/">India</a></li>
+        <li><a href="http://www.ndtv.com/election">Elections</a></li>
+        <li><a href="http://www.ndtv.com/article/list/cities/">Cities</a></li>
+        <li><a href="http://www.ndtv.com/article/list/world/">World</a></li>
+        <li><a href="http://sports.ndtv.com/">Sports</a></li>
+        <li><a href="http://gadgets.ndtv.com/">Tech</a></li>
+        <li><a href="http://www.ndtv.com/photos/">Photos</a></li>
+        <li><a href="http://www.ndtv.com/trends?widget">Trends</a></li>
+        <li ><a title="Social" href="http://social.ndtv.com/home.php?from=insidePageNDTV">Social</a></li>
+        <li><a href="http://social.ndtv.com/static/Weather/report/">Weather</a></li>
+        <li><a rel="nofollow" href="http://www.ndtv.com/news/redirect/url.php?from=homepageHeader&amp;forward_url=http%3A%2F%2Fndtvgames.zapak.com%2F">Games</a></li>
+        <li><a href="http://www.ndtv.com/page/apps">Apps</a></li>
+        <li><a href="http://www.ndtv.com/convergence/ndtv/new/tv_schedule.aspx">Schedule</a></li>
+    </ul>
+    <p onclick="javascript:ShowNavigationLevel2();" id="topnav_plusbut" class="topnav_plusbut"></p>
+    <p style="display:none;" onclick="javascript:HideNavigationLevel2();" id="topnav_minusbut" class="topnav_minusbut"></p>
+</div>
+<div style="display:none;" id="topnavigation_level2" class="topnavigation_2ndlvl">
+    <ul>
+        <li><a href="http://www.ndtv.com/news/redirect/url.php?from=homepageHeader&amp;forward_url=http%3A%2F%2Fndtv.hungama.com%2F">Music</a></li>
+        <li><a href="http://green.ndtv.com/">Environment</a></li><li><a href="http://www.ndtv.com/article/list/polls/">Polls</a></li>
+        <li><a href="http://gen.ndtv.com/convergence/ndtv/new/forums/default.aspx">Forums</a></li>
+        <li><a href="http://www.ndtv.com/convergence/ndtv/new/NDTVNewsAlert.aspx">News Alerts</a></li>
+    </ul>
+</div>
+                    <div id="bradcrum">
+    <div id="bradcrum_text">
+        <strong>You are here:</strong>
+        <a href="http://www.ndtv.com/">Home</a> &raquo; 
+                                    <a href="http://www.ndtv.com/article/list/world/">World</a>&raquo;
+                        </div>
+    
+    <div class="services_top_hm">
+        <p>
+            <b>Services :</b>
+            <a rel="nofollow" href="http://www.ndtv.com/news/redirect/url.php?from=insideHeader&amp;forward_url=http%3A%2F%2Fndtvastrology.com%2F">Astrology</a> |
+            <a rel="nofollow" href="http://www.ndtv.com/news/redirect/url.php?from=insideHeader&amp;forward_url=http%3A%2F%2Fwww.ndtvshopping.com%2F">Shopping</a> |
+            <a rel="nofollow" href="http://www.ndtv.com/news/redirect/url.php?from=insideHeader&amp;forward_url=http%3A%2F%2Fwww.ndtvsme.com%2F">B2B</a> |
+            <a rel="nofollow" href="http://www.ndtv.com/news/redirect/url.php?from=insideHeader&amp;forward_url=http%3A%2F%2Fproperty.ndtv.com%2F">Property</a> |
+            <a rel="nofollow" href="http://www.ndtv.com/news/redirect/url.php?from=insideHeader&amp;forward_url=http%3A%2F%2Fwww.ndtvtutor.com%2F">e-Learning</a> |
+            <a rel="nofollow" href="http://www.ndtv.com/news/redirect/url.php?from=insideHeader&amp;forward_url=http%3A%2F%2Fndtvclassifieds.freeads.in%2F">Classifieds</a> |
+<!--            <a rel="nofollow" href="http://www.ndtv.com/news/redirect/url.php?from=insideHeader&amp;forward_url=http%3A%2F%2Fwww.ndtvtravels.com%2F">Travel</a> |-->
+            <a rel="nofollow" href="http://www.ndtv.com/news/redirect/url.php?from=insideHeader&amp;forward_url=http%3A%2F%2Fndtvmoney.bankbazaar.com%2F">Loans</a> |
+            <a rel="nofollow" href="http://gifts.ndtv.com/">Gifts</a>
+        </p>
+    </div>
+
+</div>
+<div class="clr"></div><div id="insideleftcont">
+
+    <div id="storybody" class="clr">
+        <div id="story_display">
+            <h1 class="ins_headline" id="title">Hospital mistakenly bills patients for millions</h1>
+                            <p class="ins_dateline float_l">
+                    <a href="http://www.ndtv.com/search?q=Associated+Press">Associated Press</a>,
+                    Updated: January 17, 2012 10:55 IST                </p>
+                                <div class="clr"></div>
+            
+            <div id="top_share" class="ad_common">
+                
+<div class="bar_cont ad_common mart10">
+
+    <!-- tweet start -->
+    <div class="float_l marr10 f_lu fs12">
+        <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.ndtv.com%2Farticle%2Fworld%2Fhospital-mistakenly-bills-patients-for-millions-167705&text=Hospital mistakenly bills patients for millions&via=ndtv" style="width:100px; height:50px;" allowTransparency="true" frameborder="0"></iframe>
+    </div>
+    <!-- tweet Ends -->
+    <!-- g1 start -->
+    <div class="float_l f_lu fs12">
+        <g:plusone size="medium"></g:plusone>
+        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+    </div>
+    <!-- g1 Ends -->
+    <div class="float_l marr5 f_lu fs12">
+        <div id="fb-root"></div>
+        <script type="text/javascript">
+          window.fbAsyncInit = function() {
+            FB.init({appId: '', status: true, cookie: true, xfbml: true});
+          };
+          (function() {
+            var e = document.createElement('script'); e.async = true;
+            e.src = document.location.protocol +
+              '//connect.facebook.net/en_US/all.js';
+            document.getElementById('fb-root').appendChild(e);
+          }());
+        </script>
+        <fb:like href="http%3A%2F%2Fwww.ndtv.com%2Farticle%2Fworld%2Fhospital-mistakenly-bills-patients-for-millions-167705" title="Hospital+mistakenly+bills+patients+for+millions" layout="button_count" send="false" show-faces="true" width="125" height="35" action="recommend" colorscheme="light" /></fb:like>
+    </div>
+    <div class="float_l f_lu fs12" style="margin-right:20px;">
+        <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.ndtv.com%2Farticle%2Fworld%2Fhospital-mistakenly-bills-patients-for-millions-167705&title=Hospital+mistakenly+bills+patients+for+millions&summary=Patients+at+a+New+York+City+hospital+are+getting+billed+for+tens+of+millions+of+dollars+because+of+a+computer+error.%0A&source=NDTV">
+            <img src="http://cdn.ndtv.com/static/images/in_share.jpg" border="0">
+        </a>
+    </div>
+            <div class="float_l marl5 marr15 f_lu fs12" style="margin-top:0px;">
+            <a href="http://www.ndtv.com/page/send-email/id/167705/category/world/type/story/" class="emailthistofriend fn fl"><img src="http://cdn.ndtv.com/static/images/newmail.png?version1" alt="email"></a>
+        </div>
+        <script>
+            $(document).ready(function(){
+                $(".emailthistofriend").colorbox({width:"700px", height:"675px", iframe:true});
+            });
+        </script>
+        <div class="float_r">
+        <!-- comment start -->
+                    <div class="float_l marr10 f_lu fs12"   >
+            <a href="#comment_post" class="fn fl"><img src="http://cdn.ndtv.com/static/images/comments.png?version1" alt="email"></a>
+            </div>
+                <!-- comment Ends -->
+        
+    </div>
+</div>            </div>
+            <div class="ad_common">
+            
+            
+<div id="goodletextad" class="clr">
+    <style type="text/css">
+        .google_ads
+        {/*float:left;
+         width:100%;*/
+         padding: 5px;
+         border:1px solid #F3F3F3;
+         /*height:75px*/}
+        .title
+        {
+            font: bold 11px Arial,Helvetica,sans-serif;
+            color:#000000;
+            margin:0px;
+            padding-top:0px;
+            padding-right:0px;
+            padding-bottom:0px;
+            padding-left:5px}
+        .ad_left
+        {/*width:48%;*/
+         /*float:left;*/
+         margin:0px;
+         padding:0px}
+        .news_link
+        {font-family:Arial,Helvetica,sans-serif;
+         font-size:11px;
+         font-weight:bold;
+         margin:0px;
+         padding:0px}
+        .n_text
+        {font-family:Arial,Helvetica,sans-serif;
+         font-size:11px;
+         margin:0px;
+         padding:0px}
+        .link2
+        {color:#006600;
+         margin-top: 0;
+         text-decoration:none}
+        .hot_link
+        {margin:0px;
+         padding:0px;
+         font-family:Arial,Helvetica,sans-serif;
+         font-size:10px}
+
+        .link1
+                {text-decoration:underline !important;margin-right: 0;}
+        
+    </style>
+    <script language="JavaScript">
+        <!--
+        function google_ad_request_done(google_ads) {
+            /*
+             * This function is required and is used to display
+             * the ads that are returned from the JavaScript
+             * request. You should modify the document.write
+             * commands so that the HTML they write out fits
+             * with your desired ad layout.
+             */
+
+            var s = '';
+            var i;
+
+            /*
+             * Verify that there are actually ads to display.
+             */
+            if (google_ads.length == 0) {
+                return;
+            }
+
+            /*
+             * If an image or flash ad is returned, display that ad.
+             * Otherwise, build a string containing all of the ads and
+             * then use a document.write() command to print that string.
+             */
+
+            if (google_ads[0].type == "html") {
+
+                s += google_ads[0].snippet;
+
+            } else {
+
+                if (google_ads.length == 1) {
+                    /*
+                     * Partners should adjust text sizes
+                     * so ads occupy the majority of ad space.
+                     */
+                    setTimeout(function(){
+                        $('<div class="title"><a target="_blank" style="color:#666;text-decoration:none;" href=\"' + google_info.feedback_url + '\">Ads by Google</a></div>').appendTo($('#gta'));
+                        $('<div class="ad_left" style="padding-left:5px"><p class="news_link"><a target="_blank" class="link1" href="' +
+                            google_ads[0].url + '">' +
+                            google_ads[0].line1 + '</a> &ndash; <span class="n_text">' +
+                            google_ads[0].line2 + ' ' +
+                            google_ads[0].line3 + '</span></p><p class="hot_link"><a target="_blank" class="link2" href="' +
+                            google_ads[0].url + '"  >' +
+                            google_ads[0].visible_url + '</a></p></div>').appendTo($('#gta'));
+                    },3000);
+                    /*
+                    s += '<div class="title"><a style="color:#666;text-decoration:none;" href=\"' + google_info.feedback_url + '\">Ads by Google</a></div>';
+                    s += '<div class="ad_left" style="padding-left:5px"><p class="news_link"><a  class="link1" href="' +
+                        google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+                        google_ads[0].visible_url + '\';return true">' +
+                        google_ads[0].line1 + '</a> &ndash; <span class="n_text">' +
+                        google_ads[0].line2 + ' ' +
+                        google_ads[0].line3 + '</span></p><p class="hot_link"><a class="link2" href="' +
+                        google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+                        google_ads[0].visible_url + '\';return true">' +
+                        google_ads[0].visible_url + '</a></p></div>';
+                     */
+
+                } else if (google_ads.length > 1) {
+
+                    s += '<div class="title"><a target="_blank" class="title" href=\"' + google_info.feedback_url + '\">Ads by Google</a>'
+
+                    /*
+                     * For text ads, append each ad to the string.
+                     */
+
+                    for(i = 0; i < google_ads.length; ++i) {
+
+                        s += '<div class="ad_left" style="padding-left:5px"><p class="news_link"><a  target="_blank" class="link1" href="' +
+                            google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+                            google_ads[i].visible_url + '\';return true">' +
+                            google_ads[i].line1 + '</a></p><p class="n_text">' +
+                            google_ads[i].line2 + '</p><p class="n_text">' +
+                            google_ads[i].line3 + '</p><p class="hot_link"><a target="_blank" class="link2" href="' +
+                            google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+                            google_ads[i].visible_url + '\';return true">' +
+                            google_ads[i].visible_url + '</a></p></div>';
+                    }
+                    s += '</div>'
+                }
+            }
+
+            //            document.write(s);
+            return;
+        }
+        // -->
+        google_ad_client = "pub-7641565019577886";
+        /* 468x60, created 3/6/09 */
+        google_ad_slot = "8438645248";
+        google_ad_width = 640;
+        google_ad_height = 70;
+        google_max_num_ads = 1;
+        google_ad_type = 'text';
+        google_ad_output = 'js';
+        //-->
+    </script>
+    <script type="text/javascript"
+            src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+    <div id="gta" class="google_ads">
+
+    </div>
+</div>
+            
+        </div>
+
+            <div id="storywrap">
+
+                
+                    <div id="inside_mainpic">
+                                            </div>
+
+                
+                <br />
+                <div id="storycontent">
+                    <b>New York:&nbsp;</b>                    Patients at a New York City hospital are getting billed for tens of millions of dollars because of a computer error.<br /><br />Unemployed doorman Alexis Rodriguez says he almost became ill when he received a $44.8 million bill from the Bronx-Lebanon Hospital Center.<br /><br />Rodriguez tells the New York Daily News (http://nydn.us/AjolYU )that he was hospitalized last spring with pneumonia and was afraid the bill was legit.<br /><br />Turns out the company that prepares the bills had mistakenly put the invoice number in the space where the invoice amount should go.<br /><br />The billing company is telling patients to ignore the multimillion-dollar bills. It says it will send out corrected ones.<br /><br />The hospital didn't immediately respond to requests for comment on Monday, which is a holiday.<br /><br />                    <!--824-->
+                    <br /><br />
+                    <i  id="slider_bookmark" >For NDTV Updates, follow us on <a href="http://ndtv.in/NDTVtwitter" target="_blank">Twitter</a> or join us on <a href="http://ndtv.in/NDTVfacebook" target="_balnk">Facebook</a></i>
+                </div>
+
+                <br/>
+                                    <div class="fs14 fbld float_l pdr5" style="color:#666;">Story first published: </div>
+                    <div class="dateline">January 17, 2012 10:53 IST</div>
+                                <br/>
+                                <div>
+                    <h2 class="storytags"><strong>Tags:</strong>
+                            <a href='http://www.ndtv.com/search?q=hospital+bill+error'>hospital bill error</a>, <a href='http://www.ndtv.com/search?q=hospital+bill+in+millions'>hospital bill in millions</a>                    </h2>
+                </div>
+                                                <div id="bottom_share">
+                </div>
+                
+                <div id="inside_seealso">
+                    <div id="seealsowrap">
+                                            </div>
+                    <div class="clr"></div>
+
+                    <div id="seealso_related">
+                        <ul>
+                                                    </ul>
+                    </div>
+                    <div class="clr"></div>
+                                    </div>
+            </div>
+        </div>
+
+        <div style="position: relative;" id="insidetab">
+            <div id="comment_post" >
+                <ul id="tab">
+                    <li id="article_tab" class="ins_tab_select">Comments</li>
+                </ul>
+            </div>
+        </div>
+
+        <iframe src="http://social.ndtv.com/static/Comment/Form/?&key=ae42a4f016dd1fdd208110a097b061a4&link=http%3A%2F%2Fwww.ndtv.com%2Farticle%2Fworld%2Fhospital-mistakenly-bills-patients-for-millions-167705&title=Hospital+mistakenly+bills+patients+for+millions&ctype=story&identifier=story-167705" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:650px; height:250px"></iframe>
+        <div id="comment_display">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <td width="9"><img height="30" width="9" src="http://cdn.ndtv.com/static/images/comment_bar_l.gif"></td>
+                        <td class="comment_bg">
+                            <table width="70%" cellspacing="0" cellpadding="0" border="0">
+                                <tbody>
+                                    <tr>
+                                        <td width="26">
+                                            <img height="30" width="16" src="http://cdn.ndtv.com/static/images/comment_icon.gif">
+                                        </td>
+                                        <td class="fbld fg fs12">
+                                            Comments
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                        <td width="9">
+                            <img height="30" width="9" src="http://cdn.ndtv.com/static/images/comment_bar_r.gif">
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <iframe src="http://social.ndtv.com/static/Comment/List/?&key=ae42a4f016dd1fdd208110a097b061a4&page=1&identifier=story-167705&size=15" scrolling="no" frameborder="0" allowTransparency="true" id="comments-list" style="border:none; overflow:hidden; width:650px; height:385px"></iframe>
+
+
+    </div>
+</div>
+
+<input type="hidden" name="is_iframe_loaded" id="is_iframe_loaded" value="0">
+<input type="hidden" id="video_player_thumb_embed" value='<iframe src="http://www.ndtv.com/common/videos/embedPlayer.php?id=&category=embed&autostart=1&pWidth=575&pHeight=400" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:575px; height:410px; padding-bottom: 10px;padding-left:30px;"></iframe>' />
+
+<div id="insiderightcont">
+    <div class="ad_common">
+            
+    <div class="hm_box_315 marb15">
+        <div class="hm_advertisment pdb8">
+            <span class="fg fs10 fcg">Advertisement</span><br>
+            <div style="position: relative; height: 105px; width: 310px;">
+                <!-- begin ZEDO for channel:  Inside Story Page , publisher: default , Ad Dimension: 300x100 - 300 x 100 -->
+                <script language="JavaScript">
+                    var zflag_nid="767"; var zflag_cid="4/2/1"; var zflag_sid="0"; var zflag_width="300"; var zflag_height="100"; var zflag_sz="41";
+                </script>
+                <script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
+                <!-- end ZEDO for channel:  Inside Story Page , publisher: default , Ad Dimension: 300x100 - 300 x 100 -->
+            </div>
+        </div>
+    </div>
+
+            
+        </div>
+<div class="ad_common">
+            
+    <div class="hm_box_315 marb15">
+        <div class="hm_advertisment pdb8">
+            <span class="fg fs10 fcg">Advertisement</span><br>
+            <div style="position: relative; height: 260px; width: 310px;">
+                <!--NEW TAG begin ZEDO for channel:  Inside Story Page , publisher: default , Ad Dimension: Medium Rectangle - 300 x 250 -->
+                <script language="JavaScript">
+                    var zflag_nid="767"; var zflag_cid="4/2/1"; var zflag_sid="0"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
+                    if(typeof kwd  == 'undefined')kwd = '';
+                    var zflag_kw=kwd;
+                </script>
+                <script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
+                <!-- end ZEDO for channel:  Inside Story Page , publisher: default , Ad Dimension: Medium Rectangle - 300 x 250 -->
+            </div>
+        </div>
+    </div>
+
+            
+        </div>
+<script type="text/javascript" src="http://www.ndtv.com/news/js/services.js"></script>
+<script type="text/javascript" src="http://www.ndtv.com/news/js/services.js?version15062011"></script>
+<div class="hm_box_315">
+    <div class="hm_top_315"><div class="hm_header">Featured Services</div></div>
+    <div class="hm_mid_315">
+        <div class="hm_midcont_315" style="padding-top:3px;padding-bottom:3px;">
+            <!-- Shopping list start -->
+            <div class="padding_top_5 clr" id="r_coursal">
+                <p class="coursal_l" style="float:left; width:13px;"><a href="javascript:void(0);" onclick="ScrollerNextPrev('prev', 'servicesWidget', 3, 9)"><img id="servicesWidgetImgLeft" border="0" src="http://www.ndtv.com/common/services/images/vid_nav_left.jpg"/></a></p>
+                <div class="hm_shoplist " style="width:80px;" id="servicesWidget1">
+                    <a href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://www.ndtvshopping.com/Books/rafa-john-carlin/9781401324513.html?utm_term=rafa_1_2" rel="nofollow"><img height="39" border="0" width="75" src="http://www.ndtv.com/common/services/2011/11/25/images/rafa.png" alt="Buy 'RAFA'" /></a>
+                    <div class="mart5 fa fs11"><a class="fn fl" href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://www.ndtvshopping.com/Books/rafa-john-carlin/9781401324513.html?utm_term=rafa_1_2" rel="nofollow">Buy 'RAFA'</a><br/><b></b></div>
+                </div>
+                    <div class="hm_shoplist marl10 marr10" style="width:80px;" id="servicesWidget2">
+                    <a href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://ndtvauto.carwale.com/research/cars/jaguar/xk/" rel="nofollow"><img height="39" border="0" width="75" src="http://www.ndtv.com/common/services/2010/12/23/images/jaguar%20xk.png" alt="Featured Car: Jaguar XK" /></a>
+                    <div class="mart5 fa fs11"><a class="fn fl" href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://ndtvauto.carwale.com/research/cars/jaguar/xk/" rel="nofollow">Featured Car: Jaguar XK</a><br/><b></b></div>
+                </div>
+                    <div class="hm_shoplist " style="width:80px;" id="servicesWidget3">
+                    <a href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://www.ndtvshopping.com/Mobiles/i-Samsung-Galaxy-S2-I9100-Android/P-E-M-Samsung-Galaxy-S2-I9100.html?id=Black" rel="nofollow"><img height="39" border="0" width="75" src="http://www.ndtv.com/common/services/2011/03/25/images/galaxy%20sl.png" alt="Buy Samsung Galaxy S2" /></a>
+                    <div class="mart5 fa fs11"><a class="fn fl" href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://www.ndtvshopping.com/Mobiles/i-Samsung-Galaxy-S2-I9100-Android/P-E-M-Samsung-Galaxy-S2-I9100.html?id=Black" rel="nofollow">Buy Samsung Galaxy S2</a><br/><b></b></div>
+                </div>
+                    <div class="hm_shoplist " style="display:none;" id="servicesWidget4">
+                    <a href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://property.ndtv.com" rel="nofollow"><img height="39" border="0" width="75" src="http://www.ndtv.com/common/services/2010/10/11/images/property%203.png" alt="Buy/Rent/Sell Property" /></a>
+                    <div class="mart5 fa fs11"><a class="fn fl" href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://property.ndtv.com" rel="nofollow">Buy/Rent/Sell Property</a><br/><b></b></div>
+                </div>
+                    <div class="hm_shoplist marl10 marr10" style="display:none;" id="servicesWidget5">
+                    <a href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://ndtvlocalsearch.getit.in/" rel="nofollow"><img height="39" border="0" width="75" src="http://www.ndtv.com/common/services/2011/02/03/images/restaurant%202.png" alt="Looking for restaurants?" /></a>
+                    <div class="mart5 fa fs11"><a class="fn fl" href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://ndtvlocalsearch.getit.in/" rel="nofollow">Looking for restaurants?</a><br/><b></b></div>
+                </div>
+                    <div class="hm_shoplist " style="display:none;" id="servicesWidget6">
+                    <a href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://ndtvmoney.bankbazaar.com/home-loan.html" rel="nofollow"><img height="39" border="0" width="75" src="http://www.ndtv.com/common/services/2010/08/30/images/property.png" alt="Home loans today" /></a>
+                    <div class="mart5 fa fs11"><a class="fn fl" href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://ndtvmoney.bankbazaar.com/home-loan.html" rel="nofollow">Home loans today</a><br/><b></b></div>
+                </div>
+                    <div class="hm_shoplist " style="display:none;" id="servicesWidget7">
+                    <a href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://ndtv.hungama.com/artist-Katy%20Perry-34683" rel="nofollow"><img height="39" border="0" width="75" src="http://www.ndtv.com/common/services/2010/12/23/images/katy%20perry.png" alt="Katy Perry-Download Music" /></a>
+                    <div class="mart5 fa fs11"><a class="fn fl" href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://ndtv.hungama.com/artist-Katy%20Perry-34683" rel="nofollow">Katy Perry-Download Music</a><br/><b></b></div>
+                </div>
+                    <div class="hm_shoplist marl10 marr10" style="display:none;" id="servicesWidget8">
+                    <a href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://www.ndtvtravels.com/HotelDeal.aspx?dealId=48" rel="nofollow"><img height="39" border="0" width="75" src="http://www.ndtv.com/common/services/2010/11/22/images/goa.png" alt="Go Goa" /></a>
+                    <div class="mart5 fa fs11"><a class="fn fl" href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://www.ndtvtravels.com/HotelDeal.aspx?dealId=48" rel="nofollow">Go Goa</a><br/><b></b></div>
+                </div>
+                    <div class="hm_shoplist " style="display:none;" id="servicesWidget9">
+                    <a href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://www.ndtvshopping.com/SDP.action?catalogId=P-A-W-Omega-22545000" rel="nofollow"><img height="39" border="0" width="75" src="http://www.ndtv.com/common/services/2010/12/23/images/omega.png" alt="Best Deals on Omega" /></a>
+                    <div class="mart5 fa fs11"><a class="fn fl" href="http://www.ndtv.com/news/redirect/url.php?from=servicesWidget&forward_url=http://www.ndtvshopping.com/SDP.action?catalogId=P-A-W-Omega-22545000" rel="nofollow">Best Deals on Omega</a><br/><b></b></div>
+                </div>
+                                    <p class="coursal_r"><a href="javascript:void(0);" onclick="ScrollerNextPrev('next', 'servicesWidget', 3, 9)"><img id="servicesWidgetImgRight" border="0" src="http://www.ndtv.com/common/services/images/vid_nav_right.jpg"/></a></p>
+            </div>
+            <!-- Shopping list end -->
+        </div>
+        <div class=" pdb5">
+            <div class="hm_tab_bg clr">
+                <div id="hm_subtab_315">
+                    <ul>
+                        <li id="liproperty">
+                            <span id="spanaproperty" ><a href="javascript:void(0);" onclick="swaptabs_show_Services('property', 'travel', 'jobs', 'auto','property')">Property</a></span>
+                            <span id="spanproperty" style="display:none;">Property</span>
+                        </li>
+
+                        <li id="litravel">
+                            <span id="spanatravel"><a href="javascript:void(0);"  onclick="swaptabs_show_Services('property', 'travel', 'jobs', 'auto', 'travel')">Travel</a></span>
+                            <span id="spantravel" style="display:none;">Travel</span>
+                        </li>
+
+                        <li id="lijobs" class="hm_current">
+                            <span id="spanajobs" style="display:none;"><a href="javascript:void(0);" onclick="swaptabs_show_Services('property', 'travel', 'jobs', 'auto', 'jobs')">Local Search</a></span>
+                            <span id="spanjobs">Local Search</span>
+                        </li>
+                        <li id="liauto">
+                            <span id="spanaauto"><a href="javascript:void(0);" onclick="swaptabs_show_Services('property', 'travel', 'jobs', 'auto', 'auto')"></a></span>
+                            <span id="spanauto" style="display:none;"></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="clr" id="jobs">
+                <!-- #####Search Travel Starts ### -->
+                <!--Maincontainer Starts Here -->
+                <div class="maincontainer" id="travelWidget" style="display:none"></div>
+                <!--Maincontainer Ends Here -->
+                <!-- #####Search Travel Ends #### -->
+                <!-- #####Search Jobs Starts #### -->
+                <div id="jobsWidget">
+                    <div>
+                                                <style type="text/css">
+                            .button{border:0; background:#f57b0e;width:46px; color:#FFFFFF; font-weight:bold; font-size:12px; cursor:hand; margin:0px; padding:3px 0; padding:2px 0px 1px 0;}
+                            .textbox{border:solid 1px #e4e4e6; color:#625D5D; font-size:12px; width:113px; padding:3px 2px 4px 2px;}
+                            #dvOptions{padding:5px; margin:0; background-color:#f2f2f2;color:Navy;font-size:9pt;text-align:center;}
+                            .lblText{font-Size:13pt; font-weight:bold; font-family:calibri; color:#666666; margin:0px; padding:0px;}
+                            .link{font-Size:9pt;font-weight:bold;color:Navy;}
+                            .divclass{width:300px; height:50px; padding:5px;color:Navy;}
+                        </style>
+
+                        <div class="divclass" >
+
+                            <div style="float:left; width:118px;">
+                                <label class="lblText">Find</label><br/><input tabindex="1" type="text" id="txtWhat" accesskey="1" value="Enter Keywords"  onfocus="if(this.value=='Enter Keywords'){this.value=''};" onblur="if(this.value==''){this.value='Enter Keywords'};"  class="textbox"/>
+                            </div>
+                            <div style="float:left; width:118px; margin-left:5px;">
+                                <label class="lblText">&nbsp;In</label><br/><input tabindex="2" type="text" id="txtWhere" accesskey="2"   value="Enter City or Area" onfocus="if(this.value=='Enter City or Area'){this.value=''};" onblur="if(this.value==''){this.value='Enter City or Area'};"class="textbox"/>
+                            </div>
+                            <div style="float:left; width:50px; margin:21px 0px 8px 5px;  clear:right;">
+                                <img border="0"  style="Cursor:pointer;vertical-align:top;" tabindex="3" id="btnSearch"    src="http://www.ndtv.com/news/images/getit-btn.gif" onkeypress="return SearchData();"  onclick="return SearchData();">
+                            </div>
+                        </div>
+                                                </div>
+                </div>
+                <!-- #####Search Jobs Ends #### -->
+                <!-- #####Search Property Starts #### -->
+                <div style="display:none;" class="propertybox" id="propertyWidget"></div>
+                <!-- #####Search Property Ends #### -->
+                <!-- #####Search Auto Starts #### -->
+                <div style="display:none;" id="autoWidget"></div>
+                <!-- #####Search Auto Ends #### -->
+
+            </div>
+        </div>
+
+    </div>
+    <div class="hm_bot_315"></div>
+
+</div>
+<!-- end of services -->
+
+<div id="column1" class="hm_left315container column">
+
+    <div class="hslice" id="hslice_bigpic">
+        <div id="bigPic" class="hm_box_315 portlet">
+            <div class="hm_top_315">
+                <div class="hm_header entry-title float_l" style="width:300px">
+                    Video
+                    <a href="http://www.ndtv.com/video/live/channel/ndtv24x7" class="fn fl">
+                        <div class="live_butt fcr">Live TV</div>
+                    </a></div>
+            </div>
+            <div id="collapsebigpic" class="hm_mid_315 portlet-content entry-content">
+                <div class="float_l dot_v pdr12" style="width:300px; border-right:none;">
+
+
+                    <div id="video_wall" style="margin-top:10px; margin-left:5px;">
+                        <ul>
+                                                <li style="position:relative;width:135px;"  >
+                                <a title="Pak PM will not resign: Rehman Malik" href="http://www.ndtv.com/video/player/news/we-will-finish-our-term-no-question-of-pm-resigning-pak-interior-minister-rehman-malik/221311?sp"><img border="0" width="120" height="90" src="http://drop.ndtv.com/video/images/vod/thumb/2012-01/thumb_221311_1326802660.jpg" alt="Pak PM will not resign: Rehman Malik"></a><br>
+                                <a title="Pak PM will not resign: Rehman Malik" href="http://www.ndtv.com/video/player/news/we-will-finish-our-term-no-question-of-pm-resigning-pak-interior-minister-rehman-malik/221311?sp">Pak PM will not resign: Rehman Malik                                </a>
+                                <p class="vid_playbutton">
+                                    <a title="Pak PM will not resign: Rehman Malik" href="http://www.ndtv.com/video/player/news/we-will-finish-our-term-no-question-of-pm-resigning-pak-interior-minister-rehman-malik/221311?sp">
+                                    </a>
+                                    <a style="color: rgb(255, 255, 255);text-decoration:none;font-size:10px;" href="http://www.ndtv.com/video/player/news/we-will-finish-our-term-no-question-of-pm-resigning-pak-interior-minister-rehman-malik/221311?sp">
+                                    5:56
+                                    </a>
+                                </p>
+                            </li>
+                                                 <li style="position:relative;width:135px;" class="img_bg_in" >
+                                <a title="Aamchi Oprah: The big O in Mumbai" href="http://www.ndtv.com/video/special/oprah-winfrey-parties-with-bollywood-celebs-675/221277?hp?sp"><img border="0" width="120" height="90" src="http://drop.ndtv.com/video/images/vod/thumb/2012-01/thumb_221277_1326785074.jpg" alt="Aamchi Oprah: The big O in Mumbai"></a><br>
+                                <a title="Aamchi Oprah: The big O in Mumbai" href="http://www.ndtv.com/video/special/oprah-winfrey-parties-with-bollywood-celebs-675/221277?hp?sp">Aamchi Oprah: The big O in Mumbai                                </a>
+                                <p class="vid_playbutton">
+                                    <a title="Aamchi Oprah: The big O in Mumbai" href="http://www.ndtv.com/video/special/oprah-winfrey-parties-with-bollywood-celebs-675/221277?hp?sp">
+                                    </a>
+                                    <a style="color: rgb(255, 255, 255);text-decoration:none;font-size:10px;" href="http://www.ndtv.com/video/special/oprah-winfrey-parties-with-bollywood-celebs-675/221277?hp?sp">
+                                    5 Videos
+                                    </a>
+                                </p>
+                            </li>
+                                                 <li style="position:relative;width:135px;"  >
+                                <a title="We have let the nation down: Gambhir" href="http://www.ndtv.com/video/player/news/we-have-let-the-nation-down-gambhir/221332?sp"><img border="0" width="120" height="90" src="http://drop.ndtv.com/video/images/vod/thumb/2012-01/thumb_221332_1326800616.jpg" alt="We have let the nation down: Gambhir"></a><br>
+                                <a title="We have let the nation down: Gambhir" href="http://www.ndtv.com/video/player/news/we-have-let-the-nation-down-gambhir/221332?sp">We have let the nation down: Gambhir                                </a>
+                                <p class="vid_playbutton">
+                                    <a title="We have let the nation down: Gambhir" href="http://www.ndtv.com/video/player/news/we-have-let-the-nation-down-gambhir/221332?sp">
+                                    </a>
+                                    <a style="color: rgb(255, 255, 255);text-decoration:none;font-size:10px;" href="http://www.ndtv.com/video/player/news/we-have-let-the-nation-down-gambhir/221332?sp">
+                                    1:32
+                                    </a>
+                                </p>
+                            </li>
+                                                 <li style="position:relative;width:135px;"  >
+                                <a title="ईशा से मार्च में शादी करेंगे जहीर" href="http://www.ndtv.com/video/player/news/video-story/221293?sp"><img border="0" width="120" height="90" src="http://drop.ndtv.com/video/images/vod/thumb/2012-01/thumb_221293_1326776465.jpg" alt="ईशा से मार्च में शादी करेंगे जहीर"></a><br>
+                                <a title="ईशा से मार्च में शादी करेंगे जहीर" href="http://www.ndtv.com/video/player/news/video-story/221293?sp">ईशा से मार्च में शादी करेंगे जहीर                                </a>
+                                <p class="vid_playbutton">
+                                    <a title="ईशा से मार्च में शादी करेंगे जहीर" href="http://www.ndtv.com/video/player/news/video-story/221293?sp">
+                                    </a>
+                                    <a style="color: rgb(255, 255, 255);text-decoration:none;font-size:10px;" href="http://www.ndtv.com/video/player/news/video-story/221293?sp">
+                                    1:18
+                                    </a>
+                                </p>
+                            </li>
+                                                
+
+                       </ul>
+                    </div>
+
+                </div>
+            
+            <div class="hm_more fs12 fg fl">
+                <a href="http://www.ndtv.com/video/" class="fn fl">More &raquo;</a>
+            </div>
+            </div>
+            <div class="hm_bot_315">
+                <div class="hm_collapselink">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <div class="hm_box_315">
+    <div class="hm_top_315">
+        <div class="hm_header">Photos</div>
+    </div>
+    <div class="hm_mid_315">
+        <div class="hm_midcont_315">
+            <div id="photos_list">
+                <ul>
+                                        <li><a href="http://www.ndtv.com/album/listing/entertainment/day-before-birthday-kate-dazzles-in-lace-12042?fromphotowidget" class="hover_none" ><img src="http://drop.ndtv.com/albums/ENTERTAINMENT/warhorse/thumb.jpg" alt="Day before birthday, Kate dazzles in lace" width="75" height="60"/></a><br /><a href="http://www.ndtv.com/album/detail/day-before-birthday-kate-dazzles-in-lace-12042?fromphotowidget" >Day before birthday, Kate dazzles in lace</a></li>
+                                        <li><a href="http://www.ndtv.com/album/listing/entertainment/friends-family-at-farhan-s-birthday-bash-12041?fromphotowidget" class="hover_none" ><img src="http://drop.ndtv.com/albums/ENTERTAINMENT/farhanbudday/farhanthumb1.jpg" alt="Friends, family at Farhan's birthday bash" width="75" height="60"/></a><br /><a href="http://www.ndtv.com/album/detail/friends-family-at-farhan-s-birthday-bash-12041?fromphotowidget" >Friends, family at Farhan's birthday bash</a></li>
+                                        <li><a href="http://www.ndtv.com/album/listing/entertainment/look-who-attended-the-umang-2012-show-12038?fromphotowidget" class="hover_none" ><img src="http://drop.ndtv.com/albums/ENTERTAINMENT/umangbollywood1/thumb1umang.jpg" alt="Look who attended the Umang 2012 show" width="75" height="60"/></a><br /><a href="http://www.ndtv.com/album/detail/look-who-attended-the-umang-2012-show-12038?fromphotowidget" >Look who attended the Umang 2012 show</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="hm_more fs12 fg fl">
+            <a class="fn fl" href="http://www.ndtv.com/photos/">More »</a>
+        </div>
+    </div>
+    <div class="hm_bot_315"></div>
+</div><div id="New-288" class="hm_box_315 portlet">
+    <div class="hm_top_315">
+        <div class="hm_header">NDTV Social</div>
+    </div>
+    <div class="hm_mid_315" id="collapseSocial">
+        <p class="mart5 marb5 pdl10 marr10 fa fs12 lh18">Become friends with your favourite NDTV people and shows.
+            <a href="http://social.ndtv.com/home.php" class="fn fl fbld">Start now</a> »
+        </p>
+        <div class="hm_midcont_315 hm_midcont_315_topn">
+            <div id="social_list">
+                <ul>
+                                    <li>
+                        <a href="http://social.ndtv.com/soniasingh">
+                            <img width="45" height="45" src="http://static.social.ndtv.com/files/crop/45x45/photo_pages_2_1258179564.jpg">
+                        </a>
+                        <div class="social_list_cont">
+                            <p class="social_anch"><a href="http://social.ndtv.com/soniasingh">Sonia Singh</a></p>
+                            <p class="social_anc_intro"> Anyone else who thinks Gambhir & other cricketers shouldnt be pressured to feel they 'let the country down' ? It is just a game, people ! <span>23 minutes ago</span></p>
+                            <p class="social_readmore"><a href="http://social.ndtv.com/soniasingh">Read</a><a href="http://social.ndtv.com/soniasingh/permalink/69972">Reply</a></p>
+                        </div>
+                    </li>
+                                    <li>
+                        <a href="http://social.ndtv.com/kadambinisharma">
+                            <img width="45" height="45" src="http://static.social.ndtv.com/files/crop/45x45/photo_pages_2_1258107576.jpg">
+                        </a>
+                        <div class="social_list_cont">
+                            <p class="social_anch"><a href="http://social.ndtv.com/kadambinisharma">Kadambini Sharma</a></p>
+                            <p class="social_anc_intro"> Rushdie not coming for his session on 20th Jan in Jaipur Literary Festival. <span>3 hours ago</span></p>
+                            <p class="social_readmore"><a href="http://social.ndtv.com/kadambinisharma">Read</a><a href="http://social.ndtv.com/kadambinisharma/permalink/69957">Reply</a></p>
+                        </div>
+                    </li>
+                            </div>
+        </div>
+    </div>
+    <div class="hm_bot_315"></div>
+</div></div>
+
+<div class="clr" id="bannerfooter">
+    <div class="ad_common">
+            
+    <div style="float:left; width:100%; text-align:center; margin-bottom:10px;position: relative;z-index: 9980;overflow:hidden;">
+        <script language="JavaScript">
+            var zflag_nid="767"; var zflag_cid="4/2/1"; var zflag_sid="0"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="94";
+        </script>
+        <script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
+
+        <!-- begin ZEDO for channel:  ndtv home page , publisher: default , Ad Dimension: Footer Leader - HP - 728 x 90 -->
+        <iframe src="http://d2.zedo.com/jsc/d2/ff2.html?n=767;c=33/1;d=40;w=728;h=90" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width=728 height=90></iframe>
+        <!-- end ZEDO for channel:  ndtv home page , publisher: default , Ad Dimension: Footer Leader - HP - 728 x 90 -->
+    </div>
+
+            
+        </div>
+</div>
+<div id='upprev_box'>
+    <img src="http://cdn.ndtv.com/static/images/cross_button_black.png" class="closebut" id='upprev_close'/>
+        
+                <p class="slide_cat pdt5"><a href="http://www.ndtv.com/article/list/world/?slider">More From world &raquo;</a></p>
+            <p class="slide_head">
+                <a href="http://www.ndtv.com/article/world/un-agency-mulls-changes-to-maritime-law-after-italy-disaster-167679?slider">
+                    UN agency mulls changes to maritime law after Italy disaster                </a>
+            </p>
+    </div>                </div>
+            </div>
+        </div>
+        
+        <div class="clr"></div>
+<div class="container update_bg">
+    <div class="container1">
+        <div class="container2">
+            <div class="updates_buttons">
+                <p>NDTV<br>UPDATES<br>WITH</p>
+                <ul>
+                    <li><a class="upd_rss" href="http://www.ndtv.com/news/redirect/url.php?from=footerIcon&amp;forward_url=http://feeds2.feedburner.com/NdtvNews-TopStories"></a></li>
+                    <li><a class="upd_news" href="http://www.ndtv.com/news/redirect/url.php?from=footerIcon&amp;forward_url=http://www.ndtv.com/convergence/ndtv/new/NDTVNewsAlert.aspx"></a></li>
+                    <li><a class="upd_mobile" href="http://www.ndtv.com/news/redirect/url.php?from=footerIcon&amp;forward_url=http://www.ndtv.com/page/mobile-web"></a></li>
+                    <li><a class="upd_apps" href="http://www.ndtv.com/page/apps"></a></li>
+                    <li><a class="upd_facebook" href="http://www.facebook.com/campaign/landing.php?campaign_id=237467320636"></a></li>
+                    <li><a class="upd_twitter" href="http://www.ndtv.com/news/redirect/url.php?from=footerIcon&amp;forward_url=http://twitter.com/ndtv"></a></li>
+                    <li><a class="upd_gplus" href="http://www.ndtv.com/news/redirect/url.php?from=footerIcon&amp;forward_url=https://plus.google.com/102278458637341773682/posts"></a></li>
+                    <li><a class="upd_dotbot" href="http://www.ndtv.com/news/redirect/url.php?from=footerIcon&amp;forward_url=http://www.ndtv.com/page/ndtvdotbot/"></a></li>
+                    <li><a class="upd_wp7" href="http://www.ndtv.com/news/redirect/url.php?from=footerIcon&amp;forward_url=http://www.windowsphone.com/en-IN/apps/dbb4205d-1b46-4f29-a5d7-b0b0b70b7e80"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="flashVersionUpdate" class="clearAll"style="display:none;margin-bottom:15px;">
+    <div style="padding-left:140px;">
+        <h2><img src="http://www.ndtv.com/static/images/alert.gif" width="16" height="16" alt="Alert" />Please upgrade your flash player to view this content.</h2>
+        <p class="vid_caption"><a href="http://www.adobe.com/go/getflashplayer">Download the free Flash Player now!  <img src="http://www.ndtv.com/static/images/get_flash_player.gif" alt="Get Adobe Flash Player" border="0" /></a></p>
+
+    </div>
+</div>
+<div class="container footerbg">
+    <div class="container1">
+        <div class="container2">
+            <div class="footerlinks">
+            <a href="http://www.ndtv.com/convergence/ndtv/adspecs/ndtv_leaderboard.asp">Advertise</a> |
+            <a href="http://www.ndtv.com/convergence/ndtv/corporatepage/index.aspx">About Us</a> |
+            <a href="http://www.ndtv.com/convergence/ndtv/new/feedback.aspx">Feedback</a> |
+            <a href="http://www.ndtv.com/convergence/ndtv/new/disclaimer.aspx">Disclaimer</a> |
+            <a href="http://www.ndtv.com/convergence/ndtv/corporatepage/investors.aspx">Investor</a> |
+            <a href="http://www.ndtv.com/convergence/ndtv/new/Complaint.aspx">Complaint Redressal</a> |
+            <a href="http://www.ndtv.com/convergence/ndtv/new/careers.aspx">Careers</a> |
+            <a href="http://www.ndtv.com/convergence/ndtv/new/feedback.aspx">Contact Us</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container copyright">
+    <div class="container1">
+        <div class="container2">
+            &copy; Copyright NDTV Convergence Limited 2012. All rights reserved.
+        </div>
+    </div>
+</div>
+        <!-- Google Analytics Starts -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-2598638-50");
+            pageTracker._initData();
+            pageTracker._trackPageview();
+            var pageTracker2 = _gat._getTracker("UA-11243047-47");
+            pageTracker2._initData();
+            pageTracker2._trackPageview();
+        } catch(err) {
+        }
+    </script>
+<!-- Google Analytics Ends -->        <script type="text/javascript">
+var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=2494&domain=ndtv.com";
+var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+</script>        <!-- <script src='http://cdn.wibiya.com/Loaders/Loader_27596.js' type='text/javascript'></script> -->                            </body>
+</html>
+

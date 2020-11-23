@@ -1,0 +1,982 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+<meta name="Author" content="Derek Abma" />
+<meta name="Description" content="On top of the personal anguish suffered by someone afflicted with depression, a new study shows that," />
+<meta name="Keywords" content="Centre for Addiction and Mental Health Depression Health and Fitness Mental Health Mood Disorders Dewa , Carolyn Carolyn Dewa Toronto Twitter Inc. Alberta Organisation for Economic Co-operation and Development Business Economic Development Economic Issues" />
+<meta name="PubDate" content="2012-01-11" />
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                <meta name="description" content="The most news and entertainment portal from a Canadian perspective. Television, major newspapers across Canada, health, sport, entertainment, lifestyle, free email and more." />
+                <meta name="Keywords" content=" entertainment, interactive games, sports, sports schedule, tv, T.V., television, Canada, weather, news, .com,  TV, news, news online, breaking news, canadian news, world news, weather, business, money, sports, politics, technology, education, travel, health, autos, driving, feature story, news video, Intl">
+		<link rel="stylesheet" type="text/css" media="screen" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/css/newspaper/ving/global.css" />
+		<link rel="stylesheet" type="text/css" media="screen" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/css/newspaper/ving/widgets.css" />
+		<link rel="stylesheet" type="text/css" media="screen" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/css/newspaper/nationalpost_home.css" />
+		<link rel="stylesheet" type="text/css" media="screen" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/css/poll_ving.css" />
+        <script type="text/javascript" src="http://www.canada.com/js/jquery-1.2.6.min.js"></script>
+		<script language="javascript" type="text/javascript" src="http://www2.canada.com/js/newspaper/global.js"></script>
+		<style>
+			ul.bullet li {background:transparent url(http://www2.canada.com/images/bullet_333333.gif) center left no-repeat;}
+		</style>
+	<title>Treating depression can help economy: Study</title>
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="MSSmartTagsPreventParsing" content="true" />
+		<meta name="autosize" content="off" />
+		<link rel="stylesheet" type="text/css" media="screen" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/css/newspaper/newspapers_story_template_v3.css" />
+		<link rel="stylesheet" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/css/colorbubbles.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" media="screen" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/css/newspaper/nanaimodailynews.css" /></head>
+	<body class="newspaper article" >
+		<div id="page">
+						<!-- head_pennyworth starts -->
+  		 	<div id="head">
+		 
+		 		<!-- Ad space start -->
+		 		<div id="adspace">
+					<div class="ad">
+<div id="DartAd0">
+
+                        <script type="text/javascript">
+                        function getCookies() { return ""; }
+                        </script>
+ 						<script type="text/javascript">
+                        
+                        Array.prototype.unique = function ()
+                        {
+	                        var r = new Array();
+	                        o:for(var i = 0, n = this.length; i < n; i++)
+	                        {
+		                        for(var x = 0, y = r.length; x < y; x++)
+		                        {
+			                        if(r[x]==this[i])
+			                        {
+				                        continue o;
+			                        }
+		                        }
+		                        r[r.length] = this[i];
+	                        }
+	                        return r;
+                        }
+
+                        function setSurroundCookie(value)
+                        {
+	                        document.cookie = "surroundId=" + escape(value) + "; path=/";
+                        }
+
+                        function getCookie(cookieName)
+                        {
+	                        var dc = document.cookie;
+
+	                        //load external cookies from .canada.com                          
+	                        var url = new Array();
+	                        url = location.href.split("/");
+
+	                        var domain_arr = new Array();
+	                        domain_arr = url[2].split(".");
+	                        if (domain_arr.length >= 2)
+	                        {
+		                        var current_domain = (domain_arr[domain_arr.length - 2] + "." + domain_arr[domain_arr.length - 1]);		                        
+		                        if (current_domain != "canada.com") //load cookies from canada.com if not on canada.com
+		                        {
+			                        //load cookies
+			                        dc += ";" + getCookies(); //append to existing document cookie
+		                        }
+	                        }
+
+	                        var dc_array = new Array();
+	                        dc_array = dc.split("; ");
+	                        var cookie_str = ""; //this string will contain the value of the cookie name
+
+	                        for (x = 0; x < dc_array.length; x++) //cycles through all cookie names in cookie array, looking for all cookieName matches
+	                        {
+		                        var cookie = new Array();
+		                        var split = dc_array[x].indexOf("=");
+		                        cookie[0] = dc_array[x].substring(0,split);
+
+		                        if (cookie[0].indexOf(cookieName) != -1) //cookiename was found
+		                        {
+			                        cookie[1] = dc_array[x].substring(split+1,dc_array[x].length);
+			                        if (cookie[1] != "")
+			                        cookie_str += cookie[1] + ","; //concatenate cookie string with new cookie value
+		                        }
+	                        }
+
+	                        cookie_str = cookie_str.replace(/,,/g,","); //remove empty values
+	                        var cookie_str_array = cookie_str.split(",").unique(); //remove duplicates
+	                        cookie_str = cookie_str_array.join(",");
+
+	                        cookie_str = cookie_str.replace(/,/g,";"); //change commas to semicolons, was necessary b/c of values separation in cookie
+	                        return unescape(cookie_str);
+                        }
+
+                        function getAdCookie()
+                        {
+	                        return getCookie("adcookie");
+                        }
+
+                        function getSurroundCookie()
+                        {
+	                        var dc = document.cookie;
+	                        var prefix = "surroundId=";
+	                        var begin = dc.indexOf("; " + prefix);
+	                        if (begin == -1)
+	                        {
+		                        begin = dc.indexOf(prefix);
+		                        if (begin != 0) return null;
+	                        }
+	                        else
+	                        {
+		                        begin += 2;
+	                        }
+	                        var end = document.cookie.indexOf(";", begin);
+	                        if (end == -1) end = dc.length;
+	                        return unescape(dc.substring(begin + prefix.length, end));
+                        }
+
+                        // Setup for surround session.
+                        var adid = ""; // used in the ad to start a surround session
+                        var surroundTag = getSurroundCookie(); // Get surround session id from the cookie
+                        if(surroundTag == null) // check if there was a surround session id in the cookie
+                        {
+	                        surroundTag = "";
+                        }
+                        else
+                        {
+	                        surroundTag = "srnd="+surroundTag; // finish setting up the key-value for the ad tags
+                        }
+
+                        //Setup for adcookie.
+                        var adcookieTag = getAdCookie(); // Get the ad cookie string     
+                        </script>
+                        
+                        <script type="text/javascript">
+                        adcookieTag = (typeof adcookieTag !== 'undefined') ? (adcookieTag) : ('');
+                        dartad_tile = (typeof dartad_tile !== 'undefined') ? (dartad_tile + 1) : (1);
+
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=47829830?"; // script ad code with adcookie, used for debug  
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=47829830?"><\/script>');                                              
+                        </script>
+
+                    
+				    <noscript>
+				    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/ndn.com/nanaimodailynews/news/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/ndn.com/nanaimodailynews/news/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;?" /></a>
+				    </noscript>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started 
+                        {
+                            surroundTag = "srnd="+adid; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        </div>
+
+</div> 
+				</div>
+				<!-- Ad space end -->
+				<!-- Style for new header -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/nanaimodailynews/header_v2/css/header_v2.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/nanaimodailynews/header_v2/css/header_v2_print.css" />
+<style>
+#logorow .weathercontent {float:right;}
+#logorow .logocontainer .logo {width:192px;}
+</style>
+			<div class="header_v2_print"></div>
+			<!-- loginrow starts -->
+			<div id="loginrow">
+      			<h3>
+        			<div id="loginstatusbar">
+          				<script language="javascript" type="text/javascript" src="https://members.canada.com/scripts/loginstatus.aspx?v=7&brand=nanaimodailynews"></script>
+        			</div>
+        			<!-- Header property pulldown -->
+					<!-- /newspaperheader/includes/header_property_pulldown.inc -->
+<select onchange="redirect(this)" name="Jump to: Newspapers" style="font-size:10px;font-family:Arial;width:200px">
+<option value="http://www.canada.com" class="nolink">Jump to: Newspapers</option>
+	<optgroup label="canada.com">
+		<option value="http://www.canada.com/">Home</option>
+		<option value="http://www.canada.com/topics/news/index.html">News</option>
+		<option value="http://www.canada.com/topics/sports/index.html">Sports</option>
+		<option value="http://www.canada.com/topics/entertainment/index.html">Entertainment</option>
+		<option value="http://www.canada.com/topics/bodyandhealth/index.html">Health</option>
+		<option value="http://www.canada.com/topics/travel/index.html">Travel</option>
+	</optgroup>
+	<optgroup label="NEWSPAPERS"> 
+		<option value="http://www.nationalpost.com/">National Post</option>
+		<option value="http://www.canada.com/victoriatimescolonist/">Victoria Times Colonist</option>
+		<option value="http://www.canada.com/theprovince/">The Province (Vancouver)</option>
+		<option value="http://www.canada.com/vancouversun/">Vancouver Sun</option>
+		<option value="http://www.canada.com/edmontonjournal/">Edmonton Journal</option>
+		<option value="http://www.canada.com/calgaryherald/">Calgary Herald</option>
+		<option value="http://www.canada.com/reginaleaderpost/">Regina Leader-Post</option>
+		<option value="http://www.canada.com/saskatoonstarphoenix/">Saskatoon StarPhoenix</option>
+		<option value="http://www.canada.com/windsorstar/">Windsor Star</option>
+		<option value="http://www.canada.com/ottawacitizen/">Ottawa Citizen</option>
+		<option value="http://www.canada.com/montrealgazette/">The Gazette (Montreal)</option>
+		<option value="http://www.dose.ca/">DOSE</option>
+		<option value="http://www.canada.com/postmediacommunitypublishing/">Postmedia Community Publishing</option>
+		<option value="http://www.canada.com/nanaimodailynews/">Nanaimo Daily News</option>
+	</optgroup>
+</select>
+<!-- /newspaperheader/includes/header_property_pulldown.inc -->
+        			<!-- Header property pulldown -->
+        			<a href="http://www.canada.com/" target="_top"> <img src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/nanaimodailynews/header_v2/images/logo_part_of_canada_com_network.gif" alt="part of the canada.com Network" class="network" width="201" height="18" /> </a> 
+				</h3>
+    		</div>
+			<!-- loginrow ends -->
+			<div class="clear">&nbsp;</div>
+			
+			<!-- classifiedrow starts -->
+    		<div id="classifiedrow">
+      			<h4>
+        			<!-- classified_link -->
+					<!-- /newspaperheader/edmontonjournal/header_v2/includes/classified_link.inc -->
+
+<b class="front_edge"></b>
+<div> 
+	<a href="http://classifieds.canada.com/nanaimo/index.aspx" class="localclassifieds">classifieds</a> 
+	<img src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/abbotsfordtimes/header_v2/images/ings_edge.jpg" class="working" width="18" height="17" /><a href="http://working.com" class="working">jobs</a> 
+	<img src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/abbotsfordtimes/header_v2/images/ings_edge.jpg" class="driving" width="18" height="17" /><a href="http://www.canada.com/nanaimodailynews/cars/index.html" class="driving">cars</a> 
+	<img src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/abbotsfordtimes/header_v2/images/ings_edge.jpg" class="remembering" width="18" height="17" /><a href="http://www.timescolonist.com/obituaries/memorial-verses/ving-papers.html" class="remembering">obituaries</a>
+	<img src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/abbotsfordtimes/header_v2/images/ings_edge.jpg" class="celebrating" width="18" height="17" /><a href="http://www.celebrating.com/" class="celebrating">celebrating</a> 
+	<img src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/abbotsfordtimes/header_v2/images/ings_edge.jpg" class="shopping" width="18" height="17" /><a href="http://shopping.nanaimo.canada.com" class="shopping">shopping</a>
+	<img src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/abbotsfordtimes/header_v2/images/ings_edge.jpg" class="homes" width="18" height="17" /><a href="http://househunting.ca" class="homes">homes</a> 
+	<img src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/newspaperheader/abbotsfordtimes/header_v2/images/ings_edge.jpg" class="connecting" width="18" height="17" /><a href="http://classifieds.canada.com/nanaimo/browsecategory.aspx?id=3346" class="connecting">personals</a>  			
+</div>
+<b class="back_edge"></b>
+					
+<!-- /newspaperheader/edmontonjournal/header_v2/includes/classified_link.inc -->
+					<!-- classified_link -->
+      			</h4>
+			</div>
+			<!-- classifiedrow edns -->
+			<div class="clear">&nbsp;</div>
+			
+			<!-- logorow starts -->
+			<div id="logorow">
+        		<div class="logocontainer">
+					<div class="subscription">&nbsp;</div>
+         			<div class="logo">
+						<a href="/nanaimodailynews/"><img src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/nanaimodailynews/images/header.gif" alt="" /></a>
+					</div>
+					<div class="weathercontent"> 
+                     	<div id="Weather1" class="bubble bubbleweather">
+<!-- CACHE MISS: weather|bc|nanaimo|currentconditions|/findit/weather/forecast.aspx?city=nanaimo&rg=bc|https://members.canada.com/services/personalize.aspx?site=cc&provider=canada&brand=members -->
+<div class="bubble bubbleweather"><div class="top"><div class="left">Â </div><div class="right">Â </div></div><div class="center"><a href="/findit/weather/"><h4>Weather Centre</h4></a></div><div class="bottom"><div class="left">Â </div><div class="right">Â </div></div><div class="clear">Â </div></div><div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/images/weather/large/hp_w_iunknown.gif"></div><div class="temperature">2&#176;C</div><div class="clear">Â </div><div class="forecast"><div class="current">Unknown</div><a href="/findit/weather/forecast.aspx?city=nanaimo&amp;rg=bc"><b>Nanaimo</b></a><ul class="bullet"><li><a href="/findit/weather/forecast.aspx?city=nanaimo&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear">Â </div></div></div>
+
+					</div>
+				</div>       			
+			</div>
+       		<!-- logorow ends -->
+        	<div class="clear">&nbsp;</div>
+			
+			<!-- searchrow starts -->
+			<div id="searchrow">
+        		<div class="homecontent">
+				  <ul class="home">
+					<li><a href="/nanaimodailynews/"><span>Nanaimo Home</span></a></li>
+				  </ul>
+       		 	</div>
+				<!-- homecontent ends -->
+        		<div class="searchcontent">
+         			<div class="searchtitle">
+						Search for
+					</div>
+          			<form name="searchform" onSubmit="doSearch();return false;">
+           				<div class="searchfield">
+							<input type="text" id="q" name="q" value="" />
+							<select id="searchtype">
+								<option value="newspaper">in the Daily News</option>								
+								<option value="canada">in canada.com</option>
+								<option value="fp">10 year archive in FPinfomart</option>
+							 </select>
+           				</div>
+           				<div class="searchbutton">
+							<img alt="search" border="0" width="46" height="19" src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/images/buttons/en_find_ffffff.gif" style="cursor:pointer;" onClick="doSearch();">
+           				</div>
+						<input type="hidden" name="fld1" value="hl">
+						<input type="hidden" name="db" value="edjn">
+						<input type="hidden" id="t1" name="t1">
+
+						<script language="javascript">
+							function doSearch() {
+								var q = document.getElementById("q").value;
+								if (q.length == 0) {
+									alert("Please enter your search criteria");
+									return;
+								}
+
+								var type = document.getElementById("searchtype").value;
+								switch (type) {
+									case "newspaper":
+										document.location.href="http://www.canada.com/nanaimodailynews/search_results.html?searchtype=0&searchfor=" + escape(q);
+										break;
+									case "marketplace":
+										document.location.href="http://shopping.nanaimodailynews.canada.com/shared/search.aspx?s=" + escape(q);
+										break;
+									case "canada":
+										document.location.href="http://www.canada.com/findit/search/site/index.html?q=" + escape(q);
+										break;
+									case "fp":
+										document.forms["searchform"].method="POST";
+										document.forms["searchform"].action ="http://www.fpinfomart.ca/ar/ar_cc_landing.php";
+										document.getElementById("t1").value = q;
+										document.forms["searchform"].submit();
+										break;
+								}
+							}
+						</script>
+         			</form>
+        		</div>
+				<!-- searchcontent ends -->
+        		<div class="datecontent">
+          			<script language="JavaScript" src="/newspaperheader/js/date.js"></script>
+        		</div>
+				<!-- datecontent ends -->
+      		</div>
+        	<!-- searchrow ends -->
+     
+		<div class="clear">&nbsp;</div>
+			
+      		</div>
+			<!-- head_pennyworth ends -->
+			<div class="clear">&nbsp;</div>
+
+			<!-- Body start -->
+			<div id="body">
+               
+		
+			<!-- /story_breadcrumb.inc -->
+
+	<div id=breadcrumbs>
+		<span class="path">
+			<a href="/">Home</a> &gt; 
+		</span> 
+	</div>
+
+<!-- /story_breadcrumb.inc -->
+
+			<!-- Body start -->
+			<div id="body">
+				<div class="col01">
+				
+					<!-- Column 01a start -->
+					<div class="col01a">
+					
+   				    <div class="clear">&nbsp;</div>
+<!-- wrapper starts -->
+<div class="wrapper">
+<div class="bubble type_cb05">
+    <div class=top>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=center>
+      <h4>Site Index</h4>
+    </div>
+    <div class=bottom>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=clear>&nbsp;</div>
+</div>
+<div class=clear>&nbsp;</div>
+
+<ul class="bullet menu">
+	<?xml:namespace prefix = cwi />
+    <div id="LegoText3">
+<!-- CACHE HIT: sectionnav|Nanaimo|/nanaimodailynews/section.html| -->
+<ul class="bullet menu"><li><a href="/nanaimodailynews/news/index.html"><span>News</span></a></li>
+<li><a href="/nanaimodailynews/section.html?section=Editorial"><span>Editorial</span></a></li>
+<li><a href="/nanaimodailynews/section.html?section=Special+Section"><span>Special Section</span></a></li>
+<li><a href="/nanaimodailynews/news/sports/index.html"><span>Sports</span></a></li>
+<li><a href="/nanaimodailynews/news/entertainment/index.html"><span>Entertainment</span></a></li>
+<li><a href="/nanaimodailynews/driving/section.html?section=Driving"><span>Driving</span></a></li>
+</ul></div>
+	
+    <li style="left:5px; position:relative; top:-4px"><a href="/nanaimodailynews/columnists/index.html"><span>Columnists</span></a></li>
+	<li><a href="http://www.canada.com/nanaimodailynews/features/nanaimo135/index.html"><span><b>Nanaimo Daily News: 135 Years</b></font></span></a></li>	
+	<li><a href="http://www.canada.com/nanaimodailynews/features/livegreen/index.html"><span><font color=#007236><b>Live Green</b></font></span></a></li>
+    <li><a href="http://www.timescolonist.com/obituaries/memorial-verses/ving-papers.html"><span><b>Obituaries</b></span></a></li>
+	<li><a href="/nanaimodailynews/cars/"><span><b>Cars</b></span></a></li>
+	<li><a href="/nanaimodailynews/contactus.html"><span><b>Contact Us</b></span></a></li>
+	<li><a href="/nanaimodailynews/stocks/index.html"><span><b>Stocks Pages</b></span></a></li>
+	<li><a href="http://www.canada.com/nanaimodailynews/carrierapp.html"><span><b>Carrier Application</b></span></a></li>
+	<li><a href="/nanaimodailynews/news/archives/index.html"><span><b>Back Issues</b></span></a></li>
+</ul>
+<div class="clear">&nbsp;</div><br />
+<div class="bubble type_cb05">
+    <div class=top>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=center>
+      <h4>Harbour City Star</h4>
+    </div>
+    <div class=bottom>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=clear>&nbsp;</div>
+</div>
+<div class=clear>&nbsp;</div>
+<ul class="bullet menu">
+	<li><a href="/harbourcitystar/news/headlinescan.html "><span>Latest from the Star</span></a></li>
+</ul>
+<div class="clear">&nbsp;</div>
+<div class="bubble type_cb05">
+    <div class=top>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=center>
+      <h4>Classified</h4>
+    </div>
+    <div class=bottom>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=clear>&nbsp;</div>
+</div>
+<div class=clear>&nbsp;</div>
+<ul class="bullet menu">
+	<li><a href="http://classifieds.canada.com/nanaimo/index.aspx"><span>classifieds</span></a></li>
+	<li><a href="http://www.timescolonist.com/obituaries/memorial-verses/ving-papers.html"><span>obituaries</span></a></li>
+	<li><a href="http://www.canada.com/nanaimodailynews/cars/index.html"><span>cars</span></a></li>
+	<li><a href="http://jobs.working.com/careers/jobsearch/results?searchType=advanced;country=Canada;state=British+Columbia;city=nanaimo;radius=20;sortBy=relevance;pageSize=40;view=Brief"><span>working (jobs)</span></a></li>
+	<li><a href="http://classifieds.canada.com/nanaimo/browsecategory.aspx?id=3349"><span>homes</span></a></li>
+	<li><a href="http://classifieds.canada.com/nanaimo/browsecategory.aspx?id=3346"><span>personals</span></a></li>
+	<li><a href="http://shopping.nanaimo.canada.com/ROP/Categories.aspx"><span>shopping</span></a></li>
+</ul>
+<div class="clear">&nbsp;</div>
+<div class="bubble type_cb05">
+    <div class=top>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=center>
+      <h4>Island Papers</h4>
+    </div>
+    <div class=bottom>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=clear>&nbsp;</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<form name="ddmenu"><center>
+	<select name="choosepaper" size="1" onChange="window.open(this.options[this.selectedIndex].value,'_top')">
+		<option selected>Select...</option>
+		<option value="/pennyworth/">Alberni Pennyworth</option>
+		<option value="/albernivalleytimes/">Alberni Valley Times</option>
+		<option value="/courierislander/">CR Courier Islander</option>
+		<option value="/comoxvalleyecho/">Comox Valley Echo</option>
+		<option value="/cowichanvalleycitizen/">Cowichan Valley Citizen</option>
+		<option value="/harbourcitystar/">Harbour City Star</option>
+		<option value="/nanaimodailynews/">Nanaimo Daily News</option>
+		<option value="/oceansidestar/">Oceanside Star</option>
+		<option value="/westerly/">The Westerly</option>
+		<option value="/victoriatimescolonist/">Victoria Times Colonist</option>
+	</select></center>
+</form>
+<div class="clear">&nbsp;</div>
+<br />
+<div class="bubble type_cb05">
+    <div class=top>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=center>
+      <h4>Spotlight</h4>
+    </div>
+    <div class=bottom>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=clear>&nbsp;</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div align="center">
+  <a href="http://www.thriftyfoods.com/flyer" target="_blank"><img src="http://a123.g.akamai.net/f/123/12465/1d/www.canada.com/nanaimodailynews/images/tf_7849c01_os_120x240.jpg" alt="Thrifty Foods Flier" hspace="0" vspace="2" border="0" /></a>
+         <a href="http://shopping.nanaimo.canada.com/SS/Tiles.aspx" target="_blank"><img src="http://a123.g.akamai.net/f/123/12465/1d/www.canada.com/nanaimodailynews/images/rehomesforweb.jpg" alt="Nanaimo Real Estate Weekly" hspace="0" vspace="2" border="0" /></a>
+	
+	<div class="clear">&nbsp;</div>
+</div>
+<div class="clear">&nbsp;</div>
+<br />
+<div class="bubble type_cb05">
+    <div class=top>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=center>
+      <h4>Features</h4>
+    </div>
+    <div class=bottom>
+      <div class=left>&nbsp;</div>
+      <div class=right>&nbsp;</div>
+    </div>
+    <div class=clear>&nbsp;</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div align="left">
+	<a class=navlinkfeature href="http://shopping.nanaimo.canada.com/SS/Tiles.aspx"><img height=35 alt=Special Sections hspace=2 src="http://a123.g.akamai.net/f/123/12465/1d/www.canada.com/nanaimodailynews/images/driving35x35a.jpg" width=35 align=left vspace=2 border=1><b>Driving</b></a><br clear=all>
+	<a class=navlinkfeature href="http://www.nanaimodailynews.ca/"><img height=35 alt=Special Sections hspace=2 src="http://a123.g.akamai.net/f/123/12465/1d/www.canada.com/nanaimodailynews/images/efly35x35a.jpg" width=35 align=left vspace=2 border=1><b>eFlyers</b></a><br clear=all>
+	<div class="clear">&nbsp;</div>
+</div>
+<br />
+</div>
+<!-- wrapper ends -->
+						
+					</div>
+					<!-- Column 01a end -->
+					<div class="clear">&nbsp;</div>
+				</div>
+				<!-- Column 01 end -->
+
+				<!-- Column 02 start -->
+				<div class="col02">
+				<div id="Story2">
+					<div class="wrapper01">
+						<div id="Story4">
+<div id="article" class="para12"><div class="rightadbox"><div class="ad">
+<div id="DartAd0">
+
+                        <script type="text/javascript">
+                        adcookieTag = (typeof adcookieTag !== 'undefined') ? (adcookieTag) : ('');
+                        dartad_tile = (typeof dartad_tile !== 'undefined') ? (dartad_tile + 1) : (1);
+
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=top_box;loc=top;sz=250x250,300x250;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=47829830?"; // script ad code with adcookie, used for debug  
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=top_box;loc=top;sz=250x250,300x250;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=47829830?"><\/script>');                                              
+                        </script>
+
+                    
+				    <noscript>
+				    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/ndn.com/nanaimodailynews/news/story;loc=top_box;loc=top;sz=250x250,300x250;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/ndn.com/nanaimodailynews/news/story;loc=top_box;loc=top;sz=250x250,300x250;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;?" /></a>
+				    </noscript>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started 
+                        {
+                            surroundTag = "srnd="+adid; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        </div>
+
+</div></div><div class="rightnewslinkbox"><div class="clear">Â </div><div class="container01"><div class="bubble type03"><div class="top"><div class="left">Â </div><div class="right">Â </div></div><div class="center"><h4>Related Links</h4></div><div class="bottom"><div class="left">Â </div><div class="right">Â </div></div></div><div class="clear">Â </div><div class="contentbox"><ul class="bullet"><li><a href="story.html?id=5898534"><span>Antidepressant, talk therapy fail to beat placebo</span></a></li><li><a href="story.html?id=5853621"><span>Mental illness affecting productivity</span></a></li><li><a href="story.html?id=5708659"><span>Too little exercise, too much TV tied to depression</span></a></li><li><a href="story.html?id=5659145"><span>Living well with mental illness</span></a></li></ul></div></div><div class="clear">Â </div> <!-- /storycontent.inc-->
+<div style="padding:5px;"><div id="DartAd0">
+
+                        <script type="text/javascript">
+                        adcookieTag = (typeof adcookieTag !== 'undefined') ? (adcookieTag) : ('');
+                        dartad_tile = (typeof dartad_tile !== 'undefined') ? (dartad_tile + 1) : (1);
+
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=skyscraper;loc=top;sz=120x240,160x600;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=47829830?"; // script ad code with adcookie, used for debug  
+                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=skyscraper;loc=top;sz=120x240,160x600;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=47829830?"><\/script>');                                              
+                        </script>
+
+                    
+				    <noscript>
+				    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/ndn.com/nanaimodailynews/news/story;loc=skyscraper;loc=top;sz=120x240,160x600;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/ndn.com/nanaimodailynews/news/story;loc=skyscraper;loc=top;sz=120x240,160x600;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;?" /></a>
+				    </noscript>
+                    
+                        <script type="text/javascript">
+                        if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started 
+                        {
+                            surroundTag = "srnd="+adid; // setup the key-value for a surround session
+                            setSurroundCookie(adid); // store the surround session id in a cookie.
+                        }
+                        </script>
+                        </div>
+</div>		   
+<!-- /storycontent.inc-->			</div><div class="storyheader"><h2>Treating depression can help economy: Study</h2></div><div class="feed_details"><h4>Derek Abma,
+				Postmedia News</h4><span>Published:Â Wednesday, January 11, 2012</span></div><p>On top of the personal anguish suffered by someone afflicted with <A HREF="http://bodyandhealth.canada.com/channel_main.asp?channel_id=1053" TARGET="_blank"><B>depression</B></A>, a new study shows that, gone untreated, this form of <A HREF="http://bodyandhealth.canada.com/channel_main.asp?channel_id=11" TARGET="_blank"><B>mental illness</B></A> also takes a toll on the economy.</p><p></p><p>Research from the Toronto-based <A HREF="http://www.camh.net/" TARGET="_blank"><B>Centre for Addiction and Mental Health</B></A> indicates treatment for depression can help people suffering from the condition stay productive on the job.</p><div id="imageBox"><img id="storyphoto" class="thumbnail" width="150" height="150" border="0" src="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/nanaimodailynews/news/5887541.bin?size=l" alt="Mental illness."><h4 id="storyphotocaption">Mental illness.</h4><h6 id="storyphotocredit">Stock photo</h6><div id="sponsorbox"><!--/story_sponsor.inc -->
+
+				<!-- div class="sponsorcontent">
+					
+				</div -->
+
+<!--/story_sponsor.inc --></div><a class="additionals" href="javascript:void window.open('/components/email.aspx?id=5979921&amp;referrer=http://www2.canada.com/nanaimodailynews/news/story.html?id=5979921&amp;sponsor=', '', 'width=450,height=410,location=no,toolbar=no,menubar=no,scrollbars=yes,resizable=no')"><img src="http://a123.g.akamai.net/f/123/12465/1d/www.canada.com/images/widgets/additionals_send_email.gif" alt="Email to a friend" width="19" height="15"><span>Email to a friend</span></a><a class="additionals printer" href="javascript:void window.open('/components/print.aspx?id=5979921&amp;sponsor=', '', 'width=700,height=400,location=no,menubar=yes,scrollbars=yes,resizable=yes')"><img src="http://a123.g.akamai.net/f/123/12465/1d/www.canada.com/images/widgets/additionals_send_printer.gif" alt="Printer friendly" width="19" height="15"><span>Printer friendly</span></a><div class="fontsize_label">Font:</div><ul id="fontsizecontainer" class="size01"><li><a href="javascript:setClassName('article','para10'); setClassName('fontsizecontainer','size00');"><span>*</span></a></li><li><a href="javascript:setClassName('article','para12'); setClassName('fontsizecontainer','size01');"><span>*</span></a></li><li><a href="javascript:setClassName('article','para14'); setClassName('fontsizecontainer','size02');"><span>*</span></a></li><li><a href="JavaScript:setClassName('article','para16'); setClassName('fontsizecontainer','size03');"><span>*</span></a></li></ul><div class="addthis"><a href="http://www.addthis.com/bookmark.php" onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button"></a><script type="text/javascript">
+							var addthis_pub = 'canada.com';
+
+							function textCounter(field,cntfield,maxlimit)
+							{
+							if (field.value.length > maxlimit) // if too long...trim it!
+							field.value = field.value.substring(0, maxlimit);
+							// otherwise, update 'characters left' counter
+							else
+							{
+							var divLabel = document.getElementById("divLabel");
+							divLabel.innerHTML = maxlimit - field.value.length + " characters remaining";
+
+							}
+							}
+
+						  </script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script></div></div><p></p><p>The centre said mental illness, in general, costs the Canadian economy about $51 billion a year, with one-third of that due to lost productivity.</p><p></p><p>Surveys of 3,000 Alberta workers in 2009 found that, among the 255 people indicating they suffered a depressive episode within a year of being interviewed, those who received treatment were more likely to report being able to function at a highly productive level at work.</p><p></p><p>Carolyn Dewa, who heads the centre's research division for workplace health, said such finds make sense, given common symptoms of depression, such as concentration loss and <A HREF="http://bodyandhealth.canada.com/channel_condition_info_details.asp?disease_id=77&channel_id=2045&relation_id=33193" TARGET="_blank"><B>insomnia</B></A>.</p><p></p><p>&quot;To get help with some of those symptoms would really help people to better function,&quot; she said.</p><p></p><p>Those who reported experiencing a severe depressive episode were seven times more likely to report being able to perform at a highly productive rate if they had received treatment compared to those untreated.</p><p></p><p>For those who went through a moderate episode, treatment made them 2.5 times more likely to reach this optimum level of productivity, the study found.</p><p></p><p>The effect of treatment on those who had gone through a mildly depressive episode was not found to be significant.</p><p></p><p>To be considered as having been depressed, a respondent had to point out at least a two-week period in the year previous to the interview when they felt depressed and had a lack of interest in regular activities. The degree of severity was determined by how many other symptoms they reported, such as a loss of appetite, low self-esteem and suicidal thoughts.</p><p></p><p>In this study, it was found that 40 per cent of those who had experienced a severe depressive episode did not get treatment for it - which would include therapy, medication or both - 57 per cent reporting a moderate episode were untreated, and it was 82 per cent for those with mild symptoms.</p><p></p><p>The centre called on employers to make treatment options for depression more accessible to their workers.</p><p></p><p>&quot;It's not even just about out-of-pocket payments and things like that,&quot; Dewa said. &quot;Can people get time off to go to the doctor or to get counselling? Because to get those kinds of treatment, often you have to go during working hours.&quot;</p><p></p><p>She highlighted the value in employer-benefits plans that cover drugs and therapy for depression.</p><p></p><p>Dewa said it typically costs an employer about $18,000 if a worker takes a leave of absence due to mental illness, due to the disruption in workflow. While it's unclear what it would cost organizations to improve the accessibility of treatment options - which also could include a communications policy to reduce the stigma associated with mental illness - she said it would be less expensive than having the employee take leave.</p><p></p><p>She added that including mental-health drugs and therapy under the umbrella of universal, publicly funded health care is worth consideration.</p><p></p><p>The Centre for Addiction and Mental Health's study follows a report from the <A HREF="http://www.oecd.org/home/0,2987,en_2649_201185_1_1_1_1_1,00.html" TARGET="_blank"><B>Organization for Economic Development and Co-operation</B></A> last month pointing out the drag mental illness has on worker productivity in industrialized countries all over the world, and how it hurts individuals' chances of employment.</p><p></p><p><I>dabma@postmedia.com</I></p><p></p><p><A HREF="http://Twitter.com/derekabma" TARGET="_blank"><B>Twitter.com/derekabma</B></A></p><br><br><h6 class="copyright">Â© Postmedia News 2012</h6></div><div class="googleadcontainer"><!-- Google ad container -->
+<div class="wrapper02">
+	<div class="contentbox">
+		<div class="bubble type_cs05">
+      		<div class=top>
+        		<div class=left>&nbsp;</div>
+        		<div class=right>&nbsp;</div>
+      		</div>
+      		<div class=center>
+        		<a href="https://www.google.com/adsense/support/bin/request.py?contact=abg_afc" style="color:#111111"><font style="font-weight: bold;color:#111111;">&nbsp;Ads by Google</font></a>
+      		</div>
+      		<div class=bottom>
+        		<div class=left>&nbsp;</div>
+        		<div class=right>&nbsp;</div>
+      		</div>
+      		<div class=clear>&nbsp;</div>
+    	</div>
+		<!-- bubble ends -->
+		<div class="clear">&nbsp;</div>
+
+        <!-- content box start -->
+
+
+<!-- Google AdWords -->
+<script language="JavaScript">
+<!--
+         google_ad_client   = 'ca-pub-1718995873402338';
+         google_ad_output   = 'js';
+         google_max_num_ads = '3';
+         google_hints       = 'canada';
+         google_safe        = 'high';
+         google_kw_color    = '#E2A9A9';
+         google_ad_channel  = '1504089218';
+         google_adtest = 'off'
+// -->
+</script>
+<script language="JavaScript">
+<!--
+function google_ad_request_done(google_ads) {
+  var i;
+
+ // Display each ad in turn
+for(i = 0; i < google_ads.length; ++i) {
+document.write('<div style="text-align:left;padding-top: 5px;border-bottom: solid #CECECE;border-bottom-width: 1px"><a style="color:black;text-align:left;font-weight:bold;padding-bottom:0px;padding-top:0px;width:100%;" href=' + google_ads[i].url +'>' + google_ads[i].line1 + '</a><br />' + google_ads[i].line2 + '<br />' + google_ads[i].line3 + '<br /><a style="color:black;text-align:left;font-weight:bold;border-style:none;padding-bottom:8px;text-decoration:none;width:100%;" href=' + google_ads[i].url +'>' + google_ads[i].visible_url + '</a></div>');
+}
+}
+// --></script>
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<!-- /Google AdWords -->
+        <!-- content box end -->
+        <div class=clear>&nbsp;</div>
+      </div>
+</div>
+      <!-- Google ad container end --></div></div>
+	
+					</div>
+					</div>
+					<!-- wrapper01 end -->
+				</div>
+				<!-- Column 02 end -->
+				<div class="clear">&nbsp;</div>
+			</div>
+			<!-- Body end -->			
+    <script type="text/javascript"> 
+		var detect=""; detect = window.location.search + ""; 
+		if (detect.indexOf("sponsor=food") > -1) document.getElementById("sponsorbox").innerHTML="<img src='/holiday-guide/images/HG_140-food.gif' alt='' />"; 
+		if (detect.indexOf("sponsor=hgtv") > -1) document.getElementById("sponsorbox").innerHTML="<img src='/holiday-guide/images/HG_140-hgtv.gif' alt='' />"; 
+		if (detect.indexOf("sponsor=slice") > -1) document.getElementById("sponsorbox").innerHTML="<img src='/holiday-guide/images/HG_140-slice.gif' alt='' />"; 
+    </script>
+
+	
+            </div>
+			<!-- Body end -->
+
+			<style type="text/css">
+#footernews01, #footernews02 {display:block;}
+#footernews03, #footernews04, #footernews05, #footernews06 {display:none;}
+
+#footer_news {display:block;}
+#footer_news .footer_news_wrapper {padding:5px 10px 0 15px;}
+#footer_news .footer_news_container {float:left;border:1px solid gray;width:700px;}
+.footer_news_col {float:left;width:230px;padding:8px 0 0 0;}
+/* #body .footer_news_col .mediumimageright {float:left;} */
+#page .footer_news_col .contentbox h4 a {color:#333;}
+#page .footer_news_col .mediumimageright {float:left;}
+/* Story headline alignment */
+#page .footer_news_col .contentbox h4 {float:right;width:140px;}
+#page .footer_news_col #videocontent_medium .contentbox h4 {float:none;width:auto;}
+
+#body .footer_news_col .contentbox {padding:0 5px 0 5px;}
+#body #footer .rule {display: block;}
+
+
+</style>
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://a123.g.akamai.net/f/123/12465/1d/www2.canada.com/css/widget_video.css" />
+<div class="clear">&nbsp;</div>
+<div id="footer">
+<div class="rule"></div>
+<p>Inside the <a class="noline" href="/">canada.com Network</a>.<br /></p>
+
+<div class="clear">&nbsp;</div>
+
+<h6>Newspapers:</h6>
+<ul>
+<li><a href="http://www.nationalpost.com/">National Post</a></li>
+<li><a href="http://www.timescolonist.com/">Victoria Times Colonist</a></li>
+<li><a href="http://www.theprovince.com/">The Province (Vancouver)</a></li>
+<li><a href="http://www.vancouversun.com/">Vancouver Sun</a></li>
+<li><a href="http://www.edmontonjournal.com/">Edmonton Journal</a></li>
+<li><a href="http://www.calgaryherald.com/">Calgary Herald</a></li>
+<li><a href="http://www.leaderpost.com/">Regina Leader-Post</a></li>
+<li><a href="http://www.thestarphoenix.com/">Saskatoon StarPhoenix</a></li>
+<li><a href="http://www.windsorstar.com/">Windsor Star</a></li>
+<li><a href="http://www.ottawacitizen.com/">Ottawa Citizen</a></li>
+<li><a href="http://www.montrealgazette.com/">The Gazette (Montreal)</a></li>
+<li><a href="http://www.dose.ca/">DOSE</a></li>
+<li class="last"><a href="http://www.canada.com/postmediacommunitypublishing/">Postmedia Community Publishing</a></li>
+</ul>
+<div class="clear">&nbsp;</div>
+
+<h6>VING Newspapers:</h6>
+<ul>
+<li><a href="http://www.canada.com/pennyworth/">Alberni Valley Pennyworth</a></li>
+<li><a href="http://www.canada.com/albernivalleytimes/">Alberni Valley Times</a></li>					
+<li><a href="http://www.canada.com/courierislander/">Campbell River Courier Islander</a></li>
+<li><a href="http://www.canada.com/comoxvalleyecho/">Comox Valley Echo</a></li>
+<li><a href="http://www.canada.com/cowichanvalleycitizen/">Cowichan Valley Citizen</a></li>
+<li><a href="http://www.canada.com/harbourcitystar/">Harbour City Star</a></li>
+<li><a href="http://www.canada.com/nanaimodailynews/">Nanaimo Daily News</a></li>
+<li><a href="http://www.canada.com/oceansidestar/">Oceanside Star</a></li>
+<li><a href="http://www.canada.com/westerly/">Tofino-Ucluelet Westerly</a></li>
+</ul>
+
+<div class="clear">&nbsp;</div>				
+<h6>Marketplace:</h6>
+<ul>
+<li><a href="http://www.working.com/">working.com</a></li>
+<li><a href="http://www.driving.ca">driving.ca</a></li>
+<li><a href="http://classifieds.canada.com/remembering/index.html">remembering</a></li>
+<li><a href="http://househunting.ca/">househunting</a></li>
+<li><a href="/shop/">shopping</a></li>
+<!--/nanaimodailynews/swarmjam_link.inc -->
+
+<li class="last"><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn?_SWCATID=10150509&_TRK=281" target="_blank">Swarmjam Sweet Deals</a></li>
+
+<!--/nanaimodailynews/swarmjam_link.inc -->
+
+</ul>
+<div class="clear">&nbsp;</div>
+
+<div class="about">
+<div class="wrapper">
+<ul>
+<li><a href="/aboutus/">About canada.com</a></li>
+
+<li><a href="/aboutus/sitemap/">Site Map</a></li>
+<li><a href="/aboutus/help/">FAQs</a></li>
+
+<li><a href="http://www.canada.com/aboutus/privacy.html">Privacy</a></li>
+<li><a href="/aboutus/termsofservice.html">Terms</a></li>
+<li><a href="/aboutus/contactus/">Contact Us</a></li>
+<li><a href="/aboutus/copyright.html">Copyright &amp; Permission Rules</a></li>
+
+</ul>
+<br />
+<div class="copyright">&copy; 2009 Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited.<br>
+</div>
+<div class="clear">&nbsp;</div>
+</div>
+</div>
+
+</div>
+
+<script language="javascript" type="text/javascript">
+<!--
+function getURLParam(strParamName){
+var strReturn = "";
+var strHref = window.location.href;
+if ( strHref.indexOf("?") > -1 ){
+var strQueryString = strHref.substr(strHref.indexOf("?")).toLowerCase();
+var aQueryString = strQueryString.split("&");
+for ( var iParam = 0; iParam < aQueryString.length; iParam++ ){
+if ( 
+aQueryString[iParam].indexOf(strParamName + "=") > -1 ){
+var aParam = aQueryString[iParam].split("=");
+strReturn = aParam[1];
+break;
+}
+}
+}
+return strReturn;
+} 
+
+var storyid = getURLParam("id");
+window.onload = function() {
+try {
+var object = document.getElementById("footer_news");
+if (!storyid)
+{	  
+object.style.display = "none";
+object.style.visibility = "hidden"; 
+}	
+else
+{ 	
+object.style.display = "block"; 
+object.style.visibility = "visible"; 
+}
+}
+catch (error) {}
+}
+
+var expDays = 365;	
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+
+function getCookieVal (offset) {  
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)    
+endstr = document.cookie.length;  
+return unescape(document.cookie.substring(offset, endstr));
+}
+
+function GetCookie (name) {  
+var arg = name + "=";  
+var alen = arg.length;  
+var clen = document.cookie.length;  
+var i = 0;  
+while (i < clen) {    
+var j = i + alen;    
+if (document.cookie.substring(i, j) == arg)      
+return getCookieVal (j);    
+i = document.cookie.indexOf(" ", i) + 1;    
+if (i == 0) break;   
+}  
+return null;
+}
+
+function SetCookie (name, value) {  
+var argv = SetCookie.arguments;  
+var argc = SetCookie.arguments.length;  
+var expires = (argc > 2) ? argv[2] : null;  
+var path = (argc > 3) ? argv[3] : null;  
+var domain = (argc > 4) ? argv[4] : null;  
+var secure = (argc > 5) ? argv[5] : false;  
+document.cookie = name + "=" + escape (value) + 
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+((path == null) ? "" : ("; path=" + path)) +  
+((domain == null) ? "" : ("; domain=" + domain)) +    
+((secure == true) ? "; secure" : "");
+}
+function DeleteCookie (name) {  
+var exp = new Date();  
+exp.setTime (exp.getTime() - 1);  
+var cval = GetCookie (name);  
+document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+
+var count = 0;
+function passItOn(objectID) {
+var countvalue = GetCookie ('newscount');
+if(countvalue <= 5){
+countvalue++;
+}
+SetCookie('newscount', countvalue, exp);
+
+var savedObject = GetCookie (objectID);
+if(!savedObject){
+SetCookie(objectID, objectID, exp);
+}
+}
+
+
+function checkCookie(){	
+try {
+var countvalue = GetCookie ('newscount');
+var k = 1;
+for (j = 1; j <= 6; j++){
+var objectname = 'footernews0' + j;
+var cookiedobject = GetCookie (objectname);
+var showobject = GetCookie ('showobject');
+if(cookiedobject){
+if((countvalue == 6) || (countvalue == 5)){
+var pageobject = document.getElementById(cookiedobject);
+pageobject.style.display = 'block';
+break;
+} else {
+var pageobject = document.getElementById(cookiedobject);
+pageobject.style.display = 'none';
+}
+}else {
+var pageobject = document.getElementById(objectname);
+if (k <= 2){
+pageobject.style.display = 'block';
+//alert(k + objectname);
+k++;
+}
+} 
+}
+}
+catch (err) {} 
+}
+
+
+//-->
+</script>
+
+
+<script language="JavaScript" type="text/javascript">checkCookie();</script>
+		</div>
+		
+	
+                        <!-- SiteCatalyst code version: H.17.
+                        Copyright 1997-2008 Omniture, Inc. More info available at
+                        http://www.omniture.com -->
+
+                        <script language='JavaScript' type='text/javascript' src='/js/account_s_code.js'></script>
+                        <script language='JavaScript' type='text/javascript' src='http://www.canada.com/js/global_canwest_s_code.js'></script>
+                        <script language='JavaScript' type='text/javascript' src='/js/local_s_code.js'></script>
+
+                        <script language='JavaScript' type='text/javascript'><!--
+                        /* You may give each page an identifying name, server, and channel on
+                        the next lines. */
+                        s.pageName='/nanaimodailynews/news/story.html';
+                        s.server=window.location.hostname.toLowerCase();
+                        s.channel='nanaimodailynews';
+                        s.pageType='';
+                        s.prop1='nanaimodailynews/news';
+                        s.prop2='nanaimodailynews/news';
+                        s.prop3='canwest';
+                        s.prop4='Non-Registered';
+                        s.prop5=s.prop4 + ': ' + s.pageName;
+                        s.prop6='Postmedia News/FREE';
+                        s.prop7='Postmedia News';
+                        s.prop8='5979921';
+                        s.prop9='';
+                        s.prop10='';
+                        s.prop13='';
+                        s.prop23=document.title;
+                        s.prop24=s.prop8;
+                        s.prop25='story';
+                        s.prop26='nanaimodailynews';            
+                        s.prop27='nanaimodailynews/news';  
+                        s.prop28=''; 
+                        s.prop29=''; 
+                        s.prop36='Depression'; 
+                        s.prop37='ndn.com';                        
+
+                        /* E-commerce Variables */
+                        s.state='';
+                        s.zip='';
+                        s.events='';
+                        s.products='';
+                        s.purchaseID='';
+                        s.transactionID = s.purchaseID;
+                        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+                        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+                        <script language='JavaScript' type='text/javascript'><!--
+                        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+                        //--></script><noscript><a href='http://www.omniture.com/' title='Web Analytics'><img
+                        src='http://canwest.112.2o7.net/b/ss/canwest/1/H.17--NS/0'
+                        height='1' width='1' border='0' alt='' /></a></noscript><!--/DO NOT REMOVE/-->
+                        <!-- End SiteCatalyst code version: H.17. --></body>
+</html>
+<!-- WPGCCWEB07 219 -->
+

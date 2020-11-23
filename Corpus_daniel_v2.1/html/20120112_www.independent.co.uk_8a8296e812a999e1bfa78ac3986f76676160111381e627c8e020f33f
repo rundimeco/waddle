@@ -1,0 +1,2138 @@
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/editorial/commercial/styles/config.css?v=11"/>
+<meta name="keywords" content="science news, science articles, science issues"/>
+<meta name="description" content="Independent Science News - Breaking science news, bringing you latest technological advancements as they happen. If there is science in the news, you will find all details here."/>
+<script type="text/javascript" src="http://s.ppjol.net/pp.js
+">{
+'zone':"8rCVcqssYH8Dl2nF5Xl5uU",
+'mode':"meter",
+'debug':0
+}</script>
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-27212627-1']); _gaq.push(['_setDomainName', '.independent.co.uk']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script>
+<script type="text/javascript">
+var rsi_segs = []; var segs_beg=document.cookie.indexOf('rsi_segs='); if (segs_beg>=0){ segs_beg=document.cookie.indexOf('=',segs_beg)+1; if(segs_beg>0){ var segs_end=document.cookie.indexOf(';',segs_beg); if(segs_end==-1) segs_end=document.cookie.length; rsi_segs=document.cookie.substring(segs_beg,segs_end) .split('|'); } } var segLen=20; var segQS=""; if (rsi_segs.length<segLen){segLen=rsi_segs.length} for (var i=0;i<segLen;i++){ segQS+=('rsi='+rsi_segs[i]+";") } </script>
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/defaults.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/layout.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/main.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/colors.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/escenic-widgets.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/print.css"/>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.independent.co.uk/favicon.ico"/>
+<script type="text/javascript">var ieVersion = false;</script>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie.css"/><script type="text/javascript">var ieVersion = "true";</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie7.css"/><script type="text/javascript">var ieVersion = "7";</script><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie6.css"/><script type="text/javascript">var ieVersion = "6";</script><![endif]-->
+<link rel="pingback" href="http://www.independent.co.uk/xmlrpc"/>
+<script src="http://www.independent.co.uk/js/jquery-1.4.4.min.js"></script>
+<script src="http://www.independent.co.uk/js/jquery-ui-1.8.6.custom.min.js"></script>
+<script src="http://www.independent.co.uk/js/tiny_mce/tiny_mce.js"></script>
+<script src="http://www.independent.co.uk/resources/js/swfobject.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.charcounter.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.tools-1.2.5.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.pagination.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script src="http://www.independent.co.uk/resources/js/date.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jqDnR.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.bgiframe.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.jqpopup.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.form.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.validate.min.js"></script> <script src="http://www.independent.co.uk/resources/js/captify.js"></script>
+<script src='http://www.independent.co.uk/resources/js/flowplayer-3.1.4.min.js'></script>
+<script src="http://www.independent.co.uk/resources/js/widget-framework-util.js"></script>
+<script src="http://www.independent.co.uk/resources/js/galleria-1.2.6.js"></script>
+<script src="http://www.independent.co.uk/resources/js/galleria.classic.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.tagcloud.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var ind = {
+article: {},
+pubUrl: "http://www.independent.co.uk/",
+skinName: "ind"
+}; //]]> </script>
+<!-- AUDIENCESCIENCE AD TAG CODE --> <script language="text/javascript"> <!-- var rsi_segs = []; var segs_beg=document.cookie.indexOf('rsi_segs='); if (segs_beg>=0){ segs_beg=document.cookie.indexOf('=',segs_beg)+1; if(segs_beg>0){ var segs_end=document.cookie.indexOf(';',segs_beg); if(segs_end==-1) segs_end=document.cookie.length; rsi_segs=document.cookie.substring(segs_beg,segs_end) .split('|'); } } var segLen=20; var segQS=""; if (rsi_segs.length<segLen){segLen=rsi_segs.length} for (var i=0;i<segLen;i++){ segQS+=('rsi='+rsi_segs[i]+";") } //--> </script> <!-- END AUDIENCESCIENCE AD TAG CODE -->
+<script src="http://www.independent.co.uk/skins/ind/js/custom.js"></script>
+<!--[if IE]><script type="text/javascript" src="http://www.independent.co.uk/skins/ind/js/excanvas.js"></script><![endif]-->
+<script type="text/javascript" src="http://www.independent.co.uk/resources/js/init.js"></script>
+<!-- Indy : intialisation call, to be placed only once on the page, before the first ad tag -->
+<script type="text/javascript" language="Javascript"> //<![CDATA[
+var gs_channels="DEFAULT"; document.write('<SCR' + 'IPT type="text/javascript" language="javascript" src="http://dmgt.grapeshot.co.uk/independent/channels.cgi?url=' + escape(top.location.href) + '"></SCR' + 'IPT>'); //]]>
+</script>
+<link href="http://cdn.inskinmedia.com/isfe/4.1/css/base.css" type="text/css" rel="stylesheet" />
+<!--[if lt IE 7]><link href="http://cdn.inskinmedia.com/isfe/4.1/css/base-ie6.css" type="text/css" rel="stylesheet" /><![endif]-->
+<script type="text/javascript" src="http://cdn.inskinmedia.com/isfe/4.1/js/base/api/pageskin.js">
+</script>
+<script type="text/javascript">
+InSkinParams['myPageSkin'] = {
+'srv_SectionID': '124015',
+'srv_Keywords': 'inskintest,newsch,newsch-newsci',
+'srv_UseSAS': false,
+'plr_ContentType': 'PAGESKIN',
+'plr_ContentID': 'myContent',
+'plr_ContentW': 975,
+'plr_FrameTop': 90,
+'plr_FrameSide': 130,
+'plr_FrameBottom': 90,
+'plr_HideElementsByID': '',
+'plr_HideElementsByClass': 'mfc225, mfc529',
+'plr_NoSkinInSkinResize': true,
+'plr_GetParamsFromMeta': ['srv_Keywords', 'keywords']
+};
+var objPageSkin = new InSkin.Base('myPageSkin');
+</script>
+<meta property="og:title" content="Addicted! Scientists show how internet dependency alters the human brain" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://www.independent.co.uk/incoming/article6288292.ece/BINARY/original/pg-8-internet-alamy.jpg"/>
+<meta property="og:description" content="Internet addiction has for the first time been linked with changes in the brain similar to those seen in people addicted to alcohol, cocaine and cannabis. In a groundbreaking study, researchers used MRI scanners to reveal abnormalities in the brains of adolescents who spent many hours on the internet, to the detriment of their social and personal lives. The finding could throw light on other behavioural problems and lead to the development of new approaches to treatment, researchers said." />
+<meta name="description" content="Internet addiction has for the first time been linked with changes in the brain similar to those seen in people addicted to alcohol, cocaine and cannabis. In a groundbreaking study, researchers used MRI scanners to reveal abnormalities in the brains of adolescents who spent many hours on the internet, to the detriment of their social and personal lives. The finding could throw light on other behavioural problems and lead to the development of new approaches to treatment, researchers said." />
+<meta property="article:author" content="http://www.independent.co.uk/biography/jeremy-laurance" />
+<meta property="article:tag" content="NHS" />
+<meta property="article:tag" content="Healthcare" />
+<meta property="article:tag" content="Addiction" />
+<meta property="article:tag" content="Psychology" />
+<meta property="article:tag" content="Consultancy" />
+<meta property="article:tag" content="Internet" />
+<meta property="article:published_time" content="2012-01-12" />
+<meta property="article:section" content="Science"/>
+<meta property="og:url" content="http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html" />
+<meta property="fb:app_id" content="235586169789578" />
+<meta property="fb:admins" content="36903991,100001802971061,500243253"/>
+<meta property="og:site_name" content="The Independent" />
+<meta property="og:locale" content="en_GB" />
+<title>
+Addicted! Scientists show how internet dependency alters the human brain - Science - News - The Independent
+</title>
+<!-- Release 0.0.50 -->
+</head>
+<body>
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+FB.init({appId: '235586169789578', status: true, cookie: true,
+xfbml: true});	};
+(function() {
+var e = document.createElement('script');
+e.async = true;
+e.src = document.location.protocol +
+'//connect.facebook.net/en_US/all.js';
+document.getElementById('fb-root').appendChild(e);
+}());
+</script>
+<div id="InSkinContainer_myPageSkin" class="InSkinContainer InSkinAlignCenter" style="width: 975px;">
+<div id="InSkinContentContainer_myPageSkin" class="InSkinContentContainer" style="width: 975px; margin: 0px;">
+<div id="InSkinPageContainer_myPageSkin" class="InSkinPageContainer">
+<div id="viewport">
+<div id="page" class="article ">
+<div id="header">
+<div class="x940 linksDateWeather"
+>
+<div class="column-1">
+<div class="widget dateline default widget-editable viziwyg-section-1023 inpage-widget-5054699 topDateTime" >
+<ul>
+<li class="current first">
+Thursday 12 January 2012
+</li>
+</ul>
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054700 topExternalLinks" >
+<ul >
+<li>
+<a href="http://ijobs.independent.co.uk/" >
+<span>Jobs </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/dating/" >
+<span>Dating </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/shop/" >
+<span>Shop </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="x940 promoAndLeaderboard"
+>
+<div class="column-1">
+<div class="widget carousel simple widget-editable viziwyg-section-1023 inpage-widget-5054659 topPromo" >
+<style type="text/css">
+div.carousel div.mainDisplayContainer5054659 {
+width:202px;
+height:90px;
+}
+div.carousel .scrollable5054659 {
+height: 69.00325000000001px;
+}
+div.carousel div.filmstrip5054659 {
+padding:30px 7.07px 10px 7.07px;
+width:187.86px;
+height: 69.00325000000001px;
+left:0px;
+}
+div.carousel .scrollable .items div.item {
+padding: 1.4140000000000001px;
+}
+div.carousel .scrollable .items div.item5054659 {
+height:64.17525px;
+width:85.56700000000001px;
+margin: 0 7.07px 0 0;
+}
+div.carousel .scrollable .items div div.titleSide5054659{
+padding:1.4140000000000001px;
+left: 88.39500000000001px;
+width:-4.828px;
+height: 59.34725px;
+}
+div.carousel div.nav5054659 {
+height: 0px;
+padding: 0px 0px 0px 0px;
+position: relative;
+}
+</style>
+<div id="mainDisplayContainer5054659" class="mainDisplayContainer mainDisplayContainer5054659" >
+<a id="articleAnchor5054659" href="#"><img id="mainImage5054659" class="mainImage" src="http://static.flowplayer.org/tools/img/blank.gif" alt=""/></a>
+<div class="carouselFilmstrip filmstrip_bottom filmstrip5054659 hiddenContainer">
+<div id="carouselScrollableContainer5054659" class="scrollable scrollable5054659" >
+<div class="items itemsHorizontal">
+<div class="page">
+<div class="item item5054659" id="item5054659_0" onclick="return chicked_5054659('0');">
+<img src="http://www.independent.co.uk/incoming/article6286052.ece/ALTERNATES/w100/202x90+i+banner.jpg"
+style="width: 85.56700000000001px; height: 64.17525px;"
+alt=""
+width="85.56700000000001"
+height="64.17525" />
+</div>
+</div>
+</div>
+</div>
+<div class="nav nav5054659" id="nav5054659">
+</div>
+</div>
+<a id="playButtonr5054659" class="playButton small" style="display:none;">&nbsp;</a>
+</div>
+<div style="width:0px; height:0px; visibility:hidden;">
+<div id="carouselImgaeUrl_5054659_0_0">
+http://www.independent.co.uk/incoming/article6286052.ece/ALTERNATES/w202h90/202x90+i+banner.jpg
+</div>
+<div id="articleUrl_5054659_0_0">
+http://www.independent.co.uk/news/media/press/watch-the-new-i-tv-advert-6285749.html
+</div>
+<a id="playButton_5054659_0_0" href="http://www.independent.co.uk/news/media/press/watch-the-new-i-tv-advert-6285749.html?playVideo=true" style="display:none;"></a>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+var api_5054659;
+var obj_5054659;
+var cliked_index_5054659=0;
+var number_items_5054659=1;
+var max_items_perpage_5054659 = 2;
+var totalPage5054659 = Math.ceil(0.5);
+function chicked_5054659(index){
+cliked_index_5054659=index;
+return false;
+}
+// execute your scripts when the DOM is ready. this is a good habit
+jQuery(function() {
+// initialize scrollable
+// clickable
+api_5054659 = jQuery("#carouselScrollableContainer5054659").scrollable({prev:'.prevPage',next:'.nextPage', vertical:false}).navigator({api:true, navi:".indicator"});
+/* set navigaion indicator width so that it is rightly set at middle */
+/* set navigation arrows disabled status correctly */
+jQuery("#prevCarouselItemButton_5054659").click(function() {
+if(obj_5054659){
+obj_5054659.changeDisplayItemCarousel_5054659(api_5054659, -1);
+}
+});
+jQuery("#nextCarouselItemButton_5054659").click(function() {
+if(obj_5054659){
+obj_5054659.changeDisplayItemCarousel_5054659(api_5054659, 1);
+}
+});
+});
+jQuery(function()
+{
+var tabIndex_5054659 = 0;
+var lastClickedIndex_5054659=-1;
+obj_5054659 = this;
+function displayClickedCarouselItem_5054659(){
+jQuery("#mainImage5054659").css({"display":"block"});
+jQuery("#video5054659").css({"display":"none"});
+var index = cliked_index_5054659;
+jQuery(".item5054659").css({"border":"1px solid #000000"});
+jQuery("#item5054659_"+index).css({"border":"1px solid #00A0EE"});
+if(index!=lastClickedIndex_5054659)
+{
+lastClickedIndex_5054659 = index;
+var mainDisplayContainerId = "mainDisplayContainer5054659";
+var mainImageId = "mainImage5054659";
+var articleAnchorId = "articleAnchor5054659";
+var articleUrlContainerId = "articleUrl_5054659_" + tabIndex_5054659 + "_" + index;
+var imageUrlContainerId = "carouselImgaeUrl_5054659_" + tabIndex_5054659 + "_" + index;
+var mainDisplayContainer = jQuery("#"+mainDisplayContainerId).fadeTo("fast", 0.5);
+var imageUrl = jQuery("#"+imageUrlContainerId)[0].innerHTML;
+var img = new Image();
+// call this function after it's loaded
+img.onload = function() {
+// make wrapper fully visible
+mainDisplayContainer.fadeTo("fast", 1);
+// change the image
+jQuery("#"+mainImageId).attr("src", imageUrl);
+// update article ancho url
+jQuery("#" + articleAnchorId).attr("href", jQuery("#"+articleUrlContainerId)[0].innerHTML);
+// update url of a video
+var urlContainerId = "playButton_5054659_" + tabIndex_5054659 + "_" + index;
+jQuery("#playButtonr5054659").attr("href",jQuery("#"+urlContainerId)[0].getAttribute("href"));
+$("#playButtonr5054659").css({"display":$("#"+urlContainerId).css('display')});
+};
+img.src = imageUrl;
+}
+}
+jQuery("#carouselScrollableContainer5054659 .items div").click(function() {
+displayClickedCarouselItem_5054659();
+// when page loads simulate a "click" on the first image
+}).filter(":first").click();
+// change the active item index by pIndexOffset
+this.changeDisplayItemCarousel_5054659 = function(pApi, pIndexOffset){
+if(cliked_index_5054659+ pIndexOffset < 0 ){
+cliked_index_5054659 = cliked_index_5054659 + number_items_5054659;
+}
+cliked_index_5054659 = Math.max(0,(cliked_index_5054659+ pIndexOffset)%number_items_5054659);
+pApi.seekTo(cliked_index_5054659/max_items_perpage_5054659);
+displayClickedCarouselItem_5054659();
+}
+});
+var mouseOverCarousel = false;
+function carouselPlayPause(link){
+if (link.innerHTML == 'Play'){
+link.innerHTML = 'Pause';
+mouseOverCarousel = false;
+}
+else if (link.innerHTML == 'Pause'){
+link.innerHTML = 'Play';
+mouseOverCarousel = true;
+}
+}
+function carouselMouseOut(){
+mouseOverCarousel = false;
+}
+startSlideShow_5054659();
+function startSlideShow_5054659(){
+}
+// ]]>
+</script>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-1051 inpage-widget-6256469" >
+<div>
+<script language="JavaScript">
+ord=Math.random()*10000000000000000;
+document.write('<'+'sc'+'ript type= "text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indynews_science;sz=728x90,468x60;tile=1;dcopt=ist;ord=' + ord + ';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+</script>
+<noscript>
+<a href="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/indy.uk/indy_indynews_science;sz=728x90,468x60;key=GS_CHANNELS;tile=1;ord=' + ord + '?" target="_blank">
+<img src="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/indy.uk/indy_indynews_science;sz=728x90,468x60;key=GS_CHANNELS;tile=1;ord=' + ord + '?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
+</noscript>
+</div>
+</div>
+</div>
+</div>
+<div class="x940 masthead"
+>
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-1023 inpage-widget-6240044" >
+<div class="widget topIndependentLogo">
+<a title="The Independent" href="http://www.independent.co.uk/">
+<img title="The Independent" alt="The Independent" src="http://www.independent.co.uk/independent.co.uk/editorial/logo/independent_Masthead.png" border="0">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="navigation">
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054718 navPrimary"
+>
+<ul class="main-level">
+<li class="black-nav active">
+<a href="http://www.independent.co.uk/news/">
+News </a> <ul class="submenu">
+<li class="UK parent">
+<a href="http://www.independent.co.uk/news/uk/" class="active " >
+<span>UK </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="Home News">
+<a href="http://www.independent.co.uk/news/uk/home-news/" class="active " >
+<span>Home News </span>
+</a>
+</li>
+<li class="UK Politics">
+<a href="http://www.independent.co.uk/news/uk/politics/" class="active " >
+<span>UK Politics </span>
+</a>
+</li>
+<li class="Crime">
+<a href="http://www.independent.co.uk/news/uk/crime/" class="active " >
+<span>Crime </span>
+</a>
+</li>
+<li class="This Britain">
+<a href="http://www.independent.co.uk/news/uk/this-britain/" class="active " >
+<span>This Britain </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="World parent">
+<a href="http://www.independent.co.uk/news/world/" class="active " >
+<span>World </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="Europe">
+<a href="http://www.independent.co.uk/news/world/europe/" class="active " >
+<span>Europe </span>
+</a>
+</li>
+<li class="Americas">
+<a href="http://www.independent.co.uk/news/world/americas/" class="active " >
+<span>Americas </span>
+</a>
+</li>
+<li class="Middle East">
+<a href="http://www.independent.co.uk/news/world/middle-east/" class="active " >
+<span>Middle East </span>
+</a>
+</li>
+<li class="Asia">
+<a href="http://www.independent.co.uk/news/world/asia/" class="active " >
+<span>Asia </span>
+</a>
+</li>
+<li class="Africa">
+<a href="http://www.independent.co.uk/news/world/africa/" class="active " >
+<span>Africa </span>
+</a>
+</li>
+<li class="Australasia">
+<a href="http://www.independent.co.uk/news/world/australasia/" class="active " >
+<span>Australasia </span>
+</a>
+</li>
+<li class="World Politics">
+<a href="http://www.independent.co.uk/news/world/politics/" class="active " >
+<span>World Politics </span>
+</a>
+</li>
+<li class="World History">
+<a href="http://www.independent.co.uk/news/world/world-history/" class="active " >
+<span>World History </span>
+</a>
+</li>
+<li class="Novaya Gazeta (English)">
+<a href="http://en.novayagazeta.ru/" class="active " >
+<span>Novaya Gazeta (English) </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Business parent">
+<a href="http://www.independent.co.uk/news/business/" class="active " >
+<span>Business </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1">
+<li class="Business News">
+<a href="http://www.independent.co.uk/news/business/news/" class="active " >
+<span>Business News </span>
+</a>
+</li>
+<li class="Business Comment">
+<a href="http://www.independent.co.uk/news/business/comment/" class="active " >
+<span>Business Comment </span>
+</a>
+</li>
+<li class="Business Analysis & Features">
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/" class="active " >
+<span>Business Analysis &amp; Features </span>
+</a>
+</li>
+<li class="Sharewatch">
+<a href="http://www.independent.co.uk/news/business/sharewatch/" class="active " >
+<span>Sharewatch </span>
+</a>
+</li>
+<li class="SME">
+<a href="http://www.independent.co.uk/news/business/sme/" class="active " >
+<span>SME </span>
+</a>
+</li>
+<li class="Market News">
+<a href="http://independent.moneyam.com/news/" class="active " target="_blank">
+<span>Market News </span>
+</a>
+</li>
+<li class="Market Epic">
+<a href="http://independent.moneyam.com/quote/?epic=vod" class="active " target="_blank">
+<span>Market Epic </span>
+</a>
+</li>
+<li class="Market Heatmaps">
+<a href="http://independent.moneyam.com/heatmaps/" class="active " target="_blank">
+<span>Market Heatmaps </span>
+</a>
+</li>
+<li class="Market Screener">
+<a href="http://independent.moneyam.com/stockscreener/" class="active " target="_blank">
+<span>Market Screener </span>
+</a>
+</li>
+</ul>
+<ul class="column2 last">
+<li class="Business Directory">
+<a href="http://directory.independent.co.uk/" class="active " target="_blank">
+<span>Business Directory </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="People parent">
+<a href="http://www.independent.co.uk/news/people/" class="active " >
+<span>People </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="News">
+<a href="http://www.independent.co.uk/news/people/news/" class="active " >
+<span>News </span>
+</a>
+</li>
+<li class="Profiles">
+<a href="http://www.independent.co.uk/news/people/profiles/" class="active " >
+<span>Profiles </span>
+</a>
+</li>
+<li class="Diary">
+<a href="http://www.independent.co.uk/news/people/diary/" class="active " >
+<span>Diary </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Science">
+<a href="http://www.independent.co.uk/news/science/" class="active current" >
+<span>Science </span>
+</a>
+</li>
+<li class="Media parent">
+<a href="http://www.independent.co.uk/news/media/" class="active " >
+<span>Media </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="Opinion">
+<a href="http://www.independent.co.uk/news/media/opinion/" class="active " >
+<span>Opinion </span>
+</a>
+</li>
+<li class="TV & Radio">
+<a href="http://www.independent.co.uk/news/media/tv-radio/" class="active " >
+<span>TV &amp; Radio </span>
+</a>
+</li>
+<li class="Press">
+<a href="http://www.independent.co.uk/news/media/press/" class="active " >
+<span>Press </span>
+</a>
+</li>
+<li class="Online">
+<a href="http://www.independent.co.uk/news/media/online/" class="active " >
+<span>Online </span>
+</a>
+</li>
+<li class="Advertising">
+<a href="http://www.independent.co.uk/news/media/advertising/" class="active " >
+<span>Advertising </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Education parent">
+<a href="http://www.independent.co.uk/news/education/" class="active " >
+<span>Education </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="News">
+<a href="http://www.independent.co.uk/news/education/education-news/" class="active " >
+<span>News </span>
+</a>
+</li>
+<li class="Schools">
+<a href="http://www.independent.co.uk/news/education/schools/" class="active " >
+<span>Schools </span>
+</a>
+</li>
+<li class="Further">
+<a href="http://www.independent.co.uk/news/education/further/" class="active " >
+<span>Further </span>
+</a>
+</li>
+<li class="Higher">
+<a href="http://www.independent.co.uk/news/education/higher/" class="active " >
+<span>Higher </span>
+</a>
+</li>
+<li class="Primary Tables 2011">
+<a href="http://www.independent.co.uk/news/education/primary-schools-tables-2011/" class="active " >
+<span>Primary Tables 2011 </span>
+</a>
+</li>
+<li class="Training & Courses">
+<a href="http://courses.independent.co.uk/" class="active " target="_blank">
+<span>Training &amp; Courses </span>
+</a>
+</li>
+<li class="MBA & Executive">
+<a href="http://mba.independent.co.uk/" class="active " target="_blank">
+<span>MBA &amp; Executive </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Obituaries">
+<a href="http://www.independent.co.uk/news/obituaries/" class="active " >
+<span>Obituaries </span>
+</a>
+</li>
+<li class="Diary">
+<a href="http://www.independent.co.uk/news/people/diary/" class="active " >
+<span>Diary </span>
+</a>
+</li>
+<li class="Appeals parent">
+<a href="http://www.independent.co.uk/news/appeals/" class="active " >
+<span>Appeals </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="Indy Appeal">
+<a href="http://www.independent.co.uk/news/appeals/indy-appeal/" class="active " >
+<span>Indy Appeal </span>
+</a>
+</li>
+<li class="IoS appeal">
+<a href="http://www.independent.co.uk/news/appeals/ios-appeal/" class="active " >
+<span>IoS appeal </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Corrections">
+<a href="http://www.independent.co.uk/news/corrections/" class="active " >
+<span>Corrections </span>
+</a>
+</li>
+</ul>
+</li>
+<li class="red-nav ">
+<a href="http://www.independent.co.uk/opinion/">
+Opinion </a> </li>
+<li class="light-blue-nav ">
+<a href="http://www.independent.co.uk/environment/">
+Environment </a> </li>
+<li class="green-nav ">
+<a href="http://www.independent.co.uk/sport/">
+Sport </a> </li>
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/life-style/">
+Life &amp; Style </a> </li>
+<li class="grey-nav ">
+<a href="http://www.independent.co.uk/arts-entertainment/">
+Arts &amp; Ents </a> </li>
+<li class="orange-nav ">
+<a href="http://www.independent.co.uk/travel/">
+Travel </a> </li>
+<li class="light-blue-nav ">
+<a href="http://www.independent.co.uk/money/">
+Money </a> </li>
+<li class="dark-blue-nav ">
+<a href="http://www.independent.co.uk/extras/indybest/">
+IndyBest </a> </li>
+<li class="purple-nav ">
+<a href="http://blogs.independent.co.uk/" target="_blank">
+Blogs </a> </li>
+<li class="darkTurqoise-nav ">
+<a href="http://www.independent.co.uk/student/">
+Student </a> </li>
+</ul>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1023 inpage-widget-6249648" >
+<div class="widget logo">
+<a title="i Newspaper" href="http://www.independent.co.uk/i/">
+<img title="i Newspaper" alt="i Newspaper" src="http://www.independent.co.uk/independent.co.uk/editorial/logo/ipaper_masthead.png">
+</a>
+</div>
+</div>
+<div class="x940 hotTopics"
+>
+<div class="column-1">
+<div class="tagLabel color">
+Hot Topics
+</div>
+<div class="tagNames">
+<a href="http://www.independent.co.uk/topic/Lobbying">Lobbying</a>
+<a href="http://www.independent.co.uk/topic/NHS">NHS</a>
+<a href="http://www.independent.co.uk/topic/Syria">Syria</a>
+<a href="http://www.independent.co.uk/topic/EdMiliband">Ed Miliband</a>
+</div>
+</div>
+</div>
+<div class="x940 bellyBand"
+>
+<div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-1251 inpage-widget-6279673" >
+<div>
+<script language="JavaScript">
+ord=Math.random()*10000000000000000;
+document.write('<'+'sc'+'ript type= "text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indynews_uknews;sz=900x250;ord=' + ord + ';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+</script>
+<noscript>
+<a href="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/indy.uk/indy_indynews_uknews;sz=900x250;key=GS_CHANNELS;ord=' + ord + '?" target="_blank">
+<img src="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/indy.uk/indy_indynews_uknews;sz=900x250;key=GS_CHANNELS;ord=' + ord + '?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
+</noscript>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="areas">
+<div id="main-container">
+<div id="top">
+<div class="widget navigation breadcrumb widget-editable viziwyg-section-1023 inpage-widget-5054703" >
+<a href="http://www.independent.co.uk/news/">News </a>
+|
+<a href="http://www.independent.co.uk/news/science/">Science </a>
+</div>
+</div>
+<div id="main">
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138722 strapLine" >
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138696 title" >
+<h1 class="title">
+Addicted! Scientists show how internet dependency alters the human brain
+</h1>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138721" >
+<div class="starRating"></div>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138720" >
+<h3 class="subtitle">
+<p> </p>
+</h3>
+</div>
+<div class="x620 articleByTimeLocation"
+>
+<div class="column-1">
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138719" >
+<div class="byline">
+<!-- storyContent.byline Jeremy Laurance -->
+<!-- biography 1 -->
+<!-- biography title Jeremy Laurance -->
+<a href="http://www.independent.co.uk/biography/jeremy-laurance"> <span class="authorName">
+Jeremy Laurance
+</span>
+</a>
+<img class="openBiogPopup" src="http://www.independent.co.uk/skins/ind/images/plus.png" alt="Author Biography" />
+</div>
+<div id="renderBiography">
+<div class="close"> </div>
+<a href="http://www.independent.co.uk/biography/jeremy-laurance">
+<img src="http://www.independent.co.uk/incoming/article6170646.ece/ALTERNATES/w300/Laurance%2C-Jeremy.jpg"/>
+</a>
+<div class="text">
+<h2>
+Jeremy Laurance
+</h2>
+<p>
+Jeremy Laurance is Health Editor at The Independent
+</p>
+</div>
+<div class="buttons">
+<div class="more">
+<a href="http://www.independent.co.uk/biography/jeremy-laurance">
+More
+</a>
+<p>
+Articles from Jeremy Laurance
+</p>
+</div>
+<div class="twitter">
+<a href="http://www.twitter.com/jeremylaurance" class="twitter-follow-button">
+Follow Jeremy Laurance
+</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript">
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138718" >
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138717" >
+<p class="dateline">
+Thursday 12 January 2012
+</p>
+</div>
+<div class="menuGroup ">
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138702 socialwidget" >
+<!--[if !IE 7]><!-->
+<fb:send class="fbsend" href="http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html" font="" send="true"></fb:send>
+<!--<![endif]-->
+<!--[if IE 7]>
+<style>
+.fb_share{
+float:left;
+margin-right:10px;
+}
+</style>
+<a name="fb_share" class="fb_share"></a>
+<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share"
+type="text/javascript">
+</script>
+<![endif]-->
+<fb:like class="fblike" layout="button_count" href="http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html" action="recommend"></fb:like>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138658 socialwidget" >
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138652 socialwidget" >
+<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
+<script type="in/share" data-counter="right"></script>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138641 socialwidget" >
+<div class="g-plusone" data-size="medium"></div>
+</div>
+<div class="widget pageTools custom widget-editable viziwyg-section-1024 inpage-widget-6138653 article-links" >
+<div class="article-links">
+<script type="text/javascript">
+function printArticle(url){
+window.open(url,'print');
+}
+</script>
+<div class="print-link">
+<a id="showPrintPage" href="#" onclick="printArticle('http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html?printService=print')">
+Print
+</a>
+</div> <script type="text/javascript">
+$(document).ready(function() {
+/*This piece of code opens the email form in a popup style*/
+$("#openEmailBox").click(function(event) {
+$("#errorMessage").remove();
+$("#emailFormPageTools").jqpopup_open(this.id);
+setTimeout(function() {
+$("#emailFormPageTools").jqpopup_toCenter();
+}, 300);
+event.preventDefault();
+});
+/*The reset button will not clear the error-messages so using this code to do that*/
+$("#emailArticleReset").click(function() {
+$("#errorMessage").remove();
+$("#emailDelivered").remove();
+});
+/*Sending the form through the JQuery Ajax Form plugin*/
+$("#mailForm").ajaxForm({beforeSubmit:validateFields, success:processSuccess});
+});
+/**
+* This method is called by Ajax Form Plugin before submitting the form for validation.
+* @param formData the form data as map
+* @param jqForm the original form
+* @param options the options array if provided.
+* @return true if form is validated or false otherwise
+*
+* */
+function validateFields(formData, jqForm, options) {
+var emailReg = /^([a-zA-Z0-9])+([\.a-zA-Z0-9_-])*@([a-zA-Z0-9])+(\.[a-zA-Z0-9_-]+)+$/;
+$("#errorMessage").remove();
+var emailForm = jqForm[0];
+var receiverEmail = emailForm.mailto.value;
+var senderEmail = emailForm.surname.value;
+var emailErrorMessage = "<div id='errorMessage' style='color:red;float:right;margin-top:15px;margin-bottom:10px;'><span>You must provide a valid email address in this field</span></div>"
+if (!receiverEmail || !emailReg.test(receiverEmail)) {
+$("#mailto").before(emailErrorMessage);
+return false;
+}
+if (!senderEmail || !emailReg.test(senderEmail)) {
+$("#surname").before(emailErrorMessage);
+return false;
+}
+//todo: add seperate jsp for emial content:
+return true;
+}
+/**
+* This method is called by the Ajax Form Plugin after the response from the server comes back.
+* @param responseText the text which comes from the server.
+* @param statusText the status of the message returned by the server
+* */
+function processSuccess(responseText, statusText) {
+var emailSuccessMessage = "<span id='emailDelivered' style='margin-left: 15px; margin-top: 99px; color: green; font-size: 12px; font-weight: bold;'>Thank you! Your email has been successfully sent.</span>";
+$("#emailDelivered").remove();
+$("#emailArticleSend").after(emailSuccessMessage);
+var clientDT = new Date().getTime();
+var loggerImage = "<img style='display:none;' id='loggerEmailImage' src='http://localhost:8080/analysis-logger/Logger?rt=1&ctxId=567&pubId=2&cat=&meta=emailed-news&objId=6288344&type=article&title=Addicted!+Scientists+show+how+internet+dependency+alters+the+human+brain&url=http%3a%2f%2fwww.independent.co.uk%2fnews%2fscience%2faddicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html&amp;clientDT='" + clientDT + "' alt='' width='1' height='1' />";
+$("#emailArticleSend").after(loggerImage);
+setTimeout(function() {
+$("#emailDelivered").remove();
+$.jQpopup.close("emailFormPageTools");
+}, 3000);
+}
+</script>
+<div id="emailFormPageTools" style="display:block;display:none" title="Email This Article ">
+<form id="mailForm" action="/pageTools/sendMail.do" method="post" styleId="mailForm" >
+<input type="hidden" id="ipaddress" name="ipaddress" value="sender-ip-address.log"/>
+<input type="hidden" name="method" value="sendSimpleMail" id="method">
+<input type="hidden" name="mailType" value="text_html" id="mailType">
+<input type="hidden" name="id" value="6288344" id="id">
+<input type="hidden" name="linkType" value="art" id="linkType">
+<div style="clear:none;padding: 0px;margin:0px;">
+<fieldset>
+<div>
+<span >Your friend's email address </span>
+</div>
+<input type="text" name="mailto" value="" id="mailto" title="Specify a valid email address e.g. someone@somewhere.com">
+</fieldset>
+<fieldset>
+<div>
+<span >Your email address </span>
+</div>
+<input type="text" name="surname" value="" id="surname">
+</fieldset>
+<div class="inputrow">
+<input type="submit"
+id="emailArticleSend" name="emailArticleSend" style="width:auto;font:bold 10px Arial;text-transform:uppercase;color:#000000;float:right;margin-right: 10px"
+value="Send"
+title="Press this button to send the email"/>
+<input type="reset"
+id="emailArticleReset"
+style="width:auto;font:bold 10px Arial;text-transform:uppercase;color:#000000;float:right;margin-right: 10px"
+value="Reset"
+title="Press this button to reset all fields"/>
+</div>
+</div>
+</form>
+<div>
+<span>
+Note: We do not store your email address(es) but your IP address will be logged to prevent abuse of this feature. Please read our <a href="http://www.independent.co.uk/service/legal-terms-amp-policies-759573.html">Legal Terms & Policies</a>
+</span>
+</div>
+</div>
+<div class="enlarge-font">
+<a id="pageToolsSmallFont" class="small-font" href="#">A</a>
+<a id="pagetToolsMediumFont" class="medium-font" href="#">A</a>
+<a id="pageToolsLargeFont" class="large-font" href="#">A</a>
+</div>
+<div class="email-link">
+<a id="openEmailBox" href="#">Email</a>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+$("#pageToolsSmallFont").click(function(event) {
+setFont('articleContent', '130%');
+$.get("http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html?pageToolsFontSize=130%25");
+event.preventDefault();
+});
+$("#pagetToolsMediumFont").click(function(event) {
+setFont('articleContent', '200%');
+$.get("http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html?pageToolsFontSize=200%25");
+event.preventDefault();
+});
+$("#pageToolsLargeFont").click(function(event) {
+setFont('articleContent', '300%');
+$.get("http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html?pageToolsFontSize=300%25");
+event.preventDefault();
+});
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="x220x380 "
+>
+<div class="column-1">
+<div class="widget stories headline widget-editable viziwyg-section-1024 inpage-widget-6138706 greyRuler latestInSection " >
+<div class="latestInHeader">
+<h5>
+Latest in Science
+</h5>
+</div>
+<div class="article news first default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html" class="">
+Addicted! Scientists show how internet dependency alters the human brain
+</a>
+</h6>
+</div>
+</div>
+<div class="article news default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/news/science/is-that-the-time-end-of-world-draws-nigher-still-6288161.html" class="">
+Is that the time? End of world draws nigher still
+</a>
+</h6>
+</div>
+</div>
+<div class="article news default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/news/science/will-dna-tests-solve-the-mystery-of-gloucestershire-big-cat-sightings-6288078.html" class="">
+Will DNA tests solve the mystery of Gloucestershire big cat sightings?
+</a>
+</h6>
+</div>
+</div>
+<div class="article news default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/news/science/doomsdayclock-moves-one-minute-closer-to-midnight-6288029.html" class="">
+&#039;Doomsday Clock&#039; moves one minute closer to midnight 
+</a>
+</h6>
+</div>
+</div>
+<div class="article news default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/news/science/have-your-own-genome-decoded--for-just-650-6287780.html" class="">
+Have your own genome decoded – for just £650
+</a>
+</h6>
+</div>
+</div>
+<div class="article news default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/life-style/health-and-families/health-news/have-you-really-had-your-greens-new-test-to-tell-doctors-what-were-eating-6287790.html" class="">
+Have you really had your greens? New test to tell doctors what we&#039;re eating
+</a>
+</h6>
+</div>
+</div>
+<div class="article news default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/news/science/seconds-out-bid-to-alter-the-worlds-time-6287479.html" class="">
+Seconds out: bid to alter the world&#039;s time
+</a>
+</h6>
+</div>
+</div>
+<div class="article news default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/news/science/i-owe-it-all-to-my-father--hawking-marks-milestone-of-70th-birthday-6286986.html" class="">
+I owe it all to my father – Hawking marks milestone of 70th birthday
+</a>
+</h6>
+</div>
+</div>
+<div class="article news default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/news/science/hawking-misses-birthday-event-through-illhealth-6286905.html" class="">
+Hawking misses birthday event through ill-health
+</a>
+</h6>
+</div>
+</div>
+<div class="article news default ">
+<div class="media news">
+<h6 class="default">
+<a href="http://www.independent.co.uk/news/science/mind-over-matter-how-stephen-hawking-defied-motor-neurone-disease-for-50-years-6286313.html" class="">
+Mind over matter: How Stephen Hawking defied Motor Neurone Disease for 50 years
+</a>
+</h6>
+</div>
+</div>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-1024 inpage-widget-6278027 googlead" >
+<script language="JavaScript">
+google_ad_channel = '5258566634+1985344535';
+google_ad_client = 'ca-pub-5964551156905038';
+google_ad_output = 'js';
+google_max_num_ads = '4';
+google_ad_type = 'text';
+</script>
+<script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/adsense.js"></script>
+<script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/show_ads.js">
+</script>
+</div>
+<div class="widget feed rssFull widget-editable viziwyg-section-1048 inpage-widget-6273076 BlogsubTitle" >
+<div class="header">
+<h5>From the blogs</h5>
+</div>
+<div class="content">
+<div class="article first">
+<a href="http://blogs.independent.co.uk/2012/01/12/gerrard-got-it-wrong-in-mancini-row/"><img src="http://blogs.independent.co.uk/wp-content/uploads/2012/01/136374315-150x150.jpg" alt="" width="138"
+height="138"/></a>
+<h3><a href="http://blogs.independent.co.uk/2012/01/12/gerrard-got-it-wrong-in-mancini-row/" onclick="return openLink(this.href,'_blank')">Gerrard got it wrong in Mancini row</a></h3>
+<p class="feedSummary">Steven Gerrard got things wrong in the Manchester City players’ tunnel last night. He accused Robert...</p>
+</div>
+<div class="article ">
+<a href="http://blogs.independent.co.uk/2012/01/11/10-years-since-guantanamo-bay/"><img src="http://blogs.independent.co.uk/wp-content/uploads/2012/01/136738917-150x150.jpg" alt="" width="138"
+height="138"/></a>
+<h3><a href="http://blogs.independent.co.uk/2012/01/11/10-years-since-guantanamo-bay/" onclick="return openLink(this.href,'_blank')">10 years since Guantanamo Bay</a></h3>
+<p class="feedSummary">It’s ten years since the first detainees arrived at Guantanamo Bay. To give some sort of perspective...</p>
+</div>
+<div class="article ">
+<a href="http://blogs.independent.co.uk/2012/01/11/why-ron-paul-is-dangerous-%e2%80%93-and-why-he%e2%80%99s-not/"><img src="http://blogs.independent.co.uk/wp-content/uploads/2012/01/136710598-150x150.jpg" alt="" width="138"
+height="138"/></a>
+<h3><a href="http://blogs.independent.co.uk/2012/01/11/why-ron-paul-is-dangerous-%e2%80%93-and-why-he%e2%80%99s-not/" onclick="return openLink(this.href,'_blank')">Why Ron Paul is dangerous – and why he’s not</a></h3>
+<p class="feedSummary">For followers of US politics, Ron Paul, a 71-year-old congressman from Texas, is a strange figure. H...</p>
+</div>
+<div class="article last">
+<a href="http://blogs.independent.co.uk/2012/01/11/haiti-2012-why-are-half-a-million-people-still-in-camps/"><img src="http://blogs.independent.co.uk/wp-content/uploads/2012/01/136692368-150x150.jpg" alt="" width="138"
+height="138"/></a>
+<h3><a href="http://blogs.independent.co.uk/2012/01/11/haiti-2012-why-are-half-a-million-people-still-in-camps/" onclick="return openLink(this.href,'_blank')">Haiti 2012: Why are half a million people still in camps?</a></h3>
+<p class="feedSummary">Two years on from the catastrophic earthquake which struck Haiti, killing more than 200,000 people a...</p>
+</div>
+</div>
+</div>
+</div>
+<div class="column-2">
+<script type="text/javascript">
+//<![CDATA[
+ind.article.largeItem = 'false';
+ind.article.videoPriority = 'false';
+ind.article.fullSlideshow = 1;
+//]]>
+</script>
+<div class="widget slideshow default widget-editable viziwyg-section-1024 inpage-widget-6138605"
+>
+<div id="slideshow-6138605">
+<a href="http://www.independent.co.uk/incoming/article6288292.ece/ALTERNATES/w380/pg-8-internet-alamy.jpg">
+<img src="http://www.independent.co.uk/incoming/article6288292.ece/ALTERNATES/w80/pg-8-internet-alamy.jpg" title='While the demands of modern life have seen most of us spending longer hours at a computer, for some it has become an overriding obsession' alt="Alamy">
+</a>
+</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+$(function() {
+Galleria.loadTheme('http://www.independent.co.uk/resources/js/galleria.classic.min.js');
+// Initialize Galleria
+$('#slideshow-6138605').galleria({height:285,
+width:380,
+autoplay: false,
+thumbnails: false}
+);
+});
+// ]]>
+</script>
+<style type="text/css">
+.galleria-image-nav {
+display: none;
+}
+div.slideshow .galleria-stage {
+top: 0px;
+}
+div.slideshow .galleria-info {
+top: 10px;
+}
+div.slideshow .galleria-counter {
+display: none !important;
+}
+</style>
+<style type="text/css">
+div.slideshow #slideshow-6138605 .galleria-thumbnails-container {
+height: 70px;
+bottom: 0;
+position: absolute;
+left: 10px;
+right: 10px;
+z-index: 2;
+}
+div.slideshow #slideshow-6138605 .galleria-container .galleria-stage {
+height: 385px;
+}
+div.slideshow #slideshow-6138605 .galleria-thumbnails .galleria-image {
+height: 60px;
+width: 60px;
+background: #000;
+margin: 0 5px 0 0;
+border: 1px solid #000;;
+float: left;
+cursor: pointer;
+}
+div.slideshow #slideshow-6138605 .galleria-counter {
+bottom: 83px !important;
+}
+</style>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6191976" id="RelatedArtTag">
+<div class="tags">
+<div class="tagLabel">
+Suggested Topics
+</div>
+<div class="tagNames">
+<ul>
+<li>
+<a href="http://www.independent.co.uk/topic/NHS">NHS</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topic/Healthcare">Healthcare</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topic/Addiction">Addiction</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topic/Psychology">Psychology</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topic/Consultancy">Consultancy</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topic/Internet">Internet</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138699 articleContent" >
+<span class="storyTop ">
+<p>Internet addiction has for the first time been linked with changes in the brain similar to those seen in people addicted to alcohol, cocaine and cannabis. In a groundbreaking study, researchers used MRI scanners to reveal abnormalities in the brains of adolescents who spent many hours on the internet, to the detriment of their social and personal lives. The finding could throw light on other behavioural problems and lead to the development of new approaches to treatment, researchers said.</p>
+</span>
+<div class="body ">
+<p>An estimated 5 to 10 per cent of internet users are thought to be addicted – meaning they are unable to control their use. The majority are games players who become so absorbed in the activity they go without food or drink for long periods and their education, work and relationships suffer.</p><p>Henrietta Bowden Jones, consultant psychiatrist at Imperial College, London, who runs Britain's only NHS clinic for internet addicts and problem gamblers, said: &quot;The majority of people we see with serious internet addiction are gamers – people who spend long hours in roles in various games that cause them to disregard their obligations. I have seen people who stopped attending university lectures, failed their degrees or their marriages broke down because they were unable to emotionally connect with anything outside the game.&quot;</p><p>Although most of the population was spending longer online, that was not evidence of addiction, she said. &quot;It is different. We are doing it because modern life requires us to link up over the net in regard to jobs, professional and social connections – but not in an obsessive way. When someone comes to you and says they did not sleep last night because they spent 14 hours playing games, and it was the same the previous night, and they tried to stop but they couldn't – you know they have a problem. It does tend to be the gaming that catches people out.&quot;</p><p>Researchers in China scanned the brains of 17 adolescents diagnosed with &quot;internet addiction disorder&quot; who had been referred to the Shanghai Mental Health Centre, and compared the results with scans from 16 of their peers.</p><p>The results showed impairment of white matter fibres in the brain connecting regions involved in emotional processing, attention, decision making and cognitive control. Similar changes to the white matter have been observed in other forms of addiction to substances such as alcohol and cocaine.</p><p>&quot;The findings suggest that white matter integrity may serve as a potential new treatment target in internet addiction disorder,&quot; they say in the online journal Public Library of Science One. The authors acknowledge that they cannot tell whether the brain changes are the cause or the consequence of the internet addiction. It could be that young people with the brain changes observed are more prone to becoming addicted.</p><p>Professor Michael Farrell, director of the National Drug and Alcohol Research Centre, University of New South Wales, Australia, said: &quot;The limitations [of this study] are that it is not controlled, and it's possible that illicit drugs, alcohol or other caffeine-based stimulants might account for the changes. The specificity of 'internet addiction disorder' is also questionable.&quot;</p><p><strong>Case studies: Caught in the web</strong></p><p><strong>Xbox addict killed by blood clot after 12-hour sessions</strong></p><p>Chris Staniforth, 20, died of a blood clot after spending up to 12 hours at a time playing on his Xbox. Despite having no history of ill health, he developed deep vein thrombosis – commonly associated with long-haul flight passengers. Mr Staniforth, from Sheffield, had been offered a place to study game design at the University of Leicester. But he collapsed while telling a friend he'd been having pains in his chest.</p><p><strong>Toddler starved to death while mother played online</strong></p><p>A mother was jailed for 25 years after her daughter starved to death while she played an online game for hours at a time. Rebecca Colleen Christie, 28, from New Mexico in the US, played the fantasy game World of Warcraft while her three-year-old daughter, Brandi, starved. The toddler weighed just 23lbs when she was finally rushed to hospital after her mother found her limp and unconscious.</p><p><strong>Woman jailed after gamble fails to pay off</strong></p><p>A woman who stole £76,000 from a company to fund her internet gambling addiction was jailed this week. Lucienne Mainey, 41, from Cambridgeshire, was sentenced to 16 months in prison at Ipswich Crown Court after admitting fraud. The court heard she secretly paid herself by changing old invoices. Mainey turned to internet bingo following the breakdown of her marriage.</p>
+</div>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138702 socialwidget" >
+<!--[if !IE 7]><!-->
+<fb:send class="fbsend" href="http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html" font="" send="true"></fb:send>
+<!--<![endif]-->
+<!--[if IE 7]>
+<style>
+.fb_share{
+float:left;
+margin-right:10px;
+}
+</style>
+<a name="fb_share" class="fb_share"></a>
+<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share"
+type="text/javascript">
+</script>
+<![endif]-->
+<fb:like class="fblike" layout="button_count" href="http://www.independent.co.uk/news/science/addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html" action="recommend"></fb:like>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138658 socialwidget" >
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138652 socialwidget" >
+<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
+<script type="in/share" data-counter="right"></script>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138641 socialwidget" >
+<div class="g-plusone" data-size="medium"></div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138609" >
+<div class="strapLine gotocomments">
+<h2 class="strapline">
+<a href="#disqus_thread">Comments</a>
+</h2>
+</div>
+</div>
+<div class="widget code jsp widget-editable viziwyg-section-1024 inpage-widget-6191980 MoreIn" >
+<div>
+<span>
+<a href="http://www.independent.co.uk/news/science/">
+More in
+<span class="section">Science</span> &raquo;
+</a>
+</span>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+channelColor = $('.submenu').css('background-color');
+$('.MoreIn .section').css('color', channelColor);
+//]]>
+</script>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-1024 inpage-widget-6278027 googlead" >
+<script language="JavaScript">
+google_ad_channel = '5258566634+1985344535';
+google_ad_client = 'ca-pub-5964551156905038';
+google_ad_output = 'js';
+google_max_num_ads = '4';
+google_ad_type = 'text';
+</script>
+<script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/adsense.js"></script>
+<script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/show_ads.js">
+</script>
+</div>
+<div class="widget code jsp widget-editable viziwyg-section-1024 inpage-widget-6252381" >
+<div class="disqus greyRuler">
+<span class="commentTitle">Independent Comment</span>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_shortname = "independentnews";
+var disqus_developer = 0;
+var disqus_identifier = "6288344";
+var disqus_title = "Addicted! Scientists show how internet dependency alters the human brain";
+var disqus_url = document.location.href;
+var facebookXdReceiverPath = 'http://www.independent.co.uk/independent.co.uk/editorial/web/comments/xd_receiver.htm';
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="side">
+<div class="x300 searchRow"
+>
+<div class="column-1">
+<div class="widget search simpleForm widget-editable viziwyg-section-1023 inpage-widget-5054704 superSearchBox"
+>
+<script type="text/javascript" src="http://www.independent.co.uk/resources/js/searchFormHandler.js"></script>
+<div class="simpleSearch" id="simpleSearch-5054704">
+<form action="http://www.independent.co.uk/search/simple.do" method="get"
+onsubmit="return validateSimpleSearchForm(this, 'emptySearchExpressionError-5054704');">
+<fieldset>
+<input type="hidden" name="destinationSectionUniqueName" value="search" />
+<input type="hidden" name="publicationName" value="ind" />
+<input type="hidden" name="sortString" value="publishdate" />
+<input type="hidden" name="sortOrder" value="desc" />
+<input type="hidden" name="sectionId" value="506" />
+<input type="hidden" name="articleTypes" value="news" />
+<input type="hidden" name="pageNumber" value="1" />
+<input type="hidden" name="pageLength" value="10" />
+<input type="hidden" name="startDay" value="1" />
+<input type="hidden" name="startMonth" value="1" />
+<input type="hidden" name="startYear" value="2010" />
+<input type="hidden" name="useSectionFilter" value="true" />
+<input type="hidden" name="useHideArticle" value="true" />
+<p class="error" id="emptySearchExpressionError-5054704" style="display:none;">
+Please provide search keyword(s)
+</p>
+<input type="text" name="searchString" value="" class="field" />
+<input type="submit" value="Go" class="button" title="Click here to search" />
+</fieldset>
+</form>
+</div>
+<script type="text/javascript">
+$(function() {
+$("#simpleSearch-5054704 .field").autocomplete({
+source: ajaxCall ,
+delay: 2000.00,
+close: function(event, ui) {
+$("#simpleSearch-5054704 .field").autocomplete("option", "delay", 500.00);
+},
+select: function(event, ui) {
+var articleId = ui.item.id;
+openLink('http://www.independent.co.uk/eceRedirect?articleId=' + articleId, '_self');
+}
+});
+});
+function ajaxCall(request, response) {
+var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?~_";
+var term = $.trim(request.term.toLowerCase());
+var wordCount = term.split(" ").length;
+if (term.length > 0 && iChars.indexOf(term.charAt(0)) == -1) {
+var param = "(" + term + "*) publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+else{
+$("#simpleSearch-5054704 .field").autocomplete("close");
+}
+if (wordCount > 1 && responseCount == 0) {
+param = "(" + term + ") publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+}
+})
+}
+}
+})
+}
+else if (term.length > 0 && iChars.indexOf(term.charAt(0)) != -1) {
+$("#simpleSearch-5054704 .field").autocomplete("close");
+alert("Search word should not start with !@#$%^&*()+=-[]\\\';,./{}|\":<>?~_");
+}
+}
+</script>
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054702 searchLinks" >
+<ul >
+<li>
+<a href="http://www.independent.co.uk/advancedsearch/" >
+<span>Advanced Search </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/dayinapage/" >
+<span>Day in a page </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/article-archive/" >
+<span>Article archive </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tabbingGroup "
+>
+<div id="tabs-1" class="defaultTab">
+<ul class="tabs">
+<li id="tabs-1-1">
+<a href="#tabs-1-1" class="tabMenuItem" >
+<span>Most Commented</span></a>
+</li>
+</ul>
+<div class="tabPanes">
+<div class="tabPane">
+<div class="widget code jsp widget-editable viziwyg-section-1048 inpage-widget-6249654" >
+<!-- Most Commented : Short Name = independentnews : widgetContent.id = 6249654 | maxAge = 60s : Number of items : 6-->
+<div class="most-commented-tab">
+<script type="text/javascript" src="http://independentnews.disqus.com/popular_threads_widget.js?num_items=6"></script>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+$(".dsq-widget-item").each(
+function (i) {
+i = i+1;
+$(this).prepend("<span class='commentCount'>"+i+"</span>");
+}
+);
+$("p.dsq-widget-meta").each(
+function () {
+$(this).html($(this).html().replace(' · ',' | '));
+}
+);
+//]]>
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+$("#tabs-1 > ul.tabs").tabs("#tabs-1 > div.tabPanes > div.tabPane", {
+current: 'current',
+effect: 'default',
+event: 'click',
+initialIndex : 0
+});
+});
+//]]>
+</script>
+</div>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-1052 inpage-widget-6256470" >
+<script language="JavaScript">
+document.write('<'+'sc'+'ript type= "text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indynews_science;sz=300x250,300x600;tile=4;ord=' + ord + ';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+</script>
+<noscript>
+<a href="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/indy.uk/indy_indynews_science;sz=300x250,300x600;key=GS_CHANNELS;tile=4;ord=' + ord + '?" target="_blank">
+<img src="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/indy.uk/indy_indynews_science;sz=300x250,300x600;key=GS_CHANNELS;tile=4;ord=' + ord + '?" width="300" height="250" border="0" alt="Click here...">Click here...</a>
+</noscript>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-1052 inpage-widget-6233551" >
+<!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+//<![CDATA[
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/indy.uk/indy_indyhome_partners;target=ps;sz=300x150;ord=' + ord + '?"><\/script>');
+//]]>
+</script>
+<noscript><a href="https://ad.doubleclick.net/jump/indy.uk/indy_indyhome_partners;tile=1;sz=300x150;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/indy.uk/indy_indyhome_partners;tile=1;sz=300x150;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-6234329" >
+<link rel="stylesheet" type="text/css" href="http://blogs.independent.co.uk/other/fb/css/swire.css" media="screen"></link> <div id="fb-root"></div> <div id="fb-widget"></div><div id="showWidget"></div> <script type="text/javascript" src="http://blogs.independent.co.uk/other/fb/swire.js"></script>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-1052 inpage-widget-6256471" >
+<div>
+<script language="JavaScript">
+document.write('<'+'sc'+'ript type= "text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indynews_science;sz=160x600,120x600;tile=5;ord=' + ord + ';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+</script>
+<noscript>
+<a href="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/indy.uk/indy_indynews_science;sz=160x600,120x600;key=GS_CHANNELS;tile=5;ord=' + ord + '?" target="_blank">
+<img src="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/indy.uk/indy_indynews_science;sz=160x600,120x600;key=GS_CHANNELS;tile=5;ord=' + ord + '?" width="120" height="600" border="0" alt="Click here...">Click here...</a>
+</noscript>
+</div>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-1052 inpage-widget-6233570" >
+<!-- begin ad tag (tile=2) -->
+<script type="text/javascript">
+//<![CDATA[
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/indy.uk/indy_indyhome_partners;target=ps;sz=300x250;ord=' + ord + '?"><\/script>');
+//]]>
+</script>
+<noscript><a href="https://ad.doubleclick.net/jump/indy.uk/indy_indyhome_partners;sz=300x250;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/indy.uk/indy_indyhome_partners;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->
+</div>
+<div class="widget carousel commercial widget-editable viziwyg-section-507 inpage-widget-6279238" >
+<div id="commercial-header">
+<h6 class="commercial-title">SPONSORED FEATURES</h6>
+<a class="next browse right"></a>
+<a class="prev browse left"></a>
+</div>
+<div class="scrollable-6279238 commercial-scrollable">
+<div class="items">
+<div class="item">
+<a class="main-img" href="http://www.independent.co.uk/travel/europe/canary-islands-6286069.html"><img src="http://www.independent.co.uk/incoming/article6280633.ece/ALTERNATES/w300/sponsored-features-canary.jpg"
+width="278" /></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/travel/europe/canary-islands-6286069.html">Win a Canary Island Holiday</a>
+</h2>
+<p>Win a seven-night holiday for two adults to two of the Canary Islands.</p>
+</div>
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html" >
+Win a 3D TV
+</a>
+<a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html" >
+Posh Nosh
+</a>
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html" class="last">
+Business videos
+</a>
+</div>
+</div>
+<div class="item">
+<a class="main-img" href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html"><img src="http://www.independent.co.uk/incoming/article6285180.ece/ALTERNATES/w300/sponsor-featured.jpg"
+width="278" /></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html">Win a home cinema system</a>
+</h2>
+<p>Win a 40" 3D TV with a Blu-ray home cinema system to boot!</p>
+</div>
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/travel/europe/canary-islands-6286069.html" >
+Win a holiday
+</a>
+<a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html" >
+Posh Nosh
+</a>
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html" class="last">
+Business videos
+</a>
+</div>
+</div>
+<div class="item">
+<a class="main-img" href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html"><img src="http://www.independent.co.uk/incoming/article6279250.ece/ALTERNATES/w300/poshnosh-sfb.jpg"
+width="278" /></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html">Amazing restaurant offers</a>
+</h2>
+<p>Three glasses of free champagne and a special menu at 46 top London restaurants.</p>
+</div>
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/travel/europe/canary-islands-6286069.html" >
+Win a holiday
+</a>
+<a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html" >
+Win a 3D TV
+</a>
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html" class="last">
+Business videos
+</a>
+</div>
+</div>
+<div class="item">
+<a class="main-img" href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html"><img src="http://www.independent.co.uk/incoming/article6279321.ece/ALTERNATES/w300/sfb.jpg"
+width="278" /></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">Commercial thought leaders</a>
+</h2>
+<p>Watch the best in the business world give their insights into the world of business.</p>
+</div>
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/travel/europe/canary-islands-6286069.html" >
+Win a holiday
+</a>
+<a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html" >
+Win a 3D TV
+</a>
+<a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html" class="last">
+Posh Nosh
+</a>
+</div>
+<div class="item-list">
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+$(function() {
+$(window).load( function() {
+var allColumnHeights = equalColumns.getColumnHeights('div.commercial .scrollable-6279238 .items div');
+var tallestColumn = equalColumns.findHighestColumn(allColumnHeights);
+$('div.commercial .scrollable-6279238').height(tallestColumn);
+});
+$(".scrollable-6279238").scrollable({ circular: true });
+ind.commercialInstance = $(".scrollable-6279238").eq(0).data("scrollable");
+commercialListLayout();
+setInterval(function() {
+ind.commercialInstance.move(1);
+}, 10000);
+});	// ]]>
+</script>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-1024 inpage-widget-6278029 googlead" >
+<script language="JavaScript">
+google_ad_channel = '2691865510+1985344535';
+google_ad_client = 'ca-pub-5964551156905038';
+google_ad_output = 'js';
+google_max_num_ads = '4';
+google_ad_type = 'text';
+</script>
+<script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/adsense.js"></script>
+<script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/show_ads.js">
+</script>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1044 inpage-widget-6138615 dayInaPage" >
+<h2>Day In a Page</h2>
+</div>
+<div class="widget menu menuItem widget-editable viziwyg-section-1023 inpage-widget-6138569" >
+</div>
+<div class="widget archive form widget-editable viziwyg-section-1023 inpage-widget-6138560 arcForm" >
+<ul>
+<li class="day first"><a href="http://www.independent.co.uk/dayinapage/?day=8&month=1&year=2012" title="Sun">Sun</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=9&month=1&year=2012" title="Mon">Mon</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=10&month=1&year=2012" title="Tue">Tue</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=11&month=1&year=2012" title="Wed">Wed</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=12&month=1&year=2012" title="Thu">Thu</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=6&month=1&year=2012" title="Fri">Fri</a></li>
+<li class="day last"><a href="http://www.independent.co.uk/dayinapage/?day=7&month=1&year=2012" title="Sat">Sat</a></li>
+</ul>
+<div class="form">
+<form method="GET" action="http://www.independent.co.uk/dayinapage/">
+<fieldset>
+<select name="day" id="f_day">
+<option value="1" >1</option>
+<option value="2" >2</option>
+<option value="3" >3</option>
+<option value="4" >4</option>
+<option value="5" >5</option>
+<option value="6" >6</option>
+<option value="7" >7</option>
+<option value="8" >8</option>
+<option value="9" >9</option>
+<option value="10" >10</option>
+<option value="11" >11</option>
+<option value="12" selected="selected">12</option>
+<option value="13" >13</option>
+<option value="14" >14</option>
+<option value="15" >15</option>
+<option value="16" >16</option>
+<option value="17" >17</option>
+<option value="18" >18</option>
+<option value="19" >19</option>
+<option value="20" >20</option>
+<option value="21" >21</option>
+<option value="22" >22</option>
+<option value="23" >23</option>
+<option value="24" >24</option>
+<option value="25" >25</option>
+<option value="26" >26</option>
+<option value="27" >27</option>
+<option value="28" >28</option>
+<option value="29" >29</option>
+<option value="30" >30</option>
+<option value="31" >31</option>
+</select>
+<select name="month" id="f_month">
+<option value="1" selected="selected">January</option>
+<option value="2" >February</option>
+<option value="3" >March</option>
+<option value="4" >April</option>
+<option value="5" >May</option>
+<option value="6" >June</option>
+<option value="7" >July</option>
+<option value="8" >August</option>
+<option value="9" >September</option>
+<option value="10" >October</option>
+<option value="11" >November</option>
+<option value="12" >December</option>
+</select>
+<select name="year" id="f_year">
+<option value="1992" >1992</option>
+<option value="1993" >1993</option>
+<option value="1994" >1994</option>
+<option value="1995" >1995</option>
+<option value="1996" >1996</option>
+<option value="1997" >1997</option>
+<option value="1998" >1998</option>
+<option value="1999" >1999</option>
+<option value="2000" >2000</option>
+<option value="2001" >2001</option>
+<option value="2002" >2002</option>
+<option value="2003" >2003</option>
+<option value="2004" >2004</option>
+<option value="2005" >2005</option>
+<option value="2006" >2006</option>
+<option value="2007" >2007</option>
+<option value="2008" >2008</option>
+<option value="2009" >2009</option>
+<option value="2010" >2010</option>
+<option value="2011" >2011</option>
+<option value="2012" selected="selected">2012</option>
+</select>
+<button type="submit">Go</button>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+</div>
+<div id="bottom">
+<div class="widget filmstrip imagetext widget-editable viziwyg-section-1023 inpage-widget-5054673 greyRulerBottom greyRuler "
+>
+<a class="prev browse left"></a>
+<div id="filmstrip-5054673" class="scrollable h148"
+style="margin-left: 22.5px; margin-right: 22.5px; width: 815.0px;">
+<div class="items">
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/people/news/katy-perry-leads-peoples-choice-winners-6288487.html">
+<img alt="Katy Perry leads People's choice winners" src="http://www.independent.co.uk/incoming/article6288492.ece/ALTERNATES/w148/katyperry.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-1"/>
+</a>
+<div class="" id="div-caption-1">
+<h2 class="fs_title">People&#039;s choice winners</h2> <div class="fs_body">Katy Perry won the most awards but did not attend ceremony</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/the-revolution-will-be-televised-apples-plan-to-reinvent-the-box-6288381.html">
+<img alt="The revolution will be televised: Apple's plan to reinvent the box" src="http://www.independent.co.uk/incoming/article6288140.ece/ALTERNATES/w148/pg-36-television-2-getty.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-2"/>
+</a>
+<div class="" id="div-caption-2">
+<h2 class="fs_title">Apple&#039;s plan to reinvent the box</h2> <div class="fs_body">Rumours that Apple is to enter the television-set market are casting a digital shadow over the industry</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/tv/features/andrew-scott-a-pinup-who-is-hard-to-pin-down-6288320.html">
+<img alt="Andrew Scott: A pin-up who is hard to pin down" src="http://www.independent.co.uk/incoming/article6288505.ece/ALTERNATES/w148/andrew-scott.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-3"/>
+</a>
+<div class="" id="div-caption-3">
+<h2 class="fs_title">Andrew Scott: A pin-up who is hard to pin down</h2> <div class="fs_body">Scott&#039;s career has been as unpredictable as his portrayal of Moriarty in the BBC&#039;s new Sherlock Holmes</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/the-10-best-fitness-gadgets-6288321.html">
+<img alt="The 10 Best Fitness Gadgets" src="http://www.independent.co.uk/incoming/article6288122.ece/ALTERNATES/w148/pg-40-TEN-BEST-1.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-4"/>
+</a>
+<div class="" id="div-caption-4">
+<h2 class="fs_title">The 10 Best Fitness Gadgets</h2> <div class="fs_body">From scales that let you measure your own &#034;fat content&#034; to an underwater MP3 player</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/education/schools/wanted-one-school-must-be-prepared-to-travel-6288309.html">
+<img alt="Wanted: one school, must be prepared to travel" src="http://www.independent.co.uk/incoming/article6288133.ece/ALTERNATES/w148/pg-38-portable-schools-1.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-5"/>
+</a>
+<div class="" id="div-caption-5">
+<h2 class="fs_title">Wanted: one school, must be prepared to travel</h2> <div class="fs_body">How did an article in The Independent lead to the creation of a portable school for Burmese refugee children?</div> </div>
+</div>
+</div>
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/education/schools/nasuwt-we-can-win-the-hearts-and-minds-of-parents-6288316.html">
+<img alt="Nasuwt: 'We can win the hearts and minds of parents'" src="http://www.independent.co.uk/incoming/article6288120.ece/ALTERNATES/w148/pg-50-teachers-union-getty.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-6"/>
+</a>
+<div class="" id="div-caption-6">
+<h2 class="fs_title">Nasuwt: &#039;We can win the hearts and minds of parents&#039;</h2> <div class="fs_body">The UK&#039;s largest teaching union has begun industrial action but its leader is convinced families will be right behind it</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/architecture/shadows-on-the-horizon-the-rise-and-rise-of-skyscrapers-6288162.html">
+<img alt="Shadows on the horizon: The rise and rise of skyscrapers" src="http://www.independent.co.uk/incoming/article6288233.ece/ALTERNATES/w148/pg-34-skyscrapers-getty.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-7"/>
+</a>
+<div class="" id="div-caption-7">
+<h2 class="fs_title">Shadows on the horizon</h2> <div class="fs_body">The rise and rise of skyscrapers</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/americas/im-not-some-kind-of-angry-black-woman-says-michelle-obama-6288338.html">
+<img alt="'I'm not some kind of angry black woman' says Michelle Obama" src="http://www.independent.co.uk/incoming/article6288300.ece/ALTERNATES/w148/pg-2-michelle-obama-cbs.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-8"/>
+</a>
+<div class="" id="div-caption-8">
+<h2 class="fs_title">&#039;I&#039;m not some kind of angry black woman&#039; says Michelle</h2> <div class="fs_body">America&#039;s First Lady uses TV interview to hit out at rumours that she&#039;s losing Barack friends and alienating Washington&#039;s powerful people</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/americas/pardon-governor-sparks-outcry-by-letting-off-200-criminals-6288229.html">
+<img alt="Pardon? Governor sparks outcry by letting off 200 criminals" src="http://www.independent.co.uk/incoming/article6288238.ece/ALTERNATES/w148/pg-30-pardon-getty.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-9"/>
+</a>
+<div class="" id="div-caption-9">
+<h2 class="fs_title">Pardon? Governor sparks outcry by letting off 200 criminals</h2> <div class="fs_body">Rapists and murderers benefit as former Mississippi hardliner has extraordinary conversion</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/sport/football/news-and-comment/james-lawton-dalglishs-men-finally-show-the-acceptable-side-of-liverpool-fc-6288384.html">
+<img alt="James Lawton: Dalglish's men finally show the acceptable side of Liverpool FC" src="http://www.independent.co.uk/incoming/article6288367.ece/ALTERNATES/w148/pg-68-lawton-paver2ver2.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-10"/>
+</a>
+<div class="" id="div-caption-10">
+<h2 class="fs_title">James Lawton</h2> <div class="fs_body">Dalglish&#039;s men finally show the acceptable side of Liverpool FC</div> </div>
+</div>
+</div>
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/sport/football/news-and-comment/espn-to-continue-its-touchline-analysis-despite-keowns-whack-6288210.html">
+<img alt="ESPN to continue its touchline analysis despite Keown's whack" src="http://www.independent.co.uk/incoming/article6288190.ece/ALTERNATES/w148/pg-66-keown-espnver2.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-11"/>
+</a>
+<div class="" id="div-caption-11">
+<h2 class="fs_title">ESPN to continue its touchline analysis despite Keown&#039;s whack</h2> <div class="fs_body">Broadcaster keen to bring fans &#039;as close to game as possible&#039;</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/sport/rugby/rugby-union/international/changing-of-the-redrose-guard-6288200.html">
+<img alt="Changing of the red-rose guard" src="http://www.independent.co.uk/incoming/article6288193.ece/ALTERNATES/w148/pg-64-changing-guard-getty.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-12"/>
+</a>
+<div class="" id="div-caption-12">
+<h2 class="fs_title">Changing of the red-rose guard</h2> <div class="fs_body">It looks like the end of the road for Tindall and Co as Stuart Lancaster launches new era for English rugby by calling up exciting and energised young guns</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/films/news/allmale-shortlist-announced-for-bafta-rising-star-award-6287971.html">
+<img alt="All-male shortlist announced for Bafta Rising Star award" src="http://www.independent.co.uk/incoming/article6287954.ece/ALTERNATES/w148/Adam-Deacon.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-13"/>
+</a>
+<div class="" id="div-caption-13">
+<h2 class="fs_title">Bafta Rising Star shortlist</h2> <div class="fs_body">All male nominations dominated by homegrown talent</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/science/archaeology/1000piece-puzzle-may-unlock-secrets-to-the-roman-conquest-of-britain-6287730.html">
+<img alt="" src="http://www.independent.co.uk/incoming/article6287887.ece/ALTERNATES/w148/front.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-14"/>
+</a>
+<div class="" id="div-caption-14">
+<h2 class="fs_title">1,000-piece puzzle may unlock Roman conquest secrets</h2> <div class="fs_body">Historians are trying to solve an ancient mystery</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/asia/video-south-korean-army-train-half-naked-in-snow-6287940.html?action=gallery">
+<img alt="South Korean army train half-naked in snow" src="http://www.independent.co.uk/incoming/article6287981.ece/ALTERNATES/w148/136733264.jpg" width="148"
+height="222"
+class=""
+rel="div-caption-15"/>
+</a>
+<div class="" id="div-caption-15">
+<h2 class="fs_title">Soldiers train half-naked in snow</h2> <div class="fs_body">South Korean army shows it is made of tough stuff</div> </div>
+</div>
+</div>
+</div>
+</div>
+<a class="next browse right"></a>
+<br class="c"/>
+<script type="text/javascript">
+$(document).ready(function() {
+// initialize scrollable together with the navigator plugin
+$("#filmstrip-5054673").scrollable().navigator();
+$("#filmstrip-5054673 .page img").captify();
+});
+</script>
+</div>
+</div>
+<div id="footer">
+<div class="x170x515x255 "
+>
+<div class="column-1">
+<div class="widget logo default widget-editable viziwyg-section-1042 inpage-widget-6138622" >
+<a href="http://www.independent.co.uk/" title="">
+<img src="http://www.independent.co.uk/config/article6138600.ece/BINARY/original/footer-logo.png"
+alt="ind"
+title="ind"/>
+</a>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1042 inpage-widget-6138618 footerLogoBox" >
+<strong>The Independent</strong></br>2 Derry Street London W8 5TT<p>&copy; independent.co.uk</p>
+</div>
+</div>
+<div class="column-2">
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054706"
+>
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/legal-terms-amp-policies-759573.html">
+Terms &amp; Policies </a> </li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/privacy-policy-759574.html">
+Privacy Policy </a> </li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/evening-standard-limited-and-independent-print-limited--code-of-conduct-6280644.html">
+Code of Conduct </a> </li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/sign-up-for-our-indynews-email-service-759590.html">
+Email newsletter </a> </li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/list-of-rss-feeds-775086.html">
+RSS </a> </li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/contact-us-759589.html">
+Contact us </a> </li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/independent-syndication-915183.html">
+Syndication </a> </li>
+</ul>
+</div>
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054705"
+>
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/subscriptions/">
+Subscriptions </a> </li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/work-for-inm-759587.html">
+Work for us </a> </li>
+<li class="-nav ">
+<a href="http://www.thisislondon.co.uk/standard" target="_blank">
+Evening Standard </a> </li>
+<li class="-nav ">
+<a href="http://www.homesandproperty.co.uk/" target="_blank">
+Homes &amp; Property </a> </li>
+<li class="-nav ">
+<a href="http://ijobs.independent.co.uk/" target="_blank">
+iJobs </a> </li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/advertising-guide/">
+Advertising Guide </a> </li>
+</ul>
+</div>
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054710"
+>
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://en.novayagazeta.ru/" target="_blank">
+Novaya Gazeta (English) </a> </li>
+<li class="-nav ">
+<a href="http://www.thejournalismfoundation.com/" target="_blank">
+The Journalism Foundation </a> </li>
+</ul>
+</div>
+</div>
+<div class="column-3">
+<div class="widget search simpleForm widget-editable viziwyg-section-1023 inpage-widget-5054704 superSearchBox"
+>
+<script type="text/javascript" src="http://www.independent.co.uk/resources/js/searchFormHandler.js"></script>
+<div class="simpleSearch" id="simpleSearch-5054704">
+<form action="http://www.independent.co.uk/search/simple.do" method="get"
+onsubmit="return validateSimpleSearchForm(this, 'emptySearchExpressionError-5054704');">
+<fieldset>
+<input type="hidden" name="destinationSectionUniqueName" value="search" />
+<input type="hidden" name="publicationName" value="ind" />
+<input type="hidden" name="sortString" value="publishdate" />
+<input type="hidden" name="sortOrder" value="desc" />
+<input type="hidden" name="sectionId" value="506" />
+<input type="hidden" name="articleTypes" value="news" />
+<input type="hidden" name="pageNumber" value="1" />
+<input type="hidden" name="pageLength" value="10" />
+<input type="hidden" name="startDay" value="1" />
+<input type="hidden" name="startMonth" value="1" />
+<input type="hidden" name="startYear" value="2010" />
+<input type="hidden" name="useSectionFilter" value="true" />
+<input type="hidden" name="useHideArticle" value="true" />
+<p class="error" id="emptySearchExpressionError-5054704" style="display:none;">
+Please provide search keyword(s)
+</p>
+<input type="text" name="searchString" value="" class="field" />
+<input type="submit" value="Go" class="button" title="Click here to search" />
+</fieldset>
+</form>
+</div>
+<script type="text/javascript">
+$(function() {
+$("#simpleSearch-5054704 .field").autocomplete({
+source: ajaxCall ,
+delay: 2000.00,
+close: function(event, ui) {
+$("#simpleSearch-5054704 .field").autocomplete("option", "delay", 500.00);
+},
+select: function(event, ui) {
+var articleId = ui.item.id;
+openLink('http://www.independent.co.uk/eceRedirect?articleId=' + articleId, '_self');
+}
+});
+});
+function ajaxCall(request, response) {
+var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?~_";
+var term = $.trim(request.term.toLowerCase());
+var wordCount = term.split(" ").length;
+if (term.length > 0 && iChars.indexOf(term.charAt(0)) == -1) {
+var param = "(" + term + "*) publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+else{
+$("#simpleSearch-5054704 .field").autocomplete("close");
+}
+if (wordCount > 1 && responseCount == 0) {
+param = "(" + term + ") publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+}
+})
+}
+}
+})
+}
+else if (term.length > 0 && iChars.indexOf(term.charAt(0)) != -1) {
+$("#simpleSearch-5054704 .field").autocomplete("close");
+alert("Search word should not start with !@#$%^&*()+=-[]\\\';,./{}|\":<>?~_");
+}
+}
+</script>
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054702 searchLinks" >
+<ul >
+<li>
+<a href="http://www.independent.co.uk/advancedsearch/" >
+<span>Advanced Search </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/dayinapage/" >
+<span>Day in a page </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/article-archive/" >
+<span>Article archive </span>
+</a>
+</li>
+</ul>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1023 inpage-widget-6138554 copyright" >
+<strong>&copy; independent.co.uk</strong>
+</div>
+</div>
+</div>
+<script type="text/javascript" language="javascript" src="http://js.revsci.net/gateway/gw.js?csid=D05509" charset="ISO-8859-1"></script>
+<script type="text/javascript">
+DM_tag();
+</script>
+</div>
+</div>
+</div>
+<!-- Start Omniture Tracking Code -->
+<script type="text/javascript" src="/template/custom/footer/catalyst.js"></script>
+<script type="text/javascript"><!--
+s.pageName="news/science/article6288344";
+s.server="www.independent.co.uk";
+s.channel="news";
+s.prop1="news:science";
+s.prop2="";
+s.prop3="";
+s.hier1="news,science";
+s.pageType="";
+s.prop11="Addicted! Scientists show how internet dependency alters the human brain";
+s.prop12="addicted-scientists-show-how-internet-dependency-alters-the-human-brain-6288344.html";
+s.prop13="Jeremy Laurance";
+s.prop16="Thursday, 12 January 2012";
+s.events="event7";
+s.prop22="D=User-Agent";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+//--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://indepdev.122.2O7.net/b/ss/indepdev/1/H.19.3--NS/0?[AQB]&cdp=3&[AQE]&pageName=http://www.independent.co.uk/news/science/Addicted! Scientists show how internet dependency alters the human brain"
+height="1" width="1" border="0" alt="" /></a></noscript>
+<!-- End Omniture Tracking Code -->
+</div>
+</div>
+</div>
+<script type="text/javascript">
+objPageSkin.init();
+</script>
+</body>
+</html>
+

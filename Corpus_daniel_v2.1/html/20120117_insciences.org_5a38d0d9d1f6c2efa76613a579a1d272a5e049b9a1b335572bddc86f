@@ -1,0 +1,641 @@
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>Anti-malaria drug synthesised with the help of oxygen and light - insciences</title>
+<meta name="verify-v1" content="qWqqzXz/ASygiTRw2dS+C6aUN1qUUv78sPCiobuy9v4=" />
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+
+
+
+<link rel="stylesheet" href="/css/news.css" title="stylesheet" type="text/css"> 
+<link rel="stylesheet" href="/css/main.css" title="stylesheet" type="text/css">   
+
+ <link rel="shortcut icon" href="http://insciences.org/templates/favicon3.ico" />
+
+
+
+          
+
+</head>
+<body id="top">
+<br />
+
+
+	<div id="layer">
+
+          
+
+
+
+
+<div id="smoothbox_container"></div>
+
+
+
+
+
+		<!-- |-| HEADER |-| -->
+	
+		<div id="header">
+		
+			<!-- |-| LOGO |-| -->
+			
+			<a href="home.php"><img src="images/logo.gif" alt="" border="0" id="logo" /></a>
+			
+			<!-- |-| QUICK NAVIGATION |-| -->
+			
+			<ul>
+			
+			 
+				<li><img src="./images/icons/rssfeed16.gif" class="icon" border="0"><a href="feeds.php">RSS-Feeds</a></li>
+				<li>|</li>
+
+				<li><a href="content.php?page=about-us">About us</a></li>
+				 <li>|</li>
+				<li><a href="content.php?page=advisory-board">Advisory Board</a></li>
+				 <li>|</li>
+
+				<li><a href="content.php?page=donation-and-sponsorship">Sponsorship and Donations</a></li>
+				 <li>|</li>
+
+
+				<li><a href="help_tos.php">Terms of Service</a></li>
+				 <li>|</li>
+				<li><a href="content.php?page=privacy">Privacy Policy</a></li>
+				 <li>|</li>
+
+				<li><a href="help_contact.php">Contact</a></li>
+			
+			</ul>
+			
+			<!-- |-| SEARCH |-| -->
+			
+			<div id="suche">
+			
+				<form action="search.php" method="post">
+				   
+    					<input type='text' name='search_text' class='text' size='25'>
+    					<input type='submit' class='button' value=''>
+    					<input type='hidden' name='task' value='dosearch'>
+   					<input type='hidden' name='t' value='0'>
+				
+				</form>
+			
+			</div>
+		
+		</div>
+
+
+
+
+		<!-- |-| MENU LAYER |-| -->
+		
+		<div id="menu">
+		
+			<!-- |-| MENU #1 |-| -->
+		
+			<ul class="menu">
+			
+				<li><a href="home.php" class="aktiv">Home</a></li>
+				<li class="tre">&nbsp;</li>
+
+  				
+				  				    				 
+ 				     				      				<li><a href='articles.php' class='tre'>Science News</a></li>
+				<li class="tre">&nbsp;</li>
+    				 
+ 				     				      				<li><a href='browse_events.php' class='tre'>Events</a></li>
+				<li class="tre">&nbsp;</li>
+    				 
+ 				     				      				<li><a href='browse_groups.php' class='tre'>Groups</a></li>
+				<li class="tre">&nbsp;</li>
+    				 
+ 				     				      				<li><a href='browse_classifieds.php' class='tre'>Jobs</a></li>
+				<li class="tre">&nbsp;</li>
+    				 
+ 				     				 
+ 				     				      				<li><a href='browse_vids.php' class='tre'>Videos</a></li>
+				<li class="tre">&nbsp;</li>
+    				 
+ 				     				 
+ 				     				 
+ 				     				      				<li><a href='forum.php?c=forum&op=index' class='tre'>Forum</a></li>
+				<li class="tre">&nbsp;</li>
+    				 
+ 				     				 
+ 				     				 
+ 				 
+			</ul>
+			
+			<!-- |-| USER CONTROL |-| -->
+	
+
+
+		
+
+
+
+  			  						
+		 			<div id="usercontrol">	
+					<ul>
+			
+
+					<li><a href="signup.php">Signup</a></li>
+					<li>|</li>
+
+					<li><a href="login.php">Login</a></li>
+				
+				</ul>
+			
+			</div>
+
+  			
+
+			</div>
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+
+		<div id="content_news">
+		
+	        <div id="left">
+
+
+             
+                <div class="box_top"></div>
+                <div class="box">
+
+
+               
+                	<div class="getNav">
+
+
+<!-- AddThis Button BEGIN -->
+
+
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_favorites"></a>
+<a class="addthis_button_print"></a>
+<span class="addthis_separator">|</span>
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=insciences" class="addthis_button_expanded">More</a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=insciences"></script>
+<!-- AddThis Button END -->
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                	<p class="published">Published on 17 January 2012, 04:35 </p>
+                    
+                    <hr />
+
+       
+                    <p class="tags">Categories:
+		    		    <a href="articles.php?tag=Anti-malaria drugs">Anti-malaria drugs</a>
+		    		    <a href="articles.php?tag=Artemisinic acid">Artemisinic acid</a>
+		    		    <a href="articles.php?tag=Artemisinin">Artemisinin</a>
+		    		    <a href="articles.php?tag=Biotechnology">Biotechnology</a>
+		    		    <a href="articles.php?tag=Malaria">Malaria</a>
+		    		    <a href="articles.php?tag=Pharmaceutical Science">Pharmaceutical Science</a>
+		    		    <a href="articles.php?tag=Sweet wormwood">Sweet wormwood</a>
+		      </p>
+                    
+                    <div class="article_title">Anti-malaria drug synthesised with the help of oxygen and light </div>
+   
+          
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-8855685677737446";
+/* Insciences Articles Up, 468x60 */
+google_ad_slot = "9942477527";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+            
+<hr />   
+                 
+                    <div class="article_body">
+
+
+
+  
+
+
+<div class="image_detail">
+                    
+              	<a href="#pics">
+
+
+<img src='./uploads_article/11000/10632/0_9603.jpg' border='0' width='180'> </a>
+<script type="text/javascript"><!--
+google_ad_client = "pub-8855685677737446";
+/* insciences - articles - content 180x150, Erstellt 11.12.09 */
+google_ad_slot = "6973309617";
+google_ad_width = 180;
+google_ad_height = 150;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+</div>
+
+
+
+
+             
+         
+
+                        
+                        <p><p><strong>In future it should be possible to produce the best anti-malaria drug,  artemisinin, more economically and in sufficient volumes for all  patients.</strong></p><p>The most effective anti-malaria drug can now be produced inexpensively  and in large quantities. This means that it will be possible to provide  medication for the 225 million malaria patients in developing countries  at an affordable price. Researchers at the Max Planck Institute of  Colloids and Interfaces in Potsdam and the Freie UniversitГ¤t Berlin have  developed a very simple process for the synthesis of artemisinin, the  active ingredient that pharmaceutical companies could only obtain from  plants up to now. The chemists use a waste product from current  artemisinin production as their starting substance. This substance can  also be produced biotechnologically in yeast, which the scientists  convert into the active ingredient using a simple yet very ingenious  method.</p><p>There is an effective treatment against malaria, but it is not  accessible to all of the more than 200 million people worldwide who are  affected by the disease. Millions, especially in the developing world,  cannot afford the combination drug preparation, which consists mainly of  artemisinin. Moreover, the price for the medication varies, as this  substance is isolated from sweet wormwood (<i>Artemisia annua</i>) which  grows mainly in China and Vietnam, and varies seasonally in its  availability. To make the drug affordable for at least some patients in  developing countries, the Clinton Foundation, for example, subsidises  its cost to the tune of several million dollars per year. Nevertheless,  over one million people die of malaria each year because they do not  have access to effective drugs.</p><p>This may be about to change. Peter H. Seeberger, Director at the Max  Planck Institute of Colloids and Interfaces in Potsdam and Professor of  Chemistry at the Freie UniversitГ¤t Berlin and his colleague FranГ§ois  LГ©vesque have discovered a very simple way of synthesising the  artemisinin molecule, which is known as an anti-malaria drug from  traditional Chinese medicine and has an extremely complex chemical  structure. вЂњThe production of the drug is therefore no longer dependent  on obtaining the active ingredient from plants,вЂќ says Peter Seeberger.</p><p><strong>Synthesis from a by-product of artemisinin production</strong></p><p>As a starting point, the chemists use artemisinic acid вЂ“ a substance  produced as a hitherto unused by-product from the isolation of  artemisinin from sweet wormwood, which is produced in volumes ten times  greater than the active ingredient itself. Moreover, artemisinic acid  can easily be produced in genetically modified yeast as it has a much  simpler structure. вЂњWe convert the artemisinic acid into artemisinin in a  single step,вЂќ says Peter Seeberger. вЂњAnd we have developed a simple  apparatus for this process, which enables the production of large  volumes of the substance under very controlled conditions.вЂќ The only  reaction sequence known up to now required several steps, following each  of which the intermediate products had to be isolated laboriously вЂ“ a  method that was far too expensive to offer as a viable alternative to  the production of the drug from plants.</p><p>The striking simplification of artemisinin synthesis required not  only a keen sense for an elegant combination of the correct partial  reactions to enable the process to take place in a single step; it also  took a degree of courage, as the chemists departed from the paths  typically taken by industry up to now. The effect of the molecule, which  not only targets malaria but possibly also other infections and even  breast cancer, is due to, among other things, a very reactive chemical  group formed by two neighbouring oxygen atoms вЂ“ which chemists refer to  as an endoperoxide. Peter Seeberger and FranГ§ois LГ©vesque use  photochemistry to incorporate this structural element into the  artemisinic acid. Ultraviolet light converts oxygen into a form that can  react with molecules to form peroxides.</p><p><strong>800 photoreactors should suffice to cover the global requirement for artemisinin</strong></p><p>вЂњPhotochemistry is a simple and cost-effective method. However, the  pharmaceutical industry has not used it to date because it was so  difficult to control and implement on a large scale,вЂќ explains Peter  Seeberger. In the large reaction vessels with which industrial  manufacturers work, flashes of light do not penetrate deeply enough from  outside and the reactive form of oxygen is not produced in sufficient  volumes. The Potsdam-based scientists have succeeded in resolving this  problem using an ingenious trick: They channel the reaction mixture  containing all of the required ingredients through a thin tube that they  have wrapped around a UV lamp. In this structure, the light penetrates  the entire reaction medium and triggers the chemical conversion process  with optimum efficiency.</p><p>вЂњThe fact that we do not carry out the synthesis as a one-pot  reaction in a single vessel, but in a continuous-flow reactor enables us  to define the reaction conditions down to the last detail,вЂќ explains  Peter Seeberger. After just four and a half minutes a solution flows out  of the tube, in which 40 percent of the artemisinic acid has become  artemisinin.</p><p>вЂњWe assume that 800 of our simple photoreactors would suffice to  cover the global requirement for artemisinin,вЂќ says Peter Seeberger. And  it could all happen very quickly. Peter Seeberger estimates that the  innovative synthesis process could be ready for technical use in a  matter of six months. This would alleviate the global shortage of  artemisinin and exert considerable downward pressure on the price of the  associated drugs.</p><p><strong>Publication: </strong>FranГ§ois LГ©vesque and Peter H. Seeberger<span class="link_like_text">, "Continuous-Flow Synthesis of the Anti-Malaria Drug Artemisinin</span>."<br />Angewandte Chemie international edition, 17 January 2012; DOI: 10.1002/anie.201107446</p><p><em>Photo: В© Peter H. Seeberger </em></p><p><strong>Contact: </strong>Brigitte WeiГџ, Press office, Tel: +49 89 2108-1276, E-mail: brigitte.weiss@gv.mpg.de</p><p><strong>Source: </strong> <a target="_blank" href="http://www.mpg.de/">Max-Planck-Gesellschaft, MГјnchen    </a></p></p>
+
+                    	<script type="text/javascript"><!--
+google_ad_client = "pub-8855685677737446";
+/* insciences article down, 468x60 */
+google_ad_slot = "8377767204";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+                    
+                    </div>                    
+                    
+                    <hr />
+
+
+                   
+                    <div class="links">
+
+				<p>
+<img src='./images/icons/article_view.gif' border='0' class='icon'> 76 Views 
+
+                    
+                    	<a target="_blank" href="http://feedburner.google.com/fb/a/mailverify?uri=insciences/articles&amp;loc=en_US" class="newsletter">E-Mail Newsletter</a> <a target="_blank" href="http://feeds2.feedburner.com/insciences/articles" class="rss">RSS Feed</a>
+
+</p>                        
+                        <div id="share">
+                      
+
+<!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=insciences"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=insciences"></script>
+<!-- AddThis Button END -->
+
+             
+                        </div>
+
+                    
+                    </div>
+                    
+               
+                </div>
+                <div class="box_bottom"></div>
+
+
+
+
+	<!-- BOX : SHOW PHOTOS -->
+     
+    
+                <div class="box_top"></div>
+                <div class="box">
+                
+              	<div align="center">
+
+      <table cellpadding='0' cellspacing='0' width='100%' style='margin-bottom: 10px;'>
+      <tr>
+      <td class='header'>
+       <a name="pics"></a> Photos (1)
+        &nbsp;<font class='profile_small'>[ <a href='article_album.php?article_id=10632'>view all photos</a> ]</font>
+      </td>
+      </tr>
+      <tr>
+      <td class='profile'>
+                
+                                                                
+                    <table cellpadding='0' cellspacing='0'><tr>
+          <td class='profile_friend'><a href='article_album_file.php?article_id=10632&articlemedia_id=2733'><img src='./uploads_article/11000/10632/2733_thumb.jpg' class='photo' border='0' width='75'></a></td>
+                                </tr></table>
+                        </td>
+      </tr>
+      </table>
+
+    
+
+</div>
+</div>
+
+                <div class="box_bottom"></div>
+                
+
+
+                
+            	<!-- BOX : RELATET NEWS -->
+                
+
+		
+    
+  
+
+                <div class="box_top"></div>
+                <div class="box">
+
+               
+               	<p><strong>Related News</strong></p>
+                    <p class="tags">Categories: 
+		    		    <a href="articles.php?tag=Anti-malaria drugs">Anti-malaria drugs</a>
+  		 		    <a href="articles.php?tag=Artemisinic acid">Artemisinic acid</a>
+  		 		    <a href="articles.php?tag=Artemisinin">Artemisinin</a>
+  		 		    <a href="articles.php?tag=Biotechnology">Biotechnology</a>
+  		 		    <a href="articles.php?tag=Malaria">Malaria</a>
+  		 		    <a href="articles.php?tag=Pharmaceutical Science">Pharmaceutical Science</a>
+  		 		    <a href="articles.php?tag=Sweet wormwood">Sweet wormwood</a>
+  		   </p>
+                    
+                    <br />
+
+
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=10616'>New candidate malaria vaccine neutralises parasite strains</strong></a> <span> 21 December 2011, 02:55 </span><br />A new candidate malaria vaccine with the  potential to neutralise all strains of the most deadly...</p> 
+	
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=10610'>Starving Cancer</strong></a> <span> 19 December 2011, 06:28 </span><br />A research group led by ETH Zurich professor Dario Neri have developed a  new strategy to fight...</p> 
+	
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=10607'>Malaria during pregnancy: new study assesses risks during first...</strong></a> <span> 14 December 2011, 08:03 </span><br />The  largest ever study to assess the effects of malaria and its treatment  in the first...</p> 
+	
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=10605'>Malaria deaths are down but progress remains fragile</strong></a> <span> 13 December 2011, 09:41 </span><br />13 December 2011 | Geneva -   		Malaria mortality rates have fallen by more than 25% globally...</p> 
+	
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=10372'>Modified vaccine shows promise in preventing malaria</strong></a> <span> 26 September 2011, 09:07 </span><br />EAST LANSING, Mich.&#160;вЂ” Continuing a global effort to prevent malaria  infections, Michigan...</p> 
+	
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=10341'>New Research Increases Understanding of Drug Effects in Treatment...</strong></a> <span> 16 September 2011, 09:46 </span><br />One drug doesnвЂ™t fit all! New integration of technologies to understand drug dynamics.Just like...</p> 
+	
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=10308'>Malaria Discovery Gives Hope for New Drugs and Vaccines</strong></a> <span> 31 August 2011, 05:03 </span><br />An investigation into the mysterious inner workings of the malaria  parasite has revealed that it...</p> 
+	
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=10130'>Wolbachia Bacteria Reduce Parasite Levels and Kill the Mosquito...</strong></a> <span> 20 May 2011, 08:35 </span><br />Wolbachia are bacteria that infect many insects, including mosquitoes. However, Wolbachia  do not...</p> 
+	
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=10083'>Mystery solved: How sickle hemoglobin protects against malaria</strong></a> <span> 2 May 2011, 08:13 </span><br />The latest issue of the journal Cell* carries an article that is likely  to help solve one of the...</p> 
+	
+	  	    	      
+	        <p class="related"><strong> <a href='article.php?article_id=9952'>UCLA engineers demonstrate use of proteins as raw material for...</strong></a> <span> 6 March 2011, 14:00 </span><br />Two types of raw materials are currently used for biorefining and  biofuel production:...</p> 
+	
+	  </div>
+
+ 
+  
+
+
+                <div class="box_bottom"></div>
+            
+            </div>
+            
+            <div id="right">
+
+
+
+            
+            	<!-- MEMBERSHIP BUTTON -->
+
+
+				
+          
+            	<p><a href="/signup.php"><img src="images/news/membership_button.png" alt="" border="0" /></a></p>
+
+		
+
+
+             
+                <!-- BOX : NEWSLETTER -->
+                
+                <div class="box_top"></div>
+                <div class="box">
+  					
+                    <p align="center"><strong>Newsletter</strong><br /></p>
+                    
+                <div id="newsletter">
+                    
+                        <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=insciences/articles', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><input name="email" class="formular" value="Enter your email address!" onblur="if (this.value=='') this.value='Enter your email address!';" onfocus="if (this.value=='Enter your email address!') this.value='';" type="text"> <input type="hidden" value="insciences/articles" name="uri"/><input type="hidden" name="loc" value="en_US"/> <input value="ok" type="submit"><p></form>
+                    
+                    </div>
+                   
+<p class="small" align="center">Subscribe to daily Science News<br>(a free e-mail delivery powered by Google)</p>
+                    </div>
+                <div class="box_bottom"></div>
+                
+
+                <!-- BOX : Insciences Journal -->
+                
+                <div class="box_top"></div>
+                <div class="box">
+<br />
+<p align="center"><a href="http://journal.insciences.org/"><img src="http://journal.insciences.org/wp-content/themes/insciencesjournal/images/logo.jpg
+" alt="" border="0" /></a></p>
+
+<br />
+
+                                               <p align="justify">Insciences Organisation has launched its official peer- reviewed, Open-access journal: Insciences Journal (ISSN 1664-171X) <a href="http://journal.insciences.org/">>>>>  </a></p>
+
+                </div>
+                <div class="box_bottom"></div>
+
+
+                <!-- BOX : CATEGORIES -->
+
+                <div class="box_top"></div>
+                <div class="box">
+                
+
+            <p align="center"><strong>Top Categories</strong></p>
+   		<div class="articletags">
+    		      	<a class="tag7" href="articles.php?tag=Alzheimer">Alzheimer</a>
+          	<a class="tag6" href="articles.php?tag=Astronomy">Astronomy</a>
+          	<a class="tag6" href="articles.php?tag=Bacteria">Bacteria</a>
+          	<a class="tag7" href="articles.php?tag=Biochemistry">Biochemistry</a>
+          	<a class="tag5" href="articles.php?tag=Biology">Biology</a>
+          	<a class="tag8" href="articles.php?tag=Blood">Blood</a>
+          	<a class="tag5" href="articles.php?tag=Brain">Brain</a>
+          	<a class="tag6" href="articles.php?tag=Breast Cancer">Breast Cancer</a>
+          	<a class="tag1" href="articles.php?tag=Cancer">Cancer</a>
+          	<a class="tag8" href="articles.php?tag=Cell Biology">Cell Biology</a>
+          	<a class="tag6" href="articles.php?tag=Chemistry">Chemistry</a>
+          	<a class="tag6" href="articles.php?tag=Climate">Climate</a>
+          	<a class="tag7" href="articles.php?tag=DNA">DNA</a>
+          	<a class="tag8" href="articles.php?tag=Depression">Depression</a>
+          	<a class="tag6" href="articles.php?tag=Diabetes">Diabetes</a>
+          	<a class="tag3" href="articles.php?tag=Diseases">Diseases</a>
+          	<a class="tag4" href="articles.php?tag=Drugs">Drugs</a>
+          	<a class="tag7" href="articles.php?tag=Ecology">Ecology</a>
+          	<a class="tag6" href="articles.php?tag=Energy">Energy</a>
+          	<a class="tag7" href="articles.php?tag=Engineering">Engineering</a>
+          	<a class="tag7" href="articles.php?tag=Environment">Environment</a>
+          	<a class="tag7" href="articles.php?tag=Enzymes">Enzymes</a>
+          	<a class="tag5" href="articles.php?tag=Genes">Genes</a>
+          	<a class="tag3" href="articles.php?tag=Genetics">Genetics</a>
+          	<a class="tag7" href="articles.php?tag=Global warming">Global warming</a>
+          	<a class="tag6" href="articles.php?tag=HIV">HIV</a>
+          	<a class="tag5" href="articles.php?tag=Health">Health</a>
+          	<a class="tag8" href="articles.php?tag=Heart">Heart</a>
+          	<a class="tag8" href="articles.php?tag=Hormones">Hormones</a>
+          	<a class="tag6" href="articles.php?tag=Immune system">Immune system</a>
+          	<a class="tag7" href="articles.php?tag=Life Sciences">Life Sciences</a>
+          	<a class="tag7" href="articles.php?tag=Marine Science">Marine Science</a>
+          	<a class="tag5" href="articles.php?tag=Materials Science">Materials Science</a>
+          	<a class="tag2" href="articles.php?tag=Medicine">Medicine</a>
+          	<a class="tag7" href="articles.php?tag=Molecular Biology">Molecular Biology</a>
+          	<a class="tag3" href="articles.php?tag=Nanotechnology">Nanotechnology</a>
+          	<a class="tag4" href="articles.php?tag=Neuroscience">Neuroscience</a>
+          	<a class="tag8" href="articles.php?tag=Nutrition">Nutrition</a>
+          	<a class="tag7" href="articles.php?tag=Obesity">Obesity</a>
+          	<a class="tag4" href="articles.php?tag=Physics">Physics</a>
+          	<a class="tag8" href="articles.php?tag=Plants">Plants</a>
+          	<a class="tag7" href="articles.php?tag=Pregnancy">Pregnancy</a>
+          	<a class="tag2" href="articles.php?tag=Proteins">Proteins</a>
+          	<a class="tag7" href="articles.php?tag=Psychology">Psychology</a>
+          	<a class="tag8" href="articles.php?tag=Space">Space</a>
+          	<a class="tag5" href="articles.php?tag=Stem cells">Stem cells</a>
+          	<a class="tag3" href="articles.php?tag=Technology">Technology</a>
+          	<a class="tag7" href="articles.php?tag=Vaccines">Vaccines</a>
+          	<a class="tag8" href="articles.php?tag=Vision">Vision</a>
+          	<a class="tag8" href="articles.php?tag=prostate cancer">prostate cancer</a>
+    
+                </div></div>
+                <div class="box_bottom"></div>
+
+
+
+
+
+                <!-- BOX : Facebook Activity -->
+
+
+                <div class="box_top"></div>
+                <div class="box">
+<br />               
+<iframe src="http://www.facebook.com/plugins/activity.php?site=www.insciences.org&amp;width=250&amp;height=400&amp;header=false&amp;colorscheme=light&amp;font&amp;border_color&amp;recommendations=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:400px;" allowTransparency="false"></iframe>
+<br />
+
+
+                </div>
+                <div class="box_bottom"></div>
+
+
+               <!-- BOX : TWITTER AND FACEBOOK -->
+
+
+                
+<br />
+
+<center>               
+<a href="http://www.twitter.com/insciences"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-a.png" alt="Follow insciences on Twitter"/></a>
+
+
+<br />
+<!-- Facebook Badge START --><br/><a href="http://www.facebook.com/pages/Insciences-Organisation/158727854882" title="Insciences Organisation" target="_TOP"><img src="http://badge.facebook.com/badge/158727854882.3256.738313246.png" width="120" height="90" style="border: 0px;" /></a><br/><!-- Facebook Badge END -->
+           
+</center>    
+
+                
+
+
+                <!-- BOX : GOOGLE ADS -->
+                
+
+                
+                <!-- ... -->
+           
+            </div>
+            
+            <div id="cleaner">&nbsp;</div>
+        
+		</div>
+
+	</div>
+
+
+
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class='copyright'>
+  Copyright 2012 &nbsp;-&nbsp;
+  <a href='help.php' class='copyright'>FAQ</a> &nbsp;-&nbsp;
+  <a href='help_tos.php' class='copyright'>Terms of Service</a> &nbsp;-&nbsp;
+  <a href='help_contact.php' class='copyright'>Contact Us</a>
+</div>
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-8887809-1");
+pageTracker._trackPageview();
+</script>
+
+</body>
+
+</html>

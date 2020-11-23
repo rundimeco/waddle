@@ -1,0 +1,1297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="marieclaire-co-uk" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
+	<head>
+    <meta http-equiv="Cache-Control" content="public" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="ipc_articleid" content="533373" />
+<meta name="ipc_tags" content="" />
+<meta name="ipc_datatype" content="article" />
+<meta name="title" content="Mr Perfect doesn&#039;t exist | Marie Claire" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="grooming, women, partner, positive attributes, positive, man, men, listening, friends, Remington, imperfection, perfection, sense of humour, personality, snoring, David Beckham, friends, multi-tasking, flaws, effort, friends" />
+<meta name="description" content="If you&#039;re still searching for your perfect man it might be time to give up after a poll failed to find even one woman who is completely happy with her partner" />
+<meta name="language" content="en" />
+<meta name="google-site-verification" content="LjN6fO9-FIa2AI3i6yw7PXbFp1-bAzm4LLwstKCxEYc" />
+<script type="text/javascript" charset="utf-8">
+  (function loadAdtechAugmentation() {
+    var protocol =  ("https:" == document.location.protocol) ? "https://" : "http://";
+        url = ("https:" == document.location.protocol) ? "secure.assets.ipcdigital.co.uk/js/1.0.1-p0/adtech.js" : "assets.ipcdigital.co.uk/js/1.0.1-p0/adtech.js",
+        f = unescape("%3Cscript src='" + protocol + url + "' type='text/javascript'%3E%3C/script%3E");
+    document.write(f);
+  })();
+</script>
+
+<script type="text/javascript" charset="utf-8">
+(function() {
+  adprobe = {};
+  adprobe.wlOrd = new Date().getTime();
+  adprobe.publisher_id     = 1568;
+  adprobe.website_id       = 5849;
+  adprobe.content_unit_id  = 9969;
+  adprobe.content_unit_ids = '9969,9970';
+  adprobe.url              = 'req.connect.wunderloop.net/AP/' + adprobe.publisher_id + '/' + adprobe.website_id + '/' 
+                              + adprobe.content_unit_id + '/js?cus=' + adprobe.content_unit_ids 
+                              + '&ord=' + adprobe.wlOrd;
+  adprobe.protocol = ('https:' === document.location.protocol) ? 'https://' : 'http://';
+  adprobe.final = unescape("%3Cscript src='" + adprobe.protocol + adprobe.url + "' type='text/javascript'%3E%3C/script%3E");
+
+  document.write(adprobe.final);
+}());
+</script>
+<script type="text/javascript" charset="utf-8">
+  (function() {
+    adprobe.content_unit_ids = adprobe.content_unit_ids.split(',');
+    // function to process and push params
+    var key = '', i = 0, content_unit_id_name = '';
+    for (i=0; i < adprobe.content_unit_ids.length; i+=1) {
+      content_unit_id_name = 'wl' + adprobe.content_unit_ids[i] + 'camp';
+      if ('' === window[content_unit_id_name]) {
+        key += adprobe.content_unit_ids[i] + '-no';
+      } else {
+        key += adprobe.content_unit_ids[i] + '-yes';
+      }
+      // don't add a + if this is the last of the key to be processed
+      (i !== (adprobe.content_unit_ids.length - 1)) ? key += '+': '';
+    }
+    window.ipc_adprobe_ids = key;
+    if (typeof(ipc) !== 'undefined' && ipc && ipc.adtech) {
+      ipc.adtech.pushParams({
+        'name': 'ipc_adprobe_ids',
+        'placement': 'before',
+        'order': 5, 'fn': function(val) {
+          if (!val) {
+            val = '';
+          }
+          return val;
+        }});
+
+      for (i=0; i < adprobe.content_unit_ids.length; i+=1) {
+        content_unit_id_name = 'wl' + adprobe.content_unit_ids[i] + 'camp';
+        ipc.adtech.pushTransferVariables({
+          'name': content_unit_id_name,
+          'value': window[content_unit_id_name]
+        });
+      }
+    };
+  }());
+</script>
+
+
+<!-- GRAPESHOT channel tag -->
+<script type="text/javascript" language="Javascript">
+//<!--
+window.gs_channels="DEFAULT";
+
+document.write('<scr' + 'ipt type="text/javascript" language="javascript" src="http://ipcmedia.grapeshot.co.uk/channels.cgi?url=' + escape(top.location.href) + '"></scr' + 'ipt>');
+// -->
+</script>
+<!-- GRAPESHOT END -->
+
+<!-- GRAPESHOT PUSH -->
+<script type="text/javascript" language="Javascript">
+	// push grapeshot values for augmented ads
+	ipc.adtech.pushParams({
+			'name': 'gs_channels', 
+			'placement': 'before',
+			'order': 5, 'fn': function(val) {
+				if (!val) {
+					val = 'default';
+				}
+				return val;
+
+			}});
+</script>
+<!-- GRAPESHOT PUSH END -->
+
+
+<!-- AUDIENCESCIENCE -->
+<script type="text/javascript" charset="utf-8">
+  (function loadAudienceScience() {
+    var protocol = ('https:' == document.location.protocol) ? 'https://' : 'http://',
+        url = 'js.revsci.net/gateway/gw.js?csid=I10982&auto=t',
+        f = unescape("%3Cscript src='" + protocol + url + "' type='text/javascript'%3E%3C/script%3E");
+    document.write(f);
+  })();
+</script>
+<!-- AUDIENCESCIENCE END -->
+
+<!-- AUDIENCESCIENCE PUSH -->
+<script type="text/javascript" charset="utf-8">
+/*global document, window, ipc
+/*Variable i, rsi_segs, segLen, segQS, segs_beg, segs_end */
+/*properties adtech, cookie, indexOf, length, pushNvp, rsi, split, 
+    substring
+*/
+ipc.adtech.pushNvp({'rsi': (function() {
+    var rsi_segs = [],
+        segs_end,
+        segLen = 20,
+        segQS = "",
+        i = 0,
+        segs_beg = document.cookie.indexOf('rsi_segs=');
+    if (segs_beg >= 0) {
+      segs_beg = document.cookie.indexOf('=', segs_beg) + 1;
+      if (segs_beg > 0) {
+        segs_end = document.cookie.indexOf(';', segs_beg);
+        if (-1 === segs_end) {
+          segs_end = document.cookie.length;
+        }
+        rsi_segs = document.cookie.substring(segs_beg, segs_end).split('|');
+      }
+    }
+    if (rsi_segs.length < segLen) {
+      segLen = rsi_segs.length;
+    }
+    for (i = 0; i < segLen; i++) {
+      segQS += (rsi_segs[i] + ":");
+    }
+    return segQS;
+  }())
+});
+</script>
+<!-- AUDIENCESCIENCE PUSH END -->
+
+
+<!-- Quantcast Tag, part 1 just before the head tag ends -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+  var elem = document.createElement('script');
+  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+  elem.async = true;
+  elem.type = "text/javascript";
+  var scpt = document.getElementsByTagName('script')[0];
+  scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+
+<title>Mr Perfect doesn&#039;t exist | Marie Claire</title>
+<link rel="alternate" type="application/rss+xml" title="Marie Claire News" href="/feeds/news.rss" />
+<link rel="alternate" type="application/rss+xml" title="Marie Claire Beauty News" href="/feeds/beauty.rss" />
+<link rel="alternate" type="application/rss+xml" title="Marie Claire Celebrity News" href="/feeds/celebrity.rss" />
+<link rel="alternate" type="application/rss+xml" title="Marie Claire Fashion News" href="/feeds/fashion.rss" />
+<link rel="alternate" type="application/rss+xml" title="Marie Claire Competitions" href="/feeds/competitions.rss" />
+<link rel="alternate" type="application/rss+xml" title="Fashion Week Blog - Carla Bevan" href="/feeds/carlabevan.rss" />
+<link rel="alternate" type="application/rss+xml" title="MSN Feeds" href="/feeds/msnfeed.rss" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><meta name="y_key" content="1b1dc76036ff8ac6" /><link rel="canonical" href="/news/world/533373/mr-perfect-doesn-t-exist.html" />
+    <meta property="fb:app_id" content="127253490633582"/>
+    <meta property="og:title" content="Mr Perfect doesn&#039;t exist"/>
+    <meta property="og:type" content="article"/>
+        <meta property="og:url" content="http://www.marieclaire.co.uk/news/world/533373/mr-perfect-doesn-t-exist.html"/>
+    <meta property="og:image" content="http://marieclaire.media.ipcdigital.co.uk/11116|0000588ed|de71_Man-Shaving-LP.jpg"/>
+    <meta property="og:site_name" content="Marie Claire"/>
+    <meta property="og:description" content="If you&#039;re still searching for your perfect man it might be time to give up after a poll failed to find even one woman who is completely happy with her partner"/>
+            <!-- Start of Header InSkin Ad Code -->
+        <link href="http://cdn.inskinmedia.com/isfe/4.1/css/base.css" type="text/css" rel="stylesheet" />
+        <!--[if lt IE 7]><link href="http://cdn.inskinmedia.com/isfe/4.1/css/base-ie6.css" type="text/css" rel="stylesheet" /><![endif]-->
+        <script type="text/javascript" src="http://cdn.inskinmedia.com/isfe/4.1/js/base/api/pageskin.js"> </script>
+        <!-- Start of InSkin Configuration -->
+
+		<!-- End of InSkin Configuration -->
+		<!-- End of Header InSkin Ad Code -->
+<!--[if IE 6]>
+    <link href="/css/screen/ie6.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+	<script type="text/javascript" src="http://yui.ipcdigital.co.uk/yui/3.3.0/build/yui/yui-min.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="/js/packed/1323867385/yui/loader.js,jquery/jquery.js,jquery/jquery.writeCapture.js,jquery/initWritecapture.js,IPCTools.js,IPCToolsInit.js,pluginSlideshow/launchSlideshow.js,pluginFlashObject/swfobject.js,galleries-with-ajax-ads.js"></script>
+<link rel="stylesheet" type="text/css" media="print" href="/css/print/print.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/packed/1323867385/reset.css,screen/article.css,screen/content.css,screen/gallery.css,screen/global.css,screen/home.css,screen/index.css,screen/layout.css,screen/main.css,screen/celebrityphotos.css,pluginArticles/themes/base/article.css,pluginArticles/themes/shiney/article.css,local.css" />
+</head>
+	<body id="news" class="article" style="
+	margin: 0px; padding: 0px; width: auto; 	">
+
+            <!-- Start of InSkin Ad Code -->
+		<script>    
+         
+        </script>
+        <!-- Start of InSkin Container -->
+        <div id="InSkinContainer_myPageSkin" class="InSkinContainer InSkinAlignCenter" style="width: 1038px;">
+            <!-- Start of Content/Player Container -->
+            <div id="InSkinContentContainer_myPageSkin" class="InSkinContentContainer" style="width: 1038px; margin: 0px;">
+                <!-- Start of Content/Player Code -->
+                <div id="InSkinPageContainer_myPageSkin" class="InSkinPageContainer">    
+		<script type="text/javascript">
+//<!--
+	/*global document, ga, _gaq*/
+	
+	function ipcCreateCookie(name, value, days) {
+		var date,
+			expires = "";
+	
+		if (days) {
+			date = new Date();
+			date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+			expires = "; expires=" + date.toGMTString();
+		}
+		document.cookie = name + "=" + value + expires + "; path=/";
+	}
+	
+	function ipcReadCookie(name) {
+		var nameEQ = name + "=",
+			ca = document.cookie.split(';'),
+			i,
+			caLength = ca.length,
+			c;
+		for (i = 0; i < caLength; i += 1) {
+			c = ca[i];
+			while (c.charAt(0) === ' ') {
+				c = c.substring(1, c.length);
+			}
+			if (c.indexOf(nameEQ) === 0) {
+				return c.substring(nameEQ.length, c.length);
+			}
+		}
+		return null;
+	}
+
+	// Start Month on Month tracking
+	var	visitedLastMonth = false;
+	var currentDate		= new Date();
+	var currentMonth	= currentDate.getMonth();
+	var monthCookie		= parseInt(ipcReadCookie("monthOnMonth"));
+	var ipcUpdateMonthCookie = function () {
+		ipcCreateCookie("monthOnMonth", currentMonth, 365);
+	};
+	
+	if (isNaN(monthCookie)) {
+		// Has never been to the site before
+		ipcUpdateMonthCookie();
+	} else if (monthCookie === (currentMonth - 1) || (currentMonth === 0 && monthCookie === 11)) {
+		// Has been in the last month
+		visitedLastMonth = true;
+		ipcUpdateMonthCookie();
+	} else if (currentMonth !== monthCookie) {
+		// Has been to the site but not in the last month
+		ipcUpdateMonthCookie();
+	}
+	// End Month on Month tracking
+
+
+	var today = (new Date()).getTime();
+	var daysSinceLastVisit = 0;
+	
+	lastVisitDate = ipcReadCookie("lastVisit");
+
+	if (lastVisitDate !== null) {
+		timeSinceLastVisit = today - parseInt(lastVisitDate);
+		daysSinceLastVisit = Math.floor(timeSinceLastVisit/(1000*60*60*24));
+	}
+
+	ipcCreateCookie('lastVisit', today, 365);
+
+var _gaq =  _gaq || [];
+	          _gaq.push(
+        ['localPageTracker0._setAccount', 'UA-11429130-1'],
+            
+        ['localPageTracker0._trackPageLoadTime']);
+
+        if ( visitedLastMonth ) {
+          _gaq.push(['localPageTracker0._setCustomVar', 2, 'Visited Last Month', 'Yes']);
+        }
+
+        if ( daysSinceLastVisit > 0 ) {
+          _gaq.push(['localPageTracker0._setCustomVar', 3, 'Days Since Last Visit', daysSinceLastVisit.toString()]);
+        }
+
+	_gaq.push(['localPageTracker0._trackPageview', location.host+location.pathname]);
+
+          		
+	          _gaq.push(
+  ['globalPageTracker0._setAccount', 'UA-11429028-1'],
+  
+        
+        ['globalPageTracker0._trackPageLoadTime']);
+
+        if ( visitedLastMonth ) {
+          _gaq.push(['globalPageTracker0._setCustomVar', 2, 'Visited Last Month', 'Yes']);
+        }
+
+        if ( daysSinceLastVisit > 0 ) {
+          _gaq.push(['globalPageTracker0._setCustomVar', 3, 'Days Since Last Visit', daysSinceLastVisit.toString()]);
+        }
+
+_gaq.push(['globalPageTracker0._trackPageview', location.host+location.pathname]);
+          _gaq.push(
+  ['globalPageTracker1._setAccount', 'UA-11428852-1'],
+  
+        
+        ['globalPageTracker1._trackPageLoadTime']);
+
+        if ( visitedLastMonth ) {
+          _gaq.push(['globalPageTracker1._setCustomVar', 2, 'Visited Last Month', 'Yes']);
+        }
+
+        if ( daysSinceLastVisit > 0 ) {
+          _gaq.push(['globalPageTracker1._setCustomVar', 3, 'Days Since Last Visit', daysSinceLastVisit.toString()]);
+        }
+
+_gaq.push(['globalPageTracker1._trackPageview', location.host+location.pathname]);
+    		
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+	
+	//-->
+</script>
+
+
+<!-- START OF Omniture SiteCatalyst -->
+<script type="text/javascript" src="/js/pluginOmniture/sitecatalyst/H.19.4.js"></script>
+<script type="text/javascript"><!--
+	/**
+	* SiteCatalyst code version: H.19.4
+	* Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com
+	*/
+	var s_account = "ipcmarieclaireProd";
+	var s = s_gi(s_account);
+	s.campaign = "";
+	s.channel = "mc:news";
+	s.charSet = "utf-8";
+	s.cookieDomainPeriods = 3;
+	s.currencyCode = "GBP";
+	s.dc = 122;
+	s.eVar1 = "";
+	s.eVar2 = "";
+	s.eVar3 = "";
+	s.eVar4 = "";
+	s.eVar5 = "";
+	s.events = "";
+	s.linkDownloadFileTypes = "avi,doc,docx,exe,mov,mp3,mpg,pdf,ppt,pptx,wav,wmv,xls,xlsx,zip";
+	s.linkInternalFilters = "javascript:,pagead2.googlesyndication.com,marieclaire.co.uk,marieclaire.ipcmediasecure.com";
+	s.linkLeaveQueryString = false;
+	s.linkTrackVars = "";
+	s.linkTrackEvents = "";
+	s.pageName = "mc:news:world:selected";
+	s.pageType = "";
+	s.products = "";
+	s.prop1 = "";
+	s.prop2 = "Mr Perfect doesn&amp;#039;t exist | Marie Claire";
+	s.prop3 = "";
+	s.prop4 = "\/news\/world\/533373\/mr-perfect-doesn-t-exist.html";
+	s.prop5 = "";
+	s.purchaseID = "";
+	s.server = "";
+	s.state = "";
+	s.trackDownloadLinks = true;
+	s.trackExternalLinks = true;
+	s.trackInlineStats = true;
+	s.zip = "";
+	var s_code = s.t();
+	if(s_code) {
+		document.write(s_code);
+	}
+	if(navigator.appVersion.indexOf('MSIE') >= 0) {
+		document.write(unescape('%3C')+'\!-'+'-');
+	}
+--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://ipcmarieclaireProd.122.2O7.net/b/ss/ipcmarieclaireProd/1/H.19.4--NS/0?[AQB]&amp;cdp=3&amp;[AQE]" height="1" width="1" border="0" alt="" /></a></noscript>
+<!-- END OF Omniture SiteCatalyst -->
+
+<!-- Tag for Activity Group: Retargetting, Activity Name: Marie Claire retargeting brand site, Activity ID: 765865 -->
+<!-- Expected URL: http://marieclaire.co.uk -->
+<!--//
+Activity ID: 765865 
+Activity Name: Marie Claire retargeting brand site 
+Activity Group Name: Retargetting
+//-->
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag:Marie Claire retargeting brand site
+URL of the webpage where the tag is expected to be placed: http://marieclaire.co.uk 
+Creation Date: 11/17/2010
+-->
+<script type="text/javascript"> 
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe style="display:none" src="http://fls.doubleclick.net/activityi;src=2478638;type=rtg;cat=marie383;ord=' + a + '?" width="1" height="1" frameborder="0"></iframe>'); 
+</script>
+<noscript>
+<iframe style="display:none" src="http://fls.doubleclick.net/activityi;src=2478638;type=rtg;cat=marie383;ord=1?" width="1" height="1" frameborder="0"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+
+<script type="text/javascript">
+  (function() {
+    if ( document.cookie.match(/\bforceweb=/) ) {
+      var script = document.createElement('script'),
+          thisNode = document.getElementsByTagName('script')[0];
+      
+      script.type = 'text/javascript';
+      script.async = 'async';
+      script.src = ( 'https:' === document.location.protocol ? 'https://secure.assets.ipcdigital.co.uk/js/min/mobileweb.v1-min.js' : 'http://assets.ipcdigital.co.uk/js/min/mobileweb.v1-min.js' );
+
+      thisNode.parentNode.insertBefore(script, thisNode);
+    }
+  })();
+</script>
+
+<script>
+(function() {
+  var protocol = ('https:' == document.location.protocol) ? 'https://' : 'http://',
+      url = 'cdn.krxd.net/krux.js';
+            if ('https://' !== protocol) {
+         var f = unescape("%3Cscript src='" + protocol + url + "' type='text/javascript'%3E%3C/script%3E");
+                  KRUXSetup = {
+             pubid:"3efee9db-7d85-4533-9e41-c635ebf2d937",
+             site:"marieclaire2"
+         };
+         document.write(f);
+      }
+})();
+</script>
+
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-32989-54990.js' async defer></script>		<span id="ad_hidden_header_adtech"></span>
+<div id="ad_hidden_header" style="position: absolute;" >
+  <script type="text/javascript">
+  // <![CDATA[
+  if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+
+  var html = 'http://adserver.adtech.de/addyn|3.0|656.1|2161335|0|16|ADTECH;cookie=info;alias=marieclaire_newsWorldSelected_1x1_hidden_header;loc=100;target=_blank;kvPageid2=533373';
+  /* Added the below for Ads debug purposes */
+  var adcallurl = ipc.adtech.getAugmentedUrl(html);
+  jQuery('#ad_hidden_header_adtech').html(adcallurl);
+  jQuery('#ad_hidden_header_adtech').hide();
+
+  // Returned this line as the ASYNC adds is now handled 100% by writeCaptcha using autoAsync function */
+  document.write('<scr' + 'ipt type="text/javascript" src="' + adcallurl + '"></scri' + 'pt>');
+  // ]]>
+  </script>
+  <noscript>
+    <a href="http://adserver.adtech.de/adlink|3.0|656.1|2161335|0|16|ADTECH;alias=marieclaire_newsWorldSelected_1x1_hidden_header;loc=300;" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|2161335|0|16|ADTECH;alias=marieclaire_newsWorldSelected_1x1_hidden_header;loc=300;" width="1" height="1" border="0" alt="Advertisement" /></a>
+  </noscript>
+</div>
+		<div class="siteBanner">
+<!--JavaScript Tag // Tag for network 656: IPC Media // Website: SB - MarieClaire // Page: Alias Dummy Tags // Placement: Alias Dummy Tag - Brand 960x25 (2316676) // created at: Nov 19, 2009 6:05:09 PM-->
+<script type="text/javascript">
+//<![CDATA[
+var adsrvurl = 'http://adserver.adtech.de/addyn|3.0|656.1|2316676|0|2930|ADTECH;cookie=info;alias=marieclaire_960x25_brandsitebanner;loc=100;target=_blank';
+document.write('<scr' + 'ipt type="text/javascript" src="' + ipc.adtech.getAugmentedUrl(adsrvurl) + '"></scri' + 'pt>');
+//]]>
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|2316676|0|2930|ADTECH;loc=300;alias=marieclaire_960x25_brandsitebanner;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|2316676|0|2930|ADTECH;cookie=info;loc=300;alias=marieclaire_960x25_brandsitebanner;key=key1+key2+key3+key4" border="0" width="960" height="25"></a></noscript>
+<!-- End of JavaScript Tag -->
+</div>		<div id="wrapper">
+      <div id="masthead" >
+    
+<div id="brandingHeader">
+
+  <div id="brandingHeaderLeft">
+  
+      <div id="leaderboard">
+                  <span id="ad_leaderboard_header_adtech"></span>
+<div id="ad_leaderboard_header">
+  <script type="text/javascript">
+  // <![CDATA[
+  if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+
+  var html = 'http://adserver.adtech.de/addyn|3.0|656.1|1594615|0|225|ADTECH;cookie=info;alias=marieclaire_newsWorldSelected_728x90_leaderboard_header;loc=100;target=_blank;kvPageid2=533373';
+  /* Added the below for Ads debug purposes */
+  var adcallurl = ipc.adtech.getAugmentedUrl(html);
+  jQuery('#ad_leaderboard_header_adtech').html(adcallurl);
+  jQuery('#ad_leaderboard_header_adtech').hide();
+
+  // Returned this line as the ASYNC adds is now handled 100% by writeCaptcha using autoAsync function */
+  document.write('<scr' + 'ipt type="text/javascript" src="' + adcallurl + '"></scri' + 'pt>');
+  // ]]>
+  </script>
+  <noscript>
+    <a href="http://adserver.adtech.de/adlink|3.0|656.1|1594615|0|225|ADTECH;alias=marieclaire_newsWorldSelected_728x90_leaderboard_header;loc=300;" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1594615|0|225|ADTECH;alias=marieclaire_newsWorldSelected_728x90_leaderboard_header;loc=300;" width="728" height="90" border="0" alt="Advertisement" /></a>
+  </noscript>
+</div>
+              </div>
+      
+      <div id="logoarea">
+        
+        <div id="logoareaLeft">
+          <a href="/"><img alt="Marie Claire" class="first-child-home" src="/images/logo_main.gif" /></a>                  </div>
+      
+        <div id="logoareaRight">
+            <div id="linksContainer">
+                <div id="linksHeader">
+                    <h2>Subscribe Now</h2>
+                </div>
+                <div id="links">
+                    <ul>
+                        <li><a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1577006489&amp;n=6" title="Free Marie Claire Newsletter">Newsletter</a></li>
+                        <li><a href="http://www.magazinesdirect.com/Marie-Claire-magazine-subscription?utm_content=Page+Header+Image+Link2" title="Subscribe to Marie Claire magazine">Magazine</a></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+  </div>
+    
+  <div id="brandingHeaderRight">
+    <div id="magazineCover">
+      <a id="mag" href="http://cde.cerosmedia.com/Marie-Claire-January-2012-Kelly-Rowland/1T4edf8ab8698ce012.cde">
+
+<img src="http://default.media.ipcdigital.co.uk/11116|000058521|d040_January-2012-Cover.png" alt="January emag" title="January emag">
+
+</a>
+
+
+
+
+
+
+    </div>
+  </div>
+</div>  <ul class="navigation nav_header ">
+  	  <li class="">
+		  <a href="/">Home</a>	  </li>
+	  
+        <li class="current">
+    
+      <a href="/news/1.html">News</a><ul>
+	<li class="first-child"><a href="/news/celebrity/1.html">Celebrity News</a></li>
+	<li class=""><a href="/news/fashion/1.html">Fashion News</a></li>
+	<li class=""><a href="/news/health/1.html">Health News</a></li>
+	<li class=""><a href="/news/beauty/1.html">Beauty News</a></li>
+	<li class="current"><a href="/news/world/1.html">World News</a></li>
+		  <li class=""><a href="/news/travel/1.html">Travel News</a></li>
+	  <li class=""><a href="/news/lifestyle/1.html">Issues and Campaigns</a></li>
+	  <li class=""><a href="/news/thebigdebate/1.html">The Big Debate</a></li>
+	  <li class=""><a href="/inspireandmentor/1.html">Inspire &amp; Mentor</a></li>
+</ul>
+    </li>
+    
+        <li class="">
+    
+      <a href="/fashion.html">Fashion</a>    </li>
+    
+        <li class="">
+    
+      <a href="/beauty.html">Hair & Beauty</a>    </li>
+    
+        <li class="">
+    
+      <a href="/celebrity/1.html">Celebrity</a>    </li>
+    
+        <li class="">
+    
+      <a href="/community/1.html">Competitions</a>    </li>
+    
+        <li class="">
+    
+      <a href="/lifestyle/1.html">Lifestyle</a>    </li>
+    
+        <li class="">
+    
+      <a href="/health/1.html">Health</a>    </li>
+    
+        <li class="">
+    
+      <a href="/travel/1.html">Travel</a>    </li>
+    
+        <li class="">
+    
+      <a href="/lifestyle/directory.html">Directory</a>    </li>
+    
+        <li class="">
+    
+      <a href="/video.html">Video</a>    </li>
+    
+        <li class="">
+    
+      <a target="blank" href="http://blogs.marieclaire.co.uk">Blogs</a>    </li>
+    
+        <li class="">
+    
+      <a href="http://shop.marieclaire.co.uk">Shop</a>    </li>
+    
+        <li class="">
+      <span class="currentTab"></span>
+      <a href="/beauty-genius.html">Apps</a>    </li>   
+  </ul>
+
+</div>			
+<div class="trailContainer">
+  <div class="trailContainerLeft">
+    <ul id="breadcrumb">
+	    <li class="first-child">You are here: <a href="/">Home</a></li>
+	    	    <li>&gt; <a href="/news/1.html">News</a></li>
+	    	    <li>&gt; <a href="/news/world/1.html">World News</a></li>
+	        </ul>
+  </div>
+  <div class="trailContainerRight">
+    <div id="rightRailSocialSearch">
+  <div id ="fbLikeHeader">
+    <fb:like class="try" action="like" width="90" height="20" show_faces="false" href="http://www.facebook.com/MarieClaireUK" background_color="#cccccc" font="Trebuchet" layout="button_count"></fb:like>
+  </div>
+  <div id="twFollowHeader">
+    <iframe scrolling="no" frameborder="0" allowtransparency="true" src="http://platform.twitter.com/widgets/follow_button.html#_=1312556704968&align=&button=blue&id=twitter_tweet_button_0&lang=en&link_color=&screen_name=marieclaireuk&show_count=false&show_screen_name=false&text_color=" class="twitter-follow-button" style="width: 70px; height: 20px;" title=""></iframe>
+  </div>
+  <div id="headerSearch">
+    <form action="/search.html" id="headerSearchForm" name="site-search"  method="get">
+      <div id="headerSearchContainer">
+        <input type="text" value="" name="q" id="headerSearchText"/>
+        <button type="submit" name="search" id="headerSearchButton">Search</button>
+      </div>
+    </form>
+  </div>
+</div>  </div>
+</div><p id="rss">
+    
+	<a href="http://www.marieclaire.co.uk/celebrity/photos.html">
+		CELEBRITY STYLE SPY: See all the latest celeb photos	</a>
+	
+	    
+		<a href="http://www.marieclaire.co.uk/celebrity/photos.html">
+			<img alt="Stars animation" src="http://marieclaire.media.ipcdigital.co.uk/11116|000037d78|5abb_orh15w15_stars2.gif" />		</a>
+	
+</p>
+
+<div class="clearfix" id="content">
+
+
+  <div id="promo">
+  
+<div id="howToGetInto">
+    <a href="/inspireandmentor/1.html"><img src="/images/buttons/btn_how_to_get_into.jpg" alt="How to get into ..."/></a>    
+</div>
+<div id="yooxWidget-small">
+<!--  YooxWidget 160x170 -->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="yooxWidget-160x170" width="160" height="170">
+  <param name="movie" value="http://www.yoox.com/_partners/marieclaire_uk/box_logo_160x170.swf"/>
+  <param name="quality" value="high"/>
+  <param name="bgcolor" value="#ffffff"/>
+  <param name="wmode" value="transparent"/>
+  <param name="flashvars" value="xml_path=http://www.yoox.com/scripts/services/dynamicsGalleryService.asp?idCollection=3616%26nax=21&amp;tp=21357&amp;tskay=B84CE7A2&amp;currency=%A3&amp;ga=%26?utm_source=marieclaire_uk&amp;utm_medium=verticali&amp;utm_campaign=verticali_uk"/>
+<!--[if !IE]>-->
+  <object type="application/x-shockwave-flash" data="http://www.yoox.com/_partners/marieclaire_uk/box_logo_160x170.swf" width="160" height="170">
+    <param name="quality" value="high"/>
+    <param name="bgcolor" value="#ffffff"/>
+    <param name="wmode" value="transparent"/>
+    <param name="flashvars" value="xml_path=http://www.yoox.com/scripts/services/dynamicsGalleryService.asp?idCollection=3616%26nax=21&amp;tp=21357&amp;tskay=B84CE7A2&amp;currency=%A3&amp;ga=%26?utm_source=marieclaire_uk&amp;utm_medium=verticali&amp;utm_campaign=verticali_uk"/>
+<!--<![endif]-->
+<!--[if !IE]>-->
+  </object>
+<!--<![endif]-->
+</object><script type="text/javascript">/*<![CDATA[*/ swfobject.registerObject("yooxWidget-160x170", "8.0", "/flash/pluginFlashObject/expressInstall.swf"); /*]]>*/</script><!-- /YooxWidget 160x170 --></div><span id="ad_signup_button_left_side_adtech"></span>
+<div id="ad_signup_button_left_side">
+  <script type="text/javascript">
+  // <![CDATA[
+  if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+
+  var html = 'http://adserver.adtech.de/addyn|3.0|656.1|1594611|0|1708|ADTECH;cookie=info;alias=marieclaire_newsWorldSelected_160x170_signup_button_left_side;loc=100;target=_blank;kvPageid2=533373';
+  /* Added the below for Ads debug purposes */
+  var adcallurl = ipc.adtech.getAugmentedUrl(html);
+  jQuery('#ad_signup_button_left_side_adtech').html(adcallurl);
+  jQuery('#ad_signup_button_left_side_adtech').hide();
+
+  // Returned this line as the ASYNC adds is now handled 100% by writeCaptcha using autoAsync function */
+  document.write('<scr' + 'ipt type="text/javascript" src="' + adcallurl + '"></scri' + 'pt>');
+  // ]]>
+  </script>
+  <noscript>
+    <a href="http://adserver.adtech.de/adlink|3.0|656.1|1594611|0|1708|ADTECH;alias=marieclaire_newsWorldSelected_160x170_signup_button_left_side;loc=300;" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1594611|0|1708|ADTECH;alias=marieclaire_newsWorldSelected_160x170_signup_button_left_side;loc=300;" width="160" height="170" border="0" alt="Advertisement" /></a>
+  </noscript>
+</div>
+  <div class="top5Articles">
+    <h2><span>Don't miss</span><br />5 must-read stories today</h2>
+	  <ul>
+		          <li class="top5Article clearfix">
+          <div class="top5ArticleImage">
+				    <a onclick="launchPop(this.href);return false;" href="/celebrity/pictures/34646/14/the-great-gatsby-on-set-photos-the-great-gatsby.html"><img alt="Carey Mulligan, Leonardo DiCaprio &amp; Tobey Maguire - Carey Mulligan - Leonardo DiCaprio - Tobey Maguire - The Great Gatsby - Marie Claire - Marie Clarie UK" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000587c3|1d98_orh100000w61_Gatsby-LP.jpg" /></a>          </div>
+          <div class="top5ArticleTeaser">
+            <span>1. </span>
+            <a onclick="launchPop(this.href);return false;" href="/celebrity/pictures/34646/14/the-great-gatsby-on-set-photos-the-great-gatsby.html">Filming has kicked off on Baz Luhrmann&#039;s much-antici...</a>          </div>
+		    </li>
+		          <li class="top5Article clearfix">
+          <div class="top5ArticleImage">
+				    <a onclick="launchPop(this.href);return false;" href="/celebrity/pictures/29999/46/celebs-in-little-black-dresses-lbds-celebrities-fashion-marie-claire.html"><img alt="Little Black Dresses - Marie Claire - Marie Clarie UK" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000588eb|c6eb_orh100000w61_LBDS.jpg" /></a>          </div>
+          <div class="top5ArticleTeaser">
+            <span>2. </span>
+            <a onclick="launchPop(this.href);return false;" href="/celebrity/pictures/29999/46/celebs-in-little-black-dresses-lbds-celebrities-fashion-marie-claire.html">It&#039;s the classic style that always works, now take a...</a>          </div>
+		    </li>
+		          <li class="top5Article clearfix">
+          <div class="top5ArticleImage">
+				    <a onclick="launchPop(this.href);return false;" href="/celebrity/pictures/31023/65/stars-in-winter-warmers-celebrity-winter-style-celeb-snow-style-winter-fashion-winter-coats.html"><img alt="Pippa Middleton - Stars in Winter warmers - Marie CLaire - Marie Claire UK" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000588ea|8c9c_orh100000w61_Winter-warmers-3.jpg" /></a>          </div>
+          <div class="top5ArticleTeaser">
+            <span>3. </span>
+            <a onclick="launchPop(this.href);return false;" href="/celebrity/pictures/31023/65/stars-in-winter-warmers-celebrity-winter-style-celeb-snow-style-winter-fashion-winter-coats.html">Look to the stars for inspiration on how to see through t...</a>          </div>
+		    </li>
+		          <li class="top5Article clearfix">
+          <div class="top5ArticleImage">
+				    <a onclick="launchPop(this.href);return false;" href="/fashion/ideas/34746/25/versace-for-h-m-cruise-collection.html"><img alt="Versace Cruise Collection for H&amp;M campaign shot" src="http://marieclaire.media.ipcdigital.co.uk/11116|000058845|6d57_orh100000w61_Versace-for-HM-campaign-shot.jpg" /></a>          </div>
+          <div class="top5ArticleTeaser">
+            <span>4. </span>
+            <a onclick="launchPop(this.href);return false;" href="/fashion/ideas/34746/25/versace-for-h-m-cruise-collection.html">Take a look at the Cruise collection from Versace for H&a...</a>          </div>
+		    </li>
+		          <li class="top5Article clearfix">
+          <div class="top5ArticleImage">
+				    <a onclick="launchPop(this.href);return false;" href="/travel/photos/24027/17/winter-sun-destinations.html"><img alt="Winter sun destinations" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000479ac|c967_orh100000w61_travel3.jpg" /></a>          </div>
+          <div class="top5ArticleTeaser">
+            <span>5. </span>
+            <a onclick="launchPop(this.href);return false;" href="/travel/photos/24027/17/winter-sun-destinations.html">Feeling those winter blues? Check out our top winter sun ...</a>          </div>
+		    </li>
+		  	  </ul>
+  </div>
+	<!--
+	<div id="ath-search">
+        <object type="application/x-shockwave-flash" data="http://directory.housetohome.co.uk/uploads/assets/ath_search_blue.swf" width="100%" height="250">
+             <param name="movie" value="http://directory.housetohome.co.uk/uploads/assets/ath_search_blue.swf" />
+             <param name="wmode" value="opaque" />
+             <param name="bgcolor" value="#fff" />
+             <param name="allowScriptAccess" value="always" />
+        </object> 
+	</div>
+	-->
+<br class="shim" />
+  </div>
+  
+
+  <div id="main" class="">
+<h1 class='a-headline'>Mr Perfect doesn&#039;t exist</h1>      <h3 id="byLine">By Hannah Thomas        &nbsp;on Thursday 15 December 2011        </h3>
+  <div class="social-buttons">
+    <div class="google-plus-one">
+       <g:plusone count="false" href="http://www.marieclaire.co.uk/news/world/533373/mr-perfect-doesn-t-exist.html"></g:plusone>
+    </div>
+    <div class="fb-like-container ">
+        <fb:like href="http://www.marieclaire.co.uk/news/world/533373/mr-perfect-doesn-t-exist.html" send="true" show_faces="false" width="450">
+        </fb:like>
+    </div>
+</div>
+
+<ul id="tools">
+	<li><a onclick="self.print(); return false" class="btn print" href="#"><img src="/images/icons/print-icon.gif" alt="Print-icon" /> Print</a></li>
+		<li><a href="#share" class="link-to-share" id="link-to-share"><img src="/images/icons/email-icon.gif" alt="Email-icon" /> Share</a></li>
+			<li><a href="#comments"><img src="/images/icons/comment-icon.gif" alt="Comment-icon" /> Comment</a></li>
+	</ul>
+
+<script>
+    YUI().use('event', 'node', 'node-load', 'history-hash', function(Y) {
+
+            var debug = Y.one('#debug');
+                        prev = '#' + garticleImages.length;
+            next = '#2';
+
+            Y.all('a.mcGarticlePrev').set('href', prev);
+            Y.all('a.mcGarticleNextControl').set('href', next);
+
+               Y.on('hashchange', function (e) {
+
+                    if(! isNaN(e.newHash)) {
+                        /*Generate new urls for next and back*/
+                        newUrls(e.newUrl, e.newHash, garticleImages);
+
+                        /* Create a listener on the #hash event */
+                        changeImage(e.newHash, garticleImages);
+
+                        /*preload the next image*/
+                        preloadImage(e.newHash, garticleImages);
+
+                        /*Ad Slots to refresh*/
+                        refreshAds();
+
+                        /*Log omniture and google pageviews*/
+                        logPageView();
+                    }
+
+               }, Y.config.win);
+          });
+</script>
+<p class=" large-picture">
+	<img alt="Man Shaving (LP)" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000588ed|fa5d_orh100000w240_Man-Shaving-LP.jpg" />	<span class="caption">REX</span>	</p>
+<!-- Article Start -->
+<p><span style="font-weight: bold;">Sorry to burst your bubble but according to a study of 2,000 women, the Mr Perfect we&#039;re all looking for doesn&#039;t exist. <br><br></span>Most women ranked their partner as only 69 per cent &#039;perfect&#039;, citing their partners&#039;&nbsp; failure to make an effort with their partner&#039;s friends, inability to do more than one thing at a time and poor personal <span style="font-weight: bold;">grooming </span>as the most common flaws.<br><br>&#039;It seems women are quite realistic on what they look for from their <span style="font-weight: bold;">partner</span>,&#039; says Nikki McReynolds, marketing director at <a href="http://uk.remington-europe.com/" target="_blank">Remington</a>, which commissioned the study. &#039;While they might happily overlook a few common flaws, there are certain behaviours that men just won&#039;t get away with.&#039;<br><br>The poll found that <span style="font-weight: bold;">women</span> look for a good personality, a <span style="font-weight: bold;">sense of humour</span> and good looks, while <span style="font-weight: bold;">dodgy dancing, </span>leaving clothes lying around on the bedroom floor and snoring are sure signs of <span style="font-weight: bold;">imperfection</span>.<br><br>One in five women would forgive leaving the toilet seat up and a lack of culinary skills but men using their girlfriend&#039;s toothbrush and not <span style="font-weight: bold;">listening</span> were sure fire ways to lose &#039;perfect&#039; points.<br><br>&#039;The average guy may not be able to compete with the image of <span style="font-weight: bold;">David Beckham</span>, but there are still a number of small <span style="font-weight: bold;">changes</span> they can do to make a big difference,&#039; says Miss McReynolds.<br><br><a href="http://www.marieclaire.co.uk/news/world/1.html" target="_blank">CLICK HERE FOR MORE WORLD NEWS</a><br><br><br><br><br></p>
+<!-- Article End -->
+<p class="date">
+Thursday 15 December 2011</p>
+<div class="social-buttons">
+    <div class="google-plus-one">
+       <g:plusone count="false" href="http://www.marieclaire.co.uk/news/world/533373/mr-perfect-doesn-t-exist.html"></g:plusone>
+    </div>
+    <div class="fb-like-container ">
+        <fb:like href="http://www.marieclaire.co.uk/news/world/533373/mr-perfect-doesn-t-exist.html" send="true" show_faces="false" width="450">
+        </fb:like>
+    </div>
+</div>
+
+<div class="video">
+</div>
+
+<script type=""text/JavaScript"">
+var OB_permalink= 'http://www.marieclaire.co.uk/news/world/533373/mr-perfect-doesn-t-exist.html';
+var OB_Template="marieclaireuk";
+var OB_widgetId= 'AR_1';
+</script>
+<script src='http://widgets.outbrain.com/outbrainWidget.js' type='text/javascript'></script><a name="comments"></a>
+    <div id="mcFacebookComments">
+   <fb:comments href="http://www.marieclaire.co.uk/news/world/533373/mr-perfect-doesn-t-exist.html" num_posts="5" width="430"></fb:comments>
+</div>
+
+<div id="rate" class="jam-ajaxRating">
+	<div id="rating-panel">
+
+		<h2>Rate this ...</h2>
+		<div class="rating-range">
+			<form method="post" id="rating" name="rating" action="/rate.html">	<input type="hidden" name="object_id" id="object_id" value="533373" />	<input type="hidden" name="object_type" id="object_type" value="article" />	<fieldset>
+		<legend><span class="ah">Rate this content</span></legend>
+		<ul class="plain">
+			<li class="first-child"><label for="rating-01">Average</label><input type="radio" name="score" id="rating-01" value="1" /></li>
+			<li><label class="ah" for="rating-02">Better</label><input type="radio" name="score" id="rating-02" value="2" /></li>
+			<li><label class="ah" for="rating-03">Ok</label><input type="radio" name="score" id="rating-03" value="3" checked="checked" /></li>
+			<li><label class="ah" for="rating-04">Good</label><input type="radio" name="score" id="rating-04" value="4" /></li>
+			<li><input type="radio" name="score" id="rating-05" value="5" /><label for="rating-05">Excellent</label></li>
+			<li><button id="rate-it" name="rate-it" type="submit">Submit</button></li>
+		</ul>
+	</fieldset>
+</form>
+			<div class="rating-response">
+				<p>Thanks, your rating has been counted!</p>			</div>
+		</div>
+		<div class="results">
+			<ul class="rating">
+	<li>Current rating:</li>
+		<li>Be the first to vote</li>
+		</ul>
+		</div>
+
+	</div>
+</div>
+<br class="shim"/><script type="text/javascript"><!-- //
+	function addBookmark() {
+		title = 'Mr Perfect doesn&#039;t exist';
+		url = 'http://www.marieclaire.co.uk/news/world/533373/mr-perfect-doesn-t-exist.html';
+		if(window.sidebar) {
+			window.sidebar.addPanel(title, url,"");
+		}
+		else if(window.external) {
+			window.external.AddFavorite(urlAddress,pageName);
+		}
+		else {
+			alert('Sorry, your browser does not support this feature.');
+		}
+	}
+// --></script>
+
+<div id="share-this" style="display:none">
+	<a name="share"></a>
+	<h2 id="link-to-shareX">Share this article ...</h2>	<div class="post">
+				<form name="send-by-email" id="send-by-email" method="post" action="/sendtofriend.html">
+			<input type="hidden" name="object_id" id="send-by-email-object_id" value="533373" />
+			<input type="hidden" name="object_type" id="send-by-email-object_type" value="article" />
+			<p><strong>Email this to a friend</strong></p>
+			<p>IPC Media Limited, owner of marieclaire.co.uk, will collect the address of the recipient solely to process your request.</p>
+			<p><label for="share-email-email">To</label>
+			<input class="share-email" id="share-email-email" name="email" type="text" value="" />
+			<input type="submit" id="email-friend" name="email-friend" value="Send" /></p>
+		</form>
+		
+					<p><a href="#" onclick="javascript:addBookmark(); return false" class="icn bookmark">Bookmark </a></p>
+			
+		
+
+				<p>Click on a link below to share this article with your favourite link sharing site</p>
+		<ul class="social">
+			<li>
+				<a class="icn digg" target="_blank" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.marieclaire.co.uk%2Fnews%2Fworld%2F533373%2Fmr-perfect-doesn-t-exist.html&amp;title=Mr+Perfect+doesn%26%23039%3Bt+exist">Digg</a>			</li>
+			<li>
+				<a class="icn reddit" target="_blank" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.marieclaire.co.uk%2Fnews%2Fworld%2F533373%2Fmr-perfect-doesn-t-exist.html&amp;title=Mr+Perfect+doesn%26%23039%3Bt+exist">Reddit</a>			</li>
+			<li>
+				<a class="icn facebook" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.marieclaire.co.uk%2Fnews%2Fworld%2F533373%2Fmr-perfect-doesn-t-exist.html&amp;t=Mr+Perfect+doesn%26%23039%3Bt+exist">Facebook</a>			</li>
+			<li>
+				<a class="icn now-public" target="_blank" href="http://view.nowpublic.com/?src=http%3A%2F%2Fwww.marieclaire.co.uk%2Fnews%2Fworld%2F533373%2Fmr-perfect-doesn-t-exist.html&amp;t=Mr+Perfect+doesn%26%23039%3Bt+exist">Now Public</a>			</li>
+			<li>
+				<a class="icn newsvine" target="_blank" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.marieclaire.co.uk%2Fnews%2Fworld%2F533373%2Fmr-perfect-doesn-t-exist.html&amp;h=Mr+Perfect+doesn%26%23039%3Bt+exist">Newsvine</a>			</li>
+			<li>
+				<a class="icn delicious" target="_blank" href="http://del.icio.us/post?v=2&amp;url=http%3A%2F%2Fwww.marieclaire.co.uk%2Fnews%2Fworld%2F533373%2Fmr-perfect-doesn-t-exist.html&amp;title=Mr+Perfect+doesn%26%23039%3Bt+exist">Del.icio.us</a>			</li>
+		</ul>
+				<br class="shim" />
+	</div>
+</div>
+
+<ul class="paging">
+			<li class="first-child">
+		<h3><a href="/news/world/533343/generosity-is-key-to-a-happy-marriage.html">Last Article</a></h3>		
+<a href="/news/world/533343/generosity-is-key-to-a-happy-marriage.html"><img class="" alt="Beach couple (LP)" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000540e8|d09c_orh100000w61_BeachcoupleLP.jpg" /></a>
+<p>Generosity is key to a happy marriage&nbsp;<a href="/news/world/533343/generosity-is-key-to-a-happy-marriage.html">Read more...</a></p>
+	</li>
+	</ul>
+  </div>
+
+  <div id="side">
+  
+<span id="mpu_bottom_adtech"></span>
+<div id="mpu_bottom">
+  <script type="text/javascript">
+  // <![CDATA[
+  if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+
+  var html = 'http://adserver.adtech.de/addyn|3.0|656.1|1594610|0|170|ADTECH;cookie=info;alias=marieclaire_newsWorldSelected_300x250_mpu_bottom;loc=100;target=_blank;kvPageid2=533373';
+  /* Added the below for Ads debug purposes */
+  var adcallurl = ipc.adtech.getAugmentedUrl(html);
+  jQuery('#mpu_bottom_adtech').html(adcallurl);
+  jQuery('#mpu_bottom_adtech').hide();
+
+  // Returned this line as the ASYNC adds is now handled 100% by writeCaptcha using autoAsync function */
+  document.write('<scr' + 'ipt type="text/javascript" src="' + adcallurl + '"></scri' + 'pt>');
+  // ]]>
+  </script>
+  <noscript>
+    <a href="http://adserver.adtech.de/adlink|3.0|656.1|1594610|0|170|ADTECH;alias=marieclaire_newsWorldSelected_300x250_mpu_bottom;loc=300;" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1594610|0|170|ADTECH;alias=marieclaire_newsWorldSelected_300x250_mpu_bottom;loc=300;" width="300" height="250" border="0" alt="Advertisement" /></a>
+  </noscript>
+</div>
+<div id="giftDirect">
+<embed src="/flash/giftdirectmc.swf" width="336" height="165" flashvars="clickTag=http://www.magazinesdirect.com/S2B-I1JS"/>
+</div>
+<span id="skyscraper_adtech"></span>
+<div id="skyscraper">
+  <script type="text/javascript">
+  // <![CDATA[
+  if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+
+  var html = 'http://adserver.adtech.de/addyn|3.0|656.1|1594614|0|168|ADTECH;cookie=info;alias=marieclaire_newsWorldSelected_120x600_skyscraper_side;loc=100;target=_blank;kvPageid2=533373';
+  /* Added the below for Ads debug purposes */
+  var adcallurl = ipc.adtech.getAugmentedUrl(html);
+  jQuery('#skyscraper_adtech').html(adcallurl);
+  jQuery('#skyscraper_adtech').hide();
+
+  // Returned this line as the ASYNC adds is now handled 100% by writeCaptcha using autoAsync function */
+  document.write('<scr' + 'ipt type="text/javascript" src="' + adcallurl + '"></scri' + 'pt>');
+  // ]]>
+  </script>
+  <noscript>
+    <a href="http://adserver.adtech.de/adlink|3.0|656.1|1594614|0|168|ADTECH;alias=marieclaire_newsWorldSelected_120x600_skyscraper_side;loc=300;" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1594614|0|168|ADTECH;alias=marieclaire_newsWorldSelected_120x600_skyscraper_side;loc=300;" width="120" height="600" border="0" alt="Advertisement" /></a>
+  </noscript>
+</div>
+<div class="related">
+	<h3>Breaking headlines ...</h3>
+	<ul>
+				<li><p><a href="/news/celebrity/533436/golden-globe-2012-nominations-announced.html">Golden Globe 2012 nominations announced!</a></p></li>
+				<li><p><a href="/news/celebrity/533367/first-look-robert-pattinson-s-sizzling-new-bel-ami-stills.html">FIRST LOOK: Robert Pattinson&#039;s sizzling new Bel Ami stills</a></p></li>
+				<li><p><a href="/news/celebrity/533372/lady-gaga-named-most-powerful-celebrity-in-the-world.html">Lady Gaga named most powerful celebrity in the world</a></p></li>
+				<li><p><a href="/news/celebrity/533368/prince-william-kate-middleton-s-second-overseas-visit-confirmed.html">Prince William &amp; Kate Middleton&#039;s second overseas visit confirmed</a></p></li>
+				<li><p><a href="/news/celebrity/533370/angry-demi-moore-hits-out-at-fans-on-twitter.html">Angry Demi Moore hits out at fans on Twitter</a></p></li>
+			</ul>
+</div>
+<div class="single-button-promo">
+									<div class="promo-right-single">
+				<a href="http://www.magazinesdirect.com/subscription/marie-claire/6150636/marie-claire.thtml?utm_medium=Text+link&amp;utm_source=BRAND+WEBSITE&amp;utm_campaign=XMC+xmas+emags"><img alt="Subscribe Today" title="Subscribe Today" src="http://marieclaire.media.ipcdigital.co.uk/11116|00005854d|0bd9_orh100000w165_Subscribe-Today.jpg" /></a>			</div>
+			</div><div id="yooxWidget-mpu" class="home-buttons">
+<!--  YooxWidget 300x250 -->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="yooxWidget-300x250" width="300" height="250">
+  <param name="movie" value="http://www.yoox.com/_partners/marieclaire_uk/box_300x250_ok_ok.swf"/>
+  <param name="quality" value="high"/>
+  <param name="bgcolor" value="#ffffff"/>
+  <param name="wmode" value="transparent"/>
+  <param name="flashvars" value="xml_path=http://www.yoox.com/scripts/services/dynamicsGalleryService.asp?idCollection=3616%26nax=21&amp;tp=21357&amp;tskay=B84CE7A2&amp;currency=%A3&amp;ga=%26?utm_source=marieclaire_uk&amp;utm_medium=verticali&amp;utm_campaign=verticali_uk"/>
+<!--[if !IE]>-->
+  <object type="application/x-shockwave-flash" data="http://www.yoox.com/_partners/marieclaire_uk/box_300x250_ok_ok.swf" width="300" height="250">
+    <param name="quality" value="high"/>
+    <param name="bgcolor" value="#ffffff"/>
+    <param name="wmode" value="transparent"/>
+    <param name="flashvars" value="xml_path=http://www.yoox.com/scripts/services/dynamicsGalleryService.asp?idCollection=3616%26nax=21&amp;tp=21357&amp;tskay=B84CE7A2&amp;currency=%A3&amp;ga=%26?utm_source=marieclaire_uk&amp;utm_medium=verticali&amp;utm_campaign=verticali_uk"/>
+<!--<![endif]-->
+<!--[if !IE]>-->
+  </object>
+<!--<![endif]-->
+</object><script type="text/javascript">/*<![CDATA[*/ swfobject.registerObject("yooxWidget-300x250", "8.0", "/flash/pluginFlashObject/expressInstall.swf"); /*]]>*/</script><!-- /YooxWidget 300x250 --></div><span id="mpu_adtech"></span>
+<div id="mpu">
+  <script type="text/javascript">
+  // <![CDATA[
+  if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+
+  var html = 'http://adserver.adtech.de/addyn|3.0|656.1|1689309|0|170|ADTECH;cookie=info;alias=marieclaire_newsWorldSelected_300x250_mpu_right_side;loc=100;target=_blank;kvPageid2=533373';
+  /* Added the below for Ads debug purposes */
+  var adcallurl = ipc.adtech.getAugmentedUrl(html);
+  jQuery('#mpu_adtech').html(adcallurl);
+  jQuery('#mpu_adtech').hide();
+
+  // Returned this line as the ASYNC adds is now handled 100% by writeCaptcha using autoAsync function */
+  document.write('<scr' + 'ipt type="text/javascript" src="' + adcallurl + '"></scri' + 'pt>');
+  // ]]>
+  </script>
+  <noscript>
+    <a href="http://adserver.adtech.de/adlink|3.0|656.1|1689309|0|170|ADTECH;alias=marieclaire_newsWorldSelected_300x250_mpu_right_side;loc=300;" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1689309|0|170|ADTECH;alias=marieclaire_newsWorldSelected_300x250_mpu_right_side;loc=300;" width="300" height="250" border="0" alt="Advertisement" /></a>
+  </noscript>
+</div>
+<br class="shim" />
+  </div>
+
+</div>
+
+
+      <div id="readOurLatest">
+    <p id="readOurLatestIntro">
+        Plus, read our Latest blogs, enter hot competitions, and much, much more...
+    </p>
+                <div class="readOurLatestItem first">
+                <a href="/news/lifestyle/533017/marie-claire-blog-twitter-awards-2011.html"><img alt="The Blog Awards" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000583a0|b9c5_orh100000w145_Blog-Awards.jpg" /></a><div class="readOurLatestHeadline"><div><a href="/news/lifestyle/533017/marie-claire-blog-twitter-awards-2011.html">Hot Competitions</a></div></div>            </div>
+                        <div class="readOurLatestItem">
+                <a href="http://www.marieclaire.co.uk/features/532860/christmas-advent-calendar-2011.html"><img alt="Marie Claire's Christmas Advent Calendar" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000581f3|d164_orh100000w145_Christmas-calendarLP.jpg" /></a><div class="readOurLatestHeadline"><div><a href="http://www.marieclaire.co.uk/features/532860/christmas-advent-calendar-2011.html">Advent Calendar</a></div></div>            </div>
+                        <div class="readOurLatestItem">
+                <a href="http://blogs.marieclaire.co.uk/category/martha-hayes/"><img alt="Marie Claire Blogger" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000579bf|ace9_orh100000w145_Martha-Hayes.jpg" /></a><div class="readOurLatestHeadline"><div><a href="http://blogs.marieclaire.co.uk/category/martha-hayes/">Martha Hayes Blog</a></div></div>            </div>
+                        <div class="readOurLatestItem">
+                <a href="http://www.marieclaire.co.uk/fashionweek/catwalk/1.html"><img alt="Catwalk Shows" src="http://marieclaire.media.ipcdigital.co.uk/11116|000057c6d|d9eb_orh100000w145_Catwalk-Shows.jpg" /></a><div class="readOurLatestHeadline"><div><a href="http://www.marieclaire.co.uk/fashionweek/catwalk/1.html">Catwalk Shows</a></div></div>            </div>
+                        <div class="readOurLatestItem">
+                <a href="http://itunes.apple.com/gb/app/beauty-genius-by-marie-claire/id400198687?mt=8&amp;affId=1503186"><img alt="PreviewPromos" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000579c2|ce84_orh100000w145_BeautyGenious.jpg" /></a><div class="readOurLatestHeadline"><div><a href="http://itunes.apple.com/gb/app/beauty-genius-by-marie-claire/id400198687?mt=8&amp;affId=1503186">Beauty Genius</a></div></div>            </div>
+                        <div class="readOurLatestItem last">
+                <a href="http://shop.marieclaire.co.uk/search.php?press=1"><img alt="PreviewPromos" src="http://marieclaire.media.ipcdigital.co.uk/11116|0000579c3|68b2_orh100000w145_LuxuryShopping.jpg" /></a><div class="readOurLatestHeadline"><div><a href="http://shop.marieclaire.co.uk/search.php?press=1">Shopping</a></div></div>            </div>
+            </div>
+      
+      <div id="footer">
+  <a id="logo_footer" href="/"><img alt="Marie Claire" class="first-child-home" src="/images/footer_logo.gif" /></a>  <form action="/search.html" class="search footer" name="site-search"  method="get">
+    <input type="text" value="" name="q" id="search-query" class="text"/>
+    <button type="submit" name="search" class="button">SEARCH</button>
+  </form>
+    <ul class="navigation nav_footer ">
+  <li><a href="/news/1.html">News</a><ul>
+	<li class="first-child"><a href="/news/celebrity/1.html">Celebrity News</a></li>
+	<li class=""><a href="/news/fashion/1.html">Fashion News</a></li>
+	<li class=""><a href="/news/health/1.html">Health News</a></li>
+	<li class=""><a href="/news/beauty/1.html">Beauty News</a></li>
+	<li class="current"><a href="/news/world/1.html">World News</a></li>
+	  <li class=""><a href="/inspireandmentor/1.html">Inspire &amp; Mentor</a></li>
+</ul>
+</li><li><a href="/fashion.html">Fashion</a><ul>
+        <li class=""><a href="/fashionweek.html">Fashion Week</a></li>
+    <!--<li class=""><a href="/shopthetrends">Shop the Trends</a></li>-->
+        <li class="">
+    
+      <a href="http://shop.marieclaire.co.uk">Shop</a>    </li>
+    
+        <li class=""><a href="/fashion/botd/533361/topshop-leather-and-tweed-coat.html">Buy of the Day</a></li>
+    <li class=""><a href="/fashion/best/1.html">10 Best</a></li>
+        <li class=""><a href="/fashion/ideas/1.html">Fashion Pictures</a></li>
+    <li><a href="/video/fashion.html">Fashion Videos</a></li>
+</ul></li><li><a href="/beauty.html">Hair & beauty</a><ul>
+    <li><a href="http://www.marieclaire.co.uk/features/284628/hair-special.html">Hair</a></li>
+      <li class="">
+    
+      <a href="http://shop.marieclaire.co.uk">Shop</a>    </li>
+    
+      <li class=""><a href="/beauty/botd/533360/ted-baker-butterfly-body-lotion.html">Buy of the Day</a></li>
+  <li class=""><a href="/beauty/best/1.html">10 Best</a></li>
+  <li class=""><a href="/beauty/galleries/1.html">Hair &amp; Beauty Pictures</a></li>
+  <li><a href="/video/beauty.html">Beauty Videos</a></li>
+  <li><a href="/video/hair.html">Hair Videos</a></li>
+  <li class=""><a href="/beauty/experts.html">Ask the Experts</a></li>
+</ul></li><li><a href="/celebrity/1.html">Celebrity</a><ul>
+		<li class=""><a href="/celebrity/a-z.html">Celebrity A-Z</a></li>
+	<li class=""><a href="/celebrity/pictures/1.html">Celebrity Pictures</a></li>
+	<li class=""><a href="/celebrity/interviews/1.html">Celebrity Interviews</a></li>
+	<li class=""><a href="/celebrity/best/1.html">10 Best</a></li>
+	<li><a href="/video/celebrity.html">Celebrity Videos</a></li>
+</ul>
+</li><li><a href="/community/1.html">Competitions &amp; Offers</a><ul>
+	<li class="first-child"><a href="/community/quizzes.html">Quizzes</a></li>
+	<li class=""><a href="http://blogs.marieclaire.co.uk" target="_blank">Blogs</a></li>
+	<li class=""><a href="/community/competitions/1.html">Competitions</a></li>
+  <li class=""><a href="/community/offers/1.html">Offers</a></li>
+	<li class=""><a href="/community/about.html">About us</a></li>
+	<li class=""><a href="/community/horoscopes.html">Horoscopes</a></li>
+</ul>
+</li><li><a href="/lifestyle/1.html">Lifestyle</a><ul>
+	<li class="first-child"><a href="/news/lifestyle/1.html">Issues and Campaigns</a></li>
+		<li class=""><a href="/lifestyle/best/1.html">10 Best</a></li>
+	<li class=""><a href="/lifestyle/ethical/1.html">Ethical Living</a></li>
+	<li class=""><a href="/lifestyle/recipes/1.html">Recipes</a></li>
+	<li class=""><a href="/lifestyle/restaurant/1.html">Restaurant Reviews</a></li>
+	<li class=""><a href="/lifestyle/lifestyle-galleries/1.html">Lifestyle Pictures</a></li>
+  <li class=""><a href="/inspireandmentor/1.html">Inspire &amp; Mentor</a></li>
+	<li><a href="/video/lifestyle.html">Lifestyle Videos</a></li>
+</ul></li><li><a href="/health/1.html">Health</a><ul>
+		<li class=""><a href="/health/diet/1.html">Diet Plans</a></li>
+	<li class=""><a href="/health/experts.html">Ask the Experts</a></li>
+	<li class=""><a href="/health/directory.html">Spa and Salon Directory</a></li>
+		<li><a target="_blank" href="http://www.marieclairedietclub.co.uk/">Diet Club</a></li>
+	<li class=""><a href="/health/best/1.html">10 Best</a></li>
+	<li><a href="/video/healthandfitness.html">Health &amp; Fitness videos</a></li>
+
+</ul></li><li><a href="/travel/1.html">Travel</a><ul>
+	<li class="first-child"><a href="/news/travel/1.html">Travel News</a></li>
+	<li class=""><a href="/travel/best/1.html">10 Best</a></li>
+	<li class=""><a href="/travel/city/1.html">City Guides</a></li>
+	<li class=""><a href="/travel/country/1.html">Country Guides</a></li>
+	<li class=""><a href="/travel/hotel/1.html">Hotel Reviews</a></li>
+		<li class=""><a href="/travel/photos/1.html">Travel Pictures</a></li>
+</ul>
+</li></ul>
+
+    <div class="extra_links">
+      <h3>Subscribe to:</h3>
+      <ul>
+        <li class="link_border"><a href="http://www.magazinesdirect.com/Marie-Claire-magazine-subscription?utm_content=Footer+Nav+Text+Link1">Marie Claire Magazine</a></li>
+        <li><a href="http://ebm.cheetahmail.com/r/regf2?a=0&aid=1577006489&n=6">Email Newsletter</a></li>
+      </ul>
+    </div>
+    <div class="extra_links">
+      <h3 id="rss_logo">RSS feeds:</h3>
+      <a href="/rss.html">Get the latest headlines to your desktop</a>
+    </div>
+    <div class="extra_links">
+      <h3>Join us on:</h3>
+      <ul>
+        <li><a href="http://twitter.com/marieclaireuk"><img alt="Twitter" src="/images/logo_twitter.gif" /></a></li>
+        <li><a href="http://www.facebook.com/MarieClaireUK"><img alt="Facebook" src="/images/logo_facebook.gif" /></a></li>
+      </ul>
+    </div>
+  <ul id="sub_footer">
+  <li class="raceonline-logo-footer">
+	<a href="http://www.ipcmedia.com/raceonline/" title="Race Online 2012"><img alt="Race Online 2012" src="/images/race-online-logo.gif" /></a>
+</li><li>
+
+<ul>
+	<li class="header"><em>&copy; Marie Claire 2011</em></li>
+	<li class="first-child"><a rel="nofollow" href="/contact.html">Contact us</a></li>
+	<li><a target="_blank" href="http://www.ipcmedia.com/terms.php">Terms &amp; Conditions</a></li>
+	<li><a target="_blank" href="http://www.ipcmedia.com/privacy.php">Privacy Policy</a></li>
+	<li><a href="http://www.magazinesdirect.com/Marie-Claire-magazine-subscription?utm_content=Footer+Nav+Text+Link2">Marie Claire subscriptions</a></li>
+	<li><a href="/sitemap.html">Sitemap</a></li>
+</ul>
+</li><li>
+
+<ul>
+	<li class="header"><em>Worldwide Marie Claire:</em></li>
+		<li class="first-child"><a target="_blank" href="http://www.marieclaire.com.au">Australia</a></li>
+		<li><a target="_blank" href="http://revistamarieclaire.globo.com/">Brazil</a></li>
+		<li><a target="_blank" href="http://www.marieclairechina.com">China</a></li>
+		<li><a target="_blank" href="http://www.marieclaire.fr">France</a></li>
+		<li><a target="_blank" href="http://www.marieclaire.com.hk/">Hong Kong</a></li>
+		<li><a target="_blank" href="http://www.marieclaire.it">Italy</a></li>
+		<li><a target="_blank" href="http://www.marieclaire.co.jp">Japan</a></li>
+		<li><a target="_blank" href="http://www.marieclaire.com.my">Malaysia</a></li>
+		<li><a target="_blank" href="http://www.marie-claire.es">Spain</a></li>
+		<li><a target="_blank" href="http://www.marieclaire.com.tw">Taiwan</a></li>
+		<li><a target="_blank" href="http://www.mcdergi.com">Turkey</a></li>
+		<li><a target="_blank" href="http://www.marieclaire.com">USA</a></li>
+	</ul>
+</li><li>
+<ul>
+	<li class="header"><em>Other IPC Titles:</em></li>
+		<li class="first-child"><a target="_blank" href="http://www.instyle.co.uk">InStyle</a></li>
+		<li><a target="_blank" href="http://www.housetohome.co.uk">housetohome</a></li>
+		<li><a target="_blank" href="http://www.housetohome.co.uk/homesandgardens">Homes and Gardens</a></li>
+		<li><a target="_blank" href="http://www.housetohome.co.uk/idealhomemagazine">Ideal Home</a></li>
+		<li><a target="_blank" href="http://www.housetohome.co.uk/livingetc">Livingetc</a></li>
+		<li><a target="_blank" href="http://www.womanandhome.co.uk">Woman &amp; Home</a></li>
+		<li><a target="_blank" href="http://www.wallpaper.com">Wallpaper</a></li>
+		<li><a target="_blank" href="http://www.nowmagazine.co.uk">Now</a></li>
+		<li><a target="_blank" href="http://www.horseandhound.co.uk">Horse and Hound</a></li>
+	</ul>
+</li><li>
+<ul>
+	<li class="header"><em>Feelgood Games:</em></li>
+		<li class="first-child"><a title="Games you'll want to shout about" target="_blank" rel="nofollow" href="http://www.feelgoodgames.co.uk/">Feelgood Games</a></li>
+		<li><a title="" target="_blank" rel="nofollow" href="http://www.feelgoodgames.co.uk/tag/puzzle">Puzzles</a></li>
+		<li><a title="" target="_blank" rel="nofollow" href="http://www.feelgoodgames.co.uk/tag/card">Card Games</a></li>
+		<li><a title="" target="_blank" rel="nofollow" href="http://www.feelgoodgames.co.uk/games/jigsawdeluxe">Jigsaws</a></li>
+		<li><a title="" target="_blank" rel="nofollow" href="http://www.feelgoodgames.co.uk/tag/word">Word Games</a></li>
+		<li><a title="" target="_blank" rel="nofollow" href="http://www.feelgoodgames.co.uk/games/bejewelled2">Bejewelled 2</a></li>
+		<li><a title="" target="_blank" rel="nofollow" href="http://www.feelgoodgames.co.uk/games/mahjongworld">Mahjong</a></li>
+		<li><a title="" target="_blank" rel="nofollow" href="http://www.feelgoodgames.co.uk/tag/card">Solitaire</a></li>
+	</ul>
+</li>  </ul>
+</div>      
+		</div>
+    
+    <div id="fb-root"></div>
+    
+    <script type="text/javascript" src="/js/facebook-og.js"></script>
+		<span id="ad_hidden_footer_adtech"></span>
+<div id="ad_hidden_footer">
+  <script type="text/javascript">
+  // <![CDATA[
+  if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000);}
+
+  var html = 'http://adserver.adtech.de/addyn|3.0|656.1|1594609|0|16|ADTECH;cookie=info;alias=marieclaire_newsWorldSelected_1x1_hidden_footer;loc=100;target=_blank;kvPageid2=533373';
+  /* Added the below for Ads debug purposes */
+  var adcallurl = ipc.adtech.getAugmentedUrl(html);
+  jQuery('#ad_hidden_footer_adtech').html(adcallurl);
+  jQuery('#ad_hidden_footer_adtech').hide();
+
+  // Returned this line as the ASYNC adds is now handled 100% by writeCaptcha using autoAsync function */
+  document.write('<scr' + 'ipt type="text/javascript" src="' + adcallurl + '"></scri' + 'pt>');
+  // ]]>
+  </script>
+  <noscript>
+    <a href="http://adserver.adtech.de/adlink|3.0|656.1|1594609|0|16|ADTECH;alias=marieclaire_newsWorldSelected_1x1_hidden_footer;loc=300;" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1594609|0|16|ADTECH;alias=marieclaire_newsWorldSelected_1x1_hidden_footer;loc=300;" width="1" height="1" border="0" alt="Advertisement" /></a>
+  </noscript>
+</div>
+		
+<script type="text/javascript">
+	var skimlinks_pub_id = '635X130706';
+		var skimlinks_exclude = new Array('adserver.adtech.de','marieclaire.com.au','revistamarieclaire.globo.com','marieclairechina.fr','marieclaire.com.hk','marieclaire.it','marieclaire.co.jp','marieclaire.com.my','marie-claire.es','marieclaire.com.tw','mcdergi.com','instyle.co.uk','housetohome.co.uk','homesandgardens.com','idealhomemagazine.co.uk','livingetc.co.uk','weddingmagazine.co.uk','womanandhome.co.uk','wallpaper.com','nowmagazine.co.uk','webuser.co.uk','horseandhound.co.uk','alamo.co.uk','secure.baa.com','flybmi.com','brusselsairlines.co.uk','brusselsairlines.de','brusselsairlines.no','brusselsairlines.de','brusselsairlines.es','brusselsairlines.fr','brusselsairlines.it','brusselsairlines.nl','cornhilldirect.co.uk','channel4.com','coca-cola.com','creditexpert.co.uk','freecreditreport.com','firstchoice.co.uk','carinsurance.halifax-online.co.uk','halifax-international.com','halifax.co.uk','halifax.co.uk','musicane.com','halifax.co.uk','lavera.com','halifax.co.uk','kiddicare.com','lipsy.co.uk','holidays.monarch.co.uk','morethan.com','nectar.es','neilson.co.uk','nspcc.tprconnect.org','sainsburysbank.co.uk','statravel.co.uk','tui.it','pourtoutvousdire.com','virginholidays.co.uk','zurich-connect.it','current.com','ea.com','eagames.co.uk','emap.com','jpmorganassetmanagement.co.uk','jpmorgan.com','mcfc.co.uk','porsche.com','toyota.co.uk','turner.com','visitlondon.com','btbroadbandoffice.com','business.bt.com','shop.bt.com','productsandservices.bt.com','bttradespace.com','prodbttradespace.bt.com','bt.com','btopenzone.com','businessdirect.bt.com');
+	</script>
+
+<script type="text/javascript">
+       var skimlinks_script = document.createElement('script');
+       skimlinks_script.type = 'text/javascript';
+       skimlinks_script.async = true;
+       skimlinks_script.src = '//s.skimresources.com/js/ipc.skimlinks.js';
+
+       var skimlinks_script_attach = document.getElementsByTagName('script')[0];
+       skimlinks_script_attach.parentNode.insertBefore(skimlinks_script, skimlinks_script_attach.nextSibling);
+</script>
+
+
+<script type="text/javascript" charset="utf-8">
+  (function loadAudienceScience() {
+    var protocol = ('https:' == document.location.protocol) ? 'https://' : 'http://',
+        url = 'js.revsci.net/gateway/gw.js?csid=I10982&auto=t',
+        f = unescape("%3Cscript src='" + protocol + url + "' type='text/javascript'%3E%3C/script%3E");
+    document.write(f);
+  })();
+</script>
+
+
+<!-- Start Quantcast tag, part 2 just before the body tag closes -->
+<script type="text/javascript">
+  _qevents.push({
+    qacct:"p-f2WQ2euamp8rI"
+   });
+</script>
+
+<noscript>
+  <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-f2WQ2euamp8rI.gif" border="0" height="1" width="1" alt="Quantcast"/>
+  </div>
+</noscript>
+
+                    </div>
+                <!-- End of Content/Player Code -->
+            </div>
+            <!-- End of Content/Player Container -->
+        </div>
+        <!-- End of InSkin Container -->
+        <!-- Start of InSkin Initialization -->
+        <script type="text/javascript">
+        //<![CDATA[
+        InSkinParams['myPageSkin'] = {
+          'srv_SectionID': '123963',
+          'srv_Keywords': 'marieclaire_newsWorldSelected_1030w_inskin',
+          'srv_UseSAS': "true",
+
+          'sas_PauseAdTag': "<!--JavaScript Tag \/\/ Tag for network 656: IPC Media \/\/ Website: SB - MarieClaire \/\/ Page: InSkin \/\/ Placement: InSkin Pixel 1x1 (2561800) \/\/ created at: Jun 22, 2010 6:23:47 PM-->\r\n<script language=\"javascript\">\r\n<!--\r\nif (window.adgroupid == undefined) {\r\n\twindow.adgroupid = Math.round(Math.random() * 1000);\r\n}\r\ndocument.write('<scr'+'ipt language=\"javascript1.1\" src=\"http:\/\/adserver.adtech.de\/addyn|3.0|656.1|2561800|0|16|ADTECH;cookie=info;alias=MarieClaire_PageSkin;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'\"><\/scri'+'pt>');\r\n\/\/-->\r\n<\/script><noscript><a href=\"http:\/\/adserver.adtech.de\/adlink|3.0|656.1|2561800|0|16|ADTECH;loc=300;alias=MarieClaire_PageSkin;key=key1+key2+key3+key4\" target=\"_blank\"><img src=\"http:\/\/adserver.adtech.de\/adserv|3.0|656.1|2561800|0|16|ADTECH;cookie=info;loc=300;alias=MarieClaire_PageSkin;key=key1+key2+key3+key4\" border=\"0\" width=\"1\" height=\"1\"><\/a><\/noscript>\r\n<!-- End of JavaScript Tag -->",
+
+
+          'plr_ContentType': 'PAGESKIN',
+          'plr_ContentID': 'myContent',
+          'plr_ContentW': 1030,
+
+          'plr_FrameTop': 90,
+          'plr_FrameSide': 130,
+          'plr_FrameBottom': 90,
+
+          'plr_HideElementsByID': 'side,leaderboard',
+          'plr_HideElementsByClass': '',
+
+          'plr_NoSkinInSkinResize': true
+        };
+        var objPageSkin = new InSkin.Base('myPageSkin');
+        objPageSkin.init();
+        //]]>
+        </script>
+        <!-- End of InSkin Initialization -->
+        <!-- End of InSkin Ad Code -->
+	</body>
+</html>
+

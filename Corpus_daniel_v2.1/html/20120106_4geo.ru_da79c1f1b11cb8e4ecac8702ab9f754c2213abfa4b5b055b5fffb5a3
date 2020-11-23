@@ -1,0 +1,948 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="content-language" content="ru" />
+  <meta name="distribution" content="global" />
+  <meta name="document-state" content="dynamic" />
+  <meta name="keywords" content='' />
+  <meta name="description" content='' />
+  <title>Главный врач РФ: В России скоро не будет общественных курилок — События В Кемеровской области — 4geo</title>
+  
+  <link href="/favicon.ico" type="image/png" rel="icon"></link>
+  
+  <link href="/news/assets/reset-5672e5e91b07331de3917f4d1fa7ccaf.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/news/assets/general-97c96bb51817939db9468836aa6ed2ab.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/news/assets/main-8529e4883bcd9d575f2673aa97bb290d.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://4geo.ru/resource/css/?branch=1&pageName" rel="stylesheet" type="text/css" />
+
+  <script src="/news/assets/application-ebe8d684c4d2e939763cdf22a98fed59.js" type="text/javascript"></script>
+  <script src="http://4geo.ru/resource/js/?branch=1&pageName" type="text/javascript"></script>
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="1SSd/Rp1FG0u5tAGkmEj38vvw5vNFOPRkcenUETkKlo=" name="csrf-token" />
+
+</head>
+
+
+<body>
+    <a href="http://www.sdsmedia.ru/" target="_blank" style="padding:0;margin:0;" >
+<img src="http://4geo.ru/images/other/1600%D1%8590_0.jpg" width="100%" height="90px" style="margin:0;border:none;"/>
+</a>
+
+
+
+   
+<div id="header">
+    
+    <table style="position:absolute;left:0px;top:0px;height:82px;">
+      <tr>
+        <td style="padding-left:36px;">
+          <a href="/" class="logo"></a>
+        </td>
+        <td style="vertical-align:middle;padding-left:15px;">
+          <div class="townselect">
+            Современный&nbsp;портал<br/>
+            <a shape="rect" id="townselectlink" class="ctown" href="javascript:void(0);"><span>Новокузнецк</span></a><ul style="display: none" id="townmenu" class="townmenuSelector"><li><a shape="rect" href="http://vologda.4geo.ru/news">Вологда</a></li><li><a shape="rect" href="http://voronezh.4geo.ru/news">Воронеж</a></li><li><a shape="rect" href="http://udm.4geo.ru/news">Ижевск</a></li><li><a shape="rect" href="http://kemerovo.4geo.ru/news">Кемерово</a></li><li><a shape="rect" href="http://krasnoyarsk.4geo.ru/news">Красноярск</a></li><li><a shape="rect" href="http://kotlas.4geo.ru/news">Котлас</a></li><li><a shape="rect" href="http://nizhnevartovsk.4geo.ru/news">Нижневартовск</a></li><li><a shape="rect" href="http://novokuznetsk.4geo.ru/news">Новокузнецк</a></li><li><a shape="rect" href="http://orenburg.4geo.ru/news">Оренбург</a></li><li><a shape="rect" href="http://orsk.4geo.ru/news">Орск</a></li><li><a shape="rect" href="http://rostov.4geo.ru/news">Ростов-на-Дону</a></li><li><a shape="rect" href="http://surgut.4geo.ru/news">Сургут</a></li><li><a shape="rect" href="http://tula.4geo.ru/news">Тула</a></li><li><a shape="rect" href="http://hm.4geo.ru/news">Ханты-Мансийск</a></li><li><a shape="rect" href="http://cherepovets.4geo.ru/news">Череповец</a></li></ul>
+          </div>
+        </td>
+        <td style="padding-left:20px;">
+          <div id="header_info" style="display:none;">
+            <div class="header_info_arrow"></div>
+            <div class="content" id="header_info_content"></div>
+          </div>
+        </td>
+      </tr>
+    </table>
+    
+    <div class="right_bg"></div>
+    <a href="http://4geo.ru/desktop/download/" class="download_button" id="download_button"></a>
+    <a href="http://4geo.ru/desktop/download/" class="download_button_il" id="download_button_il" style="display:none;"><span></span></a>
+  </div>
+
+  <div id="menu">
+    <table class="menu">
+      <tr>
+        <td class="nav_c">
+          <table class="nav"><tr><td colspan="1" rowspan="1"><a shape="rect" class="gm_main" href="/">
+Главная
+</a></td><td colspan="1" rowspan="1" class="i"> </td><td colspan="1" rowspan="1"><a shape="rect" class="selected gm_news" href="/news/">
+Новости
+<div class="arrow"></div></a></td><td colspan="1" rowspan="1" class="i"> </td><td colspan="1" rowspan="1"><a shape="rect" class="gm_afisha" href="/afisha/">
+Афиша
+</a></td><td colspan="1" rowspan="1" class="i"> </td><td colspan="1" rowspan="1"><a shape="rect" class="" href="/catalog/">
+Каталог
+</a></td><td colspan="1" rowspan="1" class="i"> </td><td colspan="1" rowspan="1"><a shape="rect" class="" href="/maps/">
+Карта города
+</a></td><td colspan="1" rowspan="1" class="i"> </td><td colspan="1" rowspan="1"><a shape="rect" class="" href="/3d/">
+3D Панорамы
+</a></td><td colspan="1" rowspan="1" class="i"> </td><td colspan="1" rowspan="1"><a shape="rect" class="s" href="/desktop/download/">
+Скачать
+</a></td><td colspan="1" rowspan="1" class="i"> </td><td colspan="1" rowspan="1"><a shape="rect" class="" href="/board/">
+Объявления
+</a></td><td colspan="1" rowspan="1" class="i"> </td><td colspan="1" rowspan="1"><a shape="rect" class="" href="/redirect/?service=catalog&amp;url=http://realty.4geo.ru/novokuznetsk">
+Недвижимость
+</a></td><td colspan="1" rowspan="1" class="i"> </td><td colspan="1" rowspan="1"><a shape="rect" class="" href="/redirect/?service=catalog&amp;url=http://job42.ru/">
+Работа от Job42
+</a></td><td colspan="1" rowspan="1" class="i"> </td></tr></table>
+        </td>
+
+        <td class="login_c">
+          <table><tr><td><a href='http://novokuznetsk.4geo.ru/my/login/?callbackUrl=http://novokuznetsk.4geo.ru/newsshow/2012/1/6/kurenie'>Вход</a></td><td><a href='http://novokuznetsk.4geo.ru/my/register'>Регистрация</a></td></tr></table>
+        </td>
+
+      </tr>
+    </table>
+  </div><script type="text/javascript">
+		var current_domain = "novokuznetsk";
+	</script>
+
+  <div id="content">
+    
+    <ul class="news_rubrics">
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/">Главные новости</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/economy">Экономика</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/politic">Политика</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/society">Общество</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/education">Образование</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/religion">Религия</a>
+        </li>
+        <li class='selected'>
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/health">Здоровье</a>
+            <div style="background:url(http://novokuznetsk.4geo.ru/news/i/news_rubric_arrow.png) center top no-repeat; left:0px; bottom:0px; right:0px; height:6px; position:absolute;"></div>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/culture">Культура</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/sports">Спорт</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/science">Наука и технологии</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/low">Закон и порядок</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/auto">Авто</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/podrobnosti">Подробности</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/obzor">Обзор</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/rus">В России</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/Incidents">Происшествия</a>
+        </li>
+        <li >
+          <a href="http://novokuznetsk.4geo.ru/news/rubric/interview">Интервью</a>
+        </li>
+    </ul>
+    <div class="clearfix" style="height:20px;"></div>
+    <table style="width:100%;">
+      <tr>
+        <td>
+          <div style="border-top:3px solid #EF8904;padding-bottom:25px;"></div>
+          <table style="width:100%;">
+  <tr>
+    <td style="width:65%;">
+            <div class="tiding">
+
+
+    <table>
+      <tr>
+        <td style="vertical-align:top;padding-right:10px;">
+          <img src="http://novokuznetsk.4geo.ru/news/images/181831986_large.JPEG" width="340px" height="255px" class="main-photo" />
+        </td>
+        <td style="position:relative;">
+          <p class="tiding-date">06.01.2012<span>|</span>15:33</p>
+          <h1 class="title">Главный врач РФ: В России скоро не будет общественных курилок</h1>
+        </td>
+      </tr>
+    </table>
+    <div class="tiding-content">
+      <p style="text-indent:20pt">Руководитель Роспотребнадзора Геннадий Онищенко сегодня предложил ввести запрет не только на курение в общественных местах, но и отказаться от «курилок» в госучреждениях.</p>
+<br />
+<p style="text-indent:20pt">По мнению главного санитарного врача РФ, Россия ежегодно производит более 400 миллиардов штук сигарет и пропаганда здорового образа жизни должна стать наиважнейшей задачей. Необходимо прекратить скрытую рекламу табачных изделий, запретить курить даже киногероям.</p>
+<br />
+    </div>
+
+
+
+</div>
+
+
+
+
+
+        <p style="margin-top:10px;color:#777;font-size:12px;">Источник: <a href="http://www.4geo.ru">4geo.ru</a></p>
+
+      <div style="margin:15px 0px 15px 0px;">
+        <table>
+          <tr>
+            <td style="vertical-align:middle;padding-right:15px;padding-top:2px;">
+              <script type="text/javascript" src="http://vk.com/js/api/share.js?11" charset="windows-1251"></script>
+              <script type="text/javascript"><!--
+              document.write(VK.Share.button(false,{type: "round", text: "Сохранить"}));
+              --></script>
+            </td>
+            <td style="vertical-align:middle;padding-right:15px;">
+              <a counter="yes" type="button" size="large" name="ya-share"> </a><script charset="utf-8" type="text/javascript">if (window.Ya && window.Ya.Share) {Ya.Share.update();} else {(function(){if(!window.Ya) { window.Ya = {} };Ya.STATIC_BASE = 'http:\/\/yandex.st\/wow\/2.3.21\/static';Ya.START_BASE = 'http:\/\/my.ya.ru\/';var shareScript = document.createElement("script");shareScript.type = "text/javascript";shareScript.async = "true";shareScript.charset = "utf-8";shareScript.src = Ya.STATIC_BASE + "/js/api/Share.js";(document.getElementsByTagName("head")[0] || document.body).appendChild(shareScript);})();}</script>
+            </td>
+            <td style="padding-right:15px;padding-top:2px;">
+              <a class="mrc__share" href="http://connect.mail.ru/share">В Мой Мир</a><script src="http://cdn.connect.mail.ru/js/share/2/share.js" type="text/javascript" charset="UTF-8"></script>
+            </td>
+            <td style="padding-right:15px;padding-top:2px;">
+              <a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Опубликовать</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+            </td>
+            <td style="vertical-align:middle;padding-top:4px;">
+              <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+
+
+
+      <div style="border-top:1px dotted #555;padding-bottom:12px; margin-top:35px;"></div>
+      <b>Комментарии</b>
+      <link href="http://4geo.ru/resource/css/comments.css" rel="stylesheet" type="text/css" />
+      <script src="http://4geo.ru/resource/js/comments.js" type="text/javascript"></script>
+
+      <div id="comments"><div id="commentsTree"><div class="comment" style="padding-left:0px;" id="comment_post_186184670">
+	<a name="186184670" class="commentAnchorLink"></a>
+	<div class="arrow"></div>
+	<div class="content">
+		<table width="100%">
+			<tr>
+				<td class="avatar">
+						<img src="http://4geo.ru/images/other/anonymus.png" />
+				</td>
+				<td>
+							<b>Ирина (анонимно)</b>
+					<p>
+							&#1053;&#1091;,&#1082;&#1086;&#1075;&#1076;&#1072; &#1091;&#1078;&#1077;!!!!</p><p>&#1040;-&#1090;&#1086; &#1090;&#1086;&#1083;&#1100;&#1082;&#1086; &#1075;&#1086;&#1074;&#1086;&#1088;&#1103;&#1090;.... 
+					</p>
+					<div class="control">
+						<span class="dt">14:53, 16 января, 2012</span>
+							<a rel="nofollow" href="javascript:void(0)" class="addcomment">
+								<input type="hidden" class="valueContainer" value="186184670">
+								Комментировать
+							</a>
+							<a rel="nofollow" href="javascript:void(0)" class="complaint complaint_comment">
+								<input type="hidden" class="valueContainer" value="186184670">
+								Пожаловаться
+							</a>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<table class="shaddow_bottom"><tr><td class="l"></td><td class="c">&nbsp;</td></tr></table>
+</div></div></div><div class="addcomment" id="addNewCommentLink212387873"><div id="empty_comment_control"><a shape="rect" rel="nofollow" href="javascript:void(0)" class="commentable">Написать комментарий</a></div><div id="empty_comment_form">Текст комментария</div></div><script src="http://ulogin.ru/js/widget.js?" type="text/javascript"></script><script type="text/javascript">
+		var opts={eventLogType:'NEWS_COMMENT',themeId:212387873,branch:1};
+		new CommentsAPI(opts);
+	</script>
+
+
+      <div style="border-top:1px dotted #555;padding-bottom:12px; margin-top:35px;"></div>
+
+
+      <div style="font-size:18px; padding:5px 10px 5px 10px; color:#fff; background:#EF8904; margin-bottom:15px;">Другие новости в рубрике &laquo;Здоровье&raquo;</div>
+
+      <table class="news-list">
+        <tr>
+          <td class="photo"><img src='http://4geo.ru/news/images/620444360_small.JPEG' width='85px' height='64px' /></td>
+          <td class="content">
+            <a href="http://novokuznetsk.4geo.ru/news/show/2013/4/5/hospis">В Кузбассе открылся первый детский хоспис в Сибири</a>
+            <span class="date">05/04, 12:30</span>
+            
+            <div style="font-size:13px;">В Новокузнецке на базе городской детской больницы № 28 открылось первое в СФО хосписное отделение для детей</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="photo"><img src='http://4geo.ru/news/images/617056098_small.JPEG' width='85px' height='64px' /></td>
+          <td class="content">
+            <a href="http://novokuznetsk.4geo.ru/news/show/2013/4/3/milk">Пейте, дети, молоко?..</a>
+            <span class="date">03/04, 13:19</span>
+            
+            <div style="font-size:13px;">Дети, которых в младенчестве прикармливали цельным молоком, страдают сахарным диабетом, нарушением обмена веществ и, как следствие, ожирением</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="photo"><img src='http://4geo.ru/news/images/602502459_small.JPEG' width='85px' height='64px' /></td>
+          <td class="content">
+            <a href="http://novokuznetsk.4geo.ru/news/show/2013/3/25/tuberkulez">Туберкулеза в Кузбассе на 70% больше, чем в России</a>
+            <span class="date">25/03, 09:50</span>
+            <a href='http://novokuznetsk.4geo.ru/news/show/2013/3/25/tuberkulez'  style='background:url(http://4geo.ru/news/i/icon_comment.gif) left center no-repeat; padding-left:11px; margin-left:4px; font:10px Arial; color:#037DD3; text-decoration:none;'>1</a>
+            <div style="font-size:13px;">В конце марта в Кузбассе готовится ряд мероприятий, направленных на борьбу с болезнью.</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="photo"><img src='http://4geo.ru/news/images/600535972_small.JPEG' width='85px' height='64px' /></td>
+          <td class="content">
+            <a href="http://novokuznetsk.4geo.ru/news/show/2013/3/22/infection">В Новокузнецке умер студент</a>
+            <span class="date">22/03, 15:04</span>
+            <a href='http://novokuznetsk.4geo.ru/news/show/2013/3/22/infection'  style='background:url(http://4geo.ru/news/i/icon_comment.gif) left center no-repeat; padding-left:11px; margin-left:4px; font:10px Arial; color:#037DD3; text-decoration:none;'>1</a>
+            <div style="font-size:13px;">Врачи подозревают, что причиной смерти стала менингококковая инфекция
+</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="photo"><img src='http://4geo.ru/news/images/595643229_small.JPEG' width='85px' height='64px' /></td>
+          <td class="content">
+            <a href="http://novokuznetsk.4geo.ru/news/show/2013/3/18/rubella">В Кузбассе зарегистрировали вспышку краснухи</a>
+            <span class="date">18/03, 13:42</span>
+            <a href='http://novokuznetsk.4geo.ru/news/show/2013/3/18/rubella'  style='background:url(http://4geo.ru/news/i/icon_comment.gif) left center no-repeat; padding-left:11px; margin-left:4px; font:10px Arial; color:#037DD3; text-decoration:none;'>1</a>
+            <div style="font-size:13px;">Первые пациенты с симптомами опасного заболевания были намедни зарегистрированы в Юрге</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="photo"><img src='http://4geo.ru/news/images/589279385_small.JPEG' width='85px' height='64px' /></td>
+          <td class="content">
+            <a href="http://novokuznetsk.4geo.ru/news/show/2013/3/14/serdce">Пересаженное кузбассовцу сердце полностью прижилось</a>
+            <span class="date">14/03, 13:01</span>
+            
+            <div style="font-size:13px;">Напомним, операция была выполнена в ночь с 30 на 31 января 2013 года силами бригады трансплантологов под руководством академика Леонида Барбараша.</div>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+    <td style="width:35%;padding-left:20px;">
+        <div style="padding:10px;background:#e6ecf2;margin-bottom:5px;-moz-border-radius: 3px;-webkit-border-radius: 2px;-o-border-radius: 2px;border-radius: 2px;">
+    <p style="font-size:18px;color:#333;">Интервью</p>
+    <div class="interview_container">
+    <table>
+      <tr>
+        <td>
+          <p class="i_title">Ежедневное  развитие – это наш конёк!</p>
+        </td>
+        <td class="i_td_photo">
+          <a href="http://novokuznetsk.4geo.ru/news/show/2013/4/9/vopros"><img src='http://4geo.ru/news/images/626790864_small.JPEG' width='85px' height='64px' /></a>
+        </td>
+      </tr>
+    </table>
+    <a href="http://novokuznetsk.4geo.ru/news/show/2013/4/9/vopros" class="i_description" style="font-size:13px;">Компания 4geo не перестает удивлять своих постоянных и новых пользователей!</a>
+    </div>
+    <div class="interview_container">
+    <table>
+      <tr>
+        <td>
+          <p class="i_title"> Интеллектуальный бизнес-клуб «Контакт» приглашает!</p>
+        </td>
+        <td class="i_td_photo">
+          <a href="http://novokuznetsk.4geo.ru/news/show/2013/3/4/liamin"><img src='http://4geo.ru/news/images/577385173_small.JPEG' width='85px' height='64px' /></a>
+        </td>
+      </tr>
+    </table>
+    <a href="http://novokuznetsk.4geo.ru/news/show/2013/3/4/liamin" class="i_description" style="font-size:13px;">В целях просвещения и взаимовыгодного обмена идеями в качестве эксперимента открылся первый в Кузбассе Интеллектуальный бизнес-клуб с рабочим названием «Контакт».</a>
+    </div>
+    <div class="interview_container">
+    <table>
+      <tr>
+        <td>
+          <p class="i_title">Слушай радио с 4гео!</p>
+        </td>
+        <td class="i_td_photo">
+          <a href="http://novokuznetsk.4geo.ru/news/show/2012/10/2/radio"><img src='http://4geo.ru/news/images/390995342_small.JPEG' width='85px' height='64px' /></a>
+        </td>
+      </tr>
+    </table>
+    <a href="http://novokuznetsk.4geo.ru/news/show/2012/10/2/radio" class="i_description" style="font-size:13px;">Электронный справочник 4гео сообщает о запуске нового сервиса</a>
+    </div>
+  </div>
+
+      <div class="main-day-news">
+  <h2>Главное за сутки</h2>
+  <ul class="main_for_day">
+      <li>
+        <span class="p"></span><a href='http://novokuznetsk.4geo.ru/news/show/2013/4/10/kaban'>В кузбасском заповеднике родились кабанята</a>
+        <span class="date">Сегодня, 13:26</span>
+        
+      </li>
+      <li>
+        <span class="p"></span><a href='http://novokuznetsk.4geo.ru/news/show/2013/4/10/prodavec'>В Кемерове продавец отобрала у вора пистолет </a>
+        <span class="date">Сегодня, 12:05</span>
+        
+      </li>
+      <li>
+        <span class="p"></span>В парке Гагарина будет <a href='http://novokuznetsk.4geo.ru/news/show/2013/4/10/parkgagarina'>новый аттракцион</a>
+        <span class="date">Сегодня, 10:18</span>
+        
+      </li>
+      <li>
+        <span class="p"></span>В КемГУ проходит <a href='http://novokuznetsk.4geo.ru/news/show/2013/4/10/KemGU'>неделя карьеры</a>
+        <span class="date">Сегодня, 09:48</span>
+        
+      </li>
+        <li>
+          <!--  AdRiver code START. Type:300x120 Site: port_4geo PZ: 0 BN: 1 -->
+          <script language="javascript" type="text/javascript"><!--
+          var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+          var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
+          document.write(
+          '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?'
+            + 'sid=144018&bn=1&target=blank&bt=34&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '&sz=nvkzright'
+          + '" frameborder=0 vspace=0 hspace=0 width=300 height=120 marginwidth=0'
+          + ' marginheight=0 scrolling=no></iframe>');
+          //--></script>
+          <noscript>
+          <a href="http://ad.adriver.ru/cgi-bin/click.cgi?sid=144018&bn=1&bt=34&pz=0&rnd=140976849&sz=nvkz" target=_blank>
+          <img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=144018&bn=1&bt=34&pz=0&rnd=140976849&sz=nvkz" alt="-AdRiver-" border=0 width=300 height=120></a>
+          </noscript>
+          <!--  AdRiver code END  -->
+        </li>
+  </ul>
+</div>
+
+      <div style="font-size:12px;margin-top:15px;">
+      <!-- Яндекс.Директ -->
+      <script type="text/javascript">
+      //<![CDATA[
+      yandex_partner_id = 57615;
+      yandex_site_bg_color = 'FFFFFF';
+      yandex_site_charset = 'utf-8';
+      yandex_ad_format = 'direct';
+      yandex_font_size = 0;
+      yandex_direct_type = 'vertical';
+      yandex_direct_border_type = 'block';
+      yandex_direct_limit = 6;
+      yandex_direct_header_bg_color = 'FFE6CC';
+      yandex_direct_bg_color = 'FFF9F0';
+      yandex_direct_border_color = 'FBE5C0';
+      yandex_direct_title_color = '0000CC';
+      yandex_direct_url_color = '006600';
+      yandex_direct_all_color = '0000CC';
+      yandex_direct_text_color = '000000';
+      yandex_direct_hover_color = '0066FF';
+      yandex_direct_favicon = true;
+      //]]>
+      </script>
+      <script type="text/javascript" src="http://an.yandex.ru/system/context.js"></script>
+      </div>
+    </td>
+  </tr>
+</table>
+
+        </td>
+        <td style="width:240px;padding-left:20px;">
+          <div class="search_container">
+
+            <form action="http://novokuznetsk.4geo.ru/news/search/">
+            <table style="width:100%;">
+              <tr>
+                <td style="vertical-align:center;"><input name="q" value="" placeholder="Поиск новостей" type="text" style="width:105%;position:relative;padding:1px;border:1px solid #4d80d2;height:19px;font-size:12px;" /></td>
+                <td style="vertical-align:center;width:28px;">
+                  <input type="submit" style="cursor:pointer;border:0;display:block;width:28px;height:28px;background:url(http://novokuznetsk.4geo.ru/news/i/search_button.png) left -4px no-repeat;position:relative;" value=""></input>
+                </td>
+              </tr>
+            </table>
+            </form>
+
+          </div>
+          <div id="adv_container">
+
+            
+              <div style='margin:15px 0px 15px 0px;'>
+              	<div id="afisha-widget-container" class="afisha-widget-container" style="position:relative;background:#cacaca;width:240px;">
+  <div style="padding:8px; font-weight:bold; font-size:18px; text-shadow: 0px -1px 1px #777; font-family: Trebuchet MS, Arial, tahoma, verdana; background:#8a93a9; color:#fff;
+    background-image: -webkit-gradient(linear,left top,left bottom, from(#b9beca),to(#64708e));
+    background-image: -webkit-linear-gradient(top,#b9beca,#64708e);
+    background-image: -moz-linear-gradient(top,#b9beca,#64708e);
+    background-image: -ms-linear-gradient(top,#b9beca,#64708e);
+    background-image: -o-linear-gradient(top,#b9beca,#64708e);
+    background-image: linear-gradient(top,#b9beca,#64708e);
+       ">Сегодня в кино</div>
+  <div id="afisha-widget-content" style="margin:7px;background:#fff;border:1px solid #d0d0d0;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -o-border-radius: 8px;
+   border-radius: 8px;
+    ">
+    <div id="afisha-widget-scroll-content">
+    <table style="font-size:12px Arial;" cellpadding="0" cellspacing="0">
+
+	
+	
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/547003337'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/547003307_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/547003337' style='color:#037DD3;font:12px Arial;'>Семейка Крудс </a>
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              14:10, 14:20, 14:40
+               <a target='_blank' href='http://novokuznetsk.4geo.ru/afisha/movie/info/547003337' style='color:#555;'>еще</a>
+            </div>
+         </td>
+        </tr>
+
+
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/575420672'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/575420624_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/575420672' style='color:#037DD3;font:12px Arial;'>Джек – покоритель великанов </a>
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              14:00, 15:00, 15:50
+               <a target='_blank' href='http://novokuznetsk.4geo.ru/afisha/movie/info/575420672' style='color:#555;'>еще</a>
+            </div>
+         </td>
+        </tr>
+
+
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/575424033'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/575423972_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/575424033' style='color:#037DD3;font:12px Arial;'>G.I. Joe: Бросок кобры 2 </a>
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              16:00, 17:25, 19:50
+               <a target='_blank' href='http://novokuznetsk.4geo.ru/afisha/movie/info/575424033' style='color:#555;'>еще</a>
+            </div>
+         </td>
+        </tr>
+
+
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/596320408'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/596320331_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/596320408' style='color:#037DD3;font:12px Arial;'>Гостья</a>
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              15:00, 19:35, 22:00
+              
+            </div>
+         </td>
+        </tr>
+
+
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/596326551'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/596331926_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/596326551' style='color:#037DD3;font:12px Arial;'>Парк Юрского периода</a>
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              16:40, 17:10, 17:45
+               <a target='_blank' href='http://novokuznetsk.4geo.ru/afisha/movie/info/596326551' style='color:#555;'>еще</a>
+            </div>
+         </td>
+        </tr>
+
+
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/605420947'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/605424562_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/605420947' style='color:#037DD3;font:12px Arial;'>Миллион для чайников</a>
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              14:50, 15:50, 16:10
+               <a target='_blank' href='http://novokuznetsk.4geo.ru/afisha/movie/info/605420947' style='color:#555;'>еще</a>
+            </div>
+         </td>
+        </tr>
+
+
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/605424459'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/605424425_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/605424459' style='color:#037DD3;font:12px Arial;'>Падение Олимпа</a>
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              14:10, 15:20, 18:00
+               <a target='_blank' href='http://novokuznetsk.4geo.ru/afisha/movie/info/605424459' style='color:#555;'>еще</a>
+            </div>
+         </td>
+        </tr>
+
+
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/609231870'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/609231863_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/609231870' style='color:#037DD3;font:12px Arial;'>Одним меньше</a>
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              15:45, 19:35, 21:40
+               <a target='_blank' href='http://novokuznetsk.4geo.ru/afisha/movie/info/609231870' style='color:#555;'>еще</a>
+            </div>
+         </td>
+        </tr>
+
+
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/614279796'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/614279764_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/614279796' style='color:#037DD3;font:12px Arial;'>Зловещие мертвецы: Черная книга</a>
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              16:00, 17:20, 20:05
+               <a target='_blank' href='http://novokuznetsk.4geo.ru/afisha/movie/info/614279796' style='color:#555;'>еще</a>
+            </div>
+         </td>
+        </tr>
+
+
+    
+        
+        <tr>
+          <td style='padding:8px;vertical-align:top;border-bottom:1px solid #d0d0d0;'><a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/614330741'><img style='border:1px solid #f0f0f0;width:60px;' src='http://4geo.ru/afisha/images-store/event/614330703_small.JPEG' /></a></td>
+          <td style="padding:8px 8px 8px 0px;line-height:100%;border-bottom:1px solid #d0d0d0;">
+            <a target="_blank" href='http://novokuznetsk.4geo.ru/afisha/movie/info/614330741' style='color:#037DD3;font:12px Arial;'>Транс</a>
+
+
+
+
+
+    
+
+
+
+            <div style='font:10px Arial;color:#444;margin-top:3px;'>
+              
+              14:20, 17:40, 17:55
+               <a target='_blank' href='http://novokuznetsk.4geo.ru/afisha/movie/info/614330741' style='color:#555;'>еще</a>
+            </div>
+         </td>
+        </tr>
+
+
+    </table>
+    </div>
+  </div>
+  <div style="padding:10px;  background:#8a93a9;color:#fff;font:11px Arial;line-height:150%;">
+    Вся афиша Новокузнецка на сайте<br/>
+    <a href="http://novokuznetsk.4geo.ru/afisha/" style="color:#ddd;">novokuznetsk.4geo.ru/afisha/</a>
+  </div>
+</div>
+
+              </div> 
+
+          </div>
+
+        </td>
+      </tr>
+    </table>
+    
+  </div>
+
+  <div style="position:relative;z-index: -1;">
+    <div id="footer" style="background-color:#fff;max-width: 1180px;">
+         <div class="hr"></div>
+         <table class="contactInfo">
+         <tr>
+                 <td style="width:170px;">
+                         <a href="http://4geo.ru/my/register">Регистрация</a><br/>
+                   <img src="http://4geo.ru/images/other/icon-18plus.png">
+                 </td>
+                 <td>
+                         г. Новокузнецк<br/>
+                         Отдел рекламы: т. +7 (3843) 60-10-48<br/>
+                   Тех поддержка: т. +7 (3843) 60-10-50<br/><a href="mailto:support@4geo.ru">support@4geo.ru</a><br/>
+                         Адрес: г. Новокузнецк, ул. Орджоникидзе, д. 35<br/>
+                   <a href="http://novokuznetsk.4geo.ru/desktop/freereg"><img src="http://4geo.ru/images/other/add_organization_button_1.png" style="margin-top:5px;" /></a>
+                 </td>
+                <td>
+<a href="http://novokuznetsk.4geo.ru/radio/" style="background:url(http://novokuznetsk.4geo.ru/radio/images/favicon.ico) left top no-repeat;padding-left:20px;margin-left:-20px;color:#cc0000">Радио Новокузнецка онлайн</a><br/>
+<a href="http://4geo.ru/content/geoAPI$00202$0020direction" style="background:url(http://4geo.ru/images/other/8bd49e6084bd.png) left top no-repeat;padding-left:20px;margin-left:-20px;color:#cc0000">Карта 4geo на вашем сайте</a><br/>
+<a href="/redirect/?service=catalog&amp;url=http://4geo.livejournal.com/" style="background:url(http://cdn2.iconfinder.com/data/icons/aquaticus/16%20X%2016/livejournal.png) left top no-repeat;padding-left:20px;margin-left:-20px;color:#009aff" target="_blank">4geo в livejournal</a><br/>
+<a href="/redirect/?service=catalog&amp;url=http://vk.com/club10641164" style="background:url(http://4geo.ru/images/other/ed6928a4f1dc.png) left top no-repeat;padding-left:20px;margin-left:-20px;color:#009aff" target="_blank">4geo в вконтакте</a><br/>
+<a href="/redirect/?service=catalog&amp;url=http://www.odnoklassniki.ru/group/52448906838137" style="background:url(http://4geo.ru/images/other/17cd2353f45a.png) left top no-repeat;padding-left:20px;margin-left:-20px;color:#009aff" target="_blank">4geo в Одноклассниках</a><br/>            
+<a href="/redirect/?service=catalog&amp;url=http://twitter.com/4geo" style="background:url(http://cdn4.iconfinder.com/data/icons/socialmediamini/PNG/twitter.png) left top no-repeat;padding-left:20px;margin-left:-20px;color:#009aff" target="_blank">4geo в твиттере</a><br/>
+                  <a href="/redirect/?service=catalog&amp;url=http://www.facebook.com/pages/4geo/196567583707097" style="background:url(http://cdn3.iconfinder.com/data/icons/socialnetworking/16/facebook.png) left top no-repeat;padding-left:20px;margin-left:-20px;color:#009aff" target="_blank">4geo в facebook</a><br/><a href="http://ls.4geo.ru/pulse/" style="background:url(http://4geo.ru/images/other/statistics.png) left top no-repeat;padding-left:20px;margin-left:-20px;color:#009aff" target="_blank">Пульс 4geo</a><br/><a href="http://novokuznetsk.4geo.ru/rating/hottag/" target="_blank" style="color:#009aff">Популярные рубрики</a>
+</td>
+                 <td style="text-align:right;padding-right:10px;">
+                         <img src="http://img.4geo.ru/logo_gray.png" />
+                 </td>
+                 <td class="owner">
+                         © 2008–2013<br/>
+                         «4geo - информационный портал»<br/>
+                         Тех. поддержка: <a href="mailto:support@4geo.ru">support@4geo.ru</a><br/>
+                         <a href="http://4geo.ru/desktop/reklama">Реклама в справочнике</a><br/><a href="http://4geo.ru/content/franchise">Открыть 4geo в вашем городе</a><br/>
+<!--Rating@Mail.ru counter-->
+<script language="javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+<script language="javascript1.1"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+<script language="javascript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+<script language="javascript1.3"><!--
+js=13;//--></script><script language="javascript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=2118866" target="_top">'+
+'<img src="http://d4.c5.b0.a2.top.mail.ru/counter?id=2118866;t=49;js='+js+
+a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+
+'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--></script>
+<noscript><a target="_top" href="http://top.mail.ru/jump?from=2118866">
+<img src="http://d4.c5.b0.a2.top.mail.ru/counter?js=na;id=2118866;t=49" 
+height="31" width="88" border="0" alt="Рейтинг@Mail.ru"></a></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+<!--// Rating@Mail.ru counter-->
+                   
+                   <br/>
+                   <div class="like-button" id="plusone-div"></div>
+                   <script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+                   <script language="javascript">
+                   gapi.plusone.render("plusone-div",{href:'http://novokuznetsk.4geo.ru/',size:'large', annotation:'bubble'});
+                   </script>
+                   
+                 </td>
+         </tr>
+         </table>
+ </div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11522555-1']);
+  _gaq.push(['_setDomainName', '.4geo.ru']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter6734026 = new Ya.Metrika({id:6734026,enableAll:true,webvisor:true});
+        }
+        catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/6734026" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--check code-->
+
+
+  </div>
+
+<script>
+  $(function() {
+
+    if ($("#adv_fixed")) {
+      var adv_h = $("#adv_container").height()+$("#adv_container").position().top;
+      $(window).scroll(function () {
+        if ($(window).scrollTop()>adv_h) {
+          if (!$("#adv_fixed").hasClass("fixed-block")) $("#adv_fixed").addClass("fixed-block");
+        } else {
+          if ( $("#adv_fixed").hasClass("fixed-block")) $("#adv_fixed").removeClass("fixed-block");
+        }
+      });
+    }
+  });
+</script>
+
+</body>
+</html>

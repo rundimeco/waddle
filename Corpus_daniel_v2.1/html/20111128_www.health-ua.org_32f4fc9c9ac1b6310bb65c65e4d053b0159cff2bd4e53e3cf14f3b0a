@@ -1,0 +1,716 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>В Париже выявлена редкая разновидность вируса СПИДа | Медицинский портал «Здоровье Украины»</title>
+<meta name="description" content="Французские медики сообщают, что у жителя столицы страны выявлен штамм ВИЧ, который ранее был обнаружен не более чем у 12 человек. Этот факт подтверждает мрачную пословицу о том, что «СПИД не спит», а, по всей видимости, готовится к новому нападению." /> 
+<meta name="keywords" content="" />
+<meta http-equiv="Cache-Control" content="no-store" />
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<!--[if IE 6]>
+<link href="/css/ie6.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/png_fix.js"></script>
+		<script>
+			DD_belatedPNG.fix('.png_bg, img');
+		</script>
+<![endif]--> 
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/css/ie.css" /><![endif]-->
+<!--[if IE 7]><link href="/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+<script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
+<script type="text/javascript" src="/js/slideViewer.js"></script>
+<script type="text/javascript" src="/js/timers.js"></script>
+<script type="text/javascript" src="/js/block-resize.js"></script>
+<script type="text/javascript" src="/js/jcarousel.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
+<!-- (C)2000-2011 Gemius SA - gemiusAudienc -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('zCfqjzwyW_._vijiqOhKEsRpTDjyd6xEtLbL0oLj2OX.C7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="/js/gemiusScript.js"></script>
+
+<script type="text/javascript">
+function togg_search()
+{$("#list").toggle(300);} 
+function togg_serv()
+{$("#server-list").toggle(300);}
+
+$(window).bind("load", function() { 
+$("div#slider-video").slideViewerPro({ 
+        thumbs: 2,  
+        thumbsPercentReduction: 100, 
+		thumbsHeight: 77,
+		thumbsWidth: 125,
+		picHeight: 175,
+		picWidth: 300,
+        galBorderWidth: 0, 
+        galBorderColor: "aqua", 
+        thumbsTopMargin: 5, 
+        thumbsRightMargin: 3, 
+        thumbsBorderWidth: 0, 
+        thumbsActiveBorderColor: "gold", 
+        thumbsActiveBorderOpacity: 0.8, 
+        thumbsBorderOpacity: 0, 
+        buttonsTextColor: "#707070", 
+        leftButtonInner: "<img src='/img/design/slider_button_left.jpg' alt='' />", 
+        rightButtonInner: "<img src='/img/design/slider_button_right.jpg' alt='' />", 
+        autoslide: true,  
+        typo: true
+        });     
+	}); 
+	
+$(function() {
+    $(".photo-slide").jCarouselLite({
+        btnNext: ".left-btn",
+        btnPrev: ".right-btn",
+		visible: 2,
+		auto: 4000
+    });
+});
+
+$(function(){
+  $("#tabs").tabs();
+});
+</script>
+
+<link rel="stylesheet" type="text/css" href="/css/paginator3000.css" />
+<script type="text/javascript" src="/js/paginator3000.js"></script>
+
+
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1451854-2']);
+  _gaq.push(['_setDomainName', '.health-ua.org']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+
+<body>
+
+<!--bigmir)net TOP 100 Part 1-->
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16808571,s:16808571,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+//-->
+</script>
+<noscript><img src="http://c.bigmir.net/?v16808571&s16808571&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+<!--bigmir)net TOP 100 Part 1-->
+
+
+
+
+<div class="header-banner" style="background-color: #E6E6E6; padding-top: 5px;">
+<div id="admixer_async_171717158"></div>
+<script type="text/javascript">
+   (function (zid, phid, bid, bhash) {
+       var w = window, d = document;
+       iu = 'http://ad.admixer.net/adsource_async.js?zone=' + zid + '&phid=' + phid;
+       bid && (iu += '&item=' + bid + '&ihash=' + bhash);
+       d.referrer && (iu += "&ref=" + encodeURIComponent(d.referrer));
+       iu += '&pg=' + encodeURIComponent(w.location.href);
+       w.pvId || (w.pvId = new Date().getTime());
+       iu += '&pvId=' + w.pvId;
+       var h = d.getElementsByTagName("head")[0], s = document.createElement("script");
+       s.setAttribute("type", "text/javascript");
+       s.setAttribute("src", iu);
+       h.insertBefore(s, h.firstChild);
+   })('c86db274-258c-4853-9a8a-51b1efa212ee', 'admixer_async_171717158');
+</script>
+<!--
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://a8.health-ua.org/www/delivery/ajs.php':'http://a8.health-ua.org/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2&amp;charset=UTF-8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>-->
+<!--
+</script><noscript><a href='http://a8.health-ua.org/www/delivery/ck.php?n=a2df05f5&amp;cb=234' target='_blank'><img src='http://a8.health-ua.org/www/delivery/avw.php?zoneid=2&amp;charset=UTF-8&amp;cb=234&amp;n=a2df05f5' border='0' alt='' /></a></noscript>
+-->
+</div>
+
+
+<div id="container">
+	<ul id="tools-menu">
+		<li><a href="/" title="Медицинский портал «Здоровье Украины»">На главную</a></li>
+		<li class="last"><a href="/map.html" title="Карта портала">Карта портала</a></li>
+		<!--<li class="last"><a href="/contact.html" title="Написать нам">Написать нам</a></li>-->
+	</ul>
+	<ul id="top-menu">
+		<li class="left"></li>
+		<li><a href="/testy/" title="Тесты онлайн">Тесты онлайн</a></li>		
+		<!--<li><a href="#" title="">Работа</a></li>-->
+		<li class="last"><a href="/translate.html" title="Перевод текста онлайн">Перевод текста онлайн</a></li>
+		<li class="right"></li>
+	</ul>
+	<div>
+		<div id="wrap"> <a id="logo" href="/" title="Медицинский портал «Здоровье Украины»"><img src="/img/design/logo.jpg" alt="Медицинский портал «Здоровье Украины»" /></a> <a class="pediatriya-btn" href="http://deti.health-ua.org" title="Педиатрия">Педиатрия</a>
+			<div id="search-container">
+				<form id="cse-search-box" action="/search.html">
+					<input type="hidden" name="cx" value="001182428068395977759:v9nogexm5qw" />
+					<input type="hidden" name="cof" value="FORID:11" />
+					<input type="hidden" name="ie" value="UTF-8" />
+					<div class="rounded">
+						<div class="right">
+							<input class="button" type="submit" name="sa" value="Найти" />
+							<div class="switcher">
+								<div class="selector" onclick="togg_search()"></div>
+								<ul onclick="togg_search()" href="javascript:void(0);" id="list">
+									<li><a id="item1" href="javascript:void(0)" class="001182428068395977759:v9nogexm5qw" >Весь портал</a></li>
+									<li><a id="item2" href="javascript:void(0)" class="001182428068395977759:kjhcohrc5r0" >Новости</a></li>
+									<li><a id="item3" href="javascript:void(0)" class="001182428068395977759:cthxskqjdf0" >Консультация</a></li>
+									<li><a id="item4" href="javascript:void(0)" class="001182428068395977759:bwakphy6soq" >Видео</a></li>
+									<li><a id="item5" href="javascript:void(0)" class="001182428068395977759:8ljldiehpdm" >Статьи</a></li>
+									<li><a id="item6" href="javascript:void(0)" class="001182428068395977759:fmxfu0r3mqy" >Фото</a></li>
+									<li><a id="item7" href="javascript:void(0)" class="001182428068395977759:rkanm3ym14k" >Лекарства</a></li>
+								</ul>
+								<div onclick="togg_search()" class="search-place" id="place">Весь портал</div>
+							</div>
+						</div>
+						<div class="left">
+							<input name="q" id="search-field" type="text" value="Введите запрос" autocomplete="off" onFocus="if (this.value=='Введите запрос') this.value='';" onBlur="if (this.value=='') this.value='Введите запрос';" />
+						</div>
+					</div>
+				</form>
+				<script type="text/javascript" src="/js/gcse.js"></script>
+			</div>
+			<div id="main-menu">
+				<div class="main-menu-left"></div>
+				<ul>
+					<li><a href="/news/" title="Новости медицины">Новости</a></li>
+					<li><a href="/video/" title="Видео энциклопедия">Видео</a></li>
+					<li><a href="/faq/" title="Доступно о проблеме">Доступно о проблеме</a></li>
+					<li><a href="/hot/" title="Горячая тема">Горячая тема</a></li>
+					<li><a href="/photo/" title="Фото галерея">Фото</a></li>
+					<li><a href="/lekarstva/" title="Лекарственные средства">Лекарственные средства</a></li>
+					<li class="last"><a href="/law/" title="Правовая консультация">Правовая консультация</a></li>
+				</ul>
+				<div class="main-menu-right"></div>
+			</div>
+			
+			<ul id="breadcramps">
+				<li><a href="/" title="Медицинский портал «Здоровье Украины»">Главная</a></li>
+				<li><span>&raquo;</span></li>
+				<li><a href="/news/" title="Новости медицины">Новости медицины</a></li><li><span> &raquo; </span></li><li class="active">В Париже выявлена редкая разновидность вируса СПИДа</li>
+				<li class="left"></li>
+			</ul>
+			
+			<div id="sidebar">
+				<div class="right-banner">
+					<div class="img-overflow" style="clear:both;">
+						<!--<div class="top_left"></div>
+						<div class="top_right"></div>-->
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://a8.health-ua.org/www/delivery/ajs.php':'http://a8.health-ua.org/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1&amp;charset=UTF-8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://a8.health-ua.org/www/delivery/ck.php?n=a32dbc2d&amp;cb=324' target='_blank'><img src='http://a8.health-ua.org/www/delivery/avw.php?zoneid=1&amp;charset=UTF-8&amp;cb=324&amp;n=a32dbc2d' border='0' alt='' /></a></noscript>
+
+						<!--<div class="bottom_right"></div>
+						<div class="bottom_left"></div>-->
+					</div>
+					<p><a href="/adv.html" title="Реклама на портале">Реклама на портале</a></p>
+					
+				</div>
+				<div class="block-end"></div>
+				<!--Oracal--------->
+						
+					<!--Oracal--------->	
+				<!-- Sinoptik Start -->
+				<div id="SinoptikInformer" class="SinoptikInformer type5" style="display:none;width:300px;"><div class="siHeader"><div class="siLh"><div class="siMh"><a onmousedown="siClickCount();" href="http://sinoptik.ua/" target="_blank">Погода</a><a onmousedown="siClickCount();" class="siLogo" href="http://sinoptik.ua/" target="_blank"><img alt="Прогноз погоды" src="http://informers.sinoptik.ua/img/t.gif" /></a> <span id="siHeader"></span></div></div></div><div class="siBody"><div class="siCity"><div class="siCityName"><a onmousedown="siClickCount();" href="http://sinoptik.ua/погода-киев" target="_blank">Погода в <span>Киеве</span></a></div><div id="siCont0" class="siBodyContent"><div class="siLeft"><div class="siTerm"></div><div class="siT" id="siT0"></div><div id="weatherIco0"></div></div><div class="siInf"><p>влажность: <span id="vl0"></span></p><p>давление: <span id="dav0"></span></p><p>ветер: <span id="wind0"></span></p></div></div></div><div class="siLinks"><span><a onmousedown="siClickCount();" href="http://sinoptik.ua/погода-киев" target="_blank">на сегодня</a> <a onmousedown="siClickCount();" href="http://sinoptik.ua/погода-киев/завтра" target="_blank">завтра</a> <a onmousedown="siClickCount();" onmousedown="siClickCount();" href="http://sinoptik.ua/погода-киев/10-дней" target="_blank">10 дней</a></span> <span><a onmousedown="siClickCount();" href="http://sinoptik.ua/украина" target="_blank">в других городах</a></span></div></div><div class="siFooter"><div class="siLf"><div class="siMf"></div></div></div></div><script type="text/javascript">var siCss=document.createElement("link");siCss.setAttribute("rel","stylesheet");siCss.setAttribute("type","text/css");siCss.setAttribute("href","http://informers.sinoptik.ua/css/informers.css");document.getElementsByTagName("head")[0].appendChild(siCss);function siClickCount(){var siCount=document.createElement("script");siCount.setAttribute("type","text/javascript");siCount.setAttribute("src","http://informers.sinoptik.ua/counter.php?lang=ru&rnd="+new Date().valueOf());document.getElementsByTagName("head")[0].appendChild(siCount);}function LoadInformer(data){document.getElementById("siHeader").innerHTML=data.date;for(var i=0;i<data.body.length;i++){if(data.body[i]!=null){document.getElementById("siT"+i).innerHTML=data.body[i].temp;document.getElementById("weatherIco"+i).className="weatherIco "+data.body[i].img;document.getElementById("vl"+i).innerHTML=data.body[i].rh;document.getElementById("dav"+i).innerHTML=data.body[i].p;document.getElementById("wind"+i).innerHTML=data.body[i].ws;}}document.getElementById("SinoptikInformer").style.display="block";}</script><script type="text/javascript" charset="UTF-8" src="http://informers.sinoptik.ua/js2.php?type=5&amp;cities=303010783&amp;lang=ru"></script>
+				<!-- Sinoptik End -->
+<p>&nbsp;</p>				
+				<!-- Job.Ukr.Net -->
+<style>
+.job-block {background:#eeeeee url(http://informers.ukr.net/job/sim/jobnewimg/bottom-bg.gif) repeat-x bottom;border:1px solid #c9c9c9;border-bottom:1px solid #c9c9c9;margin:auto;margin-bottom:20px;width:300px;border-radius:5px; box-shadow:0 0 3px #999;}
+.job-block .job-ttl {background:url(http://informers.ukr.net/job/sim/jobnewimg/ttl-bg.gif) repeat-x top;position:relative;height:30px;padding-left:10px;border-bottom:1px solid #c9c9c9;text-align:left;border-radius:5px 5px 0 0;}
+.job-block .job-ttl a {font-family:Tahoma;font-size:12px;text-transform:uppercase;font-weight:bold;color:#000;text-decoration:none; position:relative;top:6px;}
+.job-logo-link {position:absolute;top:4px;right:5px;width:103px;height:22px;}
+.job-logo-link a {display:block;width:103px;height:22px;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://informers.ukr.net/job/sim/jobnewimg/job-logo-medium.png',sizingMethod='scale');cursor:pointer;position:static!important;}
+.job-logo-link img {_display:none;border:none;}
+.job-block .informer-block {padding:5px 3px 0px 3px;}
+#jobukrnet {}
+#jobukrnet ul {overflow:hidden;zoom:1;list-style:none;margin:0;padding:0;background:#FFF;}
+#jobukrnet li {border-bottom:1px solid #e3e3e3;list-style:none;padding:4px 0;margin-left:5px;margin-right:5px;margin-bottom:-1px; overflow:hidden;zoom:1;line-height:normal;}
+#jobukrnet a {font-family:Arial;font-size:12px;font-weight:bold;color:#000000;display:block;float:left;margin-left:4px;text-decoration:none;}
+#jobukrnet span {font-family:Arial;font-size:12px;font-weight:bold;color:#C00000;display:block;float:right;margin-right:5px;}
+#jobukrnet .bottom-link-1 {padding:0!important;margin-top:5px!important;margin-left:0px;display:none;}
+#jobukrnet .bottom-link-2 {padding:0!important;margin-top:3px;margin-left:0px;display:none;}
+#jobukrnet .bottom-link-1 a, #jobukrnet .bottom-link-2 a {font-family:Arial;font-size:12px;font-weight:bold;color:#000;float:none!important;display:block;background:url(http://informers.ukr.net/job/sim/jobnewimg/bottom-links/job-botton-bg-timeua-info.png) no-repeat 0 0;margin:0;padding:4px 21px 5px 11px;}
+#jobsearchform {background:#f8f8f8 url(http://informers.ukr.net/job/sim/jobnewimg/search-block-bg.gif) repeat-x top;margin-bottom:5px!important;padding:9px 12px;border-bottom:1px solid #cacaca;margin-left:-3px;margin-right:-3px;}
+#jobsearchform input {background:#FFF;height:16px!important;border:1px solid #8c8c8c;width:88%!important;}
+#jobsearchform .searcbut {width:21px!important;height:20px!important;font-size:0;background:url(http://informers.ukr.net/job/sim/jobnewimg/search-but.gif) no-repeat 0 0;border:1px solid #99968f;cursor:pointer;}
+#jobsearchform select {}
+
+.bottom-link-3 {padding:0!important;margin-top:3px;margin-left:0px;}
+.bottom-link-3 a {font-family:Arial;font-size:12px;font-weight:bold;color:#000;float:none!important;display:block;background:url(http://informers.ukr.net/job/sim/jobnewimg/bottom-links/health1.png) no-repeat 0 0;margin:0;padding:4px 21px 6px 11px;text-decoration:none;}
+</style>
+<div class="job-block">
+    <div class="job-ttl"><a href="http://job.ukr.net/" target="_blank">Работа в Украине</a><div class="job-logo-link"><a href="http://job.ukr.net/" target="_blank"><img src="http://informers.ukr.net/job/sim/jobnewimg/job-logo-medium.png" width="103" height="22" /></a></div></div>
+    <div class="informer-block">
+        <div id="jobukrnet">Загрузка...</div>
+        <script language="javascript" src="http://informers.ukr.net/job/js_search.php?c=10&m=2&h&limit=24" charset="windows-1251"></script>
+        <div style="padding-left:15px;margin-bottom:2px;text-align:left;" class="bottom-link-3"><a target="_blank" href="http://job.ukr.net/city/kharkov/">Работа в Харькове</a></div>
+        <div style="padding-left:15px;margin-bottom:2px;text-align:left;" class="bottom-link-3"><a target="_blank" href="http://job.ukr.net/city/doneck/">Вакансии в Донецке</a></div>
+    </div>
+</div>
+<!-- Job.Ukr.Net -->
+<!--Oracal--------->
+
+	<!-- Orakul 4.0 azure 4x3 -->
+<style>
+.orakul-azure-block {border:1px solid #99cce6;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;}
+.orakul-azure-block .orakul-ttl {background:#e8f5fc;-moz-border-radius:10px 10px 0 0;-webkit-border-radius:10px 10px 0 0;border-radius:10px 10px 0 0;height:21px;overflow:hidden;zoom:1;border-bottom:1px solid #99cce6;}
+.orakul-azure-block .orakul-ttl a.orakul-title {font-size:12px;font-family:Arial;color:#154081;text-decoration:none;font-weight:bold;display:block;float:left;margin:3px 5px 0 7px;}
+.orakul-azure-block .orakul-ttl a.orakul-logo {float:right;margin:3px 8px 0 0;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://informers.orakul.com/inf_img/orakul-logo.png',sizingMethod='scale');width:65px;height:16px;}
+.orakul-azure-block .orakul-ttl a.orakul-logo img {border:none;_display:none;}
+.orakul-azure-block .orakul-content {background:#FFF;padding:5px;}
+.orakul-azure-block .orakul-content td {text-align:center;}
+.orakul-azure-block .orakul-content a {color:#154081;font-size:12px;font-family:Arial;text-decoration:none;}
+.orakul-azure-block .orakul-content img {border:0;}
+
+.orakul-azure-block .orakul-footer {background:#e8f5fc;-moz-border-radius:0 0 10px 10px;-webkit-border-radius:0 0 10px 10px;border-radius:0 0 10px 10px;height:21px;overflow:hidden;zoom:1;border-top:1px solid #99cce6;text-align:center;}
+.orakul-azure-block .orakul-footer a {color:#154081;font-size:11px;font-family:Arial;position:relative;top:0;}
+</style>
+<script type="text/javascript">
+  function siClickCountOrakul(){
+    var orCount=document.createElement("script");
+    orCount.setAttribute("type","text/javascript");
+    orCount.setAttribute("src","http://informers.orakul.com/counter.php?lang=ru&rnd="+new Date().valueOf());
+    document.getElementsByTagName("head")[0].appendChild(orCount);
+  }
+</script>
+<div class="orakul-azure-block">
+	<div class="orakul-ttl">
+    	<a onmousedown="siClickCountOrakul();" href="http://orakul.com/" class="orakul-title" target="_blank">Астрология</a>
+        <a onmousedown="siClickCountOrakul();" href="http://orakul.com/" class="orakul-logo" target="_blank"><img src="http://informers.orakul.com/inf_img/orakul-logo.png" width="65" height="16"></a>
+	</div>
+
+    <div class="orakul-content">
+    	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+        	<tr>
+            	<td align="center">
+                	<a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/aries.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-aries.gif" width="52" height="52"></a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/aries.html" target="_blank">Овен</a>
+                    <br />
+
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/taurus.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-taurus.gif" width="52" height="52"></a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/taurus.html" target="_blank">Телец</a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/gemini.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-gemini.gif" width="52" height="52"></a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/gemini.html" target="_blank">Близнецы</a>
+                </td>
+
+                <td>
+                	<a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/cancer.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-cancer.gif" width="52" height="52"></a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/cancer.html" target="_blank">Рак</a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/lion.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-leo.gif" width="52" height="52"></a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/lion.html" target="_blank">Лев</a>
+
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/virgo.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-virgo.gif" width="52" height="52"></a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/virgo.html" target="_blank">Дева</a>
+                </td>
+                <td>
+                	<a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/libra.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-libra.gif" width="52" height="52"></a>
+                    <br />
+
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/libra.html" target="_blank">Весы</a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/scorpio.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-scorpio.gif" width="52" height="52"></a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/scorpio.html" target="_blank">Скорпион</a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/sagittarius.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-sagittarius.gif" width="52" height="52"></a>
+                    <br />
+
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/sagittarius.html" target="_blank">Стрелец</a>
+                </td>
+                <td>
+                	<a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/capricorn.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-capricorn.gif" width="52" height="52"></a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/capricorn.html" target="_blank">Козерог</a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/aquarius.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-aquarius.gif" width="52" height="52"></a>
+
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/aquarius.html" target="_blank">Водолей</a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/pisces.html" target="_blank"><img src="http://informers.orakul.com/inf_img/ico-pisces.gif" width="52" height="52"></a>
+                    <br />
+                    <a onmousedown="siClickCountOrakul();" href="http://orakul.com/horoscope/astro/general/today/pisces.html" target="_blank">Рыбы</a>
+                </td>
+            </tr>
+
+        </table>
+    </div>
+    <div class="orakul-footer">
+    	<a onmousedown="siClickCountOrakul();" href="http://sonnik.orakul.com/" target="_blank">Сонник онлайн</a>&nbsp;&nbsp;&nbsp;<a onmousedown="siClickCountOrakul();" href="http://taro.orakul.com/" target="_blank">Гадание</a>&nbsp;&nbsp;&nbsp;<a onmousedown="siClickCountOrakul();" href="http://imena.orakul.com/whatname/" target="_blank">Как назвать ребенка?</a>
+    </div>
+</div>
+<!-- Orakul 4.0 azure 4x3 -->
+<p>&nbsp;</p>
+
+	
+<!--Oracal--------->
+				<div class="block-end"></div>
+					
+				
+					        <div class="news4site">
+          <h2><a href="/export.html" title="">Новости медицины и здоровья</a></h2>
+          для вашего сайта</div>
+        <h1 class="block-title">Новости по теме</h1>
+        <div class="day-news">
+          <div class="overflow_r">
+            <h3><a href="/news/10847.html" title="Пить или втирать – кофе как средство защиты от рака кожи">Пить или втирать – кофе как средство защиты от рака кожи</a></h3>
+          </div>
+          <div class="overflow_r">
+            <h3><a href="/news/8430.html" title="Жертвы лечения будут получать компенсации на протяжении еще 20 лет">Жертвы лечения будут получать компенсации на протяжении еще 20 лет</a></h3>
+          </div>
+          <div class="overflow_r">
+            <h3><a href="/news/7787.html" title="Красное вино содержит компонент, который способен защитить мозг при ишемическом инсульте">Красное вино содержит компонент, который способен защитить мозг при ишемическом инсульте</a></h3>
+          </div>
+          <div class="overflow_r">
+            <h3><a href="/news/10409.html" title="Дудки футбольных болельщиков распространяют опасные инфекции">Дудки футбольных болельщиков распространяют опасные инфекции</a></h3>
+          </div>
+          <div class="overflow_r">
+            <h3><a href="/news/7762.html" title="«Мы вас похороним…» – в Великобритании создают национальную программу поощрения доноров органов">«Мы вас похороним…» – в Великобритании создают национальную программу поощрения доноров органов</a></h3>
+          </div>
+        </div>	
+
+<div class="last-news">
+  <h1 class="block-title">Последние новости</h1>
+<div class="date">10:30 25 ноября 2011 г.</div>
+	<h2><a href="/news/11566.html" title="Бизнес по-мексикански: продам кровь">Бизнес по-мексикански: продам кровь</a></h2>
+<div class="date">10:00 25 ноября 2011 г.</div>
+	<h2><a href="/news/11565.html" title="Мужчинам: хорошо прожаренное мясо «приведет» к раку">Мужчинам: хорошо прожаренное мясо «приведет» к раку</a></h2>
+<div class="date">9:30 25 ноября 2011 г.</div>
+	<h2><a href="/news/11564.html" title="Лечение астмы во сне – необременительно и эффективно">Лечение астмы во сне – необременительно и эффективно</a></h2>
+<div class="date">9:00 25 ноября 2011 г.</div>
+	<h2><a href="/news/11563.html" title="ВИЧ-инфицированным можно работать врачами">ВИЧ-инфицированным можно работать врачами</a></h2>
+<div class="date">16:00 24 ноября 2011 г.</div>
+	<h2><a href="/news/11562.html" title="Полностью оторванную поездом руку ребенка «вернули на место»">Полностью оторванную поездом руку ребенка «вернули на место»</a></h2>
+
+</div>
+
+					
+				
+			<!--google adsense----------->
+			<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-1707723890300466";
+			/* 300&#42;250 */
+			google_ad_slot = "2765134958";
+			google_ad_width = 300;
+			google_ad_height = 250;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+			<!--fnish google adsense----------->
+			</div>
+			<div id="content">
+				<div class="container">
+<div id="consults">
+						<h1 class="block-title"><a href="/mc/" title="Медицинская консультация онлайн">Консультации</a></h1>
+						<div class="total">всего 113 357 консультаций</div>
+						<ul style="clear:both;">
+<li><a href="/mc/akusherstvo-ginekologiya-reproduktivnaya-medicina/" title="Акушерство, гинекология, репродуктивная медицина">Акушерство, гинекология, репродуктивная медицина</a></li>
+<li><a href="/mc/allergiya-immunitet/" title="Аллергия. Иммунитет">Аллергия. Иммунитет</a></li>
+<li><a href="/mc/varikoz-zabolevaniya-sosudov/" title="Варикоз, заболевания сосудов">Варикоз, заболевания сосудов</a></li>
+<li><a href="/mc/gastroenterologiya/" title="Гастроэнтерология">Гастроэнтерология</a></li>
+<li><a href="/mc/gepatologiya/" title="Гепатология">Гепатология</a></li>
+<li><a href="/mc/golovnaya-bol/" title="Головная боль">Головная боль</a></li>
+<li><a href="/mc/dermatologiya/" title="Дерматология">Дерматология</a></li>
+<li><a href="/mc/detskaya-i-podrostkovaya-ginekologiya/" title="Детская и подростковая гинекология">Детская и подростковая гинекология</a></li>
+<li><a href="/mc/detskoe-pitanie/" title="Детское питание">Детское питание</a></li>
+<li><a href="/mc/izbytochnyj-ves-diety/" title="Избыточный вес. Диеты">Избыточный вес. Диеты</a></li>
+<li><a href="/mc/izzhoga-zheludochno-pischevodnyj-reflyuks/" title="Изжога. Желудочно-пищеводный рефлюкс">Изжога. Желудочно-пищеводный рефлюкс</a></li>
+<li><a href="/mc/infekcionnye-zabolevaniya/" title="Инфекционные заболевания">Инфекционные заболевания</a></li>
+<li><a href="/mc/kardiologiya/" title="Кардиология">Кардиология</a></li>
+<li><a href="/mc/kosmetologiya/" title="Косметология">Косметология</a></li>
+<li><a href="/mc/mammologiya/" title="Маммология">Маммология</a></li>
+<li><a href="/mc/meteochuvstvitelnost/" title="Метеочувствительность">Метеочувствительность</a></li>
+<li><a href="/mc/nevrologiya/" title="Неврология">Неврология</a></li>
+<li><a href="/mc/onkologiya/" title="Онкология">Онкология</a></li>
+<li><a href="/mc/otolaringologiya/" title="Отоларингология">Отоларингология</a></li>
+<li><a href="/mc/oftalmologiya/" title="Офтальмология">Офтальмология</a></li>
+<li><a href="/mc/privivki/" title="Прививки">Прививки</a></li>
+<li><a href="/mc/proktologiya/" title="Проктология">Проктология</a></li>
+<li><a href="/mc/pulmonologiya-ftiziatriya/" title="Пульмонология, фтизиатрия">Пульмонология, фтизиатрия</a></li>
+<li><a href="/mc/stomatologiya-zabolevaniya-polosti-rta/" title="Стоматология. Заболевания полости рта">Стоматология. Заболевания полости рта</a></li>
+<li><a href="/mc/stress-depressiya-psihologicheskoe-konsultirovanie/" title="Стресс. Депрессия. Психологическое консультирование">Стресс. Депрессия. Психологическое консультирование</a></li>
+<li><a href="/mc/travmatologiya-i-ortopediya/" title="Травматология и ортопедия">Травматология и ортопедия</a></li>
+<li><a href="/mc/urologiya-i-nefrologiya/" title="Урология и нефрология">Урология и нефрология</a></li>
+<li><a href="/mc/endokrinologiya-saharnyj-diabet/" title="Эндокринология. Сахарный диабет">Эндокринология. Сахарный диабет</a></li>
+</ul>
+						<div class="line"></div>
+					</div>
+					<div class='button'></div>
+				</div>
+							        <h1 class="block-title">В Париже выявлена редкая разновидность вируса СПИДа</h1>
+		<div class="date" style="text-align: left; margin-bottom:10px; float: left;">9:30 28 ноября 2011 г.</div>
+        <div style="text-align: right; margin-bottom:10px; float: right;"><script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="icon" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj,friendfeed,moikrug"></div></div>
+		<div style="clear: both;"></div>
+        <div class="full-story">
+
+          <div class="img-overflow">
+            <div class="top_left"></div>
+            <div class="top_right"></div>
+			
+            <img src="/img/news/11574.jpg" width="250" height="175" alt="В Париже выявлена редкая разновидность вируса СПИДа" title="В Париже выявлена редкая разновидность вируса СПИДа" />
+			
+            <div class="bottom_right"></div>
+            <div class="bottom_left"></div>
+          </div>
+
+		  
+          <h4>Французские медики сообщают, что у жителя столицы страны выявлен штамм ВИЧ, который ранее был обнаружен не более чем у 12 человек. Этот факт подтверждает мрачную пословицу о том, что «СПИД не спит», а, по всей видимости, готовится к новому нападению.</h4>
+          <div style="padding-top: 15px;"><p>Еще в 1998 году, когда ВИЧ-инфицированные во всем мире уже с успехом получали антиретровирусную терапию, которая отодвигала развитие СПИДа на отдаленное будущее, в западноафриканской стране Камерун была обнаружена женщина, инфицированная ВИЧ, у которой, несмотря на все принятые меры, лечение почему-то не дало результатов, и у нее быстро развился СПИД.</p>
+<p>Тогда инфекционисты смогли выделить очень редкий штамм вируса иммунодефицита, который получил название ВИЧ группы N.</p>
+<p>Проверка 12 000 ВИЧ-инфицированных жителей Камеруна позволила установить, что только 12 из них, включая одну супружескую пару, были носителями вируса этой редкой разновидности.</p>
+<p>Врачей поразил тот факт, что у парижанина, который побывал некоторое время назад в африканской стране Того и имел там сексуальные контакты, уже неделю спустя после даты предполагаемого заражения появились явные симптомы быстро развития патологического процесса размножения вируса: у пациента наблюдались высыпания по телу, лихорадка, увеличенные лимфатические узлы, а также язвы на половом члене.</p>
+<p>Ему назначили специальную терапию, которая привела к исчезновению симптомов, однако ему теперь придется очень долго находиться под наблюдением врачей, так как отдаленный исход лечения неясен.</p>
+<p>«Редкий штамм ВИЧ уже покинул пределы Камеруна: это еще раз подтверждает необходимость постоянного мониторинга ситуации с ВИЧ на нашей планете», – предупреждает профессор Франсуа Симон (Francois Simon) из парижской клиники Saint Louis Hospital, где и обнаружили ВИЧ группы N у жителя столицы.</p></div>
+		  
+		  
+          <div style="text-align:left; margin: 20px 0 0 0;"><script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="icon" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj,friendfeed,moikrug"></div></div>
+        </div>
+
+        <div class="more-about">
+          <h2 class="block-title">Больше по теме</h2>
+          <div class="sub-block dostupno">
+            <h1><a href="/faq/" title="Доступно о проблеме">Доступно о проблеме:</a></h1>
+            <h2><a href="/faq/detskaya-i-podrostkovaya-ginekologiya/2.html" title="Бактериальный вагиноз">Бактериальный вагиноз</a></h2>
+            <p>Бактериальный вагиноз: нехарактерные влагалищные выделения, зуд и жжение, расстройства мочеиспускания, боль в области влагалища или промежности, - Вас беспокоит что-либо из этих симптомов? Узнайте как правильно лечить заболевание и не допустить осложнений</p>
+            <a class="read-more" href="/faq/detskaya-i-podrostkovaya-ginekologiya/2.html" title="Бактериальный вагиноз">Читать дальше</a> </div>
+          <div class="sub-block hot">
+            <h1><a href="/hot/" title="Горячая тема">Горячая тема:</a></h1>
+            <h2><a href="/hot/76.html" title="Альтабор против вирусов">Альтабор против вирусов</a></h2>
+            <p>Вирусы – это особая форма жизни, которая доставляет человечеству множество неприятностей, вызывая такие заболевания как грипп, ОРВИ, СПИД и пр. Стоит ли их бояться? Узнайте о современных методах лечения вирусных заболеваний.</p>
+            <a class="read-more" href="/hot/76.html" title="Бактериальный вагиноз">Читать дальше</a> </div>
+          <div class="sub-block cons">
+            <h1><a href="/mc/" title="Медицинская консультация">Медицинская консультация:</a></h1>
+            <h2><a href="/mc/akusherstvo-ginekologiya-reproduktivnaya-medicina/335/#137448" title="Воспаление женских половых органов">Воспаление женских половых органов</a></h2>
+            <p>Здравствуйте!Скажите пожалуйста правильное ли мне назначили лечение,у меня метрит и двух сторонний аднексит.Колю циклоферон,глюконат кальция,свечи индометациновые, тампоны с ихтеоловой мазью и принимаю таблетки сератта.Антибиотик не назначили,мазки хороши&#0133;</p>
+            <a class="read-more" href="/mc/akusherstvo-ginekologiya-reproduktivnaya-medicina/335/#137448" title="Воспаление женских половых органов">Читать дальше</a> </div>
+          <div class="video">
+            <div class="img-overflow">
+              <a href="/video/otolaringologiya/648.html" title="Кохлеарный имплант – возвращение в мир звуков"><div class="play-btn"></div></a>
+              <div class="top_left"></div>
+              <div class="top_right"></div>
+              <a href="/video/otolaringologiya/648.html" title="Кохлеарный имплант – возвращение в мир звуков"><img src="/img/video/preview/648.jpg" title="Кохлеарный имплант – возвращение в мир звуков" alt="Кохлеарный имплант – возвращение в мир звуков" /></a>
+              <div class="bottom_right"></div>
+              <div class="bottom_left"></div>
+            </div>
+            <div class="text">
+              <h1><a href="/video/" title="Медицинская видео энциклопедия">Видео:</a></h1>
+              <h2><a href="/video/otolaringologiya/648.html" title="Кохлеарный имплант – возвращение в мир звуков">Кохлеарный имплант – возвращение в мир звуков</a></h2>
+              <p><p>Сегодня кохлеарные импланты применяются как при аудиопротезировании  взрослых, так и детей, в независимости от того, родились ли они глухими или  потеря слуха наступила позже. Чем короче для пациента был период глухоты, тем  успешнее пройдет операция. ...</p>
+              <a class="read-more" href="/video/otolaringologiya/648.html" title="Кохлеарный имплант – возвращение в мир звуков">Смотреть</a></div>
+          </div>
+        </div>		</div>
+<div style="clear:both;"></div>		
+			<div class="block-end"></div>
+				<style>
+				.ukr_net_play{
+					
+				}
+				.left_collum_ukr{
+					overflow: hidden;
+					position: relative;
+					margin-bottom:20px;	
+				}
+				.right_collum_ukr{
+					float: right;
+					margin-left: 15px;
+					margin-top: 20px;
+					overflow: hidden;
+					width: 300px;
+				}
+			</style>
+			<div class="ukr_net_play">
+				<!--<div class="right_collum_ukr">
+				</div>-->
+				<div class="left_collum_ukr">
+					<!-- Play.Ukr.Net -->
+						<div id="videoukrnet">Загрузка...</div>
+						<script language="javascript" charset="utf-8" src="http://informers.ukr.net/play/informers.php?p=91"></script>
+					<!-- Play.Ukr.Net -->
+				</div>
+			</div>
+			<!--<div class="banner-bottom">
+				<div class="img-overflow">
+					<div class="top_left"></div>
+					<div class="top_right"></div>
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+<!--<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://a8.health-ua.org/www/delivery/ajs.php':'http://a8.health-ua.org/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=3&amp;charset=UTF-8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--><!--</script><noscript><a href='http://a8.health-ua.org/www/delivery/ck.php?n=a5529102&amp;cb=23' target='_blank'><img src='http://a8.health-ua.org/www/delivery/avw.php?zoneid=3&amp;charset=UTF-8&amp;cb=23&amp;n=a5529102' border='0' alt='' /></a></noscript>
+
+					<div class="bottom_right"></div>
+					<div class="bottom_left"></div>
+				</div>-->
+			</div>
+			<div id="footer">
+				<div class="right">
+					<h1><a href="/" title="Медицинский портал «Здоровье Украины»">Разделы портала</a></h1>
+					<ul>
+						<li><a href="/news/" title="Новости медицины">Новости</a></li>
+						<li><a href="/video/" title="Видео энциклопедия">Видео</a></li>
+						<li><a href="/faq/" title="Доступно о проблеме">Доступно о проблеме</a></li>
+						<li><a href="/hot/" title="Горячая тема">Горячая тема</a></li>
+						<li><a href="/photo/" title="Фото галерея">Фото</a></li>
+						<li><a href="/lekarstva/" title="Лекарственные средства">Лекарственные средства</a></li>
+						<li><a href="/law/" title="Правовая консультация">Правовая консультация</a></li>
+						<li><a href="/testy/" title="Тесты онлайн">Тесты онлайн</a></li>
+						<li><a href="/translate.html" title="Перевод текста онлайн">Перевод текста онлайн</a></li>
+						<li><a href="/archives/" title="Архив изданий">Архив</a></li>
+						<li><a class="contact_us" href="/contact.html" rel="nofollow" title="Написать нам">Написать нам</a></li>
+					</ul>
+				</div>
+				<div class="left">
+					<h1><a href="/mc/" title="Медицинская консультация">Медицинская консультация онлайн</a></h1>
+<ul>
+<li><a href="/mc/akusherstvo-ginekologiya-reproduktivnaya-medicina/" title="Акушерство, гинекология, репродуктивная медицина">Акушерство, гинекология, репродуктивная медицина</a></li>
+<li><a href="/mc/allergiya-immunitet/" title="Аллергия. Иммунитет">Аллергия. Иммунитет</a></li>
+<li><a href="/mc/varikoz-zabolevaniya-sosudov/" title="Варикоз, заболевания сосудов">Варикоз, заболевания сосудов</a></li>
+<li><a href="/mc/gastroenterologiya/" title="Гастроэнтерология">Гастроэнтерология</a></li>
+<li><a href="/mc/gepatologiya/" title="Гепатология">Гепатология</a></li>
+<li><a href="/mc/golovnaya-bol/" title="Головная боль">Головная боль</a></li>
+<li><a href="/mc/dermatologiya/" title="Дерматология">Дерматология</a></li>
+<li><a href="/mc/detskaya-i-podrostkovaya-ginekologiya/" title="Детская и подростковая гинекология">Детская и подростковая гинекология</a></li>
+<li><a href="/mc/detskoe-pitanie/" title="Детское питание">Детское питание</a></li>
+<li><a href="/mc/izbytochnyj-ves-diety/" title="Избыточный вес. Диеты">Избыточный вес. Диеты</a></li>
+<li><a href="/mc/izzhoga-zheludochno-pischevodnyj-reflyuks/" title="Изжога. Желудочно-пищеводный рефлюкс">Изжога. Желудочно-пищеводный рефлюкс</a></li>
+<li><a href="/mc/infekcionnye-zabolevaniya/" title="Инфекционные заболевания">Инфекционные заболевания</a></li>
+<li><a href="/mc/kardiologiya/" title="Кардиология">Кардиология</a></li>
+<li><a href="/mc/kosmetologiya/" title="Косметология">Косметология</a></li>
+<li><a href="/mc/mammologiya/" title="Маммология">Маммология</a></li>
+<li><a href="/mc/meteochuvstvitelnost/" title="Метеочувствительность">Метеочувствительность</a></li>
+<li><a href="/mc/nevrologiya/" title="Неврология">Неврология</a></li>
+<li><a href="/mc/onkologiya/" title="Онкология">Онкология</a></li>
+<li><a href="/mc/otolaringologiya/" title="Отоларингология">Отоларингология</a></li>
+<li><a href="/mc/oftalmologiya/" title="Офтальмология">Офтальмология</a></li>
+<li><a href="/mc/privivki/" title="Прививки">Прививки</a></li>
+<li><a href="/mc/proktologiya/" title="Проктология">Проктология</a></li>
+<li><a href="/mc/pulmonologiya-ftiziatriya/" title="Пульмонология, фтизиатрия">Пульмонология, фтизиатрия</a></li>
+<li><a href="/mc/stomatologiya-zabolevaniya-polosti-rta/" title="Стоматология. Заболевания полости рта">Стоматология. Заболевания полости рта</a></li>
+<li><a href="/mc/stress-depressiya-psihologicheskoe-konsultirovanie/" title="Стресс. Депрессия. Психологическое консультирование">Стресс. Депрессия. Психологическое консультирование</a></li>
+<li><a href="/mc/travmatologiya-i-ortopediya/" title="Травматология и ортопедия">Травматология и ортопедия</a></li>
+<li><a href="/mc/urologiya-i-nefrologiya/" title="Урология и нефрология">Урология и нефрология</a></li>
+<li><a href="/mc/endokrinologiya-saharnyj-diabet/" title="Эндокринология. Сахарный диабет">Эндокринология. Сахарный диабет</a></li>
+</ul>					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="footer-info">
+		<div style="float:left;"><a class="terns" href="/disclaimer.html" title="Соглашение об использовании материалов медицинского портала «Здоровье Украины»">Условия использования</a> © 2006 - 2011 Медицинский портал «Здоровье Украины»</div>
+		<a id="bottom-logo" href="/" title="Медицинский портал «Здоровье Украины»"><img src="/img/design/bottom_logo.jpg" alt="Медицинский портал «Здоровье Украины»" width="139" height="16" /></a>
+	</div>
+	
+<div style="clear:both;"></div>
+<div style="float: right;">
+<!--bigmir)net TOP 100 Part 2-->
+<script type="text/javascript" language="javascript">
+<!--
+function BM_Draw(oBM_STAT){
+document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="font-family:Tahoma;font-size:10px;padding:0px;margin:0px;"><div style="width:7px;float:left;background:url(\'http://i.bigmir.net/cnt/samples/default/b56_left.gif\');height:17px;padding-top:2px;background-repeat:no-repeat;"></div><div style="float:left;background:url(\'http://i.bigmir.net/cnt/samples/default/b56_center.gif\');text-align:left;height:17px;padding-top:2px;background-repeat:repeat-x;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;">bigmir<span style="color:#ff0000;">)</span>net</a>&nbsp;&nbsp;<span style="color:#eca8aa;">хиты</span>&nbsp;<span style="color:#d44348;font:10px Tahoma;">'+oBM_STAT.hits+'</span>&nbsp;<span style="color:#eca8aa;">хосты</span>&nbsp;<span style="color:#d44348;font:10px Tahoma;">'+oBM_STAT.hosts+'</span></div><div style="width:7px;float: left;background:url(\'http://i.bigmir.net/cnt/samples/default/b56_right.gif\');height:17px;padding-top:2px;background-repeat:no-repeat;"></div></div></td></tr></table>');
+}
+//-->
+</script>
+<script type="text/javascript" language="javascript" src="http://c.bigmir.net/?s16808571&t0&l1&o1"></script>
+<noscript>
+<a href="http://www.bigmir.net/" target="_blank"><img src="http://c.bigmir.net/?v16808571&s16808571&t2&l1" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+<!--bigmir)net TOP 100 Part 2-->
+</div>
+</div>
+<!-- Yandex.Metrika counter New-->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+   (w[c] = w[c] || []).push(function() {
+       try {
+           w.yaCounter9686719 = new Ya.Metrika({id:9686719, enableAll: true});
+       }
+       catch(e) { }
+   });
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/9686719" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- inforotor начало -->
+<!--<irBlock id="counter"></irBlock>
+<script src="http://inforotor.net/rotor/counter.js"></script>
+<script src="http://inforotor.net/rotor/informers.js"></script>
+<script src="http://175.inforotor.net/rotor/start.js?ver=1"></script>-->
+<!-- inforotor конец -->
+
+
+</body>
+</html>

@@ -1,0 +1,384 @@
+<!DOCTYPE html><html
+xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head><link
+rel='stylesheet' href='http://cmvlive.com/wp-content/plugins/wp-minify/min/?f=wp-content/themes/newspapertimes_v1.1/newspapertimes/style.css,wp-content/plugins/sharebox/css/wdsb.css&amp;m=1326022357' type='text/css' media='screen' /> <script type='text/javascript' src='http://cmvlive.com/wp-content/plugins/wp-minify/min/?f=wp-content/themes/newspapertimes_v1.1/newspapertimes/js/jquery.js,wp-content/themes/newspapertimes_v1.1/newspapertimes/js/slides.min.jquery.js,wp-includes/js/comment-reply.js,wp-content/plugins/platinumpopup/js/pp.popup.js,wp-content/plugins/sharebox/js/wdsb.js,wp-content/plugins/audio-player-oogiechetos/assets/audio-player.js&amp;m=1326022357'></script> <meta
+charset="utf-8" /><title>Breast Implant Risks</title><meta
+name="keywords" content=""/><link
+rel="shortcut icon" href=""/><link
+rel="shortcut icon" href="" type="image/x-icon"/><meta
+name="generator" content="Magazine3 Framework Version 3.2" /> <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><link
+rel="alternate" type="application/rss+xml" title="Caribbean Media Vision RSS Feed" href="http://cmvlive.com/feed" /><link
+rel="pingback" href="http://cmvlive.com/xmlrpc.php" /> <script type="text/javascript">$(document).ready(function() { $(".tab_content").hide(); $("ul.tabs li:first").addClass("active").show(); $(".tab_content:first").show(); $("ul.tabs li").click(function() { $("ul.tabs li").removeClass("active"); $(this).addClass("active"); $(".tab_content").hide(); var activeTab = $(this).find("a").attr("href"); $(activeTab).fadeIn(); return false;	}); });</script> <script type="text/javascript">$(document).ready(function () {  createTicker();  }); function createTicker(){ var tickerLIs = $("#header3-1-left-ticker ul").children();  tickerItems = new Array(); tickerLIs.each(function(el) { tickerItems.push( jQuery(this).html() ); });
+	i = 0
+	rotateTicker(); }  function rotateTicker(){   if( i == tickerItems.length ){    	  i = 0;   	}
+      tickerText = tickerItems[i];  c = 0;  typetext();     setTimeout( "rotateTicker()", 5000 );
+	i++;    }   var isInTag = false;  function typetext() { var thisChar = tickerText.substr(c, 1);  if( thisChar == '<' ){ isInTag = true; } if( thisChar == '>' ){ isInTag = false; }  $('#header3-1-left-ticker').html("&nbsp;" + tickerText.substr(0, c++));
+	if(c < tickerText.length+1) if( isInTag ){ typetext(); }else{ setTimeout("typetext()", 28); }
+	else { 	c = 1;   	tickerText = "";  } }</script> <script>$(function(){ $('#slides').slides({ preload: true, play: 5000, pause: 2500, hoverPause: true, animationStart: function(current){ $('.caption').animate({ 	bottom:-35 },100); if (window.console && console.log) { console.log('animationStart on slide: ', current); }; }, animationComplete: function(current){
+ $('.caption').animate({ bottom:0 },200); if (window.console && console.log) { console.log('animationComplete on slide: ', current); }; }, slidesLoaded: function() { $('.caption').animate({ bottom:0 },200); } }); });</script> <style>#content .post {  border: none !important;}</style><style media="screen" type="text/css">.custom1{border-top:3px solid #0091ff !important;} .custom1 a{color:#0091ff !important;} .custom2{border-top:3px solid #e00000 !important;}  .custom2 a{color:#e00000 !important}  .custom3{border-top:3px solid #0422e0 !important;}  .custom3 a{color:#0422e0 !important} .custom4{border-top:3px solid #fa6c00 !important;} .custom4 a{color:#fa6c00 !important} .custom5{border-top:3px solid #c74600 !important;} .custom5 a{color:#c74600 !important} .custom6{border-top:3px solid #cffc05 !important;} .custom6 a{color:#cffc05 !important} .custom7{border-top:3px solid #2ba103 !important;} .custom7 a{color:#2ba103 !important}
+.custom8{border-top:3px solid #c400b7 !important;} .custom8 a{color:#c400b7 !important} .custom9{border-top:3px solid #ad0000 !important;} .custom9 a{color:#ad0000 !important} .custom10{border-top:3px solid #00ff1e !important;} .custom10 a{color:#00ff1e !important} .custom11{border-top:3px solid #d6c400 !important;} .custom11 a{color:#d6c400 !important} .custom12{border-top:3px solid #000 !important;} .custom12 a{color:#000 !important}</style><link
+rel="alternate" type="application/rss+xml" title="Caribbean Media Vision &raquo; Breast Implant Risks Comments Feed" href="http://cmvlive.com/health/breast-implant-risks/feed" /><link
+rel='stylesheet' id='PP_popup-reset-css'  href='http://cmvlive.com/wp-content/plugins/platinumpopup/css/reset.php?4f0ef47e0f67c&#038;ver=0.0' type='text/css' media='all' /> <script type="text/javascript">var _wdsb_data = {
+					"min_width": 0,
+					"horizontal_selector": "",
+					"top_selector": "",
+					"z_index": 10000000,
+					"allow_fixed": 0,
+					"offset": {"htype": "text", "hdir": "left", "hoffset": 0, "vtype": "text", "voffset": 0},
+					"limit": {"top_selector": "", "top_offset": 0, "bottom_selector": "", "bottom_offset": 0}
+				};</script> <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script> <script type='text/javascript'>try{jQuery.noConflict();}catch(e){};</script> <link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cmvlive.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cmvlive.com/wp-includes/wlwmanifest.xml" /><link
+rel='prev' title='Credit Talks: Five Ways Your Credit Can Affect Your Cell Phone Bill' href='http://cmvlive.com/technology/credit-talks-five-ways-your-credit-can-affect-your-cell-phone-bill' /><link
+rel='next' title='Top 10 Reasons to Legalize Gay Marriage' href='http://cmvlive.com/life-style-a-fashion/life-style/top-10-reasons-to-legalize-gay-marriage' /><meta
+name="generator" content="WordPress 3.3.1" /><link
+rel='shortlink' href='http://wp.me/p1QKSs-2qI' /><meta
+name="description" content="Having a boob job is not all fun and games. There are some serious breast implant risks that you should be aware of. Much of the time women are satisfied" /><meta
+name="keywords" content="breast implant risks,breast implants,breast tissue,silicone implants" /><link
+rel="canonical" href="http://cmvlive.com/health/breast-implant-risks" />  <script type="text/javascript">AudioPlayer.setup("http://cmvlive.com/wp-content/plugins/audio-player-oogiechetos/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"CCCCCC",lefticon:"333333",volslider:"666666",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script> <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'></script> <script type='text/javascript'>GS_googleAddAdSenseService("ca-pub-6190917271245185");
+GS_googleEnableAllServices();</script> <script type='text/javascript'>GA_googleAddSlot("ca-pub-6190917271245185", "Cmv-336x280-Or-468x60_Below-Every-Post");</script> <script type='text/javascript'>GA_googleFetchAds();</script> <script type='text/javascript'>// 
+    var OA_source = 'Cmvlive.com Ads';
+//</script><script type='text/javascript' src='http://cmvlive.com/adserver/www/delivery/spcjs.php?id=1&target=_blank&withtext=1'></script> <div
+id="fb-root"></div> <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=APP_ID";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><link
+rel="canonical" href="http://cmvlive.com/health/breast-implant-risks" /></head><body><div
+class="top1"><a
+name="top"></a></div><div
+id="wrapper"><div
+id="header"><div
+id="topheaderbar"><div
+id="topheaderbar-l"><div
+id="topnavigation"><div
+id="edition">Edition: International |</div><div
+id="nav"><div
+id="menu"><ul><div
+class="menu-header"><ul
+id="menu-top-menu" class="menu"><li
+id="menu-item-5455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5455"><a
+href="http://cmvlive.com/sitemap.xml">Articles Sitemap</a></li><li
+id="menu-item-8273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8273"><a
+href="http://cmvlive.com/caribbeantravel/">Caribbean Travel Blog</a></li></ul></div></ul></div></div></div></div><div
+id="topheaderbar-r">Thursday 12 January, 2012</div><div
+class="cb"></div></div><div
+id="header2"><div
+id="logoleft"><a
+href="http://cmvlive.com"><img
+src="" alt="" /></a></div><div
+id="logoright" style="width:auto !important"></div><div
+class="cb"></div></div><div
+id="header3"><div
+id="header3-1"><div
+id="header3-1-left"><div
+id="header3-1-left-tickerimg"><img
+src="http://cmvlive.com/wp-content/themes/newspapertimes_v1.1/newspapertimes/images/headlines.png" alt="Headlines" /></div><div
+id="header3-1-left-ticker"><ul><li><a
+href="http://cmvlive.com/life-style-a-fashion/travel/booking-your-st-thomas-vacation" rel="bookmark" title="Permanent Link: Booking Your St. Thomas Vacation">Booking Your St. Thomas Vacation</a></li><li><a
+href="http://cmvlive.com/technology/google-makes-searching-more-personal" rel="bookmark" title="Permanent Link: Google Makes Search More Personal ">Google Makes Search More Personal </a></li><li><a
+href="http://cmvlive.com/international-news/olympic-security-threat-fake-bomb-gets-through" rel="bookmark" title="Permanent Link: Olympic Security Threat: Fake Bomb Gets Through ">Olympic Security Threat: Fake Bomb Gets Through </a></li><li><a
+href="http://cmvlive.com/business/small-business/eco-friendly-companies-new-ideas-for-green-businesses" rel="bookmark" title="Permanent Link: Eco Friendly Companies - New Ideas for Green Businesses">Eco Friendly Companies - New Ideas for Green Businesses</a></li><li><a
+href="http://cmvlive.com/technology/gadgets/samsung-galaxy-s2-featuring-ice-cream-sandwich" rel="bookmark" title="Permanent Link: Samsung Galaxy S2 - Featuring Ice Cream Sandwich">Samsung Galaxy S2 - Featuring Ice Cream Sandwich</a></li></ul></div><div
+class="cb"></div></div><div
+id="header3-1-right"><ul><li
+style="margin-left: 2px;"><a
+href="http://feeds.feedburner.com/CmvLive" target="_blank"><img
+src="http://cmvlive.com/wp-content/themes/newspapertimes_v1.1/newspapertimes/images/rss.png" /></a></li><li
+style="margin-left: 8px;"><a
+href="http://feedburner.google.com/fb/a/mailverify?uri=CmvLive" target="_blank"><img
+src="http://cmvlive.com/wp-content/themes/newspapertimes_v1.1/newspapertimes/images/email.png" /></a></li><li><a
+href="http://www.facebook.com/pages/Caribbean-Media-Vision/167431583052" target="_blank"><img
+src="http://cmvlive.com/wp-content/themes/newspapertimes_v1.1/newspapertimes/images/facebook.png" /></a></li><li><a
+href="http://twitter.com/cmvlive" target="_blank"><img
+src="http://cmvlive.com/wp-content/themes/newspapertimes_v1.1/newspapertimes/images/twitter.png" /></a></li></ul></div><div
+class="cb"></div></div><div
+id="header3-2"><div
+id="menu2"><ul><div
+class="menu-header"><ul
+id="menu-main-menu" class="menu"><li
+id="menu-item-1211" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1211"><a
+href="http://cmvlive.com/local-news">Local News</a></li><li
+id="menu-item-1214" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1214"><a
+href="http://cmvlive.com/regional-news">Regional News</a></li><li
+id="menu-item-1210" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1210"><a
+href="http://cmvlive.com/international-news">International News</a></li><li
+id="menu-item-1723" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1723"><a
+href="http://cmvlive.com/entertainment">Entertainment</a></li><li
+id="menu-item-1208" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1208"><a
+href="http://cmvlive.com/business">Business</a></li><li
+id="menu-item-1212" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-1212"><a
+href="http://cmvlive.com/money">Money</a><ul
+class="sub-menu"><li
+id="menu-item-1847" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1847"><a
+href="http://cmvlive.com/money/personal-finance">Personal Finance</a></li><li
+id="menu-item-1848" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1848"><a
+href="http://cmvlive.com/money/stocks-a-investing">Stocks &#038; Investing</a></li></ul></li><li
+id="menu-item-1215" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-1215"><a
+href="http://cmvlive.com/technology">Technology</a><ul
+class="sub-menu"><li
+id="menu-item-5973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5973"><a
+href="http://cmvlive.com/technology/gadgets">Gadgets</a></li><li
+id="menu-item-1846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1846"><a
+href="http://cmvlive.com/technology/marketing">Marketing</a></li></ul></li><li
+id="menu-item-1213" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1213"><a
+href="http://cmvlive.com/politics">Politics</a></li></ul></div></ul></div><div
+id="menu3"><ul><li
+id="current-home-nav" style="float:left"><a
+href="http://cmvlive.com">Home</a></li><div
+class="menu-header"><ul
+id="menu-secondary-menu" class="menu"><li
+id="menu-item-1420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1420"><a
+href="http://cmvlive.com/advertise">Advertise With Us</a></li><li
+id="menu-item-2939" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2939"><a
+href="http://cmvlive.com/health">Health</a></li><li
+id="menu-item-4973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4973"><a
+href="http://cmvlive.com/pressrelease">Press Release</a></li></ul></div></ul></div></div></div></div><div
+id="section"><div
+id="column-wrap"><div
+id="headgal"><div
+id="main-content"><div
+id="content" style="padding-right:0 !important;"><div
+id="homepost"><div
+id="datemeta"><div
+id="datemeta_l"><b>Published On:</b> Sun, Jan 8th, 2012</div><div
+id="datemeta_r"><a
+href="http://cmvlive.com/health" title="View all posts in Health" rel="category tag">Health</a> / <a
+href="http://cmvlive.com/life-style-a-fashion/life-style" title="View all posts in Life Style" rel="category tag">Life Style</a> / <a
+href="http://cmvlive.com/life-style-a-fashion" title="View all posts in Life Style &amp; Fashin" rel="category tag">Life Style &amp; Fashin</a> | By <b><a
+href="http://cmvlive.com/author/cmv" title="View all posts by Cmv">Cmv </a></b></div><div
+class="cb"></div></div><div
+class="post"><h2> Breast Implant Risks</h2><center><script type='text/javascript'>// 
+    OA_show(4);
+//</script><noscript><a
+target='_blank' href='http://cmvlive.com/adserver/www/delivery/ck.php?n=344d1d4'><img
+border='0' alt='' src='http://cmvlive.com/adserver/www/delivery/avw.php?zoneid=4&n=344d1d4' /></a></noscript></center><div
+class="entry"><div
+id="wdsb-share-box" style=""><ul><li><div
+class="wdsb-item" id="wdsb-service-google"> <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><g:plusone size="tall"></g:plusone></div></li><li><div
+class="wdsb-item" id="wdsb-service-facebook"> <iframe
+src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcmvlive.com%2Fhealth%2Fbreast-implant-risks&amp;send=false&amp;layout=box_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=60" scrolling="no" frameborder="0" style="border:none; width:58px; height:62px;" allowTransparency="true"></iframe></div></li><li><div
+class="wdsb-item" id="wdsb-service-twitter"> <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><a
+href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a></div></li><li><div
+class="wdsb-item" id="wdsb-service-stumble_upon"> <script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script> </div></li><li><div
+class="wdsb-item" id="wdsb-service-delicious"> <a
+href="http://www.delicious.com/save" onclick="window.open('http://www.delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;"><img
+src="http://cmvlive.com/wp-content/plugins/sharebox/img/delicious.48px.gif" alt="Delicious" /></a></div></li><li><div
+class="wdsb-item" id="wdsb-service-linkedin"> <script src="http://platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/Share" data-counter="top"></script> </div></li></ul></div><p><img
+class=" wp-image-9356 alignleft" title="Breast Implant Risks" src="http://cmvlive.com/wp-content/uploads/2012/01/breast-implants-cancer-risk.jpg" alt="Breast Implant Risks" width="420" height="236" /></p><p>Having a boob job is not all fun and games. There are some serious breast implant risks that you should be aware of. Much of the time women are satisfied with their procedures and don&#8217;t have any regrets, but there are quite a few instances of complications. Here&#8217;s to helping you make an informed decision.</p><p><strong>Capsular Contracture</strong></p><p>This complication is caused by a scar that grows in your body, right is the tissue around the breast implant. This can lead to hardening, implants looking very fake, and they may even hurt.</p><p>You see this condition more often than you may know. Women who have very unnatural, round, hard looking breasts that have obviously been worked on usually have bad cases of capsular contracture.</p><p>Some say that saline implants lower the risks of this type of scar tissue and that it&#8217;s more common with silicone implants, but there is no conclusive evidence on this yet.</p><p>This sounds pretty scary, but many women develop mild capsular contracture and don&#8217;t even know they have it. Moderate to severe scarring, however, is likely to cause you discomfort and requires additional surgery. What happens during the additional surgery is that all the scar tissue must be removed from the breasts and a new implant would have to be put in. Even when you do all that additional work, there&#8217;s a chance the scarring will come back again.</p><p>Luckily, there is something you can do to lower this risk. Placing the implant under the muscle will help to reduce the breast implant risk of internal scar tissue forming.</p><p><strong>Mammogram &#8220;Blocking&#8221;</strong></p><p>When you have an implant, it becomes harder to view all your breast tissue during a mammography. As you know, mammograms are vitally important to your health.</p><p>Just like with capusal contraction, having your implant placed under the muscle will help. With implants placed over the muscle, only about 3/4 of your breast tissue can be seen during a mammogram. With it under the muscle, as much as 90% of your tissue can be seen &#8211; not perfect, but definitely better than 75%</p><p>Breast Implant Displacement</p><p>Just because your surgeon puts your implants in the right spot doesn&#8217;t necessarily mean they&#8217;ll stay there. There is a problem (albeit an uncommon one) where breast implants move after the surgery. This can happen in any direction, and at any time.</p><p><strong>Implants Breaking &amp; Leaking</strong></p><p>As you may know, there are 2 main types of implants &#8211; saline and silicone. Each of these present different risks if they were to leak or break.</p><p>Let&#8217;s start with the safer of the two: saline implants. These sometimes develop a leak and start to deflate, leaving you with one breast that goes back to your original size.</p><p>This happens most often with implants that have NOT been overfilled. Although it may sound wrong, overfilling implants actually helps them stay &#8220;strong&#8221;. when the implant hasn&#8217;t been overfilled and a small piece folds over, it causes rubbing which wears the shell down. The shell can eventually become so thin that it tears, just like a piece of paper. This happens most often during the first year following your procedure, and then the risk decreases in subsequent years.</p><div
+class="adsense adsense-midtext" style="float:left;margin: 12px;"><script type="text/javascript">google_analytics_uacct = "UA-27143544-1";
+google_analytics_domain_name="cmvlive.com";
+google_ad_client = "ca-pub-6190917271245185";
+/* 2250x250 inside articles middle */
+google_ad_slot = "6178239082";
+google_ad_width = 250;
+google_ad_height = 250;</script> <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div><p>Your body is made of salt-water, so the saline that filled your implant does no real harm when it&#8217;s absorbed by your body. The implant would just need to be replaced.</p><p>When you have silicone implants, the gel that fills the implant can&#8217;t be safely absorbed by your body. The shell can do the same thing and start to leak or even rupture, but the complications here are a little worse.</p><p>The silicone leaking out of the implant will probably cause your body to form scar tissue around it. If the leak is a small one, you might not even notice that anything has even happened to your implant until you realize you have capsular contracture &#8211; the internal scarring we talked about earlier.</p><p>This obviously requires surgery, as you can&#8217;t just leave a leaking silicone implant in your body. The implant and scar tissue would both need to be removed, and the implant would have to be replaced.</p><p><strong>Rippling</strong></p><p>While some implants come out looking great and very natural, sometimes you get weird &#8220;ripples&#8221; or slight waves that appear on your skin where the implants are placed. some surgeons also call this wrinkling.</p><p>This happens because the saline contained in your implant is shifting around, leaving areas of &#8220;loose&#8221; skin without anything to fill it.</p><p>Overfilling the implants can help prevent rippling, as well as using smooth implants rather than textured ones. Placing the implants under the muscle can also help prevent rippling in the upper portion of the breasts.</p><p>Rippling hardly ever happens to silicone implants, and is more evident among those who choose saline.</p><p><strong>Numb Nipples</strong></p><p>Numbness in the nipples following breast surgery is so common that you shouldn&#8217;t even consider having breast augmentation done if you really can&#8217;t stand the thought of potentially losing sensation in your nipples.</p><p><strong>Infection</strong></p><p>Infections following implant surgeries stand at about 1%. Usually infections occur in the first 2-3 months following breast augmentation procedures.</p><p>If you should develop an infection, you&#8217;ll need to take antibiotics and remove the implant. You can&#8217;t replace the implant until at least 6 months down the road (allowing your body to heal properly) so you could go for awhile with lopsided breasts.</p><p><strong>Symmastia</strong></p><p>This is actually a rare one, but quite a problem if it happens. It can occur when implants are placed under the muscle and move together, leading to a &#8220;uniboob&#8221; look. This may happen because of over-dissection of breast tissues during surgery (sometimes done to purposely place implants close together for increased cleavage). This is more of a problem with thin women, because they have less breast tissue and chest space in the first place.</p><p>These are some of the main side effects and risks of breast implants. They can range from mild, cosmetic problems to full blown life-threatening infections, you it&#8217;s up to you to weigh the pros and cons now that you have been educated on breast implant risks.</p> <address>For more information &amp; to sign up for our free newsletter with beauty tips from professional models, visit our <a
+href="http://shortcutit.com/modelsecrets-abase2" rel="nofollow" target="_new">beauty portal</a> today. Signing up today will give you access to secrets that over 99% of women will never know!</address> <address>By Jayna Davis</address></div></div><center
+style="font-weight: bold;"></center><style>input, textarea{}
+#authorarea{  padding-left: 8px; margin:10px 0;  width: 635px; } #authorarea h3{  border-bottom: 1px solid #B0B0B0; color: #333333; font-family: georgia; font-size: 19px; font-weight: normal;  line-height: 22px; margin:0 4px 5px; padding-left: 8px;}
+#authorarea h3 a{text-decoration:none; color:#333; font-weight:bold} #authorarea img{margin:0 5px;  float:left; border:1px solid #ddd; width:40px; height:40px;}
+#authorarea p{color:#333; margin:0} #authorarea p a{color:#333} .authorinfo{ }</style><center><input
+type="hidden" name="IL_RELATED_TAGS" value="1"/></center><div
+id="authorarea"><h3>About the Author</h3> <img
+alt='' src='http://0.gravatar.com/avatar/c4601d60ed2327dea344cc081597c004?s=40&amp;d=&amp;r=G' class='avatar avatar-40 photo' height='40' width='40' /><div
+class="authorinfo"><p><b><a
+href="http://cmvlive.com/author/cmv" title="Posts by Cmv" rel="author">Cmv</a></b> -</p></div></div><div
+id="related" class="clearfix"><div
+id="relatednews"><div
+id="relatednewsh2">Related News</div><div
+style="float:right;height:19px;margin-right:10px;"><div
+class="addthis_toolbox addthis_default_style "> <a
+class="addthis_button_facebook_like" fb:like:layout="button_count"></a> <a
+class="addthis_button_tweet"></a> <a
+class="addthis_counter addthis_pill_style"></a></div> <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script> </div><div
+class="cb"></div></div><div
+class="related"><div
+class="relatedpost"> <a
+href="http://cmvlive.com/life-style-a-fashion/travel/booking-your-st-thomas-vacation"> <img
+src="http://cmvlive.com/wp-content/themes/newspapertimes_v1.1/newspapertimes/images/nothumbnail.png" /> </a><h3><a
+href="http://cmvlive.com/life-style-a-fashion/travel/booking-your-st-thomas-vacation" rel="bookmark" title="Booking Your St. Thomas Vacation">Booking Your St. Thomas Vacation</a></h3></div></div><div
+class="related"><div
+class="relatedpost"> <a
+href="http://cmvlive.com/health/best-hemorrhoid-treatments-the-best-ways-to-get-rid-of-hemorrhoids"> <img
+src="http://cmvlive.com/wp-content/themes/newspapertimes_v1.1/newspapertimes/images/nothumbnail.png" /> </a><h3><a
+href="http://cmvlive.com/health/best-hemorrhoid-treatments-the-best-ways-to-get-rid-of-hemorrhoids" rel="bookmark" title="Best Hemorrhoid Treatments The Best Ways to Get Rid of Hemorrhoids">Best Hemorrhoid Treatments The Best Ways to Get Rid of Hemorrhoids</a></h3></div></div><div
+class="related"><div
+class="relatedpost"> <a
+href="http://cmvlive.com/health/get-rid-of-freckles-freckle-removers"><img
+width="150" height="125" src="http://cmvlive.com/wp-content/uploads/2012/01/Woman-with-Freckles-150x125.jpg" class="attachment-relatedimg wp-post-image" alt="Woman with Freckles" title="Woman with Freckles" /></a><h3><a
+href="http://cmvlive.com/health/get-rid-of-freckles-freckle-removers" rel="bookmark" title="Get rid of Freckles &#8211; Freckle Removers">Get rid of Freckles &#8211; Freckle Removers</a></h3></div></div><div
+class="related"><div
+class="relatedpost"> <a
+href="http://cmvlive.com/life-style-a-fashion/life-style/top-10-reasons-to-legalize-gay-marriage"> <img
+src="http://cmvlive.com/wp-content/themes/newspapertimes_v1.1/newspapertimes/images/nothumbnail.png" /> </a><h3><a
+href="http://cmvlive.com/life-style-a-fashion/life-style/top-10-reasons-to-legalize-gay-marriage" rel="bookmark" title="Top 10 Reasons to Legalize Gay Marriage">Top 10 Reasons to Legalize Gay Marriage</a></h3></div></div><div
+class="cb"></div></div><div
+id="comment_wrapper"><div
+class="comments-box"> <a
+name="comments" id="comments"></a><div
+id="respond"><h2 style="margin-top: 8px;">Leave a comment</h2><div
+class="cancel-comment-reply"> <small> <a
+rel="nofollow" id="cancel-comment-reply-link" href="/health/breast-implant-risks#respond" style="display:none;">Click here to cancel reply.</a> </small></div><p>You must be <a
+href="http://cmvlive.com/wp-login.php?redirect_to=http%3A%2F%2Fcmvlive.com%2Fhealth%2Fbreast-implant-risks">Logged in</a> to post comment.</p></div></div></div></div></div><div></div></div></div><div
+id="aside"><div
+style="margin-top: 10px;"></div><div
+id="sidebar"><div
+class="section widget_text"><div
+class="textwidget"><script type="text/javascript">google_analytics_uacct = "UA-27143544-1";
+google_analytics_domain_name="cmvlive.com";
+google_ad_client = "ca-pub-6190917271245185";
+/* Cmvlive.com 300x250 beside artisle and pages */
+google_ad_slot = "5712296786";
+google_ad_width = 300;
+google_ad_height = 250;</script> <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div></div></div><div
+class="section widget_text"><div
+class="textwidget">  <script type='text/javascript'>//
+   var m3_u = (location.protocol=='https:'?'https://cmvlive.com/adserver/www/delivery/ajs.php':'http://cmvlive.com/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//</script><noscript><a
+href='http://cmvlive.com/adserver/www/delivery/ck.php?n=abf063eb&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img
+src='http://cmvlive.com/adserver/www/delivery/avw.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=abf063eb' border='0' alt='' /></a></noscript></div></div></div><div
+class="section widget_iframe"><div
+id="sidebartitlewrapper"><h3><span>Top Up Your Mobile Phone Online</span></h3></div><div
+class="sectioncont"> <iFrame
+frameborder="0" src="http://cmvlive.com/online-top-up.html" width="230px" height="470px">The browser doesn't support IFrames.</iFrame></div></div><div
+class="section widget_meta"><div
+id="sidebartitlewrapper"><h3><span>Meta</span></h3></div><div
+class="sectioncont"><ul><li><a
+href="http://cmvlive.com/wp-login.php?action=register">Register</a></li><li><a
+href="http://cmvlive.com/wp-login.php">Log in</a></li><li><a
+href="http://cmvlive.com/feed" title="Syndicate this site using RSS 2.0">Entries <abbr
+title="Really Simple Syndication">RSS</abbr></a></li><li><a
+href="http://cmvlive.com/comments/feed" title="The latest comments to all posts in RSS">Comments <abbr
+title="Really Simple Syndication">RSS</abbr></a></li><li><a
+href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li></ul></div></div><div
+class="section widget_anual_archive"><div
+id="sidebartitlewrapper"><h3><span>Articles Achive</span></h3></div><div
+class="sectioncont"><ul><li><a
+href='http://cmvlive.com/2012/01' title='January 2012'>January 2012</a></li><li><a
+href='http://cmvlive.com/2011/12' title='December 2011'>December 2011</a></li><li><a
+href='http://cmvlive.com/2011/11' title='November 2011'>November 2011</a></li><li><a
+href='http://cmvlive.com/2011/10' title='October 2011'>October 2011</a></li><li><a
+href='http://cmvlive.com/2011/09' title='September 2011'>September 2011</a></li></ul></div></div><div
+id="minibars"><div
+id="lmb"></div><div
+id="rmb"><div
+class="section2 widget_text"><div
+class="textwidget"><script type="text/javascript">google_ad_client = "ca-pub-6190917271245185";
+/* Right Sidebar Skyscraper (120x600) */
+google_ad_slot = "2197222530";
+google_ad_width = 120;
+google_ad_height = 600;</script> <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div></div></div></div><div
+class="cb"></div></div></div></div></div></div></div><div
+id="footer"><div
+id="footer1"><div
+id="footerwrapper1"><div
+id="fsidebar1"> <a
+href="http://cmvlive.com"><img
+src="" alt="" /></a></div><div
+id="fsidebar2"><div
+style="margin-top:12px;float:left"><div
+class="fsearchbg1"><form
+method="get" id="footersearch1" action="http://cmvlive.com/"> <input
+type="text" name="s" value=" Search News - Type Keyword & Hit Enter" onblur="if(this.value=='') this.value=' Search News - Type Keyword & Hit Enter';" onfocus="if(this.value==' Search News - Type Keyword & Hit Enter') this.value='';" id="s2" /> <input
+type="submit" value=" " id="searchsubmit" /></form></div></div><div
+id="btt"> <a
+href="#top"> </a></div></div><div
+class="cb"></div><center><ul
+id="fnav"></ul></center><div
+style="clear: both;"></div></div></div><div
+id="footer2"><div
+id="footerwrapper2"><div
+id="fotbot"><div
+class="fotlogoleft"><div
+class="fotcopy"> All Rights Reserved Cmvlive.com Caribbean Media Vision</div></div><div
+class="fotlogoright"></div><div
+class="cb"></div></div></div></div></div>
+ <script type="text/javascript">var infolink_pid =260341; var infolink_wsid = 0;</script> <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script> <script type="text/javascript">jQuery(document).ready(function(){
+							jQuery('.description').before('<span><!--INFOLINKS_OFF--></span>');jQuery('.description').after('<span><!--INFOLINKS_ON--></span>');jQuery('#headerimg').before('<span><!--INFOLINKS_OFF--></span>');jQuery('#headerimg').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');
+								});</script> <script type="text/javascript">
+				var _wdsb_data = {
+					"min_width": 0,
+					"horizontal_selector": "",
+					"top_selector": "",
+					"z_index": 10000000,
+					"allow_fixed": 0,
+					"offset": {"htype": "text", "hdir": "left", "hoffset": 0, "vtype": "text", "voffset": 0},
+					"limit": {"top_selector": "", "top_offset": 0, "bottom_selector": "", "bottom_offset": 0}
+				};
+			</script><script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?aa&#038;ver=3.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cmvlive.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.3.1'></script>
+	<div style="display:none">
+	<div class="grofile-hash-map-c4601d60ed2327dea344cc081597c004">
+	</div>
+	</div>
+
+	<script src="http://stats.wordpress.com/e-201202.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:1.2.2',blog:'27349592',post:'9344'});
+	var load_cmc = function(){linktracker_init(27349592,9344,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27143544-1']);
+  _gaq.push(['_setDomainName', '.cmvlive.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-34VR0WJlE6YKw"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-34VR0WJlE6YKw.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->	  
+
+</body> </html>
+<!-- Dynamic page generated in 2.525 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2012-01-12 10:55:58 -->
+<!-- super cache -->

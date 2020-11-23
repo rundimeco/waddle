@@ -1,0 +1,1103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+
+<title>Θεοφάνεια με αποδοκιμασίες, συλλήψεις και απρόοπτα | κοινωνια  | ethnos.gr</title>
+<meta name="keywords" CONTENT="κοινωνια   , Θεοφάνεια με αποδοκιμασίες, συλλήψεις και απρόοπτα" />
+<meta name="description" CONTENT="6/1/2012 - Θεοφάνεια με αποδοκιμασίες, συλλήψεις και απρόοπτα - <p> 	Εξι άτομα συνελήφθησαν για τις αποδοκιμασίες που ακούστηκαν εις βάρος του Προέδρου της Δημοκρατίας και πολιτικών που τον συνόδευαν κατά τη διάρκεια του - κοινωνια  - ethnos.gr" />
+<meta name="revisit-after" content="60 days" />
+<meta name="abstract" content="κοινωνια " />
+
+<meta name="robots" content="index, follow" />
+<meta name="document-classification" content="internet" />
+<meta name="document-type" content="Public" />
+<meta name="document-rating" content="Safe for Kids" />
+<meta name="document-distribution" content="Global" />
+<meta http-equiv="pics-label" content="(pics-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "http://new.e-go.gr" r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://new.e-go.gr" r (n 0 s 0 v 0 l 0))" />
+
+<meta name="author" content="e-go.gr , Pegasus Interactive" />
+<meta name="copyright" content="Pegasus Interactive" />
+<meta name="document-state" content="Dynamic" />
+<meta name="Publisher" content="Pegasus Interactive , http://www.pegasus.gr " />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+<link rel="icon" href="favicon.ico" type="image/x-icon"><meta property="og:site_name" content="ethnos.gr"/>
+<meta property="fb:app_id" content="252173521495503"/>
+
+<meta property="og:url" content="http://www.ethnos.gr/article.asp?catid=22768&subid=2&pubid=63599740"/>
+
+<meta property="og:title" content="ethnos.gr - ΚΟΙΝΩΝΙΑ - Θεοφάνεια με αποδοκιμασίες, συλλήψεις και απρόοπτα"/>
+<meta property="og:description" content=""/>
+ 
+
+          <meta property="og:image" content="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019150_type10.jpg"/>
+     <link rel="stylesheet" href="style.css" type="text/css"/><link rel="stylesheet" href="article.css" type="text/css"/>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="css/picbox.css" type="text/css" media="screen"/>
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/JSFCommunicator.js"></script><script src="iepatch.js"></script><script type="text/javascript" src="js/tools/mouseCoord.js"></script>
+<script type="text/javascript" src="js/contextual/js/toolTipSimple.js"></script>
+<link href="js/contextual/styles/tooltip.css" rel="stylesheet" type="text/css" /><script src="js/ajax.asp" type="text/javascript"></script><script type="text/javascript">setAsyncElementLoading();</script>
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/hoverIntent.js"></script>
+<script type="text/javascript" language="javascript" src="js/jquery.dropdown.js"></script>
+<script src="js/picbox.js" type="text/javascript"></script>
+<script src="js/autoactivation.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.dimensions.js"></script>
+<script type="text/javascript" src="js/jquery.accordion.js"></script>
+<link rel="stylesheet" type="text/css" href="ethnosadstyles.css" />
+<link rel="stylesheet" href="footer.css" type="text/css"/>
+
+	<script type="text/javascript" src="js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="js/jquery.tools.min2.js"></script>
+        <script type="text/javascript" src="js/css3-mediaqueries.js"></script>
+
+
+<script>
+$(document).ready(function() {
+$(".search_btn img[title]").tooltip2();
+
+});
+</script>
+
+
+
+<script>
+var counterplus = 0;
+var countermin = 0; 
+function increaseFont()
+{
+if(counterplus<3){
+$('#arttext').each(function(){
+var oldf = parseInt( jQuery(this).css('font-size') );
+var oldl = parseInt( jQuery(this).css('line-height') );
+$(this).css({
+'font-size' : oldf + 2 + 'px',
+'line-height' : oldl + 2 + 'px'
+});
+});
+ counterplus++;
+ countermin++;
+}
+
+}
+ 
+function decreaseFont()
+{
+if(countermin>-2){
+$('#arttext').each(function(){
+var oldf = parseFloat( jQuery(this).css('font-size') );
+var oldl = parseFloat( jQuery(this).css('line-height') );
+$(this).css({
+'font-size' : oldf - 2 + 'px',
+'line-height' : oldl - 2 + 'px'
+});
+});
+ counterplus--;
+ countermin--;
+}
+}
+</script>
+
+<script type="text/javascript" language="JavaScript"><!--
+function HideContent(d) {
+if(d.length < 1) { return; }
+document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+if(d.length < 1) { return; }
+document.getElementById(d).style.display = "block";
+}
+function ReverseContentDisplay(d) {
+if(d.length < 1) { return; }
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block";}
+else { document.getElementById(d).style.display = "none"; }
+}
+//--></script>
+
+
+</head>
+<body>
+<center>
+<div class="swrapper">
+
+
+
+<div id="hometopmenu">
+<img src="images/ethnos_logos_stripe.gif" width="980" height="40" border="0" usemap="#Map" />
+<map name="Map" id="Map">
+  <area shape="rect" coords="1,2,34,34" href="http://www.ethnos.gr/entheta.asp?catid=23508" alt="TV ΕΘΝΟΣ" />
+  <area shape="rect" coords="131,5,215,34" href="http://www.ethnos.gr/ethnosport" alt="ΕΘΝΟΣΠΟΡ" />
+  <area shape="rect" coords="217,5,303,34" href="http://www.ethnos.gr/entheta.asp?catid=23343" alt="ΣΥΝΤΑΞΕΙΣ" />
+  <area shape="rect" coords="306,6,394,34" href="http://www.ethnos.gr/entheta.asp?catid=23353" alt="ΕΠΑΓΓΕΛΜΑΤΙΚΕΣ ΕΥΚΑΙΡΙΕΣ" />
+  <area shape="rect" coords="397,7,486,34" href="http://www.ethnos.gr/entheta.asp?catid=22813" alt="ΕΡΓΑΣΙΑ" />
+  <area shape="rect" coords="489,8,576,34" href="http://www.ethnos.gr/entheta.asp?catid=22814" alt="ΠΑΙΔΕΙΑ" />
+  <area shape="rect" coords="579,8,668,34" href="http://www.ethnos.gr/entheta.asp?catid=24300" alt="" />
+  <area shape="rect" coords="669,7,755,33" href="http://www.ethnos.gr/entheta.asp?catid=25810" alt="FORUM" />
+  <area shape="rect" coords="757,7,846,32" href="http://www.ethnos.gr/entheta.asp?catid=23513" alt="ΤΑΞΙΔΙ" />
+  <area shape="rect" coords="848,7,915,32" href="http://www.ethnos.gr/entheta.asp?catid=22820" alt="ΚΥΝΗΓΙ" />
+  <area shape="rect" coords="918,6,980,35" href="http://www.ethnos.gr/entheta.asp?catid=22821" alt="ΨΑΡΕΜΑ & ΦΟΥΣΚΩΤΟ" />
+<area shape="rect" coords="35,4,128,34" href="http://www.thecookbook.gr" alt="COOK BOOK" />
+</map>
+</div>
+
+<div class="clear"></div><!-- SKIN --><center><div class="topbanners"><div class="ban72890"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=30&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=30&dfl=yes&js=no" border="0" width="728" height="90" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|30/728x90"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div></div></center>
+<div class="header">
+  <div class="logo"><a href="default.asp?catid=22733" target="_top"><img src="images/logo.gif" border="0" alt="ethnos.gr" /></a></div>
+  <div class="date">Τετάρτη, 10/4/2013</div>
+  <!--No Elements for : 70200-->
+  <div class="weather">
+<div><iframe id="1E7C3DC7-AE56-4064-A193-8CBA8806722C" scrolling="no" frameborder="0" width="140" height="90" src=""></iframe><a target="_blank" style="display: block; text-decoration: underline; font: 10px/10px Arial,san-serif; color: rgb(119, 119, 119);" href="http://www.deltiokairou.gr/?widget_type=horizontal">O καιρός σήμερα</a><script type="text/javascript" src="http://service.24media.gr/js/deltiokairou_widget.js"></script><script type="text/javascript">set_url("1E7C3DC7-AE56-4064-A193-8CBA8806722C", "http://service.24media.gr/app/forecast/details/horizontal.html?loc=37.9966,23.741,0:40.6382,22.9369,0:38.2372,21.7407,0:39.6679,20.8512,0:35.3325,25.1346,0&label=%CE%91%CE%B8%CE%AE%CE%BD%CE%B1:%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7:%CE%A0%CE%AC%CF%84%CF%81%CE%B1:%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B9%CE%BD%CE%B1:%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF&css=/css/horizontal-num140.css&color=GREY");</script></div>
+ </div>
+
+</div>
+<div class="menu"><ul><li class="homelink"><a href="default.asp"><img src="images/home.png" border="0" /></a></li><li><a href="summary.asp?catid=28042">ΝΕΑ ΣΕ 10"</a><ul></ul></li><li><a href="summary.asp?catid=22767">ΠΟΛΙΤΙΚΗ</a><ul><li><a href="summary.asp?catid=23141">ΠΑΡΑΠΟΛΙΤΙΚΑ</a><ul></ul></li><li><a href="summary.asp?catid=22815">ΣΚΙΤΣA</a><ul></ul></li></ul></li><li class="active"><a href="summary.asp?catid=22768">ΚΟΙΝΩΝΙΑ</a><ul></ul></li><li><a href="summary.asp?catid=22770">ΟΙΚΟΝΟΜΙΑ</a><ul></ul></li><li><a href="summary.asp?catid=22769">ΔΙΕΘΝΗ</a><ul><li><a href="summary.asp?catid=22777">ΑΛΛΗ ΟΨΗ</a><ul></ul></li></ul></li><li><a href="summary.asp?catid=23106">ΠΕΡΙΒΑΛΛΟΝ</a><ul></ul></li><li><a href="summary.asp?catid=22782">ΑΡΘΡΟΓΡΑΦΙΑ</a><ul></ul></li><li><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140">ΕΘΝΟΣΠΟΡ</a><ul></ul></li><li><a href="summary3.asp?catid=22784">ΠΟΛΙΤΙΣΜΟΣ</a><ul><li><a href="summary3.asp?catid=23668">ΑΤΖΕΝΤΑ</a><ul></ul></li><li><a href="summary3.asp?catid=23139">SHOWBIZ</a><ul></ul></li><li><a href="summary3.asp?catid=22800">ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</a><ul></ul></li><li><a href="summary3.asp?catid=23136">ΘΕΑΤΡΟ</a><ul></ul></li><li><a href="summary3.asp?catid=23137">ΜΟΥΣΙΚΗ</a><ul></ul></li><li><a href="summary3.asp?catid=23135">ΕΙΚΑΣΤΙΚΑ</a><ul></ul></li><li><a href="summary3.asp?catid=22802">ΒΙΒΛΙΟ</a><ul></ul></li><li><a href="summary3.asp?catid=23610">ΦΕΣΤΙΒΑΛ</a><ul></ul></li></ul></li><li><a href="entheta.asp?catid=23555">ΕΝΘΕΤΑ</a><ul><li><a href="entheta.asp?catid=23508">TV ΕΘΝΟΣ</a><ul></ul></li><li><a href="entheta.asp?catid=23353">ΕΠΑΓΓΕΛΜΑΤΙΚΕΣ ΕΥΚΑΙΡΙΕΣ</a><ul></ul></li><li><a href="entheta.asp?catid=22813">ΕΡΓΑΣΙΑ</a><ul></ul></li><li><a href="entheta.asp?catid=22814">ΠΑΙΔΕΙΑ</a><ul></ul></li><li><a href="entheta.asp?catid=23343">ΣΥΝΤΑΞΕΙΣ</a><ul></ul></li><li><a href="entheta.asp?catid=22820">ΚΥΝΗΓΙ</a><ul></ul></li><li><a href="entheta.asp?catid=24300">ΥΓΕΙΑ</a><ul></ul></li><li><a href="entheta.asp?catid=25810">FORUM ΕΘΝΟΣ</a><ul></ul></li><li><a href="entheta.asp?catid=22821">ΨΑΡΕΜΑ & ΦΟΥΣΚΩΤΟ</a><ul></ul></li><li><a href="http://www.e-go.gr/wmotors/r.asp?catid=15645">WHEELS + MOTORS</a><ul></ul></li><li><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140">ΕΘΝΟΣΠΟΡ</a><ul></ul></li><li><a href="entheta.asp?catid=23309">REPORTAGE</a><ul></ul></li><li><a href="entheta.asp?catid=23513">ΤΑΞΙΔΙ</a><ul></ul></li><li><a href="http://www.thecookbook.gr/r.asp?catid=28274">COOK BOOK</a><ul></ul></li></ul></li><li><a href="summary.asp?catid=23657">ΧΡΗΣΙΜΑ</a><ul><li><a href="summary.asp?catid=23657">ΣΑΝ ΣΗΜΕΡΑ</a><ul></ul></li><li><a href="summary.asp?catid=23671">ΚΑΙΡΟΣ</a><ul></ul></li><li><a href="summary.asp?catid=23652">ΦΑΡΜΑΚΕΙΑ</a><ul></ul></li><li><a href="summary.asp?catid=23653">ΝΟΣΟΚΟΜΕΙΑ</a><ul></ul></li><li><a href="summary.asp?catid=23655">ΔΡΟΜΟΛΟΓΙΑ ΠΛΟΙΩΝ</a><ul></ul></li><li><a href="summary.asp?catid=28980">MARKET NEWS</a><ul></ul></li></ul></li><div class="clear"></div></ul><div class="search_btn"><img src="images/search_btn.gif" title="<br />κάντε κλικ για <b>αναζήτηση</b>" border="0" /></div><div class="clear"></div></div>
+<div class="searchbar">
+<script> 
+function updateFormActionEthnos(){
+ document.getElementById("catid").value  = "23552";
+}
+function updateFormActionWeb(){
+ document.getElementById("catid").value = "23552";
+}
+function updateFormActionFile() {
+ document.getElementById("catid").value = "23551";
+}
+</script>
+
+
+<!-- SiteSearch Google -->
+<div class="googlebox">
+
+<form method="get" action="summary.asp" target="_top">
+<table border="0"  cellpadding="0" cellspacing="0" align=right>
+
+<tr>
+<td nowrap="nowrap" align="left">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<input class="radiobtn" type="radio" name="sitesearch" value="www.ethnos.gr" checked id="ss1" onclick="updateFormActionEthnos()"></input>
+<label for="ss1" title="Search www.ethnos.gr">ethnos.gr</label></td>
+<td>
+<input class="radiobtn" type="radio" name="sitesearch" value="" id="ss2" onclick="updateFormActionFile()"></input>
+<label for="ss0" title="Search the Web">Αρχείο</label></td>
+<td>
+<input class="radiobtn" type="radio" name="sitesearch" value="" id="ss0" onclick="updateFormActionWeb()"></input>
+<label for="ss0" title="Search the Web">Web</label></td>
+</tr>
+</table>
+</td>
+
+<td rowspan="2" class="glogo"><img src="images/google_logo.gif" border="0" /></td> 
+<td><h1>ΑΝΑΖΗΤΗΣΗ</h1></td>
+<td nowrap="nowrap">
+
+<input type="hidden" name="domains" value="www.ethnos.gr"></input>
+<label for="sbi" style="display: none">Enter your search terms</label>
+<input class="ginput" type="text" name="q" size="31" maxlength="255" value="" id="sbi"></input>
+<label for="sbb" style="display: none">Submit search form</label>
+<input class="gsubmit" type="submit" name="sa" value="ΑΝΑΖΗΤΗΣΗ" id="sbb"></input>
+<input type="hidden" name="client" value="pub-9628004899418467"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="channel" value="0325243089"></input>
+<input type="hidden" name="ie" value="utf-8"></input>
+<input type="hidden" name="oe" value="utf-8"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:11"></input>
+<input type="hidden" name="hl" value="el"></input>
+<input type="hidden" name="catid" id="catid" value="23552"></input>
+</td>
+</tr>
+
+
+</table>
+</form>
+</div>
+<!-- SiteSearch Google --></div>
+
+
+
+<!-- TICKER NOW -->
+<div class="pencilad"><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D30276%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Eethnos%252Egr%252Farticle%252Easp%253Fcatid%253D22768%2526subid%253D2%2526pubid%253D63737709%26npubid%3D129291481'));"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20130326/low/pegasus_LARGE_t_237761_54180181.JPG" border="0" /></a></div>
+
+
+<script>
+$(document).ready(function() {
+$(".search_btn").click(function () {
+      var status = $(".searchbar").css("display");
+      if(status == "block"){
+           $(".searchbar").css("display","none");
+           $("div.menu").css("marginBottom","18px");
+      }else{
+           $(".searchbar").css("display","block");      
+           $("div.menu").css("marginBottom","1px");
+      }
+});
+});
+</script>
+
+
+<div class="catpath">
+<h6><a href="summary.asp?catid=22768">ΚΟΙΝΩΝΙΑ</a></h6>
+<h2>ΒΡΙΣΚΕΣΤΕ ΕΔΩ:  <a href="summary.asp?catid=22768">ΚΟΙΝΩΝΙΑ</a></h2></div>
+<div class="container">
+    <div class="leftcol"><div class="toolsleft">
+  <div class="date">ΕΘΝΟΣ On Line<br />15:10 6/1/2012</div>
+  <div class="artbuttons">
+
+  <table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+   <td><a href="javascript:void(0);" onclick="increaseFont()" id="plustext"><img src="images/Nfont2_b.gif" alt="Μεγαλύτερα Γράμματα" border="0"></a><a href="javascript:void(0);" onclick="decreaseFont()" id="minustext"><img src="images/Nfont2_s.gif" alt="Μικρότερα Γράμματα" border="0"></a> Μέγεθος γραμμάτων</td>
+</tr><tr>
+  <td class='toolsclear'>
+<span class="mailspan"><a href="#" onclick="window.open('mailto.asp?catid=22768&subid=12&pubid=63599740', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">
+<img src="images/Nmailto2.gif" alt="mail to" border="0">
+</a><a href="#" onclick="window.open('mailto.asp?catid=22768&subid=12&pubid=63599740', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">Email</a>
+ </span>
+
+<span><a href="#" onclick="window.open('v5general2print.asp?catid=22768&subid=20110&pubid=63599740', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+<img src="images/Ntoprint2.gif" border=0 alt="Εκτυπώστε το Αρθρο">
+</a>
+ <a href="#" onclick="window.open('v5general2print.asp?catid=22768&subid=20110&pubid=63599740', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+Εκτύπωση</a></span>
+</td>
+  </tr>
+<tr>
+<td><div>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.ethnos.gr/article%2Easp%3Fcatid%3D22768%26subid%3D2%26pubid%3D63599740&layout=button_count&show_faces=false&width=150&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></div></td>
+  </tr>
+<tr>
+<td class="twittertd">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</td>
+</tr>
+  </table>   </div>
+  <div class="divider"></div>
+
+<div class="clear"></div>
+<div class="relatedleft">
+<div class="relart2">
+
+<h6>ΠΡΩΤΗ ΕΙΔΗΣΗ ΤΩΡΑ</h6>
+<ul><li><a href="entheta.asp?catid=23326&subid=2&pubid=63810271"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20130410/engine/newego_LARGE_t_1101_54186929_type11455.jpg" border="0" /></a><h2><a href="entheta.asp?catid=23326&subid=2&pubid=63810271">1.300 ΘΑ ΕΙΣΑΧΘΟΥΝ ΣΤΙΣ ΣΤΡΑΤΙΩΤΙΚΕΣ ΣΧΟΛΕΣ</a></h2><h3><a href="entheta.asp?catid=23326&subid=2&pubid=63810271">76.444 oι φετινοί εισακτέοι σε ΑΕΙ και ΤΕΙ
+
+</a> <span class="date">10/4</span></h3></li></ul>
+</div></div>
+
+<div class="clear"></div>
+<div class="divider"></div>
+<div class="clear"></div>
+
+<div class="clear"></div>
+
+<div id="prototype_21216">
+
+<div class="restarts"><h6><div class="title">ΚΟΙΝΩΝΙΑ:</div> ΔΙΑΒΑΣΤΕ ΑΚΟΜΑ</h6><ul><li><a href="article.asp?catid=22768&subid=2&pubid=63810311">Εφοδοι σε πέντε υπουργεία για λουφαδόρους</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810312">Κακοδιοίκηση και φορολoγία στην κορυφή της λίστας</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810457">Non grata η Χρυσή Αυγή στα νοσοκομεία της χώρας </a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810304">Τελευταίο αντίο στον ναύαρχο</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810309">Εισβολή χρυσαυγιτών στο νοσοκομείο
+
+</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810305">Τα λεωφορεία της... υπομονής
+
+</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810430">Στόχος ιερόσυλων ο Αγιος Δημήτριος Θεσσαλονίκης</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810444">Απάτη με τραπεζικές συναλλαγές μέσω διαδικτύου </a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810449">Τελείωσε το πετρέλαιο στο Νοσοκομείο Ζακύνθου</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810437">Πάτρα: Εμπρηστικές επιθέσεις σε εφημερίδα και Τράπεζα</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810421">Συγκέντρωση διαμαρτυρίας έξω από το υπ.Αγροτικής Ανάπτυξης</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810328">Νέα ένταση από το πρωί στην Ιερισσό
+</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810337">Δεμένα τα πλοία την Τρίτη</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810307">46χρονος «έσβησε» στις φλόγες
+
+</a> <span class="pubdate">10/4</span></li><li><a href="article.asp?catid=22768&subid=2&pubid=63810338">Εξελέγη νέα διοίκηση</a> <span class="pubdate">10/4</span></li></ul></div>
+<div class="clear"></div><div class="pag"><table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="images/arrow_prev_off.gif" border="0" /></td> <td><span class="link"><a href="JAVASCRIPT:reloadPrototypeElement('21216','catid=22768&subid=2&pubid=63599740&page1=1')"><b>1</b></a></span><span class="link"><a href="JAVASCRIPT:reloadPrototypeElement('21216','catid=22768&subid=2&pubid=63599740&page1=2')">2</a></span><span class="link"><a href="JAVASCRIPT:reloadPrototypeElement('21216','catid=22768&subid=2&pubid=63599740&page1=3')">3</a></span></td> <td><a href="JAVASCRIPT:reloadPrototypeElement('21216','catid=22768&subid=2&pubid=63599740&page1=2')"><img src="images/arrow_next_on.gif" border="0" /></a></td></tr></table></div>
+
+
+
+<div class="clear"></div></div><script>addPrototypeElement('21216','AJAXREST','incl/v5EthnosRestArticlesAjax_21216.asp','pageid=639&catid=22768&subid=2&pubid=63599740&catidlocal=22768&subidlocal=2',false,'');</script><style>
+.deal {
+	border: 1px solid #1971a3;
+	padding: 0;
+	margin: 20px 0;
+	text-align: left;
+	width: 158px;
+        background: white;
+font-family: Verdana;
+}
+
+.deal td { 
+        border: none;
+}
+
+.deal td.logo {
+	margin: 0;
+	padding: 8px 0 0px 10px;
+        background: none;
+        border-bottom: none;
+}
+
+td.offertxt {
+	margin: 0;
+	padding: 0 0 8px 0;
+	line-height: 14px;
+        text-align: left;
+        border-bottom: none;
+}
+
+td.offertxt h1 {
+	margin: 0px 0 3px 0;
+	padding: 0;
+	font-size: 11px;
+	font-weight: bold;
+	color: #015581;
+        text-align: left;
+}
+
+td.offertxt h1 a {
+	color: #015581;
+	text-decoration: none;
+}
+
+td.offertxt h2 {
+	margin: 0 0 10px 0;
+	padding: 0;
+	font-size: 11px;
+	font-weight: normal;
+	color: #2295d6;
+        text-align: left;
+}
+
+.prices {
+	background: url(images/dmd/bg_prices_leftcol.gif) no-repeat;
+<!--	width: 148px;
+	height: 58px; -->
+	margin: 0 0 2px 2px;
+}
+
+.prices td.price1 {
+	padding: 0;
+	width: 54px;
+	color: #fff;
+line-height: 18px;
+        border-bottom: none;
+background: transparent;
+}
+
+
+.prices td.price1 h1 {
+	margin: 0;
+	padding: 8px 0 0 0;
+	color: #005782;
+	font-size: 13px;
+	text-align: center;
+font-weight: bold;
+}
+
+.prices td.price2 {
+	padding: 5px 0 0 4px;
+	width: 80px;
+	color: #fff;
+	font-size: 13px;
+	text-align: center;
+	font-weight: bold;
+line-height: 16px;
+        border-bottom: none;
+background: transparent;
+}
+
+.prices td.price2 a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.prices .newprice {
+	margin: 3px 0 0 0;
+	padding: 0 3px;
+	color: #fff;
+	font-size: 18px;
+display: inline-block;
+
+}
+</style>
+
+<div class="clear"></div>
+
+<div class="deal"> <table border="0" cellpadding="0" cellspacing="0" width="100%"> <tr><td class="logo" align="center"><img src="images/dmd/logo_leftcol.gif" border="0" /></td></tr><tr><td class="offertxt"><h1><a href="http://www.dealmyday.gr/?af=e9cf7c95791ff39adc3f4afc1746860b&utm_source=ethnos%2Bpromo%2Bbox&utm_medium=promobox&utm_content=ethnos%2Bpromo%2Bbox&utm_campaign=ethnos%2Bpromo%2Bbox" target="_blank">Ένας usb φορτιστής αυτοκινήτου συμβατός με κινητά τηλέφωνα, PDA, tablets, mp3 players</a></h1><div class="clear"></div><h2>από το ηλεκτρονικό κατάστημα designbastards.gr</h2></td></tr> </table><div class="prices"><table border="0" cellpadding="0" cellspacing="0"><tr><td class="price1"><h1>Από 10€</h1></td><td class="price2"><a href="http://www.dealmyday.gr/?af=e9cf7c95791ff39adc3f4afc1746860b&utm_source=ethnos%2Bpromo%2Bbox&utm_medium=promobox&utm_content=ethnos%2Bpromo%2Bbox&utm_campaign=ethnos%2Bpromo%2Bbox" target="_blank">Αγόρασέ το <span class="newprice">4.20€</span></a></td></tr></table></div> </div><div class="ban120300"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=29&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=29&dfl=yes&js=no" border="0" width="120" height="600" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|29/120x600"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div><div class="banbottom"></div>
+
+</div>
+
+<div class="text" id="arttext">
+<h5>ΟΡΓΙΣΜΕΝΟΣ Ο ΚΟΣΜΟΣ ΞΕΣΠΑ ΕΠΙ ΔΙΚΑΙΩΝ ΚΑΙ ΑΔΙΚΩΝ</h5>
+<h1>Θεοφάνεια με αποδοκιμασίες, συλλήψεις και απρόοπτα</h1>	 
+<h2><p>
+	Εξι άτομα συνελήφθησαν για τις αποδοκιμασίες που ακούστηκαν εις βάρος του Προέδρου της Δημοκρατίας και πολιτικών που τον συνόδευαν κατά τη διάρκεια του αγιασμού των υδάτων στη Χαλκίδα. Πρόκειται για τρεις άνδρες και τρεις γυναίκες που αρχικά προσήχθησαν και στη συνέχεια, με εντολή του εισαγγελέα Χαλκίδας, κρατήθηκαν για να να οδηγηθούν ενώπιόν του, κατηγορούμενοι για «προσβολή κατά του Προέδρου της Δημοκρατίας».<br />
+	<span style="display: none"> </span></p>
+</h2>
+
+<div class="PHOTOmain"><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019150.JPG" rel="lightbox-group1" title="Ο Πρόεδρος της Δημοκρατίας, Κάρολος Παπούλιας, συνοδευόμενος από τον υπουργό Εσωτερικών, Τάσο Γιαννίτση, παρέστη στην Τελετή Αγιασμού των Υδάτων στην προβλήτα του Αγίου Νικολάου, στην Χαλκίδα"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019150_type12128.jpg" width="480" border="0" alt="Ο Πρόεδρος της Δημοκρατίας, Κάρολος Παπούλιας, συνοδευόμενος από τον υπουργό Εσωτερικών, Τάσο Γιαννίτση, παρέστη στην Τελετή Αγιασμού των Υδάτων στην προβλήτα του Αγίου Νικολάου, στην Χαλκίδα" /></a><div class="photoscaption">Ο Πρόεδρος της Δημοκρατίας, Κάρολος Παπούλιας, συνοδευόμενος από τον υπουργό Εσωτερικών, Τάσο Γιαννίτση, παρέστη στην Τελετή Αγιασμού των Υδάτων στην προβλήτα του Αγίου Νικολάου, στην Χαλκίδα</div></div><p>	Στιγματίζοντας την τελετή, οι συγκεντρωμένοι φώναξαν στον κ. Παπούλια να παραιτηθεί ενώ κάποιοι τον απεκάλεσαν «προδότη» καλώντας τον να φύγει στο εξωτερικό...</p><p>	Οι αποδοκιμασίες ακούστηκαν κυρίως κατά άφιξη και την αναχώρηση του Προέδρου, ενώ αποδοκιμάστηκαν και άλλοι επίσημοι μεταξύ των οποίων και υπουργός Εσωτερικών κ. Τάσος Γιαννίτσης. Ορισμένοι από τους συγκεντρωμένους κρατούσαν πλακάτ που έγραφαν «να δούμε στο ελικόπτερο ποιος θα πρωτομπεί», ενώ φώναζαν συνθήματα όπως και η «χούντα δεν τελείωσε το 73».</p><p>	Επίσης, ομάδα περίπου 15 ατόμων, προσπάθησε να προσεγγίσει τον χώρο των επισήμων αλλά παρεμποδίσθηκε από άνδρες της ΕΛΑΣ.  </p><p style="text-align: justify">	Μετά το τέλος της τελετής, τόσο ο κ. Παπούλιας, όσο και οι υπόλοιποι επίσημοι, αποχώρησαν χωρίς δηλώσεις προς τους δημοσιογράφους.</p><div class="positionPHOTO_2"><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019126.JPG" rel="lightbox-group1" title="Χωρίς να υπολογίσουν το κρύο, περισσότεροι από δέκα άνδρες βούτηξαν στα νερά του Θερμαϊκού στην Θεσσαλονίκη, για να πιάσουν τον σταυρό.<br/>"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019126_type12128.jpg" width="480" border="0" alt="Χωρίς να υπολογίσουν το κρύο, περισσότεροι από δέκα άνδρες βούτηξαν στα νερά του Θερμαϊκού στην Θεσσαλονίκη, για να πιάσουν τον σταυρό. " /></a><div class="photoscaption">Χωρίς να υπολογίσουν το κρύο, περισσότεροι από δέκα άνδρες βούτηξαν στα νερά του Θερμαϊκού στην Θεσσαλονίκη, για να πιάσουν τον σταυρό.<br/></div></div> <p style="text-align: justify">	Μεμονωμένα περιστατικά έντασης και διαμαρτυριών κατά πολιτικών σημειώθηκαν επίσης στον Πειραιά, τη Θεσσαλονίκη και άλλες πόλεις<br />	<br />	Ο πρόεδρος της Νέας Δημοκρατίας, Αντώνης Σαμαράς παραυρέθηκε στον <strong>Πειραιά,</strong> όπου στην τελετή αγιασμού των υδάτων.<br />	<br />	Χοροστατούντος του Αρχιεπισκόπου Αθηνών και πάσης Ελλάδος, Ιερωνύμου, πραγματοποιήθηκε στο πρώτο λιμάνι της χώρας, η ρίψη του Τίμιου Σταυρού στη θάλασσα, ανάμεσα στα ναρκαλιευτικά «Καλυψώ», «Ευ. Νίκη» και «Καλλιστώ». Ανδρες του Σώματος Ελλήνων Βατραχανθρώπων βούτηξαν στη θάλασσα και έπιασαν τον σταυρό.<br /><div class="positionPHOTO_1"><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019144.JPG" rel="lightbox-group1" title="Η υπουργός Παιδείας, Αννα Διαμαντοπούλου και ο δήμαρχος Αθηναίων, Γιώργος Καμίνης παρευρέθηκαν στην τελετή καθαγιασμού των υδάτων στην Δεξαμενή στο Κολωνάκι."><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019144_type12128.jpg" width="480" border="0" alt="Η υπουργός Παιδείας, Αννα Διαμαντοπούλου και ο δήμαρχος Αθηναίων, Γιώργος Καμίνης παρευρέθηκαν στην τελετή καθαγιασμού των υδάτων στην Δεξαμενή στο Κολωνάκι." /></a><div class="photoscaption">Η υπουργός Παιδείας, Αννα Διαμαντοπούλου και ο δήμαρχος Αθηναίων, Γιώργος Καμίνης παρευρέθηκαν στην τελετή καθαγιασμού των υδάτων στην Δεξαμενή στο Κολωνάκι.</div></div>	<br />	Την κυβέρνηση εκπροσώπησε ο υπουργός Επικρατείας, Γιώργος Σταυρόπουλος, ενώ παραβρέθηκαν ο πρόεδρος της Νέας Δημοκρατίας, Αντώνης Σαμαράς, ο αναπληρωτής υπουργός Παιδείας, Κώστας Αρβανιτόπουλος, ο υφυπουργός Ναυτιλίας, Άδωνις Γεωργιάδης, ο δήμαρχος Πειραιά, Βασίλης Μιχαλολιάκος, και βουλευτές όλων των κομμάτων.<br />	<br />	Κατά τη διάρκεια της τελετής, δεν έλειψαν και αποδοκιμασίες από μερίδα συγκεντρωμένων.<br />	<br />	Το πρωί, πριν την τελετή του αγιασμού των υδάτων, τελέσθηκε η Θεία Λειτουργία στον Ιερό Ναό της Αγ. Τριάδας, χοροστατούτος του αρχιεπισκόπου Ιερωνύμου και του Μητροπολίτη Πειραιώς, Σεραφείμ.<br /><div class="positionPHOTO_2"><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019179.JPG" rel="lightbox-group1" title="Στην Στυλίδα ο δήμαρχος Απόστολος Γκλέτσος βούτηξε μαζί με δημότες του για να πιάσει τον σταυρό στο λιμάνι"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019179_type12128.jpg" width="480" border="0" alt="Στην Στυλίδα ο δήμαρχος Απόστολος Γκλέτσος βούτηξε μαζί με δημότες του για να πιάσει τον σταυρό στο λιμάνι" /></a><div class="photoscaption">Στην Στυλίδα ο δήμαρχος Απόστολος Γκλέτσος βούτηξε μαζί με δημότες του για να πιάσει τον σταυρό στο λιμάνι</div></div> 	<br />	Κάτω από δρακόντεια μέτρα ασφαλείας, με τσουχτερό κρύο και λιγοστό κόσμο, τελέστηκε ο αγιασμός των υδάτων για τα Θεοφάνια στην πλατεία Δεξαμενής, στην <strong>Αθήνα</strong>, παρουσία του δημάρχου Αθηναίων, Γιώργου Καμίνη.<br />	<br />	Από νωρίς το πρωί ισχυρές αστυνομικές δυνάμεις βρέθηκαν στην περιοχή του Κολωνακίου, προς αποφυγή επεισοδίων, ενώ κλειστή παρέμεινε η οδός Σκουφά καθ' όλη τη διάρκεια της δοξολογίας στον Ιερό Ναό του Αγίου Διονυσίου, αλλά και την ώρα της τελετής του καθαγιασμού των υδάτων.<br />	<br /><div class="positionPHOTO_1"><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019193.JPG" rel="lightbox-group1" title="Από τις διαμαρτυρίες συγκεντρωμένων στη Χαλκίδα"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019193_type12128.jpg" width="480" border="0" alt="Από τις διαμαρτυρίες συγκεντρωμένων στη Χαλκίδα" /></a><div class="photoscaption">Από τις διαμαρτυρίες συγκεντρωμένων στη Χαλκίδα</div></div>	Στην τελετή παρέστησαν, μεταξύ άλλων, η υπουργός Παιδείας, Άννα Διαμαντοπούλου και οι βουλευτές Μιχάλης Καρχιμάκης, Προκόπης Παυλόπουλος, Όλγα Κεφαλογιάννη και Θανάσης Πλεύρης, οι οποίοι τόσο κατά την προσέλευσή τους στη Δεξαμενή, όσο και κατά την αποχώρησή τους αποδοκιμάστηκαν από τους συγκεντρωμένους πολίτες.<br />	<br />	Στον ιερό ναό του Αγίου Νεκταρίου, στη <strong>Σούδα,</strong> παρακολούθησαν τη θεία λειτουργία των Θεοφανείων, ο επίτιμος πρόεδρος της ΝΔ, Κώστας Μητσοτάκης, και η πρόεδρος της Δημοκρατικής Συμμαχίας, Ντόρα Μπακογιάννη.<br />	<br /><div class="positionPHOTO_2"><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019194.JPG" rel="lightbox-group1" title="Διαμαρτυτρίες και στον Πειραιά"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019194_type12128.jpg" width="480" border="0" alt="Διαμαρτυτρίες και στον Πειραιά" /></a><div class="photoscaption">Διαμαρτυτρίες και στον Πειραιά</div></div> 	Μετά το τέλος της λειτουργίας ακολούθησε η τελετή αγιασμού των υδάτων στο λιμανάκι μπροστά από το ναυταθλητικό κέντρο Σούδας. Το «παρών» έδωσαν ακόμα ο βουλευτής, Χρήστος Μαρκογιαννάκης, και εκπρόσωποι των τοπικών αρχών.<br />	<br />	<strong>Τα μηνύματα της πολιτικής ηγεσίας</strong><br />	«Χρόνια πολλά και καλή φώτιση σε όλους μας. Να είμαστε μονιασμένοι, να κάνουμε το καλό αντέξουμε στα δύσκολα. Και με τη βοήθεια του Θεού θα τα καταφέρουμε», δήλωσε ο πρόεδρος της ΝΔ,<strong> Αντώνης Σαμαράς </strong>μετά την ολοκλήρωση της τελετής.<br />	<br /><div class="positionPHOTO_1"><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019195.JPG" rel="lightbox-group1" title=""><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019195_type12128.jpg" width="480" border="0" alt="Θεοφάνεια με αποδοκιμασίες, συλλήψεις και απρόοπτα" /></a></div>	«Το Άγιο Πνεύμα θα φωτίσει όλο τον κόσμο. Ιδιαιτέρως όμως, όλους εκείνους που καλούνται να πάρουν μεγάλες αποφάσεις για το αύριο της Ελλάδος. Εύχομαι σε όλους Χρόνια Πολλά», δήλωσε ο πρόεδρος του ΛΑ.Ο.Σ.,<strong> Γ. Καρατζαφέρης </strong> ο οποίος παρέστη σήμερα στη τελετή Αγιασμού των Υδάτων στον ιερό ναό Αγίου Ιωάννη Θεολόγου στην ιδιαίτερη πατρίδα του στη Αρκαδία.<br />	<br />	«Χρόνια πολλά! Με την ευχή να υπάρχει η δέσμευση όλων ότι σε τέσσερις μήνες από τώρα, η Ελλάδα θα έχει κατοχυρώσει τη θέση της στο Ευρώ και την ΕΕ, σε μια εποχή δύσκολη, σε μια περιοχή που φλέγεται. Εχουμε πίστη ότι εμείς μπορούμε να αλλάξουμε το ρου των γεγονότων», δήλωσε η υπουργός Παιδείας, <strong>Αννα Διαμαντοπούλου,</strong> η οποία παρευρέθηκε στην τελετή αγιασμού στην Δεξαμενή.</p> <p style="text-align: justify">	«Η σημερινή μέρα έχει υψηλούς συμβολισμούς. Φωτισμένα και ανοιχτά μυαλά, υπεύθυνες πράξεις και επιλογές», δήλωσε ο υφυπουργός Υποδομών, Μεταφορών και Δικτύων, <strong>Γιάννης Μαγκριώτης,</strong> στην τελετή αγιασμού των υδάτων, στη Θεσσαλονίκη, όπου εκπροσώπησε την κυβέρνηση.<br />	<br />	<strong>Κατάνυξη στο Φανάρι</strong><br />	Προεξάρχοντος του Οικουμενικού Πατριάρχη Βαρθολομαίου ολοκληρώθηκε η κατανυκτική δοξολογία των Θεοφανείων στο Φανάρι, ενώ ακολούθησε ο καθαγιασμός των υδάτων στον Κεράτιο Κόλπο.<br />	<br />	<strong>Καθαγιασμός των Υδάτων στην Θεσσαλονίκη</strong><br />	Με συννεφιά, αλλά με ήρεμη θάλασσα και παρουσία πλήθους κόσμου, έγινε η τελετή αγιασμού των υδάτων στη Θεσσαλονίκη, χοροστατούντος του Μητροπολίτη Θεσσαλονίκης, Ανθιμου και παρουσία εκπροσώπων των πολιτικών και στρατιωτικών αρχών της πόλης.<br />	<br />	Περισσότεροι από δέκα νεαροί βούτηξαν στα νερά του Θερμαϊκού, για να πιάσουν τον σταυρό.<br />	<br />	Πολίτες αποδοκίμασαν τους πολιτικούς κατά την προσέλευσή τους στον χώρο της τελετής, αλλά και κατά την αποχώρησή τους, αμέσως μετά τη λήξη των καθιερωμένων ευχετήριων δηλώσεων.<br />	<br /> 	<strong>Βούτηξε κι ο Γκλέτσος</strong><br />	Με λαμπρότητα ολοκληρώθηκε και στην πόλη της Στυλίδας ο εορτασμός των Θεοφανείων.<br />	<br />	Αψηφώντας το κρύο, οι κολυμβητές έπεσαν στα νερά του Μαλιακού κόλπου για να πιάσουν τον σταυρό, ενώ μαζί τους βούτηξε και ο δήμαρχος της πόλης, Απόστολος Γκλέτσος.<br />	<br />	<strong>Κατερίνη: Παπάς στη θάλασσα.</strong><br />	Ενα απίστευτο περιστατικό σημειώθηκε στην παραλία Σκάλα Κατερίνης, όταν κατά τη διάρκεια τελετής του αγιασμού των υδάτων η βάρκα στην οποία επέβαινε ο ιερέας και άλλα τέσσερα άτομα ανετράπη, λόγω των ισχυρών ανέμων και όλοι οι επιβαίνοντες έπεσαν στη θάλλασα.<br />	<br />	Από το ατυχές περιστατικό δεν τραυματίστηκε κανείς, ενώ όλοι οι επιβαίνοντες είναι καλά στην υγεία τους.</p>
+
+<div class="wline"></div><!--No Elements for : 70300--><div class="wline"></div>
+<div style="margin:10px auto;"><link rel="stylesheet" type="text/css" href="ethnosadstyles.css" />
+<script language="JavaScript">
+var google_adnum = 0;
+function google_ad_request_done(google_ads) {
+var s = '';
+var i;
+if (google_ads.length == 0) {
+return;
+}
+if (google_ads[0].type == "flash") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' + 
+'<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' + 
+google_ad.image_width +	'" HEIGHT="' + 
+google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' + 
+google_ad.image_url + '">' + 
+'<PARAM NAME="quality" VALUE="high">' + 
+'<PARAM NAME="AllowScriptAccess" VALUE="never">' + 
+'<EMBED src="' + 
+google_ad.image_url + '" WIDTH="' + 
+google_ad.image_width + '" HEIGHT="' + 
+google_ad.image_height + 
+'" TYPE="application/x-shockwave-flash"' + 
+' AllowScriptAccess="never" ' + 
+' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+} else if (google_ads[0].type == "image") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br> <a href="' + 
+google_ads[0].url + '" target="_top" title="go to ' + 
+google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + 
+google_ads[0].visible_url + '\';return true"><img border="0" src="' + 
+google_ads[0].image_url + '"width="' + 
+google_ads[0].image_width + '"height="' + 
+google_ads[0].image_height + '"></a>';
+} else if (google_ads[0].type == "html") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Διαφημίσεις Google</a><br>' + 
+google_ads[0].snippet;
+} else {
+if (google_ads.length > 1) {
+s += "<table id=\"ethnosgads\" cellspacing=\"0\" cellpadding=\"0\">"; 
+s += "  <tr>";
+s += "    <td id=\"head\">";
+s += '<a href=\"' + google_info.feedback_url + '\">Διαφημίσεις Google</a>'
+s += " <\/td>";
+s += " <\/tr>";
+s += " <tr>";
+s += " <td>";
+for(i = 0; i < google_ads.length; ++i) {
+s += '<br><a id=\"title\" target="_blank" target="_blank" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to '+
+google_ads[i].visible_url + '\';return true"> <span>' + 
+google_ads[i].line1 + '</span></a> <span>' +
+google_ads[i].line2 + '</span><br/> <a id=\"adlink\" target="_blank" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true"><span>' + 
+google_ads[i].visible_url + '</span></a><br>';
+}
+s += " <\/td>";
+s += " <\/tr>";
+s += " <\/table>";
+}}
+if (google_ads[0].bidtype == "CPC") {
+google_adnum = google_adnum + google_ads.length;
+}
+document.write(s);
+return;
+}
+google_ad_client = 'pub-9628004899418467';
+google_ad_channel = '5560398006';
+google_ad_output = 'js';
+google_max_num_ads = '4';
+google_ad_type = 'text';
+google_feedback = 'on';
+google_encoding = 'UTF-8';
+google_adtest = 'off';
+google_language = 'el';
+</script>
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<!-- YO GADS --></div>
+<div class="forum"></div>
+
+
+
+
+<!------------ GALLERY ----------------->
+
+<div class="PHOTOrest"><h1>ΦΩΤΟΓΡΑΦΙΕΣ</h1>
+<ul><li><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019150.JPG" rel="lightbox-group1" title="Ο Πρόεδρος της Δημοκρατίας, Κάρολος Παπούλιας, συνοδευόμενος από τον υπουργό Εσωτερικών, Τάσο Γιαννίτση, παρέστη στην Τελετή Αγιασμού των Υδάτων στην προβλήτα του Αγίου Νικολάου, στην Χαλκίδα"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019150_type11256.jpg"  border="0" alt="Ο Πρόεδρος της Δημοκρατίας, Κάρολος Παπούλιας, συνοδευόμενος από τον υπουργό Εσωτερικών, Τάσο Γιαννίτση, παρέστη στην Τελετή Αγιασμού των Υδάτων στην προβλήτα του Αγίου Νικολάου, στην Χαλκίδα" /></a></li><SEP /><li><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019126.JPG" rel="lightbox-group1" title="Χωρίς να υπολογίσουν το κρύο, περισσότεροι από δέκα άνδρες βούτηξαν στα νερά του Θερμαϊκού στην Θεσσαλονίκη, για να πιάσουν τον σταυρό.<br/>"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019126_type11256.jpg"  border="0" alt="Χωρίς να υπολογίσουν το κρύο, περισσότεροι από δέκα άνδρες βούτηξαν στα νερά του Θερμαϊκού στην Θεσσαλονίκη, για να πιάσουν τον σταυρό. " /></a></li><SEP /><li><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019144.JPG" rel="lightbox-group1" title="Η υπουργός Παιδείας, Αννα Διαμαντοπούλου και ο δήμαρχος Αθηναίων, Γιώργος Καμίνης παρευρέθηκαν στην τελετή καθαγιασμού των υδάτων στην Δεξαμενή στο Κολωνάκι."><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019144_type11256.jpg"  border="0" alt="Η υπουργός Παιδείας, Αννα Διαμαντοπούλου και ο δήμαρχος Αθηναίων, Γιώργος Καμίνης παρευρέθηκαν στην τελετή καθαγιασμού των υδάτων στην Δεξαμενή στο Κολωνάκι." /></a></li><SEP /><li><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019179.JPG" rel="lightbox-group1" title="Στην Στυλίδα ο δήμαρχος Απόστολος Γκλέτσος βούτηξε μαζί με δημότες του για να πιάσει τον σταυρό στο λιμάνι"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019179_type11256.jpg"  border="0" alt="Στην Στυλίδα ο δήμαρχος Απόστολος Γκλέτσος βούτηξε μαζί με δημότες του για να πιάσει τον σταυρό στο λιμάνι" /></a></li><SEP /><li><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019193.JPG" rel="lightbox-group1" title="Από τις διαμαρτυρίες συγκεντρωμένων στη Χαλκίδα"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019193_type11256.jpg"  border="0" alt="Από τις διαμαρτυρίες συγκεντρωμένων στη Χαλκίδα" /></a></li><SEP /><li><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019194.JPG" rel="lightbox-group1" title="Διαμαρτυτρίες και στον Πειραιά"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019194_type11256.jpg"  border="0" alt="Διαμαρτυτρίες και στον Πειραιά" /></a></li><SEP /><li><a href="http://content-mcdn.ethnos.gr/filesystem/images/20120106/low/newego_LARGE_t_1101_54019195.JPG" rel="lightbox-group1" title=""><img src="http://content-mcdn.ethnos.gr/filesystem/images/20120106/engine/newego_LARGE_t_1101_54019195_type11256.jpg"  border="0" alt="Θεοφάνεια με αποδοκιμασίες, συλλήψεις και απρόοπτα" /></a></li><SEP /></ul>
+<div class="wline"></div></div>
+
+
+<div class="clear"></div>
+
+<div class="belowArticle"><table border="0" cellpadding="1" cellspacing="0" align="center">
+ <tr >
+  <td>
+   <span><a href="#" onclick="window.open('v5general2print.asp?catid=22768&subid=20110&pubid=63599740', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+<img src="images/Ntoprint2.gif" border=0 alt="Εκτυπώστε το Αρθρο">
+</a></td><td>
+ <a href="#" onclick="window.open('v5general2print.asp?catid=22768&subid=20110&pubid=63599740', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+Εκτύπωση </a></span>
+  </td>
+  <td>
+   <span class="mailspan"><a href="#" onclick="window.open('mailto.asp?catid=22768&subid=12&pubid=63599740', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">
+    <img src="images/Nmailto2.gif" alt="mail to" border="0">
+</a></td><td><a href="#" onclick="window.open('mailto.asp?catid=22768&subid=12&pubid=63599740', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">Email</a>
+ </span>
+</td>
+<td><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.ethnos.gr/article%2Easp%3Fcatid%3D22768%26subid%3D2%26pubid%3D63599740&layout=button_count&show_faces=false&width=120&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe></td>
+<td class="twittertd">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</td>
+</td>
+<td>
+<a onmouseover="ReverseContentDisplay('contactHoverBox'); return true;" href="javascript:ReverseContentDisplay('contactHoverBox')">
+<img src="images/contact.gif" border=0 alt="Επικοινωνία"></a></td><td><a onmouseover="ReverseContentDisplay('contactHoverBox'); return true;" href="javascript:ReverseContentDisplay('contactHoverBox')">
+Επικοινωνία</a>
+</td>
+</tr>
+</table>
+</div>
+<div id="contactHoverBox">
+<img src="images/ethnosContactBoxArrow.jpg" /><div class="wline"></div>
+<div id="HoverBoxborder">
+<h1>ΕΠΙΚΟΙΝΩΝΙΑ</h1>
+<table border="0" cellpadding="0" cellspacing="8">
+<tr><td valign="top">
+Απόκτηση παλαιότερων τευχών, φύλλων & προσφορών <a href="mailto:chrisoulam@pegasus.gr">chrisoulam@pegasus.gr</a>
+</td>
+<td valign="top">Πληροφορίες για διαφήμιση στην έντυπη έκδοση <a href="mailto:mdiamantaki@pegasus.gr">mdiamantaki@pegasus.gr</a>
+</td>
+</tr><tr>
+<td valign="top">Αποστολή βιογραφικών <a href="mailto:emavroudi@pegasus.gr">emavroudi@pegasus.gr</a></td>
+<td valign="top">Πληροφορίες για διαφήμιση στην ηλεκτρονική έκδοση <a href="mailto:advertising@pegasusinteractive.gr">advertising@pegasusinteractive.gr</a></td>
+</tr></table>
+</div>
+</div>
+
+<div class="clear"></div>
+<div id="prototype_28582_19"><div class="bp">
+<div class="rightbox">
+
+<div class="tabakiar"><a href="summary.asp?catid=28042&subid=1"><h1>NEWSROOM</h1></a></div>
+<div class="wline"></div>
+<div class="newswire"><div class="ltitle"><span class="ldate">11:29 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810479">ΟΓΑ: Οροι - προϋποθέσεις για συνταξιοδότηση ανασφάλιστων υπερηλίκων</a></div><div class="ltitle"><span class="ldate">11:13 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810458">Παράταση έως 30 Απριλίου για εκκαθαριστικές δηλώσεις ΦΠΑ</a></div><div class="ltitle"><span class="ldate">11:10 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810457">Non grata η Χρυσή Αυγή στα νοσοκομεία της χώρας </a></div><div class="ltitle"><span class="ldate">11:10 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810456">Κίνα: Εννέα νεκροί από τη νέα γρίπη των πτηνών </a></div><div class="ltitle"><span class="ldate">11:08 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810448">Επιστρέφει στην πολιτική η Τσιτσιολίνα</a></div><div class="ltitle"><span class="ldate">11:06 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810449">Τελείωσε το πετρέλαιο στο Νοσοκομείο Ζακύνθου</a></div><div class="ltitle"><span class="ldate">11:02 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810452">Νοβότνι: Δεν είμαι βέβαιος ότι η Ευρώπη θα βγει ισχυρότερη από την κρίση</a></div><div class="ltitle"><span class="ldate">10:53 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810447">Μουσείο το γραφείο του Τσάβες </a></div><div class="ltitle"><span class="ldate">10:52 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810444">Απάτη με τραπεζικές συναλλαγές μέσω διαδικτύου </a></div><div class="ltitle"><span class="ldate">10:50 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810437">Πάτρα: Εμπρηστικές επιθέσεις σε εφημερίδα και Τράπεζα</a></div><div class="ltitle"><span class="ldate">10:43 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810438">Κύπρος: Σφίγγει ο κλοιός για τον διοικητή της Κεντρικής Τράπεζας </a></div><div class="ltitle"><span class="ldate">10:37 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810436">Προβόπουλος: Ανακεφαλαιοποίηση και επιστροφή καταθέσεων θα τονώσουν την οικονομία  </a></div><div class="ltitle"><span class="ldate">10:36 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810435">Δένδιας: Αν το ένταλμα εκτελούνταν χθες, θα γινόταν μακελειό</a></div><div class="ltitle"><span class="ldate">10:23 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810430">Στόχος ιερόσυλων ο Αγιος Δημήτριος Θεσσαλονίκης</a></div><div class="ltitle"><span class="ldate">10:21 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810426">Η Ν. Κορέα αύξησε το επίπεδο συναγερμού
+</a></div><div class="ltitle"><span class="ldate">10:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810421">Συγκέντρωση διαμαρτυρίας έξω από το υπ.Αγροτικής Ανάπτυξης</a></div><div class="ltitle"><span class="ldate">9:58 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810420">Eurobank: Συγκαλείται γενική συνέλευση στις 30 Απριλίου </a></div><div class="ltitle"><span class="ldate">9:32 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810415">Σε δημοπρασία ποίημα του Ουίνστον Τσώρτσιλ</a></div><div class="ltitle"><span class="ldate">9:07 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810375">Μια αγκαλιά για τα... μάτια του κόσμου!</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810297">Η Θάτσερ που δεν γνωρίσαμε</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810298">Στην αντεπίθεση περνά ο Ολάντ</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810299">Σάτιρα Γκρίλο με... γεύση από χούντα
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810300">60χρονος σκότωσε 13 ανθρώπους
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810301">30 νεκροί και πυρηνική ανησυχία
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810330">Η Μέρκελ σε... στρατόπεδο συγκέντρωσης</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810284">Αγώνας δρόμου για το χρονοδιάγραμμα
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810287">Ανακεφαλαιοποίηση μετ' εμποδίων
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810315">Νέα βουτιά εσόδων άνοιξε «τρύπα» 500 εκ. ευρώ
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810317">Εξόφληση οφειλών σε 48 δόσεις
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810319">Νέες αντικειμενικές αξίες από τον Ιούλιο
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810320">Στον πίνακα κοινοχρήστων οι αποδείξεις υλικών</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810321">«Προίκα» 1,6 δισ. ευρώ και 88,7 εκ. ευρώ κέρδη για τους 3 «μνηστήρες»
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810322">Αποζημίωση πάνω από 12 εκατ. ευρώ θα καταβάλει το Δημόσιο σε κοινοπραξία
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810323">Απώλεια επενδύσεων 100 εκ. ευρώ για κεραίες
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810348">Φαινόμενο αποπληθωρισμού ύστερα από 45 χρόνια</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810296">Πυρά Ουάσιγκτον κατά Βερολίνου για την οικονομία
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810304">Τελευταίο αντίο στον ναύαρχο</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810337">Δεμένα τα πλοία την Τρίτη</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810338">Εξελέγη νέα διοίκηση</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810305">Τα λεωφορεία της... υπομονής
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810307">46χρονος «έσβησε» στις φλόγες
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810308">Στενό μαρκάρισμα στον Ντέμη από την έδρα</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810309">Εισβολή χρυσαυγιτών στο νοσοκομείο
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810310">Πούλησε τα μανουάλια και την κολυμπήθρα
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810311">Εφοδοι σε πέντε υπουργεία για λουφαδόρους</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810312">Κακοδιοίκηση και φορολoγία στην κορυφή της λίστας</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810313">Σεισμός 4,9 R από άγνωστο ρήγμα
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810302">Τα παιδιά της κρίσης. Η φτώχεια δεν σβήνει το χαμόγελο
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810283">Χαμηλοί τόνοι, φωτογραφίες και... παγωμένα χαμόγελα
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810285">Με τελεσίγραφα η τρόικα
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810286">Ψήφος εμπιστοσύνης από κολοσσό των ΗΠΑ
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810288">Ο ΣΥΡΙΖΑ «ζυγίζει» τα νέα δεδομένα
+
+</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810289">Η έκθεση παραδόθηκε στο Νομικό Συμβούλιο του Κράτους</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810294">«Είχα ζητήσει εξονυχιστικό έλεγχο»</a></div><div class="ltitle"><span class="ldate">9:00 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810282">Ονόματα και διευθύνσεις επιόρκων</a></div><div class="ltitle"><span class="ldate">8:37 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810353">Τσίπρας: Υπάρχει ο κίνδυνος επιστροφής στη δραχμή</a></div><div class="ltitle"><span class="ldate">8:09 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810342">Πικάσο και Μπρακ δώρισε στο Metropolitan ο κληρονόμος της Estee Lauder</a></div><div class="ltitle"><span class="ldate">7:41 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810332">Save the Children: Παιδιά θύματα σεξουαλικής κακοποίησης στις εμπόλεμες ζώνες</a></div><div class="ltitle"><span class="ldate">7:33 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810328">Νέα ένταση από το πρωί στην Ιερισσό
+</a></div><div class="ltitle"><span class="ldate">23:39 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810267">Γυναίκα σπάει το «άβατο» της δικηγορίας στη Σαουδική Αραβία</a></div><div class="ltitle"><span class="ldate">23:33 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810266">Διαβεβαιώσεις Πέρες για τις «καλές σχέσεις» με την Κύπρο</a></div><div class="ltitle"><span class="ldate">22:27 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810264">Μανιακός επιτέθηκε με μαχαίρι σε κολέγιο του Τέξας</a></div><div class="ltitle"><span class="ldate">22:23 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810262">Κερδίζει τη μάχη ο 15χρονος από την Πάτρα</a></div><div class="ltitle"><span class="ldate">21:36 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810261">Ονομαστική ψηφοφορία λόγω της τροπολογίας για τα δάνεια των κομμάτων</a></div><div class="ltitle"><span class="ldate">21:06 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810258">Κατάκοιτος βρήκε φρικτό θάνατο από πυρκαγιά </a></div><div class="ltitle"><span class="ldate">20:57 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810249">Εορταστικό ωράριο από τις 24 Απριλίου</a></div><div class="ltitle"><span class="ldate">20:48 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810250">Βρούτσης και Ράιχενμπαχ ψάχνουν λύσεις για τους άνεργους</a></div><div class="ltitle"><span class="ldate">20:37 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810248">Σε αναζήτηση ιδιωτικών κεφαλαίων η Εθνική Τράπεζα</a></div><div class="ltitle"><span class="ldate">20:19 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810244">Νέα πρόταση από Νίμιτς για την ονομασία των Σκοπίων</a></div><div class="ltitle"><span class="ldate">20:12 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810243">ΥΠΟΙΚ: Δεν υπάρχουν ενστάσεις της τρόικας για το deal ΕΤΕ-Eurobank</a></div><div class="ltitle"><span class="ldate">19:56 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810239">Αποζημίωση-μαμούθ θα καταβάλλει το Δημόσιο σε καζίνο που δεν λειτούργησε ποτέ</a></div><div class="ltitle"><span class="ldate">19:48 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810236">Μοσκοβισί: Ανάπτυξη και μείωση ελλειμμάτων</a></div><div class="ltitle"><span class="ldate">19:39 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810235">ΚΚΕ: Δικαιολογία για απολύσεις στο Δημόσιο οι επίορκοι</a></div><div class="ltitle"><span class="ldate">19:32 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810231">ΣτΕ: Συνταγματική η επίταξη των εργαζομένων στο μετρό </a></div><div class="ltitle"><span class="ldate">19:30 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810232">Με αιχμές κατά του ΣΔΟΕ το υπόμνημα Παπανδρέου</a></div><div class="ltitle"><span class="ldate">18:47 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810225">EKT: Τρεις φορές πλουσιότεροι οι Κύπριοι από τους Γερμανούς</a></div><div class="ltitle"><span class="ldate">18:07 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810214">Saxo Bank: Χαμηλά τα επίπεδα ανάπτυξης το 2013</a></div><div class="ltitle"><span class="ldate">17:54 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810215">Υποχρεωτική η ανάρτηση αποδείξεων στον πίνακα κοινοχρήστων </a></div><div class="ltitle"><span class="ldate">17:13 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810194">Επίθεση ΝΔ σε ΣΥΡΙΖΑ για τις συγχωνεύσεις τραπεζών</a></div><div class="ltitle"><span class="ldate">17:13 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810195">Το διορισμό του υποδιοικητή της ΚΤΚ ανακάλεσε ο Αναστασιάδης</a></div><div class="ltitle"><span class="ldate">16:58 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810190">Συντριβή ελικοπτέρου - Νεκροί 2 Αμερικανοί στρατιωτικοί  </a></div><div class="ltitle"><span class="ldate">16:58 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810191">Κύπρος: Τον Ιούνιο η επιβεβαιωτική γεώτρηση της Noble</a></div><div class="ltitle"><span class="ldate">16:49 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810188">Προθεσμία έως 20 Απριλίου για καταργήσεις φορέων</a></div><div class="ltitle"><span class="ldate">16:37 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810186">Αναβλήθηκε η δίκη του Ράτκο Μπλάντιτς στη Χάγη </a></div><div class="ltitle"><span class="ldate">16:21 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810183">Ιταλία: Πακέτο με βόμβα στάλθηκε στην εφημερίδα «Λα Στάμπα» </a></div><div class="ltitle"><span class="ldate">16:13 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810179">Σημαντική πτώση στα έσοδα του προϋπολογισμού για τον Μάρτιο</a></div><div class="ltitle"><span class="ldate">16:02 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810175">ΕΕ: Σε λειτουργία το σύστημα Σένγκεν δεύτερης γενιάς</a></div><div class="ltitle"><span class="ldate">15:58 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810177">ΟΗΕ: Εκκληση για ηρεμία στη Βόρεια Κορέα</a></div><div class="ltitle"><span class="ldate">15:29 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810165">Ιράν: 30 νεκροί από σεισμό 6,3 Ρίχτερ</a></div><div class="ltitle"><span class="ldate">15:20 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810139">Ρεκόρ τουριστικών αφίξεων αναμένεται το καλοκαίρι</a></div><div class="ltitle"><span class="ldate">15:20 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810148">«Η Κύπρος δεν γλίτωσε την έξοδο από το ευρώ»</a></div><div class="ltitle"><span class="ldate">14:55 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810128">Σημάδια βελτίωσης για τον 15χρονο από την Πάτρα </a></div><div class="ltitle"><span class="ldate">14:37 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810117">Η «βασίλισσα» Θάτσερ πέθανε - Γκάφα καναλιού της Ταϊβάν</a></div><div class="ltitle"><span class="ldate">14:17 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810111">Νεαρός ποδοσφαιριστής και φίλος του νεκροί σε τροχαίο</a></div><div class="ltitle"><span class="ldate">14:16 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810109">Καμπάνια της Daily Mail για την Θάτσερ: «Της αξίζει μια καλύτερη κηδεία» </a></div><div class="ltitle"><span class="ldate">14:15 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810108">Ικανοποιημένη η Noble από τις έρευνες στην κυπριακή ΑΟΖ </a></div><div class="ltitle"><span class="ldate">14:11 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22767&subid=2&pubid=63810106">Χρυσή Αυγή: Κακοστημένη παρωδία οι δήθεν διαπραγματεύσεις</a></div><div class="ltitle"><span class="ldate">14:07 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22768&subid=2&pubid=63810102">Δεμένα τα πλοία στις 16 Απριλίου</a></div><div class="ltitle"><span class="ldate">14:01 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22770&subid=2&pubid=63810093">Κύπρος: 6.000 καταθέτες απέσυραν εκατομμύρια ευρώ</a></div><div class="ltitle"><span class="ldate">13:55 <!-- - % MEDIA.NAME % --></span> <a href="article.asp?catid=22769&subid=2&pubid=63810088">Μπερσάνι: Σε ξέρω, Μπερλουσκόνι...μασκαράκο</a></div></div>
+</div><!-- 100 NEWS SPONSOR/ -->
+</div></div><script>addPrototypeElement('28582_19','NEWS','incl/100newse_28582.asp','pageid=639&catid=22768&subid=2&catidlocal=28042&subidlocal=2',false,'');</script>
+
+</div><div class="clear"></div>
+
+<div class="tabsbot"></div><script language='javascript' type='text/javascript'>setInitialTipEnvironment('bubbleSpan','tipDiv',100,350,'<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top" class="tipContainer"><div class="advContent">','</div></td><td width="10" class="rightSide"> </td></tr><tr><td height="10" class="bottomSide" align="center"><img src="js/contextual/images/arrow.png" class="arrow"></td><td height="10" class="bottomRight"></td></tr></table>')</script></div>
+    <div class="rightcol"><div class="tabakia" id="accordion">
+<h1 class="tt" ><div  >ΤΑ ΠΙΟ ΔΗΜΟΦΙΛΗ</div></h1>
+<div class="tabdiv"><h2><a href="article.asp?catid=22768&subid=2&pubid=63810328">Νέα ένταση από το πρωί στην Ιερισσό
+</a> <span class="more">[ 07:33 10/4 ]</span></h2><h2><a href="article.asp?catid=22769&subid=2&pubid=63810297">Η Θάτσερ που δεν γνωρίσαμε</a> <span class="more">[ «E» 10/4 ]</span></h2><h2><a href="article.asp?catid=22769&subid=2&pubid=63810040">WikiLeaks: Μυστική συνάντηση Ετζεβίτ - αμερικανού πρέσβη πριν από τον Αττίλα</a> <span class="more">[ 12:40 9/4 ]</span></h2><h2><a href="article.asp?catid=22768&subid=2&pubid=63810311">Εφοδοι σε πέντε υπουργεία για λουφαδόρους</a> <span class="more">[ «E» 10/4 ]</span></h2><h2><a href="article.asp?catid=22768&subid=2&pubid=63810239">Αποζημίωση-μαμούθ θα καταβάλλει το Δημόσιο σε καζίνο που δεν λειτούργησε ποτέ</a> <span class="more">[ 19:56 9/4 ]</span></h2></div>
+
+<h1 class="tt" ><div  >ΤΕΛΕΥΤΑΙΑ ΝΕΑ - ΠΟΛΙΤΙΚΗ</div></h1>
+<div class="tabdiv"><h2><a href="article.asp?catid=22767&subid=2&pubid=63810435">Δένδιας: Αν το ένταλμα εκτελούνταν χθες, θα γινόταν μακελειό</a> <span class="more">[ 10:36 10/4 ]</span></h2><h2><a href="article.asp?catid=22767&subid=2&pubid=63810375">Μια αγκαλιά για τα... μάτια του κόσμου!</a> <span class="more">[ 09:07 10/4 ]</span></h2><h2><a href="summary.asp?catid=23141&subid=2&pubid=63810290">Στα άδυτα του Περισσού!
+
+</a> <span class="more">[ «E» 10/4 ]</span></h2><h2><a href="summary.asp?catid=22815&subid=2&pubid=63810292">Του Πάνου Μαραγκού</a> <span class="more">[ «E» 10/4 ]</span></h2><h2><a href="summary.asp?catid=22815&subid=2&pubid=63810291">Του Γιάννη Ιωάννου</a> <span class="more">[ «E» 10/4 ]</span></h2></div>
+
+<h1 class="tt" ><div  >ΤΕΛΕΥΤΑΙΑ ΝΕΑ - OIKONOMIA</div></h1>
+<div class="tabdiv"><h2><a href="article.asp?catid=22770&subid=2&pubid=63810479">ΟΓΑ: Οροι - προϋποθέσεις για συνταξιοδότηση ανασφάλιστων υπερηλίκων</a> <span class="more">[ 11:29 10/4 ]</span></h2><h2><a href="article.asp?catid=22770&subid=2&pubid=63810458">Παράταση έως 30 Απριλίου για εκκαθαριστικές δηλώσεις ΦΠΑ</a> <span class="more">[ 11:13 10/4 ]</span></h2><h2><a href="article.asp?catid=22770&subid=2&pubid=63810452">Νοβότνι: Δεν είμαι βέβαιος ότι η Ευρώπη θα βγει ισχυρότερη από την κρίση</a> <span class="more">[ 11:02 10/4 ]</span></h2><h2><a href="article.asp?catid=22770&subid=2&pubid=63810438">Κύπρος: Σφίγγει ο κλοιός για τον διοικητή της Κεντρικής Τράπεζας </a> <span class="more">[ 10:43 10/4 ]</span></h2><h2><a href="article.asp?catid=22770&subid=2&pubid=63810436">Προβόπουλος: Ανακεφαλαιοποίηση και επιστροφή καταθέσεων θα τονώσουν την οικονομία  </a> <span class="more">[ 10:37 10/4 ]</span></h2></div>
+
+<h1 class="tt" ><div  >ΤΕΛΕΥΤΑΙΑ ΝΕΑ - ΔΙΕΘΝΗ</div></h1>
+<div class="tabdiv"><h2><a href="article.asp?catid=22769&subid=2&pubid=63810456">Κίνα: Εννέα νεκροί από τη νέα γρίπη των πτηνών </a> <span class="more">[ 11:10 10/4 ]</span></h2><h2><a href="article.asp?catid=22769&subid=2&pubid=63810448">Επιστρέφει στην πολιτική η Τσιτσιολίνα</a> <span class="more">[ 11:08 10/4 ]</span></h2><h2><a href="article.asp?catid=22769&subid=2&pubid=63810447">Μουσείο το γραφείο του Τσάβες </a> <span class="more">[ 10:53 10/4 ]</span></h2><h2><a href="article.asp?catid=22769&subid=2&pubid=63810426">Η Ν. Κορέα αύξησε το επίπεδο συναγερμού
+</a> <span class="more">[ 10:21 10/4 ]</span></h2><h2><a href="article.asp?catid=22769&subid=2&pubid=63810415">Σε δημοπρασία ποίημα του Ουίνστον Τσώρτσιλ</a> <span class="more">[ 09:32 10/4 ]</span></h2></div>
+
+<h1 class="tt" ><div  >ΕΘΝΟΣΠΟΡ</div></h1>
+<div class="tabdiv"><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=129350061" target="_blank">Εχει τη σπίθα να ανάψει τη φωτιά</a> <span class="more">[ 07:21 10/4 ]</span></h2><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=129350203" target="_blank">Στο τέλος κερδίζουν οι Γερμανοί...
+
+</a> <span class="more">[ 10:03 10/4 ]</span></h2><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=129350221" target="_blank">Περιμένοντας ΠΑΟ και Τζόναθαν</a> <span class="more">[ 10:03 10/4 ]</span></h2><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=129350233" target="_blank">Σισοκό: Ζήτησε συγνώμη και δηλώνει έτοιμος για το Φάληρο
+
+</a> <span class="more">[ 10:03 10/4 ]</span></h2><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=129350174" target="_blank">Βιντιάδης... Σιγκαπούρης</a> <span class="more">[ 10:03 10/4 ]</span></h2></div>
+
+
+</div>
+<script>
+	
+jQuery('#accordion').accordion({ header: 'h1',selectedClass:'active',autoheight:true});
+</script><div class="tabakia"><h1 class="active"><a href="http://www.imerisia.gr">imerisia.gr | ΕΠΙΛΟΓΗ</a></h1>
+<div class="scrollingdiv">
+<h2><a href="http://www.imerisia.gr/r.asp?catid=27734&subid=2&pubid=113024570">Νέες αντικειμενικές ακινήτων: Πού αυξάνονται και πού μειώνονται
+
+</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">"Η" 10/4</span></h2><h2><a href="http://www.imerisia.gr/r.asp?catid=27734&subid=2&pubid=113024545">Reuters: Ασφαλείς τώρα οι καταθέσεις στην Ελλάδα. Πότε μπορεί να γίνει "κούρεμα"  </a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">"Η" Online 9/4 22:34</span></h2><h2><a href="http://www.imerisia.gr/r.asp?catid=27734&subid=2&pubid=113024101">Απομακρύνονται 7.000 δημόσιοι υπάλληλοι φέτος</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">"Η" Online 9/4 20:47</span></h2><h2><a href="http://www.imerisia.gr/r.asp?catid=27734&subid=2&pubid=113024502">Πώς θα γίνει η πώληση του Σκορπιού στο Ρώσο μεγιστάνα</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">"Η" Online 10/4 09:38</span></h2><h2><a href="http://www.imerisia.gr/r.asp?catid=27734&subid=2&pubid=113024472">Με ατομικές συμβάσεις 1.200.000 εργαζόμενοι
+
+</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">"Η" 10/4</span></h2><h2><a href="http://www.imerisia.gr/r.asp?catid=27734&subid=2&pubid=113024108">Εκαναν λάθος νεκρό και τον έστειλαν για ταφή στην Αλβανία!</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">"Η" Online 9/4 21:14</span></h2><h2><a href="http://www.imerisia.gr/r.asp?catid=27734&subid=2&pubid=113024151">Αγκελα Μέρκελ: Φωτογραφία - σοκ από τη φυλάκιση σε στρατόπεδο συγκέντρωσης</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">"Η" Online 9/4 23:46</span></h2><h2><a href="http://www.imerisia.gr/r.asp?catid=27734&subid=2&pubid=113023824">Τι αλλάζει στον τραπεζικό χάρτη της χώρας μετά το ναυάγιο της συγχώνευσης
+
+</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">"Η" 9/4</span></h2>
+</div>
+</div>
+
+
+<div class="tabakia"><h1 class="active"><a href="http://www.elle.gr">elle.gr | ΕΠΙΛΟΓΗ</a></h1>
+<div class="scrollingdiv">
+<h2><a href="http://www.elle.gr/r.asp?catid=24964&subid=2&pubid=129349653">Κίτρινο: Το χρώμα που λατρεύει φέτος η μόδα! </a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">elle.gr</span></h2><h2><a href="http://www.elle.gr/r.asp?catid=24964&subid=2&pubid=129349658">Τα πιο μοντέρνα βερνίκια νυχιών της άνοιξης</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">elle.gr</span></h2><h2><a href="http://www.elle.gr/r.asp?catid=24964&subid=2&pubid=129349661">Μέντα: Βάζει... φωτιά στο μεταβολισμό</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">elle.gr</span></h2><h2><a href="http://www.elle.gr/r.asp?catid=24964&subid=2&pubid=129337576">Ελιξίρια ομορφιάς για υπέροχα μαλλιά</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">elle.gr</span></h2><h2><a href="http://www.elle.gr/r.asp?catid=24964&subid=2&pubid=129348521">Μπλε μακιγιάζ για κορίτσια που αγαπούν τη θάλασσα </a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">elle.gr</span></h2><h2><a href="http://www.elle.gr/r.asp?catid=24964&subid=2&pubid=129348522">Αξεσουάρ έργα-τέχνης: Όταν η μόδα δημιουργεί γλυπτά</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">elle.gr</span></h2><h2><a href="http://www.elle.gr/r.asp?catid=24964&subid=2&pubid=129349663">Μια ονειρεμένη αγροικία στην ιταλική εξοχή</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">elle.gr</span></h2><h2><a href="http://www.elle.gr/r.asp?catid=24964&subid=2&pubid=129348523">Τα νέα It shoes των celebrities
+</a><img src="images/hasnotvideo.gif" border="0"/> <span class="more">elle.gr</span></h2>
+</div>
+</div><div class="banner300250"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=33&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=33&dfl=yes&js=no" border="0" width="300" height="250" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|33/300x250"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div><div class="banbottom"></div><script type="text/javascript">
+
+/*** 
+    Simple jQuery Slideshow Script
+    Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :)
+***/
+
+function slideSwitch() {
+    var $active = $('#promoshow li.active');
+
+    if ( $active.length == 0 ) $active = $('#promoshow li:last');
+
+    // use this to pull the images in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next()
+        : $('#promoshow li:first');
+
+    // uncomment the 3 lines below to pull the images in random order
+    
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+$(function() {
+    setInterval( "slideSwitch()", 22000 );
+});
+
+</script>
+
+
+<style type="text/css">
+#promoshow {
+  background: url("images/divider_lines.gif") repeat-x scroll center bottom transparent;
+  margin: 0 0 15px;
+  min-height: 180px;
+  padding: 0 0 25px;
+  position: relative;
+  width: 300px;
+}
+
+#promoshow li {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    list-style: none;
+    opacity:0.0;
+}
+
+#promoshow li.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#promoshow li.last-active {
+    z-index:9;
+}
+
+</style>
+<div id="promoshow"><li class="active"><script type="text/javascript">if (typeof multimediawrite!="undefined") {multimediawrite('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/WednesdayToday1004_id28594722.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/WednesdayToday1004_id28594722.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>'); } else { document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/WednesdayToday1004_id28594722.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/WednesdayToday1004_id28594722.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>');};</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/WednesdayToday1004_id28594722.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/WednesdayToday1004_id28594722.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object></noscript></li>
+</div><div class="viewsbox">
+<h3><a href="summary.asp?catid=22782">ΑΡΘΡΟΓΡΑΦΙΑ</a></h3>
+<div id="rightviews"><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22786"><a href="article.asp?catid=22786&subid=2&pubid=63810276"><img src="images/titles/gnomi.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=22786&subid=2&pubid=63810276">ΕΘΝΟΣ ΓΝΩΜΗ</a></h2><h1><a href="article.asp?catid=22786&subid=2&pubid=63810276">Πίσω από τους αριθμούς
+
+</a> <span class="more">[ «E» 10/4 ]<a href="article.asp?catid=22786&subid=2&pubid=63810276">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=28243"><a href="article.asp?catid=28243&subid=2&pubid=63810386"><img src="images/titles/kapsis.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=28243&subid=2&pubid=63810386">ΠΑΝΤΕΛΗΣ ΚΑΨΗΣ</a></h2><h1><a href="article.asp?catid=28243&subid=2&pubid=63810386">Επαγγελματικός εξοστρακισμός!
+
+</a> <span class="more">[ «E» 10/4 ]<a href="article.asp?catid=28243&subid=2&pubid=63810386">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22790"><a href="article.asp?catid=22790&subid=2&pubid=63810278"><img src="images/titles/bartzino.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=22790&subid=2&pubid=63810278">ΕΡΡΙΚΟΣ ΜΠΑΡΤΖΙΝΟΠΟΥΛΟΣ</a></h2><h1><a href="article.asp?catid=22790&subid=2&pubid=63810278">Εσοδα και ρυθμίσεις</a> <span class="more">[ «E» 10/4 ]<a href="article.asp?catid=22790&subid=2&pubid=63810278">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22791"><a href="article.asp?catid=22791&subid=2&pubid=63810277"><img src="images/titles/panpan.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=22791&subid=2&pubid=63810277">ΠΑΝΑΓΙΩΤΗΣ ΠΑΝΑΓΙΩΤΟΥ</a></h2><h1><a href="article.asp?catid=22791&subid=2&pubid=63810277">Υπάρχει κίνδυνος «κουρέματος»;</a> <span class="more">[ «E» 10/4 ]<a href="article.asp?catid=22791&subid=2&pubid=63810277">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22792"><a href="article.asp?catid=22792&subid=2&pubid=63810279"><img src="images/titles/apopsis-delastik.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=22792&subid=2&pubid=63810279">ΓΙΩΡΓΟΣ ΔΕΛΑΣΤΙΚ</a></h2><h1><a href="article.asp?catid=22792&subid=2&pubid=63810279">Διχάζει τις ελίτ της Πορτογαλίας αυτό το Μνημόνιο
+
+</a> <span class="more">[ «E» 10/4 ]<a href="article.asp?catid=22792&subid=2&pubid=63810279">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22793"><a href="article.asp?catid=22793&subid=2&pubid=63806162"><img src="images/titles/apopsis-lirtsogiannis.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=22793&subid=2&pubid=63806162">ΘΑΝΑΣΗΣ ΛΥΡΤΣΟΓΙΑΝΝΗΣ</a></h2><h1><a href="article.asp?catid=22793&subid=2&pubid=63806162">Casus belli οι απαιτήσεις της τρόικας για Εθνική και Eurobank</a> <span class="more">[ «E» 2/4 ]<a href="article.asp?catid=22793&subid=2&pubid=63806162">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22788"><a href="article.asp?catid=22788&subid=2&pubid=63810280"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20121219/engine/assets_LARGE_t_240761_54144197_type12558.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=22788&subid=2&pubid=63810280">ΕΠΩΝΥΜΩΣ</a></h2><h1><a href="article.asp?catid=22788&subid=2&pubid=63810280">Ολα ίδια και απαράλλακτα!...</a> <span class="more">[ «E» 10/4 ]<a href="article.asp?catid=22788&subid=2&pubid=63810280">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=24634"><a href="article.asp?catid=24634&subid=2&pubid=63808964"><img src="images/titles/apopsis-lampsias.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=24634&subid=2&pubid=63808964">ΠΑΝΑΓΙΩΤΗΣ ΛΑΜΨΙΑΣ</a></h2><h1><a href="article.asp?catid=24634&subid=2&pubid=63808964">Η αισιοδοξία ως επιλογή θα επιβραβεύσει τους τολμηρούς
+
+</a> <span class="more">[ «E» 7/4 ]<a href="article.asp?catid=24634&subid=2&pubid=63808964">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=24762"><a href="article.asp?catid=24762&subid=2&pubid=63808969"><img src="images/titles/apopsis-ignatiou.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=24762&subid=2&pubid=63808969">ΜΙΧΑΛΗΣ ΙΓΝΑΤΙΟΥ</a></h2><h1><a href="article.asp?catid=24762&subid=2&pubid=63808969">Κάθαρση από αδιάφθορους δικαστές</a> <span class="more">[ «E» 7/4 ]<a href="article.asp?catid=24762&subid=2&pubid=63808969">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=23779"><a href="article.asp?catid=23779&subid=2&pubid=63789620"><img src="images/titles/apopsis-maxairas.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=23779&subid=2&pubid=63789620">ΧΡΗΣΤΟΣ ΜΑΧΑΙΡΑΣ</a></h2><h1><a href="article.asp?catid=23779&subid=2&pubid=63789620">Να μη χαρίσουμε μια γενιά στο χάος</a> <span class="more">[ forum ]<a href="article.asp?catid=23779&subid=2&pubid=63789620">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=28415"><a href="article.asp?catid=28415&subid=2&pubid=63808747"><img src="images/titles/meletis.jpg" border="0" /></a></a></td><td><h2><a href="article.asp?catid=28415&subid=2&pubid=63808747">ΝΙΚΟΣ ΜΕΛΕΤΗΣ</a></h2><h1><a href="article.asp?catid=28415&subid=2&pubid=63808747">Ο έρωτας περνάει απ’ τα συμφέροντα</a> <span class="more">[ forum ]<a href="article.asp?catid=28415&subid=2&pubid=63808747">...»</a></span></h1></td></tr></table></div>
+</div><div class="clear"></div>
+
+<table cellpadding=0 cellspacing=0 class="advright" border="0">
+
+<tr><td colspan="2"><h3>ΠΡΟΤΑΣΕΙΣ</h3><!-- img src="images/advs_right.jpg"--></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td valign="middle"><div class="protaseis"><center><div class="advl"><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D23471%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Edealmyday%252Egr%252Fdiagonismos%252Ephp%253Futm%255Fsource%253Dethnos%2526utm%255Fmedium%253Dtextlink%2526utm%255Fterm%253Dcontest%2526utm%255Fcampaign%253Ddealmyday%26npubid%3D3228739'));"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20130402/low/pegasus_LARGE_t_2040_54183564.JPG" border="0"></a></div> </center><div class="advr"><h1><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D23471%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Edealmyday%252Egr%252Fdiagonismos%252Ephp%253Futm%255Fsource%253Dethnos%2526utm%255Fmedium%253Dtextlink%2526utm%255Fterm%253Dcontest%2526utm%255Fcampaign%253Ddealmyday%26npubid%3D3228739'));"></a></h1><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D23471%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Edealmyday%252Egr%252Fdiagonismos%252Ephp%253Futm%255Fsource%253Dethnos%2526utm%255Fmedium%253Dtextlink%2526utm%255Fterm%253Dcontest%2526utm%255Fcampaign%253Ddealmyday%26npubid%3D3228739'));"><center> 	<b>Deal my Day:</b> Κάντε τις αγορές σας και μπείτε δωρεάν στην κλήρωση για να κερδίσετε πλούσια δώρα!</center></a><h2><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D23471%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fwww%252Edealmyday%252Egr%252Fdiagonismos%252Ephp%253Futm%255Fsource%253Dethnos%2526utm%255Fmedium%253Dtextlink%2526utm%255Fterm%253Dcontest%2526utm%255Fcampaign%253Ddealmyday%26npubid%3D3228739'));"></a></h2></div><div class="clear"></div></div><div class="protaseisbot"></div></td></tr>
+<tr><td colspan="2"><br/>
+<center>
+<iframe src="http://www.e-go.gr/v5egofeediframe.asp?catid=23934&subid=1" width="300" height="420" frameborder="0" scrolling="no"></iframe>
+</center><div style="margin:10px 0;"><link rel="stylesheet" type="text/css" href="ethnosadstyles300.css" />
+<script language="JavaScript">
+var google_adnum = 0;
+function google_ad_request_done(google_ads) {
+var s = '';
+var i;
+if (google_ads.length == 0) {
+return;
+}
+if (google_ads[0].type == "flash") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' + 
+'<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' + 
+google_ad.image_width +	'" HEIGHT="' + 
+google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' + 
+google_ad.image_url + '">' + 
+'<PARAM NAME="quality" VALUE="high">' + 
+'<PARAM NAME="AllowScriptAccess" VALUE="never">' + 
+'<EMBED src="' + 
+google_ad.image_url + '" WIDTH="' + 
+google_ad.image_width + '" HEIGHT="' + 
+google_ad.image_height + 
+'" TYPE="application/x-shockwave-flash"' + 
+' AllowScriptAccess="never" ' + 
+' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+} else if (google_ads[0].type == "image") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br> <a href="' + 
+google_ads[0].url + '" target="_top" title="go to ' + 
+google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + 
+google_ads[0].visible_url + '\';return true"><img border="0" src="' + 
+google_ads[0].image_url + '"width="' + 
+google_ads[0].image_width + '"height="' + 
+google_ads[0].image_height + '"></a>';
+} else if (google_ads[0].type == "html") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Διαφημίσεις Google</a><br>' + 
+google_ads[0].snippet;
+} else {
+if (google_ads.length > 1) {
+s += "<table id=\"ga_ethnosgads\" cellspacing=\"0\" cellpadding=\"0\">"; 
+s += "  <tr>";
+s += "    <td id=\"ga_head\">";
+s += '<a href=\"' + google_info.feedback_url + '\">Διαφημίσεις Google</a>'
+s += " <\/td>";
+s += " <\/tr>";
+s += " <tr>";
+s += " <td>";
+for(i = 0; i < google_ads.length; ++i) {
+s += '<br><a id=\"ga_title\" target="_blank" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to '+
+google_ads[i].visible_url + '\';return true"> <span>' + 
+google_ads[i].line1 + '</span></a> <br><span>' +
+google_ads[i].line2 + '</span><br/> <a id=\"ga_adlink\" target="_blank" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true"><span>' + 
+google_ads[i].visible_url + '</span></a>';
+}
+s += " <\/td>";
+s += " <\/tr>";
+s += " <\/table>";
+}}
+if (google_ads[0].bidtype == "CPC") {
+google_adnum = google_adnum + google_ads.length;
+}
+document.write(s);
+return;
+}
+google_ad_client = 'pub-9628004899418467';
+google_ad_channel = '2746532400';
+google_ad_output = 'js';
+google_max_num_ads = '4';
+google_ad_type = 'text';
+google_feedback = 'on';
+google_encoding = 'UTF-8';
+google_adtest = 'off';
+google_language = 'el';
+</script>
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<!-- YO GADS --></div></td></tr>
+</table><div class="clear"></div><!--THE SI 7/-->
+
+<div class="ban300250"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=1043&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=1043&dfl=yes&js=no" border="0" width="300" height="250" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|1043/300x250"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div><div class="newsletter">
+<input value="Εισάγετε εδώ το mail σας" class="nlinput" />
+<img src="images/signupr.gif" class="subnl" border="0" />
+<div class="registin">Αν είστε ήδη εγγεγραμμένοι κάντε κλικ <a href="r.asp?catid=23640">εδώ</a></div>
+<div class="clear"></div>
+</div><script>
+$(document).ready(function() {
+ 
+   $('.nlinput').focus(function() {
+      $(this).val("");
+   })
+   $('.subnl').click(function() {
+      var con = $('.nlinput').val();
+      if( ( con != "Εισάγετε εδώ το mail σας") && (con !="") ){
+          document.location.href = "r.asp?catid=23637&mreg=" + con;
+      }
+   })
+})
+</script>
+
+</div>
+    <div class="wline"></div>
+</div>
+<table cellspacing="0" cellpadding="0" border="0" valign="top">
+    <tr>
+        <td>
+            <script language=JavaScript>
+                cookie_rnd = Math.floor(Math.random() * 900000000000) + 100000000000;
+                cookie_url = 'http://stats.e-go.gr/?nWebSrvID=100230&nCatID=22768&nStampRightID=&nLevelid=2&nPubID=63599740&nServID=' + '&nocache=' + cookie_rnd;
+                document.write('<img src="' + cookie_url + '" border=0 width=1 height=1>');
+            </script>
+        </td>
+        </td>
+</table><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct="UA-1074537-2";
+urchinTracker();
+</script>
+<div class="footer"><div class="footermenu">
+<ul><li><h1><a href="summary.asp?catid=28042">ΝΕΑ ΣΕ 10"</a></h1></li><li><h1><a href="summary.asp?catid=22767">ΠΟΛΙΤΙΚΗ</a></h1></li><li><h1><a href="summary.asp?catid=22768">ΚΟΙΝΩΝΙΑ</a></h1></li><li><h1><a href="summary.asp?catid=22770">ΟΙΚΟΝΟΜΙΑ</a></h1></li><li><h1><a href="summary.asp?catid=22769">ΔΙΕΘΝΗ</a></h1></li><li><h1><a href="summary.asp?catid=23106">ΠΕΡΙΒΑΛΛΟΝ</a></h1></li><li><h1><a href="summary.asp?catid=22782">ΑΡΘΡΟΓΡΑΦΙΑ</a></h1></li><li><h1><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140">ΕΘΝΟΣΠΟΡ</a></h1></li><li><h1><a href="summary3.asp?catid=22784">ΠΟΛΙΤΙΣΜΟΣ</a></h1></li><li><h1><a href="entheta.asp?catid=23555">ΕΝΘΕΤΑ</a></h1></li><li><h1><a href="summary.asp?catid=23657">ΧΡΗΣΙΜΑ</a></h1></li><li><h1><a href="article.asp?catid=23427">ΕΠΙΚΟΙΝΩΝΙΑ</a></h1></li><li><h1><a href="article.asp?catid=23636">ΠΡΟΣΦΟΡΕΣ</a></h1></li><li><h1><a href="http://stats.e-go.gr/rx.asp?nWebSrvID=100230&nCatID=23425&nLevelId=-20&target=mailto%3Aadvertising%40pegasusinteractive%2Egr">ΔΙΑΦΗΜΙΣΗ</a></h1></li></ul>
+</div>
+ΑΠΑΓΟΡΕΥΕΤΑΙ η αναδημοσίευση, η αναπαραγωγή, ολική, μερική ή περιληπτική ή κατά παράφραση ή διασκευή απόδοση του περιεχομένου του παρόντος web site με οποιονδήποτε τρόπο, ηλεκτρονικό, μηχανικό, φωτοτυπικό, ηχογράφησης ή άλλο, χωρίς προηγούμενη γραπτή άδεια του εκδότη. Νόμος 2121/1993 και κανόνες Διεθνούς Δικαίου που ισχύουν στην Ελλάδα.  Copyright © 2011 ΕΚΔΟΣΕΙΣ ΕΘΝΟΣ Α.Ε. 
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+ var pvar = { cid: "gr-pegasus", content: "0", server: "secure-uk" };
+ var feat = { surveys_enabled: 1, sample_rate: 0.05 };
+ var trac = nol_t(pvar, feat);
+ var _rsND = trac.getSchemeHost(); // For compatibility with v53 surveys
+ var _rsCI = "gr-pegasus"; // For compatibility with v53 surveys
+ trac.record().post().do_sample();
+</script>
+<noscript>
+ <div>
+ <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=gr-pegasus&cg=0&cc=1&ts=noscript"
+ width="1" height="1" alt="" />
+ </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+
+<div class="clear"></div><center>
+<div class="footer2">
+<img src="images/footer/network.gif" border="0" width="980" height="49" />
+<div class="clear"></div>
+<div class="toplinks1">
+<div class="toplogo"><a href="http://www.elle.gr" target="_blank"><img src="images/footer/elle_big.gif" border="0" /></a></div>
+<ul>
+<li><a href="http://www.elle.gr/summarytwo.asp?catid=24048" target="_blank">Μόδα</a>, 
+<a href="http://www.elle.gr/summarytwo.asp?catid=24053" target="_blank" />Ομορφιά</a>, 
+<a href="http://www.elle.gr/summarytwo.asp?catid=24049" target="_blank" />Υπέροχο Κορμί</a>.</li>
+<li><a href="http://www.elle.gr/summarytwo.asp?catid=24057" target="_blank">Κουζίνα</a>,
+<a href="http://www.elle.gr/summarytwo.asp?catid=24056" target="_blank" />Elle Deco</a>.</li>
+<li><a href="http://www.elle.gr/summarytwo.asp?catid=25237" target="_blank" />Διαγωνισμοί</a>.</li>
+<li class="more"><a href="http://www.elle.gr" target="_blank">Περισσότερα στο www.elle.gr</a></li>
+</ul>
+</div>
+
+<div class="toplinks1">
+<div class="toplogo"><a href="http://www.imerisia.gr" target="_blank"><img src="images/footer/imerisia.gif" border="0" /></a></div>
+<ul>
+<li>Ειδησεογραφία: <a href="http://www.imerisia.gr/summary.asp?catid=26516" target="_blank">Οικονομία</a> & <a href="http://www.imerisia.gr/quotes.asp?catid=26538" target="_blank">Αγορές</a>.</li>
+<li><a href="http://www.imerisia.gr/summary.asp?catid=26519" target="_blank">Ελληνικές</a> & 
+<a href="http://www.imerisia.gr/summary.asp?catid=26520" target="_blank">Ξένες επιχειρήσεις</a>.</li>
+<li><a href="http://www.imerisia.gr/quotes.asp?catid=26541" target="_blank">Μετοχές</a>, 
+<a href="http://www.imerisia.gr/summary.asp?catid=26502" target="_blank">Χρηματιστήριο</a>, <a href="http://www.imerisia.gr/summary.asp?catid=26501" target="_blank">Απόψεις</a>.</li>
+<li class="more"><a href="http://www.imerisia.gr" target="_blank">Περισσότερα στο www.imerisia.gr</a></li>
+</ul>
+</div>
+
+<div class="toplinks1">
+<div class="toplogo"><a href="http://www.sentragoal.gr" target="_blank"><img src="images/footer/sentragoal.gif" border="0" /></a></div>
+<ul>
+<li>Ποδόσφαιρο: <a href="http://www.sentragoal.gr/summary.asp?catid=10475" target="_blank">Ελλάδα</a> & 
+<a href="http://www.sentragoal.gr/summary.asp?catid=10520" target="_blank">Διεθνή</a>.</li>
+<li><a href="http://www.sentragoal.gr/summary.asp?catid=10511" target="_blank">Μπάσκετ</a>, 
+<a href="http://www.sentragoal.gr/summary.asp?catid=10550" target="_blank">Βόλεϊ</a> και 
+<a href="http://www.sentragoal.gr/summary.asp?catid=10476" target="_blank">άλλα σπορ</a>.</li>
+<li><a href="http://www.dailybet.gr" target="_blank">DailyBet</a> & <a href="http://www.sentragoal.gr/summary.asp?catid=16606" target="_blank">Παρασκήνια</a>.</li>
+<li class="more"><a href="http://www.sentragoal.gr" target="_blank">Περισσότερα στο www.sentragoal.gr</a></li>
+</ul>
+</div>
+
+<div class="toplinks2">
+<div class="toplogo"><a href="http://www.e-go.gr" target="_blank"><img src="images/footer/e-go.gif" border="0" /></a></div>
+<ul>
+<li><a href="http://www.e-go.gr/news/default.asp" target="_blank">Ειδήσεις</a> για την 
+<a href="http://www.e-go.gr/news/summary.asp?catid=17826" target="_blank">Ελλάδα</a> και τον 
+<a href="http://www.e-go.gr/news/summary.asp?catid=17827" target="_blank">κόσμο</a>.</li>
+<li><a href="http://www.e-go.gr/timeouthome" target="_blank">Ενημέρωση & Ψυχαγωγία</a>.</li>
+<li><a href="http://www.womenonly.gr" target="_blank">Lifestyle</a>, 
+<a href="http://www.womenonly.gr/summary.asp?catid=15298&tag=10800" target="_blank">μόδα</a>, <a href="" target="_blank">ομορφιά</a>, 
+<a href=""http://www.womenonly.gr/summary.asp?catid=13388&tag=9927 target="_blank">αστρολογία</a>.</li>
+<li class="more"><a href="http://www.e-go.gr" target="_blank">Περισσότερα στο www.e-go.gr</a></li>
+</ul>
+</div>
+
+<div class="clear"></div>
+
+<div class="footerlogos">
+<ul>
+<li><a href="http://www.cinemag.gr" target="_blank"><img src="images/footer/cinema.gif" border="0" /></a></li>
+<li><a href="http://www.e-go.gr/idanikospiti" target="_blank"><img src="images/footer/idanikospiti.gif" border="0" /></a></li>
+<li><a href="http://www.sporty.gr" target="_blank"><img src="images/footer/sporty.gif" border="0" /></a></li>
+<li><a href="http://www.womenonly.gr/summary.asp?catid=13388&tag=9927" target="_blank"><img src="images/footer/astraorama.gif" border="0" /></a></li>
+<li><a href="http://www.e-go.gr/wmotors" target="_blank"><img src="images/footer/wmotors.gif" border="0" /></a></li>
+<li><a href="http://www.womenonly.gr" target="_blank"><img src="images/footer/womenonly.gif" border="0" /></a></li>
+<li><a href="http://www.elle.gr" target="_blank"><img src="images/footer/elle.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/ethnosport" target="_blank"><img src="images/footer/ethnosport.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23508"><img src="images/footer/tvethnos.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22820"><img src="images/footer/kynigi.gif" border="0" /></a></li>
+</ul>
+<div class="clear"></div>
+<ul class="enthetalogos">
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23958"><img src="images/footer/cook.gif" border="0" /></a></li>
+<li><a href="http://www.dealmyday.gr"><img src="images/footer/DealmyDay.jpg" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23513"><img src="images/footer/taxidi.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23343"><img src="images/footer/syntaxeis.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23353"><img src="images/footer/efkairies.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22813"><img src="images/footer/ergasia.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22814"><img src="images/footer/paideia.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=24300"><img src="images/footer/ygeia.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22821"><img src="images/footer/psarema.gif" border="0" /></a></li>
+</ul>
+</div>
+</div>
+
+</center></div>
+</div>
+</center>
+<div class="minibannsumm"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=1320&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=1320&dfl=yes&js=no" border="0" width="120" height="600" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|1320/120x600"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div><div class="minibannart"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=1217&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=1217&dfl=yes&js=no" border="0" width="120" height="600" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|1217/120x600"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div>
+</body>
+</html> 

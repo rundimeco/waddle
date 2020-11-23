@@ -1,0 +1,2378 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="application-name" content="Times LIVE" />
+        <meta name="msapplication-tooltip" content="TimesLIVE.co.za" />
+        <meta name="msapplication-window" content="width=1024;height=768" />
+        <meta name="msapplication-task" content="name=SA News;action-uri=./news;icon-uri=http://www.timeslive.co.za/template/common/images/favicon64.ico" />
+        <meta name="msapplication-task" content="name=Politics;action-uri=./politics;icon-uri=http://www.timeslive.co.za/template/common/images/favicon64.ico" />
+        <meta name="msapplication-task" content="name=Sport;action-uri=./sport;icon-uri=http://www.timeslive.co.za/template/common/images/favicon64.ico" />
+        <meta name="msapplication-task" content="name=iLIVE;action-uri=./iLive;icon-uri=http://www.timeslive.co.za/template/common/images/favicon64.ico" />
+        <meta name="msapplication-navbutton-color" content="#FF3300" />
+        <meta name="msapplication-starturl" content="./" />
+	
+		<meta property="og:image" content="http://www.timeslive.co.za/incoming/2012/01/17/200265137-001.jpg/ALTERNATES/crop_80x80/200265137-001.jpg"/>
+    		<meta name="description" content="The SPCA says a man has been charged with animal cruelty after he allegedly neglected to care for his horses, resulting them in being put down in Vereeniging, Gauteng on Monday."/>
+    	<link rel="shortcut icon" href="http://www.timeslive.co.za/favicon.ico" type="image/x-icon" />
+        <link title="Times Live Search" rel="search" type="application/opensearchdescription+xml" href="http://www.timeslive.co.za/provider.xml" />
+
+        <link rel="stylesheet" href="http://www.timeslive.co.za/template/common/css/print.css" type="text/css" media="print" />
+        <!--[if lt IE 8]><link rel="stylesheet" href="http://www.timeslive.co.za/template/common/css/ie.css" type="text/css" media="screen, projection"  /><![endif]-->
+        <link rel="stylesheet" href="http://www.timeslive.co.za/template/common/css/style.css" type="text/css" media="screen, projection" />
+        <link href="http://www.timeslive.co.za/template/common/css/CalendarControl.css" rel="stylesheet" type="text/css" />
+        <link href="http://www.timeslive.co.za/template/common/css/pagination.css" rel="stylesheet" type="text/css" />
+        <!--[if lt IE 7]><link rel="stylesheet" href="http://www.timeslive.co.za/template/common/css/ie7.css" type="text/css" media="screen, projection"  /><![endif]-->
+        <!--[if lt IE 6]><link rel="stylesheet" href="http://www.timeslive.co.za/template/common/css/ie6.css" type="text/css" media="screen, projection"  /><![endif]-->
+
+        <link rel="stylesheet" href="http://www.timeslive.co.za/template/common/css/style_community.css" type="text/css" media="screen, projection" />
+        <link rel="stylesheet" href="http://www.timeslive.co.za/template/common/css/common.css" type="text/css" media="screen, projection" />
+        <link href="http://www.timeslive.co.za/template/common/css/update_css.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="http://www.timeslive.co.za/template/common/css/colorbox/colorbox.css" type="text/css" media="screen, projection" />
+        <!--[if IE 9]><link rel="stylesheet" href="http://www.timeslive.co.za/template/common/css/ie9.css" type="text/css" media="screen, projection"  /><![endif]-->
+
+        <script type="text/javascript" src="http://www.timeslive.co.za/template/common/js/accelSurround.js"></script>
+        <script type="text/javascript" src="http://www.timeslive.co.za/template/common/js/swfobject.js"></script>
+        <script type="text/javascript" src="http://www.timeslive.co.za/template/common/js/jquery-1.4.min.js"></script>
+        <script src="http://www.timeslive.co.za/template/common/js/ajaxInput.js" type="text/javascript"></script>
+        <script type="text/javascript" src="http://www.timeslive.co.za/template/common/js/newsslider.js"></script>
+        <script src="http://www.timeslive.co.za/template/common/js/scripts.js" type="text/javascript"></script>
+        <script src="http://www.timeslive.co.za/template/common/js/jquery.uniform.js" type="text/javascript"></script>
+        <script src="http://www.timeslive.co.za/template/common/js/jquery.megamenu.js" type="text/javascript"></script>
+        <script src="http://www.timeslive.co.za/template/common/js/jquery.colorbox-min.js" type="text/javascript"></script>
+        <script src="http://www.timeslive.co.za/template/common/js/loopedslider.min.js" type="text/javascript" charset="utf-8"></script>
+        <script type="text/javascript" src="http://www.timeslive.co.za/template/common/js/jquery.floatingbanner.min.js"></script>
+        <script src="http://www.timeslive.co.za/template/common/js/jquery.tipsy.js" type="text/javascript"></script> <!-- Signin box -->
+        <script type='text/javascript' src='http://www.timeslive.co.za/dwr/interface/QualificationPluginAjax.js'></script>
+        <script type='text/javascript' src='http://www.timeslive.co.za/dwr/engine.js'></script>
+
+        <script type='text/javascript'>
+            var OA_zones = {
+                'sponsored_1':263,'sponsored_2':263,'sponsored_3':263,
+                'sponsored_4':263,'sponsored_5':263,'sponsored_6':263,
+                'sponsored_7':263,'sponsored_8':263,'sponsored_9':263,
+                'sponsored_10':263
+            }
+        </script>
+        <script type='text/javascript' src='http://ads.avusa.co.za/www/delivery/spcjs.php?block=1'></script>
+        <script type="text/javascript" src="http://www.timeslive.co.za/template/common/js/qualification.js"></script>
+        <script type="text/javascript">
+            var ord = 322497198544;
+
+            jQuery(function(){
+	        var SelfLocation = window.location.href.split('?');
+	        switch (SelfLocation[1]) {
+                    case "justify_right":
+                        jQuery(".megamenu").megamenu({ 'justify':'right' });
+                        break;
+                    case "justify_left":
+                    default:
+                        jQuery(".megamenu").megamenu();
+	        }
+            });
+        </script>
+
+        <script type="text/javascript" src="http://www.timeslive.co.za/template/common/js/ggjw353.js"></script>
+<script type="text/javascript">
+    var _nolggGlobalParams = {
+        clientid:"us-502202",
+        vcid:"c20",
+        cisuffix:"",
+        sfcode:"za",
+        prod:"sc"
+    };
+</script>
+<script type="text/javascript" src="http://secure-za.imrworldwide.com/novms/js/2/ggcmb353.js"></script>
+<script type="text/javascript">
+    var canUseSWF = false; // forces native mode
+    var uid = 0;
+    var gg1 = new gg();
+    gg1.ggInitialize(_nolggGlobalParams,uid,canUseSWF);
+</script>
+
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime();</script>
+        
+        <title>
+            Horse owner charged with animal cruelty - Times LIVE
+
+        </title>
+    </head>
+    <body>
+        <!-- BEGIN EFFECTIVE MEASURE CODE -->
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
+<script type="text/javascript">
+  (function() {
+    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+    em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+<noscript>
+<img src="//za.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!--END EFFECTIVE MEASURE CODE --><div class="wrapper">
+            <div class="redcontainer">
+                <div class="redcontainerinner">
+                    <div class="container">
+                        <div id="network">
+    <ul id="sddm" class="websites">
+        <li><a href="http://www.timeslive.co.za/sundaytimes">Sunday Times</a></li>
+        <li><a href="http://www.timeslive.co.za/thetimes">The Times</a></li>
+        <li class="d-down">
+            <a onmouseout="mclosetime()" onmouseover="mopen('m1')" href="#">LIVE Sites</a>
+
+            <div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m1" style="visibility: hidden;">
+                <a href="http://www.sowetanlive.co.za" target="_blank" rel="nofollow">Sowetan LIVE</a>
+                <a href="http://www.businesslive.co.za" target="_blank" rel="nofollow">Business LIVE</a>
+                <a href="http://www.sportlive.co.za" target="_blank" rel="nofollow">Sport LIVE</a>
+                <a href="http://www.sundayworld.co.za" target="_blank" rel="nofollow">Sunday World</a>
+                <a href="http://www.avusa.co.za/" target="_blank" rel="nofollow">Other Avusa Titles</a>
+            </div>
+        </li>
+    </ul>
+    
+    <div id="log"></div>
+<ul class="right">
+    <li class="nopad"><a href="http://www.timeslive.co.za?filter=register">Sign Up</a></li>
+        <li class="nopad">
+            <div id="logincontainer">
+                <a href="#" class="signin"><span>Sign In</span></a>
+
+                </div>
+        </li>
+    </ul>
+<div id="signin_menu"  >
+        <form name="signinForm" id="signin" method="post" action="/auth/login.do;jsessionid=9242399D31DD720663B0D908D121F3D7.present2.escenic.avusa.co.za"><h3 style="margin-bottom:5px;">Please enter your login details</h3>
+            <div style="text-transform: none; color: rgb(34, 34, 34); font-weight: bold; padding-bottom: 5px; font-size: 12px;">You can also sign in with your Sowetan LIVE &amp; <br />Business LIVE account details.</div>
+            <input type="hidden" name="targetUrl" value="http://www.timeslive.co.za/local/2012/01/17/horse-owner-charged-with-animal-cruelty"><input type="hidden" name="errorUrl" value="http://www.timeslive.co.za/local/2012/01/17/horse-owner-charged-with-animal-cruelty"><input type="text" name="userName" tabindex="1" value="Username" onblur="if (this.value == '') {this.value = 'Username';}" onfocus="if (this.value == 'Username') {this.value = '';}" title="Username"><input type="password" name="password" size="10" tabindex="2" value="Password" onblur="if (this.value == '') {this.value = 'Password';}" onfocus="if (this.value == 'Password') {this.value = '';}" title="Password"><input type="submit" tabindex="3" value="Login" class="button">&nbsp;&nbsp;
+
+            <a href="http://www.timeslive.co.za/?filter=register">Sign Up</a>&nbsp;&nbsp;
+            <a href="http://www.timeslive.co.za/?filter=resetpassword">Forgot password?</a>
+
+        </form><form name="SSOLoginForm" method="post" action="/auth/login/SSOLogin.do;jsessionid=9242399D31DD720663B0D908D121F3D7.present2.escenic.avusa.co.za"><script type="text/javascript">
+                function setValue(pValue) {
+                    document.getElementById("hiddenProviderId").value = pValue;
+                    return true;
+                }
+            </script>
+            <span>
+                <h3>Sign in with:</h3>
+                <input type="hidden" name="providerId" value="0" id="hiddenProviderId"><input type="hidden" name="destinationUrl" value="http://www.timeslive.co.za/local/2012/01/17/horse-owner-charged-with-animal-cruelty"><input type="hidden" name="errorUrl" value="http://www.timeslive.co.za/local/2012/01/17/horse-owner-charged-with-animal-cruelty"><!-- the next two values are used to make sure we don't create a user if his/her email was all ready used -->
+                <input type="hidden" name="solrHomeSectionId" value="36462"><input type="hidden" name="solrUrl" value="http://statsdb.escenic.avusa.co.za:8080/solr/"><input type="image" name="" src="http://www.timeslive.co.za/template/common/images/loginbox/facebook-login.png;jsessionid=9242399D31DD720663B0D908D121F3D7.present2.escenic.avusa.co.za" onclick="setValue(5)" style="padding: 2px" alt="Facebook login"><input type="image" name="" src="http://www.timeslive.co.za/template/common/images/loginbox/google-login.png;jsessionid=9242399D31DD720663B0D908D121F3D7.present2.escenic.avusa.co.za" onclick="setValue(1)" style="padding: 2px" alt="Google login"><input type="image" name="" src="http://www.timeslive.co.za/template/common/images/loginbox/msconnect.png;jsessionid=9242399D31DD720663B0D908D121F3D7.present2.escenic.avusa.co.za" onclick="setValue(6)" style="padding: 2px" alt="MSN login"></span>
+            <div class="clear"></div>
+        </form></div>
+
+            <ul class="right">
+        <li class="subscribe"><a href="http://www.stsubscribe.co.za" target="_blank" rel="nofollow">Subscribe to our papers</a></li>
+        <li class="mobile"><a href="http://m.timeslive.co.za" target="_blank" rel="nofollow">m.timeslive.co.za</a></li>
+    </ul>
+    <div class="clear"></div>
+</div>
+<div id="header">
+<div class="span-16">
+    <h1><a href="http://www.timeslive.co.za">Times LIVE</a></h1>
+    <div class="span-7 last">
+    <div class="blurb">
+        <a href="http://www.timeslive.co.za/local/2012/01/17/mbeki-questions-twitter-s-usefulness">
+                        <img height="80px" width="100px" alt="" src="http://www.timeslive.co.za/incoming/2012/01/17/thabo-mbeki-leather-chair.jpg/ALTERNATES/crop_100x80/thabo+mbeki+leather+chair.jpg">
+                    </a>
+                <h4>
+                    <a href="http://www.timeslive.co.za/local/2012/01/17/mbeki-questions-twitter-s-usefulness">Mbeki questions Twitter's usefulness </a>
+                </h4>
+            </div>
+</div>
+
+
+
+
+<div class="span-7 last">
+    <div class="blurb">
+        <a href="http://www.timeslive.co.za/local/2012/01/17/new-sabc-ceo-appointed">
+                        <img height="80px" width="100px" alt="" src="http://www.timeslive.co.za/incoming/2011/10/19/sabc-hq/ALTERNATES/crop_100x80/sabc+hq">
+                    </a>
+                <h4>
+                    <a href="http://www.timeslive.co.za/local/2012/01/17/new-sabc-ceo-appointed">New SABC CEO appointed</a>
+                </h4>
+            </div>
+</div>
+
+
+
+
+<div class="clear"></div>
+</div>
+<div class="span-8 last">
+    <script type="text/javascript">
+    function GetUserProfile()
+    {
+        document.getElementById("getUserForm").submit();
+
+    }
+</script>
+
+<div class="weather" style="margin: 0 0 5px 0;">
+    <div class="sponsor" style="float:right; margin-top:0px;">
+        <script type="text/javascript" language="JavaScript">
+            document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/home_weather;sz=310x20;ord=' + ord + '?" type="text/javascript"><\/script>');
+        </script>
+    </div>
+    <div class="clear"></div>
+    <div id="weather">
+        <div style="display:none">
+                Tue Jan 17 17:11:29 SAST 2012</div>
+            <img xmlns:t="http://schemas.saws.co.org/Weather/1.0" height="50px" width="50px" src="http://www.timeslive.co.za/template/common/images/weather/64x64/partlycloudyday.gif" alt="Partly cloudy" title="Partly cloudy"><h2>27&deg;</h2><p>Johannesburg&nbsp;
+                <strong>27&deg;C / 16&deg;C</strong>
+</p>
+</div>
+    <a href='http://www.timeslive.co.za/?filter=loginRequired'>Set my city</a> | <a href='http://www.timeslive.co.za/?filter=weather'>7 day forecast</a>
+    </div>
+    <div class="clear"></div>
+    <div id="search">
+    <form name="searchActionForm" id="searchForm" method="post" action="/search.do;jsessionid=0A1B1288DCFC8D916119A8C96B892483.present2.escenic.avusa.co.za" class="searchForm"><div>
+            <input type="text" name="query" value="Search Times LIVE" onclick="if(document.getElementById('searchQuery').value=='Search Times LIVE'){document.getElementById('searchQuery').value='';};" id="searchQuery" class="text short"><input type="submit" value="SEARCH" id="searchsubmit" class="button"><div class="clear"></div>
+            <input type="hidden" name="solrHomeSectionId" value="36462"><input type="hidden" name="solrUrl" value="http://statsdb.escenic.avusa.co.za:8080/solr/"><input type="hidden" name="order" value="desc"><input type="hidden" name="contenttype1" value="news"><input type="hidden" name="contenttype2" value="recipe"></div>
+    </form></div>
+
+</div>
+<div class="clear"></div>
+</div>
+
+
+
+</div>
+                </div>
+            </div>
+            <div class="container">
+                <div id="navigation">
+    <ul class="megamenu">
+        <li class="news current">
+            <a href="http://www.timeslive.co.za" class="first">News</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                                            <a href="http://www.timeslive.co.za/">Home</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/local/">South Africa</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/africa/">Africa</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/world/">World</a>
+                                        </li>
+                                    </ul>
+            <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/" style="width:300px">LATEST IN Home</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/africa/2012/01/17/47-die-in-another-round-of-south-sudan-tribal-violence">
+	                                <img src="http://www.timeslive.co.za/migration_catalog/2009/09/09/sudan-rebels/ALTERNATES/crop_148x110/Sudan+rebels" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/africa/2012/01/17/47-die-in-another-round-of-south-sudan-tribal-violence">47 die in another round of South Sudan tribal violence</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/world/2012/01/17/british-army-defuses-pipe-bomb-near-belfast-school">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/12/25/explosion-blast-11-xgold/ALTERNATES/crop_148x110/Explosion+blast+11+xgold" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/world/2012/01/17/british-army-defuses-pipe-bomb-near-belfast-school">British army defuses pipe bomb near Belfast school</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/south-africa-s-murder-capital-cities">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/09/cape-town.jpg/ALTERNATES/crop_148x110/Cape+Town.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/south-africa-s-murder-capital-cities">South Africa's murder capital cities</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/africa/2012/01/17/clinton-commends-ivory-coast-justice-effort">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2011/10/31/27-10-2011-19-10-00-539mdf42513.jpg/ALTERNATES/crop_148x110/27-10-2011-19-10-00-539mdf42513.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/africa/2012/01/17/clinton-commends-ivory-coast-justice-effort">Clinton commends Ivory Coast justice effort</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/former-cop-jailed-for-23-years-for-murder">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/12/12/police-uniform-saps.jpg/ALTERNATES/crop_148x110/Police+uniform+SAPS.JPG" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/former-cop-jailed-for-23-years-for-murder">Former cop jailed for 23 years for murder</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/local/" style="width:300px">LATEST IN South Africa</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/south-africa-s-murder-capital-cities">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/09/cape-town.jpg/ALTERNATES/crop_148x110/Cape+Town.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/south-africa-s-murder-capital-cities">South Africa's murder capital cities</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/former-cop-jailed-for-23-years-for-murder">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/12/12/police-uniform-saps.jpg/ALTERNATES/crop_148x110/Police+uniform+SAPS.JPG" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/former-cop-jailed-for-23-years-for-murder">Former cop jailed for 23 years for murder</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/rhino-bull-killed-near-mossel-bay">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/09/21/835940_710640.jpg/ALTERNATES/crop_148x110/835940_710640.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/rhino-bull-killed-near-mossel-bay">Rhino bull killed near Mossel Bay</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/recycling-levy-for-tyres-in-february">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/11/26/855383_726575.jpg/ALTERNATES/crop_148x110/855383_726575.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/recycling-levy-for-tyres-in-february">Recycling levy for tyres in February</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/ambulances-not-exempt-from-chapman-s-peak-toll">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/800px-chapmans_peak_drive_descent_to_hout_bay.jpg/ALTERNATES/crop_148x110/800px-Chapmans_Peak_Drive_descent_to_Hout_Bay.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/ambulances-not-exempt-from-chapman-s-peak-toll">Ambulances not exempt from Chapman's Peak toll</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/africa/" style="width:300px">LATEST IN Africa</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/africa/2012/01/17/47-die-in-another-round-of-south-sudan-tribal-violence">
+	                                <img src="http://www.timeslive.co.za/migration_catalog/2009/09/09/sudan-rebels/ALTERNATES/crop_148x110/Sudan+rebels" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/africa/2012/01/17/47-die-in-another-round-of-south-sudan-tribal-violence">47 die in another round of South Sudan tribal violence</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/africa/2012/01/17/clinton-commends-ivory-coast-justice-effort">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2011/10/31/27-10-2011-19-10-00-539mdf42513.jpg/ALTERNATES/crop_148x110/27-10-2011-19-10-00-539mdf42513.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/africa/2012/01/17/clinton-commends-ivory-coast-justice-effort">Clinton commends Ivory Coast justice effort</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/africa/2012/01/17/south-sudan-sudan-stealing-south-s-oil">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/stephen-dhieu-dau.jpg/ALTERNATES/crop_148x110/Stephen+Dhieu+Dau.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/africa/2012/01/17/south-sudan-sudan-stealing-south-s-oil">South Sudan: Sudan stealing south's oil</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/africa/2012/01/17/lebanese-probe-finds-ethiopian-airline-crash-due-to-pilot-error">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/ethiopian-airline.png/ALTERNATES/crop_148x110/Ethiopian+airline.png" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/africa/2012/01/17/lebanese-probe-finds-ethiopian-airline-crash-due-to-pilot-error">Lebanese probe finds Ethiopian airline crash due to pilot error</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/africa/2012/01/17/chevron-rig-catches-fire-off-nigeria-s-delta">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/08/24/fire-flames-xgold.jpg/ALTERNATES/crop_148x110/fire+flames+xgold.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/africa/2012/01/17/chevron-rig-catches-fire-off-nigeria-s-delta">Chevron: rig catches fire off Nigeria's delta</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/world/" style="width:300px">LATEST IN World</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/world/2012/01/17/british-army-defuses-pipe-bomb-near-belfast-school">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/12/25/explosion-blast-11-xgold/ALTERNATES/crop_148x110/Explosion+blast+11+xgold" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/world/2012/01/17/british-army-defuses-pipe-bomb-near-belfast-school">British army defuses pipe bomb near Belfast school</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/world/2012/01/17/missing-from-cruise-liner-include-14-germans-captain-questioned">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/000_par6781921.jpg/ALTERNATES/crop_148x110/000_Par6781921.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/world/2012/01/17/missing-from-cruise-liner-include-14-germans-captain-questioned">Missing from cruise liner include 14 Germans, captain questioned</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/world/2012/01/17/chinese-dissident-to-stand-trial-for-poem">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/07/13/china-protest-standoff/ALTERNATES/crop_148x110/china+protest+standoff" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/world/2012/01/17/chinese-dissident-to-stand-trial-for-poem">Chinese dissident to stand trial for poem</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/world/2012/01/17/polish-condom-market-goes-limp">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/08/14/820763_700810.jpg/ALTERNATES/crop_148x110/820763_700810.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/world/2012/01/17/polish-condom-market-goes-limp">Polish condom market goes limp</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/world/2012/01/17/mein-kampf-set-for-first-german-post-war-reprint">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/17/hitler.jpg/ALTERNATES/crop_148x110/Hitler.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/world/2012/01/17/mein-kampf-set-for-first-german-post-war-reprint">'Mein Kampf' set for first German post-war reprint</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    </div>
+</div>
+
+
+</li>
+        <li class="politics ">
+            <a href="http://www.timeslive.co.za/politics">Politics</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                                            <a href="http://www.timeslive.co.za/politics/">Politics</a>
+                                        </li>
+                                    </ul>
+            <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/politics/" style="width:300px">LATEST IN Politics</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/politics/2012/01/17/mps-tussle-over-info-bill-logistics">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/11/22/855523_726412.jpg/ALTERNATES/crop_148x110/855523_726412.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/politics/2012/01/17/mps-tussle-over-info-bill-logistics">MPs tussle over info bill logistics</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/south-africa-s-murder-capital-cities">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/09/cape-town.jpg/ALTERNATES/crop_148x110/Cape+Town.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/south-africa-s-murder-capital-cities">South Africa's murder capital cities</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/mbeki-questions-twitter-s-usefulness">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/thabo-mbeki-leather-chair.jpg/ALTERNATES/crop_148x110/thabo+mbeki+leather+chair.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/mbeki-questions-twitter-s-usefulness">Mbeki questions Twitter's usefulness </a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/politics/2012/01/17/ka-plaatjie-appointed-to-sabc-board">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/08/18/sabc-hq-xgold/ALTERNATES/crop_148x110/sabc+hq+xgold" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/politics/2012/01/17/ka-plaatjie-appointed-to-sabc-board">Ka Plaatjie appointed to SABC board</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/politics/2012/01/17/false-knowledge-ended-gaddafi-s-rule-says-mbeki">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/17/867853_736307.jpg/ALTERNATES/crop_148x110/867853_736307.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/politics/2012/01/17/false-knowledge-ended-gaddafi-s-rule-says-mbeki">False knowledge ended Gaddafi's rule, says Mbeki</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    </div>
+</div>
+
+
+</li>
+        <li class="sport">
+            <a href="http://www.sportlive.co.za" target="_blank" rel="nofollow">Sport</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                <a href="http://www.sportlive.co.za" target="_blank">Sport</a>
+            </li>
+        </ul>
+        <div class="tabContent">
+                <div class="label">
+                    <h3><a href="http://www.sportlive.co.za" style="width:300px" target="_blank">LATEST IN SPORT</a></h3>
+                    <div class="clear"></div>
+                </div>
+                <div class="span-4 ">
+                <div class="blurb">
+                    <a href="http://www.sportlive.co.za/soccer/moresoccer/2012/01/17/ancelotti-mulls-psg-shopping-list" target="_blank">
+	                            <img src="http://www.sportlive.co.za/Feeds/getty/2012/01/17/fernando-torres/ALTERNATES/crop_148x110/Fernando+Torres" alt="" width="146px" height="110px" />
+	                        </a>
+                        <h3><a href="http://www.sportlive.co.za/soccer/moresoccer/2012/01/17/ancelotti-mulls-psg-shopping-list" target="_blank">Ancelotti mulls PSG shopping list</a></h3>
+                </div>
+            </div>
+        <div class="span-4 ">
+                <div class="blurb">
+                    <a href="http://www.sportlive.co.za/oddballs/2012/01/17/britain-wins-south-pole-cricket-match-on-scott-centenary" target="_blank">
+	                            <img src="http://www.sportlive.co.za/incoming/2011/10/10/cricket-bat-and-balls-generic.jpg/ALTERNATES/crop_148x110/Cricket+bat+and+balls+generic.jpg" alt="" width="146px" height="110px" />
+	                        </a>
+                        <h3><a href="http://www.sportlive.co.za/oddballs/2012/01/17/britain-wins-south-pole-cricket-match-on-scott-centenary" target="_blank">Britain wins South Pole cricket match on Scott centenary</a></h3>
+                </div>
+            </div>
+        <div class="span-4 ">
+                <div class="blurb">
+                    <a href="http://www.sportlive.co.za/rugby/morerugby/2012/01/17/two-injury-withdrawals-fro-sa-under-20s" target="_blank">
+	                            <img src="http://www.sportlive.co.za/incoming/2012/01/17/vian-van-der-walt.jpg/ALTERNATES/crop_148x110/Vian+van+der+Walt.JPG" alt="" width="146px" height="110px" />
+	                        </a>
+                        <h3><a href="http://www.sportlive.co.za/rugby/morerugby/2012/01/17/two-injury-withdrawals-fro-sa-under-20s" target="_blank">Two injury withdrawals fro SA under-20s</a></h3>
+                </div>
+            </div>
+        <div class="span-4 ">
+                <div class="blurb">
+                    <a href="http://www.sportlive.co.za/tennis/2012/01/17/djokovic-has-fun-in-the-sun-while-stosur-wilts" target="_blank">
+	                            <img src="http://www.sportlive.co.za/Feeds/getty/2012/01/17/novak-djokovic/ALTERNATES/crop_148x110/Novak+Djokovic" alt="" width="146px" height="110px" />
+	                        </a>
+                        <h3><a href="http://www.sportlive.co.za/tennis/2012/01/17/djokovic-has-fun-in-the-sun-while-stosur-wilts" target="_blank">Djokovic has fun in the sun while Stosur wilts  </a></h3>
+                </div>
+            </div>
+        <div class="span-4 last">
+                <div class="blurb">
+                    <a href="http://www.sportlive.co.za/tennis/2012/01/17/serena-looks-rusty-on-melbourne-park-return" target="_blank">
+	                            <img src="http://www.sportlive.co.za/Feeds/getty/2012/01/17/serena-williams/ALTERNATES/crop_148x110/Serena+Williams" alt="" width="146px" height="110px" />
+	                        </a>
+                        <h3><a href="http://www.sportlive.co.za/tennis/2012/01/17/serena-looks-rusty-on-melbourne-park-return" target="_blank">Serena looks rusty on Melbourne Park return</a></h3>
+                </div>
+            </div>
+        <div class="clear"></div>
+    <div class="clear"></div>
+            </div>
+        </div>
+</div>
+
+
+</li>
+        <li class="business">
+            <a href="http://www.businesslive.co.za" target="_blank" rel="nofollow">Business</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                <a href="http://www.businesslive.co.za" target="_blank">Business</a>
+            </li>
+        </ul>
+        <div class="tabContent">
+                <div class="label">
+                    <h3><a href="http://www.businesslive.co.za" style="width:300px" target="_blank">LATEST IN BUSINESS</a></h3>
+                    <div class="clear"></div>
+                </div>
+                <div class="span-4 ">
+                <div class="blurb">
+                    <a href="http://www.businesslive.co.za/southafrica/sa_generalnews/2012/01/17/cabinet-preps-zuma-for-state-of-nation-address" target="_blank">
+	                            <img src="http://www.businesslive.co.za/southafrica/2011/10/03/zumajacob.jpg/ALTERNATES/crop_148x110/ZumaJacob.jpg" alt="" width="146px" height="110px" />
+	                        </a>
+	                    <h3><a href="http://www.businesslive.co.za/southafrica/sa_generalnews/2012/01/17/cabinet-preps-zuma-for-state-of-nation-address" target="_blank">Cabinet preps Zuma for state-of-nation address </a></h3>
+                </div>
+            </div>
+        <div class="span-4 ">
+                <div class="blurb">
+                    <h3><a href="http://www.businesslive.co.za/southafrica/sa_markets/2012/01/17/sa-needs-7-carat-policies-to-grow-at-7" target="_blank">SA needs '7% carat policies' to grow at 7% </a></h3>
+                </div>
+            </div>
+        <div class="span-4 ">
+                <div class="blurb">
+                    <a href="http://www.businesslive.co.za/southafrica/sa_markets/2012/01/17/fitch-revises-outlook-on-sa-banks-to-negative" target="_blank">
+	                            <img src="http://www.businesslive.co.za/world/2011/06/21/fitchratings.jpg/ALTERNATES/crop_148x110/fitchratings.jpg" alt="" width="146px" height="110px" />
+	                        </a>
+	                    <h3><a href="http://www.businesslive.co.za/southafrica/sa_markets/2012/01/17/fitch-revises-outlook-on-sa-banks-to-negative" target="_blank">Fitch revises Outlook on SA banks to Negative</a></h3>
+                </div>
+            </div>
+        <div class="span-4 ">
+                <div class="blurb">
+                    <a href="http://www.businesslive.co.za/southafrica/sa_generalnews/2012/01/17/specter-of-scorpions-hangs-over-secrecy-bill" target="_blank">
+	                            <img src="http://www.businesslive.co.za/Multimedia/2011/12/20/journos-fight-infobill.jpg/ALTERNATES/crop_148x110/Journos+fight+infobill.jpg" alt="" width="146px" height="110px" />
+	                        </a>
+	                    <h3><a href="http://www.businesslive.co.za/southafrica/sa_generalnews/2012/01/17/specter-of-scorpions-hangs-over-secrecy-bill" target="_blank">Specter of Scorpions hangs over secrecy bill </a></h3>
+                </div>
+            </div>
+        <div class="span-4 last">
+                <div class="blurb">
+                    <h3><a href="http://www.businesslive.co.za/southafrica/sa_markets/2012/01/17/em-overweight-positions-tick-lower-in-january" target="_blank">EM overweight positions tick lower in January </a></h3>
+                </div>
+            </div>
+        <div class="clear"></div>
+    <div class="clear"></div>
+            </div>
+        </div>
+</div>
+
+
+</li>
+        <li class="entertainment ">
+            <a href="http://www.timeslive.co.za/entertainment">Entertainment</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                                            <a href="http://www.timeslive.co.za/entertainment/">Entertainment</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/entertainment/celebrity/">Celebrity</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/entertainment/movies/">Movies</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/entertainment/music/">Music</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/entertainment/gaming/">Gaming</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/entertainment/puzzles/">Puzzles & Games</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/entertainment/horoscopes/">Horoscopes</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/entertainment/tvguide/">TV Guide</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/entertainment/competitions/">Competitions</a>
+                                        </li>
+                                    </ul>
+            <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/entertainment/" style="width:300px">LATEST IN Entertainment</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/polish-singer-fined-for-bad-mouthing-bible">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/11/11/old-bible.jpg/ALTERNATES/crop_148x110/old+bible.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/polish-singer-fined-for-bad-mouthing-bible">Polish singer fined for bad-mouthing Bible</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/movies/2012/01/17/durban-heist-film-grosses-r320k-in-first-week">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/harbour---neville-and-jack-5.jpg/ALTERNATES/crop_148x110/Harbour+-+Neville+and+Jack+5.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/movies/2012/01/17/durban-heist-film-grosses-r320k-in-first-week">Durban heist film grosses R320k in first week</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/movies/2012/01/17/the-artist-tinker-tailor-sweep-bafta-nominations">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/11/30/the-artist.jpg/ALTERNATES/crop_148x110/the+artist.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/movies/2012/01/17/the-artist-tinker-tailor-sweep-bafta-nominations">'The Artist', 'Tinker Tailor' sweep Bafta nominations</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/swift-teases-songs-about-heartbreak-on-next-album">
+	                                <img src="http://www.timeslive.co.za/Feeds/Getty_Images/2012/01/17/08-08-2011-10-08-01-292120618706.jpg/ALTERNATES/crop_148x110/08-08-2011-10-08-01-292120618706.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/swift-teases-songs-about-heartbreak-on-next-album">Swift teases songs about heartbreak on next album</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/scitech/2012/01/17/wonderful-finale-to-assassins-creed">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/16/866180_735387.jpg/ALTERNATES/crop_148x110/866180_735387.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/scitech/2012/01/17/wonderful-finale-to-assassins-creed">Wonderful finale to Assassins Creed</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/entertainment/celebrity/" style="width:300px">LATEST IN Celebrity</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/swift-teases-songs-about-heartbreak-on-next-album">
+	                                <img src="http://www.timeslive.co.za/Feeds/Getty_Images/2012/01/17/08-08-2011-10-08-01-292120618706.jpg/ALTERNATES/crop_148x110/08-08-2011-10-08-01-292120618706.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/swift-teases-songs-about-heartbreak-on-next-album">Swift teases songs about heartbreak on next album</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/celebrity/2012/01/16/obsessed-kate-bush-fan-breaks-into-her-house-to-propose">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/11/07/kate-bush-press-01.jpg/ALTERNATES/crop_148x110/Kate+Bush+Press+01.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/celebrity/2012/01/16/obsessed-kate-bush-fan-breaks-into-her-house-to-propose">Obsessed Kate Bush fan breaks into her house to propose</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/celebrity/2012/01/16/scientists-name-fly-after-beyonce">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/16/beyonce-horse-fly/ALTERNATES/crop_148x110/beyonce+horse+fly" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/celebrity/2012/01/16/scientists-name-fly-after-beyonce">Scientists name fly after Beyonce </a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/celebrity/2012/01/14/whitney-from-the-hills-to-show-label-at-new-york-fashion-week">
+	                                <img src="http://www.timeslive.co.za/Feeds/Getty_Images/2012/01/14/24-08-2011-05-08-01-59121940980.jpg/ALTERNATES/crop_148x110/24-08-2011-05-08-01-59121940980.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/celebrity/2012/01/14/whitney-from-the-hills-to-show-label-at-new-york-fashion-week">Whitney from 'The Hills' to show label at New York Fashion Week</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/celebrity/2012/01/13/kristen-stewart-is-the-face-of-balenciaga-s-new-fragrance">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2012/01/13/16-11-2011-22-11-00-535mdf78261.jpg/ALTERNATES/crop_148x110/16-11-2011-22-11-00-535mdf78261.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/celebrity/2012/01/13/kristen-stewart-is-the-face-of-balenciaga-s-new-fragrance">Kristen Stewart is the face of Balenciaga's new fragrance</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/entertainment/movies/" style="width:300px">LATEST IN Movies</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/movies/2012/01/17/durban-heist-film-grosses-r320k-in-first-week">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/harbour---neville-and-jack-5.jpg/ALTERNATES/crop_148x110/Harbour+-+Neville+and+Jack+5.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/movies/2012/01/17/durban-heist-film-grosses-r320k-in-first-week">Durban heist film grosses R320k in first week</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/movies/2012/01/17/the-artist-tinker-tailor-sweep-bafta-nominations">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/11/30/the-artist.jpg/ALTERNATES/crop_148x110/the+artist.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/movies/2012/01/17/the-artist-tinker-tailor-sweep-bafta-nominations">'The Artist', 'Tinker Tailor' sweep Bafta nominations</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/movies/2012/01/16/quick-review-little-bit-of-heaven">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/16/864346_734209.jpg/ALTERNATES/crop_148x110/864346_734209.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/movies/2012/01/16/quick-review-little-bit-of-heaven">Quick review: Little Bit of Heaven*</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/movies/2012/01/16/close-up-machine-gun-preacher">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/16/864344_734158.jpg/ALTERNATES/crop_148x110/864344_734158.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/movies/2012/01/16/close-up-machine-gun-preacher">Close Up: Machine Gun Preacher</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/movies/2012/01/16/the-artist-top-golden-globe-winner">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2012/01/16/16-01-2012-06-01-01-49mdf73169.jpg/ALTERNATES/crop_148x110/16-01-2012-06-01-01-49mdf73169.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/movies/2012/01/16/the-artist-top-golden-globe-winner">'The Artist' top Golden Globe winner</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/entertainment/music/" style="width:300px">LATEST IN Music</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/polish-singer-fined-for-bad-mouthing-bible">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/11/11/old-bible.jpg/ALTERNATES/crop_148x110/old+bible.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/polish-singer-fined-for-bad-mouthing-bible">Polish singer fined for bad-mouthing Bible</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/swift-teases-songs-about-heartbreak-on-next-album">
+	                                <img src="http://www.timeslive.co.za/Feeds/Getty_Images/2012/01/17/08-08-2011-10-08-01-292120618706.jpg/ALTERNATES/crop_148x110/08-08-2011-10-08-01-292120618706.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/swift-teases-songs-about-heartbreak-on-next-album">Swift teases songs about heartbreak on next album</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/music/2012/01/16/upcoming-artists-vie-for-usher-opening-spot">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2011/11/21/11-11-2011-06-11-00-836mdf68197.jpg/ALTERNATES/crop_148x110/11-11-2011-06-11-00-836mdf68197.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/music/2012/01/16/upcoming-artists-vie-for-usher-opening-spot">Upcoming artists vie for Usher opening spot</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/music/2012/01/16/lady-gaga-s-born-this-way-sounds-familiar-madonna">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/16/madonna-live-clad-in-black.jpg/ALTERNATES/crop_148x110/madonna+live+clad+in+black.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/music/2012/01/16/lady-gaga-s-born-this-way-sounds-familiar-madonna">Lady Gaga's Born This Way 'sounds familiar': Madonna</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/music/2012/01/14/newly-discovered-brahms-work-set-for-world-premiere">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/14/johannesbrahms.jpg/ALTERNATES/crop_148x110/JohannesBrahms.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/music/2012/01/14/newly-discovered-brahms-work-set-for-world-premiere">Newly discovered Brahms work set for world premiere</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/entertainment/gaming/" style="width:300px">LATEST IN Gaming</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/scitech/2012/01/17/wonderful-finale-to-assassins-creed">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/16/866180_735387.jpg/ALTERNATES/crop_148x110/866180_735387.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/scitech/2012/01/17/wonderful-finale-to-assassins-creed">Wonderful finale to Assassins Creed</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/scitech/2012/01/16/angry-brides-game-targets-indian-dowry-demands">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/09/26/000_par6178186.jpg/ALTERNATES/crop_148x110/000_Par6178186.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/scitech/2012/01/16/angry-brides-game-targets-indian-dowry-demands">'Angry Brides' game targets Indian dowry demands</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/gaming/2012/01/11/gaming-key-to-sony-profit-rebound-executive">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2012/01/11/11-01-2012-00-01-00-673mdf63241.jpg/ALTERNATES/crop_148x110/11-01-2012-00-01-00-673mdf63241.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/gaming/2012/01/11/gaming-key-to-sony-profit-rebound-executive">Gaming key to Sony profit rebound-executive</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/gaming/2011/12/30/0101tv1wed">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/12/30/860697_731943.jpg/ALTERNATES/crop_148x110/860697_731943.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/gaming/2011/12/30/0101tv1wed">0101tv1WED</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/gaming/2011/12/30/0101tv2wed">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/12/30/860698_731941.jpg/ALTERNATES/crop_148x110/860698_731941.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/gaming/2011/12/30/0101tv2wed">0101tv2WED</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/entertainment/competitions/" style="width:300px">LATEST IN Competitions</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="clear"></div>
+                        </div>
+                    </div>
+</div>
+
+
+</li>
+        <li class="lifestyle ">
+            <a href="http://www.timeslive.co.za/lifestyle">Life &amp; Style</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                                            <a href="http://www.timeslive.co.za/lifestyle/">Life & Style</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/lifestyle/motoring/">Motoring</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/lifestyle/family/">Family</a>
+                                        </li>
+                                    <li class="ht">
+                        <a href="http://www.bookslive.co.za" target="_blank">Books LIVE</a>
+                    </li>
+                </ul>
+            <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/lifestyle/" style="width:300px">LATEST IN Life & Style</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/world/2012/01/17/afghan-calligrapher-creates-world-s-largest-koran">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/09/17/834069_709592.jpg/ALTERNATES/crop_148x110/834069_709592.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/world/2012/01/17/afghan-calligrapher-creates-world-s-largest-koran">Afghan calligrapher creates world's largest Koran</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/books/2012/01/17/quick-reviews-1701">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/16/866226_735520.jpg/ALTERNATES/crop_148x110/866226_735520.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/books/2012/01/17/quick-reviews-1701">Quick Reviews: 1701</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/books/2012/01/17/exploring-intimacy">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/16/866711_735518.jpg/ALTERNATES/crop_148x110/866711_735518.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/books/2012/01/17/exploring-intimacy">Exploring intimacy</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/books/2012/01/17/last-werewolf-has-serious-bite">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/08/newdonaldsonsmall_1026760a.jpg/ALTERNATES/crop_148x110/NewDonaldsonSmall_1026760a.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/books/2012/01/17/last-werewolf-has-serious-bite">'Last Werewolf' has serious bite</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/2012/01/16/growth-of-world-tourism-slowing">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/15/passport.jpg1/ALTERNATES/crop_148x110/passport.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/2012/01/16/growth-of-world-tourism-slowing">Growth of world tourism slowing</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/lifestyle/motoring/" style="width:300px">LATEST IN Motoring</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/motoring/2012/01/08/carpocalypse-now">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/07/863961_733737.jpg/ALTERNATES/crop_148x110/863961_733737.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/motoring/2012/01/08/carpocalypse-now">Carpocalypse Now</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/motoring/2011/12/18/the-wanted-list">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/12/15/860290_730745.jpg/ALTERNATES/crop_148x110/860290_730745.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/motoring/2011/12/18/the-wanted-list">The Wanted List</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/motoring/2011/12/12/safety-milestone-for-geely">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/12/12/859874_722583.jpg/ALTERNATES/crop_148x110/859874_722583.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/motoring/2011/12/12/safety-milestone-for-geely">Safety milestone for Geely</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <h3><a href="http://www.timeslive.co.za/lifestyle/motoring/2011/12/12/festive-wishes-as-motormania-takes-a-break">Festive wishes as MotorMania takes a break</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/motoring/2011/12/12/taking-back-the-streets">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/12/12/859301_729787.jpg/ALTERNATES/crop_148x110/859301_729787.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/motoring/2011/12/12/taking-back-the-streets">Taking back the streets</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/lifestyle/family/" style="width:300px">LATEST IN Family</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/facebook-group-plans-global-info-bill-protests">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/secrecy-bill-protest-london.jpg/ALTERNATES/crop_148x110/secrecy+bill+protest+london.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/facebook-group-plans-global-info-bill-protests">Facebook group plans global Info Bill protests</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/scitech/2012/01/16/new-app-charges-you-for-skipping-gym">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2012/01/16/15-01-2012-22-01-01-34mdf72190.jpg/ALTERNATES/crop_148x110/15-01-2012-22-01-01-34mdf72190.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/scitech/2012/01/16/new-app-charges-you-for-skipping-gym">New app charges you for skipping gym</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/family/2012/01/16/fertility-rates-to-drop-says-sairr">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/11/23/106558581.jpg/ALTERNATES/crop_148x110/106558581.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/family/2012/01/16/fertility-rates-to-drop-says-sairr">Fertility rates to drop, says SAIRR</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2012/01/16/i-resolve-to-sort-the-memory-snaps-this-year">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/08/jackie_may_features_780718a.jpg/ALTERNATES/crop_148x110/Jackie_May_Features_780718a.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2012/01/16/i-resolve-to-sort-the-memory-snaps-this-year">I resolve to sort the memory snaps this year</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/lifestyle/2012/01/14/dearth-of-black-models-at-rio-fashion-week-sees-call-for-quotas">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2012/01/14/10-01-2012-22-01-00-673mdf63105.jpg/ALTERNATES/crop_148x110/10-01-2012-22-01-00-673mdf63105.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/lifestyle/2012/01/14/dearth-of-black-models-at-rio-fashion-week-sees-call-for-quotas">Dearth of black models at Rio fashion week sees call for quotas</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                        <div class="label">
+                            <h3><a href="#" style="width:300px"></a></h3>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="span-4 last">
+                            &nbsp;
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+</div>
+
+
+</li>
+        <li  class="travel bold ">
+            <a href="http://www.timeslive.co.za/travel">Travel</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                                            <a href="http://www.timeslive.co.za/travel/">Travel</a>
+                                        </li>
+                                    </ul>
+            <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/travel/" style="width:300px">LATEST IN Travel</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/travel/2012/01/15/accidental-tourist-scamming-the-scammer">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/861518_734427.jpg/ALTERNATES/crop_148x110/861518_734427.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/travel/2012/01/15/accidental-tourist-scamming-the-scammer">Accidental Tourist: Scamming the scammer</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/travel/2012/01/15/adventures-on-south-africa-s-garden-route">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/863913_733931.jpg/ALTERNATES/crop_148x110/863913_733931.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/travel/2012/01/15/adventures-on-south-africa-s-garden-route">Adventures on South Africa's Garden Route</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/travel/2012/01/15/my-kind-of-holiday-josette-eales">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/865288_734428.jpg/ALTERNATES/crop_148x110/865288_734428.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/travel/2012/01/15/my-kind-of-holiday-josette-eales">My Kind of Holiday: Josette Eales</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/travel/2012/01/15/reader-s-africa-blazing-a-trail-from-kenya-to-cape-town">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/861983_733929.jpg/ALTERNATES/crop_148x110/861983_733929.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/travel/2012/01/15/reader-s-africa-blazing-a-trail-from-kenya-to-cape-town">Reader's Africa: Blazing a trail from Kenya to Cape Town</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/travel/2012/01/15/peter-s-post-a-quiet-holiday-during-bali-s-new-year">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/863940_734135.jpg/ALTERNATES/crop_148x110/863940_734135.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/travel/2012/01/15/peter-s-post-a-quiet-holiday-during-bali-s-new-year">Peter's Post: A quiet holiday during Bali's New Year</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    </div>
+</div>
+
+
+</li>
+        <li  class="food bold ">
+            <a href="http://www.timeslive.co.za/food">Food</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                                            <a href="http://www.timeslive.co.za/food/">Food</a>
+                                        </li>
+                                    </ul>
+            <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/food/" style="width:300px">LATEST IN Food</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2012/01/11/recipes-for-macho-bachelors">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/10/865595_734666.jpg/ALTERNATES/crop_148x110/865595_734666.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2012/01/11/recipes-for-macho-bachelors">Recipes for macho bachelors</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <h3><a href="http://www.timeslive.co.za/food/2011/12/22/christmas-picks">Christmas picks</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2011/12/21/weird-meat-website-not-for-sensitive-viewers">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/08/andreab2.jpg/ALTERNATES/crop_148x110/AndreaB2.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2011/12/21/weird-meat-website-not-for-sensitive-viewers">Weird meat website not for sensitive viewers</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/food/2011/12/21/festive-setting-wish-you-a-merry-meal">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/12/20/863053_732853.jpg/ALTERNATES/crop_148x110/863053_732853.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/food/2011/12/21/festive-setting-wish-you-a-merry-meal">FESTIVE SETTING: Wish you a merry meal</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/food/2011/12/20/the-kos-of-true-love">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/12/18/860292_731508.jpg/ALTERNATES/crop_148x110/860292_731508.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/food/2011/12/20/the-kos-of-true-love">The kos of true love </a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    </div>
+</div>
+
+
+</li>
+        <li class="scitech ">
+            <a href="http://www.timeslive.co.za/scitech">Sci-Tech</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                                            <a href="http://www.timeslive.co.za/scitech/">Sci-Tech</a>
+                                        </li>
+                                    </ul>
+            <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/scitech/" style="width:300px">LATEST IN Sci-Tech</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/recycling-levy-for-tyres-in-february">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/11/26/855383_726575.jpg/ALTERNATES/crop_148x110/855383_726575.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/recycling-levy-for-tyres-in-february">Recycling levy for tyres in February</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/scitech/2012/01/17/swiss-to-return-greek-silver">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/drachma.jpg/ALTERNATES/crop_148x110/Drachma.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/scitech/2012/01/17/swiss-to-return-greek-silver">Swiss to return Greek silver</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/scitech/2012/01/17/us-may-have-caused-mars-probe-failure-russia">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2012/01/16/15-01-2012-21-01-00-534mdf72021.jpg/ALTERNATES/crop_148x110/15-01-2012-21-01-00-534mdf72021.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/scitech/2012/01/17/us-may-have-caused-mars-probe-failure-russia">US may have caused Mars probe failure: Russia</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/top-tv--porn-and-censorship">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2011/12/07/01-10-2011-22-10-00-546mdf89967.jpg/ALTERNATES/crop_148x110/01-10-2011-22-10-00-546mdf89967.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/top-tv--porn-and-censorship">Top TV – Porn and censorship</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/scitech/2012/01/17/palaeontologists-find-south-america-s-oldest-predator">
+	                                <img src="http://www.timeslive.co.za/incoming/2012/01/17/pampaphoneus-hunting-a-pareiasaur---illustration-by-voltaire-neto.jpeg/ALTERNATES/crop_148x110/Pampaphoneus+hunting+a+pareiasaur+-+Illustration+by+Voltaire+Neto.jpeg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/scitech/2012/01/17/palaeontologists-find-south-america-s-oldest-predator">Palaeontologists find South America's oldest predator</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    </div>
+</div>
+
+
+</li>
+        <li class="opinion ">
+            <a href="http://www.timeslive.co.za/opinion">Opinion</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                                            <a href="http://www.timeslive.co.za/opinion/">Opinion</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/opinion/columnists/">Columnists</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/opinion/editorials/">Editorials</a>
+                                        </li>
+                                    <li class="ht">
+                                            <a href="http://www.timeslive.co.za/opinion/commentary/">Commentary</a>
+                                        </li>
+                                    <li class="ht">
+                        <a href="http://blogs.timeslive.co.za" target="_blank">Blogs</a>
+                    </li>
+                </ul>
+            <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/opinion/" style="width:300px">LATEST IN Opinion</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/top-tv--porn-and-censorship">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2011/12/07/01-10-2011-22-10-00-546mdf89967.jpg/ALTERNATES/crop_148x110/01-10-2011-22-10-00-546mdf89967.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/top-tv--porn-and-censorship">Top TV – Porn and censorship</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/editorials/2012/01/17/clearing-the-bonus-debacle-will-restore-cricket-sa-s-image">
+	                                <img src="http://www.timeslive.co.za/sport/cricket/2011/08/19/gerald-majola/ALTERNATES/crop_148x110/Gerald+Majola" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/editorials/2012/01/17/clearing-the-bonus-debacle-will-restore-cricket-sa-s-image">Clearing the bonus debacle will restore Cricket SA's image</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/entertainment/2012/01/16/live-concert-etiquette">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/11/07/nrthenarrow.jpg/ALTERNATES/crop_148x110/nrthenarrow.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/entertainment/2012/01/16/live-concert-etiquette">Live concert etiquette</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/editorials/2012/01/16/sick-anc-must-return-to-putting-the-people-first">
+	                                <img src="http://www.timeslive.co.za/Feeds/2011/09/04/827819_705537.jpg/ALTERNATES/crop_148x110/827819_705537.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/editorials/2012/01/16/sick-anc-must-return-to-putting-the-people-first">'Sick' ANC must return to putting the people first</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2012/01/15/hogarth-15-january-2012">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/14/hogarth-graphic_190922a.jpg/ALTERNATES/crop_148x110/Hogarth-graphic_190922a.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2012/01/15/hogarth-15-january-2012">Hogarth: 15 January 2012</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/opinion/columnists/" style="width:300px">LATEST IN Columnists</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/top-tv--porn-and-censorship">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2011/12/07/01-10-2011-22-10-00-546mdf89967.jpg/ALTERNATES/crop_148x110/01-10-2011-22-10-00-546mdf89967.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/top-tv--porn-and-censorship">Top TV – Porn and censorship</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/editorials/2012/01/17/clearing-the-bonus-debacle-will-restore-cricket-sa-s-image">
+	                                <img src="http://www.timeslive.co.za/sport/cricket/2011/08/19/gerald-majola/ALTERNATES/crop_148x110/Gerald+Majola" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/editorials/2012/01/17/clearing-the-bonus-debacle-will-restore-cricket-sa-s-image">Clearing the bonus debacle will restore Cricket SA's image</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/city-needs-lesson-in-elegance">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/08/david-shapiro-a.jpg/ALTERNATES/crop_148x110/david+shapiro+a.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/city-needs-lesson-in-elegance">City needs lesson in elegance</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/race-to-the-south-pole">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/08/02/chippy1.jpg/ALTERNATES/crop_148x110/chippy1.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/race-to-the-south-pole">Race to the South Pole</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/only-human-after-all">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/08/phumla_310257a.jpg/ALTERNATES/crop_148x110/Phumla_310257a.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/columnists/2012/01/17/only-human-after-all">Only human after all</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/opinion/editorials/" style="width:300px">LATEST IN Editorials</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/red-flag-for-green-paper-ilive">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/867335_735817.jpg/ALTERNATES/crop_148x110/867335_735817.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/red-flag-for-green-paper-ilive">Red flag for green paper: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/nature-as-vital-as-nurture-ilive">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/09/22/maasai-mara.jpg/ALTERNATES/crop_148x110/Maasai+Mara.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/nature-as-vital-as-nurture-ilive">Nature as vital as nurture: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/wary-of-e-toll-delay-tactics-ilive">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/23/toll-road/ALTERNATES/crop_148x110/Toll+road" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/wary-of-e-toll-delay-tactics-ilive">Wary of e-toll delay tactics: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/uj-staff-behave-like-bouncers-ilive">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/866050_735421.jpg/ALTERNATES/crop_148x110/866050_735421.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/uj-staff-behave-like-bouncers-ilive">UJ staff behave like bouncers: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/africa-must-unite-to-take-back-riches-ilive">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2012/01/14/14-01-2012-09-01-00-813mdf68978.jpg/ALTERNATES/crop_148x110/14-01-2012-09-01-00-813mdf68978.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/africa-must-unite-to-take-back-riches-ilive">Africa must unite to take back riches: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/opinion/commentary/" style="width:300px">LATEST IN Commentary</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/commentary/2012/01/15/so-many-questions-phillip-dexter">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/866060_735666.jpg/ALTERNATES/crop_148x110/866060_735666.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/commentary/2012/01/15/so-many-questions-phillip-dexter">So many questions: Phillip Dexter</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/commentary/2012/01/15/our-pass-rate-focus-is-too-narrow">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/866501_735310.jpg/ALTERNATES/crop_148x110/866501_735310.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/commentary/2012/01/15/our-pass-rate-focus-is-too-narrow">Our pass rate focus is too narrow</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/commentary/2012/01/15/and-now-a-word-from-zzzzzzuma">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/867096_735764.jpg/ALTERNATES/crop_148x110/867096_735764.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/commentary/2012/01/15/and-now-a-word-from-zzzzzzuma">And now, a word from Zzzzzzuma</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/opinion/commentary/2012/01/15/obituary-zithulele-sinqe-legend-of-long-distance-running">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/866986_735545.jpg/ALTERNATES/crop_148x110/866986_735545.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/opinion/commentary/2012/01/15/obituary-zithulele-sinqe-legend-of-long-distance-running">Obituary: Zithulele Sinqe: legend of long-distance running</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <h3><a href="http://www.timeslive.co.za/opinion/commentary/2012/01/15/learning-to-give-back-to-our-communities">Learning to give back to our communities</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    <div class="tabContent">
+                        <div class="label">
+                            <h3><a href="#" style="width:300px"></a></h3>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="span-4 last">
+                            &nbsp;
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+</div>
+
+
+</li>
+        <li class="multimedia">
+            <a href="http://multimedia.timeslive.co.za" target="_blank" rel="nofollow">Videos</a>
+        </li>
+        <li  class="ilive bold ">
+            <a href="http://www.timeslive.co.za/ilive">iLIVE</a>
+            <div>
+    <div class="tabbed" style="z-index: 9999999">
+        <ul class="tabMenu">
+            <li class="ht selected">
+                                            <a href="http://www.timeslive.co.za/ilive/">iLIVE</a>
+                                        </li>
+                                    </ul>
+            <div class="tabContent">
+                            <div class="label">
+                                    <h3><a href="http://www.timeslive.co.za/ilive/" style="width:300px">LATEST IN iLIVE</a></h3>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/red-flag-for-green-paper-ilive">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/867335_735817.jpg/ALTERNATES/crop_148x110/867335_735817.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/red-flag-for-green-paper-ilive">Red flag for green paper: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/nature-as-vital-as-nurture-ilive">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/09/22/maasai-mara.jpg/ALTERNATES/crop_148x110/Maasai+Mara.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/nature-as-vital-as-nurture-ilive">Nature as vital as nurture: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/wary-of-e-toll-delay-tactics-ilive">
+	                                <img src="http://www.timeslive.co.za/incoming/2011/06/23/toll-road/ALTERNATES/crop_148x110/Toll+road" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/wary-of-e-toll-delay-tactics-ilive">Wary of e-toll delay tactics: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 ">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/uj-staff-behave-like-bouncers-ilive">
+	                                <img src="http://www.timeslive.co.za/Feeds/2012/01/14/866050_735421.jpg/ALTERNATES/crop_148x110/866050_735421.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/uj-staff-behave-like-bouncers-ilive">UJ staff behave like bouncers: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="span-4 last">
+                    <div class="blurb">
+                        <a href="http://www.timeslive.co.za/ilive/2012/01/17/africa-must-unite-to-take-back-riches-ilive">
+	                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2012/01/14/14-01-2012-09-01-00-813mdf68978.jpg/ALTERNATES/crop_148x110/14-01-2012-09-01-00-813mdf68978.jpg" alt="" width="146px" height="110px" />
+	                            </a>
+                            <h3><a href="http://www.timeslive.co.za/ilive/2012/01/17/africa-must-unite-to-take-back-riches-ilive">Africa must unite to take back riches: iLIVE</a></h3>
+                    </div>
+                </div>
+            <div class="clear"></div>
+    <div class="clear"></div>
+                        </div>
+                    </div>
+</div>
+
+
+</li>
+    </ul>
+    <div class="clear"></div>
+</div>
+
+<!-- Start headlines bar ################################################################################# -->
+<div id="headlines">
+    <div class="span-16">
+        
+                    &nbsp;
+                <div class="headline_title">
+                        <strong>Latest</strong>
+                    </div>
+                    <div id="headlineloopedslider">
+                        <div class="arrows">
+                            <a class="previous" href="#">previous</a>
+                            <a class="next" href="#">next</a>
+                        </div>
+                        <div class="loopcontainer" style="height: 16px; display: block;">
+                            <div class="slides">
+                                <div><a href="http://www.timeslive.co.za/africa/2012/01/17/swaziland-state-paper-fires-editor-after-democracy-interviews">Swaziland state paper fires editor after democracy interviews</a></div>
+    <div><a href="http://www.timeslive.co.za/africa/2012/01/17/47-die-in-another-round-of-south-sudan-tribal-violence">47 die in another round of South Sudan tribal violence</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2012/01/17/british-army-defuses-pipe-bomb-near-belfast-school">British army defuses pipe bomb near Belfast school</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2012/01/17/south-africa-s-murder-capital-cities">A tale of four cities</a></div>
+    <div><a href="http://www.timeslive.co.za/africa/2012/01/17/clinton-commends-ivory-coast-justice-effort">Clinton commends Ivory Coast justice effort</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2012/01/17/former-cop-jailed-for-23-years-for-murder">Former cop jailed for 23 years for murder</a></div>
+    <div><a href="http://www.timeslive.co.za/entertainment/music/2012/01/17/polish-singer-fined-for-bad-mouthing-bible">Polish singer fined for bad-mouthing Bible</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2012/01/17/rhino-bull-killed-near-mossel-bay">Rhino bull killed near Mossel Bay</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2012/01/17/recycling-levy-for-tyres-in-february">Recycling levy for tyres in February</a></div>
+    <div><a href="http://www.timeslive.co.za/entertainment/movies/2012/01/17/durban-heist-film-grosses-r320k-in-first-week">Durban heist film grosses R320k in first week</a></div>
+    <div><a href="http://www.timeslive.co.za/scitech/2012/01/17/swiss-to-return-greek-silver">Swiss to return Greek silver</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2012/01/17/missing-from-cruise-liner-include-14-germans-captain-questioned">Missing from cruise liner include 14 Germans, captain questioned</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2012/01/17/ambulances-not-exempt-from-chapman-s-peak-toll">Ambulances not exempt from Chapman's Peak toll</a></div>
+    <div><a href="http://www.timeslive.co.za/africa/2012/01/17/south-sudan-sudan-stealing-south-s-oil">South Sudan: Sudan stealing south's oil</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2012/01/17/chinese-dissident-to-stand-trial-for-poem">Chinese dissident to stand trial for poem</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2012/01/17/polish-condom-market-goes-limp">Polish condom market goes limp</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2012/01/17/henning-murder-case-postponed">Henning murder case postponed</a></div>
+    </div>
+                        </div>
+                    </div>
+                
+                    &nbsp;
+                </div>
+    <div class="span-8 last">
+        <ul class="links">
+    <li class="twitter"><a href="http://www.twitter.com/TimesLIVE" target="_blank">&nbsp;</a></li>
+    <li class="facebook"><a href="http://www.facebook.com/TimesLIVE" target="_blank">&nbsp;</a></li>
+    <li class="rss"><a href="http://www.timeslive.co.za/local/?service=rss" target="_blank">&nbsp;</a></li>
+</ul></div>
+    <div class="clear"></div>
+</div>
+
+<!-- End headlines bar ################################################################################### -->
+<!-- Start infobar-->
+<div id="infobar">
+    <!-- Start topics ################################################################################# -->
+   
+        <form name="searchActionForm" id="tagSearch" method="post" action="/search.do;jsessionid=AB82526F93093867C59BE258E5A3FD9F.present2.escenic.avusa.co.za"><div id="topics">
+                        
+                        &nbsp;
+                </div>
+           </form><!-- End topics ################################################################################### -->
+    <ul id="cj">
+    <li><a href="http://www.propertyjunction.co.za/" target="_blank">Property</a></li>
+    <li style="color:#114477">|</li>
+    <li><a href="http://www.autojunction.co.za/" target="_blank">Cars</a></li>
+    <li style="color:#114477">|</li>
+    <li><a href="http://www.timeslive.co.za/?filter=jobs">Jobs</a></li>
+    <li style="color:#114477">Find</li>
+</ul>
+<div class="clear"></div>
+</div>
+<!-- End infobar --></div>
+            <div class="container contentcontainer">
+                <div style="display:none">
+    Tue Jan 17 17:51:37 SAST 2012</div>
+<script type="text/javascript">
+    var CurrentUserID = 74019;
+    var CurrentArticleID = 3637984;
+</script>
+    <div class="leaderboard">
+    <div class="banner">
+        <script language="JavaScript" type="text/javascript">document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=top;tile=2;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');</script>
+                    <div class="clear"></div>
+    </div>
+    <div class="earpeice">
+    <div class="blurb featured">
+                <a href="http://www.timeslive.co.za/specialreports/hivaids/2012/01/16/hiv-slur-girls-fuming">
+                        <img height="88px" width="100px" class="thumbnail" alt="" src="http://www.timeslive.co.za/incoming/2011/08/15/hiv-aids-virus-rendering.jpg/ALTERNATES/crop_100x80/hiv+aids+virus+rendering.jpg">
+                    </a>
+                <h3>
+                    <a href="http://www.timeslive.co.za/specialreports/hivaids/2012/01/16/hiv-slur-girls-fuming">HIV slur: girls fuming</a>
+                </h3>
+                <div class="clear"></div>
+            </div>
+        <div class="clear"></div>
+</div>
+
+
+
+
+
+
+
+
+<div class="clear"></div>
+</div><div class="span-16">
+    <div id="content">
+        <div class="clear"></div>
+        <div class="breadcrumb">
+            <ul>
+                <li><a href="http://www.timeslive.co.za">Home</a></li>
+                <li><a href="http://www.timeslive.co.za/local/">South Africa</a></li>
+                <li><a href="http://www.timeslive.co.za/local/2012/01/17/horse-owner-charged-with-animal-cruelty">Article</a></li>
+                </ul>
+        </div>
+    <div class="clear"></div>
+
+
+
+
+
+<div id="article">
+    <h2 class="headline">Horse owner charged with animal cruelty</h2>
+    <div class="clear"></div>
+    <div class="meta">
+        Sapa | 2012-01-17 07:03:10.0</div>
+    <div class="clear"></div>
+    <div id="single_image_small">
+    <img src="http://www.timeslive.co.za/incoming/2012/01/17/200265137-001.jpg/RESIZED/Small/200265137-001.jpg" width="310px" alt=""/>
+    <div class="caption">
+        Brown horse. File photo.<br/>
+            <b>Image by:</b> Gallo Images/Thinkstock</div>
+ </div><div class="related_small">
+        <div class="label sub">
+        <h3>Save &amp; Share</h3>
+        <div class="clear"></div>
+    </div>
+    <div class="socialbuttons">
+        <div class="span-2 twitter">
+            <a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="TimesLIVE">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+            </div>
+        <div class="span-2 facebook">
+            <iframe src="http://www.facebook.com/plugins/like.php?app_id=162804257120529&amp;href=http%3A%2F%2Fwww.timeslive.co.za%2Flocal%2F2012%2F01%2F17%2Fhorse-owner-charged-with-animal-cruelty&amp;send=false&amp;layout=box_count&amp;width=95&amp;show_faces=true&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:65px;" allowTransparency="true"></iframe>
+           </div>
+        <div class="clear"></div>
+    </div>
+    <div class="share">
+        <h2 class="email"><a href="?filter=email" rel="nofollow" title="Email this article">Email</a></h2>
+        <h2 class="print"><a href="?service=print" rel="nofollow" title="Print this article" target="_blank">Print</a></h2>
+        <div class="clear"></div>
+    </div>
+<script language="JavaScript" type="text/javascript">document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=left;tile=3;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');</script>
+                    </div>
+    <div class="area">
+        <h3 class="intro">
+            The SPCA says a man has been charged with animal cruelty after he allegedly neglected to care for his horses, resulting them in being put down in Vereeniging, Gauteng on Monday.</h3>
+        <p>"The horses were underweight and had problematic hooves which caused severe pain and suffering," said Society for the Prevention of Cruelty to Animals' Vereeniging manager Marlien Pieterse in a statement.</p>
+<p>The owner had ignored warnings by the SPCA to get the two horses and a foal treated. The foal was born with a severely deformed mouth which caused severe pain whilst eating.</p>
+<p>"The owner refused to hand the horses over to the SPCA and became verbally abusive towards our inspectors."</p>
+<p>A warrant was obtained from the Vereeniging Magistrate's Court and the police called to help.</p>
+<p>"All three equine had to be humanely destroyed under instruction of a veterinarian and equine specialist."</p>
+<p>Pieterse said if the owner had treated the animals sooner, they would not have had to be put down.</p>
+<p>The owner was expected to be prosecuted in terms of the Animals Protection Act.</p>
+<div class="clear"></div>
+        <div class="share">
+        <ul>
+            <li><h3>Save &amp; Share</h3></li>
+            <li><h2 class="email"><a href="?filter=email" rel="nofollow" title="Email this article"></a></h2></li>
+            <li><h2 class="print"><a href="?service=print" rel="nofollow" title="Print this article" target="_blank"></a></h2></li>
+            <li class="twitter">
+                <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="TimesLIVE">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+            </li>
+            <li class="facebook">
+                <iframe src="http://www.facebook.com/plugins/like.php?app_id=175872059140576&amp;href=http%3A%2F%2Fwww.timeslive.co.za%2Flocal%2F2012%2F01%2F17%2Fhorse-owner-charged-with-animal-cruelty&amp;send=false&amp;layout=standard&amp;width=270&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:270px; height:35px;" allowTransparency="true"></iframe>
+                </li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+    <div class="clear"></div>
+    <!-- Start slider ################################################################################### -->
+    <!-- End slider ################################################################################### -->
+    <div class="clear"></div>
+    <div class="comments">
+        <div class="clear"></div>
+        <div class="pullcomment">
+            <div class="arrow">
+                <h3>SHARE YOUR OPINION</h3>
+                
+                If you have an opinion you would like to share on this article,
+                please <a href="mailto:ilive@timeslive.co.Za" style="color: red; font-weight: bold;">send us an e-mail</a>
+                to the Times LIVE iLIVE team. In the mean time, <a href="http://www.timeslive.co.za/ilive/" style="color: red; font-weight: bold;">click here</a>
+                to view the Times LIVE iLIVE section.
+            </div>
+        </div>
+        <div class="clear"></div>
+    <div class="clear"></div>
+        <div class="clear"></div>
+            </div>
+</div></div>
+</div>
+<div class="span-8 last">
+    <div id="sidebar">
+    <div class="banner">
+        <script language="JavaScript" type="text/javascript">document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=top;tile=4;sz=300x600,300x250;ord=' + ord + '?" type="text/javascript"><\/script>');</script>
+                    </div>
+    <div class="clear"></div>
+    <div class="label">
+    <h3><a href="http://www.timeslive.co.za/local/?filter=mostpopularsection">Most Popular</a></h3>
+    <div class="clear"></div>
+</div>
+<div class="tabbed">
+    <ul class="menu tabMenu">
+        <li class="selected" style="font-size: 13px;"><a href="#" style="font-size: 13px;">Today</a></li>
+        
+        <li><a href="#" style="font-size: 13px;">This Month</a></li>
+         
+        </ul>
+
+    <div class="tabContent">
+            <ul>
+            <li>
+                        <h2 style="width:57px; height:57px; padding:0px">1</h2>
+                        <a href="http://www.timeslive.co.za/local/2012/01/16/strippers-a-hit-in-cape-court">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/migration_catalog/Getty/2010/12/09/21-10-2010-19-10-26-771gyi0062138925.jpg/ALTERNATES/crop_55x55/21-10-2010-19-10-26-771GYI0062138925.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/16/strippers-a-hit-in-cape-court">Strippers a hit in Cape court</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">2</h2>
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/ali-bacher-fights-to-protect-his-legacy">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/Feeds/2012/01/16/867754_736271.jpg/ALTERNATES/crop_55x55/867754_736271.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/ali-bacher-fights-to-protect-his-legacy">Ali Bacher fights to protect his legacy</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">3</h2>
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/new-sabc-ceo-appointed">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/incoming/2011/10/19/sabc-hq/ALTERNATES/crop_55x55/sabc+hq">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/new-sabc-ceo-appointed">New SABC CEO appointed</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">4</h2>
+                        <a href="http://www.timeslive.co.za/local/2012/01/17/recall-of-3350-sa-minis">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/migration_catalog/ST/2010/12/22/731370_648604/ALTERNATES/crop_55x55/731370_648604">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/17/recall-of-3350-sa-minis">Recall of 3350 SA Minis</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">5</h2>
+                        <a href="http://www.timeslive.co.za/local/2012/01/15/the-monster-turns-up-for-a-shower">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/Feeds/2012/01/14/867341_735890.jpg/ALTERNATES/crop_55x55/867341_735890.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2012/01/15/the-monster-turns-up-for-a-shower">The 'monster' turns up for a shower</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                </ul>
+    </div>
+        
+        <div class="tabContent">
+            <ul>
+            <li>
+                        <h2 style="width:57px; height:57px; padding:0px">1</h2>
+                        <a href="http://www.timeslive.co.za/local/2011/12/31/anc-appeals-to-clan-to-rein-in-mandla-mandela">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/Feeds/2011/12/30/864076_733674.jpg/ALTERNATES/crop_55x55/864076_733674.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2011/12/31/anc-appeals-to-clan-to-rein-in-mandla-mandela">ANC appeals to clan to rein in Mandla Mandela</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">2</h2>
+                        <a href="http://www.timeslive.co.za/local/2011/06/13/zapiro-cartoons">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/incoming/2012/01/17/zapiro-17-january.jpg/ALTERNATES/crop_55x55/Zapiro+17+January.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2011/06/13/zapiro-cartoons">Zapiro cartoons</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">3</h2>
+                        <a href="http://www.timeslive.co.za/local/2011/12/31/lawyer-in-row-over-r1m-bling">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/Feeds/2011/12/30/863942_733671.jpg/ALTERNATES/crop_55x55/863942_733671.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2011/12/31/lawyer-in-row-over-r1m-bling">Lawyer in row over R1m bling</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">4</h2>
+                        <a href="http://www.timeslive.co.za/local/2011/12/14/car-remote-blocking-crime-on-the-rise-how-to-protect-yourself">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/incoming/2011/12/15/car-remote-03.jpg/ALTERNATES/crop_55x55/car+remote+03.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2011/12/14/car-remote-blocking-crime-on-the-rise-how-to-protect-yourself">Car remote blocking crime on the rise: how to protect yourself </a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">5</h2>
+                        <a href="http://www.timeslive.co.za/local/2011/12/30/ieb-matric-results-release-approved">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/Feeds/2011/10/18/845156_717334.jpg/ALTERNATES/crop_55x55/845156_717334.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/local/2011/12/30/ieb-matric-results-release-approved">IEB matric results release approved </a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                </ul>
+    </div>
+         
+        </div>
+
+<div class="clear"></div>
+<h3 class="readmore"><a href="http://www.timeslive.co.za/local/?filter=mostpopularsection">Read more popular stories</a></h3>
+<div class="clear"></div>
+
+
+
+
+
+
+
+<div class="blurb featured">
+						<a href="http://www.timeslive.co.za/local/2012/01/15/mom-s-errand-of-love-cut-short-by-tragedy"> <img width="140px" height="110px"
+								src="http://www.timeslive.co.za/Feeds/2012/01/14/867332_735799.jpg/ALTERNATES/crop_140x110/867332_735799.jpg"
+								alt=""
+								class="thumbnail" />
+							</a>
+						<h3>
+							<a href="http://www.timeslive.co.za/local/2012/01/15/mom-s-errand-of-love-cut-short-by-tragedy">Mom's errand of love cut short by tragedy</a>
+						</h3>
+						<div class="clear"></div>
+					</div>
+				<div class="blurb featured">
+						<a href="http://www.timeslive.co.za/local/2012/01/15/sa-private-schooling-cheaper-than-uk-us"> <img width="140px" height="110px"
+								src="http://www.timeslive.co.za/Feeds/2012/01/14/867327_735798.jpg/ALTERNATES/crop_140x110/867327_735798.jpg"
+								alt=""
+								class="thumbnail" />
+							</a>
+						<h3>
+							<a href="http://www.timeslive.co.za/local/2012/01/15/sa-private-schooling-cheaper-than-uk-us">SA private schooling cheaper than UK, US</a>
+						</h3>
+						<div class="clear"></div>
+					</div>
+				<div class="blurb featured">
+						<a href="http://www.timeslive.co.za/local/2012/01/15/banned-sa-doc-resurfaces-in-the-cape"> <img width="140px" height="110px"
+								src="http://www.timeslive.co.za/Feeds/2012/01/14/867346_735891.jpg/ALTERNATES/crop_140x110/867346_735891.jpg"
+								alt=""
+								class="thumbnail" />
+							</a>
+						<h3>
+							<a href="http://www.timeslive.co.za/local/2012/01/15/banned-sa-doc-resurfaces-in-the-cape">Banned SA doc resurfaces in the Cape</a>
+						</h3>
+						<div class="clear"></div>
+					</div>
+				<div class="blurb featured">
+						<a href="http://www.timeslive.co.za/local/2012/01/15/aim-higher-oprah-tells-sa"> <img width="140px" height="110px"
+								src="http://www.timeslive.co.za/Feeds/2012/01/14/867203_735925.jpg/ALTERNATES/crop_140x110/867203_735925.jpg"
+								alt=""
+								class="thumbnail" />
+							</a>
+						<h3>
+							<a href="http://www.timeslive.co.za/local/2012/01/15/aim-higher-oprah-tells-sa">Aim higher, Oprah tells SA</a>
+						</h3>
+						<div class="clear"></div>
+					</div>
+				<div class="blurb featured">
+						<a href="http://www.timeslive.co.za/local/2012/01/14/north-west-farmer-killed-wife-assaulted"> <img width="140px" height="110px"
+								src="http://www.timeslive.co.za/incoming/2011/06/24/gun-xgold-june/ALTERNATES/crop_140x110/gun+xgold+june"
+								alt=""
+								class="thumbnail" />
+							</a>
+						<h3>
+							<a href="http://www.timeslive.co.za/local/2012/01/14/north-west-farmer-killed-wife-assaulted">North West farmer killed, wife assaulted</a>
+						</h3>
+						<div class="clear"></div>
+					</div>
+				<div class="clear"></div>
+		<div class="clear"></div>
+    <div class="clear"></div>
+    <div class="banner">
+        <script language="JavaScript" type="text/javascript">document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=bottom;tile=5;sz=300x250,45x45;ord=' + ord + '?" type="text/javascript"><\/script>');</script>
+                    </div>
+    <div class="clear"></div>
+    <div class="banner">
+        <script type="text/javascript">
+google_ad_client = "ca-pub-0370095952508018";
+google_ad_slot = "5822129054";
+google_ad_width = 300;
+google_ad_height = 250;
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+    <div class="clear"></div>
+    <div class="banner">
+        <div class="sponsoredlinks">
+        <div class="label sub">
+                <h3>Sponsored Links</h3>
+                <div class="clear"></div>
+        </div>
+
+        <div class="col">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_1');
+                    //]]>-->
+                </script>
+        </div>
+
+        <div class="col last">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_2');
+                    //]]>-->
+                </script>
+        </div>
+
+        <div class="clear"></div>
+
+        <div class="col">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_3');
+                    //]]>-->
+                </script>
+        </div>
+
+        <div class="col last">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_4');
+                    //]]>-->
+                </script>
+        </div>
+
+        <div class="clear"></div>
+
+        <div class="col">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_5');
+                    //]]>-->
+                </script>
+        </div>
+
+        <div class="col last">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_6');
+                    //]]>-->
+                </script>
+        </div>
+
+        <div class="col">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_7');
+                    //]]>-->
+                </script>
+        </div>
+
+        <div class="col last">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_8');
+                    //]]>-->
+                </script>
+        </div>
+
+        <div class="col">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_9');
+                    //]]>-->
+                </script>
+        </div>
+
+        <div class="col last">
+                <script type='text/javascript'>
+                    <!--// <![CDATA[
+                    OA_show('sponsored_10');
+                    //]]>-->
+                </script>
+        </div>
+
+        
+
+        <div class="clear"></div>
+
+
+</div></div>
+    <div class="clear"></div>
+    <div class="banner">
+        <div class="banners">
+    	<!--/* OpenX Javascript Tag v2.8.1 */-->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=275");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+
+
+<!--/* OpenX Javascript Tag v2.8.1 */-->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=276");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+
+
+<!--/* OpenX Javascript Tag v2.8.1 */-->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=277");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+
+
+<!--/* OpenX Javascript Tag v2.8.1 */-->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=278");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</div></div>
+    <div class="clear"></div>
+    <div class="banner">
+        <div class="banners">
+    <script type="text/javascript" src="http://b.wm.co.za/wmjs.php?location=T"></script>
+</div></div>
+</div>
+
+
+
+
+
+</div>
+
+
+
+<div class="clear"></div>
+            </div>
+            <div class="container">
+                <div id="footer">
+    <div class="footerlists">
+        <div class="span-4">
+    <div class="box">
+        <h4>Main Menu</h4>
+        <ul>
+            <li><a href="http://www.timeslive.co.za">News</a></li>
+            <li><a href="http://www.timeslive.co.za/politics">Politics</a></li>
+            <li><a href="http://www.sportlive.co.za" target="_blank">Sport</a></li>
+            <li><a href="http://www.businesslive.co.za" target="_blank">Business</a></li>
+            <li><a href="http://www.timeslive.co.za/entertainment">Entertainment</a></li>
+            <li><a href="http://www.timeslive.co.za/lifestyle">Life &amp; Style</a></li>
+            <li><a href="http://www.timeslive.co.za/travel">Travel</a></li>
+            <li><a href="http://www.timeslive.co.za/food">Food</a></li>
+            <li><a href="http://www.timeslive.co.za/scitech">Sci-Tech</a></li>
+            <li><a href="http://www.timeslive.co.za/opinion">Opinion</a></li>
+            <li><a href="http://multimedia.timeslive.co.za" target="_blank">Videos</a></li>
+            <li><a href="http://www.timeslive.co.za/ilive">iLive</a></li>
+            <li><a href="http://blogs.timeslive.co.za" target="_blank">Blogs</a></li>
+            
+        </ul>
+    </div>
+</div>
+<div class="span-4">
+    <div class="box">
+        <h4>Our Network</h4>
+        <ul>
+        	<li><a href="http://dating.timeslive.co.za" target="_blank" rel="nofollow">Times LIVE Dating</a></li>
+            <li><a href="http://www.sowetanlive.co.za" target="_blank" rel="nofollow">Sowetan LIVE</a></li>
+            <li><a href="http://www.sportlive.co.za" target="_blank" rel="nofollow">Sport LIVE</a></li>
+            <li><a href="http://www.sundayworld.co.za" target="_blank" rel="nofollow">Sunday World</a></li>
+            <li><a href="http://www.bookslive.co.za" target="_blank" rel="nofollow">Books LIVE</a></li>
+            <li><a href="http://www.businesslive.co.za" target="_blank" rel="nofollow">Business LIVE</a></li>
+            <li><a href="http://www.avusamedialive.co.za/" target="_blank" rel="nofollow">Avusa Media LIVE</a></li>
+        </ul>
+        <br/>
+        <h4>Social Network</h4>
+       	<ul>
+            <li><a href="http://www.facebook.com/TimesLIVE" target="_blank" rel="nofollow">Facebook Page</a></li>
+            <li><a href="http://www.twitter.com/TimesLIVE" target="_blank" rel="nofollow">Twitter</a></li>
+        </ul>
+    </div>
+</div>
+<div class="span-4">
+    <div class="box">
+        <h4>Partner Sites</h4>
+        <ul>
+            <li><a href="http://www.exclus1ves.co.za/" target="_blank" rel="nofollow">Exclusive Books</a></li>
+         	<li><a href="http://www.junction.co.za/" target="_blank" rel="nofollow">Junction Sites</a></li>            	
+         	<li>&nbsp; &nbsp; <a href="http://www.careerjunction.co.za/" target="_blank" rel="nofollow">Career</a></li>
+         	<li>&nbsp; &nbsp; <a href="http://www.autojunction.co.za/" target="_blank" rel="nofollow">Auto</a></li>
+         	<li>&nbsp; &nbsp; <a href="http://www.propertyjunction.co.za/" target="_blank" rel="nofollow">Property</a></li>
+         	<li><a href="http://www.businessday.co.za/" target="_blank" rel="nofollow">BDFM</a></li>
+         	<li><a href="http://www.mapit.co.za/" target="_blank" rel="nofollow">Map IT</a></li>            	
+         	<li><a href="http://www.numetro.co.za/" target="_blank" rel="nofollow">NuMetro</a></li>
+         	<li><a href="http://www.inet.co.za/" target="_blank" rel="nofollow">I-Net Bridge</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="span-4">
+    <div class="box">
+        <h4>Online Services</h4>
+        <ul>
+            <li><a href="http://www.timeslive.co.za/?filter=advertise" rel="nofollow">Advertise Online</a></li>
+            <li><a href="http://www.timeslive.co.za/?filter=subscribe_newsletter" rel="nofollow">Subscribe To Newsletter</a></li>
+            <li><a href="http://www.timeslive.co.za/entertainment/competitions/" rel="nofollow">Competitions</a></li>
+            <li><a href="http://m.timeslive.co.za" target="_blank"  rel="nofollow">Mobile</a></li>
+            <li><a href="http://www.timeslive.co.za/?filter=rssfeeds" rel="nofollow">RSS Feeds</a></li>
+            <li><a href="http://www.timeslive.co.za/?filter=syndication" rel="nofollow">Syndication</a></li>
+        </ul>
+        <br/>
+        <h4>Print Services</h4>
+        <ul>
+            <li><a href="http://www.timeslive.co.za/?filter=advertise_print" rel="nofollow">Advertise In Print</a></li>
+            <li><a href="http://www.stsubscribe.co.za" target="_blank" rel="nofollow">Subscription Services</a></li>
+        </ul>
+    </div>
+</div>
+<div class="span-4">
+	 <div class="box">
+	     <h4>Projects</h4>
+	     <ul>
+	         <li><a href="http://www.sundaytimesfoodawards.co.za/" target="_blank" rel="nofollow">Food Awards</a></li>
+	         <li><a href="http://heritage.thetimes.co.za/" target="_blank" rel="nofollow">Heritage Project</a></li>
+	         <li><a href="http://www.readright.co.za/" target="_blank" rel="nofollow">ReadRight</a></li>
+	     </ul>
+	 </div>
+</div>
+<div class="span-4 last">
+    <div class="box">
+     	<h4>Contact Us</h4>
+        <ul>
+            <li><a href="http://www.timeslive.co.za/?filter=contactus">Contact Details</a></li>
+        </ul>
+        <br/>
+        <h4>Other</h4>
+        <ul>
+            <li><a href="http://www.timeslive.co.za/?filter=sitemap">Site Map</a></li>
+            <li><a href="http://www.timeslive.co.za/?filter=termsandconditions">Terms &amp; Conditions</a></li>
+        </ul>
+    </div>
+</div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+    <div class="clear"></div>
+    <div class="meta">
+            <h1><a href="http://www.timeslive.co.za ">Times LIVE</a></h1>
+            &copy; 2011 AVUSA, Inc. All rights reserved.<br/>
+            Use of this site constitutes acceptance of our <a href="http://www.timeslive.co.za/?filter=termsandconditions">Terms &amp; Conditions</a> and <a href="http://www.timeslive.co.za/?filter=privacyAndPolicy">Privacy Policy</a>.
+            
+            <div>
+            	<div>
+            		<h2 class="dmma"><a href="http://www.dmma.co.za" target="_blank" rel="nofollow">DMMA</a></h2>
+           		</div>
+           		<div style="float: right;"><a href="http://www.avusa.co.za" class="inspired" target="_blank"> </a></div>
+            </div>
+            <div class="clear"></div>
+    </div>
+</div></div>
+        </div>
+        <script charset="utf-8" type="text/javascript">
+            $(function(){
+                // Option set as a global variable
+                $.fn.loopedSlider.defaults.addPagination = true;
+
+                $('#loopedSliderAggregator').loopedSlider({
+                	autoHeight: 600,
+                	autoStart: false,
+                    hoverPause: true,
+                    pagination:"aggregatorPagination",
+                    containerClick: false
+                });
+                $('#loopedSliderColumnists').loopedSlider({
+                	autoHeight: 600,
+                	autoStart: false,
+                    hoverPause: true,
+                    pagination:"aggregatorPagination",
+                    containerClick: false
+                });
+                $('#loopedSlider').loopedSlider({
+                    autoHeight: 600,
+                    hoverPause: true
+                });
+                $('#sectionloopedslider').loopedSlider({
+                    autoHeight: 600,
+                    autoStart: 8000,
+                    hoverPause: true,
+                    addPagination: false,
+                    containerClick:false
+                });
+                $('#headlineloopedslider').loopedSlider({
+                    autoStart: 6000,
+                    autoHeight: 600,
+                    hoverPause: true,
+                    addPagination: false,
+                    containerClick:false
+                });
+            });
+        </script>
+
+        <!-- BEGIN Community Engine statistics -->
+<img style="display: none;" src="http://www.timeslive.co.za/statistics/view/record.do?articleId=3637984&sectionId=36496&publicationId=36059&articleType=news&userId=" />
+<!-- END Community Engine statistics --><script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-9714899-1']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script></body>
+</html>
+

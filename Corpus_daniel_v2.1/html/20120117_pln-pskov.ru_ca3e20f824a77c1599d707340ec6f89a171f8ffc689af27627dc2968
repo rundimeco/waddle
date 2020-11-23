@@ -1,0 +1,680 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Expires" content="now">
+<meta http-equiv="pragma " content="no-cache">
+<meta http-equiv="cache-control" content="0">
+
+<div style="display: none"><!--B2BCONTEXT_CONTENT_BEGIN-->Псков Северо-запад политика бизнес строительство недвижимость таможня Эстония Латвия грузоперевозки деревообработка лес туризм<!--B2BCONTEXT_CONTENT_END--></div>
+<meta name="verify-v1" content="Wjy1g4Ua8WiQEa+O1TiaonH80jJ04xTeoBB7nEDTBbM=" />
+
+<link href="http://pln-pskov.ru/export/rss.php" rel="alternate" type="application/rss+xml" title="Псковская Лента Новостей" />
+<title>Солнечный свет можно принимать в таблетках : Псковская Лента Новостей / ПЛН</title>
+<link rel="stylesheet" href="/mainN.css" type="text/css">
+
+<script type="text/javascript" src="http://vkontakte.ru/js/api/share.js?10" charset="utf-8"></script>
+
+<script src="/js/swfobject.js" type="text/javascript"></script>
+
+
+<script>
+		!window.jQuery && document.write('<script src="/js/jquery-1.4.3.min.js"><\/script>');
+	</script>
+	<script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+ 	<link rel="stylesheet" href="style.css" />
+
+    	<script type="text/javascript">
+		$(document).ready(function() {
+
+
+			$("a.gallery").fancybox({
+				'titlePosition'	: 'inside'
+			});
+
+			$("a[rel=gallerys]").fancybox({
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'titlePosition' 	: 'over',
+				'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
+					return '<span id="fancybox-title-over">Фото ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+				}
+			});
+
+
+		});
+	</script>
+
+
+
+</head>
+
+<body>
+<noindex>
+<script language="JavaScript" type="text/javascript">
+function OpenGallery(gallery)
+{
+w=751;
+var browser=navigator.userAgent.toLowerCase();
+if (((browser.indexOf("msie")!=-1) && (browser.indexOf("opera")==-1)))
+{
+        h=610;
+}
+else
+{
+        h=610;
+}
+
+
+LeftPosition=(screen.width)?(screen.width-w)/2:100;
+TopPosition=(screen.height)?(screen.height-h)/2:100;
+settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=yes,menubar=no,toolbar=no,resizable=no';
+gallerypage='http://pln-pskov.ru/prpt/gallery.php?gallery='+gallery;
+win=window.open(gallerypage,'gallery'+gallery,settings);
+win.focus();
+}
+</script>
+</noindex>
+
+<noindex>
+<script language="JavaScript" type="text/javascript">
+function OpenNGallery(gallery, photo)
+{
+w=751;
+var browser=navigator.userAgent.toLowerCase();
+if (((browser.indexOf("msie")!=-1) && (browser.indexOf("opera")==-1)))
+{
+        h=610;
+}
+else
+{
+        h=610;
+}
+
+
+LeftPosition=(screen.width)?(screen.width-w)/2:100;
+TopPosition=(screen.height)?(screen.height-h)/2:100;
+settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=yes,menubar=no,toolbar=no,resizable=no';
+gallerypage='http://pln-pskov.ru/nphoto/gallery.php?gallery='+gallery+'&photo='+photo;
+win=window.open(gallerypage,'gallery'+gallery,settings);
+win.focus();
+}
+</script>
+
+<script type="text/javascript">
+function open_window(link,w,h) //opens new window
+ {
+  var win = "width="+w+",height="+h+",menubar=no,location=no,resizable=yes,scrollbars=no";
+  newWin = window.open(link,"newWin",win);
+  newWin.focus();
+ }
+</script>
+
+
+</noindex>
+<div id="megawrapper">
+<div id="topwrapper">
+<div id="top_line">
+<div id="links_top"><a title="Добавить в Избранное" href="" onclick="window.external.AddFavorite(location.href, document.title);return false"><img src="/ii/ico_star.gif" width="26" height="14" align="absmiddle">В Избранное</a>  |  <a title="Сделать стартовой страницей" href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.pln-pskov.ru'); return false;">Сделать стартовой</a>  |  <a href="/subscribe/">Подписка</a> | <a href="/gpressacont/">О проекте</a> |<a title="лента RSS" href="/export/rss.php"><img src="/ii/ico_rss.gif" width="26" height="15" align="absmiddle">RSS</a>&nbsp;&nbsp;<a class="box_red"         href="/reklama/">РЕКЛАМА НА САЙТЕ</a></div>
+<div id="date_top"><nobr><a href="http://pln-pskov.ru/"><< вернуться на ПЛН</a> &nbsp; | Новости Пскова и Псковской области.  Сегодня: Вторник, 17 Января</nobr></div>
+</div>
+<div id="header_line">
+<nobr>
+<div id="logo"><a href="/"><img src="/ii/health_logo3.jpg" alt="ПЛН Информационный портал" title="На Главную"  border="0"></a></div>
+<div style="float: left; margin: 0px 7px 0px 8px">
+<center>
+
+</center>
+</div>
+</nobr>
+</div>
+<div id="top_line">
+  <div id="timeline_top">Информационный портал Псковской области. Полная картина жизни. Основан в 2000 году.</div>
+</div>
+</div>
+
+
+<!-- Верхнее меню -->
+<div id="nenuwrapper">
+
+<div id="first_string">
+<a href="/hnews">НОВОСТИ</a> <a href="/hinterv">ИНТЕРВЬЮ</a> <a href="/harticles">СТАТЬИ</a> <a href="/medkonk">КОНКУРСЫ</a>  <a href="/medask/">ВОПРОС ДОКТОРУ</a> <a href="http://pln24.ru/mrevolution/">МОДНАЯ РЕВОЛЮЦИЯ</a>
+
+
+</div>
+<div id="ushiwrapper"> <div id="uho">
+  <a title="Детский фитнес-марафон" href="/adc/go.php?id=212"><img border="0" src="/adc/get.php?id=212" alt="Детский фитнес-марафон" width="150" height="90"/></a>
+     </div>
+<div id="uho">
+  <a title="Подарил здоровье - сократил расходы" href="/adc/go.php?id=207"><img border="0" src="/adc/get.php?id=207" alt="Подарил здоровье - сократил расходы" width="150" height="90"/></a>
+     </div>
+<div id="uho">
+  <a title="Вопрос доктору" href="/adc/go.php?id=170"><img border="0" src="/adc/get.php?id=170" alt="Вопрос доктору" width="150" height="90"/></a>
+     </div>
+<div id="uho">
+  <a title="Забота с первых минут" href="/adc/go.php?id=201"><img border="0" src="/adc/get.php?id=201" alt="Забота с первых минут" width="150" height="90"/></a>
+     </div>
+<div id="uho">
+  <a title="Центр доктора Бубновского в Пскове" href="/adc/go.php?id=203"><img border="0" src="/adc/get.php?id=203" alt="Центр доктора Бубновского в Пскове" width="150" height="90"/></a>
+     </div>
+<div id="uho">
+  <a title="Фитнес-гороскоп на 2012 год" href="/adc/go.php?id=213"><img border="0" src="/adc/get.php?id=213" alt="Фитнес-гороскоп на 2012 год" width="150" height="90"/></a>
+     </div>
+
+
+</div>
+
+<!-- Содержательная часть -->
+<div id="contentwrapper">
+
+<!-- Правая колонка -->
+<div id="rigt_column">
+        <!-- Поиск -->
+        <div id="search"><form action="http://pln-pskov.ru/search/" method="get"><input name="text" class="in" title="Введите ключевое слово и нажмите Enter" value="поиск по сайту"onfocus="if(this.value=='поиск по сайту') this.value='';"  onblur="if(this.value=='') this.value='поиск по сайту';"/><input style="padding: 0 6px 0 6px" type=submit name="search" value="Найти"></form></div>
+
+    <!-- Рекламные модули -->
+    <div id="money">
+    
+<div id="ads">
+<!--/* OpenX Тэг Javascript v2.6.4 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=101");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=a5b9501d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=101&amp;n=a5b9501d' border='0' alt='' /></a></noscript>
+
+</div>
+<div id="ads">
+
+<!--/* OpenX Тэг Javascript v2.6.4 */-->
+
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=102");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=ae9578de&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=102&amp;n=ae9578de' border='0' alt='' /></a></noscript>
+
+
+ </div>
+<div id="ads">
+
+<!--/* OpenX Тэг Javascript v2.6.4 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=103");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=a9b3ce3d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=103&amp;n=a9b3ce3d' border='0' alt='' /></a></noscript>
+
+ </div>
+<div id="ads">
+
+<!--/* OpenX Тэг Javascript v2.6.4 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=104");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=a15bbfe0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=104&amp;n=a15bbfe0' border='0' alt='' /></a></noscript>
+
+</div>
+
+<div id="ads">
+
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=133");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=ac4ae030&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=133&amp;n=ac4ae030' border='0' alt='' /></a></noscript>
+
+</div>
+
+<div id="ads">
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=137");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=af515380&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=137&amp;n=af515380' border='0' alt='' /></a></noscript>
+
+</div>
+
+
+<div id="ads">
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=138");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=a8b8582e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=138&amp;n=a8b8582e' border='0' alt='' /></a></noscript>
+
+
+</div>
+
+
+<div id="ads">
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=139");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=a2028f19&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=139&amp;n=a2028f19' border='0' alt='' /></a></noscript>
+
+
+</div>
+
+
+<div id="ads">
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=140");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=aef6a57c&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=140&amp;n=aef6a57c' border='0' alt='' /></a></noscript>
+
+
+</div>
+
+
+ 
+    <br><div id="ads"><!--1408220172135--></div></div>
+    </div>
+
+<div id="content">
+<!-- рекламный модуль -->
+<div id="plashka" style="background: url(/ii/bg_grey_gently.gif)">
+<center>
+<!--/* OpenX Тэг Javascript v2.6.4 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=108");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=a7e17e28&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=108&amp;n=a7e17e28' border='0' alt='' /></a></noscript>
+
+</center>
+  </div>
+
+
+ <div id="plashka">
+   <SCRIPT language=JavaScript>
+    <!--
+    function scroll(msg)
+     {
+      blank='&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+      msg=blank+msg;
+      document.write("<marquee scrolldelay=2 scrollamount=2>"+msg+"</marquee>");
+    };
+    scroll("<a class=\'marquee\' href=\'http://health.pln24.ru/health/harticles/103956.html\'><span style=\'color:#9E0B0E;\'><b>&#8226;</b></span>  <span style=\'font-weight: 500;\'> Лучший новогодний подарок</span></a>&nbsp&nbsp&nbsp<a class=\'marquee\' href=\'http://health.pln24.ru/health/harticles/102484.html\'><span style=\'color:#9E0B0E;\'><b>&#8226;</b></span>  <span style=\'font-weight: 500;\'> Забота с первых минут</span></a>&nbsp&nbsp&nbsp<a class=\'marquee\' href=\'http://health.pln24.ru/health/hinterv/103232.html\'><span style=\'color:#9E0B0E;\'><b>&#8226;</b></span>  <span style=\'font-weight: 500;\'> Метод доктора Бубновского</span></a>&nbsp&nbsp&nbsp<a class=\'marquee\' href=\'http://health.pln24.ru/health/harticles/102914.html\'><span style=\'color:#9E0B0E;\'><b>&#8226;</b></span>  <span style=\'font-weight: 500;\'> Спасение от бессонницы</span></a>&nbsp&nbsp&nbsp");
+    //-->
+    </SCRIPT>
+
+   </div>
+     <!-- остальные материалы. типа новостей -->
+
+
+
+<div id="materials_block">
+<h1><a href="/health/hnews/">Новости</a></h1>
+<!-- это правый столбец -->
+<div id="col_left_inner">
+<div id="material">
+<div id="left_menu">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.pln-pskov.ru/ads/www/delivery/ajs.php':'http://www.pln-pskov.ru/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=132");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://www.pln-pskov.ru/ads/www/delivery/ck.php?n=a95ce856&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.pln-pskov.ru/ads/www/delivery/avw.php?zoneid=132&amp;n=a95ce856' border='0' alt='' /></a></noscript>
+<br>
+<ul> 
+ <li ><a href="/sbeauty//">Cалоны красоты</a></li> 
+ <li ><a href="/sportclubs//">Спортклубы</a></li> 
+ <li ><a href="/solariums//">Солярии</a></li> 
+ <li ><a href="/medcenters//">Медцентры</a></li> 
+ <li ><a href="/medlabs//">Лаборатории</a></li> 
+ <li ><a href="/hospitals//">Больницы</a></li> 
+ <li ><a href="/dispansers//">Диспансеры</a></li> 
+ <li ><a href="/drugstore//">Аптеки</a></li> 
+ <li ><a href="/spool//">Бассейны</a></li> 
+ </ul> 
+<br><div class="top_box"><a href="/health/hnews/105802.html">
+
+         <H4><a href="/health/hnews/105802.html">Псковская область получит около 500 млн рублей на оснащение онкоцентра</a></H4>
+          <a href="/health/hnews/105802.html">
+	Псковская область в 2012 году получит субсидию из федерального бюджета в размере 493 млн рублей на приобретение современного медицинского оборудования для будущего онкологического центра области.
+
+	Как сообщили...</a><a class="comments" href="/forum/105802.html" title="Комментарии:2">2</a></a>
+<div class="main_box">
+
+     <div><a href="/health/hnews/106071.html"><span class="news_date">18:16 </span>Солнечный свет можно принимать в таблетках</a></div><div><a href="/health/hnews/105983.html"><span class="news_date">16.01.2012 14:39 </span>Интернет-зависимость приравняли к алкоголизму и наркомании</a><a class="comments" href="/forum/105983.html" title="Комментариев: 4">4</a></div><div><a href="/health/hnews/105991.html"><span class="news_date">16.01.2012 14:25 </span>Самым «печальным» днем в году назвали 16 января </a><a class="comments" href="/forum/105991.html" title="Комментариев: 8">8</a></div><div><a href="/health/hnews/105920.html"><span class="news_date">13.01.2012 18:37 </span>Скучать на рабочем месте - вредно для здоровья, считают специалисты</a><a class="comments" href="/forum/105920.html" title="Комментариев: 8">8</a></div><div><a href="/health/hnews/105861.html"><span class="news_date">13.01.2012 10:10 </span>Сосиски и бекон могут привести к раку - ученые</a><a class="comments" href="/forum/105861.html" title="Комментариев: 7">7</a></div>
+    </div>
+    <div id="more"><a class="more" href="hnews/1.html">Все материалы раздела&nbsp;</a></div>
+
+
+     
+</div>
+</div>
+
+<!-- <ul id="menu">
+<li><a href="/rubrikator/"><h3>Полный рубрикатор</h3></a></li><li><a href="/rubrika/auto/">Автомобили</a></li><li><a href="/rubrika/bases/">Базы</a></li><li><a href="/rubrika/vlasti/">Власть</a></li><li><a href="/rubrika/stations/">Вокзалы</a></li><li><a href="/rubrika/gostinicy/">Гостиницы</a></li><li><a href="/rubrika/leisure/">Досуг</a></li><li><a href="/rubrika/zhilishno/">ЖКХ</a></li><li><a href="/rubrika/protection/">Защита</a></li><li><a href="/rubrika/poblishers/">Издательства</a></li><li><a href="/rubrika/knigi/">Книги</a></li><li><a href="/rubrika/shops/">Магазины</a></li><li><a href="/rubrika/buildings/">Недвижимость</a></li><li><a href="/rubrika/aducation/">Образование</a></li><li><a href="/rubrika/food/">Питание</a></li><li><a href="/rubrika/enterprises/">Предприятия</a></li><li><a href="/rubrika/reklama/">Реклама</a></li><li><a href="/rubrika/communication/">Связь</a></li><li><a href="/rubrika/sport/">Спорт</a></li><li><a href="/rubrika/transport/">Транспорт</a></li><li><a href="/rubrika/facility/">Услуги</a></li><li><a href="/rubrika/finansy/">Финансы</a></li><li><a href="/rubrika/energy/">Энергетика</a></li><li><a href="/rubrika/lao/">Юридические консультации</a></li>
+    </ul>
+-->
+</div>
+
+</div>
+<div id="col_right_inner">
+  <div id="material_txt"><h2>Солнечный свет можно принимать в таблетках</h2>
+<div id="date">17.01.2012 18:16 ПЛН, Псков</div> <p>
+	Солнечный свет можно принимать в таблетках. Как сообщает PrimMarketing.ru, лекарственные препараты, обладающие целительным воздействием солнечных лучей, были замечены в одной из французских аптек.</p>
+<p style="text-align: center; ">
+	<img alt="" src="/pictures/120117181429.jpg" style="width: 500px; height: 332px; " /></p>
+<p style="text-align: center; ">
+	Фото PrimMarketing.ru</p>
+<p>
+	Перед использованием таблеток разработчики советуют внимательно ознакомиться с инструкцией и не превышать рекомендуемую дозу. Также лучше избегать длительного использования препарата.</p>
+<p>
+	Таблетки советуют принимать при недостатке в холодное время года солнечного света и связанных с этим депрессиях. Теперь необходимости лететь на Гаити, Мальдивы и Бора-Бора: достаточно просто купить в аптеке упаковку таблеток и принимать солнечный свет этих райских мест внутрь, сообщает издание.</p>
+<p>Источник: <A href="http://www.pln-pskov.ru">Псковская Лента Новостей</a></p></div><br>
+
+           <div>
+           <table border="0" cellspacing="5" cellpadding="5" align="right">
+           <tr>
+           <td>
+
+           <!-- Put this script tag to the place, where the Share button will be -->
+<script type="text/javascript"><!--
+document.write(VK.Share.button(false,{type: "round", text: "Опубликовать"}));
+--></script>
+</td>
+<td>&nbsp</td>
+<td>
+<a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Опубликовать</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+</td>
+
+<td>&nbsp</td>
+ <td>
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</td>
+</tr>
+</table>
+</div>
+<br>
+<br>
+
+           <div class="material_line"><span class="icons">Комментарии: <a class="comments" href="/forum/106071.html" title="Комментарии:4">4</a><a href="/blogers/106071.html" class="blog" title="Вставить в блог">Вставить в блог</a><a href="/print/106071.html" class="print" title="Версия для печати">Версия для печати</a> </span> </div>
+
+<!-- остальные заголовки -->
+  <div id="yadpln"></div> </a>
+</div>
+<!-- полуподвальный редтрам -->
+<div id="materials_block">
+<h1>Интересные новости</h1>
+<div id="redtrams_box" >
+<!-- bof RedTram N4P -->
+
+      <div id="DIV_NAME">Загружается, подождите...</div>
+
+  <!-- eof RedTram N4P -->
+</div>
+<div id="redtrams_box" >
+<noindex>
+
+<div id="rtn4p_19650"><a href="http://ru.redtram.com/" target="_blank">Loading...</a></div>
+<script type="text/javascript" src="http://js.ru.redtram.com/n4p/p/l/pln-pskov.ru_19650.js"></script>
+
+</noindex>
+
+</div>
+<div id="redtrams_box" >
+ <!-- MarketNews Start -->
+<div id="MarketGid1214"><center>
+<noindex><a href="http://marketgid.com" target="_blank" rel="nofollow">Загрузка...</a>
+</center></div>
+<!-- MarketNews End -->
+</noindex>
+
+</div>
+
+</div>
+<!-- eof полуподвального редтрама --> 
+
+
+<!-- подвал -->
+<div id="footer">
+<table id="footer" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><a href="/"><img src="/ii/logo_small.gif" width="109" height="25" vspace="6" /></a></td>
+    <td>&copy; Первое информационное агентство Псковской области <a href="http://pln-pskov.ru">&laquo;Псковская Лента Новостей&raquo;</a>, 2000-2011<br />
+      <span class="small">Свидетельство о регистрации СМИ Эл № 77-6987 выдано в Министерстве РФ по делам печати, телерадиовещания и средств массовой коммуникации 19 мая 2003 года.<br />
+      При полном или частичном использовании материалов ссылка (при публикации в сети Internet - гиперссылка) на&nbsp;&laquo;Псковская&nbsp;Лента&nbsp;Новостей&raquo;; обязательна<br />
+      Псковская Лента Новостей: Новости Пскова, Великих Лук и Псковской области, <a  class="marquee" href="/hotel/" title="гостиницы Пскова"> гостиницы Пскова</a>, <a class="marquee" href="/spravka/" title="справочник организаций и предприятий Пскова"> справочник организаций и предприятий Пскова</a>, <a class="marquee" href="/rgd/" title="расписание поездов"> расписание поездов </a>, <a class="marquee" href="/aviareis/" title="авиарейс Псков-Москва">авиарейс Псков-Москва</a>, <a class="marquee" href="/aviareis/" title="авиарейс Псков-Рига">авиарейс Псков-Рига</a>,<a class="marquee" href="/pskovmap/" title="карта Пскова и Псковской области"> карта Пскова и Псковской области</a>, <a class="marquee" href="/jobinpsk/" title="работа в Пскове"> работа в Пскове</a>,  <a class="marquee" href="/smi/" title="СМИ в Пскове"> СМИ в Пскове</a>, <a class="marquee" href="/smi/" title="власть в Пскове"> власть в Пскове</a>,  <a class="marquee" href="/apsk/" title="реклама в Пскове"> реклама в Пскове</a>
+      </span><br />
+    <td width="30%"><span class="small">
+
+    <b>Контактный телефон:</b> (8112) 722207 <br />
+    <b>Главный редактор</b> Александр Савенко <br />
+    <b>Редактор раздела</b> Светлана Синцова <br />
+    <b>Коммерческий директор</b> - Анна Костикова  <br />
+    <b>Реклама на сайте:</b> <a href=\"mailto:reklama@businesspskov.ru\">reklama@businesspskov.ru</a>,  тел (8112) 720120 <br />
+    <b>Общие вопросы:</b> <a href="mailto:inbox@pln-pskov.ru"> inbox@pln-pskov.ru </a>   <br />
+    <b>Технические вопросы:</b> <a href="mailto:admin@pln-pskov.ru"> admin@pln-pskov.ru </a> <br />
+    <a href="/partners/"><b>Партнеры</b> </a> <br />
+   </span></td>
+  </tr>
+</table>
+</div>
+
+
+</div>
+<noindex>
+<script charset="utf-8" type="text/javascript" src="http://nnn.novoteka.ru/show.cgi?adp=1235&div=DIV_NAME"></script>
+<!-- other pages -->
+<noindex>
+<!--Rating@Mail.ru COUNTEr--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=736109"'+
+' target=_top><img src="http://db.c3.bb.a0.top.list.ru/counter'+
+'?id=736109;t=139;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border=0 height=40 width=88/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target=_top href="http://top.mail.ru/jump?from=736109"><img
+src="http://db.c3.bb.a0.top.list.ru/counter?js=na;id=736109;t=139"
+border=0 height=40 width=88
+alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+</noindex>
+
+<noindex>
+<!--LiveInternet counter-->
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write('<img src="http://counter.yadro.ru/hit?r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" width=1 height=1 alt="">')//--></script><!--/LiveInternet-->
+
+<!--LiveInternet logo-->
+<a href="http://www.liveinternet.ru/click"
+target=_blank><img src="http://counter.yadro.ru/logo?21.6" border=0
+title="LiveInternet: показано число просмотров за 24 часа, посетителей за
+24 часа и за сегодня"
+alt="" width=88 height=31></a>
+<!--/LiveInternet-->
+</noindex>
+
+<noindex>
+<!-- SpyLOG -->
+<script src="http://tools.spylog.ru/counter2.2.js" type="text/javascript" id="spylog_code" counter="61909" ></script>
+<noscript>
+<a href="http://u619.09.spylog.com/cnt?cid=61909&f=3&p=0" target="_blank">
+<img src="http://u619.09.spylog.com/cnt?cid=61909&p=0&f=4" alt='SpyLOG' border='0' width=1 height=1 ></a>
+</noscript>
+<!--/ SpyLOG -->
+</noindex>
+
+<noindex>
+<!--begin of Top100 logo-->
+<a href="http://top100.rambler.ru/top100/">
+<img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-blue.gif" alt="Rambler's Top100" width=88 height=31 border=0 /></a>
+<!--end of Top100 logo -->
+</noindex>
+<noindex>
+<a href="http://www.ru-million.ru/jump/" target="_blank"><img src="http://www.ru-million.ru/counter/c.gif" width="88" height="31" border="0" style="margin-top: 3px;"/></a>
+</noindex>
+<!-- Яндекс.Директ -->
+<script type="text/javascript">
+//<![CDATA[
+yandex_partner_id = 14795;
+yandex_site_bg_color = 'FFFFFF';
+yandex_site_charset = 'utf-8';
+yandex_ad_format = 'direct';
+yandex_font_size = 1;
+yandex_direct_type = 'horizontal';
+yandex_direct_border_type = 'ad';
+yandex_direct_limit = 3;
+yandex_direct_header_bg_color = 'FEEAC7';
+yandex_direct_border_color = 'FBE5C0';
+yandex_direct_title_color = '0000CC';
+yandex_direct_url_color = '006600';
+yandex_direct_all_color = '0000CC';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = '0066FF';
+yandex_direct_place = 'yadpln';
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/resource/context.js?rnd=' + Math.round(Math.random() * 100000) + '"></sc'+'ript>');
+//]]>
+</script>
+
+<noscript>
+<iframe src="http://tizer.4smi.ru/cgi-bin/iframe/pln24?options=NT&n=4&c=1" width="100%" height="400" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://tizer.4smi.ru/cgi-bin/href/pln24" target="_blank"><img src="http://tizer.4smi.ru/cgi-bin/banner/pln24?options=NT" alt="4 SMI" width="100%" height="400" border="0" ismap="ismap"></a></iframe>
+</noscript>
+
+
+<script type="text/javascript" src="http://data.marketgid.com/js/p/l/pln-pskov.ru.i1.js"></script>
+</noindex>
+</body>
+</html>
+
+<!--0.030771-->

@@ -1,0 +1,613 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link rel="icon" href="http://img.9111.ru/img/head/logo.png" type="image/png" />
+<link rel="shortcut icon" href="http://img.9111.ru/favicon.ico" type="image/x-icon" /><link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/default.css" />
+<link rel="stylesheet" type="text/css" href="/css/styles_new.css" />
+<link rel="stylesheet" type="text/css" href="/articles/articles.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+<script type="text/javascript" src="http://img.9111.ru/js/libs/prototype.min_1.7.0.0.js"></script>
+<script type="text/javascript" src="http://img.9111.ru/js/libs/scriptaculous_1.9.0/scriptaculous.js"></script>
+<script type="text/javascript" src="/js/js.js"></script>
+<script type="text/javascript" src="/js/tooltip.js"></script>
+<link rel="search" type="application/opensearchdescription+xml" title="Юридическая консультация 9111.ru" href="http://www.9111.ru/sitesearch.xml" />
+
+<link rel="alternate" type="application/rss+xml" title="Новости, преступления, происшествия - www.9111.ru" href="http://www.9111.ru/rss/9111newsyandex.rss"/><title>В вечной мерзлоте обнаружен ключ к вечной молодости</title><meta name="description" content="&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Бактерия Bacillius F, обнаруженная новосибирскими учеными в вечной мерзлоте, оказалась способной активироваться и приступать к..."/>
+<meta name="keywords" content=""/>
+</head>
+<body>
+<div id="main_div">
+<div class="advzone b965x90" id="advzone37"><div id="direct_965top"></div></div><div id="main_body"><table id="t_s_title">
+	
+	<tr><td class="td_left_round"></td>
+	<td>
+			<strong>Юридическая Консультация</strong>
+</td>
+<td>
+<ul id="nav_top_urist">
+<li><a href="/kontakt/?k_to=5">Жалобы и предложения по сайту</a></li></ul>
+</td>
+	<td class="td_right_round"></td>
+</tr>
+</table>
+<div id="d_head">
+<div class="advzone" id="advzone3"></div>		<a href="http://www.9111.ru/" class="logo_9111"><img src="http://img.9111.ru/img/head/logo.png" alt="Виртуальная Юридическая Консультация - www.9111.ru" /></a>
+		<table class="q_cnt"><tr><td>С 2000 года юристами России и зарубежья </td></tr><tr><td class="cnt">на сайте дано <span class="cnt">1 275 091</span> <a href="http://www.9111.ru/questions/daily/" title="Посмотреть архив вопросов с ответами, разбитый по дням">бесплатных ответов!</a></td></tr></table>
+	</div>
+	<table class="nav_top_container" cellpadding="0" cellspacing="0">
+	<tr><td class="td_left"></td>
+	<td>
+				<ul id="nav_top">
+		<li style="background:url(http://img.9111.ru/img/nav_job_bg.png) no-repeat;"><a href="http://www.9111.ru/urists/job/">Работа для Юристов</a></li>
+		<li><a href="http://forum.9111.ru/">Форум Адвокатов, Юристов</a></li>
+		<li><a href="http://www.9111.ru/urists/?advocat=1">Адвокаты</a>, <a href="/urists/">Юристы</a></li>
+		<li><a href="http://www.9111.ru/questions/add/">Задать вопрос</a></li>
+		<li><a href="http://www.9111.ru/search/">Поиск ответов</a></li>
+		<li><a href="http://www.9111.ru/urists/voting/">Юристы TOP-20</a></li>
+		</ul>
+			
+	</td>
+	<td class="td_right"></td>
+	</tr>
+	</table>
+	<div id="main_content">
+<div id="nav_left_container">
+<div class="nav_top20_leader">
+			<div class="nav_top20_title"><a href="/urists/voting/" title="Перейти к TOP-20">Юрист дня</a></div>
+			<div class="nav_top20_content" style="text-align:center;"><a href="/urists/info/16264/" title="Перейти к анкете">Слащёва А.Н.<br /><img src="http://img.9111.ru/img/urists/nophoto.jpg" alt="Слащёва Анна Николаевна" /></a>
+			<a style="font-size:0.9em;" href="/urists/info/16264/zapis/">Проконсультироваться</a></div>
+			</div>
+				<div id="auth_form">Вход для адвокатов и юристов www.9111.ru<br />
+	<form method="post" action="/urists/admin/login.php" name="f_auth" id="f_auth">
+	<input type="hidden" name="login_ok" value="ok" />
+	<label for="un_login"><b>E-Mail:</b> </label><input type="text" name="u_login" id="un_login" value="" title="Регистрационное имя (логин)" /><br />
+	<label for="un_pass"><b>Пароль:</b> </label><input type="password" name="u_pass" id="un_pass" value="" title="Пароль, указанный при регистрации" /><br />
+	<input type="submit" name="ok_form" value="Вход" class="submit" />
+	<a class="reg" href="/urists/registration/">Регистрация</a>
+	<a class="reg" href="/urists/admin/login.php">Забыли пароль?</a>
+	</form>
+	</div>
+	<ul id="nav_left">
+<li><a href="http://www.9111.ru/">На главную www.9111.ru</a></li>
+<!--noindex--><li class="uristspubs"><p>Публикации<br />Адвокатов и Юристов</p></li>
+<li class="uristspubs"><a href="http://www.9111.ru /urists/blogs/"><span>461</span></a><a href="/urists/blogs/">Блоги</a></li>
+<li class="uristspubs"><a href="http://www.9111.ru /judgement/"><span>586</span></a><a href="/judgement/">Судебные решения</a></li>
+<li class="uristspubs"><a href="http://www.9111.ru /urists/pubs/"><span>361</span></a><a href="/urists/pubs/">Юридическая практика</a></li>
+<li class="uristspubs"><a href="http://www.9111.ru /urists/articles/"><span>455</span></a><a href="/urists/articles/">Юридические статьи</a></li>
+<li class="uristspubs"><a href="http://www.9111.ru /articles/9111-pubs/law-news/"><span>4757</span></a><a href="/articles/">Новости</a></li>
+<li class="uristspubs"><a href="http://forum.9111.ru/"><span title="Сообщений в форуме за последние 3 дня">637</span></a><a href="http://forum.9111.ru/">Форум</a></li>
+<li class="rub">Вопросы и ответы</li>
+<li><a href="/questions/add/" title="Задать вопрос адвокатам и юристам Виртуальной Юридической Консультации">Задать вопрос юристу</a></li>
+<li class="mi2"><a href="/search/" title="Прежде чем задать вопрос - воспользуйтесь поиском. Возможно, ответ на Ваш вопрос уже дан участниками ВЮК">Поиск ответов</a></li>
+<li><a href="/search/titles/" title="Популярные вопросы">Популярные вопросы</a></li>
+<li class="rub">Почтовая рассылка</li>
+<li>
+		Рассылка <a href="/questions/zakaz/" style="display:inline;text-decoration:underline;">по темам</a><br />Подписчиков: 50729<br /> 
+Подписаться: <small>E-Mail</small>
+		<form action="/questions/zakaz/" method="get">
+		<input type="text" name="email" style="width:70px;" value="" />
+		<input type="submit" name="go" style="width:50px;" value="OK" />
+		</form>
+		</li>
+<li class="rub">Актуальные <img src="/img/vip.gif" alt="VIP" /> темы</li><li><a href="/search/popular/" title="Все темы">Все темы</a></li>
+<li class="mi2"><div onmouseover="$('navt2').show();" onmouseout="$('navt2').hide();"><a href="/answers/titles/%D0%B0%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/" title="алименты - ответы адвокатов и юристов">Алименты</a> <a href="#" onclick="$('navt2').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt2"><li><a href="/answers/titles/%D0%B0%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%BD%D0%B0_%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0/" title="алименты на ребенка - ответы адвокатов и юристов">Алименты на ребенка</a></li>
+<li><a href="/answers/titles/%D0%B2%D0%B7%D1%8B%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B0%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/" title="взыскание алиментов - ответы адвокатов и юристов">Взыскание алиментов</a></li>
+<li><a href="/answers/titles/%D0%B2%D1%8B%D0%BF%D0%BB%D0%B0%D1%82%D0%B0_%D0%B0%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/" title="выплата алиментов - ответы адвокатов и юристов">Выплата алиментов</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80_%D0%B0%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/" title="размер алиментов - ответы адвокатов и юристов">Размер алиментов</a></li>
+<li><a href="/answers/titles/%D1%83%D0%BF%D0%BB%D0%B0%D1%82%D0%B0_%D0%B0%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/" title="уплата алиментов - ответы адвокатов и юристов">Уплата алиментов</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt3').show();" onmouseout="$('navt3').hide();"><a href="/answers/titles/%D0%B0%D0%BC%D0%BD%D0%B8%D1%81%D1%82%D0%B8%D1%8F/" title="амнистия - ответы адвокатов и юристов">Амнистия</a> <a href="#" onclick="$('navt3').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt3"><li><a href="/answers/titles/%D0%B4%D0%B0%D1%87%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BC%D0%BD%D0%B8%D1%81%D1%82%D0%B8%D1%8F/" title="дачная амнистия - ответы адвокатов и юристов">Дачная амнистия</a></li>
+<li><a href="/answers/titles/%D1%83%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BC%D0%BD%D0%B8%D1%81%D1%82%D0%B8%D1%8F/" title="уголовная амнистия - ответы адвокатов и юристов">Уголовная амнистия</a></li>
+<li><a href="/answers/titles/%D1%83%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81/" title="уголовный кодекс - ответы адвокатов и юристов">Уголовный кодекс</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt4').show();" onmouseout="$('navt4').hide();"><a href="/answers/titles/%D0%B0%D1%80%D0%BC%D0%B8%D1%8F/" title="армия - ответы адвокатов и юристов">Армия</a> <a href="#" onclick="$('navt4').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt4"><li><a href="/answers/titles/%D0%BE%D1%82%D1%81%D1%80%D0%BE%D1%87%D0%BA%D0%B0_%D0%BE%D1%82_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8/" title="отсрочка от армии - ответы адвокатов и юристов">Отсрочка от армии</a></li>
+<li><a href="/answers/titles/%D0%BF%D1%80%D0%B8%D0%B7%D1%8B%D0%B2_%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D1%8E/" title="призыв в армию - ответы адвокатов и юристов">Призыв в армию</a></li>
+<li><a href="/answers/titles/%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0_%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8/" title="служба в армии - ответы адвокатов и юристов">Служба в армии</a></li>
+<li><a href="/answers/titles/%D1%81%D1%80%D0%BE%D0%BA_%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B_%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8/" title="срок службы в армии - ответы адвокатов и юристов">Срок службы в армии</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt5').show();" onmouseout="$('navt5').hide();"><a href="/answers/titles/%D0%B1%D1%80%D0%B0%D0%BA/" title="брак - ответы адвокатов и юристов">Брак</a> <a href="#" onclick="$('navt5').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt5"><li><a href="/answers/titles/%D0%B1%D1%80%D0%B0%D0%BA_%D1%81_%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%86%D0%B5%D0%BC/" title="брак с иностранцем - ответы адвокатов и юристов">Брак с иностранцем</a></li>
+<li><a href="/answers/titles/%D0%B1%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/" title="брачный договор - ответы адвокатов и юристов">Брачный договор</a></li>
+<li><a href="/answers/titles/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D1%80%D0%B0%D0%BA%D0%B0/" title="заключение брака - ответы адвокатов и юристов">Заключение брака</a></li>
+<li><a href="/answers/titles/%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D1%80%D0%B0%D1%81%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B1%D1%80%D0%B0%D0%BA%D0%B0/" title="заявление о расторжении брака - ответы адвокатов и юристов">Заявление о расторжении брака</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B0%D1%81%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D1%80%D0%B0%D0%BA%D0%B0/" title="расторжение брака - ответы адвокатов и юристов">Расторжение брака</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt6').show();" onmouseout="$('navt6').hide();"><a href="/answers/titles/%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D1%8F/" title="бухгалтерия - ответы адвокатов и юристов">Бухгалтерия</a></div>
+</li>
+<li><div onmouseover="$('navt7').show();" onmouseout="$('navt7').hide();"><a href="/answers/titles/%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/" title="водительское удостоверение - ответы адвокатов и юристов">Водительское удостоверение</a> <a href="#" onclick="$('navt7').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt7"><li><a href="/answers/titles/%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/" title="водительские права - ответы адвокатов и юристов">Водительские права</a></li>
+<li><a href="/answers/titles/%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82_%D0%BF%D1%80%D0%B0%D0%B2/" title="возврат прав - ответы адвокатов и юристов">Возврат прав</a></li>
+<li><a href="/answers/titles/%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/" title="замена водительского удостоверения - ответы адвокатов и юристов">Замена водительского удостоверения</a></li>
+<li><a href="/answers/titles/%D0%BB%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2/" title="лишение прав - ответы адвокатов и юристов">Лишение прав</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt8').show();" onmouseout="$('navt8').hide();"><a href="/answers/titles/%D0%B2%D0%BE%D0%B7%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%89%D0%B5%D1%80%D0%B1%D0%B0/" title="возмещение ущерба - ответы адвокатов и юристов">Возмещение ущерба</a> <a href="#" onclick="$('navt8').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt8"><li><a href="/answers/titles/%D0%B2%D0%BE%D0%B7%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BC%D0%BE%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D1%89%D0%B5%D1%80%D0%B1%D0%B0/" title="возмещение морального ущерба - ответы адвокатов и юристов">Возмещение морального ущерба</a></li>
+<li><a href="/answers/titles/%D0%B2%D0%BE%D0%B7%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D1%83%D1%89%D0%B5%D1%80%D0%B1%D0%B0/" title="возмещение страхового ущерба - ответы адвокатов и юристов">Возмещение страхового ущерба</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B2%D0%BE%D0%B7%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D1%83%D1%89%D0%B5%D1%80%D0%B1%D0%B0/" title="порядок возмещения ущерба - ответы адвокатов и юристов">Порядок возмещения ущерба</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt9').show();" onmouseout="$('navt9').hide();"><a href="/answers/titles/%D0%B2%D1%8B%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/" title="выселение - ответы адвокатов и юристов">Выселение</a> <a href="#" onclick="$('navt9').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt9"><li><a href="/answers/titles/%D0%B2%D1%8B%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0_%D0%BD%D0%B5%D1%83%D0%BF%D0%BB%D0%B0%D1%82%D1%83/" title="выселение за неуплату - ответы адвокатов и юристов">Выселение за неуплату</a></li>
+<li><a href="/answers/titles/%D0%B2%D1%8B%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8%D0%B7_%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B/" title="выселение из квартиры - ответы адвокатов и юристов">Выселение из квартиры</a></li>
+<li><a href="/answers/titles/%D0%B2%D1%8B%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%87%D0%BB%D0%B5%D0%BD%D0%B0_%D1%81%D0%B5%D0%BC%D1%8C%D0%B8/" title="выселение члена семьи - ответы адвокатов и юристов">Выселение члена семьи</a></li>
+<li><a href="/answers/titles/%D0%BF%D1%80%D0%B8%D0%BD%D1%83%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D1%8B%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/" title="принудительное выселение - ответы адвокатов и юристов">Принудительное выселение</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt10').show();" onmouseout="$('navt10').hide();"><a href="/answers/titles/%D0%B3%D0%B8%D0%B1%D0%B4%D0%B4/" title="ГИБДД - ответы адвокатов и юристов">ГИБДД</a> <a href="#" onclick="$('navt10').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt10"><li><a href="/answers/titles/%D1%88%D1%82%D1%80%D0%B0%D1%84%D1%8B_%D0%93%D0%98%D0%91%D0%94%D0%94/" title="штрафы ГИБДД - ответы адвокатов и юристов">Штрафы ГИБДД</a></li>
+<li><a href="/answers/titles/%D1%88%D1%82%D1%80%D0%B0%D1%84%D1%8B_%D0%B7%D0%B0_%D0%BD%D0%B0%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/" title="штрафы за нарушения - ответы адвокатов и юристов">Штрафы за нарушения</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt11').show();" onmouseout="$('navt11').hide();"><a href="/answers/titles/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/" title="гражданство - ответы адвокатов и юристов">Гражданство</a> <a href="#" onclick="$('navt11').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt11"><li><a href="/answers/titles/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%A4/" title="гражданство РФ - ответы адвокатов и юристов">Гражданство РФ</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/" title="двойное гражданство - ответы адвокатов и юристов">Двойное гражданство</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/" title="получить гражданство - ответы адвокатов и юристов">Получить гражданство</a></li>
+<li><a href="/answers/titles/%D1%83%D0%BF%D1%80%D0%BE%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0/" title="упрощенное получение гражданства - ответы адвокатов и юристов">Упрощенное получение гражданства</a></li>
+<li><a href="/answers/titles/%D0%A3%D0%A4%D0%9C%D0%A1/" title="УФМС - ответы адвокатов и юристов">УФМС</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt12').show();" onmouseout="$('navt12').hide();"><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/" title="договор - ответы адвокатов и юристов">Договор</a> <a href="#" onclick="$('navt12').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt12"><li><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D1%8B/" title="договор аренды - ответы адвокатов и юристов">Договор аренды</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/" title="договор дарения - ответы адвокатов и юристов">Договор дарения</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%B7%D0%B0%D0%B9%D0%BC%D0%B0/" title="договор займа - ответы адвокатов и юристов">Договор займа</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8/" title="договор купли-продажи - ответы адвокатов и юристов">Договор купли-продажи</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BC%D0%B5%D0%BD%D1%8B/" title="договор мены - ответы адвокатов и юристов">Договор мены</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BD%D0%B0_%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D1%83%D1%81%D0%BB%D1%83%D0%B3/" title="договор на оказание услуг - ответы адвокатов и юристов">Договор на оказание услуг</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BF%D0%BE%D0%B4%D1%80%D1%8F%D0%B4%D0%B0/" title="договор подряда - ответы адвокатов и юристов">Договор подряда</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BF%D0%BE%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/" title="договор поручения - ответы адвокатов и юристов">Договор поручения</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8/" title="договор поставки - ответы адвокатов и юристов">Договор поставки</a></li>
+<li><a href="/answers/titles/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0/" title="заключение договора - ответы адвокатов и юристов">Заключение договора</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B0%D1%81%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0/" title="расторжение договора - ответы адвокатов и юристов">Расторжение договора</a></li>
+<li><a href="/answers/titles/%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/" title="составить договор - ответы адвокатов и юристов">Составить договор</a></li>
+<li><a href="/answers/titles/%D1%82%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/" title="трудовой договор - ответы адвокатов и юристов">Трудовой договор</a></li>
+<li><a href="/answers/titles/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0/" title="условия договора - ответы адвокатов и юристов">Условия договора</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt13').show();" onmouseout="$('navt13').hide();"><a href="/answers/titles/%D0%B4%D1%82%D0%BF/" title="ДТП - ответы адвокатов и юристов">ДТП</a></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt14').show();" onmouseout="$('navt14').hide();"><a href="/answers/titles/%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B/" title="жалобы - ответы адвокатов и юристов">Жалобы</a> <a href="#" onclick="$('navt14').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt14"><li><a href="/answers/titles/%D0%BA%D0%B0%D1%81%D1%81%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0/" title="кассационная жалоба - ответы адвокатов и юристов">Кассационная жалоба</a></li>
+<li><a href="/answers/titles/%D0%BD%D0%B0%D0%B4%D0%B7%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0/" title="надзорная жалоба - ответы адвокатов и юристов">Надзорная жалоба</a></li>
+<li><a href="/answers/titles/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86_%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B/" title="образец жалобы - ответы адвокатов и юристов">Образец жалобы</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt15').show();" onmouseout="$('navt15').hide();"><a href="/answers/titles/%D0%B6%D0%B8%D0%BB%D1%8C%D0%B5/" title="жилье - ответы адвокатов и юристов">Жилье</a> <a href="#" onclick="$('navt15').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt15"><li><a href="/answers/titles/%D0%B6%D0%B8%D0%BB%D0%B8%D1%89%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE/" title="жилищное право - ответы адвокатов и юристов">Жилищное право</a></li>
+<li><a href="/answers/titles/%D0%B6%D0%B8%D0%BB%D0%B8%D1%89%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81/" title="жилищный вопрос - ответы адвокатов и юристов">Жилищный вопрос</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt16').show();" onmouseout="$('navt16').hide();"><a href="/answers/titles/%D0%B7%D0%B0%D0%B2%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5/" title="завещание - ответы адвокатов и юристов">Завещание</a> <a href="#" onclick="$('navt16').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt16"><li><a href="/answers/titles/%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B2%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8E/" title="наследование по завещанию - ответы адвокатов и юристов">Наследование по завещанию</a></li>
+<li><a href="/answers/titles/%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/" title="обязательные наследники - ответы адвокатов и юристов">Обязательные наследники</a></li>
+<li><a href="/answers/titles/%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D0%B8%D1%82%D1%8C_%D0%B7%D0%B0%D0%B2%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5/" title="оспорить завещание - ответы адвокатов и юристов">Оспорить завещание</a></li>
+<li><a href="/answers/titles/%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D0%B7%D0%B0%D0%B2%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5/" title="составить завещание - ответы адвокатов и юристов">Составить завещание</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt17').show();" onmouseout="$('navt17').hide();"><a href="/answers/titles/%D0%B7%D0%B0%D0%B3%D1%80%D0%B0%D0%BD%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82/" title="загранпаспорт - ответы адвокатов и юристов">Загранпаспорт</a></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt18').show();" onmouseout="$('navt18').hide();"><a href="/answers/titles/%D0%B7%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D1%82%D0%B0/" title="зарплата - ответы адвокатов и юристов">Зарплата</a> <a href="#" onclick="$('navt18').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt18"><li><a href="/answers/titles/%D0%B2%D1%8B%D0%BF%D0%BB%D0%B0%D1%82%D0%B0_%D0%B7%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D1%82%D1%8B/" title="выплата зарплаты - ответы адвокатов и юристов">Выплата зарплаты</a></li>
+<li><a href="/answers/titles/%D0%B7%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0_%D0%B7%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D1%82%D1%8B/" title="задержка зарплаты - ответы адвокатов и юристов">Задержка зарплаты</a></li>
+<li><a href="/answers/titles/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D1%80%D0%BF%D1%80%D0%B0%D1%82%D0%B0/" title="минимальная зарпрата - ответы адвокатов и юристов">Минимальная зарпрата</a></li>
+<li><a href="/answers/titles/%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%B7%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D1%82%D0%B0/" title="средняя зарплата - ответы адвокатов и юристов">Средняя зарплата</a></li>
+<li><a href="/answers/titles/%D1%83%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8%D0%B7_%D0%B7%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D1%82%D1%8B/" title="удержание из зарплаты - ответы адвокатов и юристов">Удержание из зарплаты</a></li>
+<li><a href="/answers/titles/%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D1%82%D0%B0/" title="черная зарплата - ответы адвокатов и юристов">Черная зарплата</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt19').show();" onmouseout="$('navt19').hide();"><a href="/answers/titles/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0_%D0%BF%D1%80%D0%B0%D0%B2_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/" title="защита прав потребителей - ответы адвокатов и юристов">Защита прав потребителей</a> <a href="#" onclick="$('navt19').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt19"><li><a href="/answers/titles/%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B3/" title="возврат денег - ответы адвокатов и юристов">Возврат денег</a></li>
+<li><a href="/answers/titles/%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0/" title="возврат товара - ответы адвокатов и юристов">Возврат товара</a></li>
+<li><a href="/answers/titles/%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0/" title="замена товара - ответы адвокатов и юристов">Замена товара</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt20').show();" onmouseout="$('navt20').hide();"><a href="/answers/titles/%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/" title="заявления - ответы адвокатов и юристов">Заявления</a> <a href="#" onclick="$('navt20').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt20"><li><a href="/answers/titles/%D0%B1%D0%BB%D0%B0%D0%BD%D0%BA_%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/" title="бланк заявления - ответы адвокатов и юристов">Бланк заявления</a></li>
+<li><a href="/answers/titles/%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D1%81%D1%83%D0%B4/" title="заявление в суд - ответы адвокатов и юристов">Заявление в суд</a></li>
+<li><a href="/answers/titles/%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/" title="исковое заявление - ответы адвокатов и юристов">Исковое заявление</a></li>
+<li><a href="/answers/titles/%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C_%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/" title="написать заявление - ответы адвокатов и юристов">Написать заявление</a></li>
+<li><a href="/answers/titles/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86_%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/" title="образец заявления - ответы адвокатов и юристов">Образец заявления</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt21').show();" onmouseout="$('navt21').hide();"><a href="/answers/titles/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82/" title="интернет - ответы адвокатов и юристов">Интернет</a></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt22').show();" onmouseout="$('navt22').hide();"><a href="/answers/titles/%D0%B8%D0%BD%D1%84%D0%BB%D1%8F%D1%86%D0%B8%D1%8F/" title="инфляция - ответы адвокатов и юристов">Инфляция</a></div>
+</li>
+<li><div onmouseover="$('navt23').show();" onmouseout="$('navt23').hide();"><a href="/answers/titles/%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0/" title="ипотека - ответы адвокатов и юристов">Ипотека</a> <a href="#" onclick="$('navt23').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt23"><li><a href="/answers/titles/%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82/" title="ипотечный кредит - ответы адвокатов и юристов">Ипотечный кредит</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt24').show();" onmouseout="$('navt24').hide();"><a href="/answers/titles/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81/" title="квартирный вопрос - ответы адвокатов и юристов">Квартирный вопрос</a></div>
+</li>
+<li><div onmouseover="$('navt25').show();" onmouseout="$('navt25').hide();"><a href="/answers/titles/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82/" title="кредит - ответы адвокатов и юристов">Кредит</a> <a href="#" onclick="$('navt25').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt25"><li><a href="/answers/titles/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80/" title="коллектор - ответы адвокатов и юристов">Коллектор</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%BE%D0%B3%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B0/" title="погашение кредита - ответы адвокатов и юристов">Погашение кредита</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82/" title="потребительский кредит - ответы адвокатов и юристов">Потребительский кредит</a></li>
+<li><a href="/answers/titles/%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D1%83/" title="проценты по кредиту - ответы адвокатов и юристов">Проценты по кредиту</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt26').show();" onmouseout="$('navt26').hide();"><a href="/answers/titles/%D0%BB%D0%B8%D0%BA%D0%B2%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F/" title="ликвидация - ответы адвокатов и юристов">Ликвидация</a></div>
+</li>
+<li><div onmouseover="$('navt27').show();" onmouseout="$('navt27').hide();"><a href="/answers/titles/%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8/" title="налоги - ответы адвокатов и юристов">Налоги</a> <a href="#" onclick="$('navt27').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt27"><li><a href="/answers/titles/%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3/" title="земельный налог - ответы адвокатов и юристов">Земельный налог</a></li>
+<li><a href="/answers/titles/%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3_%D0%BD%D0%B0_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE/" title="налог на имущество - ответы адвокатов и юристов">Налог на имущество</a></li>
+<li><a href="/answers/titles/%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8C/" title="налог на прибыль - ответы адвокатов и юристов">Налог на прибыль</a></li>
+<li><a href="/answers/titles/%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B8%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/" title="налоговая инспекция - ответы адвокатов и юристов">Налоговая инспекция</a></li>
+<li><a href="/answers/titles/%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B5%D1%82%D1%8B/" title="налоговые вычеты - ответы адвокатов и юристов">Налоговые вычеты</a></li>
+<li><a href="/answers/titles/%D0%9D%D0%94%D0%A4%D0%9B/" title="НДФЛ - ответы адвокатов и юристов">НДФЛ</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%BE%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3/" title="подоходный налог - ответы адвокатов и юристов">Подоходный налог</a></li>
+<li><a href="/answers/titles/%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8_%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2/" title="ставки налогов - ответы адвокатов и юристов">Ставки налогов</a></li>
+<li><a href="/answers/titles/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3/" title="транспортный налог - ответы адвокатов и юристов">Транспортный налог</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt28').show();" onmouseout="$('navt28').hide();"><a href="/answers/titles/%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE/" title="наследство - ответы адвокатов и юристов">Наследство</a> <a href="#" onclick="$('navt28').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt28"><li><a href="/answers/titles/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%82%D1%81%D1%82%D0%B2%D0%B0/" title="восстановление наследтства - ответы адвокатов и юристов">Восстановление наследтства</a></li>
+<li><a href="/answers/titles/%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE/" title="вступление в наследство - ответы адвокатов и юристов">Вступление в наследство</a></li>
+<li><a href="/answers/titles/%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B2%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D1%8E/" title="наследование по завещанию - ответы адвокатов и юристов">Наследование по завещанию</a></li>
+<li><a href="/answers/titles/%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%83/" title="наследование по закону - ответы адвокатов и юристов">Наследование по закону</a></li>
+<li><a href="/answers/titles/%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0/" title="принятие наследства - ответы адвокатов и юристов">Принятие наследства</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt29').show();" onmouseout="$('navt29').hide();"><a href="/answers/titles/%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C/" title="недвижимость - ответы адвокатов и юристов">Недвижимость</a> <a href="#" onclick="$('navt29').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt29"><li><a href="/answers/titles/%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8/" title="агентства недвижимости - ответы адвокатов и юристов">Агентства недвижимости</a></li>
+<li><a href="/answers/titles/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0_%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/" title="аренда квартир - ответы адвокатов и юристов">Аренда квартир</a></li>
+<li><a href="/answers/titles/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8/" title="аренда недвижимости - ответы адвокатов и юристов">Аренда недвижимости</a></li>
+<li><a href="/answers/titles/%D0%B7%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C/" title="загородная недвижимость - ответы адвокатов и юристов">Загородная недвижимость</a></li>
+<li><a href="/answers/titles/%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F/" title="земля - ответы адвокатов и юристов">Земля</a></li>
+<li><a href="/answers/titles/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0/" title="квартира - ответы адвокатов и юристов">Квартира</a></li>
+<li><a href="/answers/titles/%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C_%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83/" title="купить квартиру - ответы адвокатов и юристов">Купить квартиру</a></li>
+<li><a href="/answers/titles/%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8/" title="продажа недвижимости - ответы адвокатов и юристов">Продажа недвижимости</a></li>
+<li><a href="/answers/titles/%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_%D1%81_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%D1%8E/" title="сделки с недвижимостью - ответы адвокатов и юристов">Сделки с недвижимостью</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt30').show();" onmouseout="$('navt30').hide();"><a href="/answers/titles/%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA/" title="отпуск - ответы адвокатов и юристов">Отпуск</a> <a href="#" onclick="$('navt30').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt30"><li><a href="/answers/titles/%D0%B4%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA/" title="декретный отпуск - ответы адвокатов и юристов">Декретный отпуск</a></li>
+<li><a href="/answers/titles/%D0%B4%D0%BD%D0%B8_%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0/" title="дни отпуска - ответы адвокатов и юристов">Дни отпуска</a></li>
+<li><a href="/answers/titles/%D0%BD%D0%B5%D0%BE%D0%BF%D0%BB%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9_%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA/" title="неоплачиваемый отпуск - ответы адвокатов и юристов">Неоплачиваемый отпуск</a></li>
+<li><a href="/answers/titles/%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D1%8B%D0%B5/" title="отпускные - ответы адвокатов и юристов">Отпускные</a></li>
+<li><a href="/answers/titles/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%82%D1%8C_%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA/" title="оформить отпуск - ответы адвокатов и юристов">Оформить отпуск</a></li>
+<li><a href="/answers/titles/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA/" title="учебный отпуск - ответы адвокатов и юристов">Учебный отпуск</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt31').show();" onmouseout="$('navt31').hide();"><a href="/answers/titles/%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D1%8F/" title="пенсия - ответы адвокатов и юристов">Пенсия</a> <a href="#" onclick="$('navt31').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt31"><li><a href="/answers/titles/%D0%B2%D0%B0%D0%BB%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D0%B8/" title="валоризация пенсии - ответы адвокатов и юристов">Валоризация пенсии</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%8B/" title="пенсионеры - ответы адвокатов и юристов">Пенсионеры</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B4/" title="пенсионный фонд - ответы адвокатов и юристов">Пенсионный фонд</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D1%8F_%D0%B7%D0%B0_%D0%B2%D1%8B%D1%81%D0%BB%D1%83%D0%B3%D1%83_%D0%BB%D0%B5%D1%82/" title="пенсия за выслугу лет - ответы адвокатов и юристов">Пенсия за выслугу лет</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt32').show();" onmouseout="$('navt32').hide();"><a href="/answers/titles/%D0%BF%D0%BE%D1%88%D0%BB%D0%B8%D0%BD%D0%B0/" title="пошлина - ответы адвокатов и юристов">Пошлина</a> <a href="#" onclick="$('navt32').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt32"><li><a href="/answers/titles/%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D1%88%D0%BB%D0%B8%D0%BD%D0%B0/" title="госпошлина - ответы адвокатов и юристов">Госпошлина</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80_%D0%BF%D0%BE%D1%88%D0%BB%D0%B8%D0%BD%D1%8B/" title="размер пошлины - ответы адвокатов и юристов">Размер пошлины</a></li>
+<li><a href="/answers/titles/%D1%83%D0%BF%D0%BB%D0%B0%D1%82%D0%B0_%D0%BF%D0%BE%D1%88%D0%BB%D0%B8%D0%BD%D1%8B/" title="уплата пошлины - ответы адвокатов и юристов">Уплата пошлины</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt33').show();" onmouseout="$('navt33').hide();"><a href="/answers/titles/%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/" title="приватизация - ответы адвокатов и юристов">Приватизация</a> <a href="#" onclick="$('navt33').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt33"><li><a href="/answers/titles/%D0%BE%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/" title="отказ от приватизации - ответы адвокатов и юристов">Отказ от приватизации</a></li>
+<li><a href="/answers/titles/%D1%81%D1%80%D0%BE%D0%BA%D0%B8_%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/" title="сроки приватизации - ответы адвокатов и юристов">Сроки приватизации</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt34').show();" onmouseout="$('navt34').hide();"><a href="/answers/titles/%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D1%81%D0%BA%D0%B0/" title="прописка - ответы адвокатов и юристов">Прописка</a> <a href="#" onclick="$('navt34').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt34"><li><a href="/answers/titles/%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D1%81%D0%BA%D0%B0/" title="временная прописка - ответы адвокатов и юристов">Временная прописка</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt35').show();" onmouseout="$('navt35').hide();"><a href="/answers/titles/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/" title="работа - ответы адвокатов и юристов">Работа</a> <a href="#" onclick="$('navt35').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt35"><li><a href="/answers/titles/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/" title="время работы - ответы адвокатов и юристов">Время работы</a></li>
+<li><a href="/answers/titles/%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/" title="график работы - ответы адвокатов и юристов">График работы</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%BB%D0%B0%D0%BD_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/" title="план работы - ответы адвокатов и юристов">План работы</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B5%D0%B6%D0%B8%D0%BC_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/" title="режим работы - ответы адвокатов и юристов">Режим работы</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt36').show();" onmouseout="$('navt36').hide();"><a href="/answers/titles/%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D0%B4/" title="развод - ответы адвокатов и юристов">Развод</a></div>
+</li>
+<li><div onmouseover="$('navt37').show();" onmouseout="$('navt37').hide();"><a href="/answers/titles/%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0/" title="раздел имущества - ответы адвокатов и юристов">Раздел имущества</a></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt38').show();" onmouseout="$('navt38').hide();"><a href="/answers/titles/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F/" title="регистрация - ответы адвокатов и юристов">Регистрация</a> <a href="#" onclick="$('navt38').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt38"><li><a href="/answers/titles/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%87%D0%B5%D1%82/" title="регистрационный учет - ответы адвокатов и юристов">Регистрационный учет</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%86%D0%B5%D0%B2/" title="регистрация иностранцев - ответы адвокатов и юристов">Регистрация иностранцев</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%9E%D0%9E%D0%9E/" title="регистрация ООО - ответы адвокатов и юристов">Регистрация ООО</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BC%D0%B5%D1%81%D1%82%D1%83_%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/" title="регистрация по месту жительства - ответы адвокатов и юристов">Регистрация по месту жительства</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BC%D0%B5%D1%81%D1%82%D1%83_%D0%BF%D1%80%D0%B5%D0%B1%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/" title="регистрация по месту пребывания - ответы адвокатов и юристов">Регистрация по месту пребывания</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0/" title="регистрация ребенка - ответы адвокатов и юристов">Регистрация ребенка</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt39').show();" onmouseout="$('navt39').hide();"><a href="/answers/titles/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" title="собственность - ответы адвокатов и юристов">Собственность</a> <a href="#" onclick="$('navt39').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt39"><li><a href="/answers/titles/%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" title="интеллектуальная собственность - ответы адвокатов и юристов">Интеллектуальная собственность</a></li>
+<li><a href="/answers/titles/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE_%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/" title="право собственности - ответы адвокатов и юристов">Право собственности</a></li>
+<li><a href="/answers/titles/%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" title="частная собственность - ответы адвокатов и юристов">Частная собственность</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt40').show();" onmouseout="$('navt40').hide();"><a href="/answers/titles/%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/" title="страхование - ответы адвокатов и юристов">Страхование</a> <a href="#" onclick="$('navt40').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt40"><li><a href="/answers/titles/%D0%9A%D0%90%D0%A1%D0%9A%D0%9E/" title="КАСКО - ответы адвокатов и юристов">КАСКО</a></li>
+<li><a href="/answers/titles/%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/" title="медицинское страхование - ответы адвокатов и юристов">Медицинское страхование</a></li>
+<li><a href="/answers/titles/%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/" title="обязательное страхование - ответы адвокатов и юристов">Обязательное страхование</a></li>
+<li><a href="/answers/titles/%D0%9E%D0%A1%D0%90%D0%93%D0%9E/" title="ОСАГО - ответы адвокатов и юристов">ОСАГО</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/" title="пенсионное страхование - ответы адвокатов и юристов">Пенсионное страхование</a></li>
+<li><a href="/answers/titles/%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/" title="социальное страхование - ответы адвокатов и юристов">Социальное страхование</a></li>
+<li><a href="/answers/titles/%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/" title="страхование жизни - ответы адвокатов и юристов">Страхование жизни</a></li>
+<li><a href="/answers/titles/%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F/" title="страховая компания - ответы адвокатов и юристов">Страховая компания</a></li>
+<li><a href="/answers/titles/%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F/" title="страховая премия - ответы адвокатов и юристов">Страховая премия</a></li>
+<li><a href="/answers/titles/%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/" title="страховой полис - ответы адвокатов и юристов">Страховой полис</a></li>
+<li><a href="/answers/titles/%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9/" title="страховой случай - ответы адвокатов и юристов">Страховой случай</a></li>
+<li><a href="/answers/titles/%D1%84%D0%BE%D0%BD%D0%B4_%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/" title="фонд страхования - ответы адвокатов и юристов">Фонд страхования</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt41').show();" onmouseout="$('navt41').hide();"><a href="/answers/titles/%D1%81%D1%83%D0%B4/" title="суд - ответы адвокатов и юристов">Суд</a> <a href="#" onclick="$('navt41').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt41"><li><a href="/answers/titles/%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4/" title="апелляционный суд - ответы адвокатов и юристов">Апелляционный суд</a></li>
+<li><a href="/answers/titles/%D0%B0%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4/" title="арбитражный суд - ответы адвокатов и юристов">Арбитражный суд</a></li>
+<li><a href="/answers/titles/%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4/" title="верховный суд - ответы адвокатов и юристов">Верховный суд</a></li>
+<li><a href="/answers/titles/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4/" title="конституционный суд - ответы адвокатов и юристов">Конституционный суд</a></li>
+<li><a href="/answers/titles/%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%83%D0%B4/" title="мировой суд - ответы адвокатов и юристов">Мировой суд</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%83%D0%B4%D0%B0/" title="постановление суда - ответы адвокатов и юристов">Постановление суда</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4/" title="районный суд - ответы адвокатов и юристов">Районный суд</a></li>
+<li><a href="/answers/titles/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%83%D0%B4%D0%B0/" title="решение суда - ответы адвокатов и юристов">Решение суда</a></li>
+<li><a href="/answers/titles/%D1%81%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/" title="судебная практика - ответы адвокатов и юристов">Судебная практика</a></li>
+<li><a href="/answers/titles/%D1%82%D1%80%D0%B5%D1%82%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%83%D0%B4/" title="третейский суд - ответы адвокатов и юристов">Третейский суд</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt42').show();" onmouseout="$('navt42').hide();"><a href="/answers/titles/%D1%81%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%B2%D1%8B/" title="судебные приставы - ответы адвокатов и юристов">Судебные приставы</a> <a href="#" onclick="$('navt42').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt42"><li><a href="/answers/titles/%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B8%D1%81%D1%82/" title="исполнительный лист - ответы адвокатов и юристов">Исполнительный лист</a></li>
+<li><a href="/answers/titles/%D1%81%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/" title="судебное решение - ответы адвокатов и юристов">Судебное решение</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt43').show();" onmouseout="$('navt43').hide();"><a href="/answers/titles/%D1%82%D0%B0%D0%BC%D0%BE%D0%B6%D0%BD%D1%8F/" title="таможня - ответы адвокатов и юристов">Таможня</a></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt44').show();" onmouseout="$('navt44').hide();"><a href="/answers/titles/%D1%82%D0%B5%D1%85%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80/" title="техосмотр - ответы адвокатов и юристов">Техосмотр</a></div>
+</li>
+<li><div onmouseover="$('navt45').show();" onmouseout="$('navt45').hide();"><a href="/answers/titles/%D1%82%D1%80%D1%83%D0%B4/" title="труд - ответы адвокатов и юристов">Труд</a> <a href="#" onclick="$('navt45').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt45"><li><a href="/answers/titles/%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0_%D1%82%D1%80%D1%83%D0%B4%D0%B0/" title="оплата труда - ответы адвокатов и юристов">Оплата труда</a></li>
+<li><a href="/answers/titles/%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B0_%D1%82%D1%80%D1%83%D0%B4%D0%B0/" title="охрана труда - ответы адвокатов и юристов">Охрана труда</a></li>
+<li><a href="/answers/titles/%D1%82%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81/" title="трудовой кодекс - ответы адвокатов и юристов">Трудовой кодекс</a></li>
+</ul></div>
+</li>
+<li class="mi2"><div onmouseover="$('navt46').show();" onmouseout="$('navt46').hide();"><a href="/answers/titles/%D1%83%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/" title="увольнение - ответы адвокатов и юристов">Увольнение</a> <a href="#" onclick="$('navt46').toggle();return false;">[+]</a> <ul class="navt" style="display:none;" id="navt46"><li><a href="/answers/titles/%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D1%83%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/" title="заявление на увольнение - ответы адвокатов и юристов">Заявление на увольнение</a></li>
+<li><a href="/answers/titles/%D0%BF%D0%BE_%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D1%83_%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8E/" title="по собственному желанию - ответы адвокатов и юристов">По собственному желанию</a></li>
+<li><a href="/answers/titles/%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7/" title="приказ - ответы адвокатов и юристов">Приказ</a></li>
+<li><a href="/answers/titles/%D1%81%D0%BE%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/" title="сокращение - ответы адвокатов и юристов">Сокращение</a></li>
+<li><a href="/answers/titles/%D1%81%D0%BE%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2/" title="сокращение штатов - ответы адвокатов и юристов">Сокращение штатов</a></li>
+</ul></div>
+</li>
+<li><div onmouseover="$('navt47').show();" onmouseout="$('navt47').hide();"><a href="/answers/titles/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/" title="условно-досрочное освобождение - ответы адвокатов и юристов">Условно-досрочное освобождение</a></div>
+</li>
+<li class="rub">Адвокаты и юристы</li><li><a href="/urists/registration/" title="Для юристов, желающих участвовать в проекте">Регистрация юристов</a></li>
+<li class="mi2"><a href="/urists/" title="Информация о юристах и юридических фирмах, участвующих в ВЮК">Каталог юристов</a></li>
+<li><a href="/urists/voting/" title="Юристы TOP-20">Юристы TOP-20</a></li>
+<li class="mi2"><a href="http://forum.9111.ru/" title="Общение зарегистрированных в ВЮК юристов между собой">Спор-клуб (форум)</a></li>
+<li><a href="/urists/job/" title="Резюме и вакансии юридического профиля">Работа для юристов</a></li>
+<li class="rub">Справочный раздел</li>
+<li><a href="/materials/" title="Юридические материалы: законы, кодексы и т.п.">Законы, кодексы</a></li>
+<li class="mi2"><a href="/dogovor/" title="Образцы договоров">Договоры</a></li>
+<li class="rub">Реклама</li>
+<li><a href="/reklama/" title="Баннерная реклама на сайте и другие виды платных услуг">Реклама на сайте</a></li>
+<li class="rub">Партнёрам</li>
+<li><a href="/partner/getit/" title="Описание и условия участия в программе">Партнёрская программа</a></li>
+<li class="rub">Обратная связь</li>
+<li><a href="/about/" title="Что такое &amp;quot;Виртуальная юридическая консультация&amp;quot;, её история, цели и задачи">О проекте</a></li>
+<li class="mi2"><a href="/kontakt/" title="Связаться с администрацией проекта или сообщить об ошибках Вы можете отсюда">Письмо администратору</a></li>
+<li class="rub">Разное</li>
+<li><a href="http://www.eip.ru/" title="Недвижимости Петербурга, Москвы и других регионов России. Зарубежная недвижимость">Недвижимость</a></li>
+<li class="mi2"><a href="http://www.cotka.ru/" title="Сотовые телефоны">Сотовые телефоны</a></li>
+<!--/noindex--></ul>
+<br /><div class="cntr"><a target="_blank" href="http://www.kremlin.ru/" rel="nofollow"><img src="http://news.kremlin.ru/static/img/logo/rect.gif" alt="Президент России" /></a></div>
+<br /><div class="cntr"><a target="_blank" href="http://www.alrf.ru/" rel="nofollow"><img src="http://img.9111.ru/img/bnr/association_urists.jpg" alt="Ассоциация юристов России" /></a></div><br /><div class="cntr"><a target="_blank" href="http://www.zakon-tv.ru/" rel="nofollow"><img src="http://img.9111.ru/img/bnr/zakontv.jpg" alt="Телеканал ЗаконТВ" /></a></div><br /></div><div id="main_content_inner"><!--noindex-->
+	<div class="bnr_ask">
+	<div>
+		<a href="http://www.9111.ru/questions/add/?from=ask-main"><span class="s2"><b>46</b> адвокатов и юристов готовы отвечать прямо сейчас</span><img src="http://img.9111.ru/img/ask.png" alt="Задать вопрос юристу" title="Задать вопрос юристу" /></a>
+	</div></div>
+	<!--/noindex--><div id="h_page_title"><a class="title_rss" href="/rss/9111newsyandex.rss"><img src="/img/rss.gif" alt="rss" title="Новости, преступления, происшествия - подписаться на RSS" /></a><h1>В вечной мерзлоте обнаружен ключ к вечной молодости</h1>
+</div><div class="article_rub_top"><a href="/articles/9111-pubs/news/">Новости, преступления, происшествия</a></div><div class="article_content"><img src="http://img.9111.ru/img/articles/49932/bacilliusf.jpg" alt="В вечной мерзлоте обнаружен ключ к вечной молодости" class="article_image_main" /><span><b>Опубликовано</b>: сегодня в 16:18<br /><span title="статистика обновляется 1 раз в час"><b>Прочитано: 51</b> раз </span></span><p>
+	&nbsp;</p>
+<p>
+	Бактерия Bacillius F, обнаруженная новосибирскими учеными в вечной мерзлоте, оказалась способной активироваться и приступать к делению при температуре всего в +5 градусов по Цельсию. При этом, проанализировав состав белков и свойства мембраны данных микроорганизмов, ученые пришли к выводу, что они старше своих современных собратьев на 3 миллиона лет. А это значит, что именно эти бактерии могут хранить секрет вечной молодости.</p>
+<p>
+	Первые испытания препаратов, созданных на основе Bacillius F, уже показали, что животные, которые получили соответствующую прививку, живут дольше, причем у престарелых особей гораздо выше иммунитет и быстрее способность его активации.</p></div>
+<div class="clear"></div><h4>Читайте также:</h4><ul id="articles_see_also"><li><a href="/articles/view/49929.html">На Николая Валуева подана жалоба за съемки в рекламе</a></li><li><a href="/articles/view/49926.html">В московском метро сильное задымление</a></li><li><a href="/articles/view/49918.html">Полиция нравов запретила продавать куклу &quot;Барби&quot;</a></li><li><a href="/articles/view/49896.html">В результате теракта погибли пятьдесят человек</a></li><li><a href="/articles/view/49895.html">В корпусе лайнера «Коста Конкордия» специалисты обнаружили 70-метровую пробоину</a></li></ul><div class="clear"></div><div class="send_block"><!--noindex-->	<table class="t_social_send">
+	<tr><th colspan="7">
+	<b>Рекомендовать сайт друзьям.</b><br />	Для этого просто нажмите на кнопку той социальной сети, в которой Вы зарегистрированы.
+	<br />
+	</th></tr>
+	<tr>
+	<td style="padding:5px 0;" class="tdi"><a href="/links/out/?http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.9111.ru%2Farticles%2Fview%2F49932.html" target="_blank"><img src="http://img.9111.ru/img/social/facebook.png" alt="facebook.com" /></a></td>
+	<td class="tdi" colspan="6" style="padding:5px;"><script src="http://connect.facebook.net/ru_RU/all.js#xfbml=1"></script><fb:like href="" send="false" width="450" show_faces="false" font=""></fb:like></td>
+	</tr>
+	<tr>
+	<td class="tdi" width="100">
+	<a href="#" onclick="window.open('/links/out/?http://www.odnoklassniki.ru/dk?st.cmd=addShare&amp;st._surl=http://www.9111.ru/articles/view/49932.html');return false;" title="Добавить в Одноклассники"><img alt="Добавить в Одноклассники" src="http://img.9111.ru/img/social/odnoklassniki.gif" /></a>
+	</td>
+	<td style="padding:0 5px;" width="100">
+	<script type="text/javascript" src="http://vkontakte.ru/js/api/share.js?5" charset="utf-8"></script>
+	<script type="text/javascript">
+	<!--
+		document.write(VK.Share.button({
+		url: 'http://www.9111.ru/articles/view/49932.html',
+		title: 'В вечной мерзлоте обнаружен ключ к вечной молодости',
+		description: '<a href="http://www.9111.ru/articles/view/49932.html"><img src="http://img.9111.ru/img/articles/49932/bacilliusf.jpg" alt="" /></a><br /> 	&nbsp; 	Бактерия Bacillius F, обнаруженная новосибирскими учеными в вечной мерзлоте, оказалась способной активироваться и приступать к делению при температуре всего в +5 градусов по Цельсию. При...<br />Подробнее: <a href="http://www.9111.ru/articles/view/49932.html">http://www.9111.ru/articles/view/49932.html</a>',
+		image: '',
+		noparse: true
+		},
+		{type: 'round', text: ''}
+		));
+	-->
+	</script>
+	</td>
+	<td width="100"><a class="mrc__share" href="/links/out/?http://connect.mail.ru/share?share_url=http%3A%2F%2Fwww.9111.ru%2Farticles%2Fview%2F49932.html" target="_blank">В Мой Мир</a><script src="http://cdn.connect.mail.ru/js/share/2/share.js" type="text/javascript"></script></td>
+	<td class="tdi" width="25"><a href="/links/out/?http://twitter.com/share?text=%D0%92%20%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%B5%D1%80%D0%B7%D0%BB%D0%BE%D1%82%D0%B5%20%D0%BE%D0%B1%D0%BD%D0%B0%D1%80%D1%83%D0%B6%D0%B5%D0%BD%20%D0%BA%D0%BB%D1%8E%D1%87%20%D0%BA%20%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D0%B8&amp;url=http%3A%2F%2Fwww.9111.ru%2Farticles%2Fview%2F49932.html" target="_blank"><img src="http://img.9111.ru/img/social/twitter.gif" alt="twitter.com" /></a></td>
+	<td class="tdi" width="25"><a href="/links/out/?http://www.livejournal.com/update.bml?subject=%D0%92%20%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%B5%D1%80%D0%B7%D0%BB%D0%BE%D1%82%D0%B5%20%D0%BE%D0%B1%D0%BD%D0%B0%D1%80%D1%83%D0%B6%D0%B5%D0%BD%20%D0%BA%D0%BB%D1%8E%D1%87%20%D0%BA%20%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D0%B8&amp;prop_taglist=&amp;event=%3Ca%20href%3D%22http%3A%2F%2Fwww.9111.ru%2Farticles%2Fview%2F49932.html%22%3E%3Cimg%20src%3D%22http%3A%2F%2Fimg.9111.ru%2Fimg%2Farticles%2F49932%2Fbacilliusf.jpg%22%20alt%3D%22%22%20%2F%3E%3C%2Fa%3E%3Cbr%20%2F%3E%20%09%26nbsp%3B%20%09%D0%91%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%8F%20Bacillius%20F%2C%20%D0%BE%D0%B1%D0%BD%D0%B0%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%BC%D0%B8%20%D1%83%D1%87%D0%B5%D0%BD%D1%8B%D0%BC%D0%B8%20%D0%B2%20%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%B5%D1%80%D0%B7%D0%BB%D0%BE%D1%82%D0%B5%2C%20%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BB%D0%B0%D1%81%D1%8C%20%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D0%B9%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%B8%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D1%8C%20%D0%BA%20%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BF%D1%80%D0%B8%20%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B5%20%D0%B2%D1%81%D0%B5%D0%B3%D0%BE%20%D0%B2%20%2B5%20%D0%B3%D1%80%D0%B0%D0%B4%D1%83%D1%81%D0%BE%D0%B2%20%D0%BF%D0%BE%20%D0%A6%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D1%8E.%20%D0%9F%D1%80%D0%B8...%3Cbr%20%2F%3E%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%3A%20%3Ca%20href%3D%22http%3A%2F%2Fwww.9111.ru%2Farticles%2Fview%2F49932.html%22%3Ehttp%3A%2F%2Fwww.9111.ru%2Farticles%2Fview%2F49932.html%3C%2Fa%3E" target="_blank"><img src="http://img.9111.ru/img/social/livejournal.gif" alt="livejournal.com" /></a></td>
+	<td class="tdi"><a href="/links/out/?http://www.liveinternet.ru/journal_post.php?action=n_add&amp;cnurl=http%3A%2F%2Fwww.9111.ru%2Farticles%2Fview%2F49932.html&amp;cntitle=%D0%92%20%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%B5%D1%80%D0%B7%D0%BB%D0%BE%D1%82%D0%B5%20%D0%BE%D0%B1%D0%BD%D0%B0%D1%80%D1%83%D0%B6%D0%B5%D0%BD%20%D0%BA%D0%BB%D1%8E%D1%87%20%D0%BA%20%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D0%B8" target="_blank"><img src="http://img.9111.ru/img/social/liveinternet.gif" alt="liveinternet.ru" /></a></td>
+	<td class="tdi">
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+		{lang: 'ru'}
+		</script>
+	<g:plusone></g:plusone>
+	</td>
+	</tr>
+	<tr><td colspan="7">Код для размещения ссылки на форуме: <input type="text" size="60" name="forum_bbcode" value="[url=http://www.9111.ru/articles/view/49932.html]В вечной мерзлоте обнаружен ключ к вечной молодости - www.9111.ru[/url]" /></td></tr>
+		</table>
+	<!--/noindex-->
+	</div><div class="article_imglist"></div><!-- Яндекс.Директ -->
+<div id="ya_inarticle" style="margin:8px auto;"></div>
+	
+<!-- Яндекс.Директ -->
+<script type="text/javascript">
+yandex_partner_id = 49517;
+yandex_site_bg_color = 'FFF79A';
+yandex_stat_id = 119;
+yandex_site_charset = 'utf-8';
+yandex_ad_format = 'direct';
+yandex_direct_type = '600x60';
+yandex_direct_border_type = 'block';
+yandex_direct_header_position = 'right';
+yandex_direct_header_bg_color = 'FFF79A';
+yandex_direct_bg_color = 'FFF79A';
+yandex_direct_border_color = 'CCCC00';
+yandex_direct_title_color = '0000CC';
+yandex_direct_url_color = '000000';
+yandex_direct_all_color = '0000CC';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = '0066FF';
+yandex_direct_favicon = true;
+yandex_direct_place = 'ya_inarticle';
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+</script>
+
+	<a name="comments"></a><table class="t_comments"><tr><th>Обсуждение материала</th></tr><tr><td>Пока комментариев нет. Вы можете начать обсуждение материала, заполнив форму.</td></tr>
+</table>		<form action="/articles/view/49932.html" method="post">
+		<table class="t_add_komm">
+		<tr><th colspan="2">Оставить комментарий</th></tr>
+					<tr><td width="240" style="text-align:left;"><label for="sender_name" class="op">Ваше имя: <span>*</span></label>
+			<input type="text" maxlength="50" name="sender_name" id="sender_name" value="" /></td>
+			<td  style="text-align:right;"><label for="sender_email" class="op">Ваш E-Mail (не публикуется): <span>*</span></label>
+			<input type="text" maxlength="50" name="sender_email" id="sender_email" value="" /></td></tr>
+				<tr><td colspan="2">
+		<textarea name="Message_Text" id="Message_Text" rows="5" cols="105"></textarea>
+		</td></tr>
+					<tr><td colspan="2"><label for="kod" class="op">Введите цифры с картинки: <img src="/lib/code/cod.php" alt="Введите цифры с картинки" />&nbsp;<input style="width:140px;" name="kod" maxlength="5" /></td></tr>
+				<tr><td colspan="2">
+		<input type="submit" name="add_comment" value="Отправить сообщение" />
+		</td></tr></table>
+		</form>
+		<img src="/lib/objects_stat.php?razdel=4&amp;obj_num=49932&amp;urist=0&amp;num_city=0" class="i1" alt="" /><br /><hr />
+<div class="d_ban_bottom">
+<div style="width:580px;height:60px;border:1px solid #999;text-align:center;background:#FFED2F;font:normal 13px Arial,sans-serif;cursor:pointer;margin:0 auto 5px auto;line-height:1.05em;" onclick="window.open('/links/out/?http://www.9111.ru/urists/info/ostanin/');">
+<b>Адвокат Останин Андрей Владимирович и партнеры:</b> защита в судах, арбитражах, <br />
+взыскание долгов, признание собственности, возмещение вреда, раздел им-ва, выселение, наследство, ТСЖ, ДТП, Иммиграция и учеба в Канаде в партнерстве с Канадским адвокатом<br />
+<b>г. Москва и М.О. т.8-926-6208248; 8-905-5095570</b>, e-mail: <a style="font:bold 13px Arial,sans-serif;color:#1F21FF;" href="mailto:andr-ostanin@yandex.ru">andr-ostanin@yandex.ru</a>
+</div>
+<div style="width:580px;height:60px;border:1px solid #999;text-align:center;background:#f76262;font:normal 17px Arial,sans-serif;cursor:pointer;margin:0 auto 5px auto;line-height:1.2em;" onclick="window.open('/links/out/?http://grazhdanskieprava.ru/');">
+	<b>БЕСПЛАТНАЯ ЮРИДИЧЕСКАЯ КОНСУЛЬТАЦИЯ</b><br />
+<span style="font-size:14px;">ВСЕ ВИДЫ ЮРИДИЧЕСКИХ УСЛУГ</span><br />
+тел.: <b>(495) 743-9-753</b> <a onclick="return false;" href="/links/out/?http://grazhdanskieprava.ru/" style="font:normal 15px Arial,sans-serif;color:#006;">http://grazhdanskieprava.ru</a> e-mail: <a style="font:normal 15px Arial,sans-serif;color:#006;" href="mailto:7439753@mail.ru">7439753@mail.ru</a>
+</div>
+<div style="width:580px;height:60px;border:1px solid #ed8e16;text-align:center;background:#ef9e1b;font:normal 33px Arial,sans-serif;cursor:pointer;margin:0 auto 5px auto;line-height:2em;" onclick="window.open('/links/out/?http://xn----btb5ahbdeco2f7ar.xn--p1ai/');">
+	Юристы. СПб. Скидки до 50%!
+</div>
+<div style="border-top:1px solid #333;margin-top:15px;" id="rt-n-20983"><a href="http://ru.redtram.com" target="_blank">Loading...</a></div>
+<script type="text/javascript" language="javascript" charset="UTF-8" src="http://js.ru.redtram.com/n4p/9/1/9111.ru_20983.js"></script><div id="yandex_direct_bottom"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="urists_news_right"><table class="t_right_column">
+	<tr><td class="td_left_round"></td>
+	<td class="td_center_round"><a href="/articles/9111-pubs/law-news/">Новости и комментарии</a></td>
+	<td class="td_right_round"></td></tr>
+	</table><table class="t_right_news">
+					<colgroup><col width="74" /><col width="124" /></colgroup>
+<tr><td><a href="/articles/view/49932.html">
+						<img class="art_img" src="http://img.9111.ru/img/articles/49932/bacilliusf.jpg" alt="В вечной мерзлоте обнаружен ключ к вечной молодости"/></a></td><td><a href="/articles/view/49932.html">В вечной мерзлоте обнаружен ключ к вечной молодости</a></td></tr><tr><td><a href="/articles/view/49929.html">
+						<img class="art_img" src="http://img.9111.ru/img/articles/49929/valuev.jpg" alt="На Николая Валуева подана жалоба за съемки в рекламе"/></a></td><td><a href="/articles/view/49929.html">На Николая Валуева подана жалоба за съемки в рекламе</a></td></tr><tr><td><a href="/articles/view/49926.html">
+						<img class="art_img" src="http://img.9111.ru/img/articles/49926/dim.jpg" alt="В московском метро сильное задымление"/></a></td><td><a href="/articles/view/49926.html">В московском метро сильное задымление</a></td></tr><tr><td colspan="2" id="why_comment"></td></tr></table>
+<div style="width:202px;height:29px;background:url(/img/right/bottom.png);text-align: center;font:9px Tahoma,sans-serif;color:#d00;"></div></div>
+<div id="d_right_banners"><div class="advzone b200x300" id="advzone4"></div><div class="advzone b200x300" id="advzone6"></div><div class="advzone b200x300" id="advzone7"></div><div style="padding:20px 2px;"></div></div><div class="clear"></div><!--noindex--><div id="footer">
+		&copy; www.9111.ru 2000-2012. Копирование материалов сайта www.9111.ru допускается с разрешения 
+	<a href="/kontakt/">администрации сайта</a>.<br />
+	Каждый скопированный материал должен сопровождаться 
+	<a href="http://www.9111.ru/" title="Например:&lt;a href=&quot;http://www.9111.ru/&quot;&gt;По материалам &quot;Виртуальной Юридической Консультации&quot; - www.9111.ru&lt;/a&gt;">прямой ссылкой на источник - www.9111.ru</a> и корректным указанием имени автора материала (адвоката, юриста).
+	<br />
+	Любое коммерческое использование материалов и публикации в печатных изданиях допускается
+	<b>только</b> с письменного согласия администрации www.9111.ru<br />
+	Адрес в Санкт-Петербурге: наб.р. Фонтанки, д. 59, тел. (812) 336-9264<br />
+	Адрес в Москве: Комсомольский проспект, 7, тел. 8(800)505-9265 (495) 508-6444, (495) 989-2241<br />
+	Всю ответственность за размещаемые материалы и содержащиеся в них сведения несут их авторы.<br />
+	"Народное Информационное Агентство Новостей 9111.ру" (зарегистрировано Федеральной службой по надзору в сфере свзяи и массовых коммуникаций (Москва, Китайгородский проезд, д. 7). Свидетельство о регистрации ИА № ФС 77-33620 от 03 октября 2008 г.)
+</div>
+<!--/noindex--><div id="counters_bottom">
+<!--noindex-->
+
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1214487"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?1214487" alt="" width="1" height="1" border="0" /></noscript>
+<!-- end of Top100 code -->
+
+<script type="text/javascript">
+/*<![CDATA[*/
+d=document;var a='';a+=';r='+escape(d.referrer);
+a+=';j='+navigator.javaEnabled();
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);
+js=13;
+d.write('<a href="http://top.mail.ru/jump?from=325997"'+
+' target=_top><img src="http://d9.cf.b4.a0.top.list.ru/counter'+
+'?id=325997;t=51;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' rel="nofollow" height="31" width="88" border="0" /><\/a>');
+/*]]>*/
+</script><noscript><a href="http://top.mail.ru/jump?from=325997" rel="nofollow">
+<img src="http://d9.cf.b4.a0.top.list.ru/counter?js=na;id=325997;t=51" height="31" width="88" border="0" alt="Рейтинг@Mail.ru" /></a></noscript>
+
+<!--9111 counter-->
+<script type="text/javascript">
+document.write('<img src="/lib/sitestat.php?ref='+encodeURIComponent(document.referrer)+
+'&amp;sw='+screen.width+'&amp;sh='+screen.height+'&amp;sc='+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)+
+'&amp;url='+encodeURIComponent(document.URL)+'&amp;sm=2&amp;'+
+Math.random()+'" alt="" border="0" width="1px" height="1px" />');
+</script>
+<!--/9111 counter-->
+
+<!--LiveInternet counter new--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click;9111' "+
+"target=_blank><img src='//counter.yadro.ru/hit;9111?t11.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<a rel="nofollow" href="http://yandex.ru/cy?base=0&amp;host=www.9111.ru/"><img src="http://yandex.ru/cycounter?www.9111.ru/" width="88" height="31" alt="Яндекс цитирования" border="0" /></a>
+
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+	(w[c] = w[c] || []).push(function() {
+		try {
+			w.yaCounter65724 = new Ya.Metrika({id:65724,
+					clickmap:true,
+					trackLinks:true,
+					accurateTrackBounce:true});
+		}
+		catch(e) { }
+	});
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch_visor.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/65724" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--/noindex-->
+</div>
+</div>
+<script type="text/javascript">
+show_banner(3,468,60);
+show_banner(4,200,300);
+show_banner(6,200,300);
+show_banner(7,200,300);
+</script>
+<!-- Яндекс.Директ -->
+<script type="text/javascript">
+//<![CDATA[
+if ($('direct_965top')) {
+yandex_partner_id = 49517;
+yandex_site_bg_color = 'FFFBEF';
+yandex_site_charset = 'utf-8';
+yandex_font_size = 1;
+yandex_stat_id = 104;
+yandex_ad_format = 'direct';
+yandex_direct_type = 'horizontal';
+yandex_direct_header_position = 'bottom';
+yandex_direct_header_bg_color = 'FFFFFF';
+yandex_direct_bg_color = "b8e5fc",
+yandex_direct_border_color = '7F7507';
+yandex_direct_title_color = '0000CC';
+yandex_direct_url_color = '000099';
+yandex_direct_all_color = '0000CC';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = '0066FF';
+yandex_direct_limit = 2;
+yandex_direct_favicon = true;
+yandex_direct_place = 'direct_965top';
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+}
+//]]>
+</script>
+
+</body>
+</html>

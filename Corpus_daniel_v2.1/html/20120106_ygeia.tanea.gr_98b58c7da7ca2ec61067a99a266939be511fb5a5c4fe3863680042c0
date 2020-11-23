@@ -1,0 +1,435 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ΤΑ ΝΕΑonline  ΥΓΕΙΑ ΔΡΑΣΗ+ΖΩΗ - Παχυσαρκία, ηπατίτιδα C οδηγούν στον καρκίνο του ήπατος</title><meta name="description" content="Η μόλυνση με τον ιό της ηπατίτιδας C και η παχυσαρκία μπορεί να ευθύνονται για την αύξηση των κρουσμάτων ηπατικού καρκίνου, τα οποία έχουν τριπλασιαστεί τις τρεις τελευταίες δεκαετίες, σύμφωνα με νέα μελέτη. "/>
+
+<link href="templates/default/structure.css" rel="stylesheet" type="text/css">
+<link href="templates/default/menu.css" rel="stylesheet" type="text/css">
+<link href="templates/default/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="templates/default/lightbox.css" type="text/css" media="screen" />
+
+<script type="text/javascript" src="_js/lib.js"></script>
+<script type="text/javascript" src="templates/default/flashobject.js"></script>
+<script type="text/javascript" src="templates/default/prototype.js"></script>
+<script type="text/javascript" src="templates/default/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="templates/default/lightbox.js"></script>
+
+</head>
+<body class="body">
+<!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://adman.in.gr/click?webspace=1302&dfl=yes"><img src="http://adman.in.gr/banner?webspace=1302&dfl=yes&js=no" border="0" width="1" height="1" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|1302/1x1"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code -->
+<div id="container">
+	<div id="top">
+    <div id="top_left">
+      <div id="logo_nea"><a href=http://www.tanea.gr target="_blank"><img alt="TA NEA Logo" src="templates/default/images/logo_tanea.gif" border="0"/></a></div>
+      <div id="date">Σάββατο 14 Ιανουαρίου 2012</div>
+    </div>
+    <div id="logo_ygeia"><a href="default.asp"><img alt="ΥΓΕΙΑ ΔΡΑΣΗ + ΖΩΗ Logo" src="templates/default/images/logo_ygeia.gif" border="0"/></a></div>
+		<div id="banner_top468">
+<!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://adman.in.gr/click?webspace=158&amp;dfl=yes"><img src="http://adman.in.gr/banner?webspace=158&amp;dfl=yes&amp;js=no" border="0" width="468" height="60" alt="" /><br /></a>
+</noscript>
+<script language="javascript" type="text/javascript">
+rnd = Math.floor(Math.random()*900000)+100;
+now = parseInt((new Date()).getTime());
+burst="?"+rnd+":?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|158/468x60"+burst+"/\">");
+document.write("</sc"+"ript>");
+</script>
+<!-- end AdMan code --></div>
+	  </div>
+	  <div id="menu_top_container">
+		<div id="menu_top">	<a href="default.asp" >ΑΡΧΙΚΗ</a>	<a href="default.asp?pid=4" >VIDEO</a>	<a href="default.asp?pid=9&la=1" >ΤΕΛΕΥΤΑΙΑ ΝΕΑ</a>	<a href="default.asp?pID=7&ct=85&la=1" >ΔΕΛΤΙΑ ΤΥΠΟΥ</a>	<a href="default.asp?pID=7&ct=18&la=1" >TIPS</a></div>
+
+		<script>
+function ValidateKeyword() {
+	if (document.getElementById('searchKeyword').value=='' || document.getElementById('searchKeyword').value=='Εισάγετε Λέξη/Κλειδή') {
+		document.searchForm_top.action='';
+		document.searchForm_top.sr_ac.value='2';
+	}
+	else {
+		document.searchForm_top.action='default.asp?pid=15&la=1';
+		document.searchForm_top.sr_ac.value='3';
+	}
+		document.searchForm_top.submit();
+}
+</script>
+<div id="search">
+	<form name="searchForm_top" method="post" action="Javascript:ValidateKeyword();">
+		<input type="hidden" id="sr_ac" name="sr_ac" value="1"/>
+		<input class="search" id="searchKeyword" name="searchKeyword"/>
+		<input type="image" alt="Αναζήτηση" src="templates/default/images/search_btn_top.gif" align="absMiddle"/>
+	</form>
+</div>
+	  </div>
+	  <script language="javascript" src="_js/ticker.js"></script>
+<div class="ticker">
+	<span class="oTWDisplay">&nbsp;</span><span id="oTWDisplay" name="oTWDisplay" class="oTWDisplay"></span>
+<script language="Javascript1.2"> 
+        aLinks = new Array("");
+        aHeadlines = new Array("");
+	setTimeout("fTWExec()",150);
+</script></div>
+
+	  <div id="banner_top">
+<!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://adman.in.gr/click?webspace=160&amp;dfl=yes"><img src="http://adman.in.gr/banner?webspace=160&amp;dfl=yes&amp;js=no" border="0" width="728" height="90" alt="" /><br /></a>
+</noscript>
+<script language="javascript" type="text/javascript">
+rnd = Math.floor(Math.random()*900000)+100;
+now = parseInt((new Date()).getTime());
+burst="?"+rnd+":?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|160/728x90"+burst+"/\">");
+document.write("</sc"+"ript>");
+</script>
+<!-- end AdMan code --></div>
+		<div id="mainDiv_container">
+			<div><img src="templates/default/images/main_top.gif"></div>
+			<div id="mainDiv_container1">
+				<div id="leftDiv">
+			<div id="menu">
+<div><img src="templates/default/images/menu_top.gif"/></div>
+<div id="pageExpand_container">
+<ul id="pageExpand">
+<li ><a  class="active"  href="default.asp?pID=7&ct=1&la=1">Τα νέα της Υγείας</a></li>
+<li class="parent"><a  href="default.asp?pID=6&ct=2&la=1">Υγεία από το Α έως το Ω</a>
+<li ><a  href="default.asp?pID=7&ct=4&la=1">Φάρμακα & Συμπληρώματα</a></li>
+<li ><a  href="default.asp?pID=7&ct=5&la=1">Fitness</a></li>
+<li ><a  href="default.asp?pID=7&ct=6&la=1">Διατροφή</a></li>
+<li ><a  href="default.asp?pID=7&ct=7&la=1">Συνταγές</a></li>
+<li id="active" ><a  href="default.asp?pID=7&ct=8&la=1">Αδυνάτισμα</a></li>
+<li ><a  href="default.asp?pID=7&ct=9&la=1">Σεξ</a></li>
+<li ><a  href="default.asp?pID=7&ct=10&la=1">Υγιεινή Ζωή</a></li>
+<li ><a  href="default.asp?pID=7&ct=11&la=1">Ψυχική Υγεία</a></li>
+<li ><a  href="default.asp?pID=7&ct=12&la=1">Άντρας</a></li>
+<li class="parent"><a  href="default.asp?pID=7&ct=14&la=1">Παιδί</a>
+<li ><a  href="default.asp?pID=7&ct=13&la=1">Γυναίκα</a></li>
+<li ><a  href="default.asp?pID=7&ct=15&la=1">Τρίτη Ηλικία</a></li>
+<li ><a  href="default.asp?pID=7&ct=160&la=1">Φύση & Καλύτερη Ζωή</a></li>
+<li class="parent"><a  href="default.asp?pID=5&ct=16&la=1">Ερωτήσεις & Απαντήσεις</a>
+<li ><a  href="default.asp?pID=7&ct=17&la=1">Οικογενειακός Γιατρός</a></li>
+<li ><a  href="default.asp?pID=7&ct=18&la=1">Tips</a></li>
+<li class="parent"><a  href="default.asp?pID=7&ct=257&la=1">Αφιερώματα</a>
+<li ><a  href="default.asp?pID=7&ct=98&la=1">Άλλα Θέματα</a></li>
+</ul>
+</div>
+</div>
+
+			<div id="left_col">
+			 <div class="banner_left" style="text-align:center;padding-bottom:10px">
+<!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://adman.in.gr/click?webspace=205&amp;dfl=yes"><img src="http://adman.in.gr/banner?webspace=205&amp;dfl=yes&amp;js=no" border="0" width="150" height="250" alt="" /><br /></a>
+</noscript>
+<script language="javascript" type="text/javascript">
+rnd = Math.floor(Math.random()*900000)+100;
+now = parseInt((new Date()).getTime());
+burst="?"+rnd+":?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|205/150x250"+burst+"/\">");
+document.write("</sc"+"ript>");
+</script>
+<!-- end AdMan code --></div>	
+			  <div><img src="templates/default/images/left_col_top.gif"></div>
+			  <div id="covers">
+	<div class="cover">
+		<div class="covers_title" onclick="window.location.href='default.asp?pid=24'" style="cursor:pointer">ΕΝΤΥΠΗ ΕΚΔΟΣΗ</div>
+		<a href="default.asp?pid=32&issue=20120112" target="_blank"><img src="http://images.tanea.gr/AssetService/Image.ashx?w=113&pg=407098" border="0"/>
+		Διαβάστε το έντυπο ΥΓΕΙΑ σε μορφή PDF
+	</div>
+	<div class="cover">
+		<a href="http://assets.tanea.gr/ygeia/files/magazines/tsek up.pdf" target="_blank"><img src="http://assets.tanea.gr/ygeia/files/magazines/tsekup.jpg" border="0" width="112" height="140"/></a>
+		Διαβάστε το περιοδικό ΥΓΕΙΑ σε μορφή PDF
+	</div>
+</div>
+			  
+			  
+			  
+			  
+			  <div><img src="templates/default/images/left_col_bottom.gif"></div>
+			</div>
+			<div class="banner_left" style="text-align:center">
+<!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://adman.in.gr/click?webspace=161&amp;dfl=yes"><img src="http://adman.in.gr/banner?webspace=161&amp;dfl=yes&amp;js=no" border="0" width="150" height="250" alt="" /><br /></a>
+</noscript>
+<script language="javascript" type="text/javascript">
+rnd = Math.floor(Math.random()*900000)+100;
+now = parseInt((new Date()).getTime());
+burst="?"+rnd+":?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|161/150x250"+burst+"/\">");
+document.write("</sc"+"ript>");
+</script>
+<!-- end AdMan code --></div>
+		  </div>
+			<div id="mainDiv">
+				<div id="mainDiv_bottom_left">
+					<div id="path"><a href="default.asp?la=1" class="pathClick"></a><img height="7" hspace="5" src="templates/default/images/arrow_orange1.gif" width="4"/><a href="default.asp?pid=7&ct=1&la=1" class="pathClick">Τα νέα της Υγείας</a></div>
+					<div class="art_title">Παχυσαρκία, ηπατίτιδα C οδηγούν στον καρκίνο του ήπατος</div>
+<div class="art_details"><font style="font-size:11px"></font><br><br>	Δημοσίευση: 8-1-2012, 10:54 Τελευταία ανανέωση: 8-1-2012, 11:14</div>
+<div class="article_icons">
+	<div class="article_icons_right">
+		<a href="default.asp?pid=25&ct=1&articleID=13940" target="_blank"><img alt="Εκτύπωση" src="templates/default/images/print.gif" border="0"/></a>
+		<a href="mailto:?subject=http%3A%2F%2Fygeia%2Etanea%2Egr%2F&body=http%3A%2F%2Fygeia%2Etanea%2Egr%2Fdefault.asp?pid%3D8%26ct%3D1%26articleID%3D13940%26la%3D1"><img alt="Αποστολή σε φίλο" src="templates/default/images/send.gif" border="0"/></a>
+		<a href="Javascript:decreaseSize()"><img alt="" src="templates/default/images/font_minus.gif" border="0"/></a>
+		<a href="Javascript:increaseSize()"><img alt="" src="templates/default/images/font_plus.gif" border="0"/></a>
+	</div>
+</div>
+<div style="float:left;width:100%;text-align:right;font:Normal 11px Arial;color:#F3A766;padding-top:5px"><i>Επιμέλεια: Ρούλα Τσουλέα</i></div>
+<div class="question_article text" id="fontContent">
+<a href="http://assets.tanea.gr/ygeia/files/Pneyvmones sykoti.jpg" title="" rel="lightbox"><img style="MARGIN-RIGHT: 8px" src="http://assets.tanea.gr/ygeia/files/thumbs/Pneyvmones sykoti_200x100.jpg" alt="" align="left" border="0"/></a>
+<p class="MsoNormal">Η μόλυνση με τον ιό της ηπατίτιδας C και η παχυσαρκία μπορεί να ευθύνονται για την αύξηση των κρουσμάτων καρκίνου του ήπατος, τα οποία έχουν τριπλασιαστεί τις τρεις τελευταίες δεκαετίες, αναφέρουν επιστήμονες από την Κλινική Μάγιο, στο Ρότσεστερ της Μινεσότα.</p><p class="MsoNormal">Οι ερευνητές εξέτασαν ιατρικές πληροφορίες αρκετών δεκαετιών, οι οποίες προέρχονται από το Πρόγραμμα Επιδημιολογίας του Ρότσεστερ – μια αμερικανική βάση δεδομένων που αφορά ενδονοσοκομειακούς και εξωνοσοκομειακούς ασθενείς. </p><p class="MsoNormal">Η ανάλυσή τους δημοσιεύεται στο τεύχος Ιανουαρίου της επιθεώρησης «Mayo Clinic Proceedings».</p><p class="MsoNormal">Όπως σημειώνουν, αν και το Εθνικό Ίδρυμα Καρκίνου (NCI) των ΗΠΑ εκτιμά πως τα κρούσματα του ηπατοκυτταρικού καρκινώματος, όπως λέγεται επιστημονικά ο καρκίνος του ήπατος, είναι 5,1 ανά 100.000 πληθυσμού, φαίνεται πως τελικά είναι 6,9 ανά 100.000 πληθυσμού.</p><p class="MsoNormal">Επιπλέον, το 11% των κρουσμάτων της νόσου σχετίζονται με την παχυσαρκία, η οποία οδηγεί στη συσσώρευση λίπους στο ήπαρ. Αν και το ποσοστό αυτό είναι μικρό, η ραγδαία εξάπλωση της επιδημίας της παχυσαρκίας είναι πολύ πιθανό να οδηγήσει στο μέλλον σε κατακόρυφη αύξηση των κρουσμάτων ηπατικού καρκίνου, εκτιμούν οι ερευνητές.</p><p class="MsoNormal">Οι ερευνητές διαπίστωσαν ακόμα πως η ηπατίτιδα C αποτελεί παράγοντα κινδύνου για ηπατοκυτταρικό καρκίνωμα. «Οι ουλές που προκαλεί η νόσος στο ήπαρ χρειάζονται 20 έως 30 χρόνια για να εξελιχθούν σε καρκίνο», λέει ο γαστρεντερολόγος δρ Γ. Ρέι Κιμ, ειδικός στην Ηπατολογία και κύριος συγγραφέας της μίας εκ των δύο εκθέσεων.</p><p class="MsoNormal">«Βλέπουμε σήμερα ασθενείς με καρκίνο στα 50 ή στα 60 τους, οι οποίοι είχαν κολλήσει ηπατίτιδα C πριν από 30 χρόνια και δεν το ήξεραν καν».</p><p class="MsoNormal">Σύμφωνα με γενικές πληροφορίες που συμπεριλαμβάνουν στο άρθρο τους, ο προχωρημένος ηπατοκυτταρικός καρκίνος έχει 10-12% ποσοστά επιβίωσης στην πενταετία.</p><p class="MsoNormal">Αυτό δείχνει πόσο σημαντικό είναι να ελέγχονται προληπτικά όσοι ανήκουν στις ομάδες υψηλού κινδύνου, ώστε να εντοπίζεται η νόσος σε πρώιμο στάδιο, όταν υπάρχουν περισσότερα περιθώρια θεραπείας, σημειώνουν. </p>
+<br><br><font color="#888888"><i>Πηγή : Web Only</i></font>
+</div>
+<A href="http://del.icio.us/post?url=http%3A%2F%2Fygeia%2Etanea%2Egr%2Fdefault%2Easp%3Fpid%3D8%26ct%3D1%26articleID%3D13940%26la%3D1" target="_blank"><IMG src="templates/default/images/icons/tetragona.gif" border="0"></A> <A href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fygeia%2Etanea%2Egr%2Fdefault%2Easp%3Fpid%3D8%26ct%3D1%26articleID%3D13940%26la%3D1" target="_blank"><IMG src="templates/default/images/icons/anthropaki.gif" border="0"></A> <A href="http://buzz.reality-tape.com/submit.php?url=http%3A%2F%2Fygeia%2Etanea%2Egr%2Fdefault%2Easp%3Fpid%3D8%26ct%3D1%26articleID%3D13940%26la%3D1" target="_blank"><IMG src="templates/default/images/icons/bPlus.gif" border="0"></A> <A href="http://cull.gr/refer?url=http%3A%2F%2Fygeia%2Etanea%2Egr%2Fdefault%2Easp%3Fpid%3D8%26ct%3D1%26articleID%3D13940%26la%3D1" target="_blank"><IMG src="templates/default/images/icons/c.gif" border="0"></A> <A href="http://www.facebook.com/share.php?u=http%3A%2F%2Fygeia%2Etanea%2Egr%2Fdefault%2Easp%3Fpid%3D8%26ct%3D1%26articleID%3D13940%26la%3D1" target="_blank"><IMG src="templates/default/images/icons/f.gif" border="0"></A> <A href="http://www.bobit.gr/articles/new?bob_this=http%3A%2F%2Fygeia%2Etanea%2Egr%2Fdefault%2Easp%3Fpid%3D8%26ct%3D1%26articleID%3D13940%26la%3D1" target=_blank><IMG src="templates/default/images/icons/b.gif" border="0"></A><div class="article_icons">
+	<div class="article_icons_right">
+		<a href="default.asp?pid=25&ct=1&articleID=13940" target="_blank"><img alt="Εκτύπωση" src="templates/default/images/print.gif" border="0"/></a>
+		<a href="mailto:?subject=http%3A%2F%2Fygeia%2Etanea%2Egr%2F&body=http%3A%2F%2Fygeia%2Etanea%2Egr%2Fdefault.asp?pid%3D8%26ct%3D1%26articleID%3D13940%26la%3D1"><img alt="Αποστολή σε φίλο" src="templates/default/images/send.gif" border="0"/></a>
+		<a href="Javascript:decreaseSize()"><img alt="" src="templates/default/images/font_minus.gif" border="0"/></a>
+		<a href="Javascript:increaseSize()"><img alt="" src="templates/default/images/font_plus.gif" border="0"/></a>
+	</div>
+</div>
+
+                </div>
+				<div id="mainDiv_bottom_right">
+					<div class="articles_right">
+	<div class="title_blue">Τα Πιο Διαβασμένα Θέματα</div>
+	<a href="default.asp?pid=8&ct=1&articleID=13965&la=1">Τι αποκαλύπτει η ανάλυση ούρων</a>
+	<a href="default.asp?pid=8&ct=1&articleID=13975&la=1">Γέροι οι 50άρηδες για τα 20χρονα!</a>
+	<a href="default.asp?pid=8&ct=1&articleID=13972&la=1">Κίνδυνος καρκίνου στο πάγκρεας απ’ τα πολλά λουκάνικα</a>
+	<a href="default.asp?pid=8&ct=1&articleID=13950&la=1">Μήπως έχετε γεράσει πριν την ώρα σας; </a>
+	<a href="default.asp?pid=8&ct=1&articleID=13971&la=1">Για τον εγκέφαλο, ίδιος ο εθισμός στο Διαδίκτυο και στα ναρκωτικά</a>
+	<a class="more_red" href="default.asp?pid=12&la=1">Περισσότερα άρθρα</a>
+</div>
+					<div class="articles_right">
+	<div class="title_blue">ΤΕΛΕΥΤΑΙΕΣ ΕΙΔΗΣΕΙΣ</div>
+	<a href="default.asp?pid=8&ct=1&articleID=13975&la=1">Γέροι οι 50άρηδες για τα 20χρονα!</a>
+	<a href="default.asp?pid=8&ct=1&articleID=13973&la=1">Πιο ριψοκίνδυνοι οι άντρες στη δουλειά</a>
+	<a href="default.asp?pid=8&ct=1&articleID=13972&la=1">Κίνδυνος καρκίνου στο πάγκρεας απ’ τα πολλά λουκάνικα</a>
+	<a href="default.asp?pid=8&ct=1&articleID=13971&la=1">Για τον εγκέφαλο, ίδιος ο εθισμός στο Διαδίκτυο και στα ναρκωτικά</a>
+	<a href="default.asp?pid=8&ct=1&articleID=13970&la=1">Φαρμακεία: Κανονικά εκτελούνται οι συνταγές των Ταμείων</a>
+	<a class="more_red" href="default.asp?pid=9&la=1">Διαβάστε περισσότερα</a>
+</div>
+					<div class="banner300x250">
+<!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://adman.in.gr/click?webspace=162&amp;dfl=yes"><img src="http://adman.in.gr/banner?webspace=162&amp;dfl=yes&amp;js=no" border="0" width="300" height="250" alt="" /><br /></a>
+</noscript>
+<script language="javascript" type="text/javascript">
+rnd = Math.floor(Math.random()*900000)+100;
+now = parseInt((new Date()).getTime());
+burst="?"+rnd+":?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|162/300x250"+burst+"/\">");
+document.write("</sc"+"ript>");
+</script>
+<!-- end AdMan code --></div>
+					<div id="family_doctor">
+	<div><img alt="Οικογενειακός γιατρός" src="http://assets.tanea.gr/ygeia/files/giatroi/thumbs/Fotografia---Mpertzeletos_168x158.jpg"/></div>
+	<div class="family_doctor_question">
+<a href="default.asp?pid=8&ct=17&articleID=12961&la=1">Πως να αυξήσετε την «καλή» χοληστερίνη </a>
+	</div>
+	<a class="more_red1" href="default.asp?pid=7&ct=17">Περισσότερα άρθρα</a>
+</div>
+					<div class="banner300x250"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] --><noscript><a title="Adman Banner" href="http://adman.in.gr/click?webspace=220&dfl=yes"><img height="250" alt="" src="http://adman.in.gr/banner?webspace=220&dfl=yes&js=no" width="300" border="0"/><br/></a></noscript>
+<script language="javascript" type="text/javascript">
+rnd = Math.floor(Math.random()*900000)+100;
+now = parseInt((new Date()).getTime());
+burst="?"+rnd+":?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|220/300x250"+burst+"/\">");
+document.write("</sc"+"ript>");
+</script>
+<!-- end AdMan code --></div>
+					<div class="articles_right">
+	<div class="title_blue">Ψυχική Υγεία</div>
+		<a href="default.asp?pid=8&ct=1&articleID=13905&la=1">Τι χάνουν όσοι αναζητούν με αγωνία το τέλειο</a>
+		<a href="default.asp?pid=8&ct=1&articleID=13879&la=1">Στρες από τις βαριές... σακούλες με τα ψώνια!</a>
+		<a href="default.asp?pid=8&ct=1&articleID=13710&la=1">Η προσωπικότητα επηρεάζει τη μυρωδιά του σώματος</a>
+		<a href="default.asp?pid=8&ct=1&articleID=13707&la=1">Πότε έχουμε υποτακτική προσωπικότητα</a>
+	<a class="more_red" href="default.asp?pid=7&ct=11&la=1">Περισσότερα άρθρα</a>
+</div>
+					<div id="videos_right">
+	<div><img alt="ΒΙΝΤΕΟΘΗΚΗ" src="templates/default/images/videos_title1.gif"/></div>
+	<div id="videos_right_main">
+		<div class="home_video_title" id="home_video_title">Οι επεμβάσεις για τη μυωπία</div>
+		<div id="video_ajax"></div>
+			<script type="text/javascript">
+				var video = new FlashObject('player.swf', 'videoPlayer', '280', '230', '1', '#FFFFFF');
+				video.addVariable("startPlay", "false");
+				video.addVariable("screenShot", "http://assets.tanea.gr/ygeia/files/aslanidiscapture2.jpg");
+				video.addVariable("video", "http://invideosgr.mediacdn.com/rep/hq/2011/03/15/aslanidhs-2.wmv-legacy-448x336-400.flv");
+				video.addVariable("volume", "70");
+				video.addVariable("videoBufferTime", "2");
+				video.addVariable("loopVideo", "false");
+				video.addParam("allowfullscreen", "true");
+				video.write('video_ajax');
+			</script>
+		<div id="video_thumbs">
+			<div class="video_thumbs_item">
+				<div class="video_thumb"><a href="Javascript:getVideo(36)"><img src="http://assets.tanea.gr/ygeia/files/thumbs/aslanidiscapture2_65x49.jpg" border="0"/></a></div>
+				<div class="video_txt"><a href="Javascript:getVideo(36)">Οι επεμβάσεις για τη μυωπία</a></div>
+			</div>
+			<div class="video_thumbs_item">
+				<div class="video_thumb"><a href="Javascript:getVideo(39)"><img src="http://assets.tanea.gr/ygeia/files/thumbs/Diabetes metrisi xeri_65x49.jpg" border="0"/></a></div>
+				<div class="video_txt"><a href="Javascript:getVideo(39)">Η νεφροπάθεια στον διαβήτη</a></div>
+			</div>
+			<div class="video_thumbs_item">
+				<div class="video_thumb"><a href="Javascript:getVideo(9)"><img src="http://assets.tanea.gr/ygeia/files/thumbs/cancer_65x49.jpg" border="0"/></a></div>
+				<div class="video_txt"><a href="Javascript:getVideo(9)">Αντιμέτωποι με τον καρκίνο</a></div>
+			</div>
+			<div class="video_thumbs_item">
+				<div class="video_thumb"><a href="Javascript:getVideo(33)"><img src="http://assets.tanea.gr/ygeia/files/thumbs/Nososkapnistonvideo_65x49.jpg" border="0"/></a></div>
+				<div class="video_txt"><a href="Javascript:getVideo(33)">Έλεγχος στα 40 για τη νόσο των καπνιστών</a></div>
+			</div>
+		</div>
+		<a class="more_red2" href="default.asp?pid=4">Δείτε περισσότερα βίντεο</a>
+	</div>
+</div><script language="javascript">
+var xxx_serverMethodsUrl = 'ajax/Ajaxproxy.asp';
+function getVideo(num) {
+	var params;
+	//$('comloader').style.visibility='visible';
+	params = 'c=VideosRight&m=getMainVideo&vd='+num;
+	var myAjax = new Ajax.Request(xxx_serverMethodsUrl, {method:'get',parameters:params,onComplete:feedResult});
+}
+function feedResult(response) {
+	if (response.status==200) {
+		//$('comloader').style.visibility='hidden';
+		$('home_video_title').innerHTML = response.responseText
+		response.responseText.evalScripts();
+	}
+	else{
+		alert('Παρουσιάστηκε ένα σφάλμα, παρακαλώ δοκιμάστε ξανά');
+	}
+};
+</script>
+
+					
+				</div>
+			</div>
+		</div>
+		<div id="bottomDiv">
+			<div id="useful">
+	<div><img src="templates/default/images/usefull_title.gif" alt="Χρήσιμα!"></div>
+	<div class="useful_box1">
+		<div><img src="templates/default/images/useful_title1.gif" alt="ΔΕΙΚΤΗΣ ΜΑΖΑΣ ΣΩΜΑΤΟΣ"></div>
+<form name="mass_frm" method="post" action="default.asp?pid=30">
+			<table border="0" cellspacing="0" cellpadding="5" style="margin:9px 0 0 23px;">
+				<tr>
+					<td colspan="3" id="mass_result" style="color:#DC0000;font-weight:600"></td>
+				</tr>
+				<tr>
+					<td><strong>Βάρος</strong></td>
+					<td><input name="weight" id="weight" type="text" class="box1"></td>
+					<td>(σε κιλά)</td>
+				</tr>
+				<tr>
+					<td><strong>Ύψος</strong></td>
+					<td><input name="height" id="height" type="text" class="box1"></td>
+					<td>(σε cm)</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="center"><img src="templates/default/images/calculate_btn.gif" alt="Υπολογισμός" width="88" height="23" vspace="7" border="0" onclick="validateBodyMass2()" style="cursor:pointer"></td>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+</form>
+	</div>
+	<div class="useful_box2">
+		<div><img src="templates/default/images/efimeries_title.gif"></div>
+		<div id="illness">
+			<div class="illness_col1"  style="width:200px">				<a href="http://www.in.gr/ath/duty/hospital.asp" target="_blank">Νοσοκομεία</a>				<a href="http://www.in.gr/ath/duty/pharmacy.asp" target="_blank">Φαρμακεία</a>				<a href="default.asp?pid=31&la=1" >Τηλέφωνα ανάγκης</a>			</div>
+		</div>
+	</div>
+	<div class="useful_box3">
+		<div><a href="default.asp?pid=11&ct=19&la=1"><img src="templates/default/images/useful_title3.gif" alt="ΠΡΩΤΕΣ ΒΟΗΘΕΙΕΣ" border="0"></a></div>
+		<div><a href="default.asp?pid=11&ct=19&la=1"><img src="templates/default/images/first_aid_pic.gif" border="0"></a></div>
+	</div>
+	<div class="useful_box4">
+		<div><img src="templates/default/images/useful_title4.gif" alt="ΥΓΕΙΑ ΑΠΟ ΤΟ Α ΕΩΣ ΤΟ Ω"></div>
+		<div id="alphabet">
+			<a href="default.asp?pid=6&ct=2&let=20&la=1">Α</a>
+			<a href="default.asp?pid=6&ct=2&let=21&la=1">Β</a>
+			<a href="default.asp?pid=6&ct=2&let=22&la=1">Γ</a>
+			<a href="default.asp?pid=6&ct=2&let=23&la=1">Δ</a>
+			<a href="default.asp?pid=6&ct=2&let=24&la=1">Ε</a>
+			<a href="default.asp?pid=6&ct=2&let=25&la=1">Ζ</a>
+			<a href="default.asp?pid=6&ct=2&let=26&la=1">Η</a>
+			<a href="default.asp?pid=6&ct=2&let=27&la=1">Θ</a>
+			<a href="default.asp?pid=6&ct=2&let=28&la=1">Ι</a>
+			<a href="default.asp?pid=6&ct=2&let=29&la=1">Κ</a>
+			<a href="default.asp?pid=6&ct=2&let=30&la=1">Λ</a>
+			<a href="default.asp?pid=6&ct=2&let=31&la=1">Μ</a>
+			<a href="default.asp?pid=6&ct=2&let=32&la=1">Ν</a>
+			<a href="default.asp?pid=6&ct=2&let=33&la=1">Ξ</a>
+			<a href="default.asp?pid=6&ct=2&let=34&la=1">Ο</a>
+			<a href="default.asp?pid=6&ct=2&let=35&la=1">Π</a>
+			<a href="default.asp?pid=6&ct=2&let=36&la=1">Ρ</a>
+			<a href="default.asp?pid=6&ct=2&let=37&la=1">Σ</a>
+			<a href="default.asp?pid=6&ct=2&let=38&la=1">Τ</a>
+			<a href="default.asp?pid=6&ct=2&let=39&la=1">Υ</a>
+			<a href="default.asp?pid=6&ct=2&let=40&la=1">Φ</a>
+			<a href="default.asp?pid=6&ct=2&let=41&la=1">Χ</a>
+			<a href="default.asp?pid=6&ct=2&let=42&la=1">Ψ</a>
+			<a href="default.asp?pid=6&ct=2&let=43&la=1">Ω</a>
+		</div>
+		Αναζητείστε μία ασθένεια επιλέγοντας ένα αρχικό γράμμα από τον παραπάνω πίνακα
+	</div>
+	<div><img src="templates/default/images/useful_bottom.gif"></div>
+</div><script>
+function validateBodyMass2() {
+	var weight = document.getElementById('weight').value
+	var height = document.getElementById('height').value 
+
+	if ((isNaN(weight)) || (weight=='') || (weight<1) || (weight>250)) {
+		document.getElementById('mass_result').innerHTML='Το βάρος σας δεν είναι έγκυρο';
+	}
+	else if (isNaN(height) || height<10 || height>250) {
+		document.getElementById('mass_result').innerHTML='Το ύψος σας δεν είναι έγκυρο';
+	}
+	else {
+			document.mass_frm.submit();
+	}
+}
+</script>
+		</div>
+		<div id="footer">
+	<div id="footer_top"><img style="MARGIN-RIGHT: 6px" src="templates/default/images/arrow_grey_sm.gif"/>
+		<a href="default.asp">ΑΡΧΙΚΗ</a> | <a href="default.asp?pid=4">VIDEO</a> | <a href="default.asp?pid=9&la=1">ΤΕΛΕΥΤΑΙΑ ΝΕΑ</a> | <a href="default.asp?pID=7&ct=85&la=1">ΔΕΛΤΙΑ ΤΥΠΟΥ</a> | <a href="default.asp?pID=7&ct=18&la=1">TIPS</a>
+	</div>
+<div id="footer_middle"><img style="MARGIN-RIGHT: 6px" src="templates/default/images/arrow_grey_sm.gif"/><a href="default.asp?pid=7&ct=1&la=1">Τα νέα της Υγείας</a> | <a href="default.asp?pid=6&ct=2&la=1">Υγεία από το Α έως το Ω</a> | <a href="default.asp?pid=7&ct=4&la=1">Φάρμακα & Συμπληρώματα</a> | <a href="default.asp?pid=7&ct=5&la=1">Fitness</a> | <a href="default.asp?pid=7&ct=6&la=1">Διατροφή</a> | <a href="default.asp?pid=7&ct=7&la=1">Συνταγές</a> | <a href="default.asp?pid=7&ct=8&la=1">Αδυνάτισμα</a> | <a href="default.asp?pid=7&ct=9&la=1">Σεξ</a> | <a href="default.asp?pid=7&ct=10&la=1">Υγιεινή Ζωή</a> | <a href="default.asp?pid=7&ct=11&la=1">Ψυχική Υγεία</a> | <a href="default.asp?pid=7&ct=12&la=1">Άντρας</a> | <a href="default.asp?pid=7&ct=14&la=1">Παιδί</a> | <a href="default.asp?pid=7&ct=13&la=1">Γυναίκα</a> | <a href="default.asp?pid=7&ct=15&la=1">Τρίτη Ηλικία</a> | <a href="default.asp?pid=7&ct=160&la=1">Φύση & Καλύτερη Ζωή</a> | <a href="default.asp?pid=5&ct=16&la=1">Ερωτήσεις & Απαντήσεις</a> | <a href="default.asp?pid=7&ct=17&la=1">Οικογενειακός Γιατρός</a> | <a href="default.asp?pid=7&ct=18&la=1">Tips</a> | <a href="default.asp?pid=7&ct=257&la=1">Αφιερώματα</a> | <a href="default.asp?pid=7&ct=98&la=1">Άλλα Θέματα</a><br/><img style="MARGIN-RIGHT: 6px" src="templates/default/images/arrow_grey_sm.gif"/><a href="default.asp?pid=21&la=1">Διαφήμιση</a> | <a href="default.asp?pid=22&la=1">Ταυτότητα</a> | <a href="default.asp?pid=13&la=1">Επικοινωνία</a></div>
+<div id="footer_bottom"><span><a href="default.asp?pid=33&md=xml" target="_blank"><img alt="RSS Feeds" src="templates/default/images/rss_icon.gif" align="absMiddle" border="0"/></a> <a href="default.asp?pid=33&md=xml" target="_blank">RSS FEEDS</a> | © <a href="http://www.dolnet.gr" target="_blank">Δημοσιογραφικός Οργανισμός Λαμπράκη Α.Ε</a></span><span class="netVolution"><a href="http://www.netvolution.net" target="_blank" class="texta">powered by <img src="templates/default/images/net.gif" width="13" height="7" hspace="3" vspace="0" border="0" align="bottom">NETVOLUTION</a></span></div></div>
+	</div>
+</div>
+<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+<script type="text/javascript">
+	var _rsCI="ingr";
+	var _rsCG="0";
+	var _rsDN="//secure-uk.imrworldwide.com/";
+	var _rsCC=0;
+</script>
+<script type="text/javascript" src="//secure-uk.imrworldwide.com/v53.js"></script>
+<noscript>
+	<div><img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=ingr&amp;cg=0" alt=""/></div>
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+</body>
+</html>
+

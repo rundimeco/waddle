@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Магний уменьшает риск возникновения инсульта</title>
+    <meta name="description" content="К такому выводу пришли американские ученые." />
+    <meta name="keywords" content="новости, новости Волгоград, новости Волгограда, городские новости, газета, Волгоград, новости регионов, последние новости, новости России, лента новостей, новости дня, новости технологии, новости кино, спортивные новости, rss новости, rss, афиша, афиша Волгограда, городская афиша, театр, кино, репертуар, кинотеатры, кинотеатры Волгограда, телепрограмма, гороскоп" />
+    <meta property="og:title" content="Магний уменьшает риск возникновения инсульта" />
+    <meta property="og:image" content="http://news.vdv-s.ru/pics/240/47117.jpg" />
+    <link rel="alternate" type="application/rss+xml" title="ВДВ - новости Волгограда" href="http://news.vdv-s.ru/rss/volgograd.rss" />
+    <link rel="alternate" type="application/rss+xml" title="ВДВ - новости России и мира" href="http://news.vdv-s.ru/rss/news.rss" />
+    <link rel="stylesheet" type="text/css" href="http://static.vdv-s.ru/css/header.css" />
+    <link rel="stylesheet" type="text/css" href="/css/common.css" />
+<!--[if IE]><link href="http://static.vdv-s.ru/css/header_msie.css" type="text/css" rel="stylesheet" />
+			<link href="/css/msie.css" type="text/css" rel="stylesheet" /><![endif]-->
+<!--[if lte IE 6.5]><link href="http://static.vdv-s.ru/css/header_msie6.css" type="text/css" rel="stylesheet" />
+			<link href="/css/msie6.css" type="text/css" rel="stylesheet" /><![endif]-->
+<!--[if IE 7]><link href="/css/msie7.css" type="text/css" rel="stylesheet" /><![endif]-->
+<!--[if IE 8]><link href="/css/msie8.css" type="text/css" rel="stylesheet" /><![endif]-->
+<!--[if IE 9]><link href="/css/msie9.css" type="text/css" rel="stylesheet" /><![endif]-->
+    <script type="text/javascript" src="/js/main.js"></script>
+    <script type="text/javascript" src="http://static.vdv-s.ru/js/XMLHttpRequest/XMLHttpRequest.js"></script>
+    <script type="text/javascript" src="http://static.vdv-s.ru/js/transform.js"></script>
+    <script type="text/javascript" src="http://static.vdv-s.ru/js/ajax_obj.js"></script>
+    <script type="text/javascript" src="http://static.vdv-s.ru/js/meteo.js"></script>
+  </head>
+  <body>
+    <div id="wrapper">
+<!--noindex-->
+      <div id="tmenu">
+        <a href="/" class="tmi tmiho">На главную</a>
+        <a href="/map/" class="tmi tmimap">Карта сайта</a>
+        <img src="http://top.list.ru/counter?id=895922" width="1" height="1" alt="" />
+        <img src="http://counter.rambler.ru/top100.cnt?702763" width="1" height="1" alt="" />
+      </div>
+      <div id="topheader">
+        <div id="hbanc">
+          <div id="hban">
+            <div id="b83">
+              <script type="text/javascript" src="http://rkm.vdv-s.ru/cgi-bin/show.cgi?id=83"></script>
+            </div>
+          </div>
+        </div>
+        <div id="logo">
+          <a href="/">
+            <img src="http://static.vdv-s.ru/img/logos/logo.png" alt="новости Волгограда" title="" />
+          </a>
+        </div>
+        <div id="hwr">
+          <p>Волгоград</p>
+          <div id="hwr_date">Вторник, 17 января</div>
+          <div id="hwr_" style="background-image:url('http://static.vdv-s.ru/img/hwr/d.sun.c2.s1.png')">
+            <div id="hwr_ti"><a onclick="gizmet(0)">вечером</a> <a onclick="gizmet(1)">ночью</a> <a onclick="gizmet(2)">завтра утром</a> <a class="sel" onclick="gizmet(3)">завтра днем</a></div>
+            <div id="hwr_wr">облачно, <br />снег<span><a href="http://www.meteoservice.ru/weather/forecast/volgograd.html" onmouseover="this.target='_blank'" rel="nofollow"><img src="http://static.vdv-s.ru/img/hwr/gismeteo.gif" alt="погода в волгограде" /></a></span></div>
+            <div id="hwr_t">-5°..</div>
+          </div>
+        </div>
+      </div>
+      <div id="hmenu">
+        <ul id="prs">
+          <li>
+            <span>
+              <a href="http://www.vdv-s.ru/" title="объявления Волгограда">Объявления</a>
+            </span>
+          </li>
+          <li class="sel">
+            <span>
+              <a href="/" title="новости Волгограда">Новости</a>
+            </span>
+          </li>
+          <li>
+            <span>
+              <a href="http://www.vashka.ru/" title="Ваша газета - народные новости, SMS-форум">Ваша газета</a>
+            </span>
+          </li>
+          <li>
+            <a id="XXlet" style="width:auto; margin-top:-3px; margin-bottom:-2px; margin-left:80px;" href="http://вдв.рф">Cпецпроект "20 лет "Всё для Вас"</a>
+          </li>
+          <li class="hmir">
+            <form id="searchform" action="http://news.vdv-s.ru/search/">
+              <fieldset>
+                <div>
+                  <input id="srch" type="text" name="search" value="Поиск по новостям" onclick="this.value=''" onblur="setTimeout('document.getElementById(\'srch\').value=\'Поиск по новостям\'',1000)" />
+                  <p onclick="javascript:document.getElementById('searchform').submit()" title="Найти">Найти</p>
+                </div>
+              </fieldset>
+            </form>
+          </li>
+          <li class="hmir">
+            <span>
+              <a href="/archive/" rel="archives" title="Архив">Архив</a>
+            </span>
+          </li>
+        </ul>
+      </div>
+      <div id="submenu" class="sm">
+        <a class="sms" href="/volgograd/">В Волгограде</a>
+        <a href="/politics/">Политика</a>
+        <a href="/war/">Вооруженные конфликты</a>
+        <a href="/disaster/">Катастрофы</a>
+        <a href="/society/">Общество</a>
+        <a href="/realty/">Жилье</a>
+        <a href="/auto/">Автомир</a>
+        <a href="/job/">Рынок труда</a>
+        <a href="/business/">Экономика и бизнес</a>
+        <a href="/stroyka/">Строительство</a>
+        <a href="/hi-tech/">Наука и техника</a>
+        <a href="/children/">Дети</a>
+        <a href="/dacha/">Дача</a>
+        <a href="/dosug/">Культура и досуг</a>
+        <a href="/personal/">Личная жизнь</a>
+        <a href="/beauty/">Красота и здоровье</a>
+        <a href="/travel/">Путешествия</a>
+        <a href="/incident/">Происшествия, криминал</a>
+        <a href="/sport/">Спорт</a>
+        <a class="sms" href="/article/">Статьи</a>
+        <a class="sms" href="/photo/">Фоторепортажи</a>
+        <a class="sms" href="/video/">Видео</a>
+        <a class="sms" href="/panorama/">Виртуальные панорамы</a>
+        <a class="sms" href="/story/">Сюжеты</a>
+        <a class="sms" href="/horos/">Гороскоп</a>
+        <a class="sms" href="/afisha/">Афиша</a>
+        <a class="sms" href="/humor/">Юмор</a>
+      </div>
+<!--/noindex-->
+      <div id="content">
+        <div id="line"></div>
+        <div id="center">
+<!--noindex-->
+          <div id="cnhot">
+            <div class="ctext">
+              <a href="/politics/?news=222616">
+                <img src="/pics/t50/47159.jpg" alt="Президент отправил в отставку Анатолия Бровко" />
+              </a>
+              <b><em>сегодня</em> | 17:39</b>
+              <h3>
+                <a href="/politics/?news=222616">Президент отправил в отставку губернатора Анатолия Бровко</a>
+              </h3>
+            </div>
+            <div class="ctext">
+              <a href="/incident/?news=222595">
+                <img src="/pics/t50/47135.jpg" alt="Под Волгоградом пьяный гаишник сбил насмерть мужчину" />
+              </a>
+              <b><em>сегодня</em> | 11:53</b>
+              <h3>
+                <a href="/incident/?news=222595">Под Волгоградом пьяный гаишник сбил насмерть мужчину</a>
+              </h3>
+            </div>
+          </div>
+          <div id="anicc">
+            <script type="text/javascript">anistart()</script>
+          </div>
+<!--/noindex-->
+          <div id="cmain_n">
+            <div id="cm_nh">
+              <h1>Магний уменьшает риск возникновения инсульта</h1>
+              <b class="ts">16 <em>янв</em> | 17:10</b>
+<!--noindex-->
+              <div id="soc">
+                <span class="soci bl">
+                  <a href="javascript:void(0)" onclick="toblog()">
+                    <img src="/img/blogs/blogs.png" alt="Добавить новость в блог" title="Добавить новость в блог" />
+                  </a>
+                </span>
+                <span class="soci">
+                  <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+                  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://news.vdv-s.ru/beauty/?news=222574"></a>
+                </span>
+                <span class="soci" id="soci_vk">
+                  <script type="text/javascript" src="http://vkontakte.ru/js/api/share.js?10" charset="windows-1251"></script>
+                  <script type="text/javascript">document.write(VK.Share.button({url: "http://news.vdv-s.ru/beauty/?news=222574"},{type: "round", text: "Поделиться"}));</script>
+                </span>
+                <span class="soci">
+                  <div class="g-plusone" data-size="medium" data-count="true" data-href="http://news.vdv-s.ru/beauty/?news=222574"></div>
+                  <script type="text/javascript" src="https://apis.google.com/js/plusone.js">{parsetags: 'explicit'}</script>
+                  <script type="text/javascript">gapi.plusone.go();</script>
+                </span>
+                <span class="soci" id="framec">
+                  <script type="text/javascript">
+      var el=document.createElement('iframe');
+          el.id="fbiframe";
+          el.scrolling="no";
+          el.frameborder="0";
+          el.allowTransparency="true";
+          el.src='http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fnews.vdv-s.ru%2Fbeauty%2F%3Fnews%3D222574&amp;layout=button_count&amp;show_faces=false&amp;width=90px&amp;action=recommend&amp;colorscheme=light&amp;height=22px';
+      document.getElementById('framec').appendChild(el);
+      remamp(document.getElementById('fbiframe'));
+    </script>
+                </span>
+              </div>
+<!--/noindex-->
+              <img class="rpic" src="/pics/240/47117.jpg" alt="Магний уменьшает риск возникновения инсульта" />
+              <div class="rpic_d">Moscow-Live.ru<br /></div>
+              <script type="text/javascript">linked_chk()</script>
+            </div>
+            <div id="cm_nt">
+              <p class="b">К такому выводу пришли американские ученые.</p>
+              <p>Люди, в чьем рационе много продуктов, богатых магнием, вроде зеленых овощей, орехов и бобовых, в большей степени защищены от инсультов, согласно международному исследованию около 250000 человек, сообщает <a href="http://meddaily.ru/">Meddaily</a> со ссылкой на <a href="http://www.reuters.com/">Reuters</a>.</p>
+              <p>По словам <b>руководителя изыскания Сузанны Ларссон, профессора Каролинского Института</b>, потребление магния обратно пропорционально связано с риском ишемического инсульта. Данный вывод удалось сделать после анализа данных о рационе и состоянии здоровья жителей США, Европы и Азии в течение 11,5 лет. Примерно 6500 из них за это время попали в больницу с инсультом.</p>
+              <p>Согласно подсчетам ученых, каждые дополнительные 100 миллиграмм магния в день снижали риск ишемического инсульта на 9%. Между тем, специалисты подчеркивают: речь идет только о магнии в продуктах, а не о БАДах.</p>
+              <p>Суточная потребность в магнии составляет около 400 миллиграммов для мужчин и 300 миллиграммов - для женщин. У беременных женщин потребность возрастает до 450 миллиграммов в среднем, как увеличивается и у пациентов с сердечно-сосудистыми болезнями, ослабленным иммунитетом и депрессией.</p>
+              <script type="text/javascript">lnkopnr()</script>
+              <div class="source">
+                <div class="vcnt">Просмотров: <b>61</b></div>
+                <a id="use" href="/quote/" onmouseover="this.target='_blank'">Условия использования</a>
+              </div>
+            </div>
+<!--noindex-->
+            <script type="text/javascript" src="http://static.vdv-s.ru/js/messages.js"></script>
+            <script type="text/javascript" src="http://static.vdv-s.ru/js/news.js"></script>
+            <div id="cm_nc">
+              <div class="cm_nh" id="m_head">Комментарии</div>
+              <div id="comments">
+                <script type="text/javascript">loadNewsComments(222574, 'comments')</script>
+              </div>
+              <div id="cm_ncsp">- - -</div>
+              <div id="cbtn" class="btn cntr" onclick="reply(this,0)">[<span>Оставьте свой комментарий</span>]</div>
+              <div class="formc">
+                <form id="rform" action="" method="post" onsubmit="return msgcheck(this, 1)">
+                  <fieldset>
+                    <input type="hidden" name="news" value="222574" />
+                    <input type="hidden" id="parent" name="parent" value="0" />
+                    <div>
+                      <label for="nick">Псевдоним:</label>
+                      <input type="text" id="nick" name="nick" value="Гость" />
+                    </div>
+                    <div id="msgtext">
+                      <textarea name="newmessage" rows="5" cols="61"></textarea>
+                    </div>
+                    <input type="submit" value=" Отправить " id="sbmt" />
+                    <span class="rulelink">Оставляя комментарий, вы соглашаетесь<br /> с <a href="http://news.vdv-s.ru/rules/" onmouseover="this.target='_blank'"> правилами общения на портале vdv-s.ru</a></span>
+                  </fieldset>
+                </form>
+              </div>
+            </div>
+            <div id="cm_nl">
+              <p class="cm_nh">Новости по теме</p>
+              <div>
+                <span>13 <em>окт</em> 2011 » </span>
+                <a href="/beauty/?news=220071">Шоколад может предотвратить риск инсульта у женщин</a>
+              </div>
+              <div>
+                <span>13 <em>апр</em> 2011 » </span>
+                <a href="/dosug/?news=37245">После инсульта у Бориса Моисеева остались проблемы с речью</a>
+              </div>
+              <div>
+                <span>21 <em>дек</em> 2010 » </span>
+                <a href="/dosug/?news=34267">Борис Моисеев попал в реанимацию с инсультом</a>
+              </div>
+              <div>
+                <span>09 <em>авг</em> 2007 » </span>
+                <a href="/article?news=16875">Инсульт: как не допустить кровоизлияния</a>
+              </div>
+              <div>
+                <span>08 <em>май</em> 2007 » </span>
+                <a href="/beauty/?news=14665">Инъекции "Ботокса" спасают от инсульта?</a>
+              </div>
+              <div>
+                <span>26 <em>янв</em> 2007 » </span>
+                <a href="/beauty/?news=12458">Инсульт помогает бросить курить</a>
+              </div>
+              <div>
+                <span>17 <em>окт</em> 2006 » </span>
+                <a href="/beauty/?news=10188">Красное вино помогает пережить инсульт</a>
+              </div>
+              <div>
+                <span>05 <em>сен</em> 2006 » </span>
+                <a href="/beauty/?news=9166">Разрабатывается экономичная таблетка «три в одном» для сердечников</a>
+              </div>
+              <div>
+                <span>17 <em>май</em> 2006 » </span>
+                <a href="/beauty/?news=6655">Создан препарат, способный остановить гибель нервных клеток при инсульте</a>
+              </div>
+            </div>
+            <div class="yandex">
+              <script type="text/javascript" src="/js/direct.js"></script>
+              <script type="text/javascript">yandex_direct_print()</script>
+            </div>
+<!--/noindex-->
+          </div>
+        </div>
+        <div id="right">
+<!--noindex-->
+          <div class="stkd rpan">
+            <div class="hdr">
+              <a href="/video/">Видео</a>
+            </div>
+            <div class="ctext">
+              <a href="/video/?news=222470">
+                <img src="/pics/t50/47008.jpg" alt="Утром на мосту через Волгу столкнулись три машины (видео)" />
+                <img src="http://static.vdv-s.ru/img/empty.gif" alt="видео" title="видео" class="ovrl ovid" />
+              </a>
+              <b>12 <em>янв</em> | 10:00</b>
+              <h3>
+                <a href="/video/?news=222470">На мосту через Волгу столкнулись три машины</a>
+              </h3>
+            </div>
+          </div>
+          <div id="b75" class="bnr">
+            <script type="text/javascript" src="http://rkm.vdv-s.ru/cgi-bin/show.cgi?id=75"></script>
+          </div>
+          <div class="rtop">
+            <div class="hdr">
+              <a>Популярное за 24 часа</a>
+            </div>
+            <div class="ctext">
+              <a href="/stroyka/?news=222577">
+                <img src="/pics/t50/47120.jpg" alt="Улица Пролеткультская " />
+              </a>
+              <b>16 <em>янв</em> | 18:35</b>
+              <h3>
+                <a href="/stroyka/?news=222577">В Волгограде нашли самую короткую улицу</a>
+              </h3>
+            </div>
+            <div class="ctext">
+              <a href="/personal/?news=34607">
+                <img src="/pics/t50/35120.jpg" alt="Волочкова" />
+                <img src="http://static.vdv-s.ru/img/empty.gif" alt="фото" title="фото" class="ovrl opht" />
+              </a>
+              <b>12 <em>янв</em> 2011 | 09:19</b>
+              <h3>
+                <a href="/personal/?news=34607">Анастасия Волочкова устроила эротическую фотосессию на Мальдивах (ФОТО)</a>
+              </h3>
+            </div>
+            <div class="ctext">
+              <a href="/incident/?news=222592">
+                <img src="/pics/t50/47137.jpg" alt="Под Волгоградом женщина соблазняла племянника-школьника" />
+              </a>
+              <b><em>сегодня</em> | 11:39</b>
+              <h3>
+                <a href="/incident/?news=222592">Под Волгоградом женщина соблазняла племянника-школьника</a>
+              </h3>
+            </div>
+            <div class="ctext">
+              <a href="/incident/?news=222595">
+                <img src="/pics/t50/47135.jpg" alt="Под Волгоградом пьяный гаишник сбил насмерть мужчину" />
+              </a>
+              <b><em>сегодня</em> | 11:53</b>
+              <h3>
+                <a href="/incident/?news=222595">Под Волгоградом пьяный гаишник сбил насмерть мужчину</a>
+              </h3>
+            </div>
+            <div class="ctext">
+              <a href="/incident/?news=222538">
+                <img src="/pics/t50/47082.jpg" alt="Внедорожник насмерть сбил 16-летнюю девушку в Волгограде " />
+              </a>
+              <b>16 <em>янв</em> | 09:22</b>
+              <h3>
+                <a href="/incident/?news=222538">Внедорожник насмерть сбил 16-летнюю девочку в Волгограде</a>
+              </h3>
+            </div>
+            <div id="rtoph" style="display: none">
+              <div class="ctext">
+                <a href="/incident/?news=222568">
+                  <img src="/pics/t50/47109.jpg" alt="Скончался предприниматель, расстрелянный в Волгограде" />
+                </a>
+                <b>16 <em>янв</em> | 15:13</b>
+                <h3>
+                  <a href="/incident/?news=222568">Скончался предприниматель, расстрелянный в Волгограде</a>
+                </h3>
+              </div>
+              <div class="ctext">
+                <a href="/incident/?news=222583">
+                  <img src="/pics/t50/47124.jpg" alt="В Волгограде горел продовольственный рынок" />
+                </a>
+                <b><em>сегодня</em> | 10:00</b>
+                <h3>
+                  <a href="/incident/?news=222583">В Волгограде горел продовольственный рынок</a>
+                </h3>
+              </div>
+              <div class="ctext">
+                <a href="/politics/?news=222616">
+                  <img src="/pics/t50/47159.jpg" alt="Президент отправил в отставку Анатолия Бровко" />
+                </a>
+                <b><em>сегодня</em> | 17:39</b>
+                <h3>
+                  <a href="/politics/?news=222616">Президент отправил в отставку губернатора Анатолия Бровко</a>
+                </h3>
+              </div>
+              <div class="ctext">
+                <a href="/society/?news=222609">
+                  <img src="/pics/t50/47151.jpg" alt="Волгоградцы пригласили Медведева и Путина на 2 февраля " />
+                </a>
+                <b><em>сегодня</em> | 15:57</b>
+                <h3>
+                  <a href="/society/?news=222609">Волгоградцы пригласили Медведева и Путина приехать 2 февраля</a>
+                </h3>
+              </div>
+              <div class="ctext">
+                <a href="/society/?news=222597">
+                  <img src="/pics/t50/47139.jpg" alt="В Кировском районе открылось новое социальное кафе" />
+                </a>
+                <b><em>сегодня</em> | 12:28</b>
+                <h3>
+                  <a href="/society/?news=222597">В Кировском районе открылось новое социальное кафе</a>
+                </h3>
+              </div>
+            </div>
+            <div class="arr" onclick="sh(this, 'rtoph')">Развернуть</div>
+          </div>
+          <div id="b80" class="bnr">
+            <script type="text/javascript" src="http://rkm.vdv-s.ru/cgi-bin/show.cgi?id=80"></script>
+          </div>
+          <div class="rnews">
+            <div class="hdr">
+              <a href="/article/">Статьи</a>
+            </div>
+            <div class="ctext i1"><a href="/article/?news=222510"><img src="/pics/t113/47049.jpg" alt="Как справиться с последствиями новогоднего застолья" /></a><h3><a href="/article/?news=222510">Как справиться с последствиями новогоднего застолья</a></h3><b>13 <em>янв</em> | 11:41</b>Правила постпраздничной диеты.</div>
+          </div>
+          <div class="rnews">
+            <div class="hdr">
+              <a href="/photo/">Фоторепортажи</a>
+            </div>
+            <div class="ctext i1"><a href="/photo/?news=219159"><img src="/pics/t113/43544.jpg" alt="Роман с камнем " /><img src="http://static.vdv-s.ru/img/empty.gif" alt="фото" title="фото" class="ovrl opht" /></a><h3><a href="/photo/?news=219159">Роман с камнем</a></h3><b>15 <em>сен</em> 2011 | 12:30</b>Редчайший симбирцит, добываемый со дна Волги, килограммами закупают бизнесмены и олигархи.</div>
+          </div>
+          <div class="rnews vashka">
+            <div class="hdr">
+              <a href="http://www.vashka.ru">Ваша газета</a>
+            </div>
+            <div class="ctext i1"><a href="http://www.vashka.ru/sluchay/?news=33771"><img src="/pics/t113/34235.jpg" alt="«Йога спасла меня от смерти» -" /><img src="http://static.vdv-s.ru/img/empty.gif" alt="фото" title="фото" class="ovrl opht" /></a><h3><a href="http://www.vashka.ru/sluchay/?news=33771">«Йога спасла меня от смерти» -</a></h3><b>26 <em>ноя</em> 2010 | 14:50</b>убежден наш читатель Тимофей Пономарев, которого занятия хатха-йогой вылечили от полного паралича.</div>
+          </div>
+          <div class="rnews horus">
+            <div class="hdr">
+              <a href="/horos/">Гороскоп</a>
+            </div>
+            <div class="ctext"><a href="/horos/"><img src="http://static.vdv-s.ru/img/horus.png" alt="ежедневный гороскоп волгоград" /></a><h3><a href="/horos/">Гороскоп на 17 января</a></h3> </div>
+          </div>
+          <div class="r_bl">
+            <div class="hdr">
+              <a href="/afisha/">Афиша</a>
+            </div>
+            <span id="posters">
+              <a href="/afisha/kino/events/snachala-lubov-potom-svadba/">
+                <img src="/pics/afisha/t100/1375.jpg" alt="Сначала любовь, потом свадьба " />
+              </a>
+              <a href="/afisha/kino/events/drygoj-mir-probyzdenie/">
+                <img src="/pics/afisha/t100/1373.jpg" alt="Другой мир: Пробуждение " />
+              </a>
+              <a href="/afisha/kino/events/nokayt/">
+                <img src="/pics/afisha/t100/1374.jpg" alt="Нокаут" />
+              </a>
+              <a href="/afisha/kino/events/kamen/">
+                <img src="/pics/afisha/t100/1372.jpg" alt="Камень" />
+              </a>
+              <a href="/afisha/kino/events/chernoe-zoloto/">
+                <img src="/pics/afisha/t100/1336.jpg" alt="Черное золото" />
+              </a>
+            </span>
+            <a href="/afisha/" class="link">вся афиша</a>
+          </div>
+          <div class="rnews humor">
+            <div class="hdr">
+              <a href="/humor/">Юмор</a>
+            </div>
+            <div class="ctext">
+              <h3>
+                <a href="/humor/?item=802">Розыгрыш</a>
+              </h3>
+              <b><em>сегодня</em> | 14:57</b>
+              <a class="imgc" href="/humor/?item=802">
+                <img src="/files/t100/4/21120171517984792363.gif" alt="Розыгрыш" />
+              </a>
+            </div>
+            <a href="/humor/" class="link rq">еще смешное</a>
+          </div>
+          <div class="google">
+            <script type="text/javascript">google_ad_client="pub-7942227685997816";google_ad_slot="3502854081";google_ad_width=300;google_ad_height=250;</script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+          </div>
+<!--/noindex-->
+        </div>
+      </div>
+    </div>
+    <div id="footer">
+      <div id="ft">
+        <a href="" class="lbl">Читайте нас:</a>
+        <span>
+          <a class="bm_i" title="Все для Вас - новости Волгограда" href="http://news.vdv-s.ru" rel="sidebar" onclick="window.external.AddFavorite(this.href, this.title); return false;"></a>
+          <a class="tw_i" title="Подписаться на наш твиттер" onmouseover="this.target='_blank'" href="http://twitter.com/vdv_volgograd"></a>
+          <a class="lj_i" title="Читать нас в Живом Журнале" onmouseover="this.target='_blank'" href="http://vdv-volgograd.livejournal.com"></a>
+          <a class="rs_i" title="Подписаться на RSS-канал" href="http://news.vdv-s.ru/rss/news.rss"></a>
+        </span>
+      </div>
+      <div id="fcr">© 2005-2012, <!--noindex--><a href="http://www.vdv-s.ru" title="Газета бесплатных объявлений Все для Вас">"Все для Вас", Волгоград</a><!--/noindex--></div>
+      <div class="fad"></div>
+      <div id="fc">
+<!--noindex-->
+        <div class="fci">
+          <a href="http://www.liveinternet.ru/click" onmouseover="this.target='_blank'" rel="nofollow">
+            <img id="lic" src="http://static.vdv-s.ru/img/empty.gif" width="88" height="15" alt="liveinternet.ru" title="liveinternet.ru: показано число посетителей за сегодня" />
+          </a>
+          <script type="text/javascript"><!--//-->
+var lic = document.getElementById('lic'); 
+lic.src = 'http://counter.yadro.ru/hit;VDV?t26.2;r' + 
+           escape(document.referrer) + ((typeof(screen) == 'undefined') ? '' 
+           : ';s' + screen.width + '*' + screen.height + '*' + (screen.colorDepth ? screen.colorDepth : screen.pixelDepth)) + 
+           ';u' + escape(document.URL) + ';' + Math.random();
+//</script>
+          <a href="http://top.mail.ru/jump?from=895922" onmouseover="this.target='_blank'" rel="nofollow">
+            <img src="http://top.list.ru/counter?id=895922;t=99;l=1" height="18" width="88" alt="Рейтинг@Mail.ru" />
+          </a>
+        </div>
+        <div class="fci">
+          <a href="http://top100.rambler.ru/top100/" onmouseover="this.target='_blank'" rel="nofollow">
+            <img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" width="88" height="31" alt="Rambler's Top100" />
+          </a>
+        </div>
+        <div class="fci">
+          <a href="http://www.yandex.ru/cy?base=0&amp;host=news.vdv-s.ru" onmouseover="this.target='_blank'" rel="nofollow">
+            <img src="http://www.yandex.ru/cycounter?news.vdv-s.ru" width="88" height="31" alt="Яндекс цитирования" />
+          </a>
+        </div>
+<!--/noindex-->
+      </div>
+    </div>
+  </body>
+</html>
+

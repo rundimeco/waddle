@@ -1,0 +1,263 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type"  content="text/html; charset=utf-8">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="Keywords" content="nil,gazeta,lekarska,artykuł">
+<title>Uwaga - choroby infekcyjne</title>
+<link rel="stylesheet" href="../../../../../../res/style/central.css">
+<script type="text/javascript" src="../../../../../../res/script/hlib/hlib.js"></script>
+<script type="text/javascript">
+    HLib.setLibPath("../../../../../../res/script/hlib/");
+	 himport("layer, browser, document");
+	 var d = new HLib.Document();
+	 if (!(HLib.client.ie5up||HLib.client.ie4||HLib.client.gecko||HLib.client.opera5up)) document.location.href='/przegladarka.html';
+</script>
+<script type="text/javascript" src="../../../../../../res/script/finn_menu.js"></script>
+<script type="text/javascript" src="../../../../../../res/script/picture.js"></script>
+<script type="text/javascript">
+    window.onresize=resizeHandler;
+</script>
+<script type="text/javascript">
+    function showpic(align,title,width,height,small,big) {
+		var bigp='';
+		if (big) bigp='../../../../../../res/img/'+big;
+		document.write(picture(align,title,width,height,'../../../../../../res/img/'+small,bigp));
+	 };
+</script>
+</head>
+<style type="text/css">
+BODY {
+	background-color: white;
+	color:black;
+	margin-top:0; margin-left:0px; margin-right:0px;
+	font-family :  Arial, Helvetica;
+	font-size : 12px;
+	background-image: url("/res/img/logo/logo8.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+</style>
+<script type="text/javascript">
+if (HLib.client.ie4up) document.write('<div style="position: absolute; top: 0; left: 0; z-index: -1;"><img src="/res/img/logo/firmlogo0.gif" border=0></div>');
+ else document.write('<div style="position: absolute; top: 0; left: 0; z-index: 0;"><img src="/res/img/logo/firmlogo0.gif" border=0></div>');
+</script>
+<script type="text/javascript" src="/jsp/serwis/menu.jsp?mainmenu=%2Fres%2Fmenu%2Femptymenu.xml&color=%23c8c8c8&topPage=false"></script><script type="text/javascript">
+ if (finnmenu) {finnmenu.generate();finnmenu.createObjects();}
+ if (mainmenu) {mainmenu.generate();mainmenu.createObjects();}
+ blah();
+</script>
+<body leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 onClick="blah()">
+<a name=gora>
+<table style="margin-left: 5px; margin-right: 10px;" border=0 cellspacing=0 cellpadding=0 width="98%">
+<tr><td valign=top width="20%">
+<!--topLeftBegin-->
+ <img src="/res/img/menu/piksel.gif" height="10" width="1"><br clear="all"/>
+
+<table style="background-image:url(/res/img/menu/GL/pp.gif); background-repeat:repeat-x; padding-bottom: 0; padding-top: 0;" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="middle" width="52" nowrap align="right"><a title="Wybór preferencji językowych/Language set up/Spracheneinstellung/Préférences de langue" href="/xml/serwis/langpref"><img class="shadow" src="/res/img/bip/GL/lang.gif" width="47" height="28" border="0"></a></td>
+<td valign="middle" width="52" nowrap align="right"><a title="Szukaj - funkcja umożliwiająca wyszukiwanie w zasobach informacyjnych strony." href="/xml/szukaj/serwis?searchClassId=/nil/gazeta" ><img class="shadow" src="/res/img/bip/GL/szuk.gif" width="47" height="28" border="0"></a></td>
+<td valign="middle" width="52" nowrap align="right"><a title="Statystyki oglądalności" href="/xml/serwis/stats?searchClassId=/nil/gazeta/numery/n2007/n200703"><img class="shadow" src="/res/img/bip/GL/statystyki.gif" width="47" height="28" border="0"></a></td>
+<script type="text/javascript" src="/res/script/drukuj.js"></script>
+<td valign="middle" width="52" nowrap align="right"><a title="Strona w postaci przygotowanej do druku" href="javascript:opendrukuj('/nil/gazeta/numery/n2007/n200703');"><img class="shadow" src="/res/img/bip/GL/drukuj.gif" width="52" height="28" border="0"></a></td>
+</tr></table>
+
+
+<!--topLeftEnd-->
+<!--leftBegin-->
+
+<table border="0" align="left" width="163">
+<tr><td align="center">
+<a title="Gazeta Lekarska" href="/xml/nil/gazeta"  ><img class="shadow" src="/res/img/menu/GL/logo.gif" width="188" height="120" border="0"/></a><br/>
+<img src="/res/img/menu/piksel.gif" height="5px" width="1"><br clear="all"/>
+<table border=0 width="100%" cellspacing="0" cellpadding="0">
+<tr height="36px"><td style="background-image:url(/res/img/gazlek/partner.gif); background-repeat:no-repeat; padding-bottom: 0; padding-top: 0;">
+<span class="gl_arttyt">&nbsp;&nbsp;Partnerami serwisu są:</span>
+</td></tr></table>
+<br clear="all"/>
+<img src="/res/img/menu/piksel.gif" height="25px" width="1"><br clear="all"/>
+<table border=0 width="100%" style="padding: 10px 0px 10px 0px"> 
+<!--tr><td align="center"><b>Partnerami serwisu są:</b></td></tr-->
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.praca.gazetalekarska.pl/"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/praca-gl4m.jpg" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.nil.certum.pl"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/pedm_a.jpg"  title="" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.prawoimedycyna.pl/"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/reklama_pim.jpg"  title="" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.esculap.pl"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/esculap1.gif" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://dentonet.pl/redirect/?source=gazetalekarska&cel=dentonet"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/baner_dentonet_pl.gif" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.promedica24.pl/praca-dla-lekarzy"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/promedica24.jpg" ></a></td></tr>
+<!--tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.forummedmarket.pl"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/medmarket2006.gif" ></a></td></tr-->
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.karriere-in-deutschland.de/"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/Karriere-190x133.png" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a title="Targi Medyczne" href="http://www.targimedyczne.pl"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/targi_medyczne.gif"  title="Targi Medyczne" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.laryngoscope.pl"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/laryngoscope_m.jpg" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.medbroker.pl"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/medbroker1.jpg" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="/res/img/img/nil/gazeta/banery/borzych_karriere.pdf"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/borzych.gif" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.kwspz.pl/"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/kwspz.gif" ></a></td></tr>
+<tr><td align="center" style="padding: 15px 0px 15px 0px"><a href="http://www.medipe.pl/"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/medipe.jpg" ></a></td></tr>
+
+
+<!-- <tr><td align="center" style="padding: 15px 0px 15px 0px"><object classid="clsid:D27CDB6E-AE6D-11CF-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="150" height="150" id="baner1" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="/res/img/img/nil/gazeta/banery" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#ffffff" />
+
+<embed src="/res/img/img/nil/gazeta/banery/baner150x150.swf" quality="high" bgcolor="#ffffff" width="150" height="150" name="baneralpha" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object> -->
+</td></tr>
+
+
+<!--tr><td align="center" style="padding: 15px 0px 15px 0px"><a title="Top Medical Trends" href="http://konferencje.termedia.pl/?Top_Medical_Trends_2008_Strona_glowna&e=2&p=16"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/LOGO-TMT.jpg"  title="Top Medical Trends" ></a></td></tr-->
+<!--tr><td align="left" style="padding: 15px 0px 15px 0px"><a href="http://medical.bluegroupinternational.com/bluecaremedical/default.asp"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/bluecare_logo.gif" ></a></td></tr>
+<tr><td align="left" style="padding: 15px 0px 15px 0px"><a href="http://www.imsrecruitment.com/"  ><img border=0 vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/banery/ims.gif" ></a></td></tr-->
+
+
+</table>
+</tr></td></table>
+<!--leftEnd-->
+</td>
+<td valign=top width="958" class="just">
+<!--topTextBegin-->
+
+<img src="/res/img/menu/piksel.gif" height="10" width="1"><br clear="all"/>
+
+<table width="100%"  style="background-image:url(/res/img/menu/GL/pp.gif); background-repeat:repeat-x; padding-bottom: 0; padding-top: 0;" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a title="Przegląd numerów Gazety Lekarskiej" href="/xml/nil/gazeta/numery"  ><img class="shadow" src="/res/img/menu/GL/1p_w.gif" width="105" height="28" border="0"/></a></td>
+<td><a title="Komunikaty Gazety Lekarskiej" href="/xml/nil/gazeta/komunikaty"  ><img class="shadow" src="/res/img/menu/GL/2p.gif" width="105" height="28" border="0"/></a></td>
+<td><a title="Biuletyn NRL" href="/xml/nil/gazeta/biuletyn"  ><img class="shadow" src="/res/img/menu/GL/3p.gif" width="105" height="28" border="0"/></a></td>
+<td><a title="Ogłoszenia Gazety Lekarskiej" href="/xml/nil/gazeta/ogloszenia"  ><img class="shadow" src="/res/img/menu/GL/4p.gif" width="105" height="28" border="0"/></a></td>
+<td><a title="Redakcja Gazety Lekarskiej" href="/xml/nil/gazeta/redakcja"  ><img class="shadow" src="/res/img/menu/GL/5p.gif" width="105" height="28" border="0"/></a></td>
+<td><a title="Biuletyny Okręgowych Izb Lekarskich" href="/xml/nil/gazeta/biuletyny_oil"  ><img class="shadow" src="/res/img/menu/GL/6p.gif" width="105" height="28" border="0"/></a></td>
+<td><a href="http://www.nil.org.pl"  ><img class="shadow" src="/res/img/menu/GL/7p.gif" width="105" height="28" border="0"/></a></td>
+<td width="100%">&nbsp;</td>
+</tr></table>
+
+
+
+<!--topTextEnd-->
+<!--textBegin-->
+
+<table style="padding-bottom: 0; padding-top: 0;" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td width="48" valign="middle" style="padding-right: 10;"><img src="/res/img/bip/ikony/gazeta.gif"></td>
+<td valign="middle">
+<span class="BIGBLACK">Uwaga - choroby infekcyjne</span><br>
+<span class="GRUBY1">Nasi w Europie</span><br>
+</td><td valign="middle" width="25" nowrap align="right" style="padding-left: 3;"><a title="Wybór preferencji językowych/Language set up/Spracheneinstellung/Préférences de langue" href="/xml/serwis/langpref"><img class="shadow" src="/res/img/bip/lang.gif" width="25" height="25" border="0"></a></td><td valign="middle" width="25" nowrap align="right" style="padding-left: 3;"><a title="Szukaj - funkcja umożliwiająca wyszukiwanie w zasobach informacyjnych strony." href="/xml/szukaj/serwis?searchClassId=/nil/gazeta" ><img class="shadow" src="/res/img/bip/szuk.gif" width="25" height="25" border="0"></a></td><td valign="middle" width="25" nowrap align="right" style="padding-left: 3;"><a title="Statystyki oglądalności" href="/xml/serwis/stats?searchClassId=/nil/gazeta/numery/n2012/n201201/n20120109"><img class="shadow" src="/res/img/bip/statystyki.gif" width="25" height="25" border="0"></a></td>
+<script type="text/javascript" src="/res/script/drukuj.js"></script>
+<td valign="middle" width="25" nowrap align="right" style="padding-left: 3;"><a title="Strona w postaci przygotowanej do druku" href="javascript:opendrukuj('/nil/gazeta/numery/n2012/n201201/n20120109');"><img class="shadow" src="/res/img/bip/drukuj.gif" width="25" height="25" border="0"></a></td></tr></table>
+<hr style="color: #c8c8c8; background-color: #c8c8c8; border: 0; height: 1px;">
+<img vspace="5" hspace="5" src="../../../../../../res/img/img/nil/gazeta/persons/Konstanty Radziwill3.jpg" border="0"  align="right"  >
+<b>O spotkanie poprosił mnie
+dyrektor Europejskiego
+Centrum Prewencji i Kontroli
+Chorób (ECDC),
+agencji powołanej przez
+UE w celu wzmacniania
+europejskiej kontroli nad
+chorobami infekcyjnymi.</b><br />
+ECDC pełni w Sztokholmie
+ciągły dyżur w zakresie
+monitorowania i natychmiastowego
+ostrzegania
+o niebezpieczeństwach zagrażających
+Europejczykom
+w tym zakresie. Centrum
+z niepokojem obserwuje
+wzrastającą od dwóch lat
+liczbę zachorowań na odrę.<br />
+W sytuacji, gdy zgodnie
+z pierwotnym założeniem
+WHO choroba ta miała zostać
+na całym świecie wyeliminowana
+do 2007 r. (obie
+Ameryki są już od kilku lat
+od niej wolne), 30 tys. zachorowań,
+kilkadziesiąt
+ciężkich encefalitów i ok.
+10 zgonów rocznie w najbogatszym
+rejonie świata
+(UE) okrywa nas wstydem.
+Jaka jest przyczyna takiego
+stanu? Wciąż niska wyszczepialność
+dzieci przeciw
+tej chorobie. Zadanie dla
+lekarzy jest proste: namawiać
+do szczepienia (w Polsce
+zgodnie z obowiązującym
+kalendarzem), zwalczać
+irracjonalne uprzedzenia
+i przesądy. Drugie zjawisko
+obserwowane z niepokojem
+przez Centrum, to narastający
+problem antybiotykooporności
+bakterii. Dla
+przykładu w polskich szpitalach
+(znajdujących się w okolicach
+średniej europejskiej)
+oporność Str. pneumoniae na
+penicylinę i makrolidy (jednocześnie)
+waha się w granicach
+10-25 proc., Staph.
+aureus na metycylinę 10-25
+proc., a Ent. faecalis na aminoglikozydy,
+E. coli na fl uorochinolony,
+Kl. pneumoniae
+na cefalosporyny III
+generacji, fl uorochinolony
+i aminoglikozydy (pojawiają
+się także szczepy oporne
+na karbapenemy) oraz
+Ps. aeruginosa na piperacylinę
++ tazobaktam, fl uorochinolony
+i aminoglikozydy
+w granicach 25-50 proc.<br />
+Te dramatyczne (i wzrastające)
+liczby nakazują podjęcie
+natychmiastowych działań.
+Przesłanie ECDC jest proste:
+ostrożniej z decyzjami o antybiotykoterapii
+(zwłaszcza
+w lecznictwie otwartym
+znaczna część zaleceń budzi
+poważne wątpliwości),
+przestrzeganie zasad leczenia
+w zakresie dawek i czasu
+terapii. W opinii Centrum
+równie ważne są działania
+na rzecz najprostszych zabiegów
+higienicznych, włącznie
+z myciem rąk przez personel
+medyczny (a zwłaszcza przez
+lekarzy!), które w znacznym
+stopniu przyczyniają się do
+ograniczania zakażeń.<br />
+W imieniu CPME obiecałem
+współpracę oraz podjęcie
+działań na rzecz upowszechniania
+przesłania
+Centrum wśród lekarzy
+europejskich.<br />
+<br />
+<b>Konstanty Radziwiłł</b><br />
+<br />
+<br />
+
+<b>Gazeta Lekarska 2012-01</b> - pismo izb lekarskich. Wydawca: Naczelna Rada Lekarska.<br />
+<a href="http://http://www.gazetalekarska.pl"  >http://http://www.gazetalekarska.pl</a><br />
+Dla członków izb lekarskich bezpłatnie.<br/><br/>
+
+
+
+<!--textEnd-->
+<table border="0" id="table_tresc" cellspacing="0" cellpadding="0" width="100%">
+<tr valign="top"></tr>
+</table>
+</td></tr></table>
+<p style="text-align: right">
+<a class="lewemenu" href="javascript:history.back()"><b>Wstecz</b></a>&nbsp;&nbsp;<br>
+<a class="lewemenu" href="javascript:location.replace('#gora')"><b>W górę ekranu</b></a>&nbsp;&nbsp;<br>
+<a class="lewemenu" href="../../../../../../xml/serwis/copyright"><b>Copyright (c) 2005</b></a>&nbsp;&nbsp;<br><span class="SMALL2">Korespondencja: </span><script type="text/javascript" src="/res/script/mailform.js"></script><a href="javascript:openmailform('redakcja@gazetalekarska.pl','/nil/gazeta')"  class="lewemenu"  ><b>redakcja@gazetalekarska.pl</b></a>&nbsp;&nbsp;<br><span class="SMALL2">Uwagi techniczne: </span><a href="javascript:openmailform('serwis@gazetalekarska.pl','/nil/gazeta')"  class="lewemenu"  ><b>serwis@gazetalekarska.pl</b></a>&nbsp;&nbsp;<br>
+<span class="SMALL2">Data utworzenia: <b>2012-01-09</b></span>&nbsp;&nbsp;
+</body>
+</html>
+

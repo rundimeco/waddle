@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <link href="/styles/base.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/styles/jquery.countdown.css" rel="stylesheet" type="text/css" media="all" />
+	<meta name="google-site-verification" content="KnGoafiIMUoeL4Ri0psCHsgwzGq15HQIxidVKXtW_K4" />
+        <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=cyrillic' rel='stylesheet' type='text/css' />
+        <!--[if lte IE 6]>
+        <link href="/styles/ie_base.css" rel="stylesheet" type="text/css" media="all" />
+        <![endif]-->
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <title>Американцы составили Топ-10 самых полезных продуктов &mdash; Информационное агентство "Хакасия"</title>
+        <script type="text/javascript" src="/js/jquery.js"></script>
+        <script type="text/javascript" src="/js/jquery.mainmenu.js"></script>
+        <script type="text/javascript" src="/js/jquery.misprint.js"></script>
+	<script type="text/javascript" src="/js/jquery.countdown.js"></script>
+	<script type="text/javascript" src="/js/jquery.countdown-ru.js"></script>
+        <script>
+            function iframeHeightAdjust(id, newHeight) {
+                $('#'+id).css({height: newHeight});
+            }
+
+            function onCopyAlert() {
+                alert('При использовании материалов ссылка на интернет-издание обязательна!\nПри цитировании в сети Интернет гиперссылка на сайт http://19rus.info обязательна!');
+            }
+        </script>
+	<meta name="google-translate-customization" content="57b8de5de58fb7d3-73eaa4c02959dc95-g3f0a19d6f282c448-e" />
+    </head>
+    <body oncopy="onCopyAlert();">
+        <!-- COUNTERS -->
+        <div class="counters" style="display: none;">
+            <!-- 19rus --><img height="1" width="1" src="http://www.19rus.info/counter/73058" alt="" /><!-- 19rus -->
+            <!--Rating@Mail.ru COUNTER --><img height="1" width="1" src="http://d8.cc.b0.a1.top.list.ru/counter?id=1099818" alt="" /><--COUNTER-->
+            <!-- begin of Top100 code --><script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1963690"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?1963690" alt="" width="1" height="1" border="0" /></noscript><-- end of Top100 code -->
+            <!--LiveInternet counter --><script type="text/javascript">document.write('<img src="http://counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('вЂ В¦'+document.title.substring(0,80))+';'+Math.random()+'" width="1" height="1" alt="">')</script><--/LiveInternet-->
+        </div>
+        <!-- END COUNTERS -->
+        <div id="leaderboard">
+            <script type='text/javascript' src='http://ad.19rus.info/www/delivery/fl.js'></script>
+<div id='ox_86821351c5ccdc820e188c7fd3339608' style='display: inline;'><img src='http://ad.19rus.info/www/images/1x1.gif' alt='' title='' border='0' /></div>
+<script type='text/javascript'><!--// <![CDATA[
+var ox_swf = new FlashObject('http://ad.19rus.info/www/delivery/ai.php?filename=aptekafix.swf&contenttype=swf', 'Advertisement', '760', '90', '8');
+    ox_swf.addVariable('clickTARGET', '_blank');
+    ox_swf.addVariable('clickTAG', 'http%3A%2F%2Fad.19rus.info%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D198__zoneid%3D5__cb%3Db3a15daf12');
+
+ox_swf.addParam('allowScriptAccess','always');
+ox_swf.write('ox_86821351c5ccdc820e188c7fd3339608');
+// ]]> --></script><div id='beacon_b3a15daf12' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://ad.19rus.info/www/delivery/lg.php?bannerid=198&amp;campaignid=41&amp;zoneid=5&amp;channel_ids=,&amp;cb=b3a15daf12' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>            <!--div class="ny-fir-branches-left"><img src="/media/images/fir_left.png" alt="" /></div>
+            <div class="ny-fir-branches-right"><img src="/media/images/fir_right.png" alt="" /></div-->
+        </div>
+
+        <div class="preloader">
+            <img src="/media/images/main_nav_hover.jpg" alt="" />
+        </div>
+        <div id="full-wrapper" class="wide">
+            <div class="header-wrapper">
+                <div class="header">
+                    <div class="links">
+			<div id="google_translate_element"></div>
+			<script type="text/javascript">
+				function googleTranslateElementInit() {
+					new google.translate.TranslateElement({pageLanguage: 'ru', includedLanguages: 'de,en', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT}, 'google_translate_element');
+				}
+			</script>
+			<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                       <noindex> <a id="pda" href="http://pda.19rus.info" title="Версия для PDA" rel="nofollow">PDA</a></noindex>
+                    </div>
+                    <div class="logo">
+                        <a href="/" title="Информационное агентство Хакасия">
+                            <img src="/media/images/logo.jpg" alt="Информационное агентство Хакасия" />
+                        </a>
+                    </div>
+                    <div id="info">
+                        <div class="today">Вторник,<br />9&nbsp;апреля&nbsp;2013</div>
+                        <div class="weather"><noindex><a href="http://www.gismeteo.ru/city/daily/4723/" target="_blank" title="Прогноз погоды в Абакане от GISmeteo.ru" rel="nofollow">Прогноз погоды</a></noindex><br />в Абакане 10/04 днем<br />+3...+5&nbsp;&deg;C, без осадков</div>
+                        <div class="currency"><a href="/banks.html" title="Курсы валют в обменных пунктах г.Абакана" >Курсы&nbsp;валют</a><br /><strong class="orange">USD&nbsp;$</strong>&nbsp;<strong>31.2086&nbsp;р</strong> (-0,4058)<br /><strong class="orange">EUR&nbsp;€</strong>&nbsp;<strong>40.6523&nbsp;р</strong> (-0,3958)</div>
+			<div class="webtickets"><noindex><a href="http://voyage.19rus.info" rel="nofollow">Продажа авиабилетов<br /><img src="/media/webtickets.jpg" alt="Продажа авиабилетов" /></a></noindex></div>
+                    </div>
+                    <div class="search-wrapper">
+                        <form method="post" action="/search.html">
+                            <span class="search-box">
+                                <input type="text" class="search-input" name="strsf" value="Поиск" onblur="if (this.value=='') this.value='Поиск';" onfocus="if(this.value=='Поиск') this.value='';" maxlength="50" />
+                                <input type="image" class="search-button" src="/media/images/search.gif" />
+                            </span>
+                        </form>
+                    </div>
+                </div>
+                <div id="mainmenu" class="main-nav"><ul><li class="first"><a class="neue" href="/">Главная</a></li><li><a class="neue" href="/rubric/2">Власть и политика</a></li><li><a class="neue" href="/rubric/3">Экономика и финансы</a></li><li><a class="neue" href="/rubric/4">Общество</a></li><li><a class="neue" href="/rubric/27">Происшествия / Криминал</a></li><li><a class="neue" href="/rubric/5">Культура и спорт</a></li><li><a class="neue" href="/rubric/45">Мир в Паутине</a></li><li><a class="neue" href="/rubric/53">Интерактив</a><ul class="level-1 submenu"><li><a href="/rubric/53">Письмо в редакцию</a></li><li><a href="/rubric/10">Интервью / Мнения</a></li><li class="last"><a href="/briefing.html">Задай вопрос</a></li></ul>
+</li><li><a class="neue" href="/smi-khakasii.html">Инфо</a><ul class="level-1 submenu"><li><a href="/smi-khakasii.html">СМИ Хакасии</a></li><li><a href="/ispolnitelnaja-vlast.html">Исполнительная власть</a></li><li><a href="/zakonodatelnaya-vlast.html">Законодательная власть</a></li><li><a href="/sudebnaja-vlast.html">Судебная власть</a></li><li><a href="/mestnoe-samoupravlenie.html">Местное самоуправление</a></li><li><a href="/politicheskie-partii.html">Политические партии</a></li><li class="last"><a rel="nofollow" href="https://service.nalog.ru/debt/" target="_blank">Узнайте задолженность</a></li></ul>
+</li><li><noindex><a rel="nofollow" class="neue" href="http://forum.19rus.info">Форум</a></noindex></li></ul>
+</div>
+            </div>
+            <div class="subnav-wrapper"><div class="main-subnav"><ul><li class="first"><a class="neue" href="/rubric/0">Все новости дня</a></li><li><a class="neue" href="/mini2gis.html">Справочник</a></li></ul>
+</div></div> 
+<div class="columns-wrapper">
+    <div class="content-wrapper">
+        <div class="column-main content">
+            <div class="inner">
+                <div class="topic-wrapper news">
+                    <div class="topic-header">
+                        <div class="right-side">
+                            <span class="logo">19rus.info</span>
+                            <a title="RSS канал Мир в Паутине" href="/rss/45"><img alt="RSS канал Мир в Паутине" src="/media/images/rss_icon.gif"></a>
+                        </div>
+                        <a title="Мир в Паутине" href="/rubric/45">Мир в Паутине</a>
+                    </div>
+                    <div class="news-content-wrapper">
+                        <h2>Американцы составили Топ-10 самых полезных продуктов</h2>
+                        <div id="media-25529" class="media align-left" style="width: 320px;"><img src="http://www.19rus.info/media/2012/01/309578_6341-800x600.jpg" alt="309578_6341-800x600" width="320" height="240" /><dl><dt></dt><dd>zelenplaneta.ru</dd></dl></div>
+<p style="text-align: justify;"><span class="ndate">Хакасия, 06 января 2012, 11:10</span>&nbsp;&mdash; Диетологи США, основываясь на данных последних исследований, составили рейтинг самых полезных продуктов.</p>
+<p style="text-align: justify;">Первое место заняли томаты, благодаря высокому содержанию в них  антиоксидантов. На втором месте сладкий перец, богатый витаминами С, В,  фолиевой кислотой и ликопеном.</p>
+<p style="text-align: justify;">Далее следуют ягоды, содержащие комплекс витаминов и минералов.  Четвертое место отдано соевым орехам – нежирной и низкокалорийной замене  обычных орехов.</p>
+<p style="text-align: justify;">На пятом месте – йогурт, богатый витаминами, минералами и полезными  для микрофлоры бактериями. Шпинат значительно сдал позиции, но остается в  десятке. Брокколи с ее противораковыми свойствами на седьмом месте.</p>
+<p style="text-align: justify;">Восьмое место принадлежит нежирной говядине – источнику белков и  микроэлементов. На девятом месте расположилось оливковое масло –  источник мононенасыщенных жиров.</p>
+<p style="text-align: justify;">Завершает рейтинг дикий лосось – продукт, богатый белками и омега-3 жирными кислотами, пишет Kedem.</p>
+<p style="text-align: justify;"><a href="http://www.rosbalt.ru/style/2012/01/06/931016.html" target="_blank">Росбалт</a></p><div class="clearing"></div>                    </div>
+		    <div class="yandex-share">
+			<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+			<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir"></div> 
+		    </div>
+                </div>
+                                
+                <!-- comments block begin -->
+                                                <script type="text/javascript" src="/js/jquery.comments.js"></script>
+                <div id="comctrl" style="padding:7px 10px 0; width:195px; height:30px; background-color:#e6e6e6; margin:20px 0 0; display:none;">
+                    <div id="spinner" style="float:right; margin-right:10px;">
+                        <a id="refresh-button" class="page-button" href="/news/comments/show/73058" onclick="return false;" title="Обновить комментарии"><img id="spinner-image" src="/images/ajax-loader-static.gif" alt="Обновить комментарии" /></a>
+                        <span id="comments-pages-links"></span>
+                    </div>
+                    <div id="page-button-holder">
+                        <a id="toggle-button" class="page-button" style="width:120px;" href="/news/comments/show/73058" title="показать/cкрыть комментарии читателей" onclick="return false;">Комментарии <span id="ccounter">(3)</span></a>
+                    </div>
+                </div>
+                <div id="comments" style="border:solid 1px #e6e6e6; display:none;">
+                    <div id="comments-list" style="margin:0;"></div>
+                    <div id="comments_form" style="margin:0;">
+                        <div id="infomsg" style="display:none;"></div>
+                        <form id="send_comments_form" action="/news/comments/save/73058" method="post" onsubmit="uc.save(this); return false;">
+                            <h3>Добавить комментарий</h3>
+                            <div style="font-size:10px; color:#666; padding:5px; margin-right:40px;">
+                                Комментарии на сайте публикуются только после обработки модератором. Не публикуются комментарии, содержащие ненормативную лексику, унижающие человеческое достоинство, разжигающие межнациональную рознь или противоречащие законодательству РФ. Не публикуются также ссылки на сторонние ресурсы, сообщения рекламного характера любых товаров и услуг. Запрещается спам. Не приветствуются сообщения, не относящиеся к содержанию статьи или к контексту обсуждения.
+                            </div>
+                            <table cellpadding="0" cellspacing="5" style="width:100%">
+                                <tr><td>Имя:<br /><input type="text" id="name" name="name" style="width:90%" /></td><td>E-mail: <span>(не обязательно)</span><br /><input type="text" name="email" style="width:90%" /></td></tr>
+                                <tr><td colspan="2">Комментарий:<br /><textarea name="comments" id="comments-text" cols="50" rows="7" style="width:95%"></textarea></td></tr>
+                                <tr><td colspan="2"><div id="user-password" style="display:none;">Пароль:<br /><input type="password" name="password" /></div></td></tr>
+                                <tr><td colspan="2"><input type="submit" value="Отправить" /></td></tr>
+                            </table>
+                        </form>
+                    </div>
+                </div>
+                <noscript>
+                <div style="padding:1px 10px 7px; height:30px; background-color:#e6e6e6; margin:0 0 0 20px;">
+                    <p>Включите JavaScript для просмотра комментариев</p>
+                </div>
+                </noscript>
+                                                <!-- comments block end -->
+                
+                <div class="news-last"><h3>Последние новости:</h3><dl id="dl1" style="float:left; width:49%"><dt>09/04/13</dt><dd><a href="/news/100932.html">Глава Абакана движется вверх семимильными шагами в медиарейтинге мэров Сибири</a></dd>
+<dt>09/04/13</dt><dd><a href="/news/100931.html">С Гладенькой в обнимку с ожившей банкой тушенки от «МаВРа» (ФОТО)</a></dd>
+<dt>09/04/13</dt><dd><a href="/news/100929.html">Первый совет потребителей коммунальных услуг Абакана готов к ликбезу</a></dd>
+<dt>09/04/13</dt><dd><a href="/news/100928.html">Коммунисты и единороссы требуют отставки главы Минобразования</a></dd>
+<dt>09/04/13</dt><dd><a href="/news/100926.html">Правительство Хакасии переедет в Саяногорск. Ненадолго</a></dd>
+</dl><dl id="dl2" style="float:right; width:49%"><dt>09/04/13</dt><dd><a href="/news/100924.html">Инвестиционная активность Хакасии: хорошая и плохая новости</a></dd>
+<dt>09/04/13</dt><dd><a href="/news/100922.html">В Аскизском районе один мужчина убил другого, не поделив собутыльницу</a></dd>
+<dt>09/04/13</dt><dd><a href="/news/100925.html">&quot;Гильотина&quot; для чиновников</a></dd>
+<dt>09/04/13</dt><dd><a href="/news/100919.html">Хакасия вернет 900 детсадовских мест</a></dd>
+<dt>09/04/13</dt><dd><a href="/news/100920.html">Власти республики объяснили ИА «Хакасия», почему республиканская целевая программа по развитию Абакана закрылась</a></dd>
+</dl></div>                <div class="news-last"><h3>Самые обсуждаемые новости:</h3><dl id="dl1" style="float:left; width:49%"><dt>03/04/13  (135 комментариев)</dt><dd><a href="/news/100470.html">Загадочный дом на Набережной в Абакане играет с нами в «рулетку»: никто не знает, что выпадет внутри (ФОТО)</a></dd>
+<dt>03/04/13  (129 комментариев)</dt><dd><a href="/news/100503.html">Вокруг ИА "Хакасия" и "крепостных" СМИ возник скандал на пустом месте</a></dd>
+<dt>04/04/13  (92 комментария)</dt><dd><a href="/news/100587.html">«Экологическое» и 13-е по счету министерство в кабмине Хакасии возглавил Борис Варшавский</a></dd>
+<dt>05/04/13  (69 комментариев)</dt><dd><a href="/news/100616.html">Мэр Абакана о своем уголовном деле в интервью "Шансу": Не надо мельтешить. И так все ясно...</a></dd>
+<dt>09/04/13  (64 комментария)</dt><dd><a href="/news/100884.html">Кто дротиками убивает в Усть-Абакане домашних собак на глазах у детей?</a></dd>
+</dl><dl id="dl2" style="float:right; width:49%"><dt>03/04/13  (63 комментария)</dt><dd><a href="/news/100495.html">Уголовное дело в отношении Николая Булакина вновь прекращено (ВИДЕО)</a></dd>
+<dt>03/04/13  (57 комментариев)</dt><dd><a href="/news/100481.html">Точка поставлена: губернатора в Хакасии будут выбирать всенародно, несмотря на разрешение Кремля не делать этого</a></dd>
+<dt>05/04/13  (57 комментариев)</dt><dd><a href="/news/100603.html">«Коммерсант»: Николай Булакин готов с чистой совестью идти на выборы</a></dd>
+<dt>05/04/13  (52 комментария)</dt><dd><a href="/news/100621.html">Ответственность за коррупцию в стране несет президент</a></dd>
+<dt>03/04/13  (42 комментария)</dt><dd><a href="/news/100458.html">Профсоюзы Хакасии огрызнулись</a></dd>
+</dl></div>		<!--<div class="redtram-goods"><div id="n4p_3445">Loading...</div><script type="text/javascript" charset="utf-8" src="http://js.grt01.com/ticker_3445.js"></script></div>-->
+
+            </div>
+        </div><!-- column-main -->
+
+        <div class="column-right">
+            <div id="post-news">
+                <div class="post-wrapper">
+                    <a href="/addnews.html" title="Прислать новость"><img src="/media/images/post_news.png" alt="Прислать новость" /></a>
+                </div>
+                <h3><a href="/addnews.html" title="Прислать новость">Прислать новость</a></h3>
+                <p>Есть интересная новость?</p>
+                <p>Пришли ее нам.</p>
+            </div>
+            <div id="subscribe">
+                <p>Подпишитесь на наши новости</p>
+                <p>удобным для вас способом:</p>
+                <p><a class="email" href="/subscribe.html" title="Подписка на Е-майл">Подписка на Е-майл</a></p>
+                <p><a class="rss" href="/rss.html" title="Подписка по RSS">Подписка по RSS</a></p>
+            </div>
+            <div id="adverts" class="block-title">
+                <h2>Реклама</h2>
+                <div class="inner">
+                    <ul><li><iframe id='a1b863bc' name='a1b863bc' src='http://ad.19rus.info/www/delivery/afr.php?n=a1b863bc&amp;zoneid=29&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='240' height='361'><a rel="nofollow" href='http://ad.19rus.info/www/delivery/ck.php?n=a0a7a507&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.19rus.info/www/delivery/avw.php?zoneid=29&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0a7a507' border='0' alt='' /></a></iframe></li>
+<li><a rel="nofollow" href="http://www.turism19.ru"><img src="/media/tur19.gif" alt="" /></a></li>
+<li><a rel="nofollow" href="/media/prodelo4.pdf" target="_blank"><img src="/media/prodelo.jpg" alt="" /></a></li>
+<li><a rel="nofollow" href="http://www.vchk.su" target="_blank"><img src="/media/vash_jurist.gif" width="240" alt="Ваш юрист" /></a></li>
+<li><iframe id='a0542507' name='a0542507' src='http://ad.19rus.info/www/delivery/afr.php?zoneid=25&amp;cb=23047528042' framespacing='0' frameborder='no' scrolling='no' width='240' height='400' allowtransparency='true'><a rel="nofollow" href='http://ad.19rus.info/www/delivery/ck.php?n=aca3136a&amp;cb=2398345128404' target='_blank'><img src='http://ad.19rus.info/www/delivery/avw.php?zoneid=25&amp;cb=2034650387450&amp;n=aca3136a' border='0' alt='' /></a></iframe></li>
+<li><iframe id='ab24a876' name='ab24a876' src='http://ad.19rus.info/www/delivery/afr.php?zoneid=16&amp;cb=20398376982' framespacing='0' frameborder='no' scrolling='no' width='240' height='400' allowtransparency='true'><a rel="nofollow" href='http://ad.19rus.info/www/delivery/ck.php?n=a1dd6870&amp;cb=490823498752' target='_blank'><img src='http://ad.19rus.info/www/delivery/avw.php?zoneid=16&amp;cb=32098598762&amp;n=a1dd6870' border='0' alt='' /></a></iframe></li>
+<li><a rel="nofollow" href="http://www.mintrudrh.ru" target="_blank"><img src="/media/mintrudrh.png" alt="Министерство труда и социального развития" /></a></li>
+<li><iframe id='a85fb6be' name='a85fb6be' src='http://ad.19rus.info/www/delivery/afr.php?zoneid=21&amp;cb=4324982387' framespacing='0' frameborder='no' scrolling='no' width='240' height='337' allowtransparency='true'><a rel="nofollow" href='http://ad.19rus.info/www/delivery/ck.php?n=aac5215c&amp;cb=42098234987' target='_blank'><img src='http://ad.19rus.info/www/delivery/avw.php?zoneid=21&amp;cb=40923829873&amp;n=aac5215c' border='0' alt='' /></a></iframe></li>
+<li><iframe id='a52d1867' name='a52d1867' src='http://ad.19rus.info/www/delivery/afr.php?zoneid=19&amp;cb=02309128763476' framespacing='0' frameborder='no' scrolling='no' width='240' height='360' allowtransparency='true'><a rel="nofollow" href='http://ad.19rus.info/www/delivery/ck.php?n=ac9ed67a&amp;cb=09234487376230' target='_blank'><img src='http://ad.19rus.info/www/delivery/avw.php?zoneid=19&amp;cb=09234987238543&amp;n=ac9ed67a' border='0' alt='' /></a></iframe></li>
+<li><img src="/media/gospojar.jpg" alt="" /></li>
+<li><iframe id='ad0bceb3' name='ad0bceb3' src='http://ad.19rus.info/www/delivery/afr.php?n=ad0bceb3&amp;zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='240' height='400'><a rel="nofollow" href='http://ad.19rus.info/www/delivery/ck.php?n=af117417&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.19rus.info/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af117417' border='0' alt='' /></a></iframe></li>
+</ul>                </div>
+            </div>
+        </div>
+    </div><!-- content-wrapper -->
+    <div class="column-left service">
+        <div class="ranking">
+            <span style="display: inline-block; padding-left: 25px; padding-top: 18px;">Возрастная категория сайта</span>
+            <img src="/media/age_rank.png" alt="Возрастная категория сайта 18+" height="40" style="float: right; padding-top: 3px; padding-right: 10px;" /></div>
+        <div id="news-date" style="padding-top: 13px;"></div>
+	<!--div class="countdown-wrapper"><div id="countdown"></div></div-->
+	<!--div class="block-title">
+	    <div class="inner">
+	        <ul>
+		    <li><a href="/rubric/66"><img src="/media/ny2013.jpg" alt="" /></a></li>
+		</ul>
+            </div>
+	</div-->
+	<!--div id="adverts-left" class="block-title">
+            <h2>Реклама</h2>
+	    <div class="inner" style="margin: 20px 0px;">
+	    	<ul>
+		   <li><iframe id='aa8d825b' name='aa8d825b' src='http://ad.19rus.info/www/delivery/afr.php?zoneid=20&amp;cb=3409523761' framespacing='0' frameborder='no' scrolling='no' width='240' height='400' allowtransparency='true'><a href='http://ad.19rus.info/www/delivery/ck.php?n=acded51d&amp;cb=3409523761' target='_blank'><img src='http://ad.19rus.info/www/delivery/avw.php?zoneid=20&amp;cb=3409523761&amp;n=acded51d' border='0' alt='' /></a></iframe></li>
+	    	</ul>
+	    </div>
+  	</div-->
+        <div id="popnews" class="block-title">
+            <h2>Популярное сегодня</h2>
+            <div class="inner"><ul><li><div class="nphoto"><img src="/media/2013/04/mitsubishi_delica_5848-80x60.jpg" alt="" /></div><p><a href="/news/100640.html">Вышел прогреть автомобиль и не вернулся: в Хакасии нашли &quot;Митцубиси&quot;, похищенную у убитого</a></p></li><li><div class="nphoto"><img src="/media/2013/04/1_1736-80x60.jpg" alt="" /></div><p><a href="/news/100646.html">За продажу &quot;красивых&quot; номеров начальнику ГИБДД грозят долгие годы в тюрьме</a></p></li><li><div class="nphoto"><img src="/media/2013/04/db545890dc3767564b22f5153797dafa-80x60.jpg" alt="" /></div><p><a href="/news/100716.html">В Хакасии нашли тело попавшего под лавину туриста (ВИДЕО)</a></p></li><li><div class="nphoto"><img src="/media/2013/04/glav-80x60.jpg" alt="" /></div><p><a href="/news/100741.html">Загадочный «R-CAM» в Абакане: что это за зверь и с чем его едят (ФОТО, ВИДЕО)</a></p></li><li><div class="nphoto"><img src="/media/2013/04/glav[10759]-80x60.jpg" alt="" /></div><p><a href="/news/100778.html">Парадокс Хакасии и всей страны: чем краше номер, тем больше прав?! (ФОТО, ВИДЕО)</a></p></li><li><div class="nphoto"><img src="/media/2013/04/0[10694]-80x60.jpg" alt="" /></div><p><a href="/news/100470.html">Загадочный дом на Набережной в Абакане играет с нами в «рулетку»: никто не знает, что выпадет внутри (ФОТО)</a></p></li><li><div class="nphoto"><img src="/media/2013/04/toyota_will-vs-80x60.jpg" alt="" /></div><p><a href="/news/100770.html">В Хакасии женщина, неудачно выйдя из &quot;Форда&quot;, стала жертвой</a></p></li><li><div class="nphoto"><img src="/media/2013/04/mam_9382_copy-80x60.jpg" alt="" /></div><p><a href="/news/100759.html">Сенатора от Хакасии Валентину Петренко исключили из «Справедливой России»</a></p></li><li><div class="nphoto"><img src="/media/2013/04/ustupi-dorogu-80x60.jpg" alt="" /></div><p><a href="/news/100783.html">ДТП в Черногорске: сотрудник городской полиции в коме</a></p></li><li><div class="nphoto"><img src="/media/2013/04/dscn0232-80x60.jpg" alt="" /></div><p><a href="/news/100633.html">Жесткое лобовое автостолкновение произошло в 25 км от Бородино</a></p></li></ul></div>        </div>
+        <iframe src="/poll/get/1365537253" frameborder="0" width="250" id="express-poll"></iframe>
+	<div id="briefings" class="block-title"><h2><a href="http://19rus.info/briefing.html">ЗАДАЙ ВОПРОС</a></h2><div class="inner"><ul><li><div class="nphoto"><img src="http://www.19rus.info/media/2013/04/mogilina-80x60.jpg" width="80" height="60" alt="" /></div><p><a href="/briefing/79">Глава Комитета Верховного Совета РХ Светлана Могилина готова к сложному разговору с читателями ИА «Хакасия»</a></p></li>
+<li><div class="nphoto"><img src="http://www.19rus.info/media/2013/03/firsov-80x60.jpg" width="80" height="60" alt="" /></div><p><a href="/briefing/78">Главный спасатель республики готов к разговору с читателями ИА «Хакасия»</a></p></li>
+<li><div class="nphoto"><img src="http://www.19rus.info/media/2013/01/yuzhakov1-80x60.jpg" width="80" height="60" alt="" /></div><p><a href="/briefing/77">Глава государственной жилищной инспекции Вадим Южаков готов к нелегкому разговору с читателями ИА «Хакасия»</a></p></li>
+<li><div class="nphoto"><img src="http://www.19rus.info/media/2012/12/0_40c7e_636ae04c_xl-80x60.jpg" width="80" height="60" alt="" /></div><p><a href="/briefing/76">К разговору с читателями ИА «Хакасия» готов сам... Дед Мороз</a></p></li>
+</ul></div></div>
+        <div id="projects" class="block-title">
+            <h2>Проекты</h2>
+            <ul>
+                <li><a href="/rubric/52" title="Главные события недели"><img src="/media/images/budvkurse.jpg" alt="Главные события недели" width="240" /></a></li>
+		<li><iframe id='afa87dbc' name='afa87dbc' src='http://ad.19rus.info/www/delivery/afr.php?zoneid=26&amp;cb=2347295893' framespacing='0' frameborder='no' scrolling='no' width='240' height='240' allowtransparency='true'><noindex><a href='http://ad.19rus.info/www/delivery/ck.php?n=abfe2428&amp;cb=2347295893' target='_blank' rel="nofollow"><img src='http://ad.19rus.info/www/delivery/avw.php?zoneid=26&amp;cb=2347295893&amp;n=abfe2428' border='0' alt='' /></noindex></a></iframe></li>
+		<li><a rel="nofollow" href="http://www.vskhakasia.ru/press-centr/praymaya-translyaciya.html" title="Прямая трансляция из зала заседаний Верховного Совета РХ"><img src="/media/images/pryamaya_translyatsiya.jpg" alt="" /></a></li>
+		<li><a href="/rubric/60"><img src="/media/advokat.jpg" alt="" /></a></li>
+                <li><iframe id='ae3bda8c' name='ae3bda8c' src='http://ad.19rus.info/www/delivery/afr.php?zoneid=17&amp;cb=3903467237' framespacing='0' frameborder='no' scrolling='no' width='240' height='240' allowtransparency='true'><noindex><a href='http://ad.19rus.info/www/delivery/ck.php?n=a75a9842&amp;cb=3903467237' target='_blank' rel="nofollow"><img src='http://ad.19rus.info/www/delivery/avw.php?zoneid=17&amp;cb=3903467237&amp;n=a75a9842' border='0' alt='' /></a></noindex></iframe></li>		
+            </ul>
+        </div>
+        <div id="help-for-childs" class="block-title">
+            <h2>Помогите детям</h2>
+            <div class="inner">
+                <ul>
+                    <li>
+                        <div class="nphoto"><a href="/polina-glushkova.html"><img alt="Полина Глушкова" src="/media/2011/02/polina-glooshkova-80x60.jpg" /></a></div>
+                        <h3><a href="/polina-glushkova.html">Полина Глушкова</a></h3>
+                        <p>После обследования в НИИ онкологии и гематологии им. Блохина был поставлен диагноз...</p>
+                    </li>
+                    <li>
+                        <div class="nphoto"><a href="/serezha-harchevnikov.html"><img alt="Сережа Харчевников" src="/media/2011/07/serezha-harchevnikov-80x60.jpg" /></a></div>
+                        <h3><a href="/serezha-harchevnikov.html">Сережа Харчевников</a></h3>
+                        <p>Полуторагодовалому мальчику из Абакана (Хакасия) Сереже Харчевникову предстоят две дорогостоящие операции...</p>
+                    </li>
+                    <li>
+                        <div class="nphoto"><a href="/daniil-ragozin.html"><img alt="Даниил Рагозин" src="/media/2012/09/daniil-ragozin-80x60.jpg" /></a></div>
+                        <h3><a href="/daniil-ragozin.html">Даниил Рагозин</a></h3>
+                        <p>9-летнему жителю Хакасии, требуется помощь. Московские врачи подтвердили диагноз...</p>
+                    </li>
+                    <li>
+                        <div class="nphoto"><a href="/dima-danskov.html"><img alt="Дима Дансков" src="/media/2012/09/dima_danskov-80x60.jpg" /></a></div>
+                        <h3><a href="/dima-danskov.html">Дима Дансков</a></h3>
+                        <p>Два года назад мальчику поставили неутешительный диагноз: острый миелобластный лейкоз...</p>
+                    </li>
+                    <li>
+                        <div class="nphoto"><a href="/bozhena-akinina.html"><img alt="Божена Акинина" src="/media/2012/09/bozhena_akinina-80x60.jpg" /></a></div>
+                        <h3><a href="/bozhena-akinina.html">Божена Акинина</a></h3>
+                        <p>Божена Акинина живет с диагнозом «острый лимфобластный лейкоз». Он был поставлен ей в июле 2011 года...</p>
+                    </li>
+                    <li>
+                        <div class="nphoto"><a href="/katya-kuksa.html"><img alt="Катя Кукса" src="/media/2012/11/kuksa_k-80x60.jpg" /></a></div>
+                        <h3><a href="/katya-kuksa.html">Катя Кукса</a></h3>
+                        <p>Девочка больна тяжелым заболеванием - анапластическая эпендиома III желудочка, проще говоря, злокачественная...</p>
+                    </li>
+                </ul>  
+            </div>
+        </div>
+        <div id="last-adverts" class="block-title" style="display: none;">
+            <h2>Последние объявления</h2>
+        </div>
+    </div>
+</div><!-- columns-wrapper -->
+<div class="clearfix"> </div>
+</div> <!-- full-wrapper -->
+<link media="all" type="text/css" rel="stylesheet" href="/styles/jquery-ui.css" />
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/js/jquery.datepicker.ru.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#news-date').datepicker({
+            dateFormat: 'yy/mm/dd',
+            onSelect: function(dateText, inst) {
+                window.location.href = '/rubric/0/'+dateText;
+            },
+            maxDate: '+0d'
+        });
+    });
+</script>
+
+<div class="footer-wrapper">
+    <div id="footer">
+        <div class="main-nav" style="background-color: #36c; border-radius: 0;"><ul><li class="first"><a class="neue" href="/">Главная</a></li><li><a class="neue" href="/rubric/2">Власть и политика</a></li><li><a class="neue" href="/rubric/3">Экономика и финансы</a></li><li><a class="neue" href="/rubric/4">Общество</a></li><li><a class="neue" href="/rubric/27">Происшествия / Криминал</a></li><li><a class="neue" href="/rubric/5">Культура и спорт</a></li><li><a class="neue" href="/rubric/45">Мир в Паутине</a></li><li><a class="neue" href="/rubric/53">Интерактив</a><ul class="level-1 submenu"><li><a href="/rubric/53">Письмо в редакцию</a></li><li><a href="/rubric/10">Интервью / Мнения</a></li><li class="last"><a href="/briefing.html">Задай вопрос</a></li></ul>
+</li><li><a class="neue" href="/smi-khakasii.html">Инфо</a><ul class="level-1 submenu"><li><a href="/smi-khakasii.html">СМИ Хакасии</a></li><li><a href="/ispolnitelnaja-vlast.html">Исполнительная власть</a></li><li><a href="/zakonodatelnaya-vlast.html">Законодательная власть</a></li><li><a href="/sudebnaja-vlast.html">Судебная власть</a></li><li><a href="/mestnoe-samoupravlenie.html">Местное самоуправление</a></li><li><a href="/politicheskie-partii.html">Политические партии</a></li><li class="last"><a rel="nofollow" href="https://service.nalog.ru/debt/" target="_blank">Узнайте задолженность</a></li></ul>
+</li><li><noindex><a rel="nofollow" class="neue" href="http://forum.19rus.info">Форум</a></noindex></li></ul>
+</div>
+        <div class="subnav-wrapper" style="margin-bottom: 20px;"><div class="main-subnav"><ul><li class="first"><a class="neue" href="/rubric/53">Письмо в редакцию</a></li><li><a class="neue" href="/rubric/10">Интервью / Мнения</a></li><li><a class="neue" href="/briefing.html">Задай вопрос</a></li><li><a class="neue" href="/horoscopes.html">Гороскоп</a></li><li><a class="neue" href="/about.html">О нас</a></li></ul>
+</div></div>
+        <div id="service">
+            <!--Rating@Mail.ru LOGO--><noindex><a target="_top" href="http://top.mail.ru/jump?from=1099818" rel="nofollow"><img src="http://d8.cc.b0.a1.top.mail.ru/counter?id=1099818;t=210;l=1" height="31" width="88" alt="Рейтинг@Mail.ru"/></a></noindex><!--/LOGO-->
+            <!-- begin of Top100 logo --><noindex><a href="http://top100.rambler.ru/home?id=1963690" rel="nofollow"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width="88" height="31" border="0" /></a></noindex><!-- end of Top100 logo -->
+            <!--LiveInternet logo--><noindex><a href="http://www.liveinternet.ru/click" target="_blank" rel="nofollow"><img src="http://counter.yadro.ru/logo?17.6" border="0" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" width="88" height="31" /></a></noindex><!--/LiveInternet-->
+            <!-- APORT <a href="http://stat.aport.ru/hit.pl?id=1882403"><img src="http://stat.aport.ru/show.pl?tp=38&amp;=1882403" height="31" width="88" alt="Находится в каталоге Апорт" /></a> APORT -->
+            <!-- YACA <a href="http://www.yandex.ru/cy?base=0&amp;host=www.19rus.info"><img src="http://www.yandex.ru/cycounter?www.19rus.info" width="88" height="31" alt="Яндекс цитирования" /></a> -- YACA -->
+            <noindex><a target="_blank" href="http://www.plazoo.com" rel="nofollow"><img width="88" height="31" title="Поиск по блогам" src="http://www.plazoo.com/external/images/button_big2.gif" alt=""/></a></noindex>
+        </div>
+        <div id="ftext" style="color: #6c6c6c;">
+            <p style="margin-bottom: 20px;"><strong>Если Вы обнаружили неточность в тексте, выделите ее и нажмите Ctrl+Enter</strong></p>
+            <p style="line-height: 1.6em;">Copyright &copy; 2006-2011, ООО "Информационное Агентство "Хакасия"<br />
+                Свидетельство о регистрации СМИ Эл № ФС 77-25596 от 07.09.2006 г., Росохранкультура РФ<br />
+                <strong>При полной или частичной перепечатке текстовых материалов в Интернете гиперссылка на <a href="http://www.19rus.info">ИА "Хакасия"</a> обязательна</strong><br />
+                Телефон: (3902) 215-500, 215-216, 26-70-70, 8 906-191-38-83<br />
+                E-mail: <a href="mailto:19rus2005@gmail.com">19rus2005@gmail.com</a>
+            </p>
+        </div>
+    </div>
+</div>
+<div id="misprint" style="display: none;">
+    <div id="misprint-wrapper">
+        <div id="misprint-message"></div>
+        <form id="misprint-form" action="/misprint/send" method="post">
+            <input type="hidden" name="document_url" id="document-url" value="" />
+            <p><label for="misprint-text">Написано:</label><textarea cols="50" rows="5" name="misprint_text" id="misprint-text"></textarea></p>
+            <p><label for="comment-text">Должно быть:</label><textarea cols="50" rows="5" name="comment_text" id="comment-text"></textarea></p>
+        </form>
+    </div>
+</div>
+<div style="padding:10px 20px; background-color:#eee;"><div class="klinks">
+</div></div>
+<!-- YaMetrics begin -->
+<script type="text/javascript">var ya_cid=164316;</script>
+<script src="http://bs.yandex.ru/resource/watch.js" type="text/javascript"></script>
+<noscript><div style="display: inline;"><img src="http://bs.yandex.ru/watch/164316" width="1" height="1" alt="" /></div></noscript>
+<!-- YaMetrics end -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter20853082 = new Ya.Metrika({id:20853082,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/20853082" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

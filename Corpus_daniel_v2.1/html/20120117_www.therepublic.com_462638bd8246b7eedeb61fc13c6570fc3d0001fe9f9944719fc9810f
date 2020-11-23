@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<title>No magic bullet on the flu | The Republic</title>
+<meta property="og:title" content="No magic bullet on the flu"/>
+<meta property="og:site_name" content="The Republic"/>
+<meta property="fb:admins" content="100001043232036" />
+<meta property="fb:app_id" content="236123066430988" />
+<meta name="keywords" content="Health &amp; Medicine,"><meta name="description" content="In recent weeks I’ve had occasion to wonder whether Talmudic scholars of yore ever debated the question of what to do when a nice Jewish boy came down with swine flu. Less shameful than a diagnosis of trichinosis, perhaps, in which the subject would surely be harshly judged for his complicity in having partaken of undercooked pork. Yet hasn’t a swine flu victim also ingested (or at least inhaled) the virus one way or another?">
+<base href="http://www.therepublic.com/" />
+<link type="text/css" rel="stylesheet" href="http://dmtf1pfq4vr1f.cloudfront.net/trassets/css/style_story_011212.css" />
+<script type="text/javascript" src="http://dmtf1pfq4vr1f.cloudfront.net/trassets/scripts/js_story_011212.js"></script>
+<!--[if lte IE 7]>
+<link href="http://dmtf1pfq4vr1f.cloudfront.net/trassets/css/ie-style.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!-- yes -->
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/1052426/TheRepublic_Living_HealthMedicine_Leaderboard_728x90', [728, 90], 'div-gpt-ad-1321299276319-0').addService(googletag.pubads().setTargeting("WebSite", "The_Republic"));
+googletag.defineSlot('/1052426/TheRepublic_Living_HealthMedicine_Square_300x250', [300, 250], 'div-gpt-ad-1321299276319-1').addService(googletag.pubads().setTargeting("WebSite", "The_Republic"));
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+addthis.init();
+});
+</script>
+
+
+<script type="text/javascript">
+	$(window).load(function() {
+		$(".fontscaler").fontScaler({
+				target: "#story_content",
+				containerclass: 'fontScaler',
+				store: true,
+				fixed: {size1:'100', size2:'120', size3: '140'}
+			});
+			
+			$("#breaking_text").css("display", "block"); 
+			$("#breaking").fadeTransition({pauseTime: 5000, transitionTime: 400});
+			
+					
+		window.fbAsyncInit = function() {
+    FB.init({
+      appId  : '236123066430988',
+      status : true, // check login status
+      cookie : true, // enable cookies to allow the server to access the session
+      xfbml  : true,  // parse XFBML
+      channelUrl:'http://www.therepublic.com/assets/channel.html'
+    });
+	
+	/* --- Email Notifications begin --- */
+
+    var fromMail = 'login@hnedata.net';
+    var toMail = 'scott@screamingeaglemedia.com';
+    var sendPath = './facebook/msgmail/';
+    fbCommentsEN(fromMail,toMail,sendPath);
+
+    /* --- Email Notifications end --- */
+	
+  };
+
+  (function() {
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+  
+  $("#menu").load("./view/menu", function(){
+  	$.getScript("http://dmtf1pfq4vr1f.cloudfront.net/trassets/scripts/menu/menu.js");
+  });
+  
+});
+
+</script>
+</head>
+<body>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=236123066430988";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><noindex><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<div class="shadow">
+<script>
+    var _gaq=[["_setAccount","UA-3523255-1"],["_trackPageview"]];
+    function a(b){var c=document,d=c.createElement("script");
+    d.async=true;d.src=b;
+    c.documentElement.firstChild.appendChild(d);}
+    a("//www.google-analytics.com/ga.js");
+	_qoptions={qacct:"p-f14Vh6IDJ6Iys"};
+  </script>
+
+<!-- <div id="top_header" style="width:950px;">
+<script type="text/javascript">
+  GA_googleFillSlot("HomePageSlidingBillboard");
+</script>
+</div> -->
+<div id="front_page_logo_wrapper2">
+<div id="logo_header2">
+	<a href="."><img src="http://dmtf1pfq4vr1f.cloudfront.net/trassets/images/layout/the_republic_masthead.png" border="0" width="507" height="74"/></a>
+</div>
+<div id="menu"></div>
+</div>
+<div id="top_fade">
+<div id="wrapper">
+<div id="story_ad" align="center">
+<div id='div-gpt-ad-1321299276319-0' style='width:728px; height:90px;'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1321299276319-0'); });</script></div>
+</div> <!-- close Story Ad -->
+</noindex>
+<div id="story_headline">
+
+	<h1 class="article_headline">No magic bullet on the flu</h1>
+	<table width="100%">
+		<tr>
+			<td>
+				<ul class="article_meta clear">
+				<li>By David Finkelstein&nbsp;&nbsp;<A href="http://www.latimes.com">Los Angeles Times</A></li>
+				<li>First Posted: January 17, 2012 - 3:02 am<br />Last Updated: January 17, 2012 - 3:02 am</li>
+				</ul>
+			</td>
+			<td width="300px">
+				<ul class="article_meta clear">
+				<li class="share-button"><p><div class="fontscaler"></div><a class="a2a_dd big-share-button" href="http://www.therepublic.com/view/story/MED-TAMIFLU-COMMENTARY_7040407/MED-TAMIFLU-COMMENTARY_7040407/#share"><img src="http://dmtf1pfq4vr1f.cloudfront.net/trimages/layout/share.jpg" width="181" height="31" border="0" alt="Share/Save/Bookmark"/></a></p>
+				</li>
+		</ul>
+			</td>
+			<td width="30px"></td>
+		</tr>
+	</table>
+</div> <!-- close Story Headline -->
+
+<div id="story_content" style="width:902px;">
+<div id="story_left_column">
+
+
+
+<!-- add story text -->
+<div id="story_text"><p>In recent weeks I’ve had occasion to wonder whether Talmudic scholars of yore ever debated the question of what to do when a nice Jewish boy came down with swine flu. Less shameful than a diagnosis of trichinosis, perhaps, in which the subject would surely be harshly judged for his complicity in having partaken of undercooked pork. Yet hasn’t a swine flu victim also ingested (or at least inhaled) the virus one way or another?</p>
+<p>Admittedly, this was not foremost on my mind when, in 2006, my wife and I purchased a drug called Tamiflu. It was at a time, you may recall, when every allegedly responsible health agency — including the Centers for Disease Control and Prevention in Atlanta and the World Health Organization in Geneva — warned of the imminent onset of an avian flu “pandemic” of lethal proportions, comparable to the Spanish flu of 1918, which claimed up to 100 million lives.</p>
+<p>My wife and I were soon to be leaving on a writing assignment abroad, and Tamiflu was being touted as effective in reducing the “secondary complications” of flu, including bronchitis and pneumonia. As it turned out, however, trying to buy two courses of Tamiflu proved difficult. The pandemic scare had prompted a rash of panic buying, and nary a pill was to be found. As revealed later, President George W. Bush, ever solicitous of the nation’s health — primarily the health of all those young men and women he had sent off to Iraq and Afghanistan — had spent more than $1 billion of taxpayers’ money to stockpile the drug. We finally managed to get the pills through a mail-order pharmacy in Canada.</p>
+<p>Not surprisingly, we never did come down with avian flu; hardly anyone did. The pandemic never occurred.</p>
+<p>Fast-forward to 2011, when a random inventory of our medicine chest revealed the unused Tamiflu pills hidden behind a box of Band-Aids. Maybe we should have discarded them earlier, but our decision to keep them was no doubt influenced by a media campaign in 2009 that proclaimed the threat of yet another frightening outbreak. This time it was swine flu, and — surprise, surprise — Tamiflu was again touted as the drug to save the day.</p>
+<p>So you can imagine our surprise when just a few months ago, while browsing through an article titled “Reckless Medicine” in the magazine Discover, we came upon an astounding story. After reviewing studies of Tamiflu during the avian flu scare, Dr. Tom Jefferson of the Cochrane Collaboration, a nonprofit group dedicated to analyzing medical evidence, had concluded in a 2006 report that the drug was effective. “But,” said the article, “several years later, another physician challenged that conclusion because 8 of 10 studies in a meta-analysis — a review of studies — that Jefferson relied on had never been published.”</p>
+<p>That prompted Jefferson to seek the raw data. “He was stymied when several authors and the manufacturer gave one excuse after another for why it couldn’t supply the actual data. Jefferson’s concern turned to outrage when two employees of a communications company … (revealed) they had been paid to ghostwrite some of the Tamiflu studies (and) had been given explicit instructions to ensure that a key message was embedded in the articles: Flu is a threat, and Tamiflu is the answer.</p>
+<p>“After reanalyzing the raw data finally made available (they still don’t have it all), Jefferson and his colleagues published their review (in December 2009), saying that once the unpublished studies were excluded, there was no proof that Tamiflu reduced serious flu complications like pneumonia or death.”</p>
+<p>In short, it appears the pharmaceutical companies had been as cunning in conning the public on matters of health as Wall Street had been on matters of wealth.</p><blockquote class="inline_quote"><span><p><strong>David Finkelstein, formerly a China specialist with the Ford Foundation, is a New York-based writer and the author of &ldquo;Greater Nowheres: Wanderings Across the Outback.&rdquo; He wrote this for the Los Angeles Times.</strong></p></span></blockquote><p>After reading this article and doing a morning’s online research, we phoned Genentech Corp., a U.S. affiliate of Hoffmann-La Roche, the Swiss drug giant that holds marketing rights to Tamiflu. Our aim was simply to get the company’s response to the allegations. But the customer service representative adamantly refused to discuss the issue, in essence telling us to get lost but to have a nice day.</p>
+<p>Stonewalled, we wrote directly to Genentech’s chief, Ian Clark, suggesting that because it appeared we’d been misled into purchasing Tamiflu, the simplest solution would be a return of the pills for a refund of the $120 we had paid for them. But unlike his underling, who at least had wished us a nice day, Clark didn’t even bother to respond. And so, much as we two senior citizens from New York shrank at the thought of an early-morning PATH trip to Newark, N.J., we bit the bullet and filed a small-claims action in a New Jersey court, that jurisdiction being the closest location where Genentech was licensed to do business. Our suit alleged breach of contract by way of fraud.</p>
+<p>Genentech must have dreaded the trip to Newark even more than we did, because a week before the scheduled trial we received a call from the company’s in-house lawyer. Genentech, he said, was prepared to resolve the matter out of court, paying us the amount requested (now, with court costs included, an astronomical $200) in exchange for our signing a “standard release.” Tucked within its numerous paragraphs was a clause stipulating that we consent to a monastic vow of silence on the issue, renouncing our right ever to mention it to anyone in the future.</p>
+<p>Really? We asked ourselves. Were these Genentech guys so out of touch they didn’t know the story of the rabbi’s hole in one, the only one he’d ever hit in his life? It happens on a Saturday while he is playing a furtive round of golf instead of observing the Sabbath in the sanctity of his synagogue. An infuriated Moses, who wanted the rabbi punished for his sin, demands to know of God why the rabbi gets a hole in one instead. Jehovah, knowing the true horror of his punishment, explains, “But whom can he tell?”</p>
+<p>Because, God knows, a triumph one can’t talk about is no triumph at all, we rejected the release, stating that we’d prefer to have our day in court. Win or lose, we’d at least come away with our right to free speech intact. (We were fearful too that if we gave in on this one, ShoeMall.com might start demanding a secrecy agreement every time we sent back an ill-fitting pair of sandals.)</p>
+<p>Genentech yielded, and sent the $200 check. And here we are, talking about it. An old-fashioned Jewish grandmother might well conclude this narrative with the slightly mocking Yiddishism: “Tamiflu, scamiflu, a bi gezunt” (meaning, what does it all matter, so long as you’re healthy). To which our response would be, “Grandma, we may be healthy, but Tamiflu or not, the country certainly isn’t.”</p>
+<p>———</p>
+<p>ABOUT THE WRITER</p>
+<p>David Finkelstein, formerly a China specialist with the Ford Foundation, is a New York-based writer and the author of “Greater Nowheres: Wanderings Across the Outback.” He wrote this for the Los Angeles Times.</p>
+<p></p>
+<noindex>	
+<div id="tw_follow">Get all your favorite Health &amp; Medicine news by following our Health &amp; Medicine feed on Twitter!  <a href="http://www.twitter.com/TR_Health_Med" title="Health &amp; Medicine Twitter Feed">Click Here!</a></div><p>&nbsp</p>
+<!-- Begin social share code -->
+<a name="share"></a>
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style" style="width:550px !important; height:35px !important; margin-left:10px; display:block;">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_preferred_5"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div> <!-- close add this div 1-->
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?async=1&domready=1"></script>
+<!-- end social share code -->
+<div class="fb-like" data-href="http://www.therepublic.com/view/story/MED-TAMIFLU-COMMENTARY_7040407/MED-TAMIFLU-COMMENTARY_7040407/" data-send="true" data-width="450" data-show-faces="false"></div>
+<div id="fb-root"></div>
+<div class="fb-comments" data-href="http://www.therepublic.com/view/story/MED-TAMIFLU-COMMENTARY_7040407/MED-TAMIFLU-COMMENTARY_7040407/" data-num-posts="2" data-width="530" xid="MED-TAMIFLU-COMMENTARY_7040407" class="fbcomments" title="MED-TAMIFLU-COMMENTARY_7040407"></div>
+</div> <!-- close story text -->
+
+
+
+</div> <!-- close story left column -->
+
+
+<div id="story_right_column2">
+		<div id="story_right_column_ad2">
+<div id='div-gpt-ad-1321299276319-1' style='width:300px; height:250px;'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1321299276319-1'); });</script></div>
+		</div> <!-- close story right column ad -->		
+<p><hr /></p>
+
+<div class="subject_list"><div align="center"><strong>We also have more stories about:</strong><br />(click the phrases to see a list)</div>
+<p><strong>Category:</strong><ul><li><a href="./view/category/10600/" title="Health &amp; Medicine">Health &amp; Medicine</a></li></ul></p>
+
+	
+	
+	
+	</p>
+<p>&nbsp;</p>
+<p>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FTheRepublicNews&amp;width=292&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:80px;" allowTransparency="true"></iframe>
+</p>
+</div>
+<div align="center" style="font-size:.8em;"><p><img src="http://dmtf1pfq4vr1f.cloudfront.net/trimages/layout/calais_icon_16x16.jpg"><sup> Content enhanced with OpenCalais.</sup></p></div>
+</div> <!-- close story_right_column" -->
+
+
+</div> <!-- close story content -->
+
+</div> <!-- close wrapper -->
+</div> <!-- close top fade -->
+
+<div align="center" style="color:#FFFFFF;font-size:.7em;"><p>All content copyright &copy;2012 The Republic, a division of Home News Enterprises unless otherwise noted.<br />All rights reserved. <a href="./view/page/Privacy_Policy/"><font color="#FFFFFF">Click here to read our privacy policy.</font></a></p></div>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js" async></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-f14Vh6IDJ6Iys.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:20837,domain:"therepublic.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src', 'http://static.chartbeat.com/js/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+</noindex>
+</body>
+

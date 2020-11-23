@@ -1,0 +1,916 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+
+<title>«Περίεργη η επιδημία καρκίνου σε αριστερούς»   | διεθνη  | ethnos.gr</title>
+<meta name="keywords" CONTENT="διεθνη   , «Περίεργη η επιδημία καρκίνου σε αριστερούς»  " />
+<meta name="description" CONTENT="30/12/2011 - «Περίεργη η επιδημία καρκίνου σε αριστερούς»   - <p> 	Αίσθηση έχει προκαλέσει ο ισχυρισμός του προέδρου της Βενεζουέλας, Ούγκο Τσάβες, ότι πιθανόν οι ΗΠΑ να ευθύνονται για την εμφάνιση καρκίνου στον ίδιο, αλλά - διεθνη  - ethnos.gr" />
+<meta name="revisit-after" content="60 days" />
+<meta name="abstract" content="διεθνη " />
+
+<meta name="robots" content="index, follow" />
+<meta name="document-classification" content="internet" />
+<meta name="document-type" content="Public" />
+<meta name="document-rating" content="Safe for Kids" />
+<meta name="document-distribution" content="Global" />
+<meta http-equiv="pics-label" content="(pics-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "http://new.e-go.gr" r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://new.e-go.gr" r (n 0 s 0 v 0 l 0))" />
+
+<meta name="author" content="e-go.gr , Pegasus Interactive" />
+<meta name="copyright" content="Pegasus Interactive" />
+<meta name="document-state" content="Dynamic" />
+<meta name="Publisher" content="Pegasus Interactive , http://www.pegasus.gr " />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<meta property="og:site_name" content="ethnos.gr"/>
+<meta property="fb:app_id" content="252173521495503"/>
+
+<meta property="og:url" content="http://www.ethnos.gr/article.asp?catid=22769&subid=2&pubid=63596698"/>
+
+<meta property="og:title" content="ethnos.gr - ΔΙΕΘΝΗ - «Περίεργη η επιδημία καρκίνου σε αριστερούς»
+
+"/>
+<meta property="og:description" content=""/>
+ 
+
+          <meta property="og:image" content="http://content-mcdn.ethnos.gr/filesystem/images/20111230/engine/assets_LARGE_t_420_54016835_type10.jpg"/>
+     <link rel="stylesheet" href="style.css" type="text/css"/><link rel="stylesheet" href="article.css" type="text/css"/>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="css/picbox.css" type="text/css" media="screen"/>
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/JSFCommunicator.js"></script><script src="iepatch.js"></script><script type="text/javascript" src="js/tools/mouseCoord.js"></script>
+<script type="text/javascript" src="js/contextual/js/toolTipSimple.js"></script>
+<link href="js/contextual/styles/tooltip.css" rel="stylesheet" type="text/css" /><script src="js/ajax.asp" type="text/javascript"></script><script type="text/javascript">setAsyncElementLoading();</script>
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/hoverIntent.js"></script>
+<script type="text/javascript" language="javascript" src="js/jquery.dropdown.js"></script>
+<script src="js/picbox.js" type="text/javascript"></script>
+<script src="js/autoactivation.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.dimensions.js"></script>
+<script type="text/javascript" src="js/jquery.accordion.js"></script>
+<link rel="stylesheet" type="text/css" href="ethnosadstyles.css" />
+<link rel="stylesheet" href="footer.css" type="text/css"/>
+
+	<script type="text/javascript" src="js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="js/jquery.tools.min2.js"></script>
+
+
+<script>
+$(document).ready(function() {
+$(".search_btn img[title]").tooltip2();
+
+});
+</script>
+
+
+
+<script>
+var counterplus = 0;
+var countermin = 0; 
+function increaseFont()
+{
+if(counterplus<3){
+$('#arttext').each(function(){
+var oldf = parseInt( jQuery(this).css('font-size') );
+var oldl = parseInt( jQuery(this).css('line-height') );
+$(this).css({
+'font-size' : oldf + 2 + 'px',
+'line-height' : oldl + 2 + 'px'
+});
+});
+ counterplus++;
+ countermin++;
+}
+
+}
+ 
+function decreaseFont()
+{
+if(countermin>-2){
+$('#arttext').each(function(){
+var oldf = parseFloat( jQuery(this).css('font-size') );
+var oldl = parseFloat( jQuery(this).css('line-height') );
+$(this).css({
+'font-size' : oldf - 2 + 'px',
+'line-height' : oldl - 2 + 'px'
+});
+});
+ counterplus--;
+ countermin--;
+}
+}
+</script>
+
+<script type="text/javascript" language="JavaScript"><!--
+function HideContent(d) {
+if(d.length < 1) { return; }
+document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+if(d.length < 1) { return; }
+document.getElementById(d).style.display = "block";
+}
+function ReverseContentDisplay(d) {
+if(d.length < 1) { return; }
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block";}
+else { document.getElementById(d).style.display = "none"; }
+}
+//--></script>
+
+
+</head>
+<body>
+<center>
+<div class="swrapper">
+
+<div id="hometopmenu"><div id="topmenu_2">
+<div class="network">
+<p class="logobut"><div id="egonav">
+<ul><li style="cursor:default;"><!--a href="http://stats.e-go.gr/rx.asp?nWebSrvID=110000&nCatID=1&nLevelid=1&target=http://new.e-go.gr" --> <img src="images/logonetwork.gif" border="0" /><!-- /a -->
+</li></ul></div>
+</p>
+<p class="sites1" style="margin-top: 3px;"> 
+<a href="http://www.ethnos.gr">ΕΘΝΟΣ </a> | 
+<a href="http://www.imerisia.gr"> ΗΜΕΡΗΣΙΑ </a> | 
+<a href="http://www.sentragoal.gr"> SENTRAGOAL </a> | 
+<a href="http://www.e-go.gr"> E-GO </a> |
+<a href="http://www.cinemag.gr"> ΣΙΝΕΜΑ </a> | 
+<a href="http://www.idanikospiti.gr"> ΙΔΑΝΙΚΟ ΣΠΙΤΙ &nbsp;</a> |
+<a href="http://www.sporty.gr"> SPORTY </a> |
+<a href="http://www.womenonly.gr/summary.asp?catid=13388"> ΑΣΤΡΑ & ΟΡΑΜΑ </a> |
+<a href="http://www.wmotors.gr"> WHEELS & MOTORS </a> | 
+<a href="http://www.womenonly.gr"> WOMENONLY.GR </a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=23958"> COOK BOOK</a> 
+<br />
+<!-- a href="http://www.loipon.gr"><b>ΚΟΣΜΙΚΑ</b></a> | -->
+<a href="http://www.ethnos.gr/ethnosport">ΕΘΝΟΣΠΟΡ</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=23508">TV ΕΘΝΟΣ</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=22820">ΚΥΝΗΓΙ</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=22821">ΨΑΡΕΜΑ & ΦΟΥΣΚΩΤΟ</a> |
+<a href="http://www.ethnos.gr/entheta.asp?catid=23309">REPORTAGE</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=24300">ΥΓΕΙΑ</a> |
+<a href="http://www.ethnos.gr/entheta.asp?catid=23513">ΤΑΞΙΔΙ</a> |
+<a href="http://www.ethnos.gr/entheta.asp?catid=23343">ΣΥΝΤΑΞΕΙΣ</a> |
+<a href="http://www.ethnos.gr/entheta.asp?catid=23353">ΕΠΑΓΓΕΛΜΑΤΙΚΕΣ ΕΥΚΑΙΡΙΕΣ</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=22813">ΕΡΓΑΣΙΑ</a> | 
+<a href="http://www.ethnos.gr/entheta.asp?catid=22814">ΠΑΙΔΕΙΑ</a> 
+
+ 
+</p></div></div></div>
+<div class="clear"></div><div class="topbanners"><div class="ban72890"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=30&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=30&dfl=yes&js=no" border="0" width="728" height="90" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|30/728x90"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div><div class="minitextlink"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=66&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=66&dfl=yes&js=no" border="0" width="220" height="90" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|66/220x90"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div></div><div class="ban1300"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=1239&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=1239&dfl=yes&js=no" border="0" width="980" height="280" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|1239/980x280"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div>
+<div class="header">
+  <div class="logo"><a href="default.asp?catid=22733" target="_top"><img src="images/logo.gif" border="0" alt="ethnos.gr" /></a></div>
+  <div class="date">Σάββατο, 14/1/2012</div>
+  <!--No Elements for : 70200-->
+  <div class="weather">
+<div><iframe id="1E7C3DC7-AE56-4064-A193-8CBA8806722C" scrolling="no" frameborder="0" width="140" height="90" src=""></iframe><a target="_blank" style="display: block; text-decoration: underline; font: 10px/10px Arial,san-serif; color: rgb(119, 119, 119);" href="http://www.deltiokairou.gr/?widget_type=horizontal">O καιρός σήμερα</a><script type="text/javascript" src="http://service.24media.gr/js/deltiokairou_widget.js"></script><script type="text/javascript">set_url("1E7C3DC7-AE56-4064-A193-8CBA8806722C", "http://service.24media.gr/app/forecast/details/horizontal.html?loc=37.9966,23.741,0:40.6382,22.9369,0:38.2372,21.7407,0:39.6679,20.8512,0:35.3325,25.1346,0&label=%CE%91%CE%B8%CE%AE%CE%BD%CE%B1:%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7:%CE%A0%CE%AC%CF%84%CF%81%CE%B1:%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B9%CE%BD%CE%B1:%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF&css=/css/horizontal-num140.css&color=GREY");</script></div>
+  </div>
+</div>
+<div class="menu"><ul><li class="homelink"><a href="default.asp"><img src="images/home.png" border="0" /></a></li><li><a href="summary.asp?catid=22767">ΠΟΛΙΤΙΚΗ</a><ul><li><a href="summary.asp?catid=23141">ΠΑΡΑΠΟΛΙΤΙΚΑ</a><ul></ul></li><li><a href="summary.asp?catid=22815">ΣΚΙΤΣA</a><ul></ul></li></ul></li><li><a href="summary.asp?catid=22768">ΚΟΙΝΩΝΙΑ</a><ul></ul></li><li><a href="summary.asp?catid=22770">ΟΙΚΟΝΟΜΙΑ</a><ul></ul></li><li class="active"><a href="summary.asp?catid=22769">ΔΙΕΘΝΗ</a><ul><li><a href="summary.asp?catid=22777">ΑΛΛΗ ΟΨΗ</a><ul></ul></li></ul></li><li><a href="summary.asp?catid=23106">ΠΕΡΙΒΑΛΛΟΝ</a><ul></ul></li><li><a href="summary.asp?catid=22782">ΑΡΘΡΟΓΡΑΦΙΑ</a><ul></ul></li><li><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140">ΕΘΝΟΣΠΟΡ</a><ul></ul></li><li><a href="summary3.asp?catid=22784">ΠΟΛΙΤΙΣΜΟΣ</a><ul><li><a href="summary3.asp?catid=23668">ΑΤΖΕΝΤΑ</a><ul></ul></li><li><a href="summary3.asp?catid=23138">ΠΡΟΣΩΠΑ</a><ul></ul></li><li><a href="summary3.asp?catid=23139">SHOWBIZ</a><ul></ul></li><li><a href="summary3.asp?catid=22800">ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</a><ul></ul></li><li><a href="summary3.asp?catid=23136">ΘΕΑΤΡΟ</a><ul></ul></li><li><a href="summary3.asp?catid=23137">ΜΟΥΣΙΚΗ</a><ul></ul></li><li><a href="summary3.asp?catid=23135">ΕΙΚΑΣΤΙΚΑ</a><ul></ul></li><li><a href="summary3.asp?catid=22802">ΒΙΒΛΙΟ</a><ul></ul></li><li><a href="summary3.asp?catid=23610">ΦΕΣΤΙΒΑΛ</a><ul></ul></li></ul></li><li><a href="entheta.asp?catid=23555">ΕΝΘΕΤΑ</a><ul><li><a href="entheta.asp?catid=23353">ΕΠΑΓΓΕΛΜΑΤΙΚΕΣ ΕΥΚΑΙΡΙΕΣ</a><ul></ul></li><li><a href="entheta.asp?catid=22813">ΕΡΓΑΣΙΑ</a><ul></ul></li><li><a href="entheta.asp?catid=22814">ΠΑΙΔΕΙΑ</a><ul></ul></li><li><a href="entheta.asp?catid=23343">ΣΥΝΤΑΞΕΙΣ</a><ul></ul></li><li><a href="entheta.asp?catid=22820">ΚΥΝΗΓΙ</a><ul></ul></li><li><a href="entheta.asp?catid=24300">ΥΓΕΙΑ</a><ul></ul></li><li><a href="entheta.asp?catid=25810">FORUM</a><ul></ul></li><li><a href="entheta.asp?catid=22821">ΨΑΡΕΜΑ & ΦΟΥΣΚΩΤΟ</a><ul></ul></li><li><a href="http://www.e-go.gr/wmotors/r.asp?catid=15645">WHEELS + MOTORS</a><ul></ul></li><li><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140">ΕΘΝΟΣΠΟΡ</a><ul></ul></li><li><a href="entheta.asp?catid=23309">REPORTAGE</a><ul></ul></li><li><a href="entheta.asp?catid=23513">ΤΑΞΙΔΙ</a><ul></ul></li><li><a href="entheta.asp?catid=23958">COOK BOOK</a><ul></ul></li></ul></li><li><a href="entheta.asp?catid=23508">TV ΕΘΝΟΣ</a><ul></ul></li><li><a href="summary.asp?catid=23657">ΧΡΗΣΙΜΑ</a><ul><li><a href="summary.asp?catid=23657">ΣΑΝ ΣΗΜΕΡΑ</a><ul></ul></li><li><a href="summary.asp?catid=23671">ΚΑΙΡΟΣ</a><ul></ul></li><li><a href="summary.asp?catid=23652">ΦΑΡΜΑΚΕΙΑ</a><ul></ul></li><li><a href="summary.asp?catid=23653">ΝΟΣΟΚΟΜΕΙΑ</a><ul></ul></li><li><a href="summary.asp?catid=23655">ΔΡΟΜΟΛΟΓΙΑ ΠΛΟΙΩΝ</a><ul></ul></li></ul></li><div class="clear"></div></ul><div class="search_btn"><img src="images/search_btn.gif" title="<br />κάντε κλικ για <b>αναζήτηση</b>" border="0" /></div><div class="clear"></div></div>
+<div class="searchbar">
+<script> 
+function updateFormActionEthnos(){
+ document.getElementById("catid").value  = "23552";
+}
+function updateFormActionWeb(){
+ document.getElementById("catid").value = "23552";
+}
+function updateFormActionFile() {
+ document.getElementById("catid").value = "23551";
+}
+</script>
+
+
+<!-- SiteSearch Google -->
+<div class="googlebox">
+
+<form method="get" action="summary.asp" target="_top">
+<table border="0"  cellpadding="0" cellspacing="0" align=right>
+
+<tr>
+<td nowrap="nowrap" align="left">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<input class="radiobtn" type="radio" name="sitesearch" value="www.ethnos.gr" checked id="ss1" onclick="updateFormActionEthnos()"></input>
+<label for="ss1" title="Search www.ethnos.gr">ethnos.gr</label></td>
+<td>
+<input class="radiobtn" type="radio" name="sitesearch" value="" id="ss2" onclick="updateFormActionFile()"></input>
+<label for="ss0" title="Search the Web">Αρχείο</label></td>
+<td>
+<input class="radiobtn" type="radio" name="sitesearch" value="" id="ss0" onclick="updateFormActionWeb()"></input>
+<label for="ss0" title="Search the Web">Web</label></td>
+</tr>
+</table>
+</td>
+
+<td rowspan="2" class="glogo"><img src="images/google_logo.gif" border="0" /></td> 
+<td><h1>ΑΝΑΖΗΤΗΣΗ</h1></td>
+<td nowrap="nowrap">
+
+<input type="hidden" name="domains" value="www.ethnos.gr"></input>
+<label for="sbi" style="display: none">Enter your search terms</label>
+<input class="ginput" type="text" name="q" size="31" maxlength="255" value="" id="sbi"></input>
+<label for="sbb" style="display: none">Submit search form</label>
+<input class="gsubmit" type="submit" name="sa" value="ΑΝΑΖΗΤΗΣΗ" id="sbb"></input>
+<input type="hidden" name="client" value="pub-9628004899418467"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="channel" value="0325243089"></input>
+<input type="hidden" name="ie" value="utf-8"></input>
+<input type="hidden" name="oe" value="utf-8"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:11"></input>
+<input type="hidden" name="hl" value="el"></input>
+<input type="hidden" name="catid" id="catid" value="23552"></input>
+</td>
+</tr>
+
+
+</table>
+</form>
+</div>
+<!-- SiteSearch Google --></div>
+
+
+
+
+
+<script>
+$(document).ready(function() {
+$(".search_btn").click(function () {
+      var status = $(".searchbar").css("display");
+      if(status == "block"){
+           $(".searchbar").css("display","none");
+           $("div.menu").css("marginBottom","18px");
+      }else{
+           $(".searchbar").css("display","block");      
+           $("div.menu").css("marginBottom","1px");
+      }
+});
+});
+</script>
+
+
+<div class="catpath">
+<h1><a href="summary.asp?catid=22769">ΔΙΕΘΝΗ</a></h1>
+<h2>ΒΡΙΣΚΕΣΤΕ ΕΔΩ:  <a href="summary.asp?catid=22769">ΔΙΕΘΝΗ</a></h2></div>
+<div class="container">
+    <div class="leftcol"><div class="toolsleft">
+  <div class="date">ΕΘΝΟΣ<br />«E»&nbsp;30/12/2011</div>
+  <div class="artbuttons">
+
+  <table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+   <td><a href="javascript:void(0);" onclick="increaseFont()" id="plustext"><img src="images/Nfont2_b.gif" alt="Μεγαλύτερα Γράμματα" border="0"></a><a href="javascript:void(0);" onclick="decreaseFont()" id="minustext"><img src="images/Nfont2_s.gif" alt="Μικρότερα Γράμματα" border="0"></a> Μέγεθος γραμμάτων</td>
+</tr><tr>
+  <td class='toolsclear'>
+<span class="mailspan"><a href="#" onclick="window.open('mailto.asp?catid=22769&subid=12&pubid=63596698', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">
+<img src="images/Nmailto2.gif" alt="mail to" border="0">
+</a><a href="#" onclick="window.open('mailto.asp?catid=22769&subid=12&pubid=63596698', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">Email</a>
+ </span>
+
+<span><a href="#" onclick="window.open('v5general2print.asp?catid=22769&subid=20110&pubid=63596698', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+<img src="images/Ntoprint2.gif" border=0 alt="Εκτυπώστε το Αρθρο">
+</a>
+ <a href="#" onclick="window.open('v5general2print.asp?catid=22769&subid=20110&pubid=63596698', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+Εκτύπωση</a></span>
+</td>
+  </tr>
+<tr>
+<td><div>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.ethnos.gr/article%2Easp%3Fcatid%3D22769%26subid%3D2%26pubid%3D63596698&layout=button_count&show_faces=false&width=150&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></div></td>
+  </tr>
+<tr>
+<td class="twittertd">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</td>
+</tr>
+  </table>   </div>
+  <div class="divider"></div>
+
+<div class="clear"></div>
+
+<div id="prototype_21216">
+
+  <div class="restarts"><h1><div class="title">ΔΙΕΘΝΗ:</div> ΔΙΑΒΑΣΤΕ ΑΚΟΜΑ</h1><ul><li><a href="article.asp?catid=22769&subid=2&pubid=63603172">Φόβοι για δεκάδες νεκρούς στο ναυάγιο του Concordia</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63603170">Σκόπια: «Κήδεψαν» την Ελλάδα και έκαψαν την γαλανόλευκη</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63603132">Ευρωπαϊκή δυσφορία για τις υποβαθμίσεις </a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63602630">Σε «γκούλαγκ» επειδή δεν έκλαψαν τον Κιμ Γιονγκ</a> <span class="pubdate">13/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63602726">«Πόλεμος» κυρώσεων κατά του Ιράν από τις ΗΠΑ
+
+</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63603166">Την αποστολή στρατευμάτων στη Συρία προτείνει το Κατάρ</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63602774">Πέθανε ο Ραούφ Ντενκτάς</a> <span class="pubdate">13/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63602730">Καυτά μέτωπα για τον Μόντι
+
+</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63603149">Στα 5,4 εκατ. οι άνεργοι στην Ισπανία </a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63602725">Διαδηλώσεις και άγρια καταστολή χωρίς τέλος
+
+</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63602729">Η Μιανμάρ πιο κοντά στη Δύση
+
+</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63603007">Τρεις νεκροί και 70 αγνοούμενοι στο ναυάγιο του Concordia- Σώοι οι Ελληνες επιβάτες</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63602728">Αναγνωρίστηκαν οι δύο από τους τέσσερις πεζοναύτες
+
+</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63602727">Αποσύρει δυνάμεις από την Ευρώπη
+
+</a> <span class="pubdate">14/1</span></li><li><a href="article.asp?catid=22769&subid=2&pubid=63602732">Λαθρεμπόριο όπλων από τον γιο της Θάτσερ
+
+</a> <span class="pubdate">14/1</span></li></ul></div>
+<div class="clear"></div><div class="pag"><table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="images/arrow_prev_off.gif" border="0" /></td> <td><span class="link"><a href="JAVASCRIPT:reloadPrototypeElement('21216','catid=22769&subid=2&pubid=63596698&page1=1')"><b>1</b></a></span><span class="link"><a href="JAVASCRIPT:reloadPrototypeElement('21216','catid=22769&subid=2&pubid=63596698&page1=2')">2</a></span><span class="link"><a href="JAVASCRIPT:reloadPrototypeElement('21216','catid=22769&subid=2&pubid=63596698&page1=3')">3</a></span></td> <td><a href="JAVASCRIPT:reloadPrototypeElement('21216','catid=22769&subid=2&pubid=63596698&page1=2')"><img src="images/arrow_next_on.gif" border="0" /></a></td></tr></table></div></div><script>addPrototypeElement('21216','AJAXREST','incl/v5EthnosRestArticlesAjax_21216.asp','pageid=639&catid=22769&subid=2&pubid=63596698&catidlocal=22769&subidlocal=2',false);</script><div class="ban120300"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=29&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=29&dfl=yes&js=no" border="0" width="160" height="600" alt="" /></a><br />
+</noscript>
+<script language="javascript" type="text/javascript">
+// <![CDATA[[
+if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>');
+var now=parseInt((new Date()).getTime());
+if (!window.admantpid) window.admantpid = now;
+var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|29/160x600"+burst+"/\">");
+document.write("</"+"sc"+"ript>");
+// ]]>
+</script>
+<!-- end AdMan code --></div><div class="banbottom"></div>
+</div>
+
+<div class="text" id="arttext">
+<h5>ΤΣΑΒΕΣ: ΔΕΝ ΚΑΤΗΓΟΡΩ ΚΑΝΕΝΑΝ, ΑΛΛΑ...
+
+</h5>
+<h1>«Περίεργη η επιδημία καρκίνου σε αριστερούς»
+
+</h1>
+<h2><p>
+	Αίσθηση έχει προκαλέσει ο ισχυρισμός του προέδρου της Βενεζουέλας, Ούγκο Τσάβες, ότι πιθανόν οι ΗΠΑ να ευθύνονται για την εμφάνιση καρκίνου στον ίδιο, αλλά και σε μια σειρά ηγετών κρατών της Λατινικής Αμερικής, με τελευταία περίπτωση αυτήν της Κριστίνα Φερνάντεζ Κίρσνερ, της Αργεντινής.</p>
+</h2>
+<div class="PHOTOmain"><a href="http://content-mcdn.ethnos.gr/filesystem/images/20111230/low/assets_LARGE_t_420_54016835.JPG" rel="lightbox-group1" title=""><img src="http://content-mcdn.ethnos.gr/filesystem/images/20111230/engine/assets_LARGE_t_420_54016835_type12128.jpg"  border="0" alt="«Περίεργη η επιδημία καρκίνου σε αριστερούς»  " /></a></div><p>	Αίσθηση έχει προκαλέσει ο ισχυρισμός του προέδρου της Βενεζουέλας, Ούγκο Τσάβες, ότι πιθανόν οι ΗΠΑ να ευθύνονται για την εμφάνιση καρκίνου στον ίδιο, αλλά και σε μια σειρά ηγετών κρατών της Λατινικής Αμερικής, με τελευταία περίπτωση αυτήν της Κριστίνα Φερνάντεζ Κίρσνερ, της Αργεντινής.</p><p>	Ο γνωστός για τις... αιρετικές του απόψεις Τσάβες είχε εκφράσει αυτήν του τη σκέψη σε μια ομιλία του προς τις ένοπλες δυνάμεις της χώρας του λίγο μετά την προχθεσινή ανακοίνωση για την κατάσταση της προέδρου της Αργεντινής και την επανέλαβε χθες, αναλύοντας περισσότερο τη σκέψη του.</p><p>	Σύμφωνα με τον πρόεδρο της Βενεζουέλας (που και αυτός είχε εμφανίσει καρκίνο και τους τελευταίους μήνες παλεύει ενάντια στη νόσο με χημειοθεραπείες και εγχειρήσεις στην Κούβα), «θα ήταν τόσο περίεργο να έχουν ανακαλύψει τεχνολογίες για την εξάπλωση του καρκίνου και να μην το μάθουμε παρά μόνο μετά από 50 χρόνια;».</p><p>	Μάλιστα, όπως συμπλήρωσε: «Δεν ξέρω αλλά είναι περίεργο να εμφανίζουν καρκίνο ο Λούγο, η Ντίλμα ως υποψήφια πρόεδρος, εγώ σε χρονιά εκλογών, παλαιότερα ο Λούλα και τώρα η Κριστίνα.</p><p>	Επαναλαμβάνω: Δεν κατηγορώ κανέναν. Απλά εκμεταλλεύομαι την ελευθερία μου να μιλάω και να εκφράζω τις σκέψεις μου όταν έρχομαι αντιμέτωπος με κάποια περιστατικά ιδιαίτερα περίεργα και δυσεξήγητα».</p><p>	Σημειώνεται ότι ο πρόεδρος της Παραγουάης Φερνάντο Λούγο, η πρόεδρος της Βραζιλίας Ντίλμα Ρούσεφ, ο πρώην πρόεδρος της Βραζιλίας Λουίς Ινάσιο Λούλα Ντα Σίλβα, ο Ούγκο Τσάβες και η Κριστίνα Φερνάντεζ Κίρσνερ έχουν εμφανίσει όλοι καρκίνο και όλοι προσδιορίζονται ως αριστεροί.</p>
+
+<div class="forum"></div>
+
+
+
+
+<!------------ GALLERY ----------------->
+
+
+<div class="clear"></div>
+
+<div class="belowArticle"><table border="0" cellpadding="1" cellspacing="0" align="center">
+ <tr >
+  <td>
+   <span><a href="#" onclick="window.open('v5general2print.asp?catid=22769&subid=20110&pubid=63596698', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+<img src="images/Ntoprint2.gif" border=0 alt="Εκτυπώστε το Αρθρο">
+</a></td><td>
+ <a href="#" onclick="window.open('v5general2print.asp?catid=22769&subid=20110&pubid=63596698', 'print' , 'scrollbars=yes,status=yes,toolbar=yes,location=yes,menu=yes,width=630,height=590')">
+Εκτύπωση </a></span>
+  </td>
+  <td>
+   <span class="mailspan"><a href="#" onclick="window.open('mailto.asp?catid=22769&subid=12&pubid=63596698', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">
+    <img src="images/Nmailto2.gif" alt="mail to" border="0">
+</a></td><td><a href="#" onclick="window.open('mailto.asp?catid=22769&subid=12&pubid=63596698', 'mailto' , 'scrollbars=no,status=no,toolbar=no,location=no,menu=no,width=430,height=400')">Email</a>
+ </span>
+</td>
+<td><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.ethnos.gr/article%2Easp%3Fcatid%3D22769%26subid%3D2%26pubid%3D63596698&layout=button_count&show_faces=false&width=120&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe></td>
+<td class="twittertd">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</td>
+</td>
+<td>
+<a onmouseover="ReverseContentDisplay('contactHoverBox'); return true;" href="javascript:ReverseContentDisplay('contactHoverBox')">
+<img src="images/contact.gif" border=0 alt="Επικοινωνία"></a></td><td><a onmouseover="ReverseContentDisplay('contactHoverBox'); return true;" href="javascript:ReverseContentDisplay('contactHoverBox')">
+Επικοινωνία</a></td>
+</tr>
+</table>
+</div>
+<div id="contactHoverBox">
+<img src="images/ethnosContactBoxArrow.jpg" /><div class="wline"></div>
+<div id="HoverBoxborder">
+<h1>ΕΠΙΚΟΙΝΩΝΙΑ</h1>
+<table border="0" cellpadding="0" cellspacing="8">
+<tr><td valign="top">
+Απόκτηση παλαιότερων τευχών, φύλλων & προσφορών <a href="mailto:chrisoulam@pegasus.gr">chrisoulam@pegasus.gr</a>
+</td>
+<td valign="top">Πληροφορίες για διαφήμιση στην έντυπη έκδοση <a href="mailto:pzante@pegasus.gr">pzante@pegasus.gr</a>
+</td>
+</tr><tr>
+<td valign="top">Αποστολή βιογραφικών <a href="mailto:emavroudi@pegasus.gr">emavroudi@pegasus.gr</a></td>
+<td valign="top">Πληροφορίες για διαφήμιση στην ηλεκτρονική έκδοση <a href="mailto:advertising@pegasusinteractive.gr">advertising@pegasusinteractive.gr</a></td>
+</tr></table>
+</div>
+</div><div class=googlearticle><link rel="stylesheet" type="text/css" href="ethnosadstyles.css" />
+<script language="JavaScript">
+var google_adnum = 0;
+function google_ad_request_done(google_ads) {
+var s = '';
+var i;
+if (google_ads.length == 0) {
+return;
+}
+if (google_ads[0].type == "flash") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' + 
+'<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' + 
+google_ad.image_width +	'" HEIGHT="' + 
+google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' + 
+google_ad.image_url + '">' + 
+'<PARAM NAME="quality" VALUE="high">' + 
+'<PARAM NAME="AllowScriptAccess" VALUE="never">' + 
+'<EMBED src="' + 
+google_ad.image_url + '" WIDTH="' + 
+google_ad.image_width + '" HEIGHT="' + 
+google_ad.image_height + 
+'" TYPE="application/x-shockwave-flash"' + 
+' AllowScriptAccess="never" ' + 
+' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+} else if (google_ads[0].type == "image") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br> <a href="' + 
+google_ads[0].url + '" target="_top" title="go to ' + 
+google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + 
+google_ads[0].visible_url + '\';return true"><img border="0" src="' + 
+google_ads[0].image_url + '"width="' + 
+google_ads[0].image_width + '"height="' + 
+google_ads[0].image_height + '"></a>';
+} else if (google_ads[0].type == "html") {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' + 
+google_ads[0].snippet;
+} else {
+if (google_ads.length == 1) {
+s += '<a href=\"' +
+google_info.feedback_url + '\" style="color:000000">Ads by Google</a> <a style="text-decoration:none" href="' + 
+google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[0].visible_url + '\';return true"> <span style="text-decoration:underline;font-size:20pt"> <b>' + 
+google_ads[0].line1 + '</b><br></span></a> <span style="color:#000000; font-size:16pt">' +
+google_ads[0].line2 + '&nbsp;' +
+google_ads[0].line3 + '<br></span> <a style="color:#008000;font-size:44pt;text-decoration:none" href="' + 
+google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[0].visible_url + '\';return true"><span>' + 
+google_ads[0].visible_url + '</span></a><br>';
+} else if (google_ads.length > 1) {
+s += "<table id=\"ethnosgads\" cellspacing=\"0\" cellpadding=\"0\">"; 
+s += "  <tr>";
+s += "    <td id=\"head\">";
+s += '<a href=\"' + google_info.feedback_url + '\">Ads by Google</a>'
+s += " <\/td>";
+s += "  <\/tr>";
+s += "  <tr>";
+s += "    <td>";
+for(i = 0; i < google_ads.length; ++i) {
+s += '<br><a id=\"title\" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true"> <span>' + 
+google_ads[i].line1 + '</span></a> <span>' +
+google_ads[i].line2 + '</span><br/> <a id=\"adlink\" href="' + 
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true"><span>' + 
+google_ads[i].visible_url + '</span></a><br>';
+}
+s += "   &nbsp;<\/td>";
+s += "  <\/tr>";
+s += "<\/table>";
+}}
+if (google_ads[0].bidtype == "CPC") {
+google_adnum = google_adnum + google_ads.length;
+}
+document.write(s);
+return;
+}
+google_ad_client = 'pub-9628004899418467';
+google_ad_channel = '7821180107';
+google_ad_output = 'js';
+google_max_num_ads = '4';
+google_ad_type = 'text';
+google_feedback = 'on';
+google_encoding = 'UTF-8';
+google_adtest = 'off';
+google_language = 'el';
+</script>
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+</div><div class="clear"></div>
+
+<div class="tabsbot"></div>
+
+<script language=language='javascript' type='text/javascript'>setInitialTipEnvironment('bubbleSpan','tipDiv',100,350,'<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top" class="tipContainer"><div class="advContent">','</div></td><td width="10" class="rightSide"> </td></tr><tr><td height="10" class="bottomSide" align="center"><img src="js/contextual/images/arrow.png" class="arrow"></td><td height="10" class="bottomRight"></td></tr></table>')</script></div>
+    <div class="rightcol"><div class="tabakia" id="accordion">
+<h1 class="tt" ><div  >ΤΑ ΠΙΟ ΔΗΜΟΦΙΛΗ</div></h1>
+<div><h2><a href="article.asp?catid=22768&subid=2&pubid=63602777">Ληστής νεκρός σε συμπλοκή με αστυνομικούς στα Μέγαρα</a> <span class="more">[ 23:18 13/1 ]</span></h2><h2><a href="article.asp?catid=22769&subid=2&pubid=63603007">Τρεις νεκροί και 70 αγνοούμενοι στο ναυάγιο του Concordia- Σώοι οι Ελληνες επιβάτες</a> <span class="more">[ 07:50 14/1 ]</span></h2><h2><a href="article.asp?catid=22767&subid=2&pubid=63603139">Παπανδρέου: Εκλογή από τη βάση τον Μάρτιο - Δεν συναινώ σε άλλη πρόταση</a> <span class="more">[ 17:12 14/1 ]</span></h2><h2><a href="article.asp?catid=22770&subid=2&pubid=63602750">Νόμιμα όλα τα καταπατημένα</a> <span class="more">[ «E» 14/1 ]</span></h2><h2><a href="article.asp?catid=22767&subid=2&pubid=63602723">Ερευνα για το «πόθεν έσχες»
+
+</a> <span class="more">[ «E» 14/1 ]</span></h2></div>
+
+<h1 class="tt" ><div  >ΤΕΛΕΥΤΑΙΑ ΝΕΑ - ΠΟΛΙΤΙΚΗ</div></h1>
+<div><h2><a href="article.asp?catid=22767&subid=2&pubid=63603164">Η ομιλία του Γ. Παπανδρέου στο ΕΘνικό Συμβούλιο</a> <span class="more">[ 20:50 14/1 ]</span></h2><h2><a href="article.asp?catid=22767&subid=2&pubid=63603161">Ντόρα: Ο κίνδυνος της χρεοκοπίας δεν έχει εκλείψει </a> <span class="more">[ 20:17 14/1 ]</span></h2><h2><a href="article.asp?catid=22767&subid=2&pubid=63603159">Τσίπρας: Δημοκρατική εκτροπή η νομοθετική πράξη για τους μισθούς</a> <span class="more">[ 20:07 14/1 ]</span></h2><h2><a href="article.asp?catid=22767&subid=2&pubid=63603155">Γκάλοπ: Προβάδισμα 16,5 μονάδων της ΝΔ  </a> <span class="more">[ 19:44 14/1 ]</span></h2><h2><a href="article.asp?catid=22767&subid=2&pubid=63603150">Μιχελάκης: «Αμετανόητος ο Παπανδρέου»</a> <span class="more">[ 18:35 14/1 ]</span></h2></div>
+
+<h1 class="tt" ><div  >ΤΕΛΕΥΤΑΙΑ ΝΕΑ - ΚΟΙΝΩΝΙΑ</div></h1>
+<div><h2><a href="article.asp?catid=22768&subid=2&pubid=63603163">Συνελήφθησαν Τούρκοι που διακινούσαν λαθρομετανάστες</a> <span class="more">[ 20:53 14/1 ]</span></h2><h2><a href="article.asp?catid=22768&subid=2&pubid=63603127">Στον εισαγγελέα η υπόθεση για το «καζίνο» της Συγγρού</a> <span class="more">[ 15:06 14/1 ]</span></h2><h2><a href="article.asp?catid=22768&subid=2&pubid=63602724">Κλείνει ο κύκλος της εξέτασης
+
+</a> <span class="more">[ «E» 14/1 ]</span></h2><h2><a href="article.asp?catid=22768&subid=2&pubid=63602733">Καμπάνες στους δήμους για τη διαχείριση των απορριμμάτων
+
+</a> <span class="more">[ «E» 14/1 ]</span></h2><h2><a href="article.asp?catid=22768&subid=2&pubid=63602735">Χωρίς δουλειά και μέλλον η γενιά της κρίσης
+
+</a> <span class="more">[ «E» 14/1 ]</span></h2></div>
+
+<h1 class="tt" ><div  >ΤΕΛΕΥΤΑΙΑ ΝΕΑ - OIKONOMIA</div></h1>
+<div><h2><a href="article.asp?catid=22770&subid=2&pubid=63603174">Οργανωμένες επιθέσεις κατά του ευρώ καταγγέλλει ο Ρέσλερ</a> <span class="more">[ 22:28 14/1 ]</span></h2><h2><a href="article.asp?catid=22770&subid=2&pubid=63603156">Συγκράτηση μισθών και αύξηση παραγωγικότητας προτείνει ο Ράιχενμπαχ</a> <span class="more">[ 19:46 14/1 ]</span></h2><h2><a href="article.asp?catid=22770&subid=2&pubid=63603153">Οριστική κατάρρευση των διαπραγματεύσεων φοβάται η S&P </a> <span class="more">[ 19:11 14/1 ]</span></h2><h2><a href="article.asp?catid=22770&subid=2&pubid=63603129">«Θα τα βρούμε με τους πιστωτές»</a> <span class="more">[ 15:34 14/1 ]</span></h2><h2><a href="article.asp?catid=22770&subid=2&pubid=63602748">Η διαγνωστική μελέτη παραδόθηκε στην ΤτΕ
+
+</a> <span class="more">[ «E» 14/1 ]</span></h2></div>
+
+<h1 class="tt" ><div  >ΕΘΝΟΣΠΟΡ</div></h1>
+<div><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=128923130" target="_blank">Η συνάντηση κορυφής και ο Λούτσο Γκονζάλες
+
+</a> <span class="more">[ 12:16 14/1 ]</span></h2><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=128923162" target="_blank">Στα Γιάννενα κουβαλά το βάρος του αποκλεισμού
+
+</a> <span class="more">[ 12:16 14/1 ]</span></h2><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=128923163" target="_blank">«Καμπανάκι» από Κωστένογλου </a> <span class="more">[ 12:16 14/1 ]</span></h2><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=128923164" target="_blank">Πήρε τον «νόμο» στα χέρια του</a> <span class="more">[ 12:16 14/1 ]</span></h2><h2><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140&subid=2&pubid=128923165" target="_blank">Το Μιλάνο χωρίζεται στα δύο</a> <span class="more">[ 12:16 14/1 ]</span></h2></div>
+
+
+</div>
+<script>
+	
+jQuery('#accordion').accordion({ header: 'h1',selectedClass:'active',autoheight:false});
+</script><div class="banner300250"><!-- begin AdMan code (C) Phaistos Networks S.A [ http://www.phaistosnetworks.gr/ ] -->
+<noscript>
+<a title="Adman Banner" href="http://ads.e-go.gr/click?webspace=31&dfl=yes"><img src="http://ads.e-go.gr/banner?webspace=31&dfl=yes&js=no" border="0" width="300" height="250" alt="" /><br /></a>
+</noscript>
+<script language="javascript" type="text/javascript">
+rnd = Math.floor(Math.random()*900000)+100;
+now = parseInt((new Date()).getTime());
+burst="?"+rnd+":?";
+document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|31/300x250"+burst+"/\">");
+document.write("</sc"+"ript>");
+</script>
+<!-- end AdMan code --></div><div class="banbottom"></div><div class="banner300250"><a href="http://www.elle.gr/" target="_new"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20111218/low/adverts_LARGE_t_1101_54012571.JPG" border="0" alt=""></a></div><div class="banbottom"></div><script type="text/javascript">
+
+/*** 
+    Simple jQuery Slideshow Script
+    Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :)
+***/
+
+function slideSwitch() {
+    var $active = $('#promoshow li.active');
+
+    if ( $active.length == 0 ) $active = $('#promoshow li:last');
+
+    // use this to pull the images in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next()
+        : $('#promoshow li:first');
+
+    // uncomment the 3 lines below to pull the images in random order
+    
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+$(function() {
+    setInterval( "slideSwitch()", 22000 );
+});
+
+</script>
+
+
+<style type="text/css">
+#promoshow {
+  background: url("images/divider_lines.gif") repeat-x scroll center bottom transparent;
+  margin: 0 0 15px;
+  min-height: 180px;
+  padding: 0 0 25px;
+  position: relative;
+  width: 300px;
+}
+
+#promoshow li {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    list-style: none;
+    opacity:0.0;
+}
+
+#promoshow li.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#promoshow li.last-active {
+    z-index:9;
+}
+
+</style>
+<div id="promoshow"><li class="active"><script type="text/javascript">if (typeof multimediawrite!="undefined") {multimediawrite('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>'); } else { document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>');};</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object></noscript></li>
+</div><div class="viewsbox">
+<h3><a href="summary.asp?catid=22782">ΑΡΘΡΟΓΡΑΦΙΑ</a></h3>
+<div id="rightviews"><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22786"><img src="images/titles/gnomi.jpg" border="0" /></a></td><td><h2><a href="article.asp?catid=22786&subid=2&pubid=63602713">ΕΘΝΟΣ ΓΝΩΜΗ</a></h2><h1><a href="article.asp?catid=22786&subid=2&pubid=63602713">Θυσίες με αντίκρισμα</a> <span class="more">[ «E» 14/1 ]<a href="article.asp?catid=22786&subid=2&pubid=63602713">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22790"><img src="images/titles/bartzino.jpg" border="0" /></a></td><td><h2><a href="article.asp?catid=22790&subid=2&pubid=63602334">ΕΡΡΙΚΟΣ ΜΠΑΡΤΖΙΝΟΠΟΥΛΟΣ</a></h2><h1><a href="article.asp?catid=22790&subid=2&pubid=63602334">Οι συνέπειες μιας καθυστέρησης</a> <span class="more">[ «E» 13/1 ]<a href="article.asp?catid=22790&subid=2&pubid=63602334">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22791"><img src="images/titles/panpan.jpg" border="0" /></a></td><td><h2><a href="article.asp?catid=22791&subid=2&pubid=63602703">ΠΑΝΑΓΙΩΤΗΣ ΠΑΝΑΓΙΩΤΟΥ</a></h2><h1><a href="article.asp?catid=22791&subid=2&pubid=63602703">Το δύσκολο «στοίχημα» του ΠΑΣΟΚ</a> <span class="more">[ «E» 14/1 ]<a href="article.asp?catid=22791&subid=2&pubid=63602703">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22792"><img src="images/titles/apopsis-delastik.jpg" border="0" /></a></td><td><h2><a href="article.asp?catid=22792&subid=2&pubid=63602338">ΓΙΩΡΓΟΣ ΔΕΛΑΣΤΙΚ</a></h2><h1><a href="article.asp?catid=22792&subid=2&pubid=63602338">Οι τράπεζες τσέπωσαν το μισό τρισ.!</a> <span class="more">[ «E» 13/1 ]<a href="article.asp?catid=22792&subid=2&pubid=63602338">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22793"><img src="images/titles/apopsis-lirtsogiannis.jpg" border="0" /></a></td><td><h2><a href="article.asp?catid=22793&subid=2&pubid=63602745">ΘΑΝΑΣΗΣ ΛΥΡΤΣΟΓΙΑΝΝΗΣ</a></h2><h1><a href="article.asp?catid=22793&subid=2&pubid=63602745">Πλασματική η σύνδεση αποδοχών και ανεργίας</a> <span class="more">[ «E» 14/1 ]<a href="article.asp?catid=22793&subid=2&pubid=63602745">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=24762"><img src="images/titles/apopsis-ignatiou.jpg" border="0" /></a></td><td><h2><a href="article.asp?catid=24762&subid=2&pubid=63599704">ΜΙΧΑΛΗΣ ΙΓΝΑΤΙΟΥ</a></h2><h1><a href="article.asp?catid=24762&subid=2&pubid=63599704">Η Κύπρος ξανά στο μάτι του κυκλώνα</a> <span class="more">[ «E» 7/1 ]<a href="article.asp?catid=24762&subid=2&pubid=63599704">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=24634"><img src="images/titles/apopsis-lampsias.jpg" border="0" /></a></td><td><h2><a href="article.asp?catid=24634&subid=2&pubid=63599705">ΠΑΝΑΓΙΩΤΗΣ ΛΑΜΨΙΑΣ</a></h2><h1><a href="article.asp?catid=24634&subid=2&pubid=63599705">Παπική αυθεντία</a> <span class="more">[ «E» 7/1 ]<a href="article.asp?catid=24634&subid=2&pubid=63599705">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=23779"><img src="images/titles/apopsis-maxairas.jpg" border="0" /></a></td><td><h2><a href="article.asp?catid=23779&subid=2&pubid=63602704">ΧΡΗΣΤΟΣ ΜΑΧΑΙΡΑΣ</a></h2><h1><a href="article.asp?catid=23779&subid=2&pubid=63602704">Τα δύο διλήμματα</a> <span class="more">[ «E» 14/1 ]<a href="article.asp?catid=23779&subid=2&pubid=63602704">...»</a></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" border="0"><tr><td class="phto"><a href="article.asp?catid=22788"><img src="images/spacer.gif" width="90" border="0" /></a></td><td><h2><a href="article.asp?catid=22788&subid=2&pubid=63602714">ΕΠΩΝΥΜΩΣ</a></h2><h1><a href="article.asp?catid=22788&subid=2&pubid=63602714">Η κρίση δεν ανακυκλώνεται</a> <span class="more">[ «E» 14/1 ]<a href="article.asp?catid=22788&subid=2&pubid=63602714">...»</a></span></h1></td></tr></table></div>
+</div><div class="clear"></div>
+
+<table cellpadding=0 cellspacing=0 class="advright" border="0">
+
+<tr><td colspan="2"><h3>ΠΡΟΤΑΣΕΙΣ</h3><!-- img src="images/advs_right.jpg"--></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td valign="middle"><div class="protaseis"><div class="advl"><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D23471%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fgineproedros%252Eethnosport%252Egr%252Fdefault%252Easp%26npubid%3D5442813'));"><img src="http://content-mcdn.ethnos.gr/filesystem/images/20111228/low/pegasus_LARGE_t_1101_54016216.JPG" border="0"></a></div> <div class="advr"><h1><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D23471%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fgineproedros%252Eethnosport%252Egr%252Fdefault%252Easp%26npubid%3D5442813'));"></a></h1><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D23471%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fgineproedros%252Eethnosport%252Egr%252Fdefault%252Easp%26npubid%3D5442813'));"><center>Κάνε την εγγραφή σου <span style="color:#ff0000;"><strong>ΤΩΡΑ</strong></span> και κέρδισε μεγάλα δώρα!</center></a><h2><a href="JAVASCRIPT:void(window.open('http%3A%2F%2Fstats%2Ee%2Dgo%2Egr%2Frx%2Easp%3FnWebSrvID%3D110000%26nCatID%3D23471%26nLevelId%3D%2D2%26target%3Dhttp%253A%252F%252Fgineproedros%252Eethnosport%252Egr%252Fdefault%252Easp%26npubid%3D5442813'));"></a></h2></div><div class="clear"></div></div><div class="protaseisbot"></div></td></tr>
+<tr><td colspan="2"><style>
+.deal {
+	border: 1px solid #1971a3;
+	padding: 0;
+	margin: 10px 0 0 2px;
+	text-align: left;
+	width: 300px;
+        background: white;
+}
+
+.deal td.logo {
+	margin: 0;
+	padding: 0 14px 8px 8px;
+        background: none;
+        width: 119px;
+}
+
+td.offertxt {
+	margin: 0;
+	padding: 0 5px 8px 0;
+	line-height: 14px;
+}
+
+td.offertxt h1 {
+	margin: 7px 0 3px 0;
+	padding: 0;
+	font-size: 11px;
+	font-weight: bold;
+	color: #015581;
+}
+
+td.offertxt h1 a {
+	color: #015581;
+	text-decoration: none;
+}
+
+td.offertxt h2 {
+	margin: 0;
+	padding: 0;
+	font-size: 11px;
+	font-weight: normal;
+	color: #2295d6;
+}
+
+table.prices {
+	background: url(http://www.e-go.gr/images/dmd/bg_prices.gif) no-repeat;
+	width: 296px;
+	height: 33px;
+	margin: 0 0 2px 2px;
+}
+
+table.prices td.price1 {
+	padding: 0;
+	width: 131px;
+	color: #fff;
+line-height: 18px;
+}
+
+
+table.prices td.price1 h1 {
+	margin: 0;
+	padding: 3px 0 0 0;
+	color: #005782;
+	font-size: 14px;
+	text-align: center;
+}
+
+table.prices td.price2 {
+	padding: 0;
+	width: 165px;
+	height: 33px;
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+line-height: 16px;
+}
+
+table.prices td.price2 a {
+	color: #fff;
+	text-decoration: none;
+}
+
+table.prices .newprice {
+	margin: 0;
+	padding: 0 3px;
+	color: #fff;
+	font-size: 18px;
+
+}
+</style>
+
+<div class="deal"> <table border="0" cellpadding="0" cellspacing="0" width="100%"> <tr><td class="logo" valign="center"><img src="images/dmd/logo.gif" border="0" /></td> <td class="offertxt" valign="center"><h1><a href="http://www.dealmyday.gr/?af=e9cf7c95791ff39adc3f4afc1746860b&utm_source=ethnos%2Bpromo%2Bbox&utm_medium=promobox&utm_content=ethnos%2Bpromo%2Bbox&utm_campaign=ethnos%2Bpromo%2Bbox" target="_blank">4 προγράμματα Διατροφής, Λιπομέτρηση, Μέτρηση Σπλαχνικού λίπους, Υγρού σώματος και μυικής μάζας, από το διαιτολογικό γραφείο Ισορροπία στην Αγ. Παρασκ</a></h1><div class="clear"></div><h2>από το διαιτολογικό γραφείο Ισορροπία στην Αγ. Παρασκευή</h2></td></tr> </table><table border="0" cellpadding="0" cellspacing="0" class="prices"><tr><td class="price1"><h1>Από 170€</h1></td><td class="price2"><a href="http://www.dealmyday.gr/?af=e9cf7c95791ff39adc3f4afc1746860b&utm_source=ethnos%2Bpromo%2Bbox&utm_medium=promobox&utm_content=ethnos%2Bpromo%2Bbox&utm_campaign=ethnos%2Bpromo%2Bbox" target="_blank">Αγόρασέ το <span class="newprice">39.90€</span></a></td></tr></table> </div></td></tr>
+</table><div class="clear"></div><div class="agores300">
+<h6>ΑΓΟΡΕΣ</h6>
+<!--THE SI 7/-->
+<div class="clear"></div>
+</div><div class="bestbot"></div><div class="newsletter"><input value="Εισάγετε εδώ το mail σας" class="nlinput" /><img src="images/signupr.gif" class="subnl">
+
+<div class="registin">
+Αν είστε ήδη εγγεγραμμένοι κάντε κλικ <a href="r.asp?catid=23640">εδώ</a></div>
+</div>
+
+<script>
+$(document).ready(function() {
+ 
+   $('.nlinput').focus(function() {
+      $(this).val("");
+   })
+   $('.subnl').click(function() {
+      var con = $('.nlinput').val();
+      if( ( con != "Εισάγετε εδώ το mail σας") && (con !="") ){
+          document.location.href = "r.asp?catid=23637&mreg=" + con;
+      }
+   })
+})
+</script>
+</div>
+    <div class="wline"></div>
+</div>
+<table cellspacing="0" cellpadding="0" border="0" valign="top"><tr><td><script language=JavaScript>
+	cookie_rnd = Math.floor(Math.random()*900000000000)+100000000000;
+	cookie_url = 'http://stats.e-go.gr/?nWebSrvID=100230&nCatID=22769&nStampRightID=&nLevelid=2&nPubID=63596698&nServID=' + '&nocache=' + cookie_rnd;
+	document.write('<img src="' + cookie_url + '" border=0 width=1 height=1>');
+</script></td></td></table><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct="UA-1074537-2";
+urchinTracker();
+</script>
+<div class="footer"><div class="footermenu">
+<ul><li><h1><a href="summary.asp?catid=22767">ΠΟΛΙΤΙΚΗ</a></h1></li><li><h1><a href="summary.asp?catid=22768">ΚΟΙΝΩΝΙΑ</a></h1></li><li><h1><a href="summary.asp?catid=22770">ΟΙΚΟΝΟΜΙΑ</a></h1></li><li><h1><a href="summary.asp?catid=22769">ΔΙΕΘΝΗ</a></h1></li><li><h1><a href="summary.asp?catid=23106">ΠΕΡΙΒΑΛΛΟΝ</a></h1></li><li><h1><a href="summary.asp?catid=22782">ΑΡΘΡΟΓΡΑΦΙΑ</a></h1></li><li><h1><a href="http://www.ethnos.gr/ethnosport/r.asp?catid=8140">ΕΘΝΟΣΠΟΡ</a></h1></li><li><h1><a href="summary3.asp?catid=22784">ΠΟΛΙΤΙΣΜΟΣ</a></h1></li><li><h1><a href="entheta.asp?catid=23555">ΕΝΘΕΤΑ</a></h1></li><li><h1><a href="entheta.asp?catid=23508">TV ΕΘΝΟΣ</a></h1></li><li><h1><a href="summary.asp?catid=23657">ΧΡΗΣΙΜΑ</a></h1></li><li><h1><a href="article.asp?catid=23427">ΕΠΙΚΟΙΝΩΝΙΑ</a></h1></li><li><h1><a href="article.asp?catid=23636">ΠΡΟΣΦΟΡΕΣ</a></h1></li><li><h1><a href="http://stats.e-go.gr/rx.asp?nWebSrvID=100230&nCatID=23425&nLevelId=-20&target=mailto%3Aadvertising%40pegasusinteractive%2Egr">ΔΙΑΦΗΜΙΣΗ</a></h1></li></ul>
+</div>
+ΑΠΑΓΟΡΕΥΕΤΑΙ η αναδημοσίευση, η αναπαραγωγή, ολική, μερική ή περιληπτική ή κατά παράφραση ή διασκευή απόδοση του περιεχομένου του παρόντος web site με οποιονδήποτε τρόπο, ηλεκτρονικό, μηχανικό, φωτοτυπικό, ηχογράφησης ή άλλο, χωρίς προηγούμενη γραπτή άδεια του εκδότη. Νόμος 2121/1993 και κανόνες Διεθνούς Δικαίου που ισχύουν στην Ελλάδα.  Copyright © 2011 ΕΚΔΟΣΕΙΣ ΕΘΝΟΣ Α.Ε. 
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+ var pvar = { cid: "gr-pegasus", content: "0", server: "secure-uk" };
+ var feat = { surveys_enabled: 1, sample_rate: 0.05 };
+ var trac = nol_t(pvar, feat);
+ var _rsND = trac.getSchemeHost(); // For compatibility with v53 surveys
+ var _rsCI = "gr-pegasus"; // For compatibility with v53 surveys
+ trac.record().post().do_sample();
+</script>
+<noscript>
+ <div>
+ <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=gr-pegasus&cg=0&cc=1&ts=noscript"
+ width="1" height="1" alt="" />
+ </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+
+<div class="clear"></div><center>
+<div class="footer2">
+<img src="images/footer/network.gif" border="0" width="980" height="49" />
+<div class="clear"></div>
+<div class="toplinks1">
+<div class="toplogo"><a href="http://www.ethnos.gr" target="_blank"><img src="images/footer/ethnos.gif" border="0" /></a></div>
+<ul>
+<li>Επικαιρότητα: <a href="http://www.ethnos.gr/summary.asp?catid=22767" target="_blank">Πολιτική</a>, 
+<a href="http://www.ethnos.gr/summary.asp?catid=22768" target="_blank" />Κοινωνία</a>, 
+<a href="http://www.ethnos.gr/summary.asp?catid=22770" target="_blank" />Οικονομία</a>, 
+<a href="http://www.ethnos.gr/summary.asp?catid=22769" target="_blank" />Διεθνή</a>, 
+<a href="http://www.ethnos.gr/summary3.asp?catid=22784" target="_blank" />Πολιτισμός</a>.</li>
+<li><a href="http://www.ethnos.gr/summary.asp?catid=22782" target="_blank" />Αρθρογραφία</a>.</li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23555" target="_blank" />Ένθετα</a>, 
+<a href="http://www.ethnos.gr/entheta.asp?catid=23508" target="_blank" />TV Εθνος</a>, 
+<a href="http://www.ethnos.gr/summary.asp?catid=23656" target="_blank" />Χρήσιμα</a>.</li>
+<li class="more"><a href="http://www.ethnos.gr" target="_blank">Περισσότερα στο www.ethnos.gr</a></li>
+</ul>
+</div>
+
+<div class="toplinks1">
+<div class="toplogo"><a href="http://www.imerisia.gr" target="_blank"><img src="images/footer/imerisia.gif" border="0" /></a></div>
+<ul>
+<li>Ειδησεογραφία: <a href="http://www.imerisia.gr/summary.asp?catid=12336" target="_blank">Οικονομία</a> & <a href="http://www.imerisia.gr/fullwidth.asp?catid=12388" target="_blank">Αγορές</a>.</li>
+<li><a href="" target="_blank">Ελληνικές</a> & 
+<a href="" target="_blank">Ξένες επιχειρήσεις</a>.</li>
+<li><a href="" target="_blank">Μετοχές</a>, 
+<a href="" target="_blank">Χρηματιστήριο</a>, <a href="" target="_blank">Απόψεις</a>.</li>
+<li class="more"><a href="http://www.imerisia.gr" target="_blank">Περισσότερα στο www.imerisia.gr</a></li>
+</ul>
+</div>
+
+<div class="toplinks1">
+<div class="toplogo"><a href="http://www.sentragoal.gr" target="_blank"><img src="images/footer/sentragoal.gif" border="0" /></a></div>
+<ul>
+<li>Ποδόσφαιρο: <a href="http://www.sentragoal.gr/summary.asp?catid=10475" target="_blank">Ελλάδα</a> & 
+<a href="http://www.sentragoal.gr/summary.asp?catid=10520" target="_blank">Διεθνή</a>.</li>
+<li><a href="http://www.sentragoal.gr/summary.asp?catid=10511" target="_blank">Μπάσκετ</a>, 
+<a href="http://www.sentragoal.gr/summary.asp?catid=10550" target="_blank">Βόλεϊ</a> και 
+<a href="http://www.sentragoal.gr/summary.asp?catid=10476" target="_blank">άλλα σπορ</a>.</li>
+<li><a href="http://www.dailybet.gr" target="_blank">DailyBet</a> & <a href="http://www.sentragoal.gr/summary.asp?catid=16606" target="_blank">Παρασκήνια</a>.</li>
+<li class="more"><a href="http://www.sentragoal.gr" target="_blank">Περισσότερα στο www.sentragoal.gr</a></li>
+</ul>
+</div>
+
+<div class="toplinks2">
+<div class="toplogo"><a href="http://www.e-go.gr" target="_blank"><img src="images/footer/e-go.gif" border="0" /></a></div>
+<ul>
+<li><a href="http://www.e-go.gr/news/default.asp" target="_blank">Ειδήσεις</a> για την 
+<a href="http://www.e-go.gr/news/summary.asp?catid=17826" target="_blank">Ελλάδα</a> και τον 
+<a href="http://www.e-go.gr/news/summary.asp?catid=17827" target="_blank">κόσμο</a>.</li>
+<li><a href="http://www.e-go.gr/timeouthome" target="_blank">Ενημέρωση & Ψυχαγωγία</a>.</li>
+<li><a href="http://www.womenonly.gr" target="_blank">Lifestyle</a>, 
+<a href="http://www.womenonly.gr/summary.asp?catid=15298&tag=10800" target="_blank">μόδα</a>, <a href="" target="_blank">ομορφιά</a>, 
+<a href=""http://www.womenonly.gr/summary.asp?catid=13388&tag=9927 target="_blank">αστρολογία</a>.</li>
+<li class="more"><a href="http://www.e-go.gr" target="_blank">Περισσότερα στο www.e-go.gr</a></li>
+</ul>
+</div>
+
+<div class="clear"></div>
+
+<div class="footerlogos">
+<ul>
+<li><a href="http://www.cinemag.gr" target="_blank"><img src="images/footer/cinema.gif" border="0" /></a></li>
+<li><a href="http://www.e-go.gr/idanikospiti" target="_blank"><img src="images/footer/idanikospiti.gif" border="0" /></a></li>
+<li><a href="http://www.sporty.gr" target="_blank"><img src="images/footer/sporty.gif" border="0" /></a></li>
+<li><a href="http://www.womenonly.gr/summary.asp?catid=13388&tag=9927" target="_blank"><img src="images/footer/astraorama.gif" border="0" /></a></li>
+<li><a href="http://www.e-go.gr/wmotors" target="_blank"><img src="images/footer/wmotors.gif" border="0" /></a></li>
+<li><a href="http://www.womenonly.gr" target="_blank"><img src="images/footer/womenonly.gif" border="0" /></a></li>
+<li><a href="http://www.e-go.gr/sexperts" target="_blank"><img src="images/footer/sexperts.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/ethnosport" target="_blank"><img src="images/footer/ethnosport.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23508"><img src="images/footer/tvethnos.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22820"><img src="images/footer/kynigi.gif" border="0" /></a></li>
+</ul>
+<div class="clear"></div>
+<ul class="enthetalogos">
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23958"><img src="images/footer/cook.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23309"><img src="images/footer/reportaz.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23513"><img src="images/footer/taxidi.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23343"><img src="images/footer/syntaxeis.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=23353"><img src="images/footer/efkairies.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22813"><img src="images/footer/ergasia.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22814"><img src="images/footer/paideia.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=24300"><img src="images/footer/ygeia.gif" border="0" /></a></li>
+<li><a href="http://www.ethnos.gr/entheta.asp?catid=22821"><img src="images/footer/psarema.gif" border="0" /></a></li>
+</ul>
+</div>
+</div>
+
+</center><script type="text/javascript" src="http://www.luminate.com/widget/92aeed1f51/"></script></div>
+</div>
+</center>
+
+</body>
+</html> 

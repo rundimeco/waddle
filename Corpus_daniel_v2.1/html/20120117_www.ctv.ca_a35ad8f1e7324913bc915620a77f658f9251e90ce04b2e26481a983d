@@ -1,0 +1,3085 @@
+
+
+
+
+
+
+
+
+
+
+		
+				<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+
+
+		<script type="text/javascript">
+var ctv_mobile_device = new Array("iphone", "ipod", "blackberry");
+var agent = navigator.userAgent.toLowerCase();	
+for(var i=0; i<ctv_mobile_device.length;i++){		
+	if (ctv_mobile_device[i] != "" && agent.indexOf(ctv_mobile_device[i]) > -1) {			
+		window.location = getMobileURL();
+	} 
+}
+function getMobileURL(){
+	var mobileURL = "http://m.ctv.ca";	
+	var hub = "Health";
+	var hub = hub.toLowerCase();
+	if(hub == "topstoriesv2")
+		hub = "topstories";
+	if(hub == "entertainmentv2")
+		hub = "entertainment";
+	if(hub == "nationalnews")
+		hub = "thedesk";
+	if(hub == "scitech")
+		hub = "tech";
+	var slug = "headphone-pedestrians-accidents-120117";
+	var date = "20120117";
+	mobileURL = mobileURL + "/" + hub + "/" + date + "/" + slug + ".html";
+	return mobileURL;
+}
+</script>
+		
+
+
+        
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+				
+		
+		
+				<title>Accidents involving headphone-wearing pedestrians on the rise | CTV News</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Language" content="en-ca" />
+<meta http-equiv="Expires" content="0" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta name="robots" content="noarchive" />
+<meta name="identifier-URL" content="http://www.ctv.ca/news/" />
+<meta name="location" content="Canada" />
+<meta name="website" content="http://www.ctv.ca/news/" />
+<meta property="og:site_name" content="CTV News"/>
+<meta name="title" content="Accidents involving headphone-wearing pedestrians on the rise | CTV News" />
+<meta name="headline" content="Accidents involving headphone-wearing pedestrians on the rise | CTV News" />
+<meta name="description" content="A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified." />
+<meta name="author" content=" The Canadian Press" />
+<meta name="keywords" content="headphone pedestrians, accidents" />
+<meta name="PublishDate" content="2012-01-17">
+
+
+<meta property="original-image" content="http://images.ctv.ca/archives/CTVNews/img2/20111214/470_ott_swarming_man_ballcap_headphones_111214.jpg"/>
+<meta name="original-image-width" content="470" />
+<meta name="original-image-height" content="264" />
+<link rel="image_src" href="http://images.ctv.ca/archives/CTVNews/img2/20111214/470_ott_swarming_man_ballcap_headphones_111214.jpg" alt="Pedistrian wearing headphones"/>
+<meta property="og:image" content="http://images.ctv.ca/archives/CTVNews/img2/20111214/470_ott_swarming_man_ballcap_headphones_111214.jpg"/>
+ 
+ 
+<link rel="alternate" type="application/rss+xml" href="http://www.ctv.ca/generic/generated/freeheadlines/rdf/allNewsRss.xml" title="CTV News RSS feed" />
+<meta name="google-site-verification" content="Qz9x_5__SYKZBMjZA7_XfM2JNKSMYuUqvSZcaXax0kc" />
+
+					
+
+<!-- googleoff: index -->
+        <link href="http://www.ctv.ca/v2/css/footer.css" rel="stylesheet" type="text/css" media="all"/>	
+		<link href="http://www.ctv.ca/v2/css/all.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="http://www.ctv.ca/v2/css/news.css" rel="stylesheet" type="text/css" media="all"/>
+		<link rel="shortcut icon" href="http://www.ctv.ca/favicon.ico" type="image/x-icon" />	
+			
+		<script type="text/javascript" src="http://www.ctv.ca/v2/js/ie-hover-pack.js"></script>
+		<script type="text/javascript" src="http://www.ctv.ca/v2/js/init.js"></script>
+		<script type="text/javascript" src="http://www.ctv.ca/v2/js/commonFuncs.js"></script>
+		<script type="text/javascript" src="http://www.ctv.ca/v2/js/date.js"></script>
+		<script type="text/javascript" src="http://www.ctv.ca/v2/js/ads.js"></script>
+		<script type="text/javascript" src="http://www.ctv.ca/v2/js/showHide.js"></script>
+		<script type="text/javascript" src="http://www.ctv.ca/v2/js/swfobject.js"></script>
+		<script type="text/javascript" src="http://www.ctv.ca/v2/js/comments_submit.js"></script>
+		
+				<script type="text/javascript">
+            		var szone=getAdName("Health");
+        		</script>
+			
+		<script type="text/javascript" src="http://www.ctv.ca/v2/js/ibox.js"></script>
+		<script type="text/javascript">
+		iBox.setPath('http://www.ctv.ca/v2/js/');
+		iBox.padding = 50;
+		iBox.inherit_frames = false;
+		</script>
+		<script type="text/javascript">_AUTO_TRACK = false; </script>
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-17793158-1']);
+		  _gaq.push(['_setDomainName', 'ctv.ca']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+		<script type="text/javascript">
+		
+			if(document.location.protocol=='http:'){
+			
+			var Tynt=Tynt||[];Tynt.push('bBoFce7OKr4lajacwqm_6l');Tynt.i={"ap":"Read more:"};
+			
+			(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+			
+			}		
+		</script>
+
+
+		</head>
+		<!--[if IE]>
+		<style type="text/css" media="screen">@import "http://www.ctv.ca/v2/css/story-ie.css";</style>
+		<![endif]-->
+		<!--[if IE 6.0]>
+		<style type="text/css" media="screen">@import "http://www.ctv.ca/v2/css/ie.css";</style>
+		<style>
+		
+		
+		</style><![endif]-->
+			<style>
+		@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.moreStory .clear {height: 10px!important; }
+}
+
+</style>
+	<!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>	
+<link rel="stylesheet" href="http://www.ctv.ca/v2/css/lightbox.css" type="text/css" media="screen"/>
+
+
+<body>
+<script language="javascript" type="text/javascript" src="http://www.ctv.ca/v2/js/jquery-1.3.2.min.js"></script>
+<div class="adHeader">
+	<div class="adTop">
+		
+	
+<script>
+if ("" == "ad=n&")
+{
+var showTop="N";
+setNoAd();
+}
+</script>
+<script type="text/javascript">_AUTO_TRACK = false; </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17793158-1']);
+  _gaq.push(['_setDomainName', '.ctv.ca']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+<div id="728x90temp"></div><script type="text/javascript">placeRandom("728x90");</script>
+
+<!-- googleoff: index -->
+</div>
+</div>
+<div class="headerBackgrond">
+	<div class="newsHeader">
+		<div class="topNav">
+			<strong class="CTVlogo"><a href="http://www.ctv.ca/news">CTV</a></strong> 
+			<div class="head-info">
+				<div class="navPos">
+					<div class="mainnav-info">
+						<ul class="mainnav">
+							<li><a href="http://ctv.ca" title="CTV.Ca">CTV.ca</a></li>
+							<li><a href="http://www.ctv.ca/wireless" title="CTV.ca Mobile Edition">Mobile</a></li>
+							<li><a href="http://ctv.ca/canadaam" title="Canada AM">Canada AM</a></li>
+							<li><a href="http://autos.ctv.ca" title="CTV Autos">Autos</a></li>
+							<li><a href="http://ctv.ca/entertainment" title="CTV Entertainment">Entertainment</a></li>
+							<li><a href="http://www.ctvolympics.ca" title="CTV Olympics">Olympics</a></li>
+							<li><a href="http://ctv.ca/contests" title="CTV Contests">Contests</a></li>
+						</ul>
+						<div class="location">
+							<a class="local" href="http://www.ctv.ca/local/"><span><strong>Local Stations</strong></span><em>&nbsp;</em></a>
+							<div class="location-box">
+								<div class="location-box-head">&nbsp;</div>
+								<div class="location-box-info">
+									<div class="location-box-desc">
+										<h3>Pick your location</h3>
+										<ul>
+											<li><a href="http://atlantic.ctv.ca">Atlantic</a></li>
+<li><a href="http://ctvbc.ctv.ca">British Columbia</a></li>
+<li><a href="http://calgary.ctv.ca">Calgary</a></li>
+<li><a href="http://edmonton.ctv.ca">Edmonton</a></li>
+<li><a href="http://montreal.ctv.ca">Montreal</a></li>
+<li><a href="http://northernontario.ctv.ca">Northern Ontario</a></li>
+<li><a href="http://ottawa.ctv.ca">Ottawa</a></li>
+<li><a href="http://regina.ctv.ca">Regina</a></li>
+<li><a href="http://saskatoon.ctv.ca">Saskatoon</a></li>
+<li><a href="http://swo.ctv.ca">Southwestern Ontario</a></li>
+<li><a href="http://toronto.ctv.ca">Toronto</a></li>
+<li><a href="http://winnipeg.ctv.ca">Winnipeg</a></li>
+										</ul>
+										<p><a href="http://www.ctv.ca/local">All CTV Stations</a></p>
+									</div>
+								</div>
+								<div class="location-box-foot">&nbsp;</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+<!-- googleon: index -->
+<!-- googleon: index -->			
+			
+	
+
+
+
+
+
+
+
+
+
+
+
+			
+<link href="/v2/css/story.css" rel="stylesheet" type="text/css" media="all"/>	
+
+<script type="text/javascript" src="/v2/js/fontsize.js"></script>
+<script type="text/javascript" src="/v2/js/shareTool.js"></script>
+
+												    
+										
+																					
+											
+											
+										
+	
+<div class="newsMain">
+	<div id="content">
+
+		
+		
+				<style>
+					#share7 {background-image:url(http://images.ctv.ca/v2/images/buttons/minus.gif)!important;}
+					#rate7 {display: block!important}
+				</style>
+			
+		
+		
+		
+				<div style="margin-bottom:0;margin-left:auto;margin-right:auto;margin-top:4px; width: 1002px">		
+		
+				
+						<h2><a href="/health" style="color:#0099CC">Health</a> <span>- &nbsp;&nbsp;
+
+<script LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
+	<!-- Hide script from old browsers
+	document.write(dayName[now.getDay()] + "&nbsp;" + monName[now.getMonth()] + ".&nbsp;" + now.getDate() + ",&nbsp;" + now.getFullYear())
+
+	// End hiding script from old browsers -->
+      </script></span></h2>
+								
+			
+	</div>
+	
+		
+			<div class="headlineBorder">
+			<div style="margin: 20px auto 0px auto; width: 1002px">
+		
+		
+
+
+	
+
+
+		<div class="leftNav">
+	
+	
+													
+													
+															<!-- googleoff: all -->
+<h2>News Sections</h2>
+<div class="newNav">
+
+<div class="newsNavBorder">
+<div style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/topStoryButton.jpg); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; padding-left: 13px; margin-left: 3px">
+<p><a href="http://www.ctvnews.ca">Top Stories</a></p></div>
+
+
+<div onClick="toggle_menu('share1')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate1')" id="share1" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div><p style="display:inline"><a href="http://www.ctv.ca/canada">Canada</a></p>
+<div id="rate1" class="share" style="display: none; padding-top:0px">
+<p><a href="http://atlantic.ctv.ca">Atlantic</a></p>
+<p><a href="http://ctvbc.ctv.ca">British Columbia</a></p>
+<p><a href="http://calgary.ctv.ca">Calgary</a></p>
+<p><a href="http://edmonton.ctv.ca">Edmonton</a></p>
+<p><a href="http://montreal.ctv.ca">Montreal</a></p>
+<p><a href="http://northernontario.ctv.ca">Northern Ontario</a></p>
+<p><a href="http://ottawa.ctv.ca">Ottawa</a></p>
+<p><a href="http://regina.ctv.ca">Regina</a></p>
+<p><a href="http://saskatoon.ctv.ca">Saskatoon</a></p>
+<p><a href="http://swo.ctv.ca">Southwestern Ontario</a></p>
+<p><a href="http://toronto.ctv.ca">Toronto</a></p>
+<p><a href="http://winnipeg.ctv.ca">Winnipeg</a></p>
+</div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('share2')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate2')" id="share2" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div><p style="display:inline"><a href="http://www.ctv.ca/world">World</a></p>
+<div id="rate2" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.ctv.ca/afghanistan">Canada in Afghanistan</a></p>
+<p><a href="http://www.ctv.ca/war">Canadian Casualties</a></p>
+</div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('share3')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate3')" id="share3" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div><p style="display:inline"><a href="http://www.ctv.ca/entertainment">Entertainment</a></p>
+<div id="rate3" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.ctv.ca/entphotos">Photo Galleries</a></p>
+<p><a href="http://www.ctv.ca/reviews">Movie Reviews</a></p>
+<p><a href="http://www.ctv.ca/mini/tiff2011">TIFF</a></p>
+<p><a href="http://shows.ctv.ca/eTalk.aspx">About <i>e</i>talk</a></p>
+<p><a href="http://www.ctv.ca/mini/oscars2011/">Oscars</a></p>
+<p><a href="http://junos.ctv.ca">Junos</a></p>
+</div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('share4')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate4')" id="share4" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div><p style="display:inline"><a href="http://www.ctv.ca/sports">Sports</a></p>
+<div id="rate4" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.ctvolympics.ca">CTV Olympics</a></p>
+<p><a href="http://www.ctv.ca/sports#scoreboard">TSN Scoreboard</a></p>
+</div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('share5')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate5')" id="share5" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div><p style="display:inline"><a href="http://www.ctv.ca/business">Business</a></p>
+<div id="rate5" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.ctv.ca/business#currentmarket">Current Markets</a></p>
+</div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('share6')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate6')" id="share6" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div><p style="display:inline"><a href="http://www.ctv.ca/scitech">Sci-Tech</a></p>
+<div id="rate6" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.webnation.tv/">Webnation</a></p>
+</div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('share7')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate7')" id="share7" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div><p style="display:inline"><a href="http://www.ctv.ca/health">Health</a></p>
+<div id="rate7" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.ctv.ca/newsletters">MedNews Express</a></p>
+<p><a href="http://healthblog.ctv.ca/">Health Blog</a></p>
+<p><a href="http://healthblog.ctv.ca/category/Avis-Favaros-postings.aspx">Avis Favaro</a></p>
+<p><a href="http://healthblog.ctv.ca/category/Dr-Marla-Shapiros-postings.aspx">Dr. Marla Shapiro</a></p>
+<p><a href="http://www.ctvbc.ctv.ca/drrhonda/">Dr. Rhonda Low</a></p>
+</div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('share8')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate8')" id="share8" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div><p style="display:inline"><a href="http://www.ctv.ca/politics">Politics</a></p>
+<div id="rate8" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.ctv.ca/qp">CTV Question Period</a></p>
+<p><a href="http://www.ctv.ca/powerplay">Power Play</a></p>
+<p><a href="http://www.ctv.ca/mini/election2011">Election 2011</a></p>
+</div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('shareW')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rateW')" id="shareW" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div><p style="display:inline"><a href="http://www.ctv.ca/weather">Weather</a></p>
+<strong><div id="rateW" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.ctv.ca/weather/canada/">Canada</a></p>
+<p><a href="http://www.ctv.ca/weather/us/">United States</a></p>
+<p><a href="http://www.ctv.ca/weather/international/">International</a></p>
+<p><a href="http://www.ctv.ca/weather/#weatherrestrictions">Weather Restrictions</a></p>
+</div></strong>
+
+</div>
+
+<div class="clear" style="height: 10px;"></div>
+
+<div class="divider" style="width: 147px">
+<div class="clear"></div>
+<h2>News Programs</h2></div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('share9')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate9')" id="share9" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div>
+
+<p style="display:inline"><a href="http://www.ctv.ca/nationalnews">CTV National News with Lisa LaFlamme</a></p>
+<div id="rate9" class="share" style="display: none; padding-top:0px">
+<p><a href="http://watch.ctv.ca/news/ctv-national-news/" onclick="window.open(this.href,'_blank',',height=850,width=1010'); return false">Watch CTV National News</a></p>
+</div>
+<div class="clear"></div>
+<div onClick="toggle_menu('share10')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate10')" id="share10" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div>
+<p style="display:inline">
+<a href="http://www.ctv.ca/canadaam">Canada AM</a></p>
+
+<div id="rate10" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.ctv.ca/canadaamfamily">Canada AM Family</a></p>
+<p><a href="http://www.ctv.ca/recipes/">Recipes</a></p>
+<p><a href="http://www.ctv.ca/canadaam/food">Food</a></p>
+<p><a href="http://www.ctv.ca/canadaam/travel">Travel Tips</a></p>
+<p><a href="http://healthblog.ctv.ca/category/Dr-Marla-Shapiros-postings.aspx">Health</a></p>
+<p><a href="http://www.ctv.ca/canadaam/movies">Movies</a></p>
+<p><a href="http://www.ctv.ca/canadaam/gardening">Gardening</a></p>
+<p><a href="http://www.ctv.ca/canadaam/home">Home &amp; Decor</a></p>
+<p><a href="http://www.ctv.ca/canadaam/nutrition">Nutrition</a></p>
+<p><a href="http://www.ctv.ca/canadaam/fitness">Fitness</a></p>
+<p><a href="http://www.ctv.ca/canadaam/consumer">Consumer Alert</a></p>
+</div>
+<div class="clear"></div>
+
+<div onClick="toggle_menu('share11')" style="min-height:20px; display:inline"><div onClick="toggle_visibility('rate11')" id="share11" style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/plus.gif); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; height:14px; width: 16px; padding-left: 2px;float: left"></div></div>
+<p style="display:inline">
+<a href="http://www.ctv.ca/w5">W5</a></p>
+<div id="rate11" class="share" style="display: none; padding-top:0px">
+<p><a href="http://www.ctv.ca/wfivearchive">W5 archive</a></p>
+<p><a href="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20090810/redesign_w5_victor_malarek_bio/20090810?hub=WFive">Victor Malarek</a></p>
+</div>
+<div style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/topStoryButton.jpg); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; padding-left: 13px; margin-left: 3px">
+<p><a href="http://www.ctv.ca/powerplay">Power Play</a></p></div>
+<div style="cursor:pointer;background-image:url(http://images.ctv.ca/v2/images/buttons/topStoryButton.jpg); background-repeat:no-repeat; font-size: 12px; background-position: 0px 2px; padding-left: 13px; margin-left: 3px">
+<p class="leftQperiod"><a href="http://www.ctv.ca/qp">Question Period</a></p></div>
+
+</div>
+
+<div class="divider" style="width: 147px">
+<div class="clear"></div>
+<h2>Features</h2>
+<p class="autoIcon"><a href="http://autos.ctv.ca">Autos</a></p>
+<p class="specialIcon"><a href="http://www.ctv.ca/consumer">Consumer</a></p> 
+</div>
+
+<div class="divider">
+<div class="clear"></div>
+<h2>Browse:</h2>
+<p><a href="http://watch.ctv.ca/news/" onclick="window.open(this.href,'_blank',',height=850,width=1010'); return false">Video</a></p>
+<p><a href="http://www.ctv.ca/photos">Galleries</a></p>
+<p><a href="http://mynews.ctv.ca" class="myNewsIcon">MyNews</a></p>
+</div>
+
+
+<!-- googleon: all -->
+														
+												
+												
+
+
+		</div>
+	
+
+
+
+		
+								
+		
+								
+			
+									
+											
+											<div style="display: none">1</div>
+
+		
+	
+<div class="storyContent" id="storyBox2">
+<div class="breadcrumb"><p><a href="/news">Home</a> : <a href="/health">Health</a> : <b>Accidents involving headphone-wearing pedestrians on the rise</b></p></div>
+<h2 class="headLine">Accidents involving headphone-wearing pedestrians on the rise</h2>
+
+	
+
+ 
+ 
+
+
+
+
+<script type="text/javascript" src="/v2/js/imgslide.js"></script>
+<style>
+.slideImage{filter:progid:DXImageTransform.Microsoft.Fade()}
+</style>
+<SCRIPT TYPE="text/javascript">
+<!--
+
+var SLIDES = new slideshow("SLIDES");
+SLIDES.timeout = 1000;
+SLIDES.prefetch = -1;
+SLIDES.repeat = true;
+
+   
+  
+ 
+ win_width1 = 650;
+win_height1 = 650;
+win_prop1 = "width="+win_width1+",height="+win_height1+",status=no,scrollbars=0,resizable=1,toolbar=no,left=1,screenX=1,screenY=0";
+//alert(win_prop1);
+//FULL SIZE IS    
+
+
+	 
+	  
+
+
+s = new slide();
+s.src =  "http://images.ctv.ca/archives/CTVNews/img2/20111214/470_ott_swarming_man_ballcap_headphones_111214.jpg?2";
+ 
+	s.text = unescape("");
+	    
+	s.link = "";
+		
+
+	
+s.target = "";
+s.attr = "";
+s.filter = "";
+SLIDES.add_slide(s);
+  
+  
+ 
+
+if (false) SLIDES.shuffle();
+//-->
+</SCRIPT>
+
+
+<div id="ImageList" >
+
+<img src="http://images.ctv.ca/archives/CTVNews/img2/20111214/470_ott_swarming_man_ballcap_headphones_111214.jpg" alt="Pedistrian wearing headphones" width="0" height="0" BORDER=0>
+   
+</div>
+
+<div class="imgSlideTop">
+<div class="topPhoto">
+<img name="SLIDESIMG" src="http://images.ctv.ca/archives/CTVNews/img2/20111214/470_ott_swarming_man_ballcap_headphones_111214.jpg" class="slideImage" BORDER=0 alt="Pedistrian wearing headphones">
+</div>
+
+
+<DIV ID="SLIDESTEXT">
+
+<SCRIPT type="text/javascript">
+<!--
+// For browsers that cannot change the HTML on the page,
+// display all of the text from the slideshow.
+// I place this within the DIV, so browers won't see it
+// if they can change the DIV.
+nodivtext = SLIDES.get_all_text("<li>", "<p>\n");
+if (nodivtext) {
+  document.write("<UL>\n" + nodivtext + "\n</UL>");
+}
+//-->
+</SCRIPT>
+
+</DIV>
+
+
+ 
+	<p class="vLarge"><a href="javascript:SLIDES.slides[SLIDES.current].link" rel="ibox&width=800&height=550" id="slideShowThing" >View Larger Image</a></p>
+<script>
+document.getElementById("slideShowThing").onclick = iBox.handleTag;
+</script>
+    
+
+
+
+ <SCRIPT type="text/javascript">
+<!--
+
+if (document.images) {
+
+SLIDES.image = document.images.SLIDESIMG;
+
+// Create a function to ramp up the image opacity in Mozilla
+var fadein_opacity = 0.04;
+var fadein_img = SLIDES.image;
+function fadein(opacity) {
+  if (typeof opacity != 'undefined') { fadein_opacity = opacity; }
+  if (fadein_opacity < 0.99 && fadein_img && fadein_img.style &&
+      typeof fadein_img.style.MozOpacity != 'undefined') {
+
+    fadein_opacity += .05;
+    fadein_img.style.MozOpacity = fadein_opacity;
+    setTimeout("fadein()", 50);
+  }
+}
+
+// Tell the slideshow to call our function whenever the slide is changed
+SLIDES.post_update_hook = function() { fadein(0.04); }
+
+}
+
+
+//-->
+</SCRIPT>
+
+
+<SCRIPT type="text/javascript">
+<!--
+if (document.images) {
+  SLIDES.image = document.images.SLIDESIMG;
+  SLIDES.textid = "SLIDESTEXT";
+  SLIDES.update();
+  
+}
+//-->
+</SCRIPT>
+</div>
+
+<script>
+SLIDES.showHideViewT();
+</script>
+	
+
+
+	<!-- googleoff: index -->
+<style>
+	.fb_share_count_top{font-size: 15px!important; font-weight:bold}
+	.fb_share_count {font-family:Arial, Helvetica, sans-serif!important}
+	.storyUserTop {border-top: 1px solid #cecdcb; border-bottom: 1px solid #cecdcb; border-left: none; border-right: none; background-color: #edecea; height:60px}
+	.storyUserTop a:hover {text-decoration:underline!important}
+	.storyUserTop a {color: #006699!important; font-size: 11px}
+	.fbtw {margin-left: 195px; position:absolute}
+
+</style>
+
+<div class="storyUserTop" onload="MM_preloadImages('http://images.ctv.ca/v2/images/icon/share/larger_small2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/smaller_large2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/print2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/share2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/comment2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/facebook_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/twiiter2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/digg2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/stumbleupon2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/newsvine2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/reddit2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/delicious2_over.jpg' 'http://images.ctv.ca/v2/images/icon/share/buzz2_over.jpg')">
+  <script language="JavaScript" type="text/javascript">
+      function printStory() {
+          var printUrl = 'http://www.ctv.ca/servlet/ArticleNews/print/CTVNews/20120117/headphone-pedestrians-accidents-120117/20120117/?hub=Health&subhub=PrintStory';
+          window.open(printUrl, 'PopUpPrintStory', 'height=445,width=696,menubar=yes,toolbar=yes,navbar=no,scrollbars=yes,resizable=yes');
+          return false;
+      };
+  </script>
+  <div class="newTools">
+<p style="margin-bottom: 10px"><a class="smaller"  href="javascript: changeSize('smaller'); " style="font-size: 11px">A</a>&nbsp;<a class="bigger" href="javascript: changeSize('bigger');" style="font-size: 13px">A</a>&nbsp;|&nbsp;
+			<a class="addthis_button_email" style="color:#006699; font-size:11px"><img src="http://toronto.ctv.ca/tl/images/p.gif" alt="Email This" />Email</a>
+		&nbsp;|<!-- googleoff: index -->
+
+	 <style>
+	 	.fbtw {margin-left: 30px}
+	 </style>
+	
+<a title="Printer friendly version of this story" href="http://www.ctv.ca/servlet/ArticleNews/print/CTVNews/20120117/headphone-pedestrians-accidents-120117/20120117/?hub=Health&subhub=PrintStory" onClick="printStory(); return false;" target="_blank">Print</a> 
+
+|&nbsp;<a title="Comments" href="#commentSection">Comments (3)</a>
+
+ 
+
+		|&nbsp;<a id="commentPopUp" href="http://www.ctv.ca/servlet/HTMLTemplate/!ctvPop/News/Comments?slug=headphone-pedestrians-accidents-120117&date=20120117&hub=TopStoriesV2" rel="ibox&width=625&height=625" >Add Comments</a>
+		
+<!-- googleon: index --> 
+<span class="fbtw">
+<span style="position: absolute">
+	<!-- Place this tag where you want the +1 button to render -->
+	<g:plusone size="medium" count="false"></g:plusone>
+</span>
+<a href="#" onclick="javascript:window.open('http://www.facebook.com/sharer.php?u=http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/'  ,'sharer', 'toolbar=0,status=0,width=626,height=436'); return false" title="Send this to friends or post it on your profile."><img src="http://images.ctv.ca/v2/images/buttons/new-fb-share.jpg" border="0" width="60" height="18"  alt="Facebook" style="position: absolute; margin-top: 1px; margin-left: 40px"></a>
+&nbsp;&nbsp;<span style="position: absolute; margin-top: 0px; margin-left: 100px">
+<a href="http://twitter.com/share" class="twitter-share-button"data-url="http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117" data-counturl="http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117"data-text="Accidents involving headphone-wearing pedestrians on the rise" data-count="none" data-via="CTVNews" data-related="CTVNews:CTVNews.ca" title="Click to share this post on Twitter">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span></span></p>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<div style="position: absolute; margin-top: 4px; margin-left: 5px">
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4dcd52aa46c41f57" class="addthis_button_compact">&nbsp;Share</a>&nbsp;
+</div>
+	<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117&amp;layout=standard&amp;show_faces=false&amp;width=345&amp;action=recommend&amp;font=arial&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:345px; height:27px; margin-top: 0px; margin-left: 85px"></iframe>
+
+</div>
+
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4dcd52aa46c41f57"></script>
+<!-- AddThis Button END -->
+
+
+
+
+
+</div>
+
+
+</div>
+<div class="clear"></div>
+<!-- googleon: index -->
+	
+	
+<div class="storySubs">
+
+<div class="relatedPoint">
+<h2>More on this topic</h2>
+<div class="under">
+<ul>
+
+<li class="link">
+
+
+    <a href="http://injuryprevention.bmj.com/content/early/2012/01/03/injuryprev-2011-040161.short?g=w_injuryprevention_ahead_tab" target=_blank>Injury Prevention: Headphone use and pedestrian injury and death in the United States</a>
+  
+
+</li></ul>
+</div>
+
+</div>
+<!-- googleoff: index -->
+
+
+<!-- googleon: index -->
+
+
+
+
+
+
+</div>
+
+<p class="storyAttributes" rel="author">The Canadian Press</p>
+
+<p class="timeStamp"><span>Date:</span> Tuesday Jan. 17, 2012 7:14 AM ET</p>
+
+<div class="mainBody">
+<p><!-- dateline -->TORONTO <!-- /dateline --> &#151; A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified. </p>
+
+<p>The researchers studied databases for reports from 2004 to 2011 of accidents involving people wearing headphones. </p>
+
+<p>Their study published in the journal Injury Prevention on Tuesday found 116 reports of death or injury of pedestrians wearing headphones, of which 81 were fatal. During the study period, the number of cases tripled. </p>
+
+<p>The researchers suggest that the use of headphones with handheld devices may pose a safety risk to pedestrians, especially in environments with moving vehicles. </p>
+
+<p>Fifty-five per cent of the accidents the researchers identified involved trains, and the majority of victims were male and under the age of 30. </p>
+
+<p>Almost nine out of 10 cases were in urban areas, and almost three in 10 cases mentioned that a warning was sounded before the crash. </p>
+
+<p>The researchers acknowledged a number of limitations to their research. For instance, it relied on media reporting "which likely over-publishes tragic events but vastly under-publishes non-fatal cases." </p>
+
+<p>And factors other than the use of headphones -- such as suicidal intentions, substance abuse or mental illness -- may have played a role in some of the pedestrian injuries and fatalities. They suggested more study is needed. </p>
+
+<p>"The use of cellphones and MP3 players is increasing. The risks posed in use of these devices by drivers are well documented, but little is known about the association between headphone use and pedestrian injury," wrote the researchers, based at the University of Maryland. </p>
+
+<p>"The danger in using headphones as a pedestrian may be explained by two phenomena: auditory masking of outside stimuli (environmental isolation) and distraction (inattentional blindness)." </p>
+
+<p>The study involved searches of the National Electronic Injury Surveillance System, U.S. Consumer Product Safety Commission, Google News Archives and Westlaw Campus Research databases.</p>
+<!-- googleoff: index -->
+
+
+
+<!-- googleon: index -->
+</div>
+
+<!-- googleoff: index -->
+
+
+<div class="commentDiv">
+<div style="display: none">1</div>
+<p class="please"><a id="commentPopUp" name="commentSection" href="http://www.ctv.ca/servlet/HTMLTemplate/!ctvPop/News/Comments?slug=headphone-pedestrians-accidents-120117&date=20120117&hub=TopStoriesV2" rel="ibox&width=625&height=625" >Add 
+<script>
+document.getElementById("commentPopUp").onclick = iBox.handleTag;
+</script>
+<script>
+var numComments = 3;
+</script>
+New Comment (
+<script>
+document.write(numComments);
+</script>
+)
+</a></p>
+
+<!-- googleoff: index -->
+
+
+
+<div class="divider">
+<table id="C52aa1eaa18cdd5527b2850a4e1f77027January172012at74928AM" style="float: left; margin-right: 15px; width: 90px; word-wrap: break-word;" summary="Comment by Ryan, Guelph
+"><tr><td style="vertical-align:middle"><p style="color:#666666"><b style="color:#0099cc">Ryan, Guelph
+</b><br />said
+
+</p></td></tr></table>
+
+
+<table><tr><td style="width: 450px; word-wrap: break-word; vertical-align:middle" id="fontUp">
+
+<!-- googleon: index --><!-- googleoff: index -->
+A first step... not surprising findings. I see people do stupid things when they're plugged in all the time. Hopefully they can do some solid research and people realize just how zoned out they really are, to the point of getting themselves killed.<br>
+<!-- googleon: index --><!-- googleoff: index -->
+<br>
+<!-- googleon: index --><!-- googleoff: index -->
+</td></tr></table>
+</div>
+<div class="clear"></div>
+<br>
+<!-- googleon: index --><!-- googleoff: index -->
+
+
+
+<div class="divider">
+<table id="Cca86f052d097d1a3f5c4331260100cd6January172012at74141AM" style="float: left; margin-right: 15px; width: 90px; word-wrap: break-word;" summary="Comment by L Neil
+"><tr><td style="vertical-align:middle"><p style="color:#666666"><b style="color:#0099cc">L Neil
+</b><br />said
+
+</p></td></tr></table>
+
+
+<table><tr><td style="width: 450px; word-wrap: break-word; vertical-align:middle" id="fontUp">
+
+<!-- googleon: index --><!-- googleoff: index -->
+&quot;Auditory masking of outside stimuli.&quot;.....love how this person makes &quot; wearing earphones&quot; sound so sophisticated and scientific....headphones   ignoring life around you = pain/death....easy as that......<br>
+<!-- googleon: index --><!-- googleoff: index -->
+<br>
+<!-- googleon: index --><!-- googleoff: index -->
+</td></tr></table>
+</div>
+<div class="clear"></div>
+<br>
+<!-- googleon: index --><!-- googleoff: index -->
+
+
+
+<div class="divider">
+<table id="Ce42d6115124710601e65ad31d791ac5cJanuary172012at73225AM" style="float: left; margin-right: 15px; width: 90px; word-wrap: break-word;" summary="Comment by David H in Ottawa
+"><tr><td style="vertical-align:middle"><p style="color:#666666"><b style="color:#0099cc">David H in Ottawa
+</b><br />said
+
+</p></td></tr></table>
+
+
+<table><tr><td style="width: 450px; word-wrap: break-word; vertical-align:middle" id="fontUp">
+
+<!-- googleon: index --><!-- googleoff: index -->
+Technology was supposed to make man smarter; we've become antisocial, lazy and perhaps even less intelligent.  Put down the blackberries/iphones and talk to your neighbour, be it across the table or street.<br>
+<!-- googleon: index --><!-- googleoff: index -->
+<br>
+<!-- googleon: index --><!-- googleoff: index -->
+</td></tr></table>
+</div>
+<div class="clear"></div>
+<br>
+<!-- googleon: index -->
+</div>
+
+
+
+<!-- googleon: index -->
+<!-- googleoff: index -->
+<div class="keyTool">
+<!-- googleoff: index -->
+<div class="toolBottom">
+<h2>User Tools</h2>
+<ul>
+<li class="pArt"><a title="Printer friendly version of this story" href="http://www.ctv.ca/servlet/ArticleNews/print/CTVNews/20120117/headphone-pedestrians-accidents-120117/20120117/?hub=Health&subhub=PrintStory" onClick="printStory(); return false;" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19b','','http://images.ctv.ca/v2/images/icon/share/print2_over.jpg',1)"><img src="http://images.ctv.ca/v2/images/icon/share/print2.jpg" border="0" name="Image19b" width="28" height="29" id="Image19b" style="display: inline; vertical-align:middle; margin-right: 5px" alt="Print Article" />Print Article</a></li>
+<li class="fArt"><a rel="ibox&width=625&height=480" href="http://www.ctv.ca/servlet/HTMLTemplate/!ctvPop/News/Feedback?date=20120117&amp;slug=headphone-pedestrians-accidents-120117&amp;archive=CTVNews&amp;outputFormat=TextEmailFormat-realtime&amp;brand=generic&amp;articleURL=http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/&hub=TopStoriesV2" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21b','','http://images.ctv.ca/v2/images/icon/share/feedback2_over.jpg',1)">
+<img src="http://images.ctv.ca/v2/images/icon/share/feedback2.jpg" border="0" name="Image21b" width="28" height="29" id="Image21b" style="display: inline; vertical-align:middle; margin-right: 5px" alt="Feedback" />Feedback</a></li>
+
+</ul>
+</div>
+<!-- googleon: index -->
+</div>
+<div class="clear"><img height="1" width="1" src="../images/p.gif" /></div>
+<!-- googleoff: index -->
+<div class="shareBottom">
+<p>Share with your social Network:</p> <div class="shareIconBottom">
+<table>
+<tr>
+<td valign="top">
+<a href="#" onclick="javascript:window.open('http://www.facebook.com/sharer.php?u=http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/'  ,'sharer', 'toolbar=0,status=0,width=626,height=436'); return false" title="Send this to friends or post it on your profile." onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image34','','http://images.ctv.ca/v2/images/icon/share/facebook_over.jpg',1)"><img src="http://images.ctv.ca/v2/images/icon/share/facebook2.jpg" border="0" name="Image34" width="28" height="29" id="Image34" alt="Facebook"></a></td>
+<td valign="top"><a title="Submit this story to DIGG" href="http://digg.com/submit?phase=2&url=http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/&title=Accidents involving headphone-wearing pedestrians on the rise&bodytext=A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified." target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image35','','http://images.ctv.ca/v2/images/icon/share/digg2_over.jpg',1)"><img src="http://images.ctv.ca/v2/images/icon/share/digg2.jpg" border="0" name="Image35" width="28" height="29" id="Image35" alt="DIGG"/></a>
+</td>
+<td valign="top">
+<a href="javascript:void(0)" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&u=http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/','newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')" title="Submit this story to Newsvine" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image36','','http://images.ctv.ca/v2/images/icon/share/newsvine2_over.jpg',1)"><img src="http://images.ctv.ca/v2/images/icon/share/newsvine2.jpg" border="0" name="Image36" width="28" height="29" id="Image36" alt="Newsvine" /></a>
+</td>
+<td valign="top">
+<a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;" title="Submit this story to del.icio.us" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image37','','http://images.ctv.ca/v2/images/icon/share/delicious2_over.jpg',1)"><img src="http://images.ctv.ca/v2/images/icon/share/delicious2.jpg" border="0" name="Image37" width="28" height="29" id="Image37" alt="Delicious"/></a>
+</td>
+<td valign="top">
+<a href="http://twitter.com/home?status=http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/&title=Accidents involving headphone-wearing pedestrians on the rise&bodytext=A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified." title="Click to share this post on Twitter" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image38','','http://images.ctv.ca/v2/images/icon/share/twiiter2_over.jpg',1)"><img src="http://images.ctv.ca/v2/images/icon/share/twiiter2.jpg" border="0" name="Image38" width="28" height="29" id="Image38" alt="Twitter" /></a>
+</td>
+<td valign="top">
+<a href="http://www.stumbleupon.com/submit?url=http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/&title=Accidents involving headphone-wearing pedestrians on the rise" target="_blank" title="Submit this story to StumbleUpon" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image39','','http://images.ctv.ca/v2/images/icon/share/stumbleupon2_over.jpg',1)"><img src="http://images.ctv.ca/v2/images/icon/share/stumbleupon2.jpg" border="0" name="Image39" width="28" height="29" id="Image39" alt="StumbeUpon"/></a>
+</td>
+<td valign="top">
+<a href="http://www.reddit.com/submit" target="_blank" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false" title="submit to reddit" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image40','','http://images.ctv.ca/v2/images/icon/share/reddit2_over.jpg',1)"><img src="http://images.ctv.ca/v2/images/icon/share/reddit2.jpg" border="0" name="Image40" width="28" height="29" id="Image40" alt="Reddit"/></a>
+</td>
+<td valign="top">
+<a href="http://buzz.yahoo.com/buzz?targetUrl=http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/&headline=Accidents involving headphone-wearing pedestrians on the rise&summary=A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified." target="_blank" title="Submit this story to Yahoo! Buzz" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image41','','http://images.ctv.ca/v2/images/icon/share/buzz2_over.jpg',1)"><img src="http://images.ctv.ca/v2/images/icon/share/buzz2.jpg" border="0" name="Image41" width="28" height="29" id="Image41" alt="Yahoo! Buzz"/></a>
+</td>
+</tr>
+</table></div>
+</div>
+<!-- googleon: index -->
+<div class="clear"><img height="1" width="1" src="../images/p.gif" /></div>
+<p>&nbsp;</p>
+
+<!-- googleon: index -->
+</div>
+
+<!-- googleoff: index -->
+
+<style>
+.time {display:none!important}
+</style>
+
+
+<div class="storyRight">
+
+
+
+
+	
+								<div class="banner02">
+									<div>
+									<script type="text/javascript">placeRandom("300x250");</script>
+									</div>
+									<p>Advertisement</p>
+								</div>
+
+		
+
+<div class="clear" style="height:15px"></div>
+
+		<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FCTVNationalNews&amp;width=292&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true"></iframe>
+	
+
+
+
+
+
+<div class="clear" style="height:25px"></div>
+<div class="rightTop">
+<h2>Related Stories</h2>
+<div class="rightBox">
+<ul><li class="related">
+	
+    <a href="/CTVNews/Health/20110803/bc_ipod_volumes_music_players_110803/">B.C. medical journal calls for cap on iPod volumes</a>
+</li><li class="related">
+	
+    <a href="/CTVNews/Health/20091124/fatal_pedestrian_091124/">Dead pedestrian was reportedly wearing ear buds</a>
+</li></ul>
+</div>
+</div>
+
+
+
+
+<!--
+<script>
+includeTracking();
+</script>
+-->
+<div class="contest-box">
+<div id="flashContest"></div>
+<script>
+	var so1 = new SWFObject("/v2/swf/contestRotatorBeta.swf", "CTVContestSWF", "300", "100", "9", "transparent");
+	so1.addParam("allowScriptAccess", "always");
+	so1.addParam("wmode", "transparent");
+	so1.addVariable("theFile", "/generic/generated/news/ContestImagesBeta.html");  // pass in whatever you want for the playlist parameter here.
+	so1.useExpressInstall('http://www.ctv.ca/v2/expressinstall.swf');  // this will auto-upgrade the user if necessary without them having to leave the site
+	so1.write("flashContest");  // "Flashbase" is the HTML ID of the container you want the SWF to reside in.
+		</script>
+<div>
+										<span>Contest</span>
+										
+
+</div>
+</div>
+
+
+
+<script>
+document.getElementById("flashContest").style.display = "none";
+</script>
+<style>
+.contest-box {display:none}
+.underContest {margin-top:0px;}
+</style>
+
+
+
+
+
+
+
+
+<!--medical-->
+<div class="underContest">
+      
+<div id="storyFeatureBox">
+
+
+  
+   <h2 class="storyFeatureTitle">Subscribe!</h2>
+  
+  
+<div class="storyFeatureItem" id="currentFeature1">
+
+<a href="http://www.ctv.ca/mednewsexpress"><img src="http://www.ctv.ca/archives/CTVNews/img2/20090928/150_mednews_express4.jpg" width="110" height="60" border="0" alt="MedNews Express newsletter" /></a>
+<h3><a href="http://www.ctv.ca/mednewsexpress">CTV MedNews Express</a></h3>
+<p>Sign up for our weekly medical newsletter, delivered for free to your inbox. </p>
+
+</div>
+<div class="clear2"><img height="1" width="1" src="../images/p.gif" /></div>
+
+  
+   <h2 class="storyFeatureTitle">CTV.ca Blogs</h2>
+  
+  
+<div class="storyFeatureItem" id="currentFeature2">
+
+<a href="http://healthblog.ctv.ca"><img src="http://www.ctv.ca/archives/CTVNews/img2/20091027/150_marla_091027.jpg" width="110" height="60" border="0" alt="Dr. Marla Shapiro" /></a>
+<h3><a href="http://healthblog.ctv.ca">Health Blog</a></h3>
+<p>Check out what our guest medical experts and CTV health reporters are writing about.  </p>
+
+</div>
+<div class="clear2"><img height="1" width="1" src="../images/p.gif" /></div>
+
+  
+   <h2 class="storyFeatureTitle">Twitter</h2>
+  
+  
+<div class="storyFeatureItem" id="currentFeature3">
+
+<a href="http://twitter.com/#!/CTV_AvisFavaro" target="_blank"><img src="http://www.ctv.ca/archives/CTVNews/img2/20110914/110_twitter_avis_red.jpg" width="110" height="62" border="0" alt="Avis Favaro Twitter" /></a>
+<h3><a href="http://twitter.com/#!/CTV_AvisFavaro" target="_blank">Follow us on Twitter</a></h3>
+<p>Follow CTV medical specialist Avis Favaro on Twitter.</p>
+
+</div>
+<div class="clear2"><img height="1" width="1" src="../images/p.gif" /></div>
+</div>
+	  </div>
+
+<div class="underContest">
+</div>
+<div class="underContest">
+
+
+<div class="clear"></div>
+</div>
+
+
+
+	<div class="underContest">
+		<div class="storyMostPopular">
+	<h2>Most Popular</h2>
+	<div class="mPStories">
+		<ul>
+			
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/mexican-police-canadian-man-killed-120117/" title="Police in Mexico say the body of a Canadian man has been found on a street in the city of Culiacan in Sinaloa state.">Canadian shot to death with high-powered firearm in Mexico</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/divers-blast-holes-in-hull-of-cruise-ship-120117/" title="Italian naval divers on Tuesday exploded holes in the hull of a cruise ship grounded off a Tuscan island to speed the search for 29 missing people while seas were still calm. One official said there was still a quot;glimmer of hopequot; that survivors could be found.">Rescuers blast holes in hull of stricken cruise ship</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/Entertainment/20120117/gervais-instructs-agent-not-to-let-him-host-golden-globes-again-120117/" title="Ricky Gervais says he's instructed his agent not to let him host the Golden Globes for a fourth time.">Gervais' agent has been told not to let him host again</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/wikipedia-blackout-anti-piracy-legislation-120117/" title="Wikipedia will black out the English language version of its website Wednesday to protest anti-piracy legislation under consideration in Congress, the foundation behind the popular community-based online encyclopedia said in a statement.">Wikipedia will go dark in protest of legislation</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/headphone-pedestrians-accidents-120117/" title="A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified.">Accidents involving headphone-wearing pedestrians on the rise</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/Entertainment/20120117/megan-fox-liz-and-dick-casting-competition-120117/" title="Megan Fox is in negotiations to play the late Dame Elizabeth Taylor in a new movie.">Megan Fox, Lindsay Lohan competing to play Liz Taylor</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/tanker-fuel-transfer-alaskan-city-120117/" title="A Russian tanker and its crew have begun offloading more than a million gallons of fuel to an iced-in city along the western coast of Alaska.">Tanker begins fuel transfer at iced-in Alaskan city</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/cdn-paediatric-society-says-make-helmets-mandatory-on-the-slopes-120117/" title="The Canadian Paediatric Society is calling for legislation that would make it mandatory for skiers and snowboarders of any age to wear a helmet.">Make helmets mandatory on the slopes, society says</a></p></li>
+
+		</ul>
+	</div>
+</div>
+
+		<div class="clear" style="height:0px"></div>
+	</div>
+	
+	<div class="underContest">
+		
+				
+
+
+
+
+		
+		
+		
+	
+
+<div class="storyTopStory">
+	<h2>Today's Health Stories</h2>
+	
+			<div class="clear"></div>
+			<div class="mStory">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href=
+
+"http://www.ctv.ca/CTVNews/Health/20120117/cdn-paediatric-society-says-make-helmets-mandatory-on-the-slopes-120117/"
+
+   >
+
+
+
+
+<!-- ********** IMG2 SHRUNK IMAGE ********* -->
+    
+    
+      
+
+
+
+
+<img src="http://www.ctv.ca/servlet/ImageShrinker?http://www.ctv.ca/archives/CTVNews/img2/20120117/800_ski_helmets_ap_120117.jpg,150,84" width="150" height="84" alt="Skiers, wearing helmets, watch as others finish a day on the slopes at Mont Tremblant, on Thursday, March 19, 2009.  (Peter McCabe / THE CANADIAN PRESS)" border="0" />
+
+        
+      
+    
+    
+	
+
+</a>
+				<h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href=
+
+"http://www.ctv.ca/CTVNews/Health/20120117/cdn-paediatric-society-says-make-helmets-mandatory-on-the-slopes-120117/"
+
+    title="The Canadian Paediatric Society is calling for legislation that would make it mandatory for skiers and snowboarders of any age to wear a helmet.">
+Make helmets mandatory on the slopes, society says</a></h3>
+				<p class="fullStory">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href=
+
+"http://www.ctv.ca/CTVNews/Health/20120117/cdn-paediatric-society-says-make-helmets-mandatory-on-the-slopes-120117/"
+
+    title="The Canadian Paediatric Society is calling for legislation that would make it mandatory for skiers and snowboarders of any age to wear a helmet.">
+More</a> 
+&nbsp;<span style="white-space: nowrap;"><em id="cLeft"> </em><a class="cLink" href="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20120117/cdn-paediatric-society-says-make-helmets-mandatory-on-the-slopes-120117/20120117/?hub=Health#commentSection">
+
+
+<img src="http://images.ctv.ca/v2/images/icon/iconComment.gif" style="display: inline" class="miniIcon" alt="9 Comments"/> 9
+</a><em id="cRight">&nbsp;</em></span>
+
+
+
+
+<script>
+//create_date 20120117
+//date 20120117
+</script>
+
+
+        
+
+
+	
+
+
+
+</p>
+			</div>
+		
+			<div class="clear"></div>
+			<div class="mStory">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href=
+
+"http://www.ctv.ca/CTVNews/Health/20120117/us-draft-reports-sets-alzheimers-goals-120117/"
+
+   >
+
+
+
+
+<!-- ********** IMG2 SHRUNK IMAGE ********* -->
+    
+    
+      
+
+
+
+
+<img src="http://images.ctv.ca/archives/CTVNews/img2/20120104/470_dementia_alzheimers2_ap_120104_15084.jpg?2" width="150" height="84" alt="Shou-Mei Li holds the hand of her husband Hsien-Wen Li, who is an Alzheimer's patient, at their home in San Francisco, in this photo taken, Thursday, Sept. 1, 2011. Dementia is poised to become a defining disease of a rapidly aging population. (AP / Ben Margot)" border="0"/>
+
+        
+      
+    
+    
+	
+
+</a>
+				<h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href=
+
+"http://www.ctv.ca/CTVNews/Health/20120117/us-draft-reports-sets-alzheimers-goals-120117/"
+
+    title="The government is setting what it calls an ambitious goal for Alzheimer's disease: Development of effective ways to treat and prevent the mind-destroying illness by 2025.">
+U.S. draft report:  Alzheimer's treatment by 2025</a></h3>
+				<p class="fullStory">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href=
+
+"http://www.ctv.ca/CTVNews/Health/20120117/us-draft-reports-sets-alzheimers-goals-120117/"
+
+    title="The government is setting what it calls an ambitious goal for Alzheimer's disease: Development of effective ways to treat and prevent the mind-destroying illness by 2025.">
+More</a> 
+
+
+
+<script>
+//create_date 20120117
+//date 20120117
+</script>
+
+
+        
+
+
+	
+
+
+
+</p>
+			</div>
+		
+			<div class="clear"></div>
+			<div class="mStory">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href=
+
+"http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/"
+
+   >
+
+
+
+
+<!-- ********** IMG2 SHRUNK IMAGE ********* -->
+    
+    
+      
+
+
+
+
+<img src="http://images.ctv.ca/archives/CTVNews/img2/20111214/470_ott_swarming_man_ballcap_headphones_111214_15084.jpg?2" width="150" height="84" alt="Pedistrian wearing headphones" border="0"/>
+
+        
+      
+    
+    
+	
+
+</a>
+				<h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href=
+
+"http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/"
+
+    title="A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified.">
+Accidents involving headphone-wearing pedestrians on the rise</a></h3>
+				<p class="fullStory">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href=
+
+"http://www.ctv.ca/CTVNews/Health/20120117/headphone-pedestrians-accidents-120117/"
+
+    title="A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified.">
+More</a> 
+&nbsp;<span style="white-space: nowrap;"><em id="cLeft"> </em><a class="cLink" href="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20120117/headphone-pedestrians-accidents-120117/20120117/?hub=Health#commentSection">
+
+
+<img src="http://images.ctv.ca/v2/images/icon/iconComment.gif" style="display: inline" class="miniIcon" alt="3 Comments"/> 3
+</a><em id="cRight">&nbsp;</em></span>
+
+
+
+
+<script>
+//create_date 20120117
+//date 20120117
+</script>
+
+
+        
+
+
+	
+
+
+
+</p>
+			</div>
+		
+</div>
+			
+
+		<div class="clear"></div>
+	</div>
+</div>
+<!-- googleon: index -->
+
+</div>
+</div>
+
+
+											
+										
+
+					
+	
+	<div class="headlineBorder">
+
+
+<!-- googleoff: index -->
+<div class="headlineBorder">
+<div style="margin: 20px auto 0px; width: 820px; padding-left: 130px">
+<div class="mostViewed">
+<h2>Most Viewed News Stories</h2>
+<div class="viewedContent">
+<ul>
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/mexican-police-canadian-man-killed-120117/" title="Police in Mexico say the body of a Canadian man has been found on a street in the city of Culiacan in Sinaloa state.">Canadian shot to death with high-powered firearm in Mexico</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/divers-blast-holes-in-hull-of-cruise-ship-120117/" title="Italian naval divers on Tuesday exploded holes in the hull of a cruise ship grounded off a Tuscan island to speed the search for 29 missing people while seas were still calm. One official said there was still a quot;glimmer of hopequot; that survivors could be found.">Rescuers blast holes in hull of stricken cruise ship</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/Entertainment/20120117/gervais-instructs-agent-not-to-let-him-host-golden-globes-again-120117/" title="Ricky Gervais says he's instructed his agent not to let him host the Golden Globes for a fourth time.">Gervais' agent has been told not to let him host again</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/wikipedia-blackout-anti-piracy-legislation-120117/" title="Wikipedia will black out the English language version of its website Wednesday to protest anti-piracy legislation under consideration in Congress, the foundation behind the popular community-based online encyclopedia said in a statement.">Wikipedia will go dark in protest of legislation</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/headphone-pedestrians-accidents-120117/" title="A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified.">Accidents involving headphone-wearing pedestrians on the rise</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/Entertainment/20120117/megan-fox-liz-and-dick-casting-competition-120117/" title="Megan Fox is in negotiations to play the late Dame Elizabeth Taylor in a new movie.">Megan Fox, Lindsay Lohan competing to play Liz Taylor</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/tanker-fuel-transfer-alaskan-city-120117/" title="A Russian tanker and its crew have begun offloading more than a million gallons of fuel to an iced-in city along the western coast of Alaska.">Tanker begins fuel transfer at iced-in Alaskan city</a></p></li>
+
+
+
+
+<li><p><a href="http://www.ctv.ca/CTVNews/TopStories/20120117/cdn-paediatric-society-says-make-helmets-mandatory-on-the-slopes-120117/" title="The Canadian Paediatric Society is calling for legislation that would make it mandatory for skiers and snowboarders of any age to wear a helmet.">Make helmets mandatory on the slopes, society says</a></p></li>
+
+</ul>
+</div>
+<div class="divider">
+<p class="mostViewedMore"><a href="http://www.ctvnews.ca">View More News Stories</a></p>
+</div>
+</div>
+<div style="padding-top:5px">
+<div class="most-viewed">
+								<h3><span>Most Talked about Stories</span></h3>
+								<div class="most-viewed-content">
+									<div class="quote-box">
+											<p><div><p>Technology was supposed to make man smarter; we've become antisocial, lazy and perhaps even less intelligent.  Put down the blackberries/iphones and talk to your neighbour, be it across the table or street.<br/></p></div><h4>David H in Ottawa</h4><a href='http://www.ctv.ca/CTVNews//20120117/headphone-pedestrians-accidents-120117/'>Accidents involving headphone-wearing pedestrians on the rise</a></h4></p>
+									</div>
+								</div>
+								<div class="clear"></div>
+<div class="divider">
+<p class="mostTalkedMore"><a href="http://www.ctvnews.ca">Got something to say? Share on CTV News</a></p>
+</div></div>
+</div>
+</div>
+<!-- googleon: index -->
+
+
+</div>
+
+</div>
+
+
+<!-- googleoff: index -->
+
+<!-- googleoff: index -->
+	
+			</div>			
+			<script>
+if (document.getElementsByTagName("title")[0].innerHTML == (""))
+{
+if (document.getElementsByTagName("title")[1] != null)
+{
+document.title = document.getElementsByTagName("title")[1].innerHTML;
+}
+else if (document.getElementsByTagName("META")[4] != null)
+{
+document.title = document.getElementsByTagName("META")[4].content
+}
+}
+</script>
+<script>
+if (document.getElementById("content") != null)
+{
+var atags = document.body.getElementsByTagName("a");
+var tempLink;
+for (i = 0; i < atags.length; i++)
+{
+tempLink = atags[i].getAttribute('href');
+if (tempLink != null && tempLink.indexOf("twitter.com") == -1 && tempLink.indexOf("mailto:") == -1)
+{
+if (atags[i].getAttribute('href').indexOf("mini") == -1 && atags[i].getAttribute('href').indexOf("storyv2") == -1 && atags[i].getAttribute('href').indexOf("/servlet/HTMLTemplate/!ctvPop/News/") == -1)
+{
+}
+atags[i].setAttribute("href", atags[i].getAttribute('href').replace("businessBN/ctv-business", "businessBN/ctv-business?ctvBeta=yes"));
+
+if (atags[i].getAttribute('href').charAt(0) == "/" && atags[i].getAttribute('href').indexOf("mini") == -1)
+{
+}
+}
+}
+}
+includeTracking();
+</script>
+<script>
+function sendEmailOmn()
+    {          
+    }
+
+var locBar = window.location.href;
+var nullURL = "";
+//for stories
+if (typeof(window["hbx"]) == "undefined")
+{       
+	if (locBar.indexOf("page-not-found-101122") != -1){
+		//do nothing
+	}
+    else if (locBar.indexOf("servlet/ArticleNews/story/CTVNews") != -1 || locBar.indexOf("www.ctv.ca/CTVNews") != -1 || locBar.indexOf("autos.ctv.ca/CTVNews") != -1)
+    {
+	    var hubVal = switchHubs("Health");
+	    var pnn = "headphone-pedestrians-accidents-120117";
+	    Tracking.SetSiteSection( "ctvnews" );
+	    Tracking.SetContentTitle(pnn.toLowerCase());
+	    var creditL = "The Canadian Press";
+	    var s1 = hubVal.toLowerCase();
+	    var s2 = "story";
+	    var s3;
+	    if (creditL.indexOf("Associated Press") != -1 || creditL.indexOf("Canadian Press") != -1)
+	    {		
+		    s3 = "cp";
+	    }
+	    else
+	    {
+		    s3 = null;
+	    }
+	    var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+	    Tracking.SetPageName(totalString.toLowerCase());
+		/*
+		if(pnn == "page-not-found-101122"){
+			Tracking.SetPageType("errorPage");
+		}
+		*/
+	    Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+	    Tracking.Track();	
+    }	
+else if (locBar.indexOf("servlet/ArticleNews/corp/CTVShows") != -1)
+    {
+            var pnn = "headphone-pedestrians-accidents-120117";
+            Tracking.SetSiteSection( "corporate" );
+            Tracking.SetContentTitle(pnn.toLowerCase());
+            var s1 = "general";
+	    if ("Top,Top,Top" == "Top")
+            {
+                s1 = "annoucements";
+            }
+            var s2 = null;
+            var s3 = null;
+     	    var totalString = "corporate : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+            Tracking.SetPageName(totalString.toLowerCase());
+            Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+            Tracking.Track();
+    }
+    else if (locBar.indexOf("autos.ctv.ca/cgi-bin") != -1)
+{
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "autos";
+        var s2 = null;
+        var s3 = null;
+        var pnn = "Inside";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.Track();
+}
+else if (locBar.indexOf("autos.ctv.ca/reviews") != -1)
+{
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "autos";
+        var s2 = null;
+        var s3 = null;
+        var pnn = "reviews";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.Track();
+}
+else if (locBar.indexOf("autos.ctv.ca/cartips") != -1)
+{
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "autos";
+        var s2 = null;
+        var s3 = null;
+        var pnn = "cartips";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.Track();
+}
+else if (locBar.indexOf("autos.ctv.ca/greendriving") != -1)
+{
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "autos";
+        var s2 = null;
+        var s3 = null;
+        var pnn = "greendriving";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.Track();
+}
+else if (locBar.indexOf("autos.ctv.ca/photos") != -1)
+{
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "autos";
+        var s2 = null;
+        var s3 = null;
+        var pnn = "photos";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.Track();
+}
+else if (locBar.indexOf("autos.ctv.ca") != -1 && locBar.indexOf("testautos.ctv.ca") == -1)
+{
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "autos";
+        var s2 = null;
+        var s3 = null;
+        var pnn = "Home";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.Track();
+}
+    else if (typeof(window["siteSectionOmn"]) != "undefined")
+    {
+        Tracking.SetSiteSection( siteSectionOmn.toLowerCase() );
+        var s1 = s1Omn;
+        var s2 = s2Omn;
+        var s3 = s3Omn;
+        var pnn = pageOmn;
+        var totalString = siteSectionOmn.toLowerCase() + " : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));        
+        Tracking.Track();    
+    }    
+    else if ("Health" != nullURL)
+    {
+        var hubVal = switchHubs("Health");
+        var siteNameI = "ctvnews";
+        if ("Health" == "home")
+        {
+            siteNameI = "ctvhome";
+        }
+       
+        Tracking.SetSiteSection( siteNameI );
+        var pnn = hubVal.toLowerCase();
+        var s1 = hubVal.toLowerCase();
+	    var s2 = "hub";
+	    var s3 = null;
+	    var totalString = siteNameI + " : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+	    Tracking.SetPageName(totalString.toLowerCase());
+	    Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+	    Tracking.Track();		
+    }
+	else if (locBar.indexOf("swo.ctv.ca/gallery/html") != -1)
+    {
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "affiliate";
+		var galName = locBar.replace("http://swo.ctv.ca/gallery/html/", "");
+        var pnn = "photo_0";
+		galName = galName.replace("/gallery_.html", "")
+        var s2 = "southwesternontario";//galName;
+        var s3 = "photogallery";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.SetContentId(galName);
+        Tracking.Track();    
+    }
+	else if (locBar.indexOf("saskatoon.ctv.ca/gallery/html") != -1)
+    {
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "affiliate";
+		var galName = locBar.replace("http://saskatoon.ctv.ca/gallery/html/", "");
+        var pnn = "photo_0";
+		galName = galName.replace("/gallery_.html", "")
+        var s2 = "saskatoon";//galName;
+        var s3 = "photogallery";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.SetContentId(galName);
+        Tracking.Track();    
+    }
+	else if (locBar.indexOf("regina.ctv.ca/gallery/html") != -1)
+    {
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "affiliate";
+		var galName = locBar.replace("http://regina.ctv.ca/gallery/html/", "");
+        var pnn = "photo_0";
+		galName = galName.replace("/gallery_.html", "")
+        var s2 = "regina";//galName;
+        var s3 = "photogallery";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.SetContentId(galName);
+        Tracking.Track();    
+    }
+	else if (locBar.indexOf("toronto.ctv.ca/gallery/html") != -1)
+    {
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "affiliate";
+		var galName = locBar.replace("http://toronto.ctv.ca/gallery/html/", "");
+        var pnn = "photo_0";
+		galName = galName.replace("/gallery_.html", "")
+        var s2 = "toronto";//galName;
+        var s3 = "photogallery";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.SetContentId(galName);
+        Tracking.Track();    
+    }
+	else if (locBar.indexOf("atlantictest.ctv.ca/gallery/html") != -1)
+    {
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "affiliate";
+		var galName = locBar.replace("http://atlantictest.ctv.ca/gallery/html/", "");
+        var pnn = "photo_0";
+		galName = galName.replace("/gallery_.html", "")
+        var s2 = "atlantic";//galName;
+        var s3 = "photogallery";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.SetContentId(galName);
+        Tracking.Track();    
+    }
+    else if (locBar.indexOf("www.ctv.ca/gallery/html") != -1)
+    {
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "photogallery";
+        var galName = locBar.replace("http://www.ctv.ca/gallery/html/", "");
+        var pnn = "photo_0";
+        galName = galName.replace("/photo_0.html", "")
+        galName = galName.replace("/index_.html", "")
+        var s2 = galName;
+        var s3 = null;
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.SetContentId(galName);
+        Tracking.Track();    
+    }
+    else if (locBar.indexOf("weatherCity") != -1)
+    {
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "weather";
+        var s2 = "hub";
+        var s3 = null;
+        var pnn = "";
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.Track();    
+    }
+    else if (locBar.indexOf("/servlet/HTMLTemplate/!ctv/Search") != -1)
+    {
+        Tracking.SetSiteSection( "ctvnews" );
+        var s1 = "search";
+        var s2 = "hub";
+        var s3 = null;
+        var pnn = "searchnews";//document.getElementById("searchText").innerHTML;
+        var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.TrackSearch(document.getElementById("searchText").innerHTML, 0);
+        Tracking.Track();    
+    }
+	else if (locBar.indexOf("/search") != -1)
+    {
+        Tracking.SetSiteSection( "ctvhome" );
+        var s1 = "searchctv_ca";
+        var s2 = "hub";
+        var s3 = null;
+        var pnn = "searchctv_ca";//document.getElementById("searchText").innerHTML;
+        var totalString = "ctvhome : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();
+        Tracking.SetPageName(totalString.toLowerCase());
+        Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));
+        Tracking.TrackSearch(document.getElementById("searchText").innerHTML, 0);
+        Tracking.Track();    
+    }
+    else if (locBar.indexOf("www.tsnn.ca/ctvnews") != -1 || locBar.indexOf("www.tsn.ca/ctvnews") != -1)
+    {
+
+    }    
+    else
+    {
+
+    }
+}
+	
+	
+	
+	
+</script>
+<!-- googleoff: index -->
+<div class="esti">
+	
+
+   <link href="http://shows.ctv.ca/ctvresources/css/components/footernew.css" type="text/css" rel="Stylesheet" />
+   
+	<div class="footerholderarea">
+		<div class="containment">		
+						</div>
+
+			<div class="aboutarea">
+				<ul class="aboutarealist">
+					<li><a href="http://www.ctv.ca/generic/generated/static/CorpAbout/about.html" target="_blank">About CTV</a></li>
+					<li><a href="http://works.workopolis.com/customers/bgm/gi/" target="_blank">Careers</a></li>
+					<li><a href="http://www.bellmediapr.ca/ctv/releases/" target="_blank">Bell Media Announcements</a></li>
+					<li><a href="http://adsales.bellmedia.ca/" target="_blank">Advertise on CTV</a></li>
+					<li><a href="http://ctvmedia.ca/" target="_blank">Bell Media PR</a></li>
+					<li  class="last"><a href="http://www.bell.ca/shopping/PrsShpCTV_Privacy.page" target="_blank">Privacy Policy</a></li>				
+				</ul>				
+                <ul class="aboutarealist">
+					<li><a href="http://www.bell.ca/shopping/PrsShpCTV_Terms.page" target="_blank">Terms and Conditions</a></li>
+					<li><a href="http://www.ctv.ca/contactus/" target="_blank">Contact Us</a></li>	
+                    <li class="last"><a href="http://www.bellmedia.ca/about/Media_CTV.page?language=en" target="_blank">Producer Guidelines</a></li>
+				</ul>
+			</div>
+			
+	
+	
+    <div id="footer">
+        <div class="footer">
+        
+        <!-- show logos -->
+        <div class="links-box">
+		        <div class="links-bg">
+					        <div class="links-info">
+                                
+
+    <img src="http://shows.ctv.ca/ctvresources/images/logo-Wall.jpg" alt="footer" width="916" height="160" usemap="#Map" />
+    <map name="Map" id="Map">
+        <area shape="rect" coords="378,112,407,159" href="http://ca.eonline.com/" target="_blank" alt="E!" />
+        <area shape="rect" coords="431,115,479,159" href="http://www.spacecast.com/" target="_blank" alt="SPACE" />
+        <area shape="rect" coords="499,119,557,158" href="http://www.ctvolympics.ca/" target="_blank" alt="CTV Olympics" />
+        <area shape="rect" coords="16,118,67,154" href="http://investigationdiscovery.ca/" target="_blank" alt="Investigation Discovery" />
+        <area shape="rect" coords="662,66,706,98" href="http://www.booktelevision.com/" target="_blank" alt="Book Television" />
+        <area shape="rect" coords="597,67,647,99" href="http://www.bravo.ca/" target="_blank" alt="BRAVO" />
+        <area shape="rect" coords="520,68,585,99" href="http://www.fashiontelevision.com/" target="_blank" alt="Fashion Television" />
+        <area shape="rect" coords="308,62,371,105" href="http://tsn.ca/nhlnetwork/" target="_blank" alt="NHL"  />
+        <area shape="rect" coords="451,66,501,97" href="http://www.rds.ca/ris" target="_blank" alt="INFO Sports" />
+        <area shape="rect" coords="815,70,896,95" href="http://discoveryworldhd.ca/" target="_blank" alt="Discovery World HD" />
+        <area shape="rect" coords="78,112,146,156" href="http://www.animalplanet.ca/" target="_blank" alt="Discovery Science" />
+        <area shape="rect" coords="377,68,441,99" href="http://www.tsn.ca/classic" target="_blank" alt="ESPN Classic" />
+        <area shape="rect" coords="296,119,356,157" href="http://www.comedygold.ca/" target="_blank" alt="COMEDY GOLD" />
+        <area shape="rect" coords="214,120,287,152" href="http://www.thecomedynetwork.ca/" target="_blank" alt="Comedy Network" />
+        <area shape="rect" coords="160,111,202,158" href="http://www.sciencechannel.ca/" target="_blank" alt="ANIMAL PLANET" />
+        <area shape="rect" coords="722,64,799,95" href="http://www.discoverychannel.ca/" target="_blank" alt="Discovery Channel" />
+        <area shape="rect" coords="484,6,530,44" href="http://www.muchloud.com/" target="_blank" alt="MUCH LOUD" />
+        <area shape="rect" coords="164,69,217,97" href="http://www.rds.ca/" target="_blank" alt="RDS" />
+        <area shape="rect" coords="226,64,298,97" href="http://www.rds2.ca/" target="_blank" alt="RDS2" />
+        <area shape="rect" coords="79,67,154,97" href="http://www.tsn.ca/tsn2/schedule/?channel=TSN2" target="_blank" alt="TSN2" />
+        <area shape="rect" coords="14,70,69,100" href="http://www.tsn.ca/" target="_blank" alt="TSN" />
+        <area shape="rect" coords="425,7,470,43" href="http://www.mtv.ca/" target="_blank" alt="MTV" />
+        <area shape="rect" coords="852,5,902,44" href="http://www.mtv2.ca/" target="_blank" alt="MTV2" />
+        <area shape="rect" coords="760,8,843,44" href="http://www.juiceboxtv.ca/" target="_blank" alt="JUICEBOX" />
+        <area shape="rect" coords="696,8,748,42" href="http://www.muchvibe.ca/" target="_blank" alt="MUCH VIBE" />
+        <area shape="rect" coords="332,10,400,41" href="http://www.muchmusic.com/" target="_blank" alt="MUCH" />
+        <area shape="rect" coords="634,7,673,42" href="http://www.muchmoreretro.com/" target="_blank" alt="MUCH MORE RETRO" />
+        <area shape="rect" coords="549,8,612,41" href="http://www.muchmore.ca/" target="_blank" alt="MUCH MORE MUSIC" />
+        <area shape="rect" coords="261,6,317,43" href="http://www.cp24.com/" target="_blank" alt="CTV Two" />
+        <area shape="rect" coords="177,7,237,43" href="http://www.bnn.ca/" target="_blank" alt="CP24" />
+        <area shape="rect" coords="96,5,156,43" href="http://www.ctv.ca/news" target="_blank" alt="BNN" />
+        <area shape="rect" coords="16,7,71,44" href="http://www.ctv.ca/two/" target="_blank" alt="CTV News Channel" />
+    </map>
+
+                            </div>
+                </div>
+        </div>                
+        <!-- end of show logos -->
+        	
+    	
+        <p>Use of this Website assumes acceptance of <a href="http://www.bell.ca/shopping/PrsShpCTV_Terms.page" target = "_blank">Terms &amp; Conditions</a> and <a href="http://www.bell.ca/shopping/PrsShpCTV_Privacy.page" target="_blank">Privacy Policy</a></p>
+	        <div class="copy">
+		        <span>&copy; 2012</span>
+		        <a href="http://www.bellmedia.ca" target="_blank" class="logotype">CTV</a>
+		        <span>All rights reserved</span>
+                <span class="right">Bell Media Television</span>
+	        </div>
+    				
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="http://metrics.ctvdigital.net/comscore/beacon.js"></script>
+
+							
+			
+</div>
+<!-- publishflow --><script type='text/javascript'>var _sf_async_config={uid:2895,domain:'ctv.ca'};(function(){function loadPublishflow() {window._sf_endpt=(new Date()).getTime();var e = document.createElement('script');e.setAttribute('language', 'javascript');e.setAttribute('type', 'text/javascript');e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://s3.amazonaws.com/' : 'http://s3.amazonaws.com/') + 'publishflow/javascript/data.js');document.body.appendChild(e);}var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ?loadPublishflow : function() { oldonload(); loadPublishflow(); };})();</script><!-- end publishflow -->
+
+<script type="text/javascript">
+	s.trackExternalLinks = false;
+</script>
+
+
+<!-- googleon: index -->
+<!-- googleon: index -->
+<div class="menu-bottomH">
+	<div class="newsmenu-hold">
+		<ul id="menu">								
+			
+
+<link rel="stylesheet" href="http://shows.ctv.ca/ctvresources/css/components/mega-menu.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://shows.ctv.ca/ctvresources/css/components/mega-menu-css-news-overrides.css" type="text/css" media="screen" charset="utf-8" />
+
+<script type="text/javascript" src='http://shows.ctv.ca/ctvresources/js/jquery-1.3.2.min.js'></script>
+<script type="text/javascript" src='http://shows.ctv.ca/ctvresources/js/ctv.js'></script>
+<script type="text/javascript" src='http://shows.ctv.ca/ctvresources/js/ctv.modules.megamenu.js'></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var megaMenu = new CTV.modules.MegaMenu({
+            ctvShowsMenuButtonSelector: "#ctv-shows-menu-button",
+            ctvTwoShowsMenuButtonSelector: "#ctvtwo-shows-menu-button",
+            ctvShowsMenuSelector: "#ctv-shows-menu-content",
+            ctvTwoShowsMenuSelector: "#ctvtwo-shows-menu-content"
+        });
+    });
+</script>
+
+
+<!-- googleoff: index -->
+<li>
+	<a id="SiteNavShowButton" href="http://shows.ctv.ca" class="btn  " title="Browse Shows"><span>Shows</span></a>
+	<div id="shows-mega-menu" class="mega-menu drop">
+        <div class="menu-top">
+            <div class="filter">
+                <span>Filter:</span>
+                <span class="separator">&nbsp;</span>
+            
+                <a id="ctv-shows-menu-button" class="button-container on" href="#">
+                    <button type="button">CTV</button>
+                </a>
+
+                <span class="separator">&nbsp;</span>
+            
+                <a id="ctvtwo-shows-menu-button" class="button-container" href="#">
+                    <button type="button">CTV Two</button>           
+                </a>
+
+                <span class="separator">&nbsp;</span>
+            </div>
+        </div>
+        <div class="menu-inner clearfix">
+
+            
+            <div id="ctv-shows-menu-content" class="mega-menu-content">
+            
+    
+    <div id="primetime-content-section" class="content-section bottom clearfix">        
+        <h4>Primetime/Late Night</h4>
+
+        <div class="content-list">
+            <ul>
+            
+
+                <li><a href="http://shows.ctv.ca/TheAmazingRace.aspx" title="The Amazing Race"><span class="bullet">&nbsp;</span><span class="text">The Amazing Race</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/AmericanIdol.aspx" title="American Idol"><span class="bullet">&nbsp;</span><span class="text">American Idol</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/AngerManagement.aspx" title="Anger Management"><span class="bullet">&nbsp;</span><span class="text">Anger Management</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/BettyWhitesOffTheirRockers.aspx" title="Betty White's Off Their Rockers"><span class="bullet">&nbsp;</span><span class="text">Betty White's Off Their Rockers</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheBigBangTheory.aspx" title="The Big Bang Theory"><span class="bullet">&nbsp;</span><span class="text">The Big Bang Theory</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/BlueBloods.aspx" title="Blue Bloods"><span class="bullet">&nbsp;</span><span class="text">Blue Bloods</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Castle.aspx" title="Castle"><span class="bullet">&nbsp;</span><span class="text">Castle</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/ColbertReport.aspx" title="The Colbert Report"><span class="bullet">&nbsp;</span><span class="text">The Colbert Report</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Conan.aspx" title="Conan"><span class="bullet">&nbsp;</span><span class="text">Conan</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/CriminalMinds.aspx" title="Criminal Minds"><span class="bullet">&nbsp;</span><span class="text">Criminal Minds</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/CSI.aspx" title="CSI"><span class="bullet">&nbsp;</span><span class="text">CSI</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/CSINY.aspx" title="CSI: New York"><span class="bullet">&nbsp;</span><span class="text">CSI: New York</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/DailyShowwithJonStewart.aspx" title="The Daily Show"><span class="bullet">&nbsp;</span><span class="text">The Daily Show</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/DancingwiththeStars.aspx" title="Dancing with the Stars"><span class="bullet">&nbsp;</span><span class="text">Dancing with the Stars</span></a></li>
+
+            
+
+                <li><a href="http://www.muchmusic.com/tv/degrassi/" title="Degrassi"><span class="bullet">&nbsp;</span><span class="text">Degrassi</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/DesperateHousewives.aspx" title="Desperate Housewives"><span class="bullet">&nbsp;</span><span class="text">Desperate Housewives</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/eTalk.aspx" title="etalk"><span class="bullet">&nbsp;</span><span class="text">etalk</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/FlashPoint.aspx" title="Flashpoint"><span class="bullet">&nbsp;</span><span class="text">Flashpoint</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/GCB.aspx" title="GCB"><span class="bullet">&nbsp;</span><span class="text">GCB</span></a></li>
+
+            
+
+                <li><a href="http://www.muchmusic.com/tv/gossipgirl/" title="Gossip Girl"><span class="bullet">&nbsp;</span><span class="text">Gossip Girl</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/GreysAnatomy.aspx" title="Grey's Anatomy"><span class="bullet">&nbsp;</span><span class="text">Grey's Anatomy</span></a></li>
+
+            
+            </ul>
+
+            <ul class="right">
+            
+
+                <li><a href="http://shows.ctv.ca/Grimm.aspx" title="Grimm"><span class="bullet">&nbsp;</span><span class="text">Grimm</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/HotinCleveland.aspx" title="Hot in Cleveland"><span class="bullet">&nbsp;</span><span class="text">Hot in Cleveland</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/LawAndOrderSVU.aspx" title="Law and Order: Special Victims Unit"><span class="bullet">&nbsp;</span><span class="text">Law and Order: Special Victims Unit</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheListener.aspx" title="The Listener"><span class="bullet">&nbsp;</span><span class="text">The Listener</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheMentalist.aspx" title="The Mentalist"><span class="bullet">&nbsp;</span><span class="text">The Mentalist</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/MikeAndMolly.aspx" title="Mike & Molly"><span class="bullet">&nbsp;</span><span class="text">Mike &amp; Molly</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Missing.aspx" title="Missing"><span class="bullet">&nbsp;</span><span class="text">Missing</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/OnceUponATime.aspx" title="Once Upon A Time"><span class="bullet">&nbsp;</span><span class="text">Once Upon A Time</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/PanAm.aspx" title="Pan Am"><span class="bullet">&nbsp;</span><span class="text">Pan Am</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/SharkTank.aspx" title="Shark Tank"><span class="bullet">&nbsp;</span><span class="text">Shark Tank</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/SkateCanada.aspx" title="Skate Canada"><span class="bullet">&nbsp;</span><span class="text">Skate Canada</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Smash.aspx" title="Smash"><span class="bullet">&nbsp;</span><span class="text">Smash</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheLAComplex.aspx" title="The L.A. Complex"><span class="bullet">&nbsp;</span><span class="text">The L.A. Complex</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheRiver.aspx" title="The River"><span class="bullet">&nbsp;</span><span class="text">The River</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TMZ.aspx" title="TMZ"><span class="bullet">&nbsp;</span><span class="text">TMZ</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/twoAndAHalfMen.aspx" title="Two and a Half Men"><span class="bullet">&nbsp;</span><span class="text">Two and a Half Men</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Unforgettable.aspx" title="Unforgettable"><span class="bullet">&nbsp;</span><span class="text">Unforgettable</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/UpAllNight.aspx" title="Up All Night"><span class="bullet">&nbsp;</span><span class="text">Up All Night</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheVoice.aspx" title="The Voice"><span class="bullet">&nbsp;</span><span class="text">The Voice</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Whitney.aspx" title="Whitney"><span class="bullet">&nbsp;</span><span class="text">Whitney</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/XFactor.aspx" title="The X Factor"><span class="bullet">&nbsp;</span><span class="text">The X Factor</span></a></li>
+
+            
+            </ul>
+        </div>
+    </div>    
+    
+    <div class="right-container">
+        <div class="column left">
+            <div class="content-section clearfix">    
+                
+                <h4>Daytime</h4>
+                <div class="content-list">
+                    <ul class="right">
+                    
+
+                        <li><a href="http://shows.ctv.ca/Anderson.aspx" title="Anderson"><span class="bullet">&nbsp;</span><span class="text">Anderson</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheBoldandtheBeautiful.aspx" title="The Bold and the Beautiful"><span class="bullet">&nbsp;</span><span class="text">The Bold and the Beautiful</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/DrOz.aspx" title="The Dr. Oz Show"><span class="bullet">&nbsp;</span><span class="text">The Dr. Oz Show</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/DrPhil.aspx" title="Dr. Phil"><span class="bullet">&nbsp;</span><span class="text">Dr. Phil</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheEllenDegeneresShow.aspx" title="The Ellen DeGeneres Show"><span class="bullet">&nbsp;</span><span class="text">The Ellen DeGeneres Show</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/FashionTelevision.aspx" title="Fashion Television"><span class="bullet">&nbsp;</span><span class="text">Fashion Television</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/liveWithKelly.aspx" title="Live! With Kelly"><span class="bullet">&nbsp;</span><span class="text">Live! With Kelly</span></a></li>
+
+                    
+
+                        <li><a href="http://www.marilyn.ca/" title="The Marilyn Denis Show"><span class="bullet">&nbsp;</span><span class="text">The Marilyn Denis Show</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/NFL.aspx" title="NFL"><span class="bullet">&nbsp;</span><span class="text">NFL</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheView.aspx" title="The View"><span class="bullet">&nbsp;</span><span class="text">The View</span></a></li>
+
+                    
+                    </ul>
+                </div>
+            
+            </div>
+
+            <div class="content-section bottom clearfix">
+                                      
+                <h4>CTV Movies &amp; Specials</h4>
+                <div class="content-list">
+                    <ul class="right">
+                    
+
+                        <li><a href="http://shows.ctv.ca/Oscars.aspx" title="The 84th Annual Academy Awards"><span class="bullet">&nbsp;</span><span class="text">The 84th Annual Academy Awards</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/GoldenGlobes.aspx" title="The Golden Globes"><span class="bullet">&nbsp;</span><span class="text">The Golden Globes</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/MoviesSpecials.aspx" title="More CTV & CTV Two Movie Listings"><span class="bullet">&nbsp;</span><span class="text">More CTV &amp; CTV Two Movie Listings</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/TwilightSagaNewMoon.aspx" title="The Twilight Saga: New Moon"><span class="bullet">&nbsp;</span><span class="text">The Twilight Saga: New Moon</span></a></li>
+
+                    
+                    </ul>
+                </div>
+            
+            </div>  
+        </div>
+
+        <div class="column right">
+            <div class="content-section clearfix">        
+                          
+                <h4>Online Exclusives</h4>
+                <div class="content-list">
+                    <ul class="right">
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheBridge.aspx" title="The Bridge"><span class="bullet">&nbsp;</span><span class="text">The Bridge</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/ComedyInc.aspx" title="Comedy Inc."><span class="bullet">&nbsp;</span><span class="text">Comedy Inc.</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/ComedyNow.aspx" title="Comedy Now!"><span class="bullet">&nbsp;</span><span class="text">Comedy Now!</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheConfession.aspx" title="The Confession"><span class="bullet">&nbsp;</span><span class="text">The Confession</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/DefyingGravity.aspx" title="Defying Gravity"><span class="bullet">&nbsp;</span><span class="text">Defying Gravity</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/Hiccups.aspx" title="Hiccups"><span class="bullet">&nbsp;</span><span class="text">Hiccups</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/SoYouThinkYouCanDanceCanada.aspx" title="So You Think You Can Dance Canada"><span class="bullet">&nbsp;</span><span class="text">So You Think You Can Dance Canada</span></a></li>
+
+                    
+                    </ul>
+                </div>
+            
+            </div> 
+    
+            <div class="content-section bottom clearfix">        
+                           
+                <h4>CTV.ca Originals</h4>
+                <div class="content-list">
+                    <ul class="right">
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheCTVInsider.aspx" title="CTV.ca Insider"><span class="bullet">&nbsp;</span><span class="text">CTV.ca Insider</span></a></li>
+
+                    
+
+                        <li><a href="http://theroyals.ca" title="TheRoyals.ca - William & Kate"><span class="bullet">&nbsp;</span><span class="text">TheRoyals.ca - William &amp; Kate</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheListener/Game.aspx" title="Listener Vision Buster Game"><span class="bullet">&nbsp;</span><span class="text">Listener Vision Buster Game</span></a></li>
+
+                                                    
+                    </ul>
+                </div>
+            
+            </div>
+        </div>
+    </div>
+            </div>
+
+            
+            <div id="ctvtwo-shows-menu-content" class="mega-menu-content">
+            
+    
+    <div id="primetime-content-section" class="content-section bottom clearfix">        
+        <h4>Primetime/Late Night</h4>
+
+        <div class="content-list">
+            <ul>
+            
+
+                <li><a href="http://shows.ctv.ca/AccessHollywood.aspx" title="Access Hollywood"><span class="bullet">&nbsp;</span><span class="text">Access Hollywood</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/AmericanIdol.aspx" title="American Idol"><span class="bullet">&nbsp;</span><span class="text">American Idol</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/AmericasNextTopModel.aspx" title="America's Next Top Model"><span class="bullet">&nbsp;</span><span class="text">America's Next Top Model</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheBigBangTheory.aspx" title="The Big Bang Theory"><span class="bullet">&nbsp;</span><span class="text">The Big Bang Theory</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/BlueBloods.aspx" title="Blue Bloods"><span class="bullet">&nbsp;</span><span class="text">Blue Bloods</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Castle.aspx" title="Castle"><span class="bullet">&nbsp;</span><span class="text">Castle</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/CriminalMinds.aspx" title="Criminal Minds"><span class="bullet">&nbsp;</span><span class="text">Criminal Minds</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/CSIMiami.aspx" title="CSI: Miami"><span class="bullet">&nbsp;</span><span class="text">CSI: Miami</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/CSINY.aspx" title="CSI: New York"><span class="bullet">&nbsp;</span><span class="text">CSI: New York</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/DanForMayor.aspx" title="Dan For Mayor"><span class="bullet">&nbsp;</span><span class="text">Dan For Mayor</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Dateline.aspx" title="Dateline"><span class="bullet">&nbsp;</span><span class="text">Dateline</span></a></li>
+
+            
+
+                <li><a href="http://www.muchmusic.com/tv/degrassi/" title="Degrassi"><span class="bullet">&nbsp;</span><span class="text">Degrassi</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/DesperateHousewives.aspx" title="Desperate Housewives"><span class="bullet">&nbsp;</span><span class="text">Desperate Housewives</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/eTalk.aspx" title="etalk"><span class="bullet">&nbsp;</span><span class="text">etalk</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/FlashPoint.aspx" title="Flashpoint"><span class="bullet">&nbsp;</span><span class="text">Flashpoint</span></a></li>
+
+            
+
+                <li><a href="http://www.muchmusic.com/tv/gossipgirl/" title="Gossip Girl"><span class="bullet">&nbsp;</span><span class="text">Gossip Girl</span></a></li>
+
+            
+            </ul>
+
+            <ul class="right">
+            
+
+                <li><a href="http://shows.ctv.ca/LateNightwithJimmyFallon.aspx" title="Late Night with Jimmy Fallon"><span class="bullet">&nbsp;</span><span class="text">Late Night with Jimmy Fallon</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/LawAndOrderSVU.aspx" title="Law and Order: Special Victims Unit"><span class="bullet">&nbsp;</span><span class="text">Law and Order: Special Victims Unit</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheListener.aspx" title="The Listener"><span class="bullet">&nbsp;</span><span class="text">The Listener</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/ManUp.aspx" title="Man Up!"><span class="bullet">&nbsp;</span><span class="text">Man Up!</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheMentalist.aspx" title="The Mentalist"><span class="bullet">&nbsp;</span><span class="text">The Mentalist</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Nikita.aspx" title="Nikita"><span class="bullet">&nbsp;</span><span class="text">Nikita</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/OnceUponATime.aspx" title="Once Upon A Time"><span class="bullet">&nbsp;</span><span class="text">Once Upon A Time</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheProtector.aspx" title="The Protector"><span class="bullet">&nbsp;</span><span class="text">The Protector</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Sanctuary.aspx" title="Sanctuary"><span class="bullet">&nbsp;</span><span class="text">Sanctuary</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/SharkTank.aspx" title="Shark Tank"><span class="bullet">&nbsp;</span><span class="text">Shark Tank</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TonightShowwithJayLeno.aspx" title="The Tonight Show with Jay Leno"><span class="bullet">&nbsp;</span><span class="text">The Tonight Show with Jay Leno</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/UndercoverBoss.aspx" title="Undercover Boss"><span class="bullet">&nbsp;</span><span class="text">Undercover Boss</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/Unforgettable.aspx" title="Unforgettable"><span class="bullet">&nbsp;</span><span class="text">Unforgettable</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/UpAllNight.aspx" title="Up All Night"><span class="bullet">&nbsp;</span><span class="text">Up All Night</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/TheVampireDiaries.aspx" title="The Vampire Diaries"><span class="bullet">&nbsp;</span><span class="text">The Vampire Diaries</span></a></li>
+
+            
+
+                <li><a href="http://shows.ctv.ca/XFactor.aspx" title="The X Factor"><span class="bullet">&nbsp;</span><span class="text">The X Factor</span></a></li>
+
+            
+            </ul>
+        </div>
+    </div>    
+    
+    <div class="right-container">
+        <div class="column left">
+            <div class="content-section clearfix">    
+                
+                <h4>Daytime</h4>
+                <div class="content-list">
+                    <ul class="right">
+                    
+
+                        <li><a href="http://shows.ctv.ca/Anderson.aspx" title="Anderson"><span class="bullet">&nbsp;</span><span class="text">Anderson</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheBoldandtheBeautiful.aspx" title="The Bold and the Beautiful"><span class="bullet">&nbsp;</span><span class="text">The Bold and the Beautiful</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheEllenDegeneresShow.aspx" title="The Ellen DeGeneres Show"><span class="bullet">&nbsp;</span><span class="text">The Ellen DeGeneres Show</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/FashionTelevision.aspx" title="Fashion Television"><span class="bullet">&nbsp;</span><span class="text">Fashion Television</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/LookALike.aspx" title="Look-A-Like"><span class="bullet">&nbsp;</span><span class="text">Look-A-Like</span></a></li>
+
+                    
+
+                        <li><a href="http://www.marilyn.ca/" title="The Marilyn Denis Show"><span class="bullet">&nbsp;</span><span class="text">The Marilyn Denis Show</span></a></li>
+
+                    
+                    </ul>
+                </div>
+            
+            </div>
+
+            <div class="content-section bottom clearfix">
+                                      
+                <h4>CTV Movies &amp; Specials</h4>
+                <div class="content-list">
+                    <ul class="right">
+                    
+
+                        <li><a href="http://shows.ctv.ca/MoviesSpecials.aspx" title="More CTV & CTV Two Movie Listings"><span class="bullet">&nbsp;</span><span class="text">More CTV &amp; CTV Two Movie Listings</span></a></li>
+
+                    
+                    </ul>
+                </div>
+            
+            </div>  
+        </div>
+
+        <div class="column right">
+            <div class="content-section clearfix">        
+                          
+                <h4>Online Exclusives</h4>
+                <div class="content-list">
+                    <ul class="right">
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheBridge.aspx" title="The Bridge"><span class="bullet">&nbsp;</span><span class="text">The Bridge</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/ComedyInc.aspx" title="Comedy Inc."><span class="bullet">&nbsp;</span><span class="text">Comedy Inc.</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/ComedyNow.aspx" title="Comedy Now!"><span class="bullet">&nbsp;</span><span class="text">Comedy Now!</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/DefyingGravity.aspx" title="Defying Gravity"><span class="bullet">&nbsp;</span><span class="text">Defying Gravity</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/Hiccups.aspx" title="Hiccups"><span class="bullet">&nbsp;</span><span class="text">Hiccups</span></a></li>
+
+                    
+                    </ul>
+                </div>
+            
+            </div> 
+    
+            <div class="content-section bottom clearfix">        
+                           
+                <h4>CTV.ca Originals</h4>
+                <div class="content-list">
+                    <ul class="right">
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheCTVInsider.aspx" title="CTV.ca Insider"><span class="bullet">&nbsp;</span><span class="text">CTV.ca Insider</span></a></li>
+
+                    
+
+                        <li><a href="http://shows.ctv.ca/TheListener/Game.aspx" title="Listener Vision Buster Game"><span class="bullet">&nbsp;</span><span class="text">Listener Vision Buster Game</span></a></li>
+
+                                                    
+                    </ul>
+                </div>
+            
+            </div>
+        </div>
+    </div>
+            </div>
+        </div>
+
+        <div class="menu-bottom"></div>
+    </div>    
+</li>
+<!-- googleon: index -->
+			
+
+<!-- googleoff: index -->
+<li>
+	<a id="SiteNavWatchButton" href="http://shows.ctv.ca/video.aspx" class="btn " title="Watch Video"><span>Video</span></a>
+	<div id="video-mega-menu" class="mega-menu drop">
+        <div class="menu-top">
+            <div class="filter">
+            </div>
+        </div>        
+        <div class="menu-inner clearfix">
+
+            <div class="mega-menu-content">
+
+                <div id="video-content-section" class="content-section clearfix">
+                    <h4>Watch Videos</h4>
+
+                    <div class="content-list">
+                        <ul>
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2133.html" title="The Amazing Race" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2133.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Amazing Race</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2382.html" title="Anderson" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2382.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Anderson</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2276.html" title="Anger Management" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2276.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Anger Management</span></a></li>
+
+                        
+
+                            <li><a href="" title="Betty White's Off Their Rockers" onclick="javascript:return DisplayWatchWindow('')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Betty White's Off Their Rockers</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1891.html" title="The Big Bang Theory" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1891.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Big Bang Theory</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirectBinNewI3958.html" title="The Bold and the Beautiful" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirectBinNewI3958.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Bold and the Beautiful</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirectBinNewI6689.html" title="The Bridge" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirectBinNewI6689.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Bridge</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1870.html" title="Castle" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1870.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Castle</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect235.html" title="The Colbert Report" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect235.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Colbert Report</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2326.html" title="Comedy Inc." onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2326.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Comedy Inc.</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2285.html" title="Comedy Now!" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2285.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Comedy Now!</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1977.html" title="Conan" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1977.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Conan</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1901.html" title="The Confession" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1901.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Confession</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1879.html" title="Criminal Minds" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1879.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Criminal Minds</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect234.html" title="The Daily Show" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect234.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Daily Show</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2268.html" title="Dan For Mayor" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2268.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Dan For Mayor</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1341.html" title="Defying Gravity" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1341.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Defying Gravity</span></a></li>
+
+                        
+                        </ul>
+
+                        <ul>
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1884.html" title="Desperate Housewives" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1884.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Desperate Housewives</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirectBinNewI4905.html" title="The Dr. Oz Show" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirectBinNewI4905.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Dr. Oz Show</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2264.html" title="The Ellen DeGeneres Show" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2264.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Ellen DeGeneres Show</span></a></li>
+
+                        
+
+                            <li><a href="http://watch.ctv.ca/etalk/highlights/etalk-highlights/" title="etalk" onclick="javascript:return DisplayWatchWindow('http://watch.ctv.ca/etalk/highlights/etalk-highlights/')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">etalk</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2025.html" title="FaceTime with Jeanne Beker" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2025.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">FaceTime with Jeanne Beker</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2280.html" title="Flashpoint" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2280.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Flashpoint</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1872.html" title="Grey's Anatomy" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1872.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Grey's Anatomy</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2389.html" title="Grimm" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2389.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Grimm</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2267.html" title="Hiccups" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2267.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Hiccups</span></a></li>
+
+                        
+
+                            <li><a href="http://watch.ctv.ca/documentaries/ctv-documentaries-in-the-name-of-the-family/" title="In The Name Of The Family" onclick="javascript:return DisplayWatchWindow('http://watch.ctv.ca/documentaries/ctv-documentaries-in-the-name-of-the-family/')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">In The Name Of The Family</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2138.html" title="Late Night with Jimmy Fallon" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2138.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Late Night with Jimmy Fallon</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1902.html" title="Law and Order: Special Victims Unit" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1902.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Law and Order: Special Victims Unit</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2126.html" title="The Listener" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2126.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Listener</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1999.html" title="Look-A-Like" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1999.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Look-A-Like</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2390.html" title="Man Up!" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2390.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Man Up!</span></a></li>
+
+                        
+
+                            <li><a href="http://www.marilyn.ca/Video.aspx" title="The Marilyn Denis Show" onclick="javascript:return DisplayWatchWindow('http://www.marilyn.ca/Video.aspx')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Marilyn Denis Show</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1904.html" title="The Mentalist" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1904.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Mentalist</span></a></li>
+
+                        
+                        </ul>
+
+                        <ul class="right">
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1868.html" title="Nikita" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1868.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Nikita</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2392.html" title="Once Upon A Time" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2392.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Once Upon A Time</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2393.html" title="Pan Am" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2393.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Pan Am</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2395.html" title="The Protector" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2395.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Protector</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2203.html" title="Sanctuary" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2203.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Sanctuary</span></a></li>
+
+                        
+
+                            <li><a href="http://watch.ctv.ca/shameless-idealists/featuring/shameless-idealists-ep-107-martin-sheen/#clip366950" title="Shameless Idealists" onclick="javascript:return DisplayWatchWindow('http://watch.ctv.ca/shameless-idealists/featuring/shameless-idealists-ep-107-martin-sheen/#clip366950')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Shameless Idealists</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2394.html" title="Smash" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2394.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Smash</span></a></li>
+
+                        
+
+                            <li><a href="http://watch.ctv.ca/so-you-think-you-can-dance-canada/season-4---performances/so-you-think-you-can-dance-canada-top-16-performances/" title="So You Think You Can Dance Canada" onclick="javascript:return DisplayWatchWindow('http://watch.ctv.ca/so-you-think-you-can-dance-canada/season-4---performances/so-you-think-you-can-dance-canada-top-16-performances/')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">So You Think You Can Dance Canada</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1885.html" title="The View" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1885.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The View</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect264.html" title="TMZ" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect264.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">TMZ</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1892.html" title="The Tonight Show with Jay Leno" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1892.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Tonight Show with Jay Leno</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1889.html" title="Two and a Half Men" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1889.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Two and a Half Men</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2397.html" title="Unforgettable" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2397.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Unforgettable</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2398.html" title="Up All Night" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2398.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Up All Night</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect1882.html" title="The Vampire Diaries" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect1882.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">The Vampire Diaries</span></a></li>
+
+                        
+
+                            <li><a href="http://www.ctv.ca/mar/fragments/pipe/redirect2399.html" title="Whitney" onclick="javascript:return DisplayWatchWindow('http://www.ctv.ca/mar/fragments/pipe/redirect2399.html')" target="_blank"><span class="bullet">&nbsp;</span><span class="text">Whitney</span></a></li>
+
+                        
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="content-section right clearfix">
+                
+                    <h4>More Video Options</h4>
+                    <div class="content-list">
+                        <ul class="right">
+                        
+
+                            <li><a href="http://watch.ctv.ca" title="CTV Video Player"><span class="bullet">&nbsp;</span><span class="text">CTV Video Player</span></a></li>
+
+                        
+
+                            <li><a href="http://watch.ctv.ca/news" title="CTV News Video Player"><span class="bullet">&nbsp;</span><span class="text">CTV News Video Player</span></a></li>
+
+                        
+
+                            <li><a href="http://shows.ctv.ca/video.aspx" title="Browse All Video"><span class="bullet">&nbsp;</span><span class="text">Browse All Video</span></a></li>
+
+                                            
+                        </ul>
+                    </div>
+                
+                </div>
+            </div>
+        </div>
+
+        <div class="menu-bottom"></div>
+    </div>
+</li>
+<!-- googleon: index -->
+													<li>
+										<!-- googleoff: index -->
+											<a href="http://www.ctvnews.ca" class="btn" id="newsButton" title="Browse News"><span>News</span><em>&nbsp;</em></a>
+											<div class="drop">
+												<div class="drop-box new">
+													<div class="drop-head">
+														<h3><a href="http://www.ctvnews.ca">Go to the News Home Page</a></h3>
+													</div>
+													<div class="drop-info" id="newsShort">
+														<div class="item-list one">
+															<h3>CTVNews</h3>
+															<ul>
+																<li><a href="http://www.ctvnews.ca">Top Stories</a></li>
+																<li><a href="http://www.ctv.ca/canada">Canada</a></li>
+																<li><a href="http://www.ctv.ca/world">World</a></li>
+																<li><a href="http://www.ctv.ca/entertainment">Entertainment</a></li>
+																<li><a href="http://www.ctv.ca/health">Health</a></li>
+																<li><a href="http://www.ctv.ca/sports">Sports</a></li>
+																<li><a href="http://www.ctv.ca/business">Business</a></li>
+																<li><a href="http://www.ctv.ca/scitech">Sci-Tech</a></li>
+																<li><a href="http://www.ctv.ca/politics">Politics</a></li>
+															    <li><a href="http://www.ctv.ca/weather">Weather</a></li>
+														      
+													        </ul>
+														</div>
+														<div class="item-list">
+														  <h3>News Programs</h3>
+															<ul>
+																<li><a href="http://www.ctv.ca/nationalnews">CTV National News with Lisa LaFlamme</a></li>
+																<li><a href="http://www.ctv.ca/canadaam">Canada AM</a></li>
+																<li><a href="http://www.ctv.ca/w5">W5</a></li>
+																<li><a href="http://www.ctv.ca/powerplay">PowerPlay</a></li>
+															    <li><a href="http://www.ctv.ca/qp">Question Period</a></li>
+															</ul>
+														   <h3>CTV News Channel</h3>
+															<ul>
+																<li><a href="http://www.ctv.ca/newschannel/">Home</a></li>
+																<li><a href="http://www4.insinc.com/ibc/acm/login/13/7/" onclick="window.open(this.href,'_blank',',height=800,width=960'); return false">Watch Live</a></li>
+															</ul>
+														</div>
+													  <div class="item-list">
+															<h3>CTV News Team</h3>
+															<ul>
+																<li><a href="http://www.ctv.ca/CTVNews/NewsnetPromos/20090811/bios_Lisa_LaFlamme_090811/">Lisa LaFlamme</a></li>
+													
+																<li><a href="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20090811/bios_rinaldo_090811/20090813?s_name=noShare">Sandie Rinaldo</a></li>
+																<li><a href="http://www.ctv.ca/newsteam">See All</a></li>
+														    </ul>
+													       <h3>Features</h3>
+															<ul>
+															   	<li><a href="http://autos.ctv.ca">Autos</a></li>
+																<li><a href="http://www.ctv.ca/consumer">Consumer Alert</a></li>
+																<li><a href="http://healthblog.ctv.ca/">Health Blog</a></li>
+															</ul>
+															
+													  </div>
+														<div class="item-list">
+<h3>Local News</h3>
+															<ul>
+															    <li><a href="http://www.ctv.ca/local">All CTV Stations</a></li>
+														    </ul>
+														<h3>Browse</h3>
+															<ul>
+															  	<li><a href="http://watch.ctv.ca/news">Video</a></li>
+																<li><a href="http://www.ctv.ca/photos">Photo Galleries</a></li>
+											                    <li><a href="http://mynews.ctv.ca">MyNews</a></li>
+															</ul>
+															<h3>Services</h3>
+															<ul>
+															 
+															    <li><a href="http://www.ctv.ca/mobile">CTV News Mobile</a></li>
+																<li><a href="http://www.ctv.ca/newsletters">Newsletters</a></li>
+																<li><a href="http://www.ctv.ca/rss">RSS</a></li>
+																<li><a href="http://www.ctv.ca/servlet/ArticleNews/corp/CTVShows/20040430/archiveSales-default">CTV News Stox</a></li>
+																<li><a href="http://www.ctv.ca/contact">Contact CTV News</a></li>
+														    </ul>
+															
+														</div>
+													</div>
+												</div>
+											</div>
+											<!-- googleon: index -->
+										</li>
+									
+			<li>
+				<a href="http://shows.ctv.ca/schedule.aspx" class="btn schedule" title="Browse Schedule"><span>Schedule</span><em>&nbsp;</em></a>
+			</li>
+		</ul>
+		<script type="text/javascript">
+			function validateSearch()
+				{
+					if(document.searchShow.query.value == "") {
+						alert("Please enter a search term!");
+						return false;
+					} 
+					else {
+						if (document.searchShow.site_codename[1].checked == true){
+							document.searchShow.submit();
+						}
+					}
+				}
+		</script>
+		<div class="search-block">
+			<form method="get" action="/servlet/HTMLTemplate/!ctv/Search" name="searchShow" target="_top" onsubmit="return validateSearch();">
+				<input type="hidden" name="tf" value="ctv/mar/hub/hub.html">
+				<input type="hidden" name="cf" value="ctv/mar/ctv.cfg">
+				<input type="hidden" name="site_codename" value="ctv">
+				<div class="search">
+					<input type="hidden" name="pageNum" value="0"/>
+						<span class="text">
+							<label for="searchField">
+								<input type="text" name="query" id="searchField" />
+							</label>
+						</span>
+						<span class="searchButton">
+							<input type="image" src="http://images.ctv.ca/v2/images/btn-search.gif" alt="Search" />
+						</span>
+				</div>
+			</form>
+			<div class="search-box">
+				<div class="search-box-info">
+					<form action="#">
+						<div class="find">
+							<span class="text">
+								<input type="text" value="gos" />
+							</span>
+							<input type="image" src="http://images.ctv.ca/v2/images/btn-search-over.gif" alt="Search" />
+						</div>
+					</form>
+					<h3>Related TV Shows</h3>
+						<div>
+							<h4>Gossip Girl</h4>
+							<ul>
+								<li><a href="#">Watch Show</a></li>
+								<li><a href="#">Show Page</a></li>
+							</ul>
+						</div>
+						<div>
+							<h4>Gossip Girl</h4>
+							<ul>
+								<li><a href="#">Watch Show</a></li>
+								<li><a href="#">Show Page</a></li>
+							</ul>
+						</div>
+						<div>
+							<h4>Gossip Girl</h4>
+							<ul>
+								<li><a href="#">Watch Show</a></li>
+								<li><a href="#">Show Page</a></li>
+							</ul>
+						</div>
+						<div>
+							<h4>Gossip Girl</h4>
+							<ul>
+								<li><a href="#">Watch Show</a></li>
+								<li><a href="#">Show Page</a></li>
+							</ul>
+						</div>
+						<div>
+							<h4>Gossip Girl</h4>
+							<ul>
+								<li><a href="#">Watch Show</a></li>
+								<li><a href="#">Show Page</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- googleon: index -->
+
+
+
+
+
+<script>
+document.write("<img src=\"http://www.ctv.ca/servlet/HTMLTemplate?tf=/ctv/mar/etracker/etracker.html&cf=ctv/mar/ctv.cfg&uniqueID=headphone-pedestrians-accidents-120117&typeStat=CTV&displayText=Accidents involving headphone-wearing pedestrians on the rise||A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified.&longURL=" + window.location + "&io=1545719\" height=\"1\" width=\"1\" />");
+</script>
+
+
+
+</body>
+</html>
+

@@ -1,0 +1,682 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Ученые установили: потеря памяти начинается  с 45 лет | Капитал Страны</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" href="/lga/silicium/js/jquery/jquery-ui-1.8.6.custom.css" type="text/css" media="screen" />
+	<link rel="icon" href="/favicon.gif" type="image/x-icon">
+	<link rel="shortcut icon" href="/favicon.gif" type="image/x-icon"> 
+	<script src="/lga/silicium/js/default.js" type="text/javascript"></script>
+	<script src="/lga/silicium/js/jquery/jquery-1.4.4.min.js" type="text/javascript"></script>
+	<script src="/lga/silicium/js/custom/silicium.js?cache=1" type="text/javascript"></script>
+	<script src="/lga/silicium/js/jquery/jquery-ui-1.8.6.custom.min.js" type="text/javascript"></script>
+	<script src="/lga/silicium/js/jquery/plugins/jQuery.rollChildren_compressed.js" type="text/javascript"></script>
+	<script src="/lga/silicium/ajax/jxs_compressed.js" type="text/javascript"></script>
+	<script src="/lga/silicium/js/swfobject.js" type="text/javascript"></script>
+	<script src="/lga/silicium/js/jquery/jquery.lightbox-0.5.pack2.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/pages/inc/styles2012.css" type="text/css" media="screen" />
+</head>
+<body>
+<div style="width:1000px; margin:0px auto">
+	<table class="razm" width="100%">
+		<tr valign="top">
+			<td class="rightBG">
+				<table class="razm" width="100%">
+					<tr valign="top">
+						<td style="width:304px">
+							<center>
+								<div><a href="/"><img src="/img/logo_ru.gif" border="0" /></a></div>
+								<div><a href="/"><img src="/img/logo0.gif" border="0" /></a></div>
+								<div style="font-family:Calibri, Arial; font-weight:bold; color:#0074B7; font-size:15px">ИНФОРМАЦИОННЫЙ ПАРТНЕР ТПП РОССИИ</div>
+								<div class="topmenu">
+									<a class="tm" href="/"><img src="/img/home.gif" alt="на главную"> на главную </a> |&nbsp;
+									<a class="tm" href="http://en.kapital-rus.ru/"> en </a>/<a class="tm" href="/"> рус </a> |&nbsp;
+									<a class="tm" href="/index.php/map/"><img src="/img/map.gif" alt="карта сайта"> карта сайта </a> |&nbsp;
+									<a class="tm" href="/index.php/send/"><img src="/img/mail.gif" alt="написать нам"> написать нам </a>
+								</div>
+							</center>
+						</td>
+						<td>
+							<table class="razm">
+								<tr>
+									<td></td>
+									<td>
+										<div class="topnews_div">
+											<div>
+												<a href="/index.php/news/list/" style="background:#0074B7;color:white;font-size:14px;padding:0 2 2 2;text-decoration:none">НОВОСТИ</a>
+												<span id="timenow"></span>
+											</div>
+											<div>
+												<ol class="topnews_ol">
+	<li>
+		<div class="topnews_dtimeItem">10:24:</div>
+		Рамзан Кадыров и Ислам Кадыров обсудили <a class="tni" href="/news/228362">вопросы благоустройства Грозного – СКФО</a>	</li>
+	<li>
+		<div class="topnews_dtimeItem">10:13:</div>
+		Сеул заявил, что КНДР намерен запустить <a class="tni" href="/news/228361">баллистическую ракету сегодня</a>	</li>
+	<li>
+		<div class="topnews_dtimeItem">10:07:</div>
+		Вице-президент РЖД Михаил Акулов презентовал <a class="tni" href="/news/228360">в Страсбурге поезд Москва – Берлин – Париж</a>	</li>
+	<li>
+		<div class="topnews_dtimeItem">10:02:</div>
+		«Сургутнефтегаз» потенциал роста запасов углеводородов <a class="tni" href="/news/228359">Якутии оценивает в три раза - ДФО</a>	</li>
+	<li>
+		<div class="topnews_dtimeItem">09:54:</div>
+		В Тель-Авиве откроется фотовыставка <a class="tni" href="/news/228358">жителя Биробиджана – ДФО</a>	</li>
+	<li>
+		<div class="topnews_dtimeItem">09:48:</div>
+		Шойгу и губернатор Сахалина обсудили вопросы передачи <a class="tni" href="/news/228357">региону недвижимости Минобороны - ДФО</a>	</li>
+												</ol>
+											</div>
+											<div id="allNews_flow">
+												<a id="topnews_allnews" href="/news/list/">Все новости</a>&nbsp;<img border="0" src="/img/syst.gif">
+											</div>
+										</div>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+			<td width="244px">
+				<center class="topmenu">
+					<a class="tm" href="#" onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://kapital-rus.ru');"><img src="/img/homepage.gif" alt="сделать стартовой" border="0"> cделать стартовой</a> |
+					<a class="tm" href="javascript:void(0);" onclick="return bookmark(this);"><img src="/img/bookmark.gif" alt="Добавить в избранное" border="0"> в избранное</a> |
+					<a class="tm" href="/index.php/upload/kaprus.xml/" target="_blank"><img src="/img/rsskaprus.gif" alt="Rss"> rss</a>
+					<div style="margin-top:10px">
+<div id="fromtr"></div>
+<script>
+	$$(function(){
+		if(Math.random()>0.00){
+			function Rotate_fromtrImg(){
+				var fromtrImg = $$("#fromtrImg")
+				var a = fromtrImg.attr("a")
+				if(a==1){fromtrImg.attr("src", "/img/2012/banners/24oct/2.jpg").parent().attr("href","/articles/article/216084/"); fromtrImg.attr("a", 2)}
+				if(a==2){fromtrImg.attr("src", "/img/2012/banners/24oct/3.jpg").parent().attr("href","/articles/article/216313/"); fromtrImg.attr("a", 3)}
+				if(a==3){fromtrImg.attr("src", "/img/2012/banners/24oct/4.jpg").parent().attr("href","/articles/article/215076/"); fromtrImg.attr("a", 4)}
+				if(a==4){fromtrImg.attr("src", "/img/2012/banners/24oct/1.jpg").parent().attr("href","/articles/article/213864/"); fromtrImg.attr("a", 1)}
+				setTimeout(Rotate_fromtrImg, 4000)
+			}
+			$$(function(){
+				var fromtr = $$("#fromtr")
+				fromtr.html('<a href="/articles/article/213864/"><img id="fromtrImg" src="/img/2012/banners/24oct/1.jpg" a="1" /></a>')
+				setTimeout(Rotate_fromtrImg, 4000)
+			})
+		} else {
+			var fromtr = $$("#fromtr")
+			//fromtr.html('<a banner_id="23" href="http://www.bc-cis.ru/forum/smi" target="_blank"><img src="/img/2013/banners/mefsng2013_240x180.gif" /></a>')
+		}
+	})
+</script> 
+
+					</div>
+					<div id="sendingTRDIV">
+						Рассылка <input type="text" value="ваш e-mail" /> <button>Подписаться</button>
+					</div>
+				</center>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td>
+				<div id="lineMainMenue">
+					<div class="lmm_mp">СОБЫТИЯ
+						<div class="lmm_mpS">
+							<div><a href="/articles/C11/">События и факты</a></div>
+							<div><a href="/articles/C19/">Новые возможности</a></div>
+							<div><a href="/conf/new/">Конференции</a></div>
+							<div><a href="/articles/C291/">Культура</a></div>
+						</div>
+					</div>
+					<div class="lmm_mp">ОБЩЕСТВО
+						<div class="lmm_mpS">
+							<div><a href="/articles/C21/">Редакционные статьи</a></div>
+							<div><a href="/articles/C12/">Наши книги</a></div>
+							<div><a href="/articles/C105/">Рецензии на книги и фильмы</a></div>
+							<div><a href="/articles/C301/">Эволюция и человек</a></div>
+							<div><a href="/articles/C306/">Интервью и комментарии</a></div>
+						</div>
+					</div>
+					<div class="lmm_mp">АНАЛИТИКА
+						<div class="lmm_mpS">
+							<div><a href="/articles/C22/">Экономика</a></div>
+							<div><a href="/articles/C20/">Политика</a></div>
+							<div><a href="/articles/C18/">Наука и технологии</a></div>
+							<div><a href="/articles/C121/">Исследования</a></div>
+							<div><a href="/b2bcontext/research/page.php">Бизнес-планы</a></div>
+							<div><a href="/b2bcontext/tenders/page.php">Тендеры</a></div>
+						</div>
+					</div>
+					<div class="lmm_mp">РЕЙТИНГИ
+						<div class="lmm_mpS" style="left:-25px">
+							<div><a href="/articles/article/190845/">Рейтинг региональных инвестиционных форумов России</a></div>
+							<div><a href="/articles/article/178541/">Рейтинг эффективности российских ЦКП научным оборудованием</a></div>
+							<div><a href="/articles/article/178543/">Сервисный рейтинг российских ЦКП научным оборудованием</a></div>
+							<div><a href="/articles/article/135273">Обобщенный международный университетский рейтинг</a></div>
+							<div><a href="/articles/article/16028/">Рейтинг информационной открытости инвестиционных рынков</a></div>
+							<div><a href="/articles/article/21636/">Рейтинг инновационного развития регионов</a></div>
+							<div><a href="/articles/article/16027/">Рейтинг чувствительности жилищного рынка к финансовому кризису</a></div>
+							<div><a href="/articles/article/174270/">Образовательный рейтинг регионов России</a></div>
+						</div>
+					</div>
+					<div class="lmm_mp"><a href="/articles/C312/">ВИДЕОЛЕНТА</a></div>
+					<div class="lmm_mp"><a href="/lite/">&nbsp;&nbsp;КС</a>
+						<a href="/lite/"><img src="/lite/i/fast_ks_icon2.png" style="position:absolute; left:6px; top:2px" border="0" /></a>
+					</div>
+					<div class="lmm_mp">О НАС
+						<div class="lmm_mpS">
+							<div><a href="/articles/article/1098">О проекте</a></div>
+							<div><a href="/articles/article/1099">Наши координаты</a></div>
+							<div><a href="/members">Наши авторы</a></div>
+							<div><a href="/articles/article/203788">Наши партнеры</a></div>
+							<div><a href="/articles/article/1100">Реклама на сайте</a></div>
+						</div>
+					</div>
+<script>
+	$$(function(){
+		$$('.lmm_mp').mouseover(function(){
+			$$(this).css({"border":"1px white solid", "background-color":"#B20000"}).find('.lmm_mpS').show()
+		})
+		.mouseleave(function(){
+			$$(this).css({"border":"1px #0074B7 solid", "background-color":"#0074B7"}).find('.lmm_mpS').hide()
+		})
+		$$('.lmm_mpS div').mouseover(function(){
+			$$(this).css({"background-color":"#B20000"})
+		})
+		.mouseleave(function(){
+			$$(this).css({"background-color":"#0074B7"})
+		})
+	})
+</script>
+				</div>
+			</td>
+			<td>
+				<center style="height:19px; background-color:#0074B7; font-size:12px; padding:2px 0px 0px">
+					<span style="color:white">НАЙТИ:</span>
+					<input id="findOnSiteInput" type="text" style="font-size:12px; height:12px" />
+					<button style="font-size:8px; font-family:arial">&rsaquo;&rsaquo;&rsaquo;</button>
+				</center>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td class="rightBG">
+				<div class="cont">
+<center id="fromtc1" style="margin-top:8px; margin-bottom:-6px">
+	<a banner_id="11" href="/lite/" target="_blank"><img  src="/img/2012/banners/blite1.gif" border="0" /></a>
+</center>
+
+
+
+
+					<h3 class="page_section"><b>&#9642; НОВОСТИ &#9642;</b></h3>
+<center><h1 id="h1news">Ученые установили: потеря памяти начинается  с 45 лет</h1></center>					<div style="padding-left:20px;padding-right:20px">
+						<br />
+						<div class="newsItemText" align="justify" style="font-size:14px">
+<p class="MsoNormal">Результаты нового исследования &nbsp;британских ученых показали: потеря памяти и ослабевание других функций мозга начинается раньше, чем считалось ранее, сообщает NEWSru.co.il.</p>
+<p class="MsoNormal">&nbsp;В публикации ученых в &nbsp;Британском медицинском журнале, говорится: исследователи 10 лет изучали умственные способности свыше &nbsp;7 тысяч служащих госучреждений Великобритании в возрасте от 45 до 70 лет.</p>
+<p class="MsoNormal">В итоге ученые пришли к выводу: &nbsp;в возрасте 45-49 лет у человека происходит небольшое, однако &nbsp;явное снижение ряда функций мозга: памяти, мышления и восприятия.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">По материалам ленты новостей NEWSru.co.il http://www.newsru.co.il/</p>						</div>
+						<br />
+						<div align="left" style="font-size:14px">06.01.2012. Просмотров: 527</div>
+						<br />
+						<div id="fb-root"></div>
+<script>
+(function(d, s, id){
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) {return;}
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div id="twitter_sendLink" style="float:left; margin-top:2px; margin-right:0px"><a href="https://twitter.com/share" class="twitter-share-button" data-via="kapital_strany" data-lang="ru">Твитнуть</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+
+<div class="fb-like" data-send="true" data-width="450" data-show-faces="true"></div>
+<!------ Facebook плагин Like Box !-->
+<div>
+	<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2F%25D0%259A%25D0%2590%25D0%259F%25D0%2598%25D0%25A2%25D0%2590%25D0%259B-%25D0%25A1%25D0%25A2%25D0%25A0%25D0%2590%25D0%259D%25D0%25AB%2F257429240955835&amp;width=220&amp;colorscheme=light&amp;show_faces=false&amp;border_color=%23999999&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:220px; height:62px;" allowTransparency="true"></iframe>
+</div>
+
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=zmyaru"></script>
+<div class="addthis_toolbox addthis_default_style" style="float:right">
+	<a class="addthis_button_facebook"></a>
+	<a class="addthis_button_twitter"></a>
+	<a class="addthis_button_vk"></a>
+	<a class="addthis_button_email"></a>
+	<a class="addthis_button_livejournal"></a>
+	<a class="addthis_button_google"></a>
+	<a class="addthis_button_favorites"></a>
+	<a class="addthis_button_memori"></a>
+	<a class="addthis_button_compact"></a>
+</div>						<br /><br />
+						<div>
+							<script type="text/javascript" src="http://userapi.com/js/api/openapi.js?49"></script>
+							<script type="text/javascript">
+								VK.init({apiId: 3006762, onlyWidgets: true});
+							</script>
+							<div id="vk_comments"></div>
+							<script type="text/javascript">
+								VK.Widgets.Comments("vk_comments", {limit: 5, width: "690", attach: false});
+							</script>
+						</div>
+						<br>
+						<center style="font-size:12px; font-style:italic">
+							&lt; <a href="/" style="font-style:italic">На главную</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt; <a href="/news/list/" style="font-style:italic">К списку новостей</a>
+						</center>
+					</div>
+
+					<h3 class="page_section"><b>&#9642; ПОСЛЕДНИЕ ПУБЛИКАЦИИ НА САЙТЕ &#9642;</b></h3>
+					<div style="padding-right:20px;padding-left:20px">
+						<div><a class="title" href="/articles/article/228332">Германия портит отношения с Россией</a></div>
+						<a href="/articles/article/228332"><img src="/img/articles/228332_0.jpg
+
+
+
+" alt="Германия портит отношения с Россией" align="left" hspace="5" width="100" border="0" /></a>
+						<div class="text_1">Рабочий визит Владимира Путина в Германию и его посещение Международной промышленной ярмарки в Ганновере, как и предполагали многие, не обошлись без едких и не всегда приятных замечаний со стороны немецкого канцлера Ангелы Меркель. Как Россия и Германия выясняли отношения в публичном пространстве? И для чего это было нужно?</div>
+						<br style="clear:both">
+						<div style="text-align:right; font-size:12px">
+							<b>Мельников Александр Владимирович</b>, 09.04.2013						</div>
+						<div style="text-align:left;font-size:10px">
+							<a href="/articles/tags/tag/экономика" title="экономика">экономика</a> 
+							<a href="/articles/tags/tag/политика" title="политика">политика</a> 
+							<a href="/articles/tags/tag/международные+отношения" title="международные отношения">международные отношения</a> 
+							<hr>
+						</div>
+						<div><a class="title" href="/articles/article/228201">Родные офшоры</a></div>
+						<a href="/articles/article/228201"><img src="/img/articles/228201_0.jpg
+
+" alt="Родные офшоры" align="left" hspace="5" width="100" border="0" /></a>
+						<div class="text_1">Несмотря на неточность терминологии, предложение Дмитрия Медведева о создании офшоров в России серьезно прорабатывается правительством. Что стоит за этими идеями? Насколько они жизнеспособны? В чем смысл офшорных зон для экономики? И почему после Кипра внимание было переключено на Дальний Восток?</div>
+						<br style="clear:both">
+						<div style="text-align:right; font-size:12px">
+							<b>Яшина Галина Анатольевна</b>, 08.04.2013						</div>
+						<div style="text-align:left;font-size:10px">
+							<a href="/articles/tags/tag/кипр" title="кипр">кипр</a> 
+							<a href="/articles/tags/tag/кризис" title="кризис">кризис</a> 
+							<a href="/articles/tags/tag/офшоры" title="офшоры">офшоры</a> 
+							<hr>
+						</div>
+						<div><a class="title" href="/articles/article/228113">Гонка вооружений под копирку: Китай перенимает российские разработки</a></div>
+						<a href="/articles/article/228113"><img src="/img/articles/smallB-61_bomb_rackjpg1000x297x1.jpg
+" alt="Гонка вооружений под копирку: Китай перенимает российские разработки" align="left" hspace="5" width="100" border="0" /></a>
+						<div class="text_1">На этой неделе 154 страны мира в рамках ООН приняли документ о необходимости регулирования торговли оружием на международном уровне. Россия воздержалась от подписания этого соглашения. Также стало известно о самой крупной за последние десять лет сделке на поставку вооружений. О чем договорились Китай и Россия?</div>
+						<br style="clear:both">
+						<div style="text-align:right; font-size:12px">
+							<b>Толокнова Наталия Васильевна</b>, 05.04.2013						</div>
+						<div style="text-align:left;font-size:10px">
+							<a href="/articles/tags/tag/торговля" title="торговля">торговля</a> 
+							<a href="/articles/tags/tag/китай" title="китай">китай</a> 
+							<a href="/articles/tags/tag/вооружение" title="вооружение">вооружение</a> 
+							<hr>
+						</div>
+					</div>
+					<br clear="all">
+<div style="background:#0074B7;text-align:center;color:white;font-size:13px;padding:3px;margin-top:12px"><b>&#9642; РАЗНОЕ &#9642;</b></div>
+<br />
+<!-- MarketGidNews Start -->
+<center id="MarketGid10523"><a href="#" target="_blank"></a></center>
+<center id="MarketGid10524"><a href="#" target="_blank"></a></center>
+<!-- MarketGidNews End -->
+<!-- pered </body> -->
+<script type="text/javascript">
+	var sreenWIDTH = 1024
+	if (self.screen){
+		sreenWIDTH = screen.width
+	} else if (self.java) {
+		var j=java.awt.Toolkit.getDefaultToolkit()
+		var s=j.getScreenSize()
+		sreenWIDTH = s.width
+	}
+	if(sreenWIDTH<1280) MarketGidBlockNo = 10523; else MarketGidBlockNo = 10524;
+	var MarketGidDate = new Date();
+	document.write('<scr'+'ipt type="text/javascript" '
+	+'src="http://jsn.dt00.net/k/a/kapital-rus.ru.'+MarketGidBlockNo+'.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()
+	+ '" charset="utf-8" ></scr'+'ipt>');
+</script>
+
+					<br /><br /><br /><br />
+				</div>
+
+<script>
+$$(function(){
+	{//Все изоражения новости, имеющие класс "zoomme" уменьшатся и станут кликабельными
+		var imgsize = 400//размер превьюшки по умолчанию
+		var i=0//вспомогательная переменная для определения чередования расположения (слева, справа, ...)
+		$$(".zoomme").each(function(){
+			var im = $$(this)
+			var url = im.attr("src")
+			if(im.attr("imgsize")){imgsize = im.attr("imgsize")}
+			im.attr('src', '/img/iResize.php?size='+imgsize+'&img='+url)
+			im.css({"border":"none"})
+			{//определяем стиль чтобы располагать фотки чередованием (слева, справа, слева, справа, ...)
+				i++
+				var styleStr = "float:right; margin-left:10px"
+				if(i==2){
+					styleStr = "float:left; margin-right:10px"
+					i=0
+				}
+			}
+			im.wrap('<a href="'+url+'" class="zoom" style="'+styleStr+'" />')
+		})
+		$$(".zoom").lightBox()
+	}
+})
+</script>
+
+<!--697853044952-->			</td>
+			<td id="rightContCol" valign="top" style="width:244px;padding:3px">				<noindex>
+<div id="fromrightfirst_before1" style="margin-bottom:6px"></div>
+<script>
+	function set_banner_17sep_lite(){
+		var seconds = 3000
+		var b = $$('#fromrightfirst_before1')
+		if(b.attr('banner_no')==1){
+			$$('#ban240_1a').hide()
+			$$('#ban240_2a').show()
+			b.attr('banner_no', 2)
+		} else if(b.attr('banner_no')==2){
+			$$('#ban240_2a').hide()
+			$$('#ban240_3a').show()
+			b.attr('banner_no', 3)
+		} else if(b.attr('banner_no')==3){
+			$$('#ban240_3a').hide()
+			$$('#ban240_1a').show()
+			b.attr('banner_no', 1)
+		}
+		setTimeout(set_banner_17sep_lite, seconds)
+	}
+
+	$$(function(){
+		var seconds = 3000
+		var b = $$('#fromrightfirst_before1')
+		b.html('<a id="ban240_1a" href="/lite/larticle/97" banner_id="15"><img id="ban240_1img" src="" border="0" /></a>'+
+			'<a id="ban240_2a" href="/lite/larticle/97" banner_id="15" style="display:none"><img id="ban240_2img" src="" border="0" /></a>'+
+			'<a id="ban240_3a" href="/lite/larticle/97" banner_id="15" style="display:none"><img id="ban240_3img" src="" border="0" /></a>')
+			.attr('banner_no', 1)
+			.css({"height":"74px"})
+		setTimeout(set_banner_17sep_lite, seconds)
+
+		$$.post('/lite/ajax/respondents/u1.php', {mode:'load_banners74height'}, function(a){
+			var m = a.split('<[[[>');
+			if(m[0]=='ok'){
+				var rows = m[1].split('<[[>'); rows.pop();
+				for(var i=0;i<rows.length;i++){
+					var n = rows[i].split('<[>')//поля
+					{//расшифровка полей
+						var id = n[0]
+						var btype = n[1]
+						var linkto = n[2]
+						var img = n[3]
+						var alt = n[4]
+					}
+					var id2 = String(id-3)
+					if(i<3){//первый блок баннеров
+					} else {//второй блок баннеров
+						if($$('#ban240_'+id2+'img').length){
+							$$('#ban240_'+id2+'img').attr('src', img)
+							$$('#ban240_'+id2+'a').attr('href', linkto)
+							$$('#ban240_'+id2+'a').attr('title', alt)
+						}
+					}
+				}
+			} else {alert('Ошибка чтения баннеров')}
+		})
+	})
+</script>
+
+
+
+<!-- Soloway 240x400 code START-->
+<script language="javascript" type="text/javascript"><!--
+if(typeof(ar_cn)=="undefined") var ar_cn=1;
+var ar_Tail=document.referrer ? escape(document.referrer) : 'unknown';
+var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=179680&bt=49&target=blank&tail256=" + ar_Tail;
+document.write('<div style="visibility:hidden;height:0px;"><iframe id="ar_container_'+ar_cn+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn+'"><\/div>');
+function ar_getDoc(t,n,l){var doc;if(t<100){if(document.all && !window.opera){doc = window.frames['ar_container_'+n].document}
+else if(document.getElementById){doc=document.getElementById('ar_container_'+n).contentDocument}
+if(!doc){setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100)}else {var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+doc.write ('<sc'+'ript language="JavaScript" type="text/javascript">var ar_bnum='+n+';<\/sc'+'ript>');
+doc.write ('<sc'+'ript language="JavaScript" type="text/javascript" src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');}}}
+(function(num,link){function addEvent(e,t,f){if(e.addEventListener)e.addEventListener(t,f,false);else if(e.attachEvent)e.attachEvent('on'+t,f)}
+function removeEvent(e,t,f){if(e.removeEventListener)e.removeEventListener(t,f,false);else if(e.detachEvent)e.detachEvent('on'+t,f)}
+var BannerLoader={top:0,height:400,cm:document.compatMode=="CSS1Compat",
+scroll:function(){var ch=self.innerHeight||this.cm&&document.documentElement.clientHeight||document.body.clientHeight;
+var st=self.pageYOffset||this.cm&&document.documentElement.scrollTop||document.body.scrollTop;
+var sh=self.scrollHeight||this.cm&&document.documentElement.scrollHeight||document.body.scrollHeight;
+if((st-this.top<=this.height*0.2&&st+ch-this.top>=this.height*0.8)||(sh-this.top<=this.height*0.8&&(sh-st-ch<1||sh<ch))){
+removeEvent(window,'scroll',this.sfunc);ar_getDoc(0,num,link)}},
+sfunc: function(){BannerLoader.scroll()},init:function(){var t=this,obj=document.getElementById('ad_ph_'+num);
+if(obj){while(obj.offsetParent){t.top += obj.offsetTop; obj = obj.offsetParent}
+addEvent(window,'scroll',this.sfunc);t.scroll()}}};addEvent(window, 'load', function(){BannerLoader.init()})})(ar_cn++,ar_link);
+//--></script>
+<!-- Soloway 240x400 code END -->
+
+
+
+
+
+
+<script>
+	function incrementBannerShow(id){
+		$$.post('/lga/silicium/ajax/respondents/u1.php', {mode:'incrementBannerShow', id:id}, function(a){})
+	}
+	function incrementBannerClick(id){
+		$$.post('/lga/silicium/ajax/respondents/u1.php', {mode:'incrementBannerClick', id:id}, function(a){})
+	}
+
+		function set_banner_traced (){
+		$$("[banner_id]").each(function(){
+			var a = $$(this)
+			var banner_traced = a.attr('banner_traced')
+			if(banner_traced==undefined){
+				a.click(function(){
+					incrementBannerClick ($$(this).attr('banner_id'))
+				})
+				a.attr('banner_traced', 1)
+			}
+		})
+		setTimeout(set_banner_traced, 300)
+	}
+
+
+	$$(document).ready(function(){
+		$$("#opx_right_block").hide()
+		set_banner_traced()
+	})
+</script></noindex>
+
+<div class="r_com_all"><a id="lastCommentsH" class="lastCommentsH" href="/articles/comment_list"><b>&#9642; ПОСЛЕДНИЕ КОММЕНТАРИИ &#9642;</b></a></div>
+<div class="r_com">
+	<a class="r_com_in" style="font-weight:normal" href="/articles/article/174139#com74344"><img src="/img/2010/noperson.gif" style="float:left; margin:3px 5px -2px 0px" border="0" />Вузы и школы: зарплаты или подработки?</a>
+	<br /><a class="r_com_in1" style="text-decoration:none; color:black" href="/articles/article/174139#com74344">нкиолаичу: согласен, что зарплата в федеральных вузах - это насмешка, хотя - кому от нее смешно?!...<br /><i>Автор: прфессор.</i>
+	9.04.2013 17:21</a>
+	<img src="/img/2010/bg2_comment_anons.gif" class="r20" />
+</div>
+
+<div class="r_com">
+	<a class="r_com_in" style="font-weight:normal" href="/articles/article/174139#com74343"><img src="/img/2010/noperson.gif" style="float:left; margin:3px 5px -2px 0px" border="0" />Вузы и школы: зарплаты или подработки?</a>
+	<br /><a class="r_com_in1" style="text-decoration:none; color:black" href="/articles/article/174139#com74343">Николаичу: Удачи в колледже: наши тоже туда смотрят. есть у нас один - автономный, с толковым директ...<br /><i>Автор: Денис..</i>
+	9.04.2013 16:42</a>
+	<img src="/img/2010/bg2_comment_anons.gif" class="r20" />
+</div>
+
+<div class="r_com">
+	<a class="r_com_in" style="font-weight:normal" href="/articles/article/174139#com74341"><img src="/img/2010/noperson.gif" style="float:left; margin:3px 5px -2px 0px" border="0" />Вузы и школы: зарплаты или подработки?</a>
+	<br /><a class="r_com_in1" style="text-decoration:none; color:black" href="/articles/article/174139#com74341">Денис, я считаю, что отец ваш прав во всём. И трудно быть братом, особенно в наше тёмное время, и в ...<br /><i>Автор: Гера.</i>
+	9.04.2013 16:04</a>
+	<img src="/img/2010/bg2_comment_anons.gif" class="r20" />
+</div>
+
+<div class="r_com">
+	<a class="r_com_in" style="font-weight:normal" href="/articles/article/203395#com74333"><img src="/img/2010/noperson.gif" style="float:left; margin:3px 5px -2px 0px" border="0" />Повестка ПМЭФ-2012: роль лидера в эпоху перемен</a>
+	<br /><a class="r_com_in1" style="text-decoration:none; color:black" href="/articles/article/203395#com74333">.!.WaY.!. Значьте, "рейтинговая" серия из ентого "SeRi-aLa по RaSheN" стремительно набирает очки.!. ...<br /><i>Автор: SLavaK.</i>
+	9.04.2013 13:18</a>
+	<img src="/img/2010/bg2_comment_anons.gif" class="r20" />
+</div>
+
+<div class="r_com">
+	<a class="r_com_in" style="font-weight:normal" href="/articles/article/625#com74324"><img src="/img/2010/noperson.gif" style="float:left; margin:3px 5px -2px 0px" border="0" />Москва без москвичей: столичный средний класс вымирает</a>
+	<br /><a class="r_com_in1" style="text-decoration:none; color:black" href="/articles/article/625#com74324">Бездомность, асоциальность и др. -типичные проблемы мегаполисов мира, как  и Москва и Питер. Капитал...<br /><i>Автор: Ирэн.</i>
+	9.04.2013 11:45</a>
+	<img src="/img/2010/bg2_comment_anons.gif" class="r20" />
+</div>
+
+<div class="r_com">
+	<a class="r_com_in" style="font-weight:normal" href="/articles/article/174139#com74325"><img src="/img/2010/noperson.gif" style="float:left; margin:3px 5px -2px 0px" border="0" />Вузы и школы: зарплаты или подработки?</a>
+	<br /><a class="r_com_in1" style="text-decoration:none; color:black" href="/articles/article/174139#com74325">Денис и куда супруга подалась?
+Это о региональных надбавках. У жены тоже в начале года их сняли, но ...<br /><i>Автор: николаич.</i>
+	9.04.2013 11:50</a>
+	<img src="/img/2010/bg2_comment_anons.gif" class="r20" />
+</div>
+
+<div class="r_com">
+	<a class="r_com_in" style="font-weight:normal" href="/articles/article/174139#com74296"><img src="/img/2010/noperson.gif" style="float:left; margin:3px 5px -2px 0px" border="0" />Вузы и школы: зарплаты или подработки?</a>
+	<br /><a class="r_com_in1" style="text-decoration:none; color:black" href="/articles/article/174139#com74296">Гере: прибавка случилась! Такая же, как у тёщи: 25% добавили к окладу, но субвенции на стимулирующие...<br /><i>Автор: Денис..</i>
+	9.04.2013 5:24</a>
+	<img src="/img/2010/bg2_comment_anons.gif" class="r20" />
+</div>
+
+<div class="r_com">
+	<a class="r_com_in" style="font-weight:normal" href="/articles/article/174076#com74275"><img src="/img/2010/noperson.gif" style="float:left; margin:3px 5px -2px 0px" border="0" />Частная благотворительность в России: особенности, проблемы и перспективы</a>
+	<br /><a class="r_com_in1" style="text-decoration:none; color:black" href="/articles/article/174076#com74275">помогите пожалуйста многодетной семье господа обеспеченные материально будте милосердными...<br /><i>Автор: альфия.</i>
+	8.04.2013 23:02</a>
+	<img src="/img/2010/bg2_comment_anons.gif" class="r20" />
+</div>
+
+				<noindex><div id="fromrightlast1" style="margin:6px 0; text-align:center" fixit="dawai-2011_246x67.gif"></div>
+<script>
+	$$(function(){
+		$$("#fromrightlast1").html('<a banner_id="12" id="dawai-2011_246x67" href="http://www.dawai.at/" target="_blank"><img src="/img/2011/banners/dawai-2011_246x67.gif" border="0" /></a>')
+	})
+</script>
+
+<div id="fromrightlast2" style="margin:6px 0; text-align:center"></div>
+<script>
+	$$(function(){
+		$$("#fromrightlast2").html(''+
+			'<div>'+
+			'	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="240" height="180" id="mediapiefolder" align="middle">'+
+			'	<param name="allowScriptAccess" value="sameDomain" />'+
+			'	<param name="allowFullScreen" value="false" />'+
+			'	<param name="movie" value="/img/2012/banners/mediapiefolder.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="/img/2012/banners/mediapiefolder.swf" quality="high" bgcolor="#ffffff" width="240" height="180" name="mediapiefolder" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer_ru" />'+
+			'	</object>'+
+			'</div>'
+		)
+	})
+</script>
+
+
+
+</noindex>
+
+<!-- начало: МаркетГид http://marketgid.com контакт от маркетгида в Skype: piratikuz
+MarketGidNews Start -->
+<div id="MarketGid10055"><center>
+<a href="#" target="_blank">Загрузка...</a>
+</center></div>
+<!-- MarketGidNews End -->
+<!-- pered </body> -->
+<script type="text/javascript">
+	var MarketGidDate = new Date();
+	document.write('<scr'+'ipt type="text/javascript" '
+	+'src="http://jsn.dt00.net/k/a/kapital-rus.ru.10055.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()
+	+ '" charset="utf-8" ></scr'+'ipt>');
+</script>
+<!-- конец: МаркетГид http://marketgid.com -->
+
+<!-- Начало блока 24smi.org -->
+
+<div id="smi_teaser_1122"><center><a href="#">Новости России</a></center></div>
+<script type="text/JavaScript" encoding="utf8">
+    (function() {
+    var sm = document.createElement("script");
+    sm.type = "text/javascript";
+    sm.async = true;
+    sm.src = "http://jsn.24smi.org/i/k/a/kapital-rus.ru.1122.js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(sm, s);})();
+</script>
+<!-- Конец блока 24smi.org -->
+
+				<div style="padding-top:20px" align="center">
+<!--begin of Rambler's Top100 code --><a href="" class="ramblercounter"><img src="http://counter.rambler.ru/top100.cnt?1090551" alt="" border="0" width="1" height="1" style="padding:0px;margin:0px"></a><!--end of Top100 code--><!--begin of Top100 logo--><a href="" class="ramblercounter"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" border="0" width="88" height="31"></a><script>$$(function(){$$("#ramblercounter").attr("href", "http://top100.rambler.ru/top100/")})</script><!--end of Top100 logo -->
+
+<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter16639138 = new Ya.Metrika({id:16639138, enableAll: true, ut:"noindex", webvisor:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/16639138?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+
+<!--Rating@Mail.ru counter-->
+<script language="javascript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+<script language="javascript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+<script language="javascript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+<script language="javascript1.3" type="text/javascript"><!--
+js=13;//--></script><script language="javascript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=1218016" target="_top">'+
+'<img src="http://d5.c9.b2.a1.top.mail.ru/counter?id=1218016;t=57;js='+js+
+a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+
+'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--></script>
+<noscript><a target="_top" href="http://top.mail.ru/jump?from=1218016">
+<img src="http://d5.c9.b2.a1.top.mail.ru/counter?js=na;id=1218016;t=57" 
+height="31" width="88" border="0" alt="Рейтинг@Mail.ru"></a></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+<!--// Rating@Mail.ru counter-->
+
+<br />
+
+<a id="asubscribe" target="_top" rel="nofollow" href=""><img alt="Рассылка 'Инвестируй и зарабатывай с нами. Издание &quot;Капитал Страны&quot;'" src="http://subscribe.ru/stat/economics.news.investwithus/count.png" border="0" width="88" height="31" style="padding:0px;margin:0px"></a>
+<script>$$(function(){$$("#asubscribe").attr("href",'http://subscribe.ru/catalog/economics.news.investwithus')})</script>
+
+
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background:#404040;color:white" align="center" valign="middle" height="">
+				<div style="font-size:9px;width:25%;border:red solid 0px">Copyright © 2007-2012 kapital-rus.ru. <br> Дизайн: <a id="aterralife" style="color:white" href="" target="_blank">Terralife strategic</a></div><script>$$(function(){$$("#aterralife").attr("href","http://terralife.ru"); $$(".menu[href='/articles/C285/']").parent().hide();})</script>
+			</td>
+		</tr>
+	</table>
+	<div style="border:red solid 0px;color:#404040; text-align:center;font-size:10px"><b>"Капитал страны", свидетельство о регистрации СМИ Эл №ФС 77-31120, ISSN: 1999-4958</b></div>
+</div>
+
+
+<script src="http://www.statistics.lga.ru/services/LGAStatistics/fixit.js" type="text/javascript"></script>
+<script type="text/javascript">try{LGAStatistics.fix()}catch(e){}</script>
+
+
+
+<script>
+function clock_form(){	day=new Date()
+	clock_f = day.getDate()+"."+(day.getMonth()+1 )+"."+day.getFullYear()+" "+day.getHours()+":"+day.getMinutes()+":"+day.getSeconds()
+	$$('#timenow').html(clock_f)
+	setTimeout("clock_form()",100)
+}
+
+$$(function(){
+	clock_form()})
+</script>
+
+
+
+<script>window.currency_USD='31,2086'; window.currency_EURO='40,6523';</script>
+
+</body>
+</html>
+

@@ -1,0 +1,448 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php?noscript"></noscript>
+<!--[if lte IE 6]><meta http-equiv="refresh" content="0; URL=/badbrowser.php"><![endif]-->
+<title>Новости Луганска - В Луганской области просят «не отфутболивать» проблему СПИДа - Cxid.info</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="В Луганской области просят «не отфутболивать» проблему СПИДа"><link rel="shortcut icon" href="../images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cxid.info/rss.xml" />
+<script type="text/javascript" language="javascript" src="js/popup.js"></script>
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+<link rel=stylesheet href="css/lightbox.css" type=text/css media=screen />
+<LINK href="css/style.css" rel=stylesheet type=text/css>
+
+
+<base href="http://cxid.info/" />
+<base target="_self" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24137295-3']);
+  _gaq.push(['_setDomainName', 'cxid.info']);
+  _gaq.push(['_setAllowHash', 'false']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<div align="center">
+
+<div id="main">
+
+	<div id="band_top">
+		<div id="band_top_mar">Сегодня 28&nbsp;Ноября&nbsp;2011&nbsp;-&nbsp;17:08 | <a href="http://passport.cxid.info" onClick="javascript:return showPopup('loginPopup');">ВХОД НА САЙТ</a></div>	</div>
+
+
+	<div style="height: 74px; width: 1000px; margin-bottom: 7px; overflow: hidden;">
+
+		<div style="float: left; width: 176px; height: 74px;"><a href="http://cxid.info/"><img src="images/logo.png" width="176" height="74" border="0" alt="Cxid.info"></a></div>
+		<!--- <div style="float: left; width: 176px; height: 74px;"><a href="http://cxid.info"><img src="images/logo9may.png" width="304" height="74" border="0" alt="Cxid.info"></a></div> -->
+		<div style="float: left; width: 560px; height: 74px;" align="right">
+				<!-- Ukrainian Banner Network 468х60 elite START -->
+<center><script>
+//<!--
+ubn_user = "13794";
+ubn_page = "1";
+ubn_pid = Math.round((Math.random() * (10000000 - 1)));
+document.write("<iframe src='http://banner.kiev.ua/cgi-bin/bi.cgi?h" +
+ubn_user + "&amp;"+ ubn_pid + "&amp;" + ubn_page + 
+"&amp;9' frameborder=0 vspace=0 hspace=0 " +
+" width=468 height=60 marginwidth=0 marginheight=0 scrolling=no>");
+document.write("<a href='http://banner.kiev.ua/cgi-bin/bg.cgi?" +
+ubn_user + "&amp;"+ ubn_pid + "&amp;" + ubn_page + "' target=_top>");
+document.write("<img border=0 src='http://banner.kiev.ua/" +
+"cgi-bin/bi.cgi?i" + ubn_user + "&amp;" + ubn_pid + "&amp;" + ubn_page +
+"&amp;9' width=468 height=60 alt='Ukrainian Banner Network'></a>");
+document.write("</iframe>");
+//-->
+</script><br>
+<small><a href="https://www.bannerka.ua/" target="_top" style="font-size: 6px;">Баннерная реклама в Интернет</a></small>
+</center>
+<!-- Ukrainian Banner Network 468х60 elite END -->		</div>
+		<div style="position: absolute; margin-left: 736px; width: 264px; height: 74px;">
+
+			<div id="pda">
+				<div style="float: left; width: 120px;"><img src="images/pda.png"></div>
+				<div id="pda_mar"><a href="http://pda.cxid.info">МОБИЛЬНЫЙ CXID.INFO</a></div>
+			</div>
+
+			<div style="width: 250px; height: 59px; margin-top: 7px;">
+				<form action="index.php" method="post" id="search">
+				<input type=text name="FIND" size=46 id="search_input">
+				<input type="submit" id="search_submit" name="sea" value="Найти">
+				</form>
+
+			</div>
+		</div>
+	</div>
+	
+
+			<div id="links">
+		<ul id="links_menu">
+		<li><a href="/all/region/">Новости Луганска</a></li>
+		<li><a href="/all/politics/">Политика</a></li>
+		<li><a href="/all/economy/">Экономика</a></li>
+		<!--<li><a href="/all/analytics/">Аналитика</a></li>-->
+		<li><a href="/all/incidents/">Происшествия</a></li>
+		<li><a href="/all/society/">Общество</a></li>
+		<li><a href="/all/sport/">Спорт</a></li>
+		<li><a href="http://cxid.info/Conference/main.php">Конференции</a></li>
+		<li><a href="http://blog.cxid.info/">Блог</a></li>
+		<li><a href="http://hotels.cxid.info/">Гостиницы</a></li>
+		<li><a href="http://horoscope.cxid.info/">Гороскоп</a></li>
+		<li><a href="http://weather.cxid.info/">Погода</a></li>
+
+		</ul>
+
+	</div>
+
+	<div>
+
+	<div id="top_content">
+		<div style="display: inline-block; padding: 3px; padding-bottom: 8px;">
+				<img src="upload/2011112815333901.jpg" width="300" alt="В Луганской области просят «не отфутболивать» проблему СПИДа" border="0" align="left" hspace="8" vspace="0">
+
+		<H2>Сегодня, 15:33 &bull; Новости региона</H2>
+		<H1>В Луганской области просят «не отфутболивать» проблему СПИДа</H1>
+		<p style="line-height: 1.5em;"><p>В этом году Всемирный День борьбы со СПИдом в Луганской области проходит под девизом &laquo;Не отфутболивай&raquo;. Об этом сегодня в ходе брифинга рассказал главный врач Луганского областного центра борьбы со СПИДом и ВИЧ-инфекциями Реваз Чхетиани, передает корреспондент <a href="http://cxid.info/">Cxid.info</a>.</p>
+<p>&laquo;Мы говорим, чтобы люди не отфутболивали проблему эпидемии ВИЧ/СПИД в Украине, людей, живущих с ВИЧ, людей, больных СПИДом, близких и друзей, которых коснулась эпидемия, свое здоровье, ответственность за свою жизнь, свое будущее, будущее своей страны&raquo;, - сообщил Реваз Чхетиани.</p>
+<p><a href="http://cxid.info/89779.html">Напомним</a>, что в Луганской области за 9 месяцев текущего года было зафиксировано 155 смертей от СПИДа.</p>
+<p>Учитывая, что больные СПИДом не всегда могут приехать в Луганск для проведения лечения и обследования, в 2010 году были открыты сайты антиретровирусного (АРТ) <a href="http://cxid.info/89785.html">лечения</a> в городах и районах области.</p>
+<p><em>Анна Лытко</em></p></p>
+		<p>
+		
+		
+		</p>
+		<p style="background-color: #EBEBEB;"><i>Просмотров: 28</i></p>
+		<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+		<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj,friendfeed,moikrug"></div> 
+
+
+ 
+<br style="clear: both;"><br>
+
+<!-- Play.Ukr.Net -->
+<style>
+.play-block {border:1px solid #7F7F7F;padding:1px;}
+.play-block .play-ttl {background:url(http://cxid.info/images/links.png) repeat-x top;padding:3px 0 5px 10px;}
+.play-block .play-ttl a {color:#FFF!important;font-weight:bold;text-decoration:none;}
+#videoukrnet {overflow:hidden;zoom:1;padding:10px 0;}
+#videoukrnet table {float:left;width:25%;_width:24%;text-align:center;}
+#videoukrnet div {width:120px;height:90px;margin:auto;}
+#videoukrnet a {color:#1040A1;text-decoration:none;font-size:11px;} 
+</style>
+<div class="play-block">
+	<div class="play-ttl"><a href="http://play.ukr.net/" target="_blank">Видео онлайн</a></div>
+    <div id="videoukrnet">Загрузка...</div>
+    <script language="javascript" src="http://informers.ukr.net/play/js.php?c=4&type=vertical&v=3&h" charset="utf-8"></script>
+    <div style="text-align:center;margin-bottom:10px;"><a href="http://job.ukr.net/" style="font-family:Tahoma;font-size:10px;text-transform:uppercase;" target="_blank"><b>вакансии</b></a></div>
+</div>
+<!-- Play.Ukr.Net -->
+
+
+
+		<div align="left"><b>Комментарии:</b></div><div style="background-color: #e8e8e8; padding: 5px; font-size: 12px; border: solid 1px #7f7f7f; text-align: center;">Комментировать могут только зарегистрированные пользователи.<br>Пожалуйста, <a href="http://passport.cxid.info">войдите</a> или <a href="http://passport.cxid.info/registration/">зарегистрируйтесь</a>.</div><br>		<div style="width: 637px; border: solid 1px #7f7f7f; padding: 0px; margin: 0px;">
+	<div id="rotate_news_block42">
+    		<a href="http://exchange.rotate.lg.ua/"> Ротатор новостей... </a>
+	</div>
+	
+	<script type="text/javascript" charset="utf-8" src="http://exchange.rotate.lg.ua/42/blank.js"></script>
+</div>
+<br>
+<div style="border: solid 1px #7f7f7f;">
+<!--Код all-news.net.ua информера для вставки на странице--><div id="informer437"><a href="http://all-news.net.ua">последние новости </a><!--All-news.net.ua informer--></div>
+</div>		<br style="clear: both;">
+		<div style="border: solid 1px #7f7f7f;">
+<!-- MarketNews Start --> <div id="MarketGid1883"><center> <a href="http://marketgid.com/" target="_blank">Загрузка...</a> </center></div> <!-- MarketNews End --> <!-- pered </body> --> <script type="text/javascript"> var MarketGidDate = new Date(); document.write('<scr'+'ipt type="text/javascript" ' +'src="http://mg.dt00.net/js/c/x/cxid.info.1883.js?t=' +MarketGidDate.getYear()+MarketGidDate.getMonth() + ' charset="WINDOWS-1251" ></scr'+'ipt>'); </script>
+</div>		<br style="clear: both;">
+		<div style="width: 636px; border: solid 1px #7f7f7f;"><div id="meta_news_block1715"><a href="http://news.meta.ua/"> Мета новости...</a></div><script type="text/javascript" charset="utf-8" src="http://exchange.meta.ua/1715/block.js"></script></div>
+<style type="text/css">
+div#meta_news_block1715 td a {text-align: left;}
+</style>		<br style="clear: both;">
+		<div style="border: solid 1px #7f7f7f;">
+<script type="text/javascript" src="http://www.fark.ru/js/bannerLink.js"></script>
+
+<script type="text/javascript">
+	fark_partner_id = '1064';
+	fark_num_links = 3;
+	fark_is_images = 1;
+	fark_code_format = '2';
+	fark_code_style_a = '';
+	fark_code_style_td = '';
+
+	fark_banner_draw();
+</script>
+</div>		<br style="clear: both;">
+		<div style="border: solid 1px #7f7f7f;">
+<iframe id="snf2505" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+<script src="http://js.sn00.net/00/25/05.js"></script>
+</div>		</div>
+
+	</div>
+
+
+
+
+	
+	<div id="content_lenta" align="left">
+		<br><center>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="300" height="450" id="1" align="middle"> 
+<param name="allowScriptAccess" value="sameDomain" /> 
+<param name="movie" value="other/240x360_2.swf" /> 
+<param name="quality" value="high" /> 
+<param name="bgcolor" value="#f1f1f3" /> 
+<embed src="other/240x360_2.swf" quality="high" bgcolor="#f1f1f3" width="300" height="450" name="front" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> 
+</object> 
+</center>	<!-- <br>
+	<center>
+	<div style="border: 1px solid #1040a1; padding-top:4px; padding-left:4px; padding-right:4px; background-color: #DEDEDE; color: #FF0000; width: 300px; text-align: right;">
+	<marquee style="padding-bottom: 4px;" height="12" width="100%" scrolldelay="200" style="font-size: 14px; height: 25px;">
+	<a href="http://cxid.info/banner.php?click=3" style="text-decoration: none;">
+	<font color="#e67510">Хотите курорт Мертвого моря на дому? Лечебно-косметическая продукция без парабенов. Поддержка иммунитета, профилактика онкозаболеваний. Компьютерная диагностика (120 показателей). Приглашаем в г.Луганске на мастер-классы, дамские клубы, сауны с применением продукции. Мамаева И.А. (050) 905 72 63  г.Луганск ул.Совесткая 67а. График работы с 10-00 до 18-30, воскресение выходной.</font>
+	</a></marquee><a href="http://cxid.info/banner.php?click=3" style="text-decoration: none; font-size: 10px; padding: 0px; margin 0px;">подробнее...</a></div>
+	</center> -->
+
+	<!-- <br>
+
+	<center>
+		<div style="border: 1px solid #1040a1; padding: 0px; background-color: #FFFFFF; width: 300px; height: 80px; text-align: right;">
+                        <object width="300" height="80" data="other/ldsila.swf" type="application/x-shockwave-flash" style="margin:0px;">
+                        <param name="data" value="other/ldsila.swf" />
+                        <param name="quality" value="high" />
+                        <param name="scale" value="showall" />
+                        <param name="salign" value="tl" />
+                        <param name="bgcolor" value="#FFFFFF" />
+                        <param name="menu" value="disabled" />
+                        <param name="src" value="other/ldsila.swf" />
+                        </object>
+		</div>
+	</center> -->
+
+	<!-- <center>
+         <a href="http://cxid.info/banner.php?click=6" title="">
+		<img src="/other/mayutur.png" border="0" alt="" style="border: 1px solid #000000;">
+	 </a>
+	</center>
+	<br><br> -->
+
+	Последние новости раздела
+
+		<div id="lenta">
+			<ul>
+				
+				<li><a href="89810.html">Большинство луганчан не будут соблюдать Рождественский пост. - Опрос <font>Сегодня, 17:00</font></a></li>
+
+
+				<li><a href="89805.html">Луганские чернобыльцы решили все-таки ехать в Киев <font>Сегодня, 16:14</font></a></li>
+
+
+				<li><a href="89796.html">В Луганске наградят лучших патронажных сестер области <font>Сегодня, 14:56</font></a></li>
+
+
+				<li><a href="89794.html">Александр Антипов возглавил Государственную налоговую службу Луганской области <font>Сегодня, 14:32</font></a></li>
+
+
+				<li><a href="89792.html">Сегодня Донецкая железная дорога прощается с Александром Кожушком  <font>Сегодня, 14:21</font></a></li>
+
+
+				<li><a href="89791.html">В луганской горбольнице № 7 работает 4 отделения, в ближайшее время откроются еще 2 <font>Сегодня, 14:11</font></a></li>
+
+
+				<li><a href="89785.html">В Луганской области лечат СПИД через интернет <font>Сегодня, 13:11</font></a></li>
+
+
+				<li><a href="89779.html">В Луганской области в 2011 году от СПИДа умерли 155 человек <font>Сегодня, 12:22</font></a></li>
+
+
+				<li><a href="89776.html">В Луганской области пройдет финал профориентационного КВНа «Мир профессий: мой выбор - мой успех!» <font>Сегодня, 11:52</font></a></li>
+
+
+				<li><a href="89772.html">В Луганской области зарегистрировано 1973 «крутых» автомобиля <font>Сегодня, 11:16</font></a></li>
+
+			</ul>
+		</div>
+
+
+		<div align=center>
+								<br><center>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="233" height="350" id="Untitled-1" align="middle"> 
+<param name="allowScriptAccess" value="sameDomain" /> 
+<param name="movie" value="other/transport.swf" /> 
+<param name="quality" value="high" /> 
+<param name="bgcolor" value="#f1f1f3" /> 
+<embed src="other/transport.swf" quality="high" bgcolor="#f1f1f3" width="233" height="350" name="front" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> 
+</object> 
+</center><br>			<center>
+	<a href="http://horoscope.cxid.info" title="Ежедневный гороскоп на Cxid.info"><img src="http://cxid.info/other/goroskop.jpg" width="300" alt="Ежедневный гороскоп на Cxid.info" border="0"></a>
+	</center>
+
+	<center>
+	<!--- <a href="http://cxid.info" title="Ежедневный гороскоп на Cxid.info"><img src="http://cxid.info/other/prim.jpg" width="300" alt="Ежедневный гороскоп на Cxid.info" border="0"></a> --->
+	</center>				<br>
+
+
+				<!--job.ukr.net ttl:1322573067-->
+<style>
+    #JobInformer{ min-width:160px; margin-top:20px; border:1px solid #E9C9AC; margin:0; padding:0; font:12px Arial,sans-serif; border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;-khtml-border-radius:5px;text-align: left;}
+    #JobInformer a{text-decoration:none;}
+    #JobInformer a:hover, #JobInformer span:hover{ text-decoration:underline; }
+    #JobInformer .clear{ visibility:hidden; height:0; width:0; clear:both; }
+    #JobInformer_logo{ background-color:#FFF; height:54px; padding:4px 10px 0px 20px;  border-radius:4px 4px 0 0; -moz-border-radius:4px 4px 0 0;-webkit-border-radius:4px 4px 0 0;-khtml-border-radius:4px 4px 0 0;}
+    #JobInformer_logo img{ position:absolute; z-index:1;}
+    #JobInformer_head{ margin:0px; padding:10px 7px; border-top:1px solid #DD6800; background-color:#FFAC00;box-shadow:0px 6px 6px 0px #FB7B00 inset;-moz-box-shadow:0px 6px 6px 0px #FB7B00 inset;-webkit-box-shadow:0px 6px 6px 0px #FB7B00 inset;-khtml-box-shadow:0px 6px 6px 0px #FB7B00 inset;}
+    #JobInformer_head a, #JobInformer_head{ color:#fff; font:bold 14px Arial,sans-serif; text-shadow:2px 1px 2px #B66200;-moz-text-shadow:2px 1px 2px #B66200;-webkit-text-shadow:2px 1px 2px #B66200;-khtml-text-shadow:2px 1px 2px #B66200;}
+    #JobInformer .JobInformer_item{ border-bottom:1px dotted #B3B3B3; margin:0px; padding:10px 7px; background:#fff;}
+    #JobInformer .JobInformer_item a, #JobInformer .JobInformer_item span,#JobInformer .JobInformer_item{ cursor:pointer; font:bold 13px Arial,sans-serif; color:#000; }
+    #JobInformer .JobInformer_item:last-child{border-bottom-style:none;}
+    #JobInformer #JobInformer_bottom{ padding-bottom:10px; background-color:#F8F9F9; box-shadow:0px 5px 10px 0px #E4E6E7 inset;-moz-box-shadow:0px 5px 10px 0px #E4E6E7 inset;-webkit-box-shadow:0px 5px 10px 0px #E4E6E7 inset;-khtml-box-shadow:0px 5px 10px 0px #E4E6E7 inset;}
+    #JobInformer_bottom { margin:0; padding:10px 7px; border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px;-khtml-border-radius:0 0 4px 4px;}
+    #JobInformer_bottom a,#JobInformer_bottom{color:#A7A7A7;font:12px Arial,sans-serif;}
+</style>
+<div id="JobInformer">
+<div id="JobInformer_logo"><img src="http://informers.job.ukr.net/front/img/logo.png" alt="JOB - выбери лучшее" title="JOB - выбери лучшее" height="50px" width="115px;"/></div>
+<div id="JobInformer_head"><a href="http://job.ukr.net/city/lugansk/" target="_blank">Работа в Луганске</a></div>
+<div class="JobInformer_item"><a href="http://job.ukr.net/vacancy/lugansk/kw-главный_инженер/" target="_blank">Главный инженер</a></div>
+<div class="JobInformer_item"><a href="http://job.ukr.net/vacancy/lugansk/kw-web_программист/" target="_blank">Web программист</a></div>
+<div class="JobInformer_item"><a href="http://job.ukr.net/vacancy/lugansk/kw-руководитель_отдела_продаж/" target="_blank">Руководитель отдела продаж</a></div>
+<div class="JobInformer_item"><span onclick="window.open('http://job.ukr.net/vacancy/lugansk/kw-сиделка/');">Сиделка</span></div>
+<div class="JobInformer_item"><span onclick="window.open('http://job.ukr.net/vacancy/lugansk/kw-торговый_агент/');">Торговый агент</span></div>
+<div id="JobInformer_bottom"><a href="http://job.ukr.net/vacancy/lviv/kw-таможенный_декларант/" target="_blank">вакансии декларант Львов</a></div>
+</div>
+<!--job.ukr.net-->
+		<br><div id="rotate_news_block423" style="border: 1px solid #F0F0F0; width: 300px;">
+			<a href="http://rotate.lg.ua/">rotate.lg.ua</a>
+		</div>
+		<script type="text/javascript" charset="utf-8" src="http://exchange.rotate.lg.ua/42/3/blank.js"></script><br>
+		<div id="NM145" style="border: 1px solid #F0F0F0; width: 300px;">
+    <center>
+        <a title="Новостной портал" href="http://novostimira.com.ua/" target="_blank"><strong>Новости мира</strong></a>
+    </center>
+</div><br><br>				<iframe id="snf2504" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+<script src="http://js.sn00.net/00/25/04.js"></script>
+		<br>
+
+		<!--bigmir)net TOP 100 Part 1-->
+<span id='obHP'></span>
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:69992,s:69992,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+try{obHP.style.behavior="url('#default#homePage')";obHP.addBehavior('#default#homePage');if(obHP.isHomePage(window.location.href))bm.h=1;}catch(e){;}
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[ohvstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+//-->
+</script>
+<noscript><img src="http://c.bigmir.net/?v69992&s69992&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+<!--bigmir)net TOP 100 Part 1-->
+
+<!--bigmir)net TOP 100 Part 2-->
+<script type="text/javascript" language="javascript"><!--
+function BM_Draw(oBM_STAT){
+document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;">&nbsp;</div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;">&nbsp;</div></div></td></tr></table>');
+}
+//-->
+</script>
+<script type="text/javascript" language="javascript" src="http://c.bigmir.net/?s69992&t0&l1&o1"></script>
+<noscript>
+<a href="http://www.bigmir.net/" target="_blank"><img src="http://c.bigmir.net/?v69992&s69992&t2&l1" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+<!--bigmir)net TOP 100 Part 2-->
+<br>
+<a href="http://www.top.lg.ua/" target="_blank"><img src="http://www.top.lg.ua/rating/counter.php?t=3&id=197" width="88" height="31" border="0" alt="Луганский рейтинг"></a>		</div>
+	</div>
+
+
+	</div>
+	<br style="clear: both;">
+	<br>
+	<div id="bottom">
+		&copy; 2002-2011, Сxid.info. Все права защищены.<br>
+		email: info@cxid.org.ua<br>
+		Использование материалов Cxid.info разрешается при условии ссылки (для интернет-изданий - гиперссылки) на Cxid.info.</br>
+		Перепечатка, копирование или воспроизведение информации, содержащей ссылку на другие агентства в каком-либо виде строго запрещено.</br>
+		Материалы, отмеченные знаком &reg; публикуются на правах рекламы.
+		<br><!-- Ukrnet Linkator -->
+<a href="http://job.ukr.net/vacancy/odessa/kw-менеджер_склада/" title="работа менеджер склада Одесса">работа менеджер склада Одесса</a>, <a href="http://sinoptik.ua/" title="погоду">погоду</a>, <a href="http://www.ukr.net/news/subject/Hokkej-169.html" title="хоккей чм онлайн">хоккей чм онлайн</a>, <a href="http://kino.ukr.net/ganr/horror" title="смотреть ужасы онлайн">смотреть ужасы онлайн</a>, <a href="http://play.ukr.net/tags/show/name/наруто/" title="приколы наруто видео">приколы наруто видео</a>, <a href="http://avtosale.com.ua/car/Chernovickaja/Daewoo/" title="продам Daewoo в Черновцах">продам Daewoo в Черновцах</a>		 		, Юридическая компания <a href="http://tis.lg.ua" target="_blank">ТИС</a>.  Луганский <a href="http://rotate.lg.ua/" title="Региональный обмен посетителями">обмен посетителями</a>.
+	</div>
+
+
+</div>
+
+
+
+
+</div>
+
+<div id="Popup_overlay" class="Popup_overlay hidden"></div>
+ 
+<div class="border_div  hidden" id="loginPopup">
+	<div style="height: 200px; border: 1px #23528b solid;">
+	<div style="height: 30px; background-image: url(../images/passport.png);" align="right"><a href="#" onClick="javascript:return hidePopup('loginPopup');"><img src="images/close.png" border="0"></a></div>
+	<form method="post" name="login" action="http://passport.cxid.info">
+	<input type="Hidden" name="url" value="/89800.html">
+	<div style="padding: 10px;">
+	<table border="0" width="100%" cellpadding="4" cellspacing="4" id="logon"><tr>
+		<td align="right">
+		Логин
+		</td>
+		<td>
+		 <input type="text" name="Login" id="logon"><br>
+		<font id="bottom_logon">Например, info@mydomain.net</font>
+		</td></tr>
+		<tr><td align="right">
+		Пароль
+		</td>
+		<td>
+		<input type="password" name="passw" id="logon"><br>
+		<font id="bottom_logon">Пароль есть, но Вы его <a href="http://passport.cxid.info/remind/">забыли?</a></font>
+		</td></tr>
+		<tr><td></td>
+		<td><input type=submit name="enter" value="Вход" id="logon"> <input type="button" value="Закрыть" id="logon" onClick="javascript:return hidePopup('loginPopup');" /></td>
+		</tr>
+		<tr><td></td>
+		<td><font id="bottom_logon">Впервые на сайте? <a href="main.php?mod=registration" class="panel_link">Зарегистрируйтесь</a></font></td>
+		</tr>
+		</table>
+	</div>
+	</form>
+	</div>
+</div>
+
+<!--Код all-news.net.ua информера для вставки перед закрывающим тегом body--><script language="JavaScript" charset="UTF-8" src="http://all-news.net.ua/informers/437/informer.js"></script>
+			<!-- Yandex.Metrika -->
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+<div style="display:none;"><script type="text/javascript">
+try { var yaCounter1801081 = new Ya.Metrika(1801081);
+yaCounter1801081.clickmap(true);
+yaCounter1801081.trackLinks(true);
+} catch(e){}
+</script></div>
+<noscript><div style="position:absolute"><img src="//mc.yandex.ru/watch/1801081" alt="" /></div></noscript>
+<!-- /Yandex.Metrika -->			<script type="text/javascript">
+    var dateNM = new Date();
+    var t = Math.floor(dateNM.getTime()/(1000*60));
+    document.write('<scr'
+        +'ipt type="text/javascript" '
+        +'src="http://t.novostimira.com/t/n/145/1/template.js?v='
+        +t
+        +'" charset="Windows-1251" ></scr'
+        +'ipt>');
+</script></body>
+</html>
+

@@ -1,0 +1,640 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+ <meta charset="utf-8" />
+ <meta http-equiv="X-UA-Compatible" content="IE=7" />
+ <title>京东商城地铁站能自提 - 互联网(3G) - 21CN.COM</title>
+ <meta name="keywords" content="京东,商城,安贞门,新闻图片,专题">
+ <meta name="description" content="本报讯(记者贾中山)昨天，京东商城宣布开通北京市地铁自提点，用户除了可以选择快递送货外，还可以选在最近的地铁站进行自提，目前该服务仅限北京市地铁5号线和10号线共20个站点。地铁自提服务覆盖的站点包括：立水桥、大屯路东、北新桥、东四、天通苑北、天通苑、崇文门、安贞门、芍药居、三元桥、亮马桥、农业展览馆、国贸、海淀黄庄、牡丹园、刘家窑、张自忠路等。目前在京东商城购物完毕以后，已经可以选择“来地铁站自提”...">
+ <link rel="stylesheet" href="http://www.21cn.com/other/css/2011/common/set.css" />
+ <link rel="stylesheet" href="http://www.21cn.com/other/css/2011/doc/page.css" />
+ <script charset="utf-8" type="text/javascript" src="http://www.21cn.com/other/js/lib/jquery/jquery-1.5.1.min.js"></script>
+ <script charset="utf-8" type="text/javascript" src="http://www.21cn.com/other/js/third-party/jquery Tools/jquery.tools.min.js"></script>
+ <script charset="utf-8" type="text/javascript" src="http://www.21cn.com/other/js/2011/doc/base.js"></script>
+ <script language="javascript">
+	  document.domain = "21cn.com";
+ </script>
+  
+ </head>
+ <body>
+<!--=S site-bar --> 
+<style type="text/css">
+/*site-bar*/
+.site-bar .btn-choose,
+.site-bar .btn-choose div,
+.site-bar .login-info .btn-login,
+.site-bar .links a.register,
+.site-bar .links a.wap,
+.site-bar .links a.homepage,
+.site-bar .logined-info .logined-r .logined-msg,
+.site-bar .logined-info .logined-r .logined-jd{ background-image:url(http://www.21cn.com/other/css/2011/site-bar/bgimg/site-bar.png); background-repeat:no-repeat;}
+.site-bar { height:27px; border-bottom:1px solid #ddd; background:#F3F3F3; }
+.site-bar .bd { width:950px; margin:0 auto; }
+.site-bar .login-info { float:left; padding-top:4px; *line-height:23px;
+}
+.site-bar .login-info label { float:left; line-height:20px; margin:0 9px 0 3px; _margin-top:-1px; }
+.site-bar .login-info input { width:74px; height:18px; border:1px solid #BBB; *vertical-align:middle;
+_vertical-align:baseline; line-height:16px; position:absolute;color:#CCC; line-height:18px; }
+.site-bar .login-info input.active{ color:#000; border:1px solid #2C2C2C}
+.site-bar .login-info .input-widget { margin-left:14px; float:left; display:block; margin-right:9px; width:76px; height:20px; }
+.site-bar .login-info .ddl-widget { position:relative }
+.site-bar .login-info .ddl-widget .suggestion { position:absolute; border:1px solid #BBB; background-color:#FFF; left:0; top:19px; display:none;z-index:99; }
+.site-bar .login-info .ddl-widget .suggestion li { cursor:pointer; padding:2px 5px; white-space:nowrap; }
+.site-bar .login-info .ddl-widget .suggestion li.active { background-color:#D4E2FF; }
+.site-bar .login-info .btn-login { float:left; cursor:pointer; height:20px; overflow:hidden; text-indent:-9999px; }
+.site-bar .btn-choose { float:left; position:relative; background-position:0 1px; background-repeat:repeat-x; margin-right:4px; }
+.site-bar .btn-choose div { width:68px; padding:0 18px 0 4px; background-position:70px -18px; height:18px; border:1px solid #BBBBBB; cursor:pointer; text-align:center }
+.site-bar .btn-choose span { line-height:18px; color:#666666; }
+.site-bar .btn-choose .suggestion { position:absolute; border:1px solid #BBB; background-color:#FFF; left:0; top:19px; display:none;z-index:99; }
+.site-bar .btn-choose .suggestion li { cursor:pointer; padding:2px 5px; white-space:nowrap; width:80px; }
+.site-bar .btn-choose .suggestion li.br-b { border-bottom:1px solid #BBB }
+.site-bar .btn-choose .suggestion li.active { background-color:#4472AE; color:#FFF }
+.site-bar .btn-choose .suggestion li.active span { color:#FFF }
+.site-bar .login-info .btn-login { width:39px; background-position:0 -36px; border:0 none; margin-right:10px; }
+.site-bar .login-info .reg-passport { color:#666; float:left; }
+.site-bar .logined-info { float:left; padding-top:4px; *line-height:23px;
+width:550px; color:#000000; }
+.site-bar .logined-info .fl { padding-right:10px; }
+.site-bar .logined-info .logined-r { font-family:\5b8b\4f53; }
+.site-bar .logined-info .logined-r a { text-decoration:underline; }
+.site-bar .logined-info .logined-r a:hover { text-decoration:none; }
+.site-bar .logined-info .logined-r em { color:#549C1C; font-weight:700; }
+.site-bar .logined-info .logined-r .logined-msg { padding-left:19px; background-position:0 -133px; }
+.site-bar .logined-info .logined-r .logined-jd { padding-left:17px; background-position:0 -153px; }
+.site-bar a{line-height:26px; }
+.site-bar .links { float:right; height:26px; line-height:26px; color:#656565; _padding-top:4px; }
+.site-bar .links a { padding:0 7px; color:#656565; display:inline-block; }
+.site-bar .fl a { padding: 0 1px !important; }
+.site-bar .links a.register { padding-left:20px; background-position:0 -57px; background-position:0 -60px\9; }
+.site-bar .links a.wap { padding-left:24px;  background-position: 6px -81px; background-position:6px -84px\9; }
+.site-bar .links a.homepage { padding-left:24px; background-position: 6px -103px; background-position:6px -106px\9; }
+.site-bar .links a.freemail { color:#C80000 }
+</style>
+<!--=S site-bar -->
+<div class="site-bar">
+    <div class="bd">
+        <div class="links fl">
+    <a href="http://www.21cn.com/" >首页</a>-
+    <a href="http://news.21cn.com/" >新闻</a>-
+    <a href="http://news.21cn.com/social/" >社会</a>-
+    <a href="http://finance.21cn.com/" >财经</a>-
+    <a href="http://auto.21cn.com/" >汽车</a>-
+    <a href="http://house.21cn.com/" >房产</a>-
+    <a href="http://21cn.jiatx.com/" >家居</a>-
+    <a href="http://it.21cn.com/" >手机</a>-
+    <a href="http://sports.21cn.com/" >体育</a>-
+    <a href="http://et.21cn.com/">娱乐</a>-
+    <a href="http://et.21cn.com/star/">明星</a>-
+    <a href="http://game.21cn.com/">游戏</a>-
+    <a href="http://she.21cn.com/">女人</a>-
+    <a href="http://life.21cn.com/">生活</a>-
+    <a href="http://travel.21cn.com/">旅游</a>-
+    <a href="http://free.21cn.com/">社区</a>
+        </div>
+        <div class="links">
+        	<a href="http://fmail.21cn.com/freeinterface/jsp/register/reg_moblie.htm" class="register" target="_blank">注册免费邮箱</a><a href="http://mail.21cn.com/" class="freemail" target="_blank">免费邮箱</a><a href="http://mail.21cn.com/corp/" target="_blank">企业邮箱</a>|<a href="http://click.21cn.com/urlhitcounter3.php3?url=http://3g.21cn.com/online/index.html&key=MV8w&rd=1" class="wap" target="_blank">手机网</a>|<a onClick="SetHome(this,'http://www.21cn.com'); " href="#" class="homepage"  >设为首页</a>
+        </div>
+    </div>
+</div>
+<!--=E site-bar -->
+<script >
+//SetHome
+function SetHome(obj, vrl){
+    try {
+        obj.style.behavior = 'url(#default#homepage)';
+        obj.setHomePage(vrl);
+    } 
+    catch (e) {
+        if (window.netscape) {
+            try {
+                netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+            } 
+            catch (e) {
+                alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将[signed.applets.codebase_principal_support]设置为'true'");
+            }
+            var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+            prefs.setCharPref('browser.startup.homepage', vrl);
+        }
+    }
+}
+</script> 
+<!--=E site-bar --> 
+<!--=S wrap -->
+<div class="wrap">
+   <div class="blank10"></div>
+   <div class="full-banner"> 
+    <SCRIPT language=JavaScript>
+<!--
+//取出频道名
+var arrHost = document.location.hostname.split(".");
+var sChannel = arrHost[0];
+document.write("<iframe id='iframe_xuant1' name='iframe_xuant1' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_tl1' width='960' height='100' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>");
+//-->
+</SCRIPT> 
+    <script type="text/javascript" src="http://market.21cn.com/w/js/end_wenzilian.js"  charset="utf-8" ></script> 
+  </div>
+   <div class="crumbs">
+    <div class="logo it-logo"><a href="http://it.21cn.com/" target="_blank" ><img src="http://www.21cn.com/other/css/2011/common/mask.gif" alt="" width="93" height="40"></a></div>
+    <div class="crumbs-bd"> <a href="http://www.21cn.com" target="_blank">首页</a>  &gt; <a href='http://it.21cn.com/' target='_blank'>手机频道</a> &gt; <a href='http://it.21cn.com/itnews/' target='_blank'>行业频道</a> &gt;   正文 </div>
+     <div class="hotspot"> <b>热点：</b>
+      <!--S scroll-new-->
+      <div class="scroll-mod scroll-news">
+        <div class="scroll-box" id="J_scroll_news">
+        <iframe  marginwidth="0" src="http://news.21cn.com/gundong/scroll/tm/index.shtml"  height="23px" scrolling="No" frameborder="0"></iframe>        </div>
+      </div>
+      <!--E scroll-new-->
+    </div> 
+  </div>
+   <!-- 主体{ -->
+   <div id="main">
+    <div id="article">
+       <div id="text">
+        <div class="bd">
+           <h1>京东商城地铁站能自提</h1>
+           <address>
+          <span class="time">2012-01-17 15:32:50</span>                     <span>|</span> <span class="comment"> <a id="talkSth" href="http://review.21cn.com/all.html?thread_id=10527949&type_id=13864&channel_id=15" target="_blank">我来说两句</a> <i>(<span id="reviewCount">0</span>)</i>  </span>
+                    </address>
+           <!--摘要--> 
+                      <div id="article_content">             
+                                    
+            <!--正文--> 
+                                    <p> <a href='http://bjwb.bjd.com.cn/html/2012-01/17/content_39835.htm' target="_blank" class="out-link" >摘自北京晚报</a></p>
+                        <p>本报讯(记者贾中山)昨天，京东商城宣布开通北京市地铁自提点，用户除了可以选择快递送货外，还可以选在最近的地铁站进行自提，目前该服务仅限北京市地铁5号线和10号线共20个站点。地铁自提服务覆盖的站点包括：立水桥、大屯路东、北新桥、东四、天通苑北、天通苑、崇文门、安贞门、芍药居、三元桥、亮马桥、农业展览馆、国贸、海淀黄庄、牡丹园、刘家窑、张自忠路等。目前在京东商城购物完毕以后，已经可以选择“来地铁站自提”...</p>
+                        <p> <a href='http://bjwb.bjd.com.cn/html/2012-01/17/content_39835.htm' target="_blank" class="out-link" style=" text-decoration:underline">[点击进入浏览]</a></p>
+                                                </div>
+           <div class="page-box">
+            <div class="page-ctrl"></div>
+          </div>
+                      <div class="info"> <span class="fr">责任编辑：AP0015</span> </div>
+           <!--=S mood-->
+           <div class="share-mood clearfix " >
+            <div class="title"> <strong>分享心情</strong> </div>
+            <div id="J_mood"> </div>
+          </div>
+           <script charset="utf-8" type="text/javascript" src="http://www.21cn.com/other/js/asset/app/mood/mood.js"></script> 
+           <script type="text/javascript">
+            jQuery(document).ready(function () {
+              jQuery('#J_mood').Mood({ operaId: 15, contentId: 10527949, typeId: 13864, subject: '京东商城地铁站能自提', threadUrl: 'http://it.21cn.com/itnews/web/2012/01/17/10527949.shtml' });
+            });
+          </script> 
+           <!--=E mood--> 
+           <div class="mod-pic-txt">
+    <div class="pic-bd">
+      <ul class="clearfix">
+        <li> <a href="http://it.21cn.com/mobile/pc/2011/12/30/10314492.shtml" target="_blank"><img width="120" height="90" alt="1000差价你选谁? 诺基亚Lumia710/800对比" src="http://img001.photo.21cn.com/photos/album/20111230/o/FAD0474B082F45495D94B93BEDA3290C.jpg"><em>Lumia710与800对比</em></a></li>
+        <li> <a href="http://it.21cn.com/mobile/pc/2011/12/02/10004344.shtml" target="_blank"><img width="120" height="90" alt="针锋相对 摩托罗拉XT910 Vs三星GALAXY Note" src="http://img001.photo.21cn.com/photos/album/20111202/o/270051836F33C6C4D57232C939FF6E43.jpg"><em>XT910 Vs三星GALAXY Note</em></a></li>
+        <li> <a href="http://it.21cn.com/mobile/dg/2011/10/17/9460221.shtml" target="_blank"><img width="120" height="90" alt="购机不犹豫 智能手机各硬件浅析及指导" src="http://img001.photo.21cn.com/photos/album/20111017/o/A0CD7A17B6897119C3417E0402836447.jpg"><em>智能手机各硬件浅析及指导</em></a></li>
+        <li> <a href="http://it.21cn.com/mobile/dg/2011/10/11/9385327.shtml" target="_blank"><img width="120" height="90" alt="6款诺基亚Anna系统手机荐" src="http://img001.photo.21cn.com/photos/album/20111011/o/95084DD772DF3C5F8CAD2FDB66C3C943.jpg"><em>6款诺基亚Anna系统手机荐</em></a></li>
+      </ul>
+      <ul class="clearfix">
+        <li> <a href="http://it.21cn.com/notebook/bbpc/2012/01/08/10407523.shtml" target="_blank"><img width="120" height="90" alt="世上最薄双核平板 三星P6800抢先评测" src="http://img001.photo.21cn.com/photos/album/20120109/o/4E31AC652A7581E11E5831B1C54ABFD6.jpg"><em>世界最薄双核平板抢测</em></a></li>
+        <li> <a href="http://it.21cn.com/notebook/bbpc/2011/12/19/10185491.shtml" target="_blank"><img width="120" height="90" alt="问鼎低价王者！2011年高性价笔记本横评" src="http://img001.photo.21cn.com/photos/album/20111219/o/82096BCC7503EEB66A5DA6BE3C14D02F.jpg"><em>2011高性价笔记本横评</em></a></li>
+        <li> <a href="http://it.21cn.com/notebook/bbdg/2011/11/18/9848428.shtml" target="_blank"><img width="120" height="90" alt="怎样买合适 苹果新配Macbook Pro购机手册" src="http://img001.photo.21cn.com/photos/album/20111118/o/15E04AF169EB476EE79497688EC4013C.jpg"><em>新Macbook Pro手册</em></a></li>
+        <li> <a href="http://it.21cn.com/notebook/bbdg/2011/10/17/9459203.shtml" target="_blank"><img width="120" height="90" alt="1GHz只是底线 市售高主频平板电脑推荐" src="http://img001.photo.21cn.com/photos/album/20111017/o/BA94F8415C78093102401C690D995C92.jpg"><em>高主频平板电脑推荐</em></a></li>
+      </ul>
+    </div>
+  </div>  
+
+ 
+           <div class="share-t clearfix " id="J_mod_share_btn">
+            <style type="text/css">
+            	/*mood-app*/
+/*share-app*/
+.share-app { padding: 10px 10px 0; line-height: 32px; }
+.share-app .txt { float: left; font-size: 14px; font-weight: 700; color: #333333; }
+.share-app .txt em { color: #63B340; font-family: Constantia,Georgia; font-size: 18px; margin: 0 3px; }
+.share-app button { float: left; display: inline-block; width: 32px; height: 32px; overflow: hidden; background: url(http://www.21cn.com/other/js/asset/app/share/bgimg/share-ico.png) no-repeat; padding-top: 32px; margin-right: 5px; border: 0; }
+.share-app button:hover { border-color: #C8DCF5; background-color: #E3EAFA; -webkit-transform: scale(1.1); -moz-transform: scale(1.1); -o-transform: scale(1.1); -transform: scale(1.1); }
+.share-app .share2qzone,
+#J_share2qzone { background-position: 0px 0px; }
+.share-app .share2sinaweibo,
+#J_share2sinaweibo { background-position: 0px -32px; }
+.share-app .share2qqweibo,
+#J_share2qqweibo { background-position: 0px -128px; }
+.share-app .share2renren,
+#J_share2renren { background-position: 0px -64px; }
+.share-app .share2sohu,
+#J_share2sohu  { background-position: 0px -192px; }
+.share-app .share2kaixin,
+#J_share2kaixin { background-position: 0px -96px; }
+.share-app .share2baidu,
+#J_share2baidu { background-position: 0px -224px; }
+.share-app .share2douban,
+#J_share2douban { background-position: 0px -256px; }
+.share-app .share2fetion,
+#J_share2fetion { background-position: 0px -160px; }
+.share-app .share2tianyi,
+#J_share2tianyi { background-position: 0px -288px; }
+/*tooltip*/
+.tooltip { display: none; padding: 5px; background-color: #FFF; border: 1px solid #CCC; text-align: center;*zoom: 1;-webkit-border-radius: 5px;-moz-border-radius:5px;border-radius:5px;}
+
+            </style>
+            <div class="share-app clearfix" id="share-app">
+              <span class="txt">分享到：</span>
+              <button class="share2qzone" type="button" title="分享到QQ空间">QQ空间</button>
+              <button class="share2sinaweibo" type="button" title="分享到新浪微博">新浪微博</button>
+              <button class="share2qqweibo" type="button" title="分享到腾讯微博">腾讯微博</button>
+              <button class="share2renren" type="button" title="分享到人人网">人人网</button>
+              <button class="share2sohu" type="button" title="分享到搜狐微博">搜狐微博</button>
+              <button class="share2kaixin" type="button" title="分享到开心网">开心网</button>
+              <button class="share2baidu" type="button" title="分享到百度搜藏 ">百度搜藏</button>
+              <button class="share2douban" type="button" title="分享到豆瓣网">豆瓣网</button>
+              <button class="share2fetion" type="button" title="分享到飞信">飞信</button>
+              <button class="share2tianyi" type="button" title="分享到天翼">天翼</button>
+            </div>
+            </div>
+            <script type="text/javascript" src="http://www.21cn.com/other/js/asset/app/share/share.js"></script>
+            <script type="text/javascript">
+             var ShareApp={};
+              $(function () {
+                //Share_App
+                var Share_Title = $('#text').find('h1:first').text(); // 分享标题
+                var Share_Pic = $('#article_content').find('img:first').attr('src'); // 分享图片
+                var Share_RalateUid = '1865979352'; // sina微博UID
+                var Share_Site = 'http://news.21cn.com'; // 腾讯微博site
+                ShareApp = Share_App($('#share-app'), { title: Share_Title, pic: Share_Pic, ralateUid: Share_RalateUid, site: Share_Site });
+              });
+          </script> 
+           
+                                 <div class="related-news" id="forTag"> </div>
+         </div>
+      </div>
+       <!--box area--> 
+     </div>
+    <div class="blank10"></div>
+    <!--Ad Begin:-->
+    <div style="width:650px; overflow:hidden;"> 
+       <script type="text/javascript">
+      <!--
+//取出频道名
+var arrHost = document.location.hostname.split(".");
+var sChannel = arrHost[0];
+document.write('<scr'+'ipt type="text/javascript" src="http://shows.21cn.com/ashow?js=1&log=1&ref=1&pos=21cn|'+sChannel+'|end_hf"></scr'+'ipt>');
+//-->
+      </script> 
+     </div>
+    <!--Ad End-->
+    <div class="hide">
+       <iframe id="clickFrame" name="clickFrame" marginWidth=0 src="" height="0" width="0" scrolling=no frameborder=0></iframe>
+     </div>
+        <div class="blank10"></div>
+    <div class="box clearfix" > 
+       <!--通用讨论组开始-->
+       <iframe name="discuss_iframe" id="discuss_iframe" marginWidth="0"  src="http://review.21cn.com/quotes/top_redirect_2009.html?thread_id=10527949&type_id=13864&updateTag=1&subject=京东商城地铁站能自提&threadurl=http://it.21cn.com/itnews/web/2012/01/17/10527949.shtml&channel_id=15" width="650" height="240" scrolling="no" frameborder="0"></iframe>
+       <input type="hidden" name="title_name" id="title_name" value="京东商城地铁站能自提">
+       <input type="hidden" name="title_id" id="title_id" value="10527949">
+       <input type="hidden" name="channel_id" id="channel_id" value="15">
+       <input type="hidden" name="type_id" id="type_id" value="13864">
+       <!--通用讨论组结束--> 
+     </div>
+        <script type="text/javascript">
+		 var chid="15";
+	 	 var article_id="10527949";
+	   var type_id="13864";
+	   var title="京东商城地铁站能自提";
+	   var pubtime="2012-01-17 15:07:35".substring(0,10);
+	   var url=window.location.href;
+	   var invokeUrl=" http://ranking.21cn.com/add.addservlet?ArticleID="+article_id+"&ChannelID="+chid+"&url="+url+"&title="+title+"&pubtime="+pubtime+"&type_id="+type_id;
+	   if (url.indexOf(":8") == -1) {
+	     document.getElementById("clickFrame").src=invokeUrl;
+	   }
+	</script>
+    <div class="blank10"></div>
+    <!--=S section-aft --> 
+    <!--=S section-chart-->
+<div class="section-chart">
+  <div class="col-l">
+    <iframe width="294" height="270" frameborder="0" scrolling="no"  name="click_ifr_1" src=" http://ranking.21cn.com/html/it/click/day/10.html" id="click_ifr_1"></iframe>
+  </div>
+  <div class="col-r">
+    <iframe width="294" height="270" frameborder="0" scrolling="no" name="review_ifr_1" src=" http://it.21cn.com/zhuanti/commtop10.html" id="review_ifr_1"></iframe>
+  </div>
+</div>
+<div class="blank10"></div>
+<!--=E section-chart-->
+<div class="section-aft">
+  <div class="aft-bd">
+    <div class="section-aft-hd">
+					<div class="mod-pic-txt sah-left">
+						<div class="hd">
+							<h3>iPhone专区</h3>
+						</div>
+						<div class="bd">
+							<div class="pic-txt-bd">
+															<a href="http://it.21cn.com/mobile/iphone/2012/01/05/10371826.shtml" target="_blank"><img src="http://img001.photo.21cn.com/photos/album/20120105/o/72C5597BFEA5523B32AC287DA0F64775.jpg" alt="盘点2011:iPhone4十大年度最美保护套" width="100" height="75" /></a>
+								<h4><a href="http://it.21cn.com/mobile/iphone/2012/01/05/10371826.shtml" target="_blank">IP4年度最美保护套</a></h4>
+								<p>作为全球人气最高的手机，iphone 4周边配件也得到用户的亲睐</p>
+															</div>
+							<div class="art-bd">
+								<ul class="art">
+																	<li><a href="http://it.21cn.com/mobile/iphone/2012/01/17/10529949.shtml" target="_blank">兼容iPhone 明基GP2微投震撼上市</a></li>
+																	<li><a href="http://it.21cn.com/mobile/iphone/2012/01/17/10529317.shtml" target="_blank">省时又省心 iPhone软件2012祝福短信</a></li>
+																	<li><a href="http://it.21cn.com/mobile/iphone/2012/01/17/10528594.shtml" target="_blank">新春年货数码当道 iPhone 4S成亮色</a></li>
+																	<li><a href="http://it.21cn.com/mobile/iphone/2012/01/17/10526714.shtml" target="_blank">iPhone潮人专用春节拜年方法</a></li>
+																</ul>
+							</div>
+						</div>
+					</div>
+					<div class="mod-pic-txt">
+						<div class="hd">
+							<h3>iPad专区</h3>
+						</div>
+						<div class="bd">
+							<div class="pic-txt-bd">
+															<a href="http://it.21cn.com/notebook/ipad/2011/12/28/10287017.shtml" target="_blank"><img src="http://img001.photo.21cn.com/photos/album/20111228/o/97EC7B4B34C89F1A1C74963BB91DFAD6.jpg" alt="新手不用愁 手把手教您IOS 5.0.1完美越狱" width="100" height="75" /></a>
+								<h4><a href="http://it.21cn.com/notebook/ipad/2011/12/28/10287017.shtml" target="_blank">IOS5.0.1越狱教程</a></h4>
+								<p>可以完美越狱iOS5.0.1的redsn0w0.9.10b1刚刚放出</p>
+															</div>
+							<div class="art-bd">
+								<ul class="art">
+																	<li><a href="http://it.21cn.com/notebook/ipad/2012/01/16/10510685.shtml" target="_blank">网页游戏完美移植 iOS精品游戏周排行</a></li>
+																	<li><a href="http://it.21cn.com/notebook/ipad/2012/01/16/10510499.shtml" target="_blank">一人玩不如一起玩 iOS一机多人游戏推荐</a></li>
+																	<li><a href="http://it.21cn.com/notebook/ipad/2012/01/15/10500414.shtml" target="_blank">牧场保卫战 iPad游戏奶牛大战外星人</a></li>
+																	<li><a href="http://it.21cn.com/notebook/ipad/2012/01/15/10500506.shtml" target="_blank">iPhone 4S购机渠道更新 苹果热门游戏汇总</a></li>
+																</ul>
+							</div>
+						</div>
+					</div>
+					</div>
+    <div class="mod-scrollpic">
+      <div class="hd">
+        <h3>图片新闻</h3>
+        <div class="hd-btns"> <a class="prev browse left">1111</a>
+          <div class="navi"></div>
+          <a class="next browse right">222222</a> </div>
+      </div>
+      <div class="bd">
+        <div class="scrollable2">
+          <div class="items" id="picList"> loading... </div>
+        </div>
+        <script type="text/javascript">
+var Channel_albumId=109; //频道图集ID
+//RunCode
+	jQuery(function(){					  
+            RenderPicList(Channel_albumId);
+			});
+            </script>
+      </div>
+    </div>
+  </div>
+</div> 
+    <!--=E section-aft --> 
+  </div>
+   <!-- }主体 --> 
+   <!-- 边栏{ -->
+   <div id="aside">
+    <div> 
+       <!--Ad Begin:--> 
+       <SCRIPT language=JavaScript>
+<!--
+//取出频道名
+var arrHost = document.location.hostname.split(".");
+var sChannel = arrHost[0];
+document.write("<iframe id='iframe_xuant1' name='iframe_xuant1' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_xuant1' width='300' height='250' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>");
+//-->
+</SCRIPT> 
+       <!--Ad End--> 
+     </div>
+    <div class="blank10"></div>
+    <!--=S mod-wt --> 
+    <div class="mod mod-wt">
+      <div class="hd">
+        <h3>关注我们</h3>
+      </div>
+      <div class="bd">
+        <ul id="weibo_list">
+          <li class="first">
+          <div class="J_weibo">
+          <a href="http://weibo.com/21cnweibohui" target="_blank"><img src="http://www.21cn.com/other/css/2011/doc/bgimg/wt_sina.png" alt="" width="37" height="37" /></a>
+            <div class="info">
+              <h5 ><a href="http://weibo.com/21cnweibohui" target="_blank">21CN</a></h5>
+              <p>新浪微博</p>              
+            </div>
+          </div>
+           <!--=S tooltip-->
+            <div class="tooltip">
+            <div  src="http://service.t.sina.com.cn/widget/WeiboShow.php?width=250&amp;height=80&amp;fansRow=2&amp;ptype=1&amp;speed=0&amp;skin=1&amp;isTitle=0&amp;noborder=0&amp;isWeibo=0&amp;isFans=0&amp;uid=2140887955&amp;verifier=7f013063"><p class="loading">正在加载...</p></div>
+            <s class="layerArrow"></s>
+            </div>
+            <!--=E tooltip-->
+            </li>
+          <li class="last">
+          <div class="J_weibo">
+           <a href="http://t.qq.com/t21cn" target="_blank"><img src="http://www.21cn.com/other/css/2011/doc/bgimg/wt_tc.png" alt="" width="37" height="37" /></a>
+            <div class="info">
+              <h5><a href="http://t.qq.com/t21cn" target="_blank">21CN</a></h5>
+              <p>腾讯微博</p>
+            </div>
+          </div>
+           <!--=S tooltip-->
+            <div class="tooltip">
+            <div src="http://show.v.t.qq.com/index.php?c=show&a=index&n=t21cn&w=298&h=548&fl=2&l=8&o=16&co=0&si=5c312f400dfb524a2b06fbad1f5ea59b3be1a055"><p class="loading">正在加载...</p></div>
+            <s class="layerArrow"></s>
+            </div>
+            <!--=E tooltip-->
+             </li>
+        </ul>
+      </div>
+    </div>
+<script type="text/javascript">
+    $(function(){
+    //tooltip
+    $("#weibo_list .J_weibo").tooltip({predelay:500,offset: [-8, 0],
+        onBeforeShow: function(){
+            var tip = this.getTip();
+            if (!tip.hasClass('init')) {
+                tip.addClass('init');
+                var iframe = document.createElement("iframe");
+                iframe.src = tip.children().attr('src');
+                iframe.width = '250';
+                iframe.height = '80';
+                iframe.frameBorder = '0';
+                iframe.scrolling = 'no';
+                iframe.className = 'share_self';
+                if (iframe.attachEvent) {
+                    iframe.attachEvent("onload", function(){
+						$(".loading",tip).hide();
+                    });
+                }
+                else {
+                    iframe.onload = function(){
+						$(".loading",tip).hide();
+                    };
+                }                
+                tip.prepend(iframe);
+            }
+        }
+    });
+	});
+    </script> 
+    <!--=E mod-wt -->
+    <div class="blank10"></div>
+    <!--=S mod-pic-txt --> 
+    <div class="mod mod-pic-txt mod-news">
+            <div class="hd">
+                <h3>今日要闻</h3>
+                <span class="more">|<a href="http://it.21cn.com/">更多</a></span>
+            </div>
+            <div class="bd">
+                <div class="pic-bd clearfix">
+                    <ul>
+                        <li><a href="http://it.21cn.com/jd/tv/2011/12/26/10256938.shtml" target="_blank"><img src="http://img001.photo.21cn.com/photos/album/20111226/o/4D05BC664385368D1B69153CF04A76B0.jpg" alt="无硝烟之战 中高端平板电视深度横向评测" width="100" height="75" /><em><div STYLE="white-space: nowrap;height:20px; width:96px;overflow: hidden; text-overflow:ellipsis">中高端平板电视横评</div></em></a></li>
+                        <li><a href="http://it.21cn.com/jd/dieji/hdplayer/2011/12/01/9991061.shtml" target="_blank"><img src="http://img001.photo.21cn.com/photos/album/20111201/o/0E0AC03AC6C704E9A3DFFE44C1342455.jpg" alt="堪比主流上网本 联想K80硬件配置评测" width="100" height="75" /><em><div STYLE="white-space: nowrap;height:20px; width:96px;overflow: hidden; text-overflow:ellipsis">联想K80硬件配置评测</div></em></a></li>
+                                           </ul>
+                </div>
+                <div class="art-bd">
+                    <ul class="art">
+                         <li class="top"><a href="http://it.21cn.com/mobile/pc/2012/01/17/10527407.shtml" title="" target="_blank"><div STYLE="white-space: nowrap;height:20px; width:256px ; overflow: hidden; text-overflow:ellipsis">电信双模旗舰再露锋芒 摩托罗拉XT928评测</div></a></li>
+                         						 <li><a href="http://it.21cn.com/mobile/dg/2012/01/17/10525875.shtml" title="" target="_blank">iPhone4S半月降幅过万 智能机抄底购买推荐</a></li>
+                        						 <li><a href="http://it.21cn.com/notebook/bbdg/2012/01/17/10522483.shtml" title="" target="_blank">春节欢乐爽翻天！六款影音娱乐本推荐</a></li>
+                        						 <li><a href="http://it.21cn.com/notebook/bbpc/2012/01/17/10522416.shtml" title="" target="_blank">情人节将至！华硕UX21热力粉版美图赏</a></li>
+                                             
+                    </ul>	
+                    <div class="blank10"></div>
+                    <ul class="art">
+                                           <li><a href="http://it.21cn.com/mobile/pc/2012/01/17/10522380.shtml" title="" target="_blank">流畅实用 千元智能联想乐Phone A500测</a></li>
+                                           <li><a href="http://it.21cn.com/software/sygj/2012/01/17/10522275.shtml" title="" target="_blank">QQ电脑管家6.7版发布 小Q书桌新增搜索</a></li>
+                                           <li><a href="http://it.21cn.com/notebook/bbpc/2012/01/17/10522210.shtml" title="" target="_blank">术业有专攻 Win7商务平板FSL F979评测</a></li>
+                                           
+                    </ul>	
+                </div>
+            </div>
+        </div> 
+    <!--=E mod-pic-txt -->
+    <div class="blank10"></div>
+    <!--=S 微博汇插入mod-txt--> 
+    
+    <!--=E 微博汇插入mod-txt-->
+    <div class="blank10"></div>
+    <div> 
+       <!--Ad Begin:--> 
+       <SCRIPT language=JavaScript>
+<!--
+//取出频道名
+var arrHost = document.location.hostname.split(".");
+var sChannel = arrHost[0];
+document.write("<iframe id='iframe_xuant2' name='iframe_xuant2' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_xuant2' width='300' height='250' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>");
+//-->
+</SCRIPT> 
+       <!--Ad End--> 
+     </div>
+    <div class="blank10"></div>
+    <!--=S mod-排行榜top10 -->
+    <iframe name="ranking_iframe" id="ranking_iframe" marginWidth="0" src="http://ranking.21cn.com/html/rankingUnion.html" width="300" height="281" scrolling="no" frameborder="0"></iframe>
+    <!--=E mod-排行榜top10 -->
+    <div class="blank10"></div>
+    <!--=S mod-pic-txt --> 
+            <div class="mod mod-pic-txt">
+            <div class="hd">
+                <h3>社区</h3>
+                <span class="more">|<a href="http://free.21cn.com/" target="_blank">更多</a></span>
+            </div>
+            <div class="bd">
+                <div class="pic-bd clearfix">
+                    <ul>
+                        <li><a href="http://free.21cn.com/new/forum.php?mod=viewthread&tid=11703&fromuid=99012799"><img src="http://img011.photo.21cn.com/photos/album/20120112/o/15A8DB4A5EF205633D68FFB19BAB3B7D.jpg" alt="" width="100" height="75" /><em>郭德纲像黑老大</em></a></li>
+                        <li><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_3339059.html"><img src="http://img011.photo.21cn.com/photos/forum/20120112/m/533A142F274B7EFC521E8A1215F02240.jpg" alt="" width="100" height="75" /><em>警惕日本女优</em></a></li>
+                    </ul>
+                </div>
+                <div class="art-bd">
+                    <ul class="art">
+                        <li><a href="http://free.21cn.com/new/forum.php" title="">抢楼去长隆！新社区有奖体验</a></li>
+                        <li><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_3333900.html" title="">美国“春运”为何无人抱怨</a></li>
+                        <li><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_3333776.html" title="">2012，日本县长寄语中国县长</a></li>
+                        <li><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_3333907.html" title="">狼入女研究生室怎么办</a></li>
+                    </ul>	
+                </div>
+            </div>
+        </div> 
+    <!--=E mod-pic-txt -->
+    <div class="blank10"></div>
+    <!--=S mod-pic --> 
+            <div class="mod mod-vgo">
+            <div class="hd">
+                <h3>VGO</h3>
+                <span class="more">|<a href="http://vgo.21cn.com/include/xhtml/home.html">更多</a></span>
+            </div>
+			<div class="bd">
+				<div class="pic-bd">
+					<ul>
+						<li><a href="http://vgo.21cn.com/include/xhtml/home.html"><img src="http://imgv.21cn.com/v21/xk/120109/1_67x92.jpg" alt="预见未来" width="67" height="92" /><span></span><em>预见未来</em></a></li>
+						<li><a href="http://vgo.21cn.com/include/xhtml/home.html"><img src="http://imgv.21cn.com/v21/xk/120109/2_67x92.jpg" alt="内衣少女" width="67" height="92" /><span></span><em>内衣少女</em></a></li>
+						<li><a href="http://vgo.21cn.com/include/xhtml/home.html"><img src="http://imgv.21cn.com/v21/xk/120109/3_67x92.jpg" alt="前女友们的幽灵" 
+width="67" height="92" /><span></span><em>前女友们的幽灵</em></a></li>
+						<li><a href="http://vgo.21cn.com/include/xhtml/home.html"><img src="http://imgv.21cn.com/v21/xk/120109/4_67x92.jpg" alt="天地逃生" width="67" height="92" /><span></span><em>天地逃生</em></a></li>
+						<li><a href="http://vgo.21cn.com/include/xhtml/home.html"><img src="http://imgv.21cn.com/v21/xk/120109/5_67x92.jpg" alt="每当变幻时" width="67" height="92" /><span></span><em>每当变幻时</em></a></li>
+						<li><a href="http://vgo.21cn.com/include/xhtml/home.html"><img src="http://imgv.21cn.com/v21/xk/120109/6_67x92.jpg" alt="我的甜蜜首尔" width="67" height="92" /><span></span><em>我的甜蜜首尔</em></a></li>
+					</ul>
+				</div>
+			</div>
+        </div> 
+    
+    <!--=E mod-pic --> 
+  </div>
+   <!-- }边栏 --> 
+ </div>
+<!--=E wrap --> 
+<script type="text/javascript" src="http://www.21cn.com/shtml.21cn.com/2009/05/13/pv_t_js.html"></script> 
+<!--==S footer --> 
+<div class="footer">
+    <img src="http://news.21cn.com/zhuanti/21cnAPP/tp/img/tell_logo.png" alt="中国电信" height="29" width="92">
+    <p >经营许可证编号:<a href="http://www.21cn.com/other/copyright/icp.html" target="_blank" title="在新窗口中查看
+
+ICP证" style="">粤ICP证010001</a> 不良信息举报：<a href="http://passport.21cn.com/tq/go.jsp?type_code=22" target="_blank" 
+
+class="menufoot12p">[点击联系] 即时在线客服</a></p>
+    <p>世纪龙信息网络有限责任公司版权所有&nbsp;<a href="http://www.21cn.com/other/copyright/index.html" 
+
+target="_blank" title="在新窗口中查看服务声明">服务声明</a></p>  
+</div>
+<script>
+(function(){
+	var analytics_host = 'analytics.21cn.com/collect/'; 
+	var pkBaseURL = (('https:' == document.location.protocol) ? 'https://'+analytics_host : 
+
+'http://'+analytics_host);
+	document.write(unescape('%3Cscript src='+pkBaseURL+'js/wa_tracking.js type=text/javascript%3E%3C/script%3E'));
+	var analytics_time=0;
+	function timeout_fun(){setTimeout(function(){if(typeof(WATrace)!='undefined'){track()}else if
+
+(analytics_time<100){timeout_fun();analytics_time++;}},500);}
+	function track(){try { _wa_trace_track = WATrace.getTracker(pkBaseURL + '_trace.gif', 'aOxuz');if(typeof
+
+(_wa_beforeload)!="undefined")_wa_trace_track.setBeforeload(_wa_beforeload);_wa_trace_track.trackPageView
+
+();_wa_trace_track.enableLinkTracking();}catch(err){}}
+	new timeout_fun();
+	})();
+</script> 
+<!--==E footer --> 
+<script language='javascript' src='http://tags.21cn.com/files/tags_relation_list/3, ,1610,1,5.js' id='searchJSSrc'></script> 
+<script language='javascript'>
+var _thisUrl= location.href;
+var _index=_thisUrl.indexOf('_');
+if(_index!=-1){
+	_thisUrl= _thisUrl.substring(0,_index)+'.shtml'
+}
+var tempStr ='<div class="title"> 相关新闻：  </div><ul class="art">';              
+                        	for(var i=0;i<5;i++){
+														if(contentList[i]!=null&&contentList[i].ContentTitle!=null&&contentList[i].ContentUrl!=_thisUrl){
+															tempStr = tempStr+"<li><a href='"+contentList[i].ContentUrl+"' target='_blank'>"+contentList[i].ContentTitle+"</a>  <span>"+contentList[i].CreateTime.substr(0,10)+"</span></li>";
+                     		}
+                        	}
+           tempStr = tempStr+" </ul>";
+if(contentList[0]!=null&&contentList[0].ContentTitle!=null)
+					document.getElementById("forTag").innerHTML=tempStr;
+</script> 
+
+<!--文字链开始--> 
+<script type="text/javascript" src="http://market.21cn.com/w/js/market-end2.js"></script> 
+<!--浮层--> 
+ <!--ad 20110927-->
+<script src='http://shows.21cn.com/ashow?js=1&log=1&ref=1&pos=21cn|m|cs2' type='text/javascript' ></script>
+<iframe id='iframe_diff_ad_it' name='iframe_diff_ad_it' src='http://analytics.21cn.com/pvCounter?sectCode=diff_ad_it&siteCode=info_diff&pt=T_pageview&log=1&ref=1' width='0' height='0' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ><noscript><a href='http://analytics.21cn.com/pvCounter?sectCode=diff_ad_it&siteCode=info_diff&pt=T_pageview&log=1&ref=1'><img src='http://analytics.21cn.com/pvCounter?sectCode=diff_ad_it&siteCode=info_diff&pt=T_pageview&log=1&ref=1' width='1' height='1' border='0'></a></noscript></iframe>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F201379f79f5799c2c5109bdd9fa51e5e' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html>
+

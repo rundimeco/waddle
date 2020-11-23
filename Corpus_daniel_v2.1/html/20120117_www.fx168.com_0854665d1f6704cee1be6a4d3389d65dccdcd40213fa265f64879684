@@ -1,0 +1,891 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0022)http://internet.e-mail -->
+
+<html>
+<head>
+	
+	<title>瑞翎谷：今日欧美以看空为主(图) - FX168外汇宝网站</title>
+	<meta name="keywords" content="瑞翎谷,汇市评论">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content="2012/01/17 15:33 瑞翎谷：今日欧美以看空为主(图),fx168外汇宝网站" />
+	
+	<link href="../../fx168news/css/newsstyle20100803.css" rel="stylesheet" type="text/css" />
+	<script src="../../fx168news/Js/ajaxpro9.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		//iframe高度自适应
+		function IFrameReSize(iframename) {
+			var pTar = document.getElementById(iframename);
+			if (pTar) {  //ff
+				if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight) {
+					pTar.height = pTar.contentDocument.body.offsetHeight;
+				} //ie
+				else if (pTar.Document && pTar.Document.body.scrollHeight) {
+					pTar.height = pTar.Document.body.scrollHeight;
+				}
+			}
+		}
+		//iframe宽度自适应
+		function IFrameReSizeWidth(iframename) {
+			var pTar = document.getElementById(iframename);
+			if (pTar) {  //ff
+				if (pTar.contentDocument && pTar.contentDocument.body.offsetWidth) {
+					pTar.width = pTar.contentDocument.body.offsetWidth;
+				}  //ie
+				else if (pTar.Document && pTar.Document.body.scrollWidth) {
+					pTar.width = pTar.Document.body.scrollWidth;
+				}
+			}
+		}
+		<!--导航菜单-->
+		
+		function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+		  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+			document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+		  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+		}
+		MM_reloadPage(true);
+		function MM_findObj(n, d) { //v4.0
+		  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+			d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+		  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+		  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+		  if(!x && document.getElementById) x=document.getElementById(n); return x;
+		}
+		function MM_showHideLayers() { //v9.0
+		  var i,p,v,obj,args=MM_showHideLayers.arguments;
+		  for (i=0; i<(args.length-2); i+=3) 
+		  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+			if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+			obj.visibility=v; }
+		}
+	</script>
+</head>
+<body>
+<div id="wrapper">
+		<div id="box_left">
+			<div id="leftbody">
+				<div id="FX168Menus" class="menubody">
+	<table border="0" cellpadding="0" cellspacing="0" width="895" height="24" align="center">
+  <tr>
+    <td><img src="../../fx168news/images/newsmodel/menu_fx168htmls.gif" border="0" alt="FX168外汇宝网站-即时外汇行情-外汇图形分析-汇市信息-财经政策-经济指标-网上交易-外汇理财-会员中心" usemap="#FPMap0" />
+      <map name=FPMap0>
+        <area shape="rect" coords="5,4,71,24" href="http://www.fx168.com" />
+        <area onmouseover="MM_showHideLayers('menu1','','show')" onmouseout="MM_showHideLayers('menu1','','hide')" shape="rect" coords="89,4,159,24" href="http://quote1.fx168.com/ajnew/WHs.aspx" />
+        <area onmouseover="MM_showHideLayers('menu2','','show')" onmouseout="MM_showHideLayers('menu2','','hide')" shape="rect" coords="176,4,239,24" href="http://chart.fx168.com/" target="_blank" />
+        <area onmouseover="MM_showHideLayers('menu3','','show')" onmouseout="MM_showHideLayers('menu3','','hide')" shape="rect" coords="258,4,321,24" href="http://www.fx168.com/fxnews/news_now_html.html?0" />
+        <area onmouseover="MM_showHideLayers('menu4','','show')" onmouseout="MM_showHideLayers('menu4','','hide')" shape="rect" coords="341,4,401,24" href="http://www.fx168.com/fxnews/key_Suggestion_Html.html?0" />
+        <area onmouseover="MM_showHideLayers('menu5','','show')" onmouseout="MM_showHideLayers('menu5','','hide')" shape="rect" coords="422,4,482,24" href="http://www.fx168.com/fxpolicy/americacentralbank.aspx" />
+        <area onmouseover="MM_showHideLayers('menu6','','show')" onmouseout="MM_showHideLayers('menu6','','hide')" shape="rect" coords="501,4,561,24" href="http://www.fx168.com/fxindex/index_usa.htm?0" />
+        <area onmouseover="MM_showHideLayers('menu7','','show')" onmouseout="MM_showHideLayers('menu7','','hide')" shape="rect" coords="582,4,642,24" href="http://client.24k99.com/adpolestar/wayl/;ad=6861D0D2_6349_608D_FDFB_3F3A39973930;ap=0;pu=fx168;/?http://www.nm23.com" target="_blank" />
+        <area onmouseover="MM_showHideLayers('menu8','','show')" onmouseout="MM_showHideLayers('menu8','','hide')" shape="rect" coords="660,4,722,24" href="http://bbs.fx168.com/fx168MemberCenter/MemberCenter/Index.aspx" />
+        <area onmouseover="MM_showHideLayers('menu9','','show')" onmouseout="MM_showHideLayers('menu9','','hide')" shape="rect" coords="737,4,807,24" href="http://client.24k99.com/adpolestar/wayl/;ad=CA932AC7_BFAD_6573_43CC_AE3E7F08F008;ap=0;pu=fx168;/?http://www.sxb2010.com" target="_blank" />
+        <area onmouseover="MM_showHideLayers('menu10','','show')" onmouseout="MM_showHideLayers('menu10','','hide')" shape="rect" coords="824,4,887,24" href="http://www.fx168.com/FinanceManage/fmdefault.htm?0" />
+      </map></td>
+  </tr>
+</table>
+<TABLE border="0" cellpadding="0" cellspacing="0" width="895" height="5" align="center">
+  <TR>
+    <TD width="81"></TD>
+    <TD width="85">
+<div id="menu1" style="position: absolute; top: 34px; width: 85; height: 140; z-index: 1; visibility: hidden" onMouseOver="MM_showHideLayers('menu1','','show')" onMouseOut="MM_showHideLayers('menu1','','hide')">
+<table border="0" cellpadding="0" cellspacing="0" width="85" height="140">
+<tr><td class="P90K"><a class="index1" href="http://quote1.fx168.com/ajnew/WHs.aspx">现货外汇</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://quote1.fx168.com/ajnew/future.aspx">期货外汇</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxrmb/RmbOTC.aspx">人民币行情</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://quote1.fx168.com/ajnew/stocks.aspx">股指金属</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxrela/zixun_ll.aspx">银行拆借</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxrela/zixun_all.aspx">各国债券</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxrela/SHBCGoldWarrant.asp">黄金权证</a></td></tr>
+</table></div></TD>
+    <TD width="82">
+<div id="menu2" style="position: absolute; top: 34px; width: 83; height: 40; z-index: 1; visibility: hidden;"
+     onMouseOver="MM_showHideLayers('menu2','','show')" onMouseOut="MM_showHideLayers('menu2','','hide')">
+<table border=0 cellpadding=0 cellspacing=0 width=83 height=40 >
+<tr><td height=20 style="text-align: left; padding-left: 15px;" class=P90K bgcolor=#0018A0><a href="http://chart.fx168.com/" class="index1" target="_blank">图形分析<span style="color:red;">*</span></a></td></tr>
+<tr><td height=20 style="text-align: left; padding-left: 15px;" class=P90K bgcolor=#0018A0><a href="http://chart2.fx168.com/graphmain/graphmain/graphmain.asp" class="index1" target="_blank">旧版图形</a></td></tr>
+<tr><td height=20 style="text-align: left; padding-left: 15px;" class=P90K bgcolor=#0018A0><a href="http://www.fx168.com/fxrela/updown.htm" class=index1>支持阻力</a></td></tr> 
+</table></div></TD>
+    <TD width="82">
+<div id="menu3" style="position: absolute; top: 34px; width: 82; height: 240; z-index: 1; visibility: hidden" onMouseOver="MM_showHideLayers('menu3','','show')" onMouseOut="MM_showHideLayers('menu3','','hide')"> 
+<table border="0" cellpadding="0" cellspacing="0" width="82" height="240">
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/news_now_html.html?0">所有信息</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/news_huishi.htm?0">汇市指南</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/news_bank.htm?0">央行动态</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/rmb.htm?PageNo=1">人民币</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/news_title.aspx">传媒头条</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/NewsMarquee.aspx">滚动要闻</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/xnews/finance_goods.htm?0">金融商品</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/organization.aspx">国际组织</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://expert.fx168.com/expert/ExpertAdvice.aspx">专家建议</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/news_focus.htm?0">专题报导</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/news_remark.aspx">银行汇评</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxhuobi/currency_usa.aspx">货币分析</a></td></tr>
+</table></div></TD>
+    <TD width="79">
+<div id="menu4" style="position: absolute; top: 34px; width: 79; height: 60; z-index: 1; visibility: hidden;" onMouseOver="MM_showHideLayers('menu4','','show')" onMouseOut="MM_showHideLayers('menu4','','hide')">
+<table border="0" cellpadding="0" cellspacing="0" width="79" height="60">
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/key_Suggestion_Html_Index.aspx">指标速报</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/key_Suggestion_Html_Words.aspx">官员喊话</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxnews/key_Suggestion_Html_Others.aspx">其他速递</a></td></tr>
+</table></div></TD>
+    <TD width="81">
+<div id="menu5" style="position: absolute; top: 34px; width: 81; height: 100; z-index: 1; visibility: hidden;" onMouseOver="MM_showHideLayers('menu5','','show')" onMouseOut="MM_showHideLayers('menu5','','hide')">
+<table border="0" cellpadding="0" cellspacing="0" width="81" height="100">
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxpolicy/americacentralbank.aspx">美联储</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxpolicy/commercedepartment.aspx">美商务部</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxpolicy/labourdepartment.aspx">美劳工部</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxpolicy/energydepartment.aspx">美能源部</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxpolicy/financedepartment.aspx">美财政部</a></td></tr>
+</table></div></TD>
+    <TD width="79">
+<div id=menu6 style="position: absolute; top: 34px; width: 79; height: 80; z-index: 1; visibility: hidden;" onMouseOver="MM_showHideLayers('menu6','','show')" onMouseOut="MM_showHideLayers('menu6','','hide')">
+<table border="0" cellpadding="0" cellspacing="0" width="79" height="80">
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxindex/index_usa.htm?0">美国指标</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxindex/index_all.htm?0">各国指标</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxindex/index_time.htm?0">财经月历</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/fxindex/stock.asp">信用评级</a></td></tr>
+</table></div></TD>
+    <TD width="84">
+<div id="menu7" style="position: absolute; top: 34px; width: 84; height: 80; z-index: 1; visibility: hidden" onMouseOver="MM_showHideLayers('menu7','','show')" onMouseOut="MM_showHideLayers('menu7','','hide')">
+<table border="0" cellpadding="0" cellspacing="0" width="84" height="80">
+<tr><td class="P90R"><a class="index1" href="http://client.24k99.com/adpolestar/wayl/;ad=239E1413_935F_729B_7192_FB43DCEEF1D5;ap=0;pu=fx168;/?http://www.nm23.com/content.php?CCId=160" target="_blank">网上开户</a></td></tr>
+<tr><td class="P90R"><a class="index1" href="http://client.24k99.com/adpolestar/wayl/;ad=CBB28DF3_9504_3B0D_5550_C4EA94287F17;ap=0;pu=fx168;/?http://www.nm23.com/content.php?CCId=176" target="_blank">免费试用</a></td></tr>
+<tr><td class="P90R"><a class="index1" href="http://client.24k99.com/adpolestar/wayl/;ad=6209080C_BEC7_7919_04FB_A6B7D9948244;ap=0;pu=fx168;/?http://www.nm23.com/" target="_blank">实时报价</a></td></tr>
+<tr><td class="P90R"><a class="index1" href="http://client.24k99.com/adpolestar/wayl/;ad=A38600B7_61C1_1705_1DB4_CC73C21C0259;ap=0;pu=fx168;/?http://www.fxe88.com" target="_blank">金汇网站</a></td></tr>
+</table></div></TD>
+    <TD width="77">
+<div id="menu8" style="position: absolute; top: 34px; width: 77; height: 100; z-index: 1; visibility: hidden" onMouseOver="MM_showHideLayers('menu8','','show')" onMouseOut="MM_showHideLayers('menu8','','hide')">
+<table border="0" cellpadding="0" cellspacing="0" width="77" height="100">
+<tr><td class="P90K"><a class="index1" href="http://bbs.fx168.com/fx168MemberCenter/MemberCenter/Index.aspx">会员首页</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://bbs.fx168.com/fx168MemberCenter/Register/Agreement.aspx">会员注册</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://bbs.fx168.com/fx168MemberCenter/FreeService/FreeServices.aspx">免费服务</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://bbs.fx168.com/fx168MemberCenter/PayService/PayServices.aspx" target="_blank">收费服务</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://bbs.fx168.com/fx168MemberCenter/MyScore/ScoreUse.aspx">会员积分</a></td></tr>
+</table></div></TD>
+    <TD width="85">
+<div id="menu9" style="position: absolute; top: 34px; width: 85; height: 80; z-index: 1; visibility: hidden" onMouseOver="MM_showHideLayers('menu9','','show')" onMouseOut="MM_showHideLayers('menu9','','hide')">
+<table border="0" cellpadding="0" cellspacing="0" width="85" height="80">
+<tr><td class="P90R"><a class="index1" href="http://client.24k99.com/adpolestar/wayl/;ad=AF9752E5_3FF6_7292_0BD7_C68BFEFD1BAD;ap=0;pu=fx168;/?http://www.bocgd.com/home/exchange/quick_grfw_whb.jsp" target="_blank">中行外汇宝</a></td></tr>
+<tr><td class="P90R"><a class="index1" href="http://client.24k99.com/adpolestar/wayl/;ad=DDAB024C_81C3_4DFF_632A_DEE3412B090A;ap=0;pu=fx168;/?http://www.bocgd.com/home/gold/grfw_gold_main.htm" target="_blank">中行黄金宝</a></td></tr>
+<tr><td class="P90R"><a class="index1" href="http://client.24k99.com/adpolestar/wayl/;ad=91372705_07D9_CA3D_81EC_865649BE40E5;ap=0;pu=fx168;/?http://www.bocgd.com/home/deposit/grfw_deposit.htm" target="_blank">中行双向宝</a></td></tr>
+<tr><td class="P90R"><a class="index1" href="http://client.24k99.com/adpolestar/wayl/;ad=CA932AC7_BFAD_6573_43CC_AE3E7F08F008;ap=0;pu=fx168;/?http://www.sxb2010.com" target="_blank">双向宝大赛</a></td></tr>
+</table></div></TD>
+    <TD width="80">
+<div id="menu10" style="position: absolute; top: 34px; width: 80; height: 80; z-index: 1; visibility: hidden" onMouseOver="MM_showHideLayers('menu10','','show')" onMouseOut="MM_showHideLayers('menu10','','hide')">
+<table border="0" cellpadding="0" cellspacing="0" width="80" height="80">
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/FinanceManage/fmdefault.htm?0">产品信息</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/FinanceManage/depositration.aspx">相关利率</a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/FinanceManage/advtopic2.aspx">专家心得</a></a></td></tr>
+<tr><td class="P90K"><a class="index1" href="http://www.fx168.com/FinanceManage/goodsteach.aspx">产品教室</a></td></tr>
+</table></div></TD>
+  </TR>
+</TABLE>
+	</div>
+				<div class="clear">
+				</div>
+				<div class="news_1eft_2">
+					<div class="news_1eft_2_left">
+						<!-- AFP Control Code/Caption.TwinTopBanner01-瑞翎谷-FX168-->
+<IFRAME SRC="http://client.24k99.com/adpolestar/door/;ap=E109DA93_E322_774E_DC4D_54E267E1C95A;ct=if;pu=fx168;/?" NAME="adFrame_E109DA93_E322_774E_DC4D_54E267E1C95A" WIDTH="445" HEIGHT="60" FRAMEBORDER="no" BORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+</IFRAME>
+<!-- AFP Control Code End/No.fxrlg-445x60-01-->
+					</div>
+					<div class="news_1eft_2_right">
+						<!-- AFP Control Code/Caption.TwinTopBanner02-瑞翎谷-FX168-->
+<IFRAME SRC="http://client.24k99.com/adpolestar/door/;ap=80DB38C8_4A9F_C635_A2ED_D2A9B46DBD42;ct=if;pu=fx168;/?" NAME="adFrame_80DB38C8_4A9F_C635_A2ED_D2A9B46DBD42" WIDTH="445" HEIGHT="60" FRAMEBORDER="no" BORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+</IFRAME>
+<!-- AFP Control Code End/No.fxrlg-445x60-02-->
+					</div>
+				</div>
+				<div class="hot">
+					<table width="789" border="0" cellspacing="0" cellpadding="0" align="center">
+						<tr>
+							<td width="479">
+								<iframe src="../../fx168news/IframeDefault/hotwords.aspx" name="search1" width="479" height="30"
+									frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+								</iframe>
+							</td>
+							<td width="310">
+								<iframe src="../../fx168news/IframeDefault/search.html" id="searchpage" name="searchpage" width="310" height="30"
+									frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+								</iframe>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div class="hot_right">
+					<a href="#">
+						<iframe src="../../fx168news/IframeDefault/service.htm" name="service" width="105" height="40"
+							frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+						</iframe>
+					</a>
+				</div>
+				<div class="news_1eft_2">
+				    <div id="left">
+					    <ul id="leftmenu">
+						    <li><a href="#" class="darkblue">
+							     <!-- AFP Control Code/Caption.文字链01-瑞翎谷-FX168-->
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://client.24k99.com/adpolestar/door/;ap=E276249C_9EC3_CB56_CF69_5EF1B8127116;ct=js;pu=fx168;/?">
+</SCRIPT>
+<!-- AFP Control Code End/No.fxrlg-Text-01-->
+						    </a></li>
+						    <li><a href="#">
+							    <!-- AFP Control Code/Caption.文字链02-瑞翎谷-FX168-->
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://client.24k99.com/adpolestar/door/;ap=7F7FB82D_86DE_4D4A_95BA_5EAD4FBF232E;ct=js;pu=fx168;/?">
+</SCRIPT>
+<!-- AFP Control Code End/No.fxrlg-Text-02-->
+						    </a></li>
+						    <li><a href="#">
+							    <!-- AFP Control Code/Caption.文字链03-瑞翎谷-FX168-->
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://client.24k99.com/adpolestar/door/;ap=0CEE0559_04B7_1E9E_ADB2_DF83C9BF0D3B;ct=js;pu=fx168;/?">
+</SCRIPT>
+<!-- AFP Control Code End/No.fxrlg-Text-03-->
+						    </a></li>
+					    </ul>
+				    </div>
+				    <div class="ad_left">
+					    <!-- AFP Control Code/Caption.TopBanner-瑞翎谷-FX168-->
+<IFRAME SRC="http://client.24k99.com/adpolestar/door/;ap=3E546073_D392_88B0_F970_7E0B0CF434DA;ct=if;pu=fx168;/?" NAME="adFrame_3E546073_D392_88B0_F970_7E0B0CF434DA" WIDTH="540" HEIGHT="65" FRAMEBORDER="no" BORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+</IFRAME>
+<!-- AFP Control Code End/No.fxrlg-540x65-->
+				    </div>
+				    <div id="rights">
+					    <ul id="rightsmenu">
+						    <li><a href="#" class="darkblue">
+							    <!-- AFP Control Code/Caption.文字链04-瑞翎谷-FX168-->
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://client.24k99.com/adpolestar/door/;ap=B1EC7D2D_40C3_2970_1914_3C76677770AE;ct=js;pu=fx168;/?">
+</SCRIPT>
+<!-- AFP Control Code End/No.fxrlg-Text-04-->
+						    </a></li>
+						    <li><a href="#">
+							    <!-- AFP Control Code/Caption.文字链05-瑞翎谷-FX168-->
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://client.24k99.com/adpolestar/door/;ap=22E70408_27F5_6E5A_6288_1DEAFE9055BD;ct=js;pu=fx168;/?">
+</SCRIPT>
+<!-- AFP Control Code End/No.fxrlg-Text-05-->
+						    </a></li>
+						    <li><a href="#">
+							    <!-- AFP Control Code/Caption.文字链06-瑞翎谷-FX168-->
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://client.24k99.com/adpolestar/door/;ap=C5D1E3F9_0FA9_CB46_AF2A_6E2889E3FC14;ct=js;pu=fx168;/?">
+</SCRIPT>
+<!-- AFP Control Code End/No.fxrlg-Text-06-->
+						    </a></li>
+					    </ul>
+				    </div>
+				</div>
+				<div class="content_news_1">
+				    <a href="http://www.fx168.com" target="_blank"><img src="../../fx168news/images/newsmodel/pic_fxlogo.gif" alt="fx168首页" border="0"></a>
+					<a href="http://www.fx168.com"
+						target="_blank" class="darkblue">首页</a>&nbsp;>&nbsp;<a href="http://www.fx168.com/fxnews/news_remark.aspx"
+							target="_blank" class="darkblue">机构汇评</a>&nbsp;>&nbsp;<a href="http://www.fx168.com/fxnews/News_Remark.aspx?cate=JiGouRuiLingExchange"
+							target="_blank" class="darkblue">瑞翎谷</a> &nbsp;正文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				
+				</div>
+				<div id="ad_right">
+					<div class="ad_left_300×250">
+						<!-- AFP Control Code/Caption.四方形-瑞翎谷-FX168-->
+<IFRAME SRC="http://client.24k99.com/adpolestar/door/;ap=D25F35A1_5744_600D_B001_BB5E953BE4CE;ct=if;pu=fx168;/?" NAME="adFrame_D25F35A1_5744_600D_B001_BB5E953BE4CE" WIDTH="300" HEIGHT="250" FRAMEBORDER="no" BORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+</IFRAME>
+<!-- AFP Control Code End/No.fxrlg-300x250-->
+					</div>
+					<div class="ad_right_300×310">
+						<iframe src="../../fx168news/IframeDefault/week_ph.aspx" name="service" width="298" height="310"
+							frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+						</iframe>
+					</div>
+					<div class="ad_right_300×310">
+						<div class="banner_1">
+							<p class="cn_white">
+								相关资讯</p>
+						</div>
+						<div id="right">
+							
+							<ul id="rightmenu">
+								<li><a href="http://www.fx168.com/fx168html/20120116/20120116133845080.htm">01/16 瑞翎谷：今日欧美以看空为主(图)</a></li>
+							</ul>
+							
+							<ul id="rightmenu">
+								<li><a href="http://www.fx168.com/fx168html/20120113/20120113140998080.htm">01/13 瑞翎谷：今日欧美以看空为主(图)</a></li>
+							</ul>
+							
+							<ul id="rightmenu">
+								<li><a href="http://www.fx168.com/fx168html/20120112/20120112140814080.htm">01/12 瑞翎谷：今日欧美以观望为主(图)</a></li>
+							</ul>
+							
+							<ul id="rightmenu">
+								<li><a href="http://www.fx168.com/fx168html/20120111/20120111133347080.htm">01/11 瑞翎谷：今日欧美以看空为主(图)</a></li>
+							</ul>
+							
+							<ul id="rightmenu">
+								<li><a href="http://www.fx168.com/fx168html/20120110/20120110150495080.htm">01/10 瑞翎谷：今日欧美以看空为主(图)</a></li>
+							</ul>
+							
+							<ul id="rightmenu">
+								<li><a href="http://www.fx168.com/fx168html/20120106/20120106142679080.htm">01/06 瑞翎谷：今日欧美以做空为主(图)</a></li>
+							</ul>
+							
+							<ul id="rightmenu">
+								<li><a href="http://www.fx168.com/fx168html/20120105/20120105131654080.htm">01/05 瑞翎谷：今日欧美以观望为主(图)</a></li>
+							</ul>
+							
+							<ul id="rightmenu">
+								<li><a href="http://www.fx168.com/fx168html/20120104/20120104154268080.htm">01/04 瑞翎谷：今日欧美以看空为主(图)</a></li>
+							</ul>
+							
+						</div>
+					</div>
+				</div>
+				<div class="content_news">
+					<div id="fullbody">
+					<div class="content_news_11">
+				</div>
+						<div id="bodywrapper" class="pagediv">
+							<div id="body-content-col">
+								<!--Begin：新闻标题、时间、内容-->
+      					
+								<div class="topic">
+									<h2 id="topictitle">
+										<!--新闻标题-->
+										瑞翎谷：今日欧美以看空为主(图)
+									</h2>
+									<p align="center" class="cn_blue">
+										<!--新闻时间-->
+										【北京时间 2012年01月17日 15:33】 &nbsp; &nbsp;
+										<img src="../../fx168news/images/newsmodel/mark_pl.gif" />&nbsp;<span class="cn_black"><a id="comment"
+											href="../../fx168news/comment.aspx" class="b" target="_blank">我要评论<span class="cn_red" >(<span id="count">0</span>)</span></a></span></p>
+									<script type="text/javascript"  id="commentNum" ></script>
+									<div class="storyfunction">
+									  <table>
+									    <tr>
+									      <td>
+									         <div id="backselection" style="height:18px">
+											<span>背景色</span>
+											<div id="backoptions">
+												<a href="javascript:SetColorCookie('newscolor','newscolor1','30')" style="background-color: rgb(255, 255, 255);"
+													value="#ffffff" onclick="setBgColor(this)">&nbsp;</a> <a href="javascript:SetColorCookie('newscolor','newscolor2','30')"
+														style="background-color: rgb(254, 255, 231);" value="#FEFFE7" onclick="setBgColor(this)">
+														&nbsp;</a> <a href="javascript:SetColorCookie('newscolor','newscolor3','30')" style="background-color: rgb(237, 223, 186);"
+															value="#EDDFBA" onclick="setBgColor(this)">&nbsp;</a> <a href="javascript:SetColorCookie('newscolor','newscolor4','30')"
+																style="background-color: rgb(251, 214, 198);" value="#fbd6c6" onclick="setBgColor(this)">
+																&nbsp;</a> <a href="javascript:SetColorCookie('newscolor','newscolor5','30')" style="background-color: rgb(224, 240, 204);"
+																	value="#e0f0cc" onclick="setBgColor(this)">&nbsp;</a> <a href="javascript:SetColorCookie('newscolor','newscolor6','30')"
+																		style="background-color: rgb(227, 247, 246);" value="#e3f7f6" onclick="setBgColor(this)">
+																		&nbsp;</a> <a href="javascript:SetColorCookie('newscolor','newscolor7','30')" style="background-color: rgb(236, 236, 236);"
+																			value="#ececec" onclick="setBgColor(this)">&nbsp;</a>
+											</div>
+										</div>
+									      </td>
+									      <td><div id="fontselection" style="height:18px">
+											<span>字号</span>
+											<div id="fontoptions">
+												<a href="javascript:SetCookie('fontsize','cn_large','30')" onmouseover="setOptionsBgOver(this)"
+													onmouseout="setOptionsBgOut(this)">最大</a> <a href="javascript:SetCookie('fontsize','cn_large1','30')"
+														onmouseover="setOptionsBgOver(this)" onmouseout="setOptionsBgOut(this)">较大</a>
+												<a href="javascript:SetCookie('fontsize','cn_large2','30')" onmouseover="setOptionsBgOver(this)"
+													onmouseout="setOptionsBgOut(this)">默认</a> <a href="javascript:SetCookie('fontsize','cn_middle','30')"
+														onmouseover="setOptionsBgOver(this)" onmouseout="setOptionsBgOut(this)">较小</a>
+												<a href="javascript:SetCookie('fontsize','cn_small','30')" onmouseover="setOptionsBgOver(this)"
+													onmouseout="setOptionsBgOut(this)">最小</a>
+											</div>
+										</div></td>
+									      <td>
+									        <table class="cn_danblue">
+											<tr>
+												<td width="110">
+												</td>
+												<td width="80">
+													<div id="collectselection">
+															<img src="../../fx168news/images/newsmodel/sf.gif" />&nbsp;<a href="#" class="danhui">收藏&分享</a>
+														<div id="collectoptions">
+															<a onclick="favoritelocal()">
+																<img alt="收藏到本地收藏夹" src="../../fx168news/images/icon/x0egjjcu.gif" border="0" />
+																本地收藏夹</a> <a onclick="favoritebaidu()">
+																	<img alt="收藏到百度搜藏" src="../../fx168news/images/icon/baidu.gif" border="0" />
+																	百度搜藏</a> <a onclick="favoriteyahoo()">
+																	<img alt="收藏到雅虎收藏" src="../../fx168news/images/icon/yh.gif" border="0" />
+																	雅虎收藏</a> <a onclick="favoriteqq()">
+																	<img alt="收藏到QQ书签" src="../../fx168news/images/icon/qqshuqian.gif" border="0" />
+																	QQ书签</a> <a onclick="favoritesinavivi()">
+																    <img alt="收藏到新浪ViVi" src="../../fx168news/images/icon/vivi.gif" border="0" />
+																    新浪ViVi</a> <a onclick="favoritetblog()">
+																    <img alt="分享到新浪微博" src="../../fx168news/images/icon/miniblog.gif" border="0" />
+																	新浪微博</a> <a onclick="favoritedouban()">
+																    <img alt="收藏到豆瓣" src="../../fx168news/images/icon/doubai.gif" border="0" />
+																	豆瓣</a> <a onclick="favoriterenren()">
+																    <img alt="收藏到人人网" src="../../fx168news/images/icon/renren.gif" border="0" />
+																	人人网</a> <a onclick="kaixin()">
+																    <img alt="收藏到开心网" src="../../fx168news/images/icon/kaixin.gif" border="0" />
+																	开心网</a> <a onclick="favoritesohubai()">
+																    <img alt="收藏到搜狐 白" src="../../fx168news/images/icon/shbai.gif" border="0" />
+																	搜狐 白</a> <a onclick="favoritemslive()">
+																    <img alt="收藏到微软Live" src="../../fx168news/images/icon/vrlive.gif" border="0" />
+																	微软Live</a> <a onclick="favoritetongxue()">
+																    <img alt="收藏到同学微博" src="../../fx168news/images/icon/studentvb.gif" border="0" />
+																	同学微博</a>
+														</div>
+													</div>
+												</td>
+												<td width="50">
+													<div class="collectselection">
+														&nbsp; &nbsp;<img src="../../fx168news/images/newsmodel/mark_zf.gif" />&nbsp;<a href="#" class="danhui"
+															onclick="getForwardByNewsID()">转发</a></div>
+												</td>
+												<td width="50">
+													<div class="collectselection">
+														&nbsp; &nbsp;<img src="../../fx168news/images/newsmodel/mark_tj.gif" />&nbsp;<a href="javascript:void(0)"
+															class="danhui" onclick="MSN(event);">推荐</a></div>
+												</td>
+												<td width="57">
+													<div class="collectselection">
+														&nbsp; &nbsp;<img src="../../fx168news/images/newsmodel/mark_jc.gif" />&nbsp;<a href="#" class="danhui"
+															onclick="getCorrectionByNewsID()">纠错</a></div>
+												</td>
+												<td width="50">
+													<div id="concernselection">
+														&nbsp;&nbsp;<img src="../../fx168news/images/newsmodel/mark_gz.gif" />&nbsp;<a href="#" class="danhui">关注</a>
+														<div id="concernoptions">
+															<a href="http://t.sina.com.cn/fx168caijing" target="_blank">
+																<img alt="访问到FX168微博" src="../../fx168news/images/icon/miniblog.gif" border="0" />
+																FX168 新浪微博</a> <a href="http://www.139.com/user/space.php?uid=19336653" target="_blank">
+																	<img alt="访问到FX168 139说客" src="../../fx168news/images/icon/139.gif" border="0" />
+																	FX168 139说客</a> <a href="http://t.qq.com/FX168FX168/mine" target="_blank">
+																				<img alt="访问到FX168 腾讯微博" src="../../fx168news/images/icon/tx.gif" border="0" />
+																				FX168 腾讯微博</a><a href="http://t.hexun.com/fx168caijing" target="_blank">
+																				<img alt="访问到FX168 和讯微博" src="../../fx168news/images/icon/faviconhexun.gif" border="0" />
+																				FX168 和讯微博</a><a href="http://fx168.t.sohu.com" target="_blank">
+																				<img alt="访问到FX168 搜狐微博" src="../../fx168news/images/icon/faviconsohu.gif" border="0" />
+																				FX168 搜狐微博</a>
+														</div>
+													</div>
+												</td>
+											</tr>
+										</table>
+									      </td>
+									    </tr>
+									  </table>
+										
+										
+										
+										<p class="cn_danblue">
+										</p>
+										<p>
+										</p>
+										<div class="content_news_12">
+											<table width="560" border="0" align="center" cellpadding="0" cellspacing="0">
+												<tr>
+													<td height="31" align="center" class="bg_gd">
+														<iframe src="../../fx168news/IframeDefault/gundong.aspx" name="gundong" width="550" allowtransparency="true"
+															u marginwidth="0" height="30" marginheight="0" scrolling="No" frameborder="no"
+															id="gundong" border="0"></iframe>
+													</td>
+												</tr>
+											</table>
+										</div>
+										<div style="height:40px"></div>
+										<div id="bodyback">
+											<div class="cn_large2" id="bodytext">
+											  <div style="margin-left:10px; width:560px"  id="bodycontent">
+												<p>
+													<!--新闻内容-->
+													
+													<div class=Section1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>EUR/USD</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>汇评：标普继周五下调欧元区</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>9</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>个国家评级之后，周一又将欧洲金融稳定基金</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>EFSF</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>评级自</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>AAA</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>下调至</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>AA+</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>；法国成功拍卖</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>85.9</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>亿欧元债券，债券收益率低于上次拍卖。但美国市场休市，盘面相对清淡。欧美日图下行趋势强劲，随机指标反弹乏力。今日</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>17:30</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>西班牙举行国债拍卖，</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>18:00</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>希腊举行国债拍卖，</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>19:00</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>欧盟救援基金</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>EFSF</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>拍卖债券。今日欧美以看空为主。阻力位：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.2770&nbsp;
+1.2860</span><span style='font-size:9.0pt;font-family:宋体;color:#191919'>，支撑位：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.2660&nbsp;
+1.2600*</span><span style='font-size:9.0pt;font-family:宋体;color:#191919'>做空：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>4</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>小时图，若汇价在</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.2770</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>受到有效阻力，则我们做空，盈利目标</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>50</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>点该汇评日内有效，短线操作仅供参考</span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'><img
+width=553 height=411 src="3BA-8D98-8FB52251B497%7d.files/image001.jpg"></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>GBP/USD</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>汇评：标普宣布将</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>EFSF</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>的</span><span lang=EN-US
+style='font-size:9.0pt;font-family:Arial;color:#191919'>AAA</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>评级调降至</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>AA+</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>，前景展望由负面上调为发展。不过惠誉上周就已经表示在</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>2012</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>年不会下调法国评级以及穆迪也表示暂时会继续维持法国</span><span
+ lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>3A</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>评级。昨日由于美国市场休市，盘面相对清淡。镑美日图下跌趋势强劲，随机指标处于超卖。今日</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>17:30</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>西班牙举行国债拍卖，英国</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>12</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>月消费者物价指数年率，</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>18:00</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>希腊举行国债拍卖，</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>19:00</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>欧盟救援基金</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>EFSF</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>拍卖债券。今日镑美以看空为主。阻力位：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.5400&nbsp;
+1.5460</span><span style='font-size:9.0pt;font-family:宋体;color:#191919'>，支撑位：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.5280&nbsp;
+1.5230*</span><span style='font-size:9.0pt;font-family:宋体;color:#191919'>做空：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>4</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>小时图，若汇价在</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.5400</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>受到有效阻力，则我们做空，盈利目标</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>50</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>点该汇评日内有效，短线操作仅供参考</span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'><img
+width=554 height=463 src="3BA-8D98-8FB52251B497%7d.files/image002.jpg"></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>AUD/USD</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>汇评：早盘公布的中国第四季度实际</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>GDP</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>年率为</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>8.8%</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>，好于预期的</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>8.7%</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>，差于前值的</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>9.1%</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>，中国公布的经济数据总体较为强劲，澳美应声上扬。标普宣布将</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>EFSF</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>的</span><span lang=EN-US
+style='font-size:9.0pt;font-family:Arial;color:#191919'>AAA</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>评级调降至</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>AA+</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>，前景展望由负面上调为发展；法国成功拍卖</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>85.9</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>亿欧元债券，债券收益率低于上次拍卖。澳美日图随机指标处于超买，但仍未显示回落迹象。今日</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>17:30</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>西班牙举行国债拍卖，</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>18:00</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>希腊举行国债拍卖，</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>19:00</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>欧盟救援基金</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>EFSF</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>拍卖债券。今日澳美以震荡为主。阻力位：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.0380&nbsp;
+1.0450</span><span style='font-size:9.0pt;font-family:宋体;color:#191919'>，支撑位：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.0280&nbsp;
+1.0200*</span><span style='font-size:9.0pt;font-family:宋体;color:#191919'>做空：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>4</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>小时图，若汇价在</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.0380</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>受到有效阻力，则我们做空，盈利目标</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>50</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>点</span><span lang=EN-US
+style='font-size:9.0pt;font-family:Arial;color:#191919'>*</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>做多：</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>4</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>小时图，若汇价有效突破</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.0380</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>，则我们做多，盈利目标</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>50</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>点</span><span lang=EN-US
+style='font-size:9.0pt;font-family:Arial;color:#191919'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+4</span><span style='font-size:9.0pt;font-family:宋体;color:#191919'>小时图，若汇价在</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>1.0280</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>受到有效支撑，则我们做多，盈利目标</span><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>50</span><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>点该汇评日内有效，短线操作仅供参考</span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'><img
+width=553 height=403 src="3BA-8D98-8FB52251B497%7d.files/image003.jpg"></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+style='font-size:9.0pt;font-family:宋体;color:#191919'>杭州瑞翎谷投资管理有限公司</span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;line-height:15.0pt'><span
+lang=EN-US style='font-size:9.0pt;font-family:Arial;color:#191919'>2012.1.17</span></p>
+
+</div>
+													<br />
+													&lt;本文结束&gt; <a href="http://www.fx168.com" title="返回FX168外汇宝网站首页" target="_blank" style="text-decoration:underline">www.FX168.com</a>
+												</p></div>
+												
+												<!--End：新闻标题、时间、内容-->
+												<div class="content_news_2">
+													<table class="cn_danblue">
+														<tr>
+															<td width="115">
+															</td>
+															<td width="80">
+																<div id="collectselection1">
+															           <img src="../../fx168news/images/newsmodel/sf.gif" />&nbsp;<a href="#" class="danhui">收藏&分享</a>
+																	<div id="collectoptions1">
+																		<a onclick="favoritelocal()">
+																<img alt="收藏到本地收藏夹" src="../../fx168news/images/icon/x0egjjcu.gif" border="0" />
+																本地收藏夹</a> <a onclick="favoritebaidu()">
+																	<img alt="收藏到百度搜藏" src="../../fx168news/images/icon/baidu.gif" border="0" />
+																	百度搜藏</a> <a onclick="favoriteyahoo()">
+																	<img alt="收藏到雅虎收藏" src="../../fx168news/images/icon/yh.gif" border="0" />
+																	雅虎收藏</a> <a onclick="favoriteqq()">
+																	<img alt="收藏到QQ书签" src="../../fx168news/images/icon/qqshuqian.gif" border="0" />
+																	QQ书签</a> <a onclick="favoritesinavivi()">
+																    <img alt="收藏到新浪ViVi" src="../../fx168news/images/icon/vivi.gif" border="0" />
+																    新浪ViVi</a> <a onclick="favoritetblog()">
+																    <img alt="分享到新浪微博" src="../../fx168news/images/icon/miniblog.gif" border="0" />
+																	新浪微博</a> <a onclick="favoritedouban()">
+																    <img alt="收藏到豆瓣" src="../../fx168news/images/icon/doubai.gif" border="0" />
+																	豆瓣</a> <a onclick="favoriterenren()">
+																    <img alt="收藏到人人网" src="../../fx168news/images/icon/renren.gif" border="0" />
+																	人人网</a> <a onclick="kaixin()">
+																    <img alt="收藏到开心网" src="../../fx168news/images/icon/kaixin.gif" border="0" />
+																	开心网</a> <a onclick="favoritesohubai()">
+																    <img alt="收藏到搜狐 白" src="../../fx168news/images/icon/shbai.gif" border="0" />
+																	搜狐 白</a> <a onclick="favoritemslive()">
+																    <img alt="收藏到微软Live" src="../../fx168news/images/icon/vrlive.gif" border="0" />
+																	微软Live</a> <a onclick="favoritetongxue()">
+																    <img alt="收藏到同学微博" src="../../fx168news/images/icon/studentvb.gif" border="0" />
+																	同学微博</a>
+																	</div>
+																</div>
+															</td>
+															<td width="50">
+																<div class="collectselection">
+																	&nbsp; &nbsp;<img src="../../fx168news/images/newsmodel/mark_zf.gif" />&nbsp;<a href="#" class="danhui"
+																		onclick="getForwardByNewsID()">转发</a></div>
+															</td>
+															<td width="50">
+																<div class="collectselection">
+																	&nbsp; &nbsp;<img src="../../fx168news/images/newsmodel/mark_tj.gif" />&nbsp;<a href="javascript:void(0)"
+																		class="danhui" onclick="MSN(event);">推荐</a></div>
+															</td>
+															<td width="57">
+																<div class="collectselection">
+																	&nbsp; &nbsp;<img src="../../fx168news/images/newsmodel/mark_jc.gif" />&nbsp;<a href="#" class="danhui"
+																		onclick="getCorrectionByNewsID()">纠错</a></div>
+															</td>
+															<td width="50">
+																<div id="concernselection1">
+																	&nbsp;&nbsp;<img src="../../fx168news/images/newsmodel/mark_gz.gif" />&nbsp;<a href="#" class="danhui">关注</a>
+																	<div id="concernoptions1">
+																		<a href="http://t.sina.com.cn/fx168caijing" target="_blank">
+																			<img alt="访问到FX168微博" src="../../fx168news/images/icon/miniblog.gif" border="0" />
+																			FX168 新浪微博</a> <a href="http://www.139.com/user/space.php?uid=19336653" target="_blank">
+																				<img alt="访问到fx168 139说客" src="../../fx168news/images/icon/139.gif" border="0" />
+																				FX168 139说客</a> <a href="http://t.qq.com/FX168FX168/mine" target="_blank">
+																				<img alt="访问到FX168 腾讯微博" src="../../fx168news/images/icon/tx.gif" border="0" />
+																				FX168 腾讯微博</a><a href="http://t.hexun.com/fx168caijing" target="_blank">
+																				<img alt="访问到FX168 和讯微博" src="../../fx168news/images/icon/faviconhexun.gif" border="0" />
+																				FX168 和讯微博</a><a href="http://fx168.t.sohu.com" target="_blank">
+																				<img alt="访问到FX168 搜狐微博" src="../../fx168news/images/icon/faviconsohu.gif" border="0" />
+																				FX168 搜狐微博</a>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+													<p class="cn_danblue" align="center">
+													</p>
+													<p class="cn_red" align="center">
+														<img src="../../fx168news/images/newsmodel/mark_phone.gif" />&nbsp;<u><!-- AFP Control Code/Caption.文字链07-详细新闻主页-FX168--><script
+															language="JavaScript1.1" src="http://client.24k99.com/adpolestar/door/;ap=F9413959_DE71_E81C_F727_451A75F700B9;ct=js;pu=fx168;/?"></script><!-- AFP Control Code End/No.XWNY-Text-07--></u></p>
+												</div>
+												<div class="content_news_4">
+													<span class="cn_22black">请选择看到此文时的心情</span> <span class="cn_blue">[<a href="../../fx168news/allmood.aspx"
+														class="darkblue" target="_blank">查看更多心情排行</a>]</span></div>
+												<div class="content_news_5">
+													<iframe src="../../fx168news/IframeDefault/mood_select.aspx" id="moodSelect" allowtransparency="true"
+														width="568" height="85" frameborder="no" border="0" marginwidth="0" marginheight="0"
+														scrolling="no"></iframe>
+												</div>
+      									
+<div class="content_news_6"><table width="100%" border="0" cellspacing="1" cellpadding="0">
+                        <tr>
+                          <td width="80%" height="22" valign="bottom" align="left"><span class="cn_22black">关键字：
+                          
+                          <a href="#" onclick="document.getElementById('searchpage').contentWindow.getsearchinfo(this);_gaq.push(['_trackEvent', 'news', 'keywords', '瑞翎谷']);return false;">瑞翎谷</a>                          
+                          <a href="#" onclick="document.getElementById('searchpage').contentWindow.getsearchinfo(this);_gaq.push(['_trackEvent', 'news', 'keywords', '汇市评论']);return false;">汇市评论</a>                          </span></td>
+                          <td width="20%" align="right"><span class="cn_22black">|  1068&nbsp;&nbsp;&nbsp</span></td>
+                        </tr>
+                    </table></div>
+  <div class="content_news_7"><span class="cn_22black">以上内容仅供参考，未经授权，不得转载！　　　　　　　　　<a href="../../fx168news/CopyrightStatement.html" target="_blank" class="blue"><font color="#cc0000">版权声明</font></a>&nbsp; <a href="http://www.fx168.com/another/RiskTips.asp" target="_blank" class="blue">风险提示</a>&nbsp; <a href="http://www.fx168.com/another/Disclaimer.asp" target="_blank" class="blue">免责声明</a>&nbsp; <a href="mailto:editor@fx168email.com" class="blue">给主编写信</a></span></div>
+      									
+  <div class="content_news_8"><span class="cn_22black">FX168财经集团：　　<a href="http://www.fx168.com" target="_blank" class="darkblue">www.FX168.com</a> 　<a href="http://www.24k99.com" target="_blank" class="darkblue">www.24K99.com</a>　 <a href="http://www.2Rich.net" target="_blank" class="darkblue">www.2Rich.net</a>　 <a href="http://www.99qh.com" target="_blank" class="darkblue">www.99QH.com</a></span></div>      
+                       
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+				<div class="ad_left_588×70">
+					<!-- AFP Control Code/Caption.BottomBanner-瑞翎谷-FX168-->
+<IFRAME SRC="http://client.24k99.com/adpolestar/door/;ap=63B5B2DC_620E_32AB_B111_5CE3E36BB08D;ct=if;pu=fx168;/?" NAME="adFrame_63B5B2DC_620E_32AB_B111_5CE3E36BB08D" WIDTH="588" HEIGHT="70" FRAMEBORDER="no" BORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+</IFRAME>
+<!-- AFP Control Code End/No.fxrlg-588x70-->
+				</div>
+				<div class="commetstop_from" align="center">
+					<iframe id="commentstop" src="../../fx168news/commentstop.aspx" name="search" allowtransparency="true"
+						width="586"   frameborder="no" border="0" marginwidth="0" marginheight="0"
+						scrolling="no" onload="IFrameReSize('commentstop')"></iframe>
+				</div>
+				<div class="content_from" align="center">
+					<iframe id="CommentPage" src="../../fx168news/IframeDefault/input.htm" name="search" allowtransparency="true"
+						width="550" height="215" frameborder="no" border="0" marginwidth="0" marginheight="0"
+						scrolling="no"></iframe>
+				</div>
+				<div class="clear">
+				</div>
+			</div>
+			<div class="content_5">
+				<p>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.fx168.com/wap/"
+						target="_blank" style="font-weight:bold;">手机外汇宝</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://rss.fx168.com"
+						target="_blank">RSS订阅中心</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://historynews.fx168.com"
+						target="_blank" style="font-weight:bold;">历史新闻</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.fx168.com/SiteMap/FX168-SiteMap.html"
+						target="_blank">网站地图</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.fx168.com/Fxuser/personselect.asp"
+							target="_blank">收费服务</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.infochannel.cn/CompanyProfile/Introduction.asp"
+								target="_blank">关于我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fx168.com/another/advprice.asp"
+									target="_blank">广告联系&nbsp;</a>&nbsp;|&nbsp;&nbsp;<a href="http://www.fx168.com/another/tellreader.asp"
+										target="_blank">敬告读者</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fx168.com/another/about_fx168.asp"
+											target="_blank">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.infochannel.cn/CompanyProfile/NewsList.aspx"
+												target="_blank">FX168财经集团动态</a></p>
+			</div>
+			<div class="foot">
+			 <div class="foot_all">
+			  <div>
+				<div class="foot_1">
+					上海&nbsp;021-63865123&nbsp; |&nbsp; 北京&nbsp;010-63983029&nbsp; |&nbsp; 大连&nbsp;0411-84800750<br>
+					南京&nbsp;025-83808038&nbsp; |&nbsp; 广州&nbsp;013570408676&nbsp; |&nbsp; 深圳&nbsp;013724303427<br>
+					杭州&nbsp;013957169629&nbsp; |&nbsp; 温州&nbsp;013858868321&nbsp; |&nbsp; 重庆&nbsp;018602310959<br>
+			    </div>
+			    <div class="foot_2" valign="center">
+				     <a href="http://sh.cyberpolice.cn/infoCategoryListAction.do?act=initjpg">
+				        <img src="../../fx168news/images/newsmodel/police.gif" width="124" height="51"/>
+				     </a>
+				</div>
+			   </div>
+			    <div class="foot_3">
+					上海科视数码频道制作有限公司版权所有&nbsp; 未经授权禁止复制、建立镜像、链接!&nbsp;
+					<font color="#cc0000">免费客服热线：4006-168-525</font><br />
+					所有内容仅供阁下自行研究参考，并非建议或暗示阁下做任何有关投资或理财的决定，阁下所做的任何交易决定应自行负责。</div>
+				</div>
+				<div class="bbs_image">
+					<a href="#">
+						<img src="../../fx168news/images/newsmodel/shca_cc.gif" alt="Figure 1" /></a>
+					<div class="cn_black">
+						沪ICP备<br />
+						05009270号</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="ad_right1">
+			<!-- AFP Control Code/Caption.对联01-详细新闻主页-FX168-->
+
+			<!--<script language="JavaScript1.1" src="http://client.24k99.com/adpolestar/door/;ap=C9BDF73C_E28E_3BAF_8374_CB7140C5945B;ct=js;pu=fx168;/?">
+			</script>-->
+
+			<!-- AFP Control Code End/No.XWNY-100x300-1-->
+			<!-- AFP Control Code/Caption.对联02-详细新闻主页-FX168-->
+
+			<!--<script language="JavaScript1.1" src="http://client.24k99.com/adpolestar/door/;ap=F71A562B_81BD_7190_CFE0_AF4B2BC41536;ct=js;pu=fx168;/?">
+			</script>-->
+
+			<!-- AFP Control Code End/No.XWNY-100x300-2-->
+			<!-- AFP Control Code/Caption.TwinSmalButton-详细新闻主页-FX168-->
+
+			<!--<script language="JavaScript1.1" src="http://client.24k99.com/adpolestar/door/;ap=DEBD7A1E_78F7_9D58_54E9_84517717E257;ct=js;pu=fx168;/?">
+			</script>-->
+
+			<!-- AFP Control Code End/No.XWNY-100x60-->
+		</div>	
+		<div class="clear">
+		</div>
+	</div>
+	<!-- 推荐区-->
+	<div style="border-style: solid; border-color: rgb(102, 102, 102); border-width: 0px 2px 2px 0px;
+		display: none; position: absolute; background-color: whitesmoke; left: 175px;
+		top: 512px;" id="WrapHeadURL">
+		<div style="border: 1px solid rgb(204, 204, 204);" id="HeadURL">
+			<textarea onblur="hidetoolpanel();" style="border: 0px none; padding: 15px; overflow: auto;
+				font-size: 12px; color: rgb(48, 48, 48); background-color: whitesmoke;" cols="80"
+				rows="6" id="copyall"></textarea><div style="background: transparent url(../../fx168news/images/newsmodel/dot3.gif) repeat-x scroll center top;
+					color: rgb(48, 48, 48); font-size: 12px; margin-left: 10px; -moz-background-clip: -moz-initial;
+					-moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;
+					padding-top: 4px; padding-bottom: 3px;">
+				</div>
+		</div>
+</div>
+<div style="visibility: hidden;">
+<iframe src="http://www.fx168.com/fx168news/tongji.aspx" height="0" width="0" border="0"></iframe>
+</div>
+<!--以下是Google、CNZZ的网站流量统计代码-->
+			<script type="text/javascript">
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-9989844-1']);
+              _gaq.push(['_setDomainName', '.fx168.com']);
+              _gaq.push(['_trackPageview']);
+             (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+             })();
+            </script>
+			<div style="visibility: hidden;">
+			<script src="http://s139.cnzz.com/stat.php?id=1574349&web_id=1574349&show=pic" language="JavaScript" charset="utf-8"></script>
+		</div>
+</body>
+<!-- AFP Control Code/Caption.MovingIcon-详细新闻主页-FX168-->
+<!--<script language="JavaScript1.1" src="http://client.24k99.com/adpolestar/door/;ap=4992F8D6_D0C7_3375_C6E8_95D4426DD576;ct=js;pu=fx168;/?">
+</script>-->
+<!-- AFP Control Code End/No.XWNY-100x100-->
+<script language="JavaScript" type="text/JavaScript" src="../../fx168news/Js/newsmodel20100816.js"></script>
+<script type="text/javascript">
+SelectStyle();
+</script>
+<script language="JavaScript" type="text/JavaScript" src="../../fx168news/Js/kxin.js"></script>
+</html>
+

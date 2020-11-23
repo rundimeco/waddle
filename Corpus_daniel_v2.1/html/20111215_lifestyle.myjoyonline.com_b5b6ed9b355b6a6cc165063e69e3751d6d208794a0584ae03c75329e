@@ -1,0 +1,647 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Test 'improves cancer screening' | Health</title>
+<meta name="keywords" content="Health"/>
+<meta name="headline" content="Test 'improves cancer screening'"/>
+<meta name="author" content="Michael Ofori Amanfo Boateng"/>
+<meta name="Copyright" content="Copyright (c) 2011 Joy FM Online News"/>
+<meta name="title" content="Test 'improves cancer screening'"/>
+<meta name="description" content="Test 'improves cancer screening'"/>
+<!--<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss/health.xml" />-->
+<meta property="og:image" content="http://photos.myjoyonline.com/photos/news/201109/156528204_562803.jpg"/>
+<meta property="og:title" content="Test 'improves cancer screening'"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://lifestyle.myjoyonline.com/pages/health/201112/78297.php"/>
+<style>body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset,img { 
+	border:0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-style:normal;
+	font-weight:normal;
+}
+ol,ul {
+	list-style:none;
+}
+caption,th {
+	text-align:left;
+}
+
+q:before,q:after {
+	content:'';
+}
+abbr,acronym { border:0;
+}
+
+
+
+
+body {
+	font:arial;
+/*	/* for IE6/7 */ 
+	*font-size:small; 
+	/* for IE Quirks Mode */
+	/**font:x-small;
+	/*color: #444; */
+	font-family:Verdana,Arial,Helvetica,sans-serif;font:normal;color:#000;
+	font:13px/1.231 arial,helvetica,clean,sans-serif;
+}
+
+/* ML 9/10/10 */
+html {
+	height: 101%;
+}
+body, html {
+	/* background: #F8F8F8; -- color it's supposed to be  changed 24th april #D8D8D6  */
+	/*background: #F6F6F6;*/
+	background: #fafafa;
+}
+
+.container_main {
+	/*background-color: #FFF;*/
+	margin-left: auto;
+	margin-right: auto;
+	width: 990px;
+	/*padding: 7px;*/
+	padding: 0px;
+	height: 100%;
+	padding-top: 0;
+	position: relative;
+	/*background-color: #FFF;*/
+	height: 100%;
+	overflow: hidden;
+	
+
+}
+
+
+#header-print {
+	display: none;
+	clear: both;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+a {
+	text-decoration: none;
+	outline: none;
+}
+
+
+/*
+h1 a:hover, h2 a:hover, h3 a:hover {
+	border-bottom: dotted 1px #B0CADA;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
+<link rel="stylesheet" type="text/css" href="/v3/css/common.css+reset.css+global.css.pagespeed.cc.s7-NU-TJGo.css"/>
+<script src="/v3/includes/mootools.js.pagespeed.jm.NDDCCw7c9b.js" type="text/javascript"></script>
+<script src="/v3/includes/functions.js.pagespeed.jm.SMIEzMQ3NJ.js" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var http=createRequestObject();function createRequestObject()
+{var xmlhttp;try
+{xmlhttp=new ActiveXObject("Msxml2.XMLHTTP");}
+catch(e)
+{try{xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
+catch(f){xmlhttp=null;}}
+if(!xmlhttp&&typeof XMLHttpRequest!="undefined")
+{xmlhttp=new XMLHttpRequest();}
+return xmlhttp;}
+function rec_photo_sndRating(idnum,rateval)
+{var dvelement=document.getElementById('dv'+idnum);dvelement.innerHTML="<img src='/v3/images/loading1.gif'>";try
+{http.open('GET','/tglifestyle/comments/recommend.php?commentid='+idnum);http.onreadystatechange=rec_photo_handleResponseText;http.send(null);}
+catch(e){}
+finally{}}
+function rec_photo_handleResponseText()
+{try
+{if((http.readyState==4)&&(http.status==200))
+{var response=http.responseText;var update=new Array();if(response.indexOf('|')!=-1)
+{update=response.split('|');var drelement=document.getElementById('dv'+update[0]);var voteres=document.getElementById('vot'+update[0]);drelement.style.display='none';voteres.innerHTML=update[2];var _loading_gif="<img src='/v3/images/loading1.gif'>";var likebutton=document.getElementById('recommend-link-'+update[0]);likebutton.setAttribute("class","disabled");likebutton.setAttribute("onclick","");SetCookie("news_comment_recommend_"+update[0],"1",10);}}}
+catch(e){alert("an error occured");}
+finally{}}
+function SetCookie(strName,strValue,intdays)
+{var strExpires;if(intdays)
+{var dtExpire=new Date();dtExpire.setTime(dtExpire.getTime()+(intdays*86400000));strExpires="; expires="+dtExpire.toGMTString();}
+else strExpires="";document.cookie=strName+"="+strValue+strExpires+"; path=/";}
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+function popUpPage(url,parameters,name)
+{var day=new Date();var pageName=name?name:day.getTime()
+eval("bbc"+pageName+" = window.open('"+url+"','"+pageName+"','"+parameters+"')");if(eval("bbc"+pageName)&&window.focus)eval("bbc"+pageName).focus();}
+function SetSlider(idnum)
+{var var_ul=document.getElementById("www_pagi_nav_1");var var_li=var_ul.getElementsByTagName("li");var var_item=var_li.item(0).getAttribute("class");var_li.item(0).setAttribute("class","");var_li.item(1).setAttribute("class","");var_li.item(2).setAttribute("class","");var_li.item(idnum).setAttribute("class","active");var thedo;if(idnum==0){thedo="Editor's Choice";}
+if(idnum==1){thedo="Latest Photos";}
+if(idnum==2){thedo="Featured Items";}
+document.getElementById("www_pagi_nav_1_header").innerHTML=thedo;}
+//]]></script>
+<link href="/v3/css/common.css.pagespeed.cf.TXxBTfNjYj.css" rel="stylesheet" type="text/css"/><style>#mycomment_mains{width:400px;border:solid 2px #dedede;margin-top:30px;height:20px}#mycomment_contents{float:left;width:400px;height:498px}.loading{color:#c00}</style><link href="/v3/css/v3_bottom.css.pagespeed.cf.A43iLjbA5j.css" rel="stylesheet" type="text/css"/></head>
+<body>
+<!-- Top Section -->
+<div class="v3_main_header">
+<!-- navigation -->
+<div style="width:100%; background-color:#fff">
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="728" align="left" valign="top"> <div style="float:right; color:#FFF">
+<table width="550" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td nowrap="nowrap" class="ash_link_1">&nbsp;</td>
+</tr>
+<tr>
+<td nowrap="nowrap" class="ash_link_1">
+<a href="http://www.myjoyonline.com/services/chat/" class="ash_link_1"><img src="/v3/images/new1.gif.pagespeed.ce.778S-UAVO2.gif" width="35" height="15" border="0" align="absmiddle"/> CHAT</a>&nbsp;&nbsp;
+<a href="http://twitter.com/joyonlineghana" class="ash_link_1"> <img src="/v3/images/twitter2.png.pagespeed.ce.K_G098Ik-R.png" width="12" align="absmiddle"/> Twitter</a> &nbsp;&nbsp;
+<a href="http://www.facebook.com/myjoyonline" class="ash_link_1"> <img src="/v3/images/facebook2.png.pagespeed.ce.ofRQ_BUT13.png" width="12" align="absmiddle"/> Facebook</a> &nbsp;&nbsp;
+<a href="http://www.myjoyonline.com/services/rss/" class="ash_link_1"> <img src="/v3/images/rss2.png.pagespeed.ce.AR8jCJrKhW.png" width="12" align="absmiddle"/> Rss</a> &nbsp;&nbsp;
+<a href="http://www.myjoyonline.com/services/radio"> <img src="/v3/images/xradio1.png.pagespeed.ic.Af1v4W80Sj.png" width="12" align="absmiddle"/> Online Radio</a> &nbsp;&nbsp;
+<a href="http://mobile.myjoyonline.com"> <img src="/v3/images/mobile1.gif.pagespeed.ce.xW61CL4ACd.gif" width="9" align="absmiddle"/> Mobile Website</a> &nbsp;&nbsp;
+<a href="http://classifieds.myjoyonline.com"> <img src="/v3/images/12x12xclassifieds1.gif.pagespeed.ic.yehW02QIDn.png" width="12" height="12" align="absmiddle"/> Classifieds</a> &nbsp;&nbsp;
+<a href="http://my.myjoyonline.com"> <img src="/v3/images/16x16xmember2.png.pagespeed.ic.AhSJGKcgeo.png" width="16" height="16" align="absmiddle"/> Member Login</a> &nbsp;&nbsp;
+</td>
+</tr>
+</table>
+<div style="height:8px"></div>
+</div></td>
+<td width="20" align="left" valign="top">&nbsp;</td>
+<td width="242" align="left" valign="top">
+<div style="height:6px"></div>
+<div id="search" class="panel">
+<div id="searchbox">
+<form action="http://www.myjoyonline.com/search" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="partner-pub-7097281246489732:2ozqnx2lmcf"/>
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="ISO-8859-1"/>
+<input name="q" size="30" maxlength="100" id="searchfield"/>
+<input id="searchbuttonNav" src="http://lifestyle.myjoyonline.com/v3/images/xsearch1.gif.pagespeed.ic.Up05gWwKMP.png" type="image" name="sa" width="60" height="18">
+</div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- end headwarp  -->
+<div id="v3_header" class="png_bg">
+<div id="v3_head_wrap" class="container_12">
+<!-- Logo -->
+<div id="v3_logo" class="grid_2"> <a href="http://www.myjoyonline.com"><img src="/v3/images/xlogo4.png.pagespeed.ic.4-DQNbxrEP.png" width="119" border="0"/></a>
+</div>
+<!-- Logo -->
+<!-- banners -->
+<div id="v3_banner" class="grid_8">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<script type="text/javascript">google_ad_client="ca-pub-7097281246489732";google_ad_slot="4757104746";google_ad_width=468;google_ad_height=60;</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</td>
+</tr>
+</table>
+</div>
+<!-- banners -->
+<!-- search -->
+<div id="v3_search" class="grid_2" style="height:70px; overflow:hidden">
+</div>
+<!-- search -->
+<!-- navigation -->
+<div id="v3_navigation" class=" grid_12" style="width:980px">
+<ul>
+<li><a href="http://www.myjoyonline.com/" class="active">Home</a></li>
+<li><a href="http://edition.myjoyonline.com/">News</a></li>
+<li><a href="http://www.myjoyonline.com/services/radio/">Radio</a></li>
+<li><a href="http://politics.myjoyonline.com/">Politics</a></li>
+<li><a href="http://sports.myjoyonline.com/">Sports</a></li>
+<li><a href="http://business.myjoyonline.com/">Business</a></li>
+<li><a href="http://entertainment.myjoyonline.com/">Entertainment</a></li>
+<li><a href="/">Lifestyle</a></li>
+<li><a href="http://world.myjoyonline.com/">World</a></li>
+<li><a href="http://opinion.myjoyonline.com/">Opinion</a></li>
+<li><a href="http://audio.myjoyonline.com/">Audio</a></li>
+<li><a href="http://photos.myjoyonline.com/">Photos</a></li>
+<li><a href="http://videos.myjoyonline.com/">Video</a></li>
+</ul>
+<!-- navigation -->
+</div><!-- end headwarp  -->
+</div>
+<!-- staqrt v3_subnav -->
+<div id="v3_sub_nav">
+</div>
+<!-- end v3_sub_nav -->
+</div>
+</div>
+<!-- Top Section -->
+<!-- Sub Top Section -->
+<!-- Sub Top Section -->
+<div class="container_main">
+<div class="clearfix"></div>
+<!-- Main Page -->
+<br/>
+<br/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="30" class="ash_text_2"><a href="/">Home</a> &gt; <a href="/pages/health/">Health</a></td>
+</tr>
+<tr>
+<td bgcolor="#B5B5B5"><div style="height:3px"></div></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF">&nbsp;</td>
+</tr>
+</table>
+<table width="990" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="10" align="left" valign="top" bgcolor="#FFFFFF"><img src="/v3/images/spacer.gif.pagespeed.ce.Ih2DUpBfLD.gif" width="10" height="200"/></td>
+<td width="665" align="left" valign="top" bgcolor="#FFFFFF"><!-- Main Content -->
+<!-- Story Menu -->
+<div id="story_content">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/v3/images/spacer.gif.pagespeed.ce.Ih2DUpBfLD.gif" width="100" height="10"/></td>
+</tr>
+<tr>
+<td><span class="story_header_1">Test 'improves cancer screening'</span></td>
+</tr>
+<tr>
+<td><img src="/v3/images/spacer.gif.pagespeed.ce.Ih2DUpBfLD.gif" width="100" height="8"/></td>
+</tr>
+<tr>
+<td class="ash_text_2"><span class="joy_black_text_4">From: BBC &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </span><span class="ash_text_1"><b>Last Updated:</b> December 15, 2011, 6:30 pm</span></td>
+</tr>
+<tr>
+<td class="ash-2">&nbsp;</td>
+</tr>
+<script type="text/javascript" src="http://ajax.googleapis.com/
+ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript">$(document).ready(function()
+{content();function content()
+{$.ajax({type:"POST",url:"/tglifestyle/comments/index.php?contentid=78297",data:"",beforeSend:function()
+{$("span#mycomment_main").html('<span class="loading">Loading...</span>');},cache:false,success:function(data)
+{$("#mycomment_main").html(data);$("#mycomment_sub").html(data);}});}});</script>
+<tr>
+<td class="ash-2"><div class="story_menu">
+<div id="story_menu_top" class="story_menu_icon"> <span class="leftcontainer">
+</span> <span class="rightcontainer">
+<!-- Comment -->
+<a rel="nofollow" href="78297.php?storyid=78297" class="button" style="color:#F00; font-weight:bold"> <span class="left ededed">&nbsp;</span> <img src="/v3/images/icon_discuss.jpg.pagespeed.ce.jQ2rGN0B9F.jpg" class="icon" border="0" width="15" height="15"/> Comments (<span id="mycomment_main" style="color:#F00; font-weight:bold"></span>) <span class="right ededed">&nbsp;</span></a>
+<!-- Comment -->
+<!-- Email to Friend -->
+<span st_url="#" class="st_email_custom"> <a class="button" onclick="popUpPage('/tglifestyle/email/index.php?url=http://lifestyle.myjoyonline.com/pages/health/201112/78297.php&amp;contentid=78297', 'status=no,scrollbars=yes, resizable=yes,width=540,height=600','Mailer')" href="/tglifestyle/email/index.php?url=http://lifestyle.myjoyonline.com/pages/health/201112/78297.php&amp;contentid=78297" target="Mailer"> <span class="left ededed">&nbsp;</span> <img src="/v3/images/icon_email.jpg.pagespeed.ce.676jFbHHvy.jpg" class="icon" border="0" width="15" height="15"/> Email <span class="right ededed">&nbsp;</span></a></span>
+<!-- Email to Friend -->
+<!-- Print -->
+<a class="button" onclick="popUpPage('/tglifestyle/print/index.php?url=http://lifestyle.myjoyonline.com/pages/health/201112/78297.php&amp;contentid=78297', 'status=no,scrollbars=yes, resizable=yes,width=600,height=645','Mailer')" href="/tglifestyle/print/index.php?url=http://lifestyle.myjoyonline.com/pages/health/201112/78297.php&amp;contentid=78297" target="Mailer"> <span class="left ededed">&nbsp;</span> <img src="/v3/images/icon_print.jpg.pagespeed.ce.MaqhYiC4c0.jpg" class="icon" border="0" width="15" height="15"/> Print <span class="right ededed">&nbsp;</span></a>
+<!-- Print -->
+</span> </div>
+</div></td>
+</tr>
+</table>
+</div>
+<br/>
+<!-- Story Menu -->
+<!-- Story Audio -->
+<!-- Story Audio -->
+<table width="660" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="170" align="left" valign="top">
+<table width="160" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" align="left" valign="top"><div class="span-2 twitter">
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://lifestyle.myjoyonline.com/pages/health/201112/78297.php" data-text="Test 'improves cancer screening'" data-count="vertical" data-via="joyonlineghana">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div></td>
+<td align="left" valign="top"><img src="/v3/images/spacer.gif.pagespeed.ce.Ih2DUpBfLD.gif" width="10" height="1"/></td>
+<td width="50%" align="left" valign="top"><iframe src="http://www.facebook.com/plugins/like.php?app_id=162804257120529&amp;href=http://lifestyle.myjoyonline.com/pages/health/201112/78297.php&amp;send=false&amp;layout=box_count&amp;width=95&amp;show_faces=true&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=65" style="border: medium none; overflow: hidden; width: 95px; height: 65px;" allowtransparency="true" scrolling="no" frameborder="0"></iframe>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">&nbsp;</td>
+<td align="left" valign="top">&nbsp;</td>
+<td align="left" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td align="left" valign="top"><!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="tall"></g:plusone>
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();</script></td>
+<td align="left" valign="top">&nbsp;</td>
+<td align="left" valign="top">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-url="http://lifestyle.myjoyonline.com/pages/health/201112/78297.php" data-counter="top"></script>
+</td>
+</tr>
+</table></td>
+</tr>
+</table>
+<br/>
+<br/>
+<!-- Story Highlights -->
+<div id="story_highlights"> </div>
+<!-- Story Highlights -->
+<!-- Story Quotes -->
+<!-- Story Quotes -->
+<!-- Left Inc -->
+<div id="share_box_1" style="width:165px">
+<div class="share_box_header">Follow Us</div>
+<ul class="followUs">
+<li>
+<a class="follow-btn" id="follow-facebook" href="http://www.facebook.com/myjoyonline" target="_blank"></a>
+<a href="http://www.facebook.com/myjoyonline" target="_blank">on Facebook</a>
+</li>
+<li class="hRule"></li>
+<li>
+<a class="follow-btn" id="follow-twitter" href="http://twitter.com/joyonlineghana" target="_blank"></a>
+<a href="http://twitter.com/joyonlineghana" target="_blank">on Twitter</a>
+</li>
+<li class="hRule"></li>
+<li>
+<a class="follow-btn" id="follow-rss" href="http://www.myjoyonline.com/services/rss/"></a>
+<a href="http://www.myjoyonline.com/services/rss/">RSS Feeds</a>
+</li>
+<li class="hRule"></li>
+<li>
+<a class="follow-btn" id="follow-mobile" href="http://mobile.myjoyonline.com"></a>
+<a href="http://mobile.myjoyonline.com">Mobile</a>
+</li>
+<li class="hRule"></li>
+<li>
+<a class="follow-btn" id="follow-podcasts" href="http://audio.myjoyonline.com/pages/podcast/"></a>
+<a href="http://audio.myjoyonline.com/pages/podcast/">Podcasts</a>
+</li>
+<li class="hRule"></li>
+<!--<li>
+<a class="follow-btn" id="follow-newsletters" href="/settings/newsletters"></a> 
+<a href="/settings/newsletters">Newsletters</a>
+</li> -->
+<!--<li class="hRule"></li> -->
+</ul>
+</div>
+<br/>
+<br/>
+<!-- Left Inc -->
+<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr'+'ipt type="text/javascript">(function () {try{VCM.media.render({sid:53547,media_id:3,media_type:7,version:"1.1"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=53547&m=3&tp=7&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr'+'ipt>');</script><noscript><a href="http://media.fastclick.net/w/click.here?sid=53547&m=3&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=53547&m=3&tp=7&d=s&c=1&vcm_acv=1.1" width=160 height=600 border=1></a></noscript> <div id="brw170"></div></td>
+<td width="15" align="left" valign="top"><div id="brw10"></div>
+<img src="/v3/images/spacer.gif.pagespeed.ce.Ih2DUpBfLD.gif" width="10" height="200"/></td>
+<td width="480" align="left" valign="top"><!-- Main Story Content -->
+<div id="story_content" style="overflow:hidden; width:480px">
+<!-- Photo Holder -->
+<table width="200px" border="0" cellpadding="0" cellspacing="0" style="float:left">
+<tr>
+<td align="left" valign="top">
+<div id="story_photo">
+<div class="image-frame"><img src="http://photos.myjoyonline.com/photos/news/201109/156528204_562803.jpg" title="Test 'improves cancer screening'" alt="Test 'improves cancer screening'"/></div>
+<p class="caption">
+<span class="caption-text">HPV is now known to cause the vast majority of cervical cancers in the developed world.</span>
+</p>
+</div>
+</td>
+<td valign="top" align="left"><div style="width:10px"></div></td>
+</tr>
+</table>
+<br><div class="clearfix"></div><div style="height:10px"></div>
+<!-- Photo Holder -->
+<!-- <div class="clearfix"></div> -->
+<span class="story_text_1">
+<!-- Top Content -->
+Smear tests designed to cut deaths from cervical cancer could be improved by adding a further test looking for signs of a virus which causes it.<BR><BR>When smears from thousands of Dutch women were also checked for the human papillomavirus (HPV) doctors were able to find more cancers at an early stage.<BR><BR>The authors of the Lancet Oncology study are now calling for the test to be included for all women.<BR><BR>Experts said the findings were encouraging.<BR><BR>The UK currently invites women aged between 25 and 65 for smear tests every three to five years.<BR><BR>The test is based on "cytology" - a sample of cells from the neck of the womb is examined under the microscope for subtle changes which may lead to cancer.<BR><BR>HPV, a sexually-transmitted virus, is now known to cause the vast majority of cervical cancers in the developed world.<BR><BR><b>More work needed</b><BR><BR>In the UK, many teenage girls are now vaccinated against the strains most strongly linked to the disease.<BR><BR>However, this leaves the majority of adult women unprotected from the virus, and HPV testing during screening has been suggested as a way of detecting those most at risk.<BR><BR>HPV testing was introduced earlier this year in the UK for women who have "borderline" results under the microscope to avoid the need for extra, invasive checks.<BR><BR>However, the Dutch study examined the principle of checking every sample, with those testing positive for high-risk strains invited for additional smear tests.<BR><BR>Analysis of the 45,000 women in the study suggested this tactic prevented an additional 10 cancers per 100,000 women screened compared with conventional screening, and revealed a higher number of pre-cancerous growths which could be treated.<BR><BR>The researchers said their findings suggested that HPV testing should be introduced in cervical screening programmes for women aged 30 and above.<BR><BR>If it were, in theory the need for three-yearly smears in some women might be reduced, they concluded, with a five-year interval equally safe.<BR><BR>This was supported by US cancer specialists who reviewed the results for the journal.<BR><BR>They wrote: "We expect that almost every women who tests negative for HPV, irrespective of country or screening protocol, has an extremely low risk of cancer over three or five years.<BR><BR>Jessica Harris, from Cancer Research UK, said: "These results add to previous evidence showing that HPV testing is an effective way of picking up pre-cancerous cervical changes in women over 30.<BR><BR>"But it's important to answer some outstanding questions about how HPV screening could work in the real world, including how best to manage women who receive a positive HPV test result, and what to do for younger women."<BR><BR>Professor Julietta Patnick, director of the NHS Cancer Screening Programme, said the results suggested that more work should be undertaken to examine the role of HPV testing in the UK.<BR><BR>She said: "The relationship between HPV and cervical cancer is well established and we are beginning to incorporate testing for it into our current cytology based Programme. This study shows that HPV testing potentially offers greater benefits for women than cytology alone."
+<!-- Top Content -->
+</span>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"><!-- Story Analysis -->
+<!-- Story Analysis -->
+<!--  <span class="story_text_1">  
+    
+  </span> --></td>
+</tr>
+</table>
+<div style="height:30px"></div>
+<span class="story_header_2"></span>
+<div style="height:10px"></div>
+<div class="clearfix"></div>
+<!-- Photo Holder -->
+<!-- Photo Holder -->
+<span class="story_text_1">
+<!-- Last Content -->
+<!-- Last Content -->
+</span> <br/>
+<br/>
+<script type="text/javascript">google_ad_client="ca-pub-0882369297048059";google_ad_slot="9522925753";google_ad_width=336;google_ad_height=280;</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script> <div style="height:20px"></div>
+<div id="story_comments" style="font:13px/1.231 arial,helvetica,clean,sans-serif;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td height="5" bgcolor="#990000"><img src="/v3/images/spacer.gif.pagespeed.ce.Ih2DUpBfLD.gif" width="1" height="1"/></td>
+</tr>
+<tr>
+<td valign="middle" bgcolor="#F3F0E7"><h2><a href="78297.php?storyid=78297" class="joy_home_topstory" style="color:#F00">Comments ( <span id="mycomment_sub"></span> ): Have Your Say &gt;&gt;</a></h2>
+<a name="comments" id="comments" style="color:#F00"></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="clearfix"></div>
+<div style="height:1px">&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><div style="height:1px">&nbsp;</div></td>
+</tr>
+</table>
+<!-- Commment Module -->
+<!-- Commment Module -->
+<br/>
+<br/>
+<br/>
+<!--Main Story Content -->
+<br/>
+<br/>
+<br/>
+<div id="brw480"></div></td>
+</tr>
+</table>
+<!-- Main Content --></td>
+<td width="10" align="left" valign="top" bgcolor="#FFFFFF"><img src="/v3/images/spacer.gif.pagespeed.ce.Ih2DUpBfLD.gif" width="10" height="200"/></td>
+<td width="300" align="left" valign="top"><!-- Right Section -->
+<table width="300" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="top"><div id="right_content">
+<div class="clear"></div>
+<!-- Right News Include -->
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#FFFFFF"><div class="joy_box_4" id="box-search">
+<h2>Other Stories</h2>
+<div class="inside">
+<!-- Right News -->
+<div class="general_bullet_1">
+<ul>
+<li>
+<a href="78278.php" style="text-decoration: none;"><b>Health alert:</b> Fake herbal concoction for eye diseases</a>
+</li>
+<li>
+<a href="78268.php" style="text-decoration: none;">24,000 diabetes deaths a year 'could be avoided'</a>
+</li>
+<li>
+<a href="78263.php" style="text-decoration: none;">Agbeve Herbal Hospital commissions new branch in Accra</a>
+</li>
+<li>
+<a href="78253.php" style="text-decoration: none;">Rotary Club of Accra Ring Road Central organizes a medical outreach in Maamobi</a>
+</li>
+<li>
+<a href="78191.php" style="text-decoration: none;">Global malaria death toll falling</a>
+</li>
+<li>
+<a href="78185.php" style="text-decoration: none;">Dr. Oz and friends bust common health myths</a>
+</li>
+<li>
+<a href="78181.php" style="text-decoration: none;">Age of criminal responsibility 'too low', experts say</a>
+</li>
+<li>
+<a href="78166.php" style="text-decoration: none;">Chronic fatigue syndrome 'affects one in 100 pupils'</a>
+</li>
+<li>
+<a href="78080.php" style="text-decoration: none;">Breast cancer patients 'stop drugs' due to side-effects</a>
+</li>
+<li>
+<a href="78075.php" style="text-decoration: none;">Haemophilia gene therapy shows early success</a>
+</li>
+</ul>
+</div>
+<!-- Right News -->
+<div class="sidebar-search"></div>
+</div>
+</div></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF">&nbsp;</td>
+</tr>
+</table>
+<!-- Right News Include -->
+<script type="text/javascript">google_ad_client="ca-pub-0882369297048059";google_ad_slot="5954722766";google_ad_width=300;google_ad_height=250;</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script> <br/>
+<br/>
+<iframe src="http://www.facebook.com/plugins/recommendations.php?site=Lifestyle.myjoyonline.com&amp;width=300&amp;height=300&amp;header=true&amp;colorscheme=light&amp;font&amp;border_color" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowtransparency="true"></iframe>
+<!-- Right Inc -->
+<!-- Right Inc -->
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Right Section --></td>
+</tr>
+</table>
+<!-- Main Page -->
+</div>
+<!-- Bottom Section -->
+<div style="height:20px"></div>
+<div class="site_footer">
+<div id="wrap_bottom">
+<div id="bg_bottom">
+<dl>
+<!--<div class="col0">
+                    <dt>Newsletters</dt>
+            dfsfsdf
+          </div> -->
+<div class="col1">
+<dt>Home</dt>
+<dd><a href="http://edition.myjoyonline.com" target="_parent">News</a></dd>
+<dd><a href="http://politics.myjoyonline.com" target="_parent">Politics</a></dd>
+<dd><a href="http://business.myjoyonline.com" target="_parent">Business</a></dd>
+<dd><a href="http://sports.myjoyonline.com" target="_parent">Sports</a></dd>
+<dd><a href="/" target="_parent">Lifestyle</a></dd>
+<dd><a href="http://world.myjoyonline.com" target="_parent">World News</a></dd>
+<dd><a href="http://opinion.myjoyonline.com" target="_parent">Opinion</a></dd>
+</div>
+<div class="col1">
+<dt>More Sections</dt>
+<dd><a href="http://entertainment.myjoyonline.com/" target="_parent">Entertainment</a></dd>
+<dd><a href="http://politics.myjoyonline.com/pages/electionnews/" target="_parent">Elections</a></dd>
+<dd><a href="http://edition.myjoyonline.com/pages/health/" target="_parent">Health</a></dd>
+<dd><a href="http://edition.myjoyonline.com/pages/science/" target="_parent">Science</a></dd>
+<dd><a href="http://sports.myjoyonline.com/pages/football/" target="_parent">Football</a></dd>
+</div>
+<div class="col2">
+<dt>Tools &amp; Features</dt>
+<dd><a href="http://news.myjoyonline.com" target="_parent">Audio on Demand</a></dd>
+<dd><a href="http://blogs.myjoyonline.com/sms" target="_parent">SMS Blog</a></dd>
+<dd><a href="http://photos.myjoyonline.com" target="_parent">Photo Gallery</a></dd>
+<dd><a href="http://www.myjoyonline.com/services/radio" target="_parent">Online Radio</a></dd>
+</div>
+<div class="col2">
+<dt>Updates</dt>
+<dd id="list_rss"><a href="http://www.myjoyonline.com/services/rss/" target="_parent">RSS Feeds</a></dd>
+<dd id="list_twitter"><a href="http://twitter.com/joyonlineghana" target="_blank">Joyonline on Twitter</a></dd>
+<dd id="list_facebook"><a href="http://www.facebook.com/myjoyonline" target="_blank">Joyonline on Facebook</a></dd>
+<dt>Services</dt>
+<dd><a href="http://www.myjoyonline.com/services/contact/" target="_parent">Contact us</a></dd>
+<dd><a href="http://www.myjoyonline.com/services/feedback/" target="_parent">Feedback</a></dd>
+</div>
+<div class="col1">
+<dt>About Myjoyonline</dt>
+<dd><a href="http://www.myjoyonline.com/services/advertise/" target="_parent">Advertise with Us</a></dd>
+<dd><a href="http://www.myjoyonline.com/services/team/" target="_parent">Online Team</a></dd>
+<dd><a href="http://www.myjoyonline.com/services/privacy/" target="_parent">Privacy Policy</a></dd>
+</div>
+</dl>
+<div class="clear"></div>
+</div><div class="clear"></div>
+</div>
+<div id="wrap_copyright">
+<div id="bg_copyright">© Copyright 2011 Myjoyonline.com &nbsp;&nbsp;All Rights Reserved.</div>
+</div>
+</div>
+<!-- Bottom Section -->
+<!-- Analytics -->
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-3783225-19']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script><!-- Analytics -->
+</body>
+</html>
+
