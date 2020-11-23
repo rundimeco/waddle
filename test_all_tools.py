@@ -7,7 +7,11 @@ from tools import *
 from generic_functions import *
 
 import warnings
-warnings.simplefilter("ignore")
+warnings.filterwarnings("ignore")
+print("-"*30)
+print("For processing the fully annotated Daniel corpus :")
+print("python test_all_tools.py -c Corpus_daniel_v2.1/")
+print("-"*30)
 
 options = get_args()
 source = "html" #
@@ -22,18 +26,18 @@ else:
 
 modes ={
         ##Comment lines to use just some tools
-	#"BP3":["", "Article", "Largest", "KeepEverything"],
+	#"BP3":["", "Article", "Largest", "KeepEverything"],##TODO: find a solution for SAX warnings
         #"DRAG":[""], ##TODO: Find a solution to deprecated joblib (sklearn) error
-	#"GOO":[""],
-	#"HTML2TEXT":[""],
-	#"INSCRIPTIS":[""],
-	#"JT":["", "_english", "_langid", "_trueLg"], 
+	"GOO":[""],
+	"HTML2TEXT":[""],
+	"INSCRIPTIS":[""],
+	"JT":["", "_english", "_langid", "_trueLg"], 
         #"NEWSPAPER":[""],
         #"NEWSPLEASE":[""],
-#	"READABILITY":[""],
-	#"TRAF":["", "Fallback", "Comments", "FallbackComments"]
-  #      "TRAF_BL":[""],
-   #     "READ_py":[""],
+	"READABILITY":[""],
+	"TRAF":["", "Fallback", "Comments", "FallbackComments"],
+        "TRAF_BL":[""],
+        "READ_py":[""],##TODO: what happens with missing css ?
         "HTML-text":[""]
 	}
 
