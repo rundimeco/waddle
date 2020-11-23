@@ -18,12 +18,7 @@ from lxml import etree, html
 
 
 def apply_tool(tool, fic, mode):
-  try:
-    str_text = read_utf8(fic)
-  except:
-    print(f"Error with '{fic}', you may need to change the encoding to utf-8")
-    str_text = read_utf8(fic, ignore = True)
-    return [""]
+  str_text = read_utf8(fic)
   if tool == "BP3":
     list_paragraphs = get_paragraphs_BP3(str_text, mode)
   elif tool == "DRAG":
@@ -59,7 +54,11 @@ def apply_tool(tool, fic, mode):
   elif tool == "TRAF_BL":
     list_paragraphs = get_paragraphs_traf_baseline(str_text, mode)
   elif tool == "READ_py":
-    list_paragraphs = get_paragraphs_readabilipy(str_text, mode)
+    try:
+      list_paragraphs = get_paragraphs_readabilipy(str_text, mode)
+    except:
+      print("Error readabilipy")
+      list_paragraphs = [""]
   elif tool == "HTML-text":
     list_paragraphs = get_paragraphs_html_text(str_text, mode)
   return list_paragraphs

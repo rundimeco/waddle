@@ -68,3 +68,10 @@ Authors: Gaël Lejeune & Adrien Barbaresi.
   Corpus/reference	reference cleaning version (needed for evaluation)
 
 ##TODO: Add instructions and a make for processing everything
+
+Node js issues (readabilipy) see : https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04-fr
+
+Encoding errors :
+utf-8 should be the norm but in fact is not
+ Some issues and possible solutions :
+ (Non-ISO extended-ASCII text) : https://superuser.com/questions/669700/non-iso-extended-ascii-text

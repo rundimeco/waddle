@@ -6,6 +6,7 @@ import langid
 import os
 import re
 import statistics as st
+import cchardet
 
 def check_done(destination, corpus_base, options):
   directory_existed = mkdirs(destination)
@@ -47,15 +48,28 @@ def mkdirs(path):
   except:
     return True
 
-def read_utf8(fic, ignore = False):
+def read_utf8(fic):
   """
   Reading files
   """
-  if ignore==True:
-    f = open(fic, "r", errors="ignore")
-  else:
+  try:
     f = open(fic, "r", encoding = "utf-8")
-  str_text = f.read()
+    str_text = f.read()
+  except:
+    print(f"   ! Encoding Issue with {fic}")
+    with open(fic, "rb") as f:
+      msg = f.read()
+      result = cchardet.detect(msg)
+      f.close()
+      detected_encoding = result["encoding"]
+    print(f"   -> detected encoding (cchardet) : {detected_encoding}")
+    try:
+      f = open(fic, "r", encoding = result["encoding"])
+      str_text = f.read()
+      print(f"   --> succesfully opened as {detected_encoding}")
+    except:
+      f = open(fic, "r", errors ="ignore")
+      str_text = f.read()
   f.close()
   return str_text
 

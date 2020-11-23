@@ -30,10 +30,10 @@ modes ={
 	#"JT":["", "_english", "_langid", "_trueLg"], 
         #"NEWSPAPER":[""],
         #"NEWSPLEASE":[""],
-	"READABILITY":[""],
+#	"READABILITY":[""],
 	#"TRAF":["", "Fallback", "Comments", "FallbackComments"]
-        "TRAF_BL":[""],
-        "READ_py":[""],
+  #      "TRAF_BL":[""],
+   #     "READ_py":[""],
         "HTML-text":[""]
 	}
 
