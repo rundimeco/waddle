@@ -8,6 +8,7 @@ from generic_functions import *
 
 import warnings
 warnings.filterwarnings("ignore")
+
 print("-"*30)
 print("For processing the fully annotated Daniel corpus :")
 print("python test_all_tools.py -c Corpus_daniel_v2.1/")
@@ -26,22 +27,21 @@ else:
 
 modes ={
         ##Comment lines to use just some tools
-	#"BP3":["", "Article", "Largest", "KeepEverything"],##TODO: find a solution for SAX warnings
-        #"DRAG":[""], ##TODO: Find a solution to deprecated joblib (sklearn) error
-	"GOO":[""],
-	"HTML2TEXT":[""],
-	"INSCRIPTIS":[""],
-	"JT":["", "_english", "_langid", "_trueLg"], 
+	"BP3":["", "Article", "Largest", "KeepEverything"],
+        #"DRAG":[""], ##TODO: Find a solution to deprecated joblib (sklearn) error AND extract_content not defined
+	#"GOO":[""],
+	#"HTML2TEXT":[""],
+	#"INSCRIPTIS":[""],
+	#"JT":["", "_english", "_langid", "_trueLg"], 
         #"NEWSPAPER":[""],
         #"NEWSPLEASE":[""],
-	"READABILITY":[""],
-	"TRAF":["", "Fallback", "Comments", "FallbackComments"],
-        "TRAF_BL":[""],
-        "READ_py":[""],##TODO: what happens with missing css ?
-        "HTML-text":[""]
+	#"READABILITY":[""],
+	#"TRAF":["", "Fallback", "Comments", "FallbackComments"],
+        #"TRAF_BL":[""],
+        #"READ_py":[""],##TODO: what happens with missing css ?
+        #"HTML-text":[""]
 	}
 
-## TODO: send warnings to a log
 diagnostic = {"empty_files":{}}
 for tool in modes.keys():
   for mode in modes[tool]:
@@ -56,7 +56,8 @@ for tool in modes.keys():
       path_out = "%s/%s"%(destination, namefic)
       if options.force==False and os.path.exists(path_out):
         continue
-      list_paragraphs = apply_tool(tool, fic, mode)
+      str_text = read_utf8(fic, options.verbose)
+      list_paragraphs = apply_tool(tool, str_text, mode)
       if list_paragraphs ==[""]:
         diagnostic.setdefault(namefic,  [])
         diagnostic[namefic].append([tool, mode])

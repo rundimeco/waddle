@@ -11,7 +11,8 @@ import cchardet
 def check_done(destination, corpus_base, options):
   directory_existed = mkdirs(destination)
   if directory_existed:
-    print("  Directory already exists :%s"%destination)
+    if options.verbose==True:
+      print("  Directory already exists :%s"%destination)
     NBdone = len(glob.glob("%s/*"%destination))
     NBtodo = len(glob.glob("%s/html/*"%corpus_base))
     if NBdone==NBtodo and options.force==False:
@@ -48,7 +49,7 @@ def mkdirs(path):
   except:
     return True
 
-def read_utf8(fic):
+def read_utf8(fic, verbose = False):
   """
   Reading files
   """
@@ -56,17 +57,19 @@ def read_utf8(fic):
     f = open(fic, "r", encoding = "utf-8")
     str_text = f.read()
   except:
-    print(f"   ! Encoding Issue with {fic}")
     with open(fic, "rb") as f:
       msg = f.read()
       result = cchardet.detect(msg)
       f.close()
       detected_encoding = result["encoding"]
-    print(f"   -> detected encoding (cchardet) : {detected_encoding}")
+    if verbose==True: 
+      print(f"   ! Encoding Issue with {fic}")
+      print(f"   -> detected encoding (cchardet) : {detected_encoding}")
     try:
       f = open(fic, "r", encoding = result["encoding"])
       str_text = f.read()
-      print(f"   --> succesfully opened as {detected_encoding}")
+      if verbose==True: 
+        print(f"   --> succesfully opened as {detected_encoding}")
     except:
       f = open(fic, "r", errors ="ignore")
       str_text = f.read()

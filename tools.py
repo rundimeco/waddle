@@ -17,8 +17,7 @@ from trafilatura.core import baseline
 from lxml import etree, html
 
 
-def apply_tool(tool, fic, mode):
-  str_text = read_utf8(fic)
+def apply_tool(tool, str_text, mode):
   if tool == "BP3":
     list_paragraphs = get_paragraphs_BP3(str_text, mode)
   elif tool == "DRAG":
@@ -76,10 +75,13 @@ def get_paragraphs_BP3(str_text, mode):
     BP_extractor = extractors.LargestContentExtractor()
   else:
     BP_extractor = extractors.KeepEverythingExtractor()
-  try: 
-    text_det = BP_extractor.get_content(str_text)
-  except:
-    text_det = ""
+  from contextlib import redirect_stderr
+  with open(os.devnull, 'w') as devnull:
+    with redirect_stderr(devnull):
+      try: 
+        text_det = BP_extractor.get_content(str_text)
+      except:
+        text_det = ""
   return re.split("\n",text_det)
 
 
