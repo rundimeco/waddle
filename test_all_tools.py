@@ -3,16 +3,11 @@ import langid
 import re
 import statistics
 import time
+import warnings
 from tools import *
 from generic_functions import *
 
-import warnings
 warnings.filterwarnings("ignore")
-
-print("-"*30)
-print("For processing the fully annotated Daniel corpus :")
-print("python test_all_tools.py -c Corpus_daniel_v2.1/")
-print("-"*30)
 
 options = get_args()
 source = "html" #
@@ -20,6 +15,10 @@ corpus_base = options.corpus_base
 liste_fic = glob.glob("%s/%s/*"%(corpus_base, source))
 if len(liste_fic)==0:
   print("No files in '%s/%s/'"%(corpus_base, source))
+  print("-"*30)
+  print("For processing the fully annotated Daniel corpus :")
+  print("python test_all_tools.py -c Corpus_daniel_v2.1/")
+  print("-"*30)
   print("exiting ...")
   exit()
 else:
@@ -28,18 +27,18 @@ else:
 modes ={
         ##Comment lines to use just some tools
 	"BP3":["", "Article", "Largest", "KeepEverything"],
-        #"DRAG":[""], ##TODO: Find a solution to deprecated joblib (sklearn) error AND extract_content not defined
-	#"GOO":[""],
-	#"HTML2TEXT":[""],
-	#"INSCRIPTIS":[""],
-	#"JT":["", "_english", "_langid", "_trueLg"], 
-        #"NEWSPAPER":[""],
-        #"NEWSPLEASE":[""],
-	#"READABILITY":[""],
-	#"TRAF":["", "Fallback", "Comments", "FallbackComments"],
-        #"TRAF_BL":[""],
-        #"READ_py":[""],##TODO: what happens with missing css ?
-        #"HTML-text":[""]
+        #"DRAG":[""], ##TODO:solution to deprecated joblib (sklearn) error
+	"GOO":[""],
+	"HTML2TEXT":[""],
+	"INSCRIPTIS":[""],
+	"JT":["", "_english", "_langid", "_trueLg"], 
+        "NEWSPAPER":[""],
+        "NEWSPLEASE":[""],
+	"READABILITY":[""],
+	"TRAF":["", "Fallback", "Comments", "FallbackComments"],
+        "TRAF_BL":[""],
+        "READ_py":[""],##TODO: what happens with missing css ?
+        "HTML-text":[""]
 	}
 
 diagnostic = {"empty_files":{}}

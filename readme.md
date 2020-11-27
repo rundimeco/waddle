@@ -75,3 +75,8 @@ Encoding errors :
 utf-8 should be the norm but in fact is not
  Some issues and possible solutions :
  (Non-ISO extended-ASCII text) : https://superuser.com/questions/669700/non-iso-extended-ascii-text
+
+
+ Windows OS issues:
+
+ - cchardet : https://github.com/PyYoshi/cChardet/issues/61

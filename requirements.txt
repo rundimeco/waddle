@@ -1,6 +1,5 @@
 langid==1.1.6
 boilerpy3==1.0.2
-dragnet==2.0.4
 goose3==3.1.6
 html2text==2020.1.16
 html_text==0.5.2
@@ -12,3 +11,4 @@ readability-lxml==0.8.1
 trafilatura==0.6.0
 readabilipy==0.2.0 
 cchardet==2.1.7
+dragnet==2.0.4
