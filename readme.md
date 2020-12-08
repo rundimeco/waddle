@@ -77,6 +77,8 @@ utf-8 should be the norm but in fact is not
  (Non-ISO extended-ASCII text) : https://superuser.com/questions/669700/non-iso-extended-ascii-text
 
 
+Current work:
  Windows OS issues:
-
+" DLL load failed while importing"
  - cchardet : https://github.com/PyYoshi/cChardet/issues/61
+ - lxml (via Goose import)
