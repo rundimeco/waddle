@@ -51,11 +51,11 @@ for path_cleaned in glob.glob(path_cleaned_all+"/*"):
     dic_global, dic_car = update_scores(dic_global, dic_car, new_scores, char, TOOL)
   results_light = display_results(dic_global, dic_car, TOOL, results_light)
 
-json_out_light = "results_light_%s.json"%dataset_name
+json_out_light = "RESULTS/results_light_%s.json"%dataset_name
 write_utf8(json_out_light, json.dumps(results_light, indent=2), verbose=True)
 
 all_results["global"] = dic_global
 all_results["characteristics"] = dic_car
 
-json_out_path = "results_%s.json"%dataset_name
+json_out_path = "RESULTS/results_%s.json"%dataset_name
 write_utf8(json_out_path, json.dumps(all_results, indent=2), verbose=True)
