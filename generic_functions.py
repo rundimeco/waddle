@@ -27,7 +27,7 @@ def get_args():
   from optparse import OptionParser
   parser = OptionParser()
   parser.add_option("-c", "--corpus_base", dest="corpus_base",
-		  default = "Corpus",
+		  default = "corpora/corpus_sample/",
                   help="Corpus to process", metavar="INPUT")
   parser.add_option("-v", "--verbose",
                    action="store_true", dest="verbose", default=False,

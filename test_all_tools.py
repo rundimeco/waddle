@@ -17,7 +17,7 @@ if len(liste_fic)==0:
   print("No files in '%s/%s/'"%(corpus_base, source))
   print("-"*30)
   print("For processing the fully annotated Daniel corpus :")
-  print("python test_all_tools.py -c Corpus_daniel_v2.1/")
+  print("python test_all_tools.py -c corpora/Corpus_daniel_v2.1/")
   print("-"*30)
   print("exiting ...")
   exit()

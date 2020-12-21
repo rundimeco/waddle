@@ -1,0 +1,13 @@
+- Corpus	: a small corpus to test the code
+- Corpus_daniel	: reannotation of the daniel-corpus (Lejeune & Zhu 2018)
+- europa	: corpus europa without dates (like in daniel-corpus)
+- europa_original: corpus europa with dates (unlike in daniel-corpus)
+
+
+
+
+
+
+REFERENCES
+
+A New Proposal for Evaluating Web Page Cleaning Tools Gaël Lejeune and Lichao Zhu, Computacion y Sistemas, p. 1249-1258 (CORE B)
