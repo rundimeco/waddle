@@ -23,7 +23,7 @@ try:
 except:
   print("Document languages for current corpus is missing : %s"%path_langues)
   print("See Corpus/doc_lg.json to see an example")
-  use_lg = False
+  use_lg = False#TODO: check if it works
 
 dataset_name = re.sub("/","", path_cleaned_all)
 liste_measures = ["precision", "recall", "f-score"]
