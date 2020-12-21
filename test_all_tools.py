@@ -40,7 +40,7 @@ modes ={
         "READ_py":[""],##TODO: what happens with missing css ?
         "HTML-text":[""]
 	}
-
+durations = {}
 diagnostic = {"empty_files":{}}
 for tool in modes.keys():
   for mode in modes[tool]:
@@ -61,7 +61,11 @@ for tool in modes.keys():
         diagnostic.setdefault(namefic,  [])
         diagnostic[namefic].append([tool, mode])
       write_utf8(path_out, "<p>%s</p>"%"</p>\n<p>".join(list_paragraphs))
-    print("  duration:%f"%(time.time()-start))
+    duration = time.time()-start
+    durations["%s(%s)"%(tool, mode)] = duration
+    print("  duration:%f"%(duration))
 
 import json
-write_utf8("diagnostics.json", json.dumps(diagnostic, indent= 2))
+
+write_utf8("%s/durations.json"%corpus_base, json.dumps(durations, indent= 2), verbose=True)
+write_utf8("%s/diagnostics.json"%corpus_base, json.dumps(diagnostic, indent= 2), verbose=True)
