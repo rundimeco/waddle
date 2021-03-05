@@ -5,11 +5,13 @@ import statistics as st
 from generic_functions import *
 from scoring_functions import get_new_scores, display_results, update_scores
 
-main_path = "Corpus"
+main_path = "corpora/corpus_sample/"
 
 if len (sys.argv)!=2:
+  print("-"*20)
   print("Usage : python evaluate_all.py PATH_CORPUS")
   print("default : %s"%(main_path))
+  print("-"*20)
 else:
   main_path = sys.argv[1]
 
@@ -34,7 +36,9 @@ dic_global= {"clean_eval":{}, "voc_eval_res":{}, "KL_res":{},
 dic_car = {x:{} for x in dic_global.keys()}
 results_light = {}
 
-for path_cleaned in glob.glob(path_cleaned_all+"/*"):
+reference_path = {"global":glob.glob(path_reference+"/*"), "lg":{}}
+
+for cpt, path_cleaned in enumerate(glob.glob(path_cleaned_all+"/*")):
   TOOL = re.split("/", path_cleaned)[-1]
   print("Evaluating %s..."%TOOL)
   all_results["cleaning_tools"].append(TOOL)
@@ -43,7 +47,11 @@ for path_cleaned in glob.glob(path_cleaned_all+"/*"):
     reference_file = path_reference+"/"+filename
 
     if use_lg:
-        char = {"lg":dic_lg[filename]}
+        LG = dic_lg[filename]
+        if cpt==0:
+          reference_path["lg"].setdefault(LG, [])
+          reference_path["lg"][LG].append(reference_file)
+        char = {"lg":LG}
 
     clean_eval_scores = evaluate_file(cleaned_file, reference_file)
     new_scores = get_new_scores(cleaned_file, reference_file)#TODO:merge
@@ -56,6 +64,7 @@ write_utf8(json_out_light, json.dumps(results_light, indent=2), verbose=True)
 
 all_results["global"] = dic_global
 all_results["characteristics"] = dic_car
+all_results["reference_files"] = reference_path
 
 json_out_path = "RESULTS/results_%s.json"%dataset_name
 write_utf8(json_out_path, json.dumps(all_results, indent=2), verbose=True)
