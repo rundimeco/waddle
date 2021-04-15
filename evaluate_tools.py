@@ -45,7 +45,7 @@ for cpt, path_cleaned in enumerate(glob.glob(path_cleaned_all+"/*")):
   for cleaned_file in glob.glob(path_cleaned+"/*"):
     filename = re.split("/", cleaned_file)[-1]
     reference_file = path_reference+"/"+filename
-    char = "default"
+    char = {"default":"def"}#TOTO:improve
     if use_lg:
         LG = dic_lg[filename]
         if cpt==0:
