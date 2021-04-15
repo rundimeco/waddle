@@ -4,7 +4,8 @@ import re, json, sys
 import statistics as st
 from generic_functions import *
 from scoring_functions import get_new_scores, display_results, update_scores
-
+import os
+os.makedirs("RESULTS", exist_ok=True)
 main_path = "corpora/corpus_sample/"
 
 if len (sys.argv)!=2:
