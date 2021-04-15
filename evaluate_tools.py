@@ -9,7 +9,7 @@ main_path = "corpora/corpus_sample/"
 
 if len (sys.argv)!=2:
   print("-"*20)
-  print("Usage : python evaluate_all.py PATH_CORPUS")
+  print("Usage : python evaluate_ttoolss.py PATH_CORPUS")
   print("default : %s"%(main_path))
   print("-"*20)
 else:
@@ -45,7 +45,7 @@ for cpt, path_cleaned in enumerate(glob.glob(path_cleaned_all+"/*")):
   for cleaned_file in glob.glob(path_cleaned+"/*"):
     filename = re.split("/", cleaned_file)[-1]
     reference_file = path_reference+"/"+filename
-
+    char = "default"
     if use_lg:
         LG = dic_lg[filename]
         if cpt==0:
