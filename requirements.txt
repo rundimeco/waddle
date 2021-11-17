@@ -4,7 +4,7 @@ goose3==3.1.6
 html2text==2020.1.16
 html_text==0.5.2
 inscriptis==1.1
-justext==2.2.0
+justext==3.0.0
 newspaper3k==0.2.8
 news-please==1.5.13
 readability-lxml==0.8.1
