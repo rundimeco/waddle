@@ -26,19 +26,19 @@ else:
 
 modes ={
         ##Comment lines to use just some tools
-	"BP3":["", "Article", "Largest", "KeepEverything"],
+	#"BP3":["", "Article", "Largest", "KeepEverything"],
         #"DRAG":[""], ##TODO:solution to deprecated joblib (sklearn) error
-	"GOO":[""],
-	"HTML2TEXT":[""],
-	"INSCRIPTIS":[""],
+	#"GOO":[""],
+	#"HTML2TEXT":[""],
+	#"INSCRIPTIS":[""],
 	"JT":["", "_english", "_langid", "_trueLg"], 
-        "NEWSPAPER":[""],
-        "NEWSPLEASE":[""],
-	"READABILITY":[""],
-	"TRAF":["", "Fallback", "Comments", "FallbackComments"],
-        "TRAF_BL":[""],
-        "READ_py":[""],##TODO: what happens with missing css ?
-        "HTML-text":[""]
+        #"NEWSPAPER":[""],
+        #"NEWSPLEASE":[""],
+	#"READABILITY":[""],
+	#"TRAF":["", "Fallback", "Comments", "FallbackComments"],
+        #"TRAF_BL":[""],
+        #"READ_py":[""],##TODO: what happens with missing css ?
+        #"HTML-text":[""]
 	}
 durations = {}
 diagnostic = {"empty_files":{}}

@@ -110,9 +110,7 @@ def get_paragraphs_JT(str_text,  mode):
   """
   using Justext
   """
-  if mode =="":
-    stop = frozenset()
-  elif mode=="_english":
+  if mode=="_english":
     stop = justext.get_stoplist("English")
   else:
     lang = get_langid(str_text)
