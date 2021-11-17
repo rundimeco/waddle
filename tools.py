@@ -103,15 +103,17 @@ def get_all_stop_words():
   stop_words = set()
   for language in justext.get_stoplists():
       stop_words.update(justext.get_stoplist(language))
-  return stop_words
+  return frozenset(stop_words)
 
 
-def get_paragraphs_JT(str_text,  mode):
+def get_paragraphs_JT(str_text,  mode=""):
   """
   using Justext
   """
   if mode=="_english":
     stop = justext.get_stoplist("English")
+  elif mode=="":
+    stop = set()
   else:
     lang = get_langid(str_text)
     if lang=="Chinese":
