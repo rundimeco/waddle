@@ -1,0 +1,7 @@
+*.json
+*.pyc
+*.swp
+__pycache__/
+corpora/*/cleaned/
+*_no-git_*
+Tutoriel_X-COTE/.ipynb_checkpoints/
