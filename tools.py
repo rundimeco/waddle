@@ -24,7 +24,10 @@ def apply_tool(tool, str_text, mode):
     text_det = extract_content(str_text)
     list_paragraphs = re.split("\n", text_det)
   elif tool=="GOO":
-    list_paragraphs = get_paragraphs_GOO(str_text, mode)
+    try:
+      list_paragraphs = get_paragraphs_GOO(str_text, mode)
+    except:
+      list_paragraphs= []
   elif tool=="HTML2TEXT":
     text_det = html2text.html2text(str_text)
     list_paragraphs = re.split("\n\n", text_det)
@@ -40,7 +43,10 @@ def apply_tool(tool, str_text, mode):
       text_det =""
     list_paragraphs = re.split("\n\n", text_det)
   elif tool == "NEWSPLEASE":
-    list_paragraphs = get_paragraphs_newsplease(str_text, mode)
+    try:
+      list_paragraphs = get_paragraphs_newsplease(str_text, mode)
+    except:
+      list_paragraphs= []
   elif tool == "READABILITY":
     try:
       text_det = Document(str_text).summary(html_partial = True)

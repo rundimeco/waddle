@@ -1,6 +1,13 @@
 
 This repository documents ongoing work on the evaluation of main text extraction from web pages.
 
+The contribution is two folds:
+- A meta-tool to use various text extarction systems at once
+- An evaluation procedure based on a reference cleaned version
+
+To come : unsupervised evaluation
+
+The evaluation tool can compare different outputs to a single reference. It can also be used to compare different versions of a text generated in other text extraction settings : OCR, ASR ....
 
 ### Installation
 
