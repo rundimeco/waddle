@@ -14,8 +14,6 @@ if len(liste_dossiers_auteurs)==0:
   print("Problème with path auteurs: pas de dossier trouvés")
   exit()
 for auteur in liste_dossiers_auteurs:
-    if "ADAM" not in auteur:
-        continue    
     reference_files = glob.glob(f"{auteur}/REF/*.txt")
     ocr_paths = glob.glob(f"{auteur}/OCR/*")
     print(re.split("/",auteur)[-2])
