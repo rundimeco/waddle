@@ -6,7 +6,10 @@ import glob
 import re
 import json
 import sys
-print("Doner le chemin des dossiers auteurs en argument (généralement DATA/)")
+if len(sys.argv)==1:
+  print("Donner le chemin des dossiers auteurs en argument (généralement DATA/)")
+  exit()
+
 path_auteurs = sys.argv[1]
 liste_dossiers_auteurs = glob.glob(f"{path_auteurs}/*")
 print(liste_dossiers_auteurs)
@@ -14,9 +17,10 @@ if len(liste_dossiers_auteurs)==0:
   print("Problème with path auteurs: pas de dossier trouvés")
   exit()
 for auteur in liste_dossiers_auteurs:
+    print("-"*20)
     reference_files = glob.glob(f"{auteur}/REF/*.txt")
     ocr_paths = glob.glob(f"{auteur}/OCR/*")
-    print(re.split("/",auteur)[-2])
+    print(re.split("/",auteur)[-1])
     print("Number of reference files : ",len(reference_files))
     print("Number of OCR versions : ",len(ocr_paths))
     for reference_file in reference_files:
@@ -31,10 +35,6 @@ for auteur in liste_dossiers_auteurs:
             #TODO: CER, WER
             json_path   = f"{ocr_file}.json"
             new_scores["clean_eval"] = clean_eval_scores
+            print("  Writing:",json_path)
             with open(json_path, "w") as w:
                 w.write(json.dumps(new_scores, indent=2))
-
-
-
-
-
