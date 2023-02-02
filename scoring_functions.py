@@ -3,6 +3,8 @@ import sys, re, glob
 from tools import *
 from cleaneval_tool import *
 import scipy
+from jiwer import wer
+from jiwer import cer
 
 def get_voc(tokens):
   d_abs= {}
@@ -62,6 +64,10 @@ def get_euclidean(dic1, dic2):
   vec1, vec2 =  dic2vec(dic1, dic2, 0)
   return scipy.spatial.distance.euclidean(vec1, vec2)
 
+def get_dice(dic1, dic2):
+  vec1, vec2 =  dic2vec(dic1, dic2, 0)
+  return scipy.spatial.distance.dice(vec1, vec2)
+
 def get_new_scores(DET_file, GT_file):
   scores= {}
   toto = ["precision", "recall", "f-score"]
@@ -77,6 +83,8 @@ def get_new_scores(DET_file, GT_file):
   scores["voc_eval_res"] = {x: get_measures(dic)[x] for x in toto}
   scores["KL_res"] = {"KL divergence":get_Kullback(GT_rel, DET_rel),
 		      "Euclidean Dist.":get_euclidean(GT_rel, DET_rel),
+                      "WER": wer(" ".join(tokens_GT), " ".join(tokens_DET)),
+                      "CER": cer(" ".join(tokens_GT), " ".join(tokens_DET)),
 		      "Cosine Dist.":get_cosine(GT_rel, DET_rel)}
   dic2 = occ_eval(GT_abs,DET_abs)
   scores["occ_eval_res"] = {x: get_measures(dic2)[x] for x in toto}
